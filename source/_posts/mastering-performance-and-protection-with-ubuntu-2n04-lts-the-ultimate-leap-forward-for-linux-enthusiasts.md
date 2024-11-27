@@ -1,7 +1,7 @@
 ---
 title: "Mastering Performance & Protection with Ubuntu 2N.04 LTS: The Ultimate Leap Forward for Linux Enthusiasts"
-date: 2024-09-19 19:30:52
-updated: 2024-09-20 10:59:26
+date: 2024-11-23T18:54:48.784Z
+updated: 2024-11-26T22:02:09.919Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-editors-ally-smooth-operation-in-m1-with-top-tools/"><u>[New] The Editor's Ally Smooth Operation in M1 with Top Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-hooking-audience-early-with-smart-intros/"><u>[Updated] In 2024, Hooking Audience Early with Smart Intros</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-screenmaster-review-the-latest-in-tech-capture-for-2024/"><u>[Updated] ScreenMaster Review The Latest in Tech Capture for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-seamless-integration-of-obs-studio-with-android-tech-for-2024/"><u>[Updated] Seamless Integration of OBS Studio with Android Tech for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-standout-book-trailer-highlights/"><u>[Updated] Standout Book Trailer Highlights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-guide-for-posting-photos-online/"><u>[Updated] The Complete Guide for Posting Photos Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-style-in-ae-title-design/"><u>[Updated] The Essence of Style in AE Title Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-zoom-a-chromebook-guide/"><u>2024 Approved Streamlining Zoom A Chromebook Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-no-charge-subtitle-makers-srt/"><u>2024 Approved The Ultimate Guide to No-Charge Subtitle Makers (SRT)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-world-of-google-ar-accessories-and-beyond/"><u>2024 Approved The World of Google AR Accessories, and Beyond</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-applying-luts-in-film-color-grading/"><u>2024 Approved Tips for Applying LUTs in Film Color Grading</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-whats-your-youtube-revenue-breakdown-per-branded-playlist/"><u>2024 Approved What's Your Youtube Revenue Breakdown per Branded Playlist?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cambia-archivos-avi-a-formato-asf-online-de-forma-gratuita-con-moviemaker/"><u>Cambia Archivos AVI a Formato ASF Online De Forma Gratuita Con MovieMaker</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/forefront-ai-explained-is-it-superior-to-openais-chatgpt/"><u>Forefront AI Explained – Is It Superior to OpenAI’s ChatGPT?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-12-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 12 With or Without Password</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-skype-noise-issues-instantly-expert-tips-included/"><u>Troubleshoot Skype Noise Issues Instantly - Expert Tips Included</u></a></li>
+</ul></div>
+

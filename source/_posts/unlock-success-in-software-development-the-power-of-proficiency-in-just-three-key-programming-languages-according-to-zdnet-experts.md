@@ -1,7 +1,7 @@
 ---
 title: "Unlock Success in Software Development: The Power of Proficiency in Just Three Key Programming Languages, According to ZDNet Experts"
-date: 2024-09-19 12:45:16
-updated: 2024-09-20 11:23:47
+date: 2024-11-24T18:16:40.093Z
+updated: 2024-11-26T20:21:41.942Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-pickup-or-something-else-unveiling-best-android-photo-editor-for-2024/"><u>[New] PickUp or Something Else? Unveiling Best Android Photo Editor for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-editors-edge-adding-sleek-fades-to-your-work/"><u>[New] The Editor's Edge Adding Sleek Fades to Your Work</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-8-free-online-havens-for-3d-text-psdfiles/"><u>[New] Top 8 FREE Online Havens for 3D Text PSDFiles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-potential-in-spotifys-ad-ecosystem/"><u>[New] Unlocking Potential in Spotify's Ad Ecosystem</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unmatched-clarity-in-filming-top-rated-camera-stabilizers-guide/"><u>[New] Unmatched Clarity in Filming Top-Rated Camera Stabilizers Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-from-tiktok-to-instagram-strategies-to-amplify-your-reels-virality/"><u>[Updated] 2024 Approved From TikTok to Instagram Strategies to Amplify Your Reel's Virality</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-mastering-digital-vaults-best-cloud-platforms-for-future-success/"><u>[Updated] 2024 Approved Mastering Digital Vaults Best Cloud Platforms for Future Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-maximizing-gopro-battery-life/"><u>[Updated] Techniques for Maximizing GoPro Battery Life</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-video-vanishing-act-heres-how-to-perform-the-counter-with-12-steps-for-2024/"><u>Facebook Video Vanishing Act? Here's How to Perform the Counter with 12 Steps for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-when-amazon-prime-video-stops-playing/"><u>Fixes for When Amazon Prime Video Stops Playing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-redmi-note-13-proplus-5g-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi Redmi Note 13 Pro+ 5G FRP?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your Apple iPhone 13?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/picture-perfect-how-to-accurately-date-your-photos/"><u>Picture Perfect How to Accurately Date Your Photos</u></a></li>
+</ul></div>
+

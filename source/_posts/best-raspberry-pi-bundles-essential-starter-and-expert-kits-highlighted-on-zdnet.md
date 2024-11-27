@@ -1,7 +1,7 @@
 ---
 title: "'Best Raspberry Pi Bundles : Essential Starter and Expert Kits Highlighted on ZDNET"
-date: 2024-09-18 11:51:51
-updated: 2024-09-20 12:13:44
+date: 2024-11-20T01:12:32.628Z
+updated: 2024-11-26T18:09:48.561Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-bridging-the-gap-facebook-to-television-screenplay/"><u>[New] 2024 Approved Bridging the Gap Facebook to Television Screenplay</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-average-income-for-youtubers-per-ad-displayed/"><u>[New] In 2024, Average Income for YouTubers per Ad Displayed?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-stopping-auto-capture-in-apples-recorder-for-2024/"><u>[New] Stopping Auto-Capture in Apple's Recorder for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essence-of-interactive-virtuality/"><u>[New] The Essence of Interactive Virtuality</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-checklist-for-crafting-distinctive-youtube-short-videos/"><u>[New] The Ultimate Checklist for Crafting Distinctive YouTube Short Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-choosing-between-obs-and-fraps-for-capture/"><u>[Updated] In 2024, Choosing Between OBS and Fraps for Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-3d-text-a-photoshop-technique/"><u>[Updated] Unleashing 3D Text A Photoshop Technique</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-upgrading-effortlessly-with-a-focus-on-key-lens-features/"><u>[Updated] Upgrading Effortlessly with a Focus on Key Lens Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-phone-personalizing-the-ios-alert-sound/"><u>2024 Approved Transform Your Phone Personalizing the iOS Alert Sound</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unveiling-sony-action-camera-x1000-performance/"><u>2024 Approved Unveiling Sony Action Camera X1000 Performance</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-s23-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy S23 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-engage-and-captivate-viewers-ultimate-tips-for-cutting-edge-youtube-edits/"><u>In 2024, Engage and Captivate Viewers Ultimate Tips for Cutting-Edge Youtube Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-assortment-of-gopro-modifications/"><u>In 2024, Ultimate Assortment of Gopro Modifications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-secrets-of-effective-job-interview-techniques/"><u>In 2024, Unlocking the Secrets of Effective Job Interview Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-cam-pro-the-ultimate-multiplecam-alternative-for-seamless-online-broadcasts/"><u>Live Cam Pro: The Ultimate MultipleCam Alternative for Seamless Online Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turning-tiktok-hits-into-personal-cellphone-chimes-for-2024/"><u>Turning TikTok Hits Into Personal Cellphone Chimes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unparalleled-narratives-yt-channels-worth-watching-in-23-for-2024/"><u>Unparalleled Narratives YT Channels Worth Watching in '23 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secret-seeing-popular-youtube-reactions-for-2024/"><u>Unveiling the Secret Seeing Popular YouTube Reactions for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/windows-11-auto-hdr-how-to-turn-on-windows-11-auto-hdr-for-2024/"><u>Windows 11 Auto HDR How to Turn on Windows 11 Auto HDR for 2024</u></a></li>
+</ul></div>
+

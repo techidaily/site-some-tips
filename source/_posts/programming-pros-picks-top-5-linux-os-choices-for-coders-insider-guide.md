@@ -1,7 +1,7 @@
 ---
 title: "Programming Pros' Picks: Top 5 Linux OS Choices for Coders - Insider Guide"
-date: 2024-09-18 21:39:25
-updated: 2024-09-20 12:40:58
+date: 2024-11-22T22:12:11.805Z
+updated: 2024-11-26T16:20:50.674Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-most-compelling-list-of-free-youtube-platforms-for-comic-book-illustrators/"><u>[New] The Most Compelling List of Free YouTube Platforms for Comic Book Illustrators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-strategy-for-superior-videos-with-vce-22/"><u>[New] The Ultimate Strategy for Superior Videos with VCE 2.2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thankful-tailings-templates-for-every-dollar-plan/"><u>[Updated] Thankful Tailings Templates for Every Dollar Plan</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thinkers-arena-premier-gk-quiz-vids/"><u>[Updated] Thinkers’ Arena Premier GK Quiz Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-most-shared-stock-photos-and-their-tales/"><u>[Updated] Top 10 Most Shared Stock Photos and Their Tales</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-leading-voice-modifying-apps-magical-calls-and-more/"><u>2024 Approved Leading Voice-Modifying Apps Magical Calls & More</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-seamless-integration-turning-audio-into-written-format-in-ms-word/"><u>2024 Approved Seamless Integration Turning Audio Into Written Format in MS Word</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-future-of-audio-extraction-with-pazera-tools-analysis/"><u>2024 Approved The Future of Audio Extraction with Pazera Tools Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-efficiently-using-look-up-tables-luts/"><u>2024 Approved The Ultimate Guide to Efficiently Using Look-Up Tables (LUTs)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-plugins-list-after-effects-edition/"><u>2024 Approved Ultimate Plugins List After Effects Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-your-creativity-in-full-rotation-best-practices-for-vr-video/"><u>2024 Approved Unleash Your Creativity in Full Rotation Best Practices for VR Video</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-announces-linda-ameurs-appointment-to-head-commerce-division-in-france-fresh-updates/"><u>ABBYY Announces Linda Améur's Appointment to Head Commerce Division in France - Fresh Updates</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-transform-your-youtube-sign-up-rate-learn-anime-subscribe-buttons-in-filmora/"><u>In 2024, Transform Your YouTube Sign-Up Rate - Learn Anime Subscribe Buttons in Filmora</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/lightning-mode-what-is-it-and-how-can-you-utilize-its-features/"><u>Lightning Mode: What Is It and How Can You Utilize Its Features?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-driven-patient-recovery-paths-for-2024/"><u>Tech-Driven Patient Recovery Paths for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-smartest-spots-to-download-trendy-whoosh-sounds-online/"><u>The Smartest Spots to Download Trendy Whoosh Sounds Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-ever-approved-reddit-threads-a-historical-list/"><u>Top 10 Ever-Approved Reddit Threads A Historical List</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-14-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 14 Pro Max Making It Possible</u></a></li>
+</ul></div>
+

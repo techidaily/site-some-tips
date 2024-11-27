@@ -1,7 +1,7 @@
 ---
 title: Mastering Programming Assistance via ChatGPT - Understanding Its Strengths & Weaknesses
-date: 2024-09-17 11:20:47
-updated: 2024-09-20 10:42:19
+date: 2024-11-21T22:18:18.395Z
+updated: 2024-11-26T22:32:28.173Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-smooth-telegram-web-use/"><u>[New] Unveiling the Secrets of Smooth Telegram Web Use</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-soundscout-audio-critique-adventure-for-2024/"><u>[Updated] SoundScout Audio Critique Adventure for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-seamless-media-magic-turning-xml-ssa-into-dynamic-srts/"><u>[Updated] The Seamless Media Magic Turning XML, SSA Into Dynamic SRTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-optimal-frames-per-second-in-cinema-slow-mo/"><u>[Updated] Understanding Optimal Frames Per Second in Cinema Slow-Mo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-5-tactics-from-experts-a-journey-of-online-brand-growth/"><u>2024 Approved Top 5 Tactics From Experts A Journey of Online Brand Growth</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-claude-2-an-in-depth-guide-to-its-capabilities/"><u>Demystifying Claude 2: An In-Depth Guide to Its Capabilities</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-m14-4gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy M14 4Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mercedes-benz-introduces-chatgpt-with-voice-control-to-its-vehicles/"><u>Mercedes-Benz Introduces ChatGPT With Voice Control to Its Vehicles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-persistent-problems-overcoming-pc-issues-in-dread-hunger/"><u>Resolving Persistent Problems: Overcoming PC Issues in Dread Hunger</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-video-editing-on-windows-11s-movie-maker-for-2024/"><u>Streamlining Video Editing on Windows 11'S Movie Maker for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/stylish-and-functional-the-top-10-gear-for-sj4000-enthusiasts-for-2024/"><u>Stylish and Functional The Top 10 Gear for SJ4000 Enthusiasts for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/tailoring-time-management-for-a-healthy-social-media-diet/"><u>Tailoring Time Management for a Healthy Social Media Diet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-platforms-for-free-skype-ringtones-for-2024/"><u>Top 4 Platforms for Free Skype Ringtones for 2024</u></a></li>
+</ul></div>
+

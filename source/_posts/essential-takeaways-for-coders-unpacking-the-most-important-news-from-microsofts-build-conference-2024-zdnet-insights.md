@@ -1,7 +1,7 @@
 ---
 title: "Essential Takeaways for Coders: Unpacking the Most Important News From Microsoft's Build Conference, 2024 | ZDNET Insights"
-date: 2024-09-18 11:48:32
-updated: 2024-09-20 10:32:39
+date: 2024-11-26T02:18:19.983Z
+updated: 2024-11-26T17:24:24.289Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -81,6 +85,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +114,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-a-streamlined-approach-to-virtual-meeting-setup-zooming-on-android-devices/"><u>[Updated] 2024 Approved A Streamlined Approach to Virtual Meeting Setup Zooming on Android Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-building-brand-identity-with-instagram-video-content-for-2024/"><u>[Updated] Building Brand Identity with Instagram Video Content for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-hidden-details-the-ultimate-guide-to-minecraft-zooming/"><u>[Updated] Unlock Hidden Details The Ultimate Guide to Minecraft Zooming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-inside-out-top-tips-for-windows-11-pros/"><u>2024 Approved Inside Out Top Tips for Windows 11 Pros</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-language-bridge-builders-top-18-tools-that-turn-videos-into-text/"><u>2024 Approved Language Bridge Builders Top 18 Tools That Turn Videos Into Text</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-walkthrough-for-android-audio-personalization/"><u>2024 Approved The Complete Walkthrough for Android Audio Personalization</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-htc-u23-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix HTC U23 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-12-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 12 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-progressive-array-of-chat-initiators-for-attracting-podcast-audience/"><u>In 2024, Progressive Array of Chat-Initiators for Attracting Podcast Audience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-pathway-to-seamless-system-enhancement-in-macos-11-big-sur/"><u>In 2024, The Pathway to Seamless System Enhancement in macOS 11 Big Sur</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-transform-your-igtv-videos-tips-for-impactful-titles-and-summaries/"><u>In 2024, Transform Your IGTV Videos Tips for Impactful Titles & Summaries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-virtual-reality-making-spherical-videos-on-iphone/"><u>In 2024, Unleashing Virtual Reality Making Spherical Videos on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-immersive-journeys-vr-tours-explained/"><u>In 2024, Unlocking Immersive Journeys VR Tours Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fundamentals-of-human-interface-recognition-for-2024/"><u>The Fundamentals of Human Interface Recognition for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-k11-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo K11 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-fixing-the-notorious-error-code-leaf-in-new-apex-update/"><u>Troubleshooting Tips for Fixing the Notorious Error Code Leaf in New Apex Update</u></a></li>
+</ul></div>
+

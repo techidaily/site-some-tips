@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Intel's New Gaudi AI Processor: The Next Big Thing in Business-Oriented Computing"
-date: 2024-09-17 14:43:36
-updated: 2024-09-20 10:43:24
+date: 2024-11-21T03:49:37.059Z
+updated: 2024-11-26T20:15:55.216Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-pages-for-stylish-shiny-3d-type-creations/"><u>[New] Top Pages for Stylish, Shiny 3D Type Creations</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-navigating-the-shift-turning-srt-into-subc/"><u>[Updated] In 2024, Navigating the Shift Turning SRT Into SUBC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-future-of-flight-hubsans-revolutionary-h501s-explored/"><u>[Updated] The Future of Flight - Hubsan's Revolutionary H501S Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-underrated-downsides-of-vr/"><u>[Updated] Understanding the Underrated Downsides of VR</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/explore-gbs-best-in-class-emulation-software-for-pc-users/"><u>Explore GB's Best in Class Emulation Software for PC Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-react-printer-disconnects-during-print-job/"><u>How To React: Printer Disconnects During Print Job</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-m14-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy M14 5Gwith/without a PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-live-tiktok-sessions-via-integrated-zoom-platforms/"><u>Mastering Live TikTok Sessions via Integrated Zoom Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-repair-guide-solving-the-projector-wont-detect-computer-dilemma-on-windows/"><u>Simple Repair Guide: Solving the 'Projector Won’t Detect Computer' Dilemma on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-comprehensive-selection-of-top-10-free-srt-changers-for-2024/"><u>The Comprehensive Selection of Top 10 FREE SRT Changers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-new-age-smartphone-a-review-of-huawei-p10s-innovations/"><u>The New Age Smartphone? A Review of Huawei P10's Innovations</u></a></li>
+</ul></div>
+

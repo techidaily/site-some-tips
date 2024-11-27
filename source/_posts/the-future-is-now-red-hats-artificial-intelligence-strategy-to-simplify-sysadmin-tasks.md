@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Now: Red Hat's Artificial Intelligence Strategy to Simplify Sysadmin Tasks"
-date: 2024-09-18 16:27:19
-updated: 2024-09-20 12:42:57
+date: 2024-11-19T23:52:30.311Z
+updated: 2024-11-27T03:32:50.135Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-creating-ootd-masterpieces-for-tiktok-with-macos/"><u>[New] Creating OOTD Masterpieces for TikTok with MacOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-live-stream-perfection-an-experts-take-on-webcams/"><u>[New] In 2024, Live Stream Perfection An Expert's Take on WebCams</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-the-realm-of-favorites-top-10-reddit-discussions-revisited/"><u>[Updated] In the Realm of Favorites Top 10 Reddit Discussions Revisited</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-premium-enterprise-sky-saver-guide/"><u>[Updated] Premium Enterprise Sky Saver Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>[Updated] Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-crafting-superior-srt-documents/"><u>2024 Approved The Art of Crafting Superior SRT Documents</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-vectors-sourcebook-top-10-list/"><u>2024 Approved The Ultimate Vectors Sourcebook - Top 10 List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bringing-old-games-back-to-life-with-retroarch-shaders/"><u>Bringing Old Games Back to Life with RetroArch Shaders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-your-brand-as-a-reviewer-of-cars-and-automotive-gear/"><u>Building Your Brand as a Reviewer of Cars and Automotive Gear</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-chuckle-chronicles-celebratory-gems-for-each-occasion/"><u>In 2024, Chuckle Chronicles Celebratory Gems for Each Occasion</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-mastering-the-art-of-captivating-vimeo-staff-picks/"><u>In 2024, Mastering the Art of Captivating Vimeo Staff Picks</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-networks-vs-online-communities-the-shift-explained/"><u>Social Networks Vs. Online Communities: The Shift Explained</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/the-ultimate-guide-8-proven-methods-to-capture-your-macs-internal-sound/"><u>The Ultimate Guide: 8 Proven Methods to Capture Your Mac's Internal Sound</u></a></li>
+</ul></div>
+

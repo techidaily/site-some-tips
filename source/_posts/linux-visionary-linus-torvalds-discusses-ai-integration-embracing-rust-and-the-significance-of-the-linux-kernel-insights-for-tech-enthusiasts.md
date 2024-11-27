@@ -1,7 +1,7 @@
 ---
 title: Linux Visionary Linus Torvalds Discusses AI Integration, Embracing Rust & The Significance of the Linux Kernel - Insights for Tech Enthusiasts
-date: 2024-09-18 17:56:29
-updated: 2024-09-20 12:21:31
+date: 2024-11-23T16:43:42.047Z
+updated: 2024-11-26T22:31:57.892Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-innovative-house-blueprints-for-snapshot-players/"><u>[New] In 2024, Innovative House Blueprints for Snapshot Players</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-unlocking-a-new-vocal-identity-in-free-fire-gaming/"><u>[New] The Ultimate Guide to Unlocking a New Vocal Identity in Free Fire Gaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-cinematic-magic-advanced-kinemaster-techniques/"><u>[Updated] Crafting Cinematic Magic Advanced Kinemaster Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-tips-for-efficient-internet-use-the-7-finest-android-apps-for-2024/"><u>[Updated] Expert Tips for Efficient Internet Use The 7 Finest Android Apps for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-quick-path-to-standout-instagram-reel-content-for-2024/"><u>[Updated] The Quick Path to Standout Instagram Reel Content for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-with-these-top-10-video-text-effects/"><u>2024 Approved Unleash Creativity with These Top 10 Video Text Effects</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-infinix-hot-30-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Infinix Hot 30 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-instagram-with-8-unique-unboxing-video-ideas/"><u>In 2024, Transform Your Instagram with 8 Unique Unboxing Video Ideas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-twitter-video-links-to-audio/"><u>In 2024, Transforming Twitter Video Links to Audio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-figmas-bg-elimination-mastery/"><u>In 2024, Unveiling Figma's BG Elimination Mastery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-texting-issues-with-android-contacts-a-comprehensive-guide/"><u>Solve iPhone Texting Issues with Android Contacts - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-webcams-revolutionizing-podcast-recording-for-2024/"><u>Superior Webcams Revolutionizing Podcast Recording for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-best-of-the-best-in-open-world-gaming-for-2024/"><u>The Best of the Best in Open World Gaming for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-invisible-recorder-how-to-save-online-music-streams-for-2024/"><u>The Invisible Recorder How to Save Online Music Streams for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-smart-search-with-bings-ai-on-your-android-device-an-easy-guide/"><u>Unlocking Smart Search with Bing’s AI on Your Android Device: An Easy Guide</u></a></li>
+</ul></div>
+

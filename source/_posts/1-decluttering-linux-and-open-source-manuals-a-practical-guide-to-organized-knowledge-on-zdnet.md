@@ -1,7 +1,7 @@
 ---
 title: "1. Decluttering Linux & Open Source Manuals: A Practical Guide to Organized Knowledge on ZDNet"
-date: 2024-09-19 16:43:49
-updated: 2024-09-20 12:21:56
+date: 2024-11-24T23:01:03.899Z
+updated: 2024-11-27T00:58:56.199Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-artisans-guide-to-backdrop-free-image-perfection-with-photopea/"><u>[New] The Artisan's Guide to Backdrop-Free Image Perfection with Photopea</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-editors-archive-curating-timeless-vhs-effects-for-the-digital-age/"><u>[New] The Editor's Archive Curating Timeless VHS Effects for the Digital Age</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-to-smooth-imports-in-windows-10-os/"><u>[Updated] Unlocking the Secrets to Smooth Imports in Windows 10 OS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-synergizing-visual-cues-with-the-right-musical-choices/"><u>2024 Approved Synergizing Visual Cues with the Right Musical Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-first-lessons-in-frame-rate-and-fidelity-for-newbies/"><u>2024 Approved The First Lessons in Frame Rate and Fidelity for Newbies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-drone-journey-full-phantom-4-features-explored/"><u>2024 Approved The Ultimate Drone Journey Full Phantom 4 Features Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-podcast-scriptwriting-with-10plus-free-examples/"><u>2024 Approved The Ultimate Guide to Podcast Scriptwriting (With 10+ Free Examples)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mov-wav-movavi/"><u>網路上無需付費 MOV到 WAV 自動更換 - MOVAVI 電影音頻轉換器</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/creating-characters-in-the-metaverse-an-easy-methodology-for-2024/"><u>Creating Characters in the Metaverse An Easy Methodology for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-logitech-gaming-mouse-software-compatible-with-windows-7-8-and-10/"><u>Download Logitech Gaming Mouse Software Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/essential-buyers-guide-to-the-budget-friendly-amazon-kindle-of-2019/"><u>Essential Buyer's Guide to the Budget-Friendly Amazon Kindle of 2019</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-12-pro-max-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 12 Pro Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-check-dji-fpv-drone-spectacles-features/"><u>In 2024, The Ultimate Check DJi FPV Drone Spectacles' Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>In 2024, Unlock Image Potential 10+ LUT Samples, Some at Zero Cost</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/inside-the-review-is-kooteks-cooling-pad-for-laptops-a-solid-choice-for-users-everywhere-find-out-here/"><u>Inside the Review: Is Kootek's Cooling Pad for Laptops a Solid Choice for Users Everywhere? Find Out Here</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-poco-c65-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-right-methods-for-updating-your-dell-cameras-software/"><u>The Right Methods for Updating Your Dell Camera's Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-scriptsmiths-network-for-2024/"><u>Ultimate Scriptsmiths Network for 2024</u></a></li>
+</ul></div>
+

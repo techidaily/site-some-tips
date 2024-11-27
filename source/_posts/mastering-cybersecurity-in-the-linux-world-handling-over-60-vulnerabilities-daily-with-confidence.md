@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cybersecurity in the Linux World: Handling Over 60 Vulnerabilities Daily with Confidence"
-date: 2024-09-18 20:32:19
-updated: 2024-09-20 11:33:23
+date: 2024-11-20T21:26:52.699Z
+updated: 2024-11-27T02:00:29.161Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +64,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -81,6 +93,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-fast-setup-moving-media-from-pc-to-your-iphone/"><u>[New] In 2024, Fast Setup Moving Media From PC To Your iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-15-online-haven-for-your-favorite-ringtone-files/"><u>[New] Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-visual-journey-in-filmmaking-insights-from-filmora-expertise/"><u>[Updated] 2024 Approved A Visual Journey in Filmmaking Insights From Filmora Expertise</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-masterclass-in-time-the-top-10-youtube-channels-for-history-students/"><u>[Updated] In 2024, Masterclass in Time The Top 10 YouTube Channels For History Students</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-content-creation-free-tools-for-downloading-vids-online/"><u>[Updated] Unlocking Content Creation Free Tools for Downloading Vids Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-premium-free-srt-translation-websites-for-business-use/"><u>[Updated] Unveiling Premium Free SRT Translation Websites for Business Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-mastering-access-free-picturing-content-streams/"><u>2024 Approved Mastering Access Free Picturing Content Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-blueprint-adding-professional-effects-to-your-videos/"><u>2024 Approved The Complete Blueprint Adding Professional Effects to Your Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-strategies-to-maximize-win11-usage/"><u>2024 Approved Top Strategies to Maximize Win11 Usage</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/discover-the-best-deal-on-microsoft-office-2019-for-both-pc-and-mac-save-big-with-a-secure-price-of-25-insights-by-zdnet/"><u>Discover the Best Deal on Microsoft Office 2019 for Both PC and Mac: Save Big with a Secure Price of $25 | Insights by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-prepare-your-amazon-echo-dot-for-initial-configuration/"><u>How to Prepare Your Amazon Echo Dot for Initial Configuration</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unmasking-the-giants-of-live-broadcast-twitch-vs-youtube/"><u>In 2024, Unmasking the Giants of Live Broadcast Twitch Vs YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unwind-twitch-feeds-immediately/"><u>In 2024, Unwind Twitch Feeds Immediately</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/innovative-audio-dramatic-writing/"><u>Innovative Audio Dramatic Writing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-samsungs-picture-editing-app/"><u>The Ultimate Guide to Samsung's Picture Editing App</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-sony-xperia-5-v-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Sony Xperia 5 V</u></a></li>
+</ul></div>
+

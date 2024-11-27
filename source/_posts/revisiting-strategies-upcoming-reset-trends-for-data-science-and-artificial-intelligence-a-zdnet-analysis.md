@@ -1,7 +1,7 @@
 ---
 title: "Revisiting Strategies: Upcoming Reset Trends for Data Science and Artificial Intelligence – A ZDNet Analysis"
-date: 2024-09-17 19:22:18
-updated: 2024-09-20 11:37:55
+date: 2024-11-21T20:51:05.707Z
+updated: 2024-11-27T04:04:35.994Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-streamlining-content-acquisition-5-ways-to-download-igtv-on-windows-and-macos/"><u>[New] Streamlining Content Acquisition 5 Ways to Download IGTV on Windows & MacOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-pp-playbook-for-silent-scene-transitions/"><u>[New] The Ultimate PP Playbook for Silent Scene Transitions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-simplified-strategies-for-instagram-photo-inclusion/"><u>[Updated] 2024 Approved Simplified Strategies for Instagram Photo Inclusion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-essential-tips-for-twitpic-uploads/"><u>2024 Approved Essential Tips for Twitpic Uploads</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-10-best-drones-for-kids-and-beginners/"><u>2024 Approved Top 10 Best Drones for Kids and Beginners</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-top-strategies-for-watching-global-cricket-events-online/"><u>Discover the Top Strategies for Watching Global Cricket Events Online</u></a></li>
+<li><a href="https://fox-within.techidaily.com/efficient-base-service-operation-techniques/"><u>Efficient Base Service Operation Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-beginner-to-champion-essential-drone-races-tips-and-best-models/"><u>In 2024, From Beginner to Champion Essential Drone Races Tips and Best Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-online-learning-downloading-youtube-srt-subtitles-using-3-simple-methods/"><u>In 2024, Streamline Your Online Learning Downloading YouTube SRT Subtitles Using 3 Simple Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-spots-for-boosting-youtube-videos/"><u>In 2024, Top-Ranked Spots for Boosting YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/talking-texts-a-beginners-guide-to-animated-instagram-captions-for-2024/"><u>Talking Texts A Beginner's Guide to Animated Instagram Captions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-role-of-crossfade-in-modern-music-mixing-for-2024/"><u>The Role of Crossfade in Modern Music Mixing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/title-genius-a-comprehensive-guide-for-2024/"><u>Title Genius A Comprehensive Guide for 2024</u></a></li>
+</ul></div>
+

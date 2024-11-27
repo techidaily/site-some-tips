@@ -1,7 +1,7 @@
 ---
 title: "Accessing the Latest Deal: Free VMware Virtualization Software for Personal Users - A Step-by-Step Guide by ZDNet"
-date: 2024-09-17 11:45:46
-updated: 2024-09-20 11:30:58
+date: 2024-11-24T21:30:15.912Z
+updated: 2024-11-27T02:01:22.379Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-telegram-edge-advanced-tactics-for-effective-promotion/"><u>[New] The Telegram Edge Advanced Tactics for Effective Promotion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-free-high-quality-subtitle-tools/"><u>[New] The Ultimate Guide to FREE, High-Quality Subtitle Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-streamlined-sea-filmmaking-techniques/"><u>[New] The Ultimate Guide to Streamlined Sea Filmmaking Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-tutorial-for-applying-video-filters-on-devices/"><u>[New] The Ultimate Tutorial for Applying Video Filters on Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-ensuring-realness-in-your-instagram-photos/"><u>[Updated] 2024 Approved Ensuring Realness in Your Instagram Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pewdiepies-annual-earnings-breakdown/"><u>[Updated] PewDiePie's Annual Earnings Breakdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-fastest-way-to-scan-windows-files/"><u>[Updated] The Fastest Way to Scan Windows Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-synergy-of-software-high-quality-text-plugins-reviewed/"><u>2024 Approved Synergy of Software High-Quality Text Plugins Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-30-new-dimensions-in-metaverse-memes/"><u>2024 Approved Unveiling 30 New Dimensions in Metaverse Memes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-gratuita-da-f4v-a-mp4-online-con-movavi-segui-il-processo-passo-dopo-passo/"><u>Conversione Gratuita Da F4V a MP4 Online Con Movavi - Segui Il Processo Passo Dopo Passo!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/duets-of-destiny-song-suggestions-for-the-big-ask/"><u>Duets of Destiny Song Suggestions for the Big Ask</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728499571004-google/"><u>Googleドライブデータをローカルサーバー上に保存する方法：詳細ガイド</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-15-pro-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 15 Pro iCloud Activation Lock</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-boost-viewership-cost-effectively-with-subscriber-purchase/"><u>In 2024, Boost Viewership Cost-Effectively with Subscriber Purchase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tailoring-podcast-sharing-for-instagram-enthusiasts/"><u>In 2024, Tailoring Podcast Sharing for Instagram Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/total-capture-trio-setup-for-2024/"><u>Total Capture Trio Setup for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-tutorial-adding-straight-lines-in-microsoft-word-efficiently/"><u>Ultimate Tutorial: Adding Straight Lines in Microsoft Word Efficiently</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/wie-sie-ihre-e-mails-aus-foxmail-systematisch-als-pst-dateien-exportieren-konnen/"><u>Wie Sie Ihre E-Mails Aus Foxmail Systematisch Als PST Dateien Exportieren Können</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/9-1/"><u>이 해에도 가장 우아하고 효과적인 동영상 회전 피드백 프로그램: 정품 선택 9개 [1월 업데이트]</u></a></li>
+</ul></div>
+

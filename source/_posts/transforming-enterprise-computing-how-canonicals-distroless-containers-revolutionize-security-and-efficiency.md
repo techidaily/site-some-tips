@@ -1,7 +1,7 @@
 ---
 title: "Transforming Enterprise Computing: How Canonical's 'Distroless' Containers Revolutionize Security and Efficiency"
-date: 2024-09-19 14:54:21
-updated: 2024-09-20 11:54:47
+date: 2024-11-20T21:44:21.485Z
+updated: 2024-11-27T04:38:27.194Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -81,6 +85,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +114,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-navigate-10-top-free-web-explorers-for-remote-collaboration-for-2024/"><u>[New] Navigate 10 Top Free Web Explorers for Remote Collaboration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-visual-storytelling-made-simple-with-windows-10s-tools/"><u>[New] The Art of Visual Storytelling Made Simple with Windows 10'S Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-easy-story-making/"><u>[Updated] The Art of Easy Story Making</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-symphony-of-selection-trailer-music-mastery/"><u>[Updated] The Symphony of Selection Trailer Music Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-review-of-asuss-4k-hdr-powerhouse/"><u>[Updated] The Ultimate Review of ASUS's 4K HDR Powerhouse</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/effective-techniques-for-eliminating-malware-and-refreshing-your-windows-computer-windows-10-and-11/"><u>Effective Techniques for Eliminating Malware & Refreshing Your Windows Computer (Windows 10 & 11)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-cannot-insert-object-error-in-excel-2021-step-by-step-guide-by-stellar-guide/"><u>Fixed Cannot Insert Object Error in Excel 2021 | Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guide-to-the-ideal-canon-video-transcoder-expert-tips-for-seamless-hd-video-downsizing-and-conversion/"><u>Guide to the Ideal Canon Video Transcoder: Expert Tips for Seamless HD Video Downsizing and Conversion</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/maximizing-your-visuals-the-ultrawide-vs-uhd-4k-debate/"><u>Maximizing Your Visuals The UltraWide vs UHD 4K Debate</u></a></li>
+<li><a href="https://some-tips.techidaily.com/synchronizing-sound-to-pixels-online-for-2024/"><u>Synchronizing Sound to Pixels Online for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-power-of-srt-in-broadcasting-for-2024/"><u>Unveiling the Power of SRT in Broadcasting for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Installation of LibreOffice for Mac Users Seeking Free Office Software Solutions
-date: 2024-11-15T07:27:38.551Z
-updated: 2024-11-17T08:50:10.727Z
+date: 2024-11-19T21:49:24.258Z
+updated: 2024-11-27T00:01:00.312Z
 tags:
   - apple
 categories:
@@ -45,10 +45,7 @@ The only thing you'll need is a macOS device (MacBook or iMac). With that in han
 ## Installing LibreOffice
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Download the installer
@@ -62,16 +59,7 @@ Downloading LibreOffice from the official site.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Install LibreOffice
@@ -89,6 +77,10 @@ Installing LibreOffice to macOS.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Delete the installer file
 
 When the installation completes (it'll take a minute or so), close out the installer, right-click the mounted LibreOffice drive, and select Eject (**Figure 4**).
@@ -100,10 +92,7 @@ Image: Jack Wallen
 ## How to open LibreOffice
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open Launchpad
@@ -119,10 +108,7 @@ Image: Jack Wallen
 Click Open and LibreOffice will finally open.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Create a new file
@@ -165,16 +151,15 @@ And that, my friends, is how you install and get started with LibreOffice on mac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-iphone-guide-to-water-reflected-imagery/"><u>[Updated] The Ultimate iPhone Guide to Water-Reflected Imagery</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-12-ultimate-insta-image-enhancers/"><u>2024 Approved 12 Ultimate Insta Image Enhancers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-striking-14-text-animation-illustrations/"><u>2024 Approved Striking 14 Text Animation Illustrations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>2024 Approved Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-asus-rog-phone-8-unlock-without-password-by-drfone-android/"><u>5 Solutions For Asus ROG Phone 8 Unlock Without Password</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-tecno-spark-20c-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Tecno Spark 20C Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-optimized-introduction-video-tips-the-best-16-to-increase-views/"><u>In 2024, Optimized Introduction Video Tips The Best 16 to Increase Views</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/registering-for-chatgpts-latest-add-on-options-a-step-by-step-guide/"><u>Registering for ChatGPT's Latest Add-On Options - A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streaming-success-implementing-green-screen-innovations-for-2024/"><u>Streaming Success Implementing Green Screen Innovations for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/techniques-for-smooth-audio-transitions-for-2024/"><u>Techniques for Smooth Audio Transitions for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices-for-2024/"><u>The Ultimate Blueprint Creating Exceptional Podcast Content on iDevices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-hp-dreamcolor-z32x-review-a-quest-for-perfection/"><u>[New] The HP DreamColor Z32X Review A Quest for Perfection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/"><u>[Updated] Image Weaving The Art of Photomontages</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-quick-guide-to-troubleshoot-instagram-videos-for-2024/"><u>[Updated] Quick Guide to Troubleshoot Instagram Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-secrets-of-editing-numerical-data-in-tiktoks/"><u>2024 Approved The Secrets of Editing Numerical Data in TikToks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-create-a-square-video-for-instragram-in-imovie-for-2024/"><u>How to Create a Square Video for Instragram in iMovie for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y56-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y56 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-mac-interface-with-speech-recognition-software-review/"><u>In 2024, Transform Your Mac Interface with Speech Recognition Software Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/strategies-for-clearer-facebook-live-footage-viewing/"><u>Strategies for Clearer Facebook Live Footage Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-instagram-image-addition-playbook-for-2024/"><u>The Instagram Image Addition Playbook for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-lowdown-on-the-samsung-galaxy-a20-an-in-depth-budget-phone-review-for-tech-enthusiasts/"><u>The Lowdown on the Samsung Galaxy A20: An In-Depth Budget Phone Review for Tech Enthusiasts</u></a></li>
 </ul></div>
 

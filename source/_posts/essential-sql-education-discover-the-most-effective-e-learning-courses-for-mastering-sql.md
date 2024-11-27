@@ -1,7 +1,7 @@
 ---
 title: "Essential SQL Education: Discover the Most Effective E-Learning Courses for Mastering SQL"
-date: 2024-09-17 14:21:12
-updated: 2024-09-20 12:10:26
+date: 2024-11-24T17:04:06.091Z
+updated: 2024-11-27T05:28:36.411Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-ultimate-guide-for-effective-periscope-use/"><u>[New] 2024 Approved The Ultimate Guide for Effective Periscope Use</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-free2x-webcam-recorder-software-review-in-depth-for-2024/"><u>[New] Free2X Webcam Recorder Software Review in Depth for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-playback-operation-for-srt-across-operating-systems/"><u>[Updated] Playback Operation for SRT Across Operating Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-smart-users-guide-to-enhancing-technology/"><u>[Updated] The Smart User's Guide to Enhancing Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-20-dynamic-anime-openers-songs/"><u>[Updated] Top 20 Dynamic Anime Openers' Songs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unfreezing-photo-booth-recordings-a-guide-to-smoother-playback/"><u>2024 Approved Unfreezing Photo Booth Recordings A Guide to Smoother Playback</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f54-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F54 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-alchemy-of-aesthetics-top-1-written-by-an-experienced-graphic-designer/"><u>In 2024, The Alchemy of Aesthetics Top 1 Written by an Experienced Graphic Designer</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-viral-vibes-a-guide-to-memetic-magic/"><u>In 2024, Viral Vibes A Guide to Memetic Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/story-lore-who-are-the-premier-channels-for-2024/"><u>Story Lore Who Are the Premier Channels for 2024</u></a></li>
+</ul></div>
+

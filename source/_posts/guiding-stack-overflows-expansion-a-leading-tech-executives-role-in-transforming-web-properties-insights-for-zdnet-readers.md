@@ -1,7 +1,7 @@
 ---
 title: "Guiding Stack Overflow's Expansion: A Leading Tech Executive's Role in Transforming Web Properties | Insights for ZDNET Readers"
-date: 2024-09-17 12:43:48
-updated: 2024-09-20 12:36:29
+date: 2024-11-22T22:12:37.325Z
+updated: 2024-11-26T18:13:21.368Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-selection-elite-iphone-call-alerts/"><u>[New] Ultimate Selection Elite iPhone Call Alerts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-effortless-online-video-access-via-vimeo-for-2024/"><u>[Updated] Effortless Online Video Access via Vimeo for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-perfect-pals-and-plotlines-the-10-best-family-flicks/"><u>[Updated] In 2024, Perfect Pals and Plotlines The 10 Best Family Flicks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-prodigious-8-cameras-enhancing-video-quality-in-broadcast/"><u>[Updated] Prodigious 8 Cameras Enhancing Video Quality in Broadcast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-taking-the-first-steps-towards-vr-technology-mobile-based-headsets-vs-cabled-gear/"><u>[Updated] Taking the First Steps Towards VR Technology Mobile-Based Headsets Vs. Cabled Gear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fuel-ambition-with-these-10-movie-masterpieces/"><u>2024 Approved Fuel Ambition with These 10 Movie Masterpieces</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-tutorial-infusing-motion-blur-into-faces-using-picsart/"><u>2024 Approved The Essential Tutorial Infusing Motion Blur Into Faces Using Picsart</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-premier-yt-storytelling-list-to-watch-in-the-year-ahead/"><u>2024 Approved The Premier YT Storytelling List to Watch in the Year Ahead</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-the-secrets-of-gpt-4-all-how-this-advanced-ai-engine-works/"><u>Discovering the Secrets of GPT- 4 All: How This Advanced AI Engine Works</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fade-to-black-in-premiere-pro-for-2024/"><u>Fade To Black In Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-text-dynamics-presets-collection/"><u>In 2024, Advanced Text Dynamics Presets Collection</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ranking-the-best-identifying-the-quintessential-5-online-title-designers/"><u>In 2024, Ranking the Best Identifying the Quintessential 5 Online Title Designers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/photo-perfection-instructions-for-text-overlay-on-windowsmacos/"><u>Photo Perfection Instructions for Text Overlay on Windows/MacOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-microphone-not-working-error-in-windows-11-step-by-step-guide/"><u>Resolving 'Microphone Not Working' Error in Windows 11 - Step by Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-tutorial-adding-whimsy-with-snapchat-cartoons-for-2024/"><u>The Ultimate Tutorial Adding Whimsy with Snapchat Cartoons for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlimited-outro-options-at-no-expense-online-for-2024/"><u>Unlimited Outro Options at No Expense Online for 2024</u></a></li>
+</ul></div>
+

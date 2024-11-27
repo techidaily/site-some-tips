@@ -1,7 +1,7 @@
 ---
 title: "Tackling Chaos in Linux & Open-Source Manuals: Discover ZDNet’s Strategic Fix for Clearer Documentation"
-date: 2024-09-19 18:15:59
-updated: 2024-09-20 11:23:17
+date: 2024-11-19T19:37:46.996Z
+updated: 2024-11-27T01:50:12.579Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -67,6 +71,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -80,6 +88,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-4-fastest-lenovo-record-methods/"><u>[New] 2024 Approved The 4 Fastest Lenovo Record Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-triple-tier-phones-the-best-choice-for-high-quality-videos/"><u>[New] Triple-Tier Phones The Best Choice for High-Quality Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-mac-display-utilizing-picture-in-picture-multimedia-features/"><u>[Updated] Transform Your Mac Display Utilizing Picture in Picture Multimedia Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-under-100-hd-cams-for-adventure-and-action/"><u>2024 Approved Best Under $100 HD Cams for Adventure and Action</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unboxing-marketing-strategy/"><u>2024 Approved Unboxing Marketing Strategy</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-distinguishing-between-youtube-content-control-and-creative-commons-flexibility/"><u>In 2024, Distinguishing Between YouTube Content Control and Creative Commons Flexibility</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-pixel-performance-from-a-start/"><u>In 2024, Understanding Pixel Performance From a Start</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unite-auditory-elements-with-visuals-in-ppt/"><u>In 2024, Unite Auditory Elements with Visuals in PPT</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1985929-9781780284729-parkers-encyclopedia-of-astrology/"><u>Parkers' Encyclopedia of Astrology | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/roku-channels-unleashed-your-guide-to-watching-them-without-a-roku-player/"><u>Roku Channels Unleashed: Your Guide to Watching Them Without a Roku Player</u></a></li>
+</ul></div>
+

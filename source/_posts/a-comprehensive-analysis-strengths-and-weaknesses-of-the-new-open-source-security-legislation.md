@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Analysis: Strengths and Weaknesses of the New Open Source Security Legislation"
-date: 2024-09-19 15:55:20
-updated: 2024-09-20 11:24:48
+date: 2024-11-19T19:14:24.378Z
+updated: 2024-11-27T04:30:32.013Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,11 +45,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-comprehensive-guide-to-changing-console-voice/"><u>[New] The Comprehensive Guide to Changing Console Voice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-shoppers-quick-guide-to-choosing-top-notch-360cams/"><u>[New] The Shopper’s Quick Guide to Choosing Top-Notch 360Cams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-10-empowering-flicks/"><u>[New] The Ultimate List 10 Empowering Flicks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlock-earnings-the-guide-to-successful-vimeo-monetization/"><u>[New] Unlock Earnings The Guide to Successful Vimeo Monetization</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-bambuser-intro-video-summary-width-x-height-encoding-seconds-for-2024/"><u>[Updated] Bambuser Intro Video Summary Width X Height, Encoding, Seconds for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-memes-with-a-smile-builder/"><u>[Updated] Top Memes with a Smile Builder</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-revolutionary-video-editor-top-tier-clarity/"><u>2024 Approved Revolutionary Video Editor Top-Tier Clarity</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-swift-moments-visual-and-auditory-sniped/"><u>2024 Approved Swift Moments Visual & Auditory Sniped</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-comprehensive-guide-to-best-trivia-shows/"><u>2024 Approved The Comprehensive Guide to Best Trivia Shows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-free-melodies-for-deep-meditation-and-inner-peace/"><u>2024 Approved Top 10 Free Melodies for Deep Meditation and Inner Peace</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-the-mystery-of-selecting-a-virtual-reality-device-tethered-connections-vs-mobility-freedom/"><u>2024 Approved Unraveling the Mystery of Selecting a Virtual Reality Device Tethered Connections vs Mobility Freedom?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-previews-revolutionary-vision-pro-with-custom-made-app-selection-of-over-600-titles-insights-from-zdnet/"><u>Apple Previews Revolutionary Vision Pro with Custom-Made App Selection of Over 600 Titles | Insights From ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/forza-horizon-cuestion-de-la-vida-o-muerte/"><u>Forza Horizon Cuestión De La Vida O Muerte</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-launching-at-optimal-times-a-podcast-guide/"><u>In 2024, Launching at Optimal Times A Podcast Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-vault-in-the-sky-for-every-picture-free-and-paid-alternatives-explored/"><u>In 2024, Vault in the Sky for Every Picture Free & Paid Alternatives Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quicklut-tweaks-for-perfect-video-output/"><u>QuickLUT Tweaks for Perfect Video Output</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reviewing-affordability-and-dependability-of-the-thermopro-tp67-instant-read-thermometer/"><u>Reviewing Affordability and Dependability of the ThermoPro TP67 Instant Read Thermometer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-shot-recorder-hunters-top-picks-for-2024/"><u>Ultimate Shot Recorder Hunters' Top Picks for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Deploy Multiple AI Models Locally: Mac & PC Solutions Without Relying on External Cloud Services"
-date: 2024-09-18 20:44:44
-updated: 2024-09-20 11:20:29
+date: 2024-11-21T00:21:24.253Z
+updated: 2024-11-27T02:59:28.957Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -56,6 +64,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-optimizing-your-youtube-stream-with-wirecast/"><u>[New] 2024 Approved Optimizing Your YouTube Stream with WireCast</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-enduring-connection-techniques-for-tiktok-profiles/"><u>[New] Enduring Connection Techniques for TikTok Profiles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-meme-playbook-no-10-essentials/"><u>[New] The Ultimate Meme Playbook No. 10 Essentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-workings-of-drones-an-introduction-for-beginners/"><u>[New] The Workings of Drones An Introduction for Beginners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-storage-enhancement-for-sony-alpha-7s-ii/"><u>[New] Ultimate Storage Enhancement for Sony Alpha 7S II</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-a-new-take-on-favorite-movies-7-alternatives-for-2024/"><u>[Updated] A New Take on Favorite Movies - #7 Alternatives for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-guide-to-defining-your-aesthetic-for-2024/"><u>[Updated] Step-by-Step Guide to Defining Your Aesthetic for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-digital-storytellings-key-concepts/"><u>2024 Approved Unveiling Digital Storytelling's Key Concepts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/freeze-entire-browser-sheet/"><u>Freeze Entire Browser Sheet</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-recurring-crashes-in-mount-and-blade-2-bannerlord-top-tips-and-tricks/"><u>How to Fix Recurring Crashes in Mount & Blade 2: Bannerlord – Top Tips and Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-initiating-an-e-giving-event-on-facebook/"><u>In 2024, The Art of Initiating an E-Giving Event on Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-drone-editors-toolkit-techniques-for-visual-excellence-for-2024/"><u>The Drone Editor's Toolkit Techniques for Visual Excellence for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-audio-respeeders-mobile-desktop-for-2024/"><u>Top-Ranked Audio Respeeders (Mobile, Desktop) for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/visual-magic-how-to-create-stunning-video-effects-from-scratch-for-2024/"><u>Visual Magic How to Create Stunning Video Effects From Scratch for 2024</u></a></li>
+</ul></div>
+

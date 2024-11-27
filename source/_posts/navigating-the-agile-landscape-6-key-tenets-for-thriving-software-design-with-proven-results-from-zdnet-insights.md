@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Agile Landscape: 6 Key Tenets for Thriving Software Design with Proven Results From ZDNet Insights"
-date: 2024-09-19 19:57:33
-updated: 2024-09-20 12:23:18
+date: 2024-11-22T23:41:27.666Z
+updated: 2024-11-27T05:30:32.499Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,6 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +64,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -73,6 +85,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +96,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-use-picture-in-picture-mode-on-youtube-ios/"><u>[New] How to Use Picture-In-Picture Mode on YouTube (iOS)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-stabilizing-snapshots-preventing-blurry-results/"><u>[New] In 2024, Stabilizing Snapshots Preventing Blurry Results</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-photographers-toolkit-essential-tips-for-cutting-edge-edits/"><u>[New] The Photographer's Toolkit Essential Tips for Cutting-Edge Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-journey-to-crafting-wow-worthy-collage-art/"><u>[Updated] The Journey to Crafting Wow-Worthy Collage Art</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-pinnacle-of-photography-top-ten-camera-lens-selections-2024/"><u>[Updated] The Pinnacle of Photography Top Ten Camera Lens Selections 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tweaking-sound-on-ps5ps4-games/"><u>[Updated] Tweaking Sound on PS5/PS4 Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-resolving-common-windows-11-photo-app-problems/"><u>2024 Approved Resolving Common Windows 11 Photo App Problems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swiftly-mastering-the-art-of-smoothing-iphone-shots-four-methods/"><u>2024 Approved Swiftly Mastering the Art of Smoothing iPhone Shots (Four Methods)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-missing-or-corrupted-wininetdll-strategies-to-restore-functionality/"><u>Dealing with Missing or Corrupted wininet.dll: Strategies to Restore Functionality</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/how-to-install-and-uninstall-audacity-for-chromebook/"><u>How to Install and Uninstall Audacity for Chromebook</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-13c-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-screenshots-and-videos-with-premier-stabilizer-gear/"><u>In 2024, Streamline Screenshots & Videos with Premier Stabilizer Gear</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-project-excellence-with-chatgpt-a-guide-to-enhanced-content-and-ideas/"><u>Mastering Project Excellence with ChatGPT: A Guide to Enhanced Content & Ideas</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premiere-pros-approach-to-clearing-iphone-video-overexposure/"><u>Premiere Pro's Approach to Clearing iPhone Video Overexposure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-post-production-with-after-effects-and-luts-for-2024/"><u>Streamlining Post Production with After Effects and LUTs for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-12-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Xiaomi Redmi 12 Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-innovation-in-desktop-computers-for-2024/"><u>Ultimate Innovation in Desktop Computers for 2024</u></a></li>
+</ul></div>
+

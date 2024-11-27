@@ -1,7 +1,7 @@
 ---
 title: Navigating the Shift in IT Job Trajectories Thanks to Cloud Advancements - Expert Analysis by ZDNet
-date: 2024-09-17 13:36:53
-updated: 2024-09-20 10:38:38
+date: 2024-11-20T18:59:27.083Z
+updated: 2024-11-26T16:16:15.658Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-twirl-forge-instruments/"><u>[New] 2024 Approved Twirl Forge Instruments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-apex-of-mobile-photography-with-ios-11/"><u>[New] Exploring the Apex of Mobile Photography with iOS 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-innovation-in-viewing-top-5-webcams-recommended-for-gamers-for-2024/"><u>[New] Innovation in Viewing Top 5 Webcams Recommended for Gamers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-path-to-effective-marketing-best-practices-for-health-promos/"><u>[New] The Path to Effective Marketing Best Practices for Health Promos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-creativity-in-iphone-videography-8-best-practices/"><u>[New] Unleashing Creativity in iPhone Videography 8 Best Practices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-top-facebook-song-videos-unveiled-a-making-of-chronicle/"><u>[Updated] In 2024, Top Facebook Song Videos Unveiled A Making-Of Chronicle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-cutting-edge-of-vid-extraction-top-5-free-fast-pinterest-tools/"><u>[Updated] The Cutting Edge of Vid Extraction Top 5 Free, Fast Pinterest Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-fine-tuning-snapchat-video-velocity/"><u>[Updated] The Ultimate Guide Fine-Tuning Snapchat Video Velocity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-technicalities-of-podcast-rss-file-design/"><u>2024 Approved The Technicalities of Podcast RSS File Design</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capturing-life-on-a-macbook-air-the-comprehensive-guide-to-screen-recording/"><u>Capturing Life on a MacBook Air The Comprehensive Guide to Screen Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-streaming-gear-top-hd-360-cameras-compared/"><u>Elite Streaming Gear Top HD 360° Cameras Compared</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-free-templates-for-engaging-presentations-and-slideshows/"><u>In 2024, Top 10 Free Templates for Engaging Presentations and Slideshows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722957482635-speedy-links-secure-your-network-with-linksys-wrt32x-firmware-download-now/"><u>Speedy Links: Secure Your Network with Linksys WRT32X Firmware - Download Now!</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/steps-to-recover-sms-history-from-your-previous-mobile-number/"><u>Steps to Recover SMS History From Your Previous Mobile Number</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-exploring-youtube-comments-for-2024/"><u>The Essential Guide to Exploring YouTube Comments for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-ustreams-offerings-and-opponents-for-2024/"><u>Unveiling Ustream's Offerings and Opponents for 2024</u></a></li>
+</ul></div>
+

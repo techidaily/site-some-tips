@@ -1,7 +1,7 @@
 ---
 title: "The Rising Popularity: Understanding the Renewed Interest in OpenStack & Kata Containers"
-date: 2024-09-18 15:12:36
-updated: 2024-09-20 11:42:32
+date: 2024-11-20T21:27:51.199Z
+updated: 2024-11-27T05:29:26.760Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -40,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -67,11 +75,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -92,6 +108,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-facebooks-prime-video-snatchers/"><u>[New] In 2024, Facebook's Prime Video Snatchers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-panoramic-portals-cutting-edge-filmscapes/"><u>[Updated] Panoramic Portals Cutting-Edge Filmscapes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essential-guide-to-transferring-tunes-across-platforms/"><u>[Updated] The Essential Guide to Transferring Tunes Across Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-milestones-of-vegaspros-2019-upgrade/"><u>[Updated] The Milestones of VegasPro's 2019 Upgrade</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unleash-creativity-on-instagrams-reels-frontier-for-2024/"><u>[Updated] Unleash Creativity on Instagram's Reels Frontier for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-strategies-to-attain-facebooks-prestige-blue-icon/"><u>2024 Approved Strategies to Attain Facebook’s Prestige Blue Icon</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-this-years-premier-trivia-broadcasting-titles/"><u>2024 Approved Unveiling This Year's Premier Trivia Broadcasting Titles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/fast-track-to-excellent-valorant-thumbnails-artistry-for-2024/"><u>Fast-Track to Excellent Valorant Thumbnails Artistry for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-cyberpunk-2077-pc-stability-expert-tips-to-prevent-game-crashes/"><u>Fixing Cyberpunk 2077 PC Stability: Expert Tips to Prevent Game Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-stream-the-roku-channel-without-owning-an-actual-roku-device/"><u>How to Stream the Roku Channel Without Owning an Actual Roku Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-troubleshooting-companion-restoring-srt-functionality-in-premiere/"><u>In 2024, The Troubleshooting Companion Restoring SRT Functionality in Premiere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-basics-of-picture-in-picture-in-ff-for-2024/"><u>The Basics of Picture-in-Picture in FF for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites-for-2024/"><u>The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-newest-lg-bp550-specs-for-2024/"><u>Ultimate Guide Newest LG BP550 Specs for 2024</u></a></li>
+</ul></div>
+

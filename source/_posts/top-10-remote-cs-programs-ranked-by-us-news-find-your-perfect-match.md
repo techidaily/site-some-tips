@@ -1,7 +1,7 @@
 ---
 title: Top 10 Remote CS Programs Ranked by U.S. News - Find Your Perfect Match
-date: 2024-09-18 17:11:47
-updated: 2024-09-20 12:39:17
+date: 2024-11-24T03:24:54.969Z
+updated: 2024-11-26T17:46:03.223Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,11 +45,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -56,6 +68,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -123,6 +139,10 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-dynamics-behind-tseries-youtube-earning-patterns/"><u>[New] In 2024, The Dynamics Behind TSeries' YouTube Earning Patterns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-audio-transformation-tools-unleash-voices/"><u>[New] Superior Audio Transformation Tools Unleash Voices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-money-potential-a-beginners-guide-on-periscope/"><u>[New] Unlocking Money Potential A Beginner's Guide on Periscope</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cut-the-clutter-structuring-videos-with-chapter-tags/"><u>[Updated] Cut the Clutter Structuring Videos with Chapter Tags</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-simplified-steps-to-documenting-fb-chats-and-calls/"><u>[Updated] In 2024, Simplified Steps to Documenting FB Chats and Calls</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-swift-strategies-for-instagram-reel-success/"><u>[Updated] Swift Strategies for Instagram Reel Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-15-advanced-techniques-in-sports-broadcasting/"><u>[Updated] Unveiling 15 Advanced Techniques in Sports Broadcasting</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ue-cinematography-in-the-digital-realm-for-2024/"><u>Antique Cinematography in the Digital Realm for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726226600724-asfmp3movavi/"><u>ASFからMP3へ自由に変換！オンラインで使えるMovaviツール – 無料対応</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experiencing-powerhouse-pc-with-customizable-features-from-ibuypower-a-review-for-gamers-seeking-quality-and-value/"><u>Experiencing Powerhouse PC with Customizable Features From IBUYPOWER – A Review for Gamers Seeking Quality and Value</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-correcting-the-missing-audio-device-installation-error-on-your-windows-11-pc/"><u>Guide: Correcting the Missing Audio Device Installation Error on Your Windows 11 PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-artists-blueprint-10-tips-for-podcast-cover-success/"><u>In 2024, The Artist's Blueprint 10 Tips for Podcast Cover Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-power-of-montage-in-digital-media/"><u>In 2024, Unlock the Power of Montage in Digital Media</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-into-mr-beasts-economic-landscape/"><u>Peering Into Mr. Beast's Economic Landscape</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-hilarity-driven-ringtones-for-laughter-lovers-for-2024/"><u>Top Picks Hilarity-Driven Ringtones for Laughter Lovers for 2024</u></a></li>
+</ul></div>
+

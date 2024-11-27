@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: Intel's AI Leader Wei Li on Democratizing Advanced AI Supercomputing for Everyday Use - Insights From ZDNet"
-date: 2024-09-18 17:16:20
-updated: 2024-09-20 11:35:17
+date: 2024-11-23T23:57:06.903Z
+updated: 2024-11-26T23:42:47.841Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +80,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-love-ballads-ideal-tunes-for-a-heartfelt-proposal/"><u>[New] Ultimate Love Ballads Ideal Tunes for a Heartfelt Proposal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-360-live-streaming-cameras-for-youtube-and-facebook/"><u>2024 Approved Top 360 Live Streaming Cameras for YouTube and Facebook</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-15-pro-max-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 15 Pro Max without App | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s21-fe-5g-2023-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy S21 FE 5G (2023) support MKV video files?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/expert-analysis-of-zooms-best-audio-to-text-software-options-freesubscription/"><u>Expert Analysis of Zoom's Best Audio to Text Software Options (Free/Subscription)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-epson-wf-2750-drivers-installed-in-minutes/"><u>Get the Latest Epson WF-2750 Drivers Installed in Minutes!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-obtain-and-upgrade-your-canon-mg490-windows-printing-software/"><u>How to Obtain and Upgrade Your Canon MG490 Windows Printing Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-reno-8t-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Reno 8T Location by Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>In 2024, Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-through-a-photographers-eye-our-best-10-lenses-list/"><u>In 2024, Through a Photographer's Eye Our Best 10 Lenses List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-vision-into-reality-essential-movies-maker-skills-on-windows-8/"><u>In 2024, Transform Your Vision Into Reality Essential Movies Maker Skills on Windows 8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-potential-current-vr-innovations-for-2024/"><u>Unleashing Potential Current VR Innovations for 2024</u></a></li>
+</ul></div>
+

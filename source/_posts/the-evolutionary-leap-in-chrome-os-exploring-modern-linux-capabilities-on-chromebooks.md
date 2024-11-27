@@ -1,7 +1,7 @@
 ---
 title: "The Evolutionary Leap in Chrome OS: Exploring Modern Linux Capabilities on Chromebooks"
-date: 2024-09-18 13:56:35
-updated: 2024-09-20 10:23:20
+date: 2024-11-21T19:35:24.701Z
+updated: 2024-11-27T03:08:30.401Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -73,6 +81,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-final-cut-pros-premier-top-10-plugins/"><u>[New] Final Cut Pro's Premier Top 10 Plugins</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-first-steps-to-creating-a-successful-online-stream/"><u>[Updated] The First Steps to Creating a Successful Online Stream</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-scripts-across-eight-film-categories/"><u>2024 Approved Top Scripts Across Eight Film Categories</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/crafting-soft-declines-in-volume-using-audacity-for-2024/"><u>Crafting Soft Declines in Volume Using Audacity for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-evaluating-active-presenter-8s-performance/"><u>In 2024, Evaluating Active Presenter 8'S Performance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-infinix-smart-7-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Infinix Smart 7 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/join-the-global-fight-against-covid-19-with-together-at-home-a-virtual-concert-experience/"><u>Join the Global Fight Against COVID-19 with 'Together at Home': A Virtual Concert Experience</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/oneplus-9-pro-review/"><u>OnePlus 9 Pro Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-photo-collages-with-picshot-for-2024/"><u>The Evolution of Photo Collages with Picshot for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-collective-views-on-vllo-for-2024/"><u>Understanding Collective Views on VLLO for 2024</u></a></li>
+</ul></div>
+

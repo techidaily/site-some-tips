@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Revival: How OpenStack & Kata Containers Gain New Traction in Tech Industry | ZDNet"
-date: 2024-09-17 15:27:55
-updated: 2024-09-20 10:49:48
+date: 2024-11-19T18:00:44.407Z
+updated: 2024-11-27T00:45:24.269Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-3-efficient-methods-for-saving-youtubes-standardized-images/"><u>[New] In 2024, 3 Efficient Methods for Saving YouTube's Standardized Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-a-comprehensive-look-at-merging-youtube-content-into-instagrams-story-feature/"><u>[New] In 2024, A Comprehensive Look at Merging YouTube Content Into Instagram's Story Feature</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-maximize-your-youtube-yields-small-channel-sponsorship-strategies/"><u>[New] In 2024, Maximize Your YouTube Yields Small Channel Sponsorship Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-innovation-in-social-media-redefining-the-role-of-facebook-stories/"><u>[New] Innovation in Social Media Redefining the Role of Facebook Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streaming-masterminds-choice-go-with-pmix-or-castpro/"><u>[New] Streaming Masterminds' Choice Go with PMix or CastPro?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-tips-for-creating-engaging-screencasts/"><u>[Updated] Expert Tips for Creating Engaging Screencasts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ignite-interest-essential-themes-for-engaging-channels/"><u>[Updated] Ignite Interest Essential Themes for Engaging Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-live-soundscape-websites/"><u>[Updated] Ultimate Live Soundscape Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unwind-and-learn-your-guide-to-podcasting-multitasking/"><u>[Updated] Unwind and Learn Your Guide to Podcasting Multitasking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-subtle-shadows-perfectly-blurred-iphone-photos-explained/"><u>2024 Approved Subtle Shadows Perfectly Blurred iPhone Photos Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transitioning-photos-from-physical-to-digital-storage/"><u>2024 Approved Transitioning Photos From Physical to Digital Storage</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-epson-xp-640-printer-driver-in-windows/"><u>How to Install the Latest Epson XP-640 Printer Driver in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-tutorial-from-gif-art-to-sticky-fun-on-social-media/"><u>In 2024, The Essential Tutorial From GIF Art to Sticky Fun on Social Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-pioneers-guide-to-gopro-and-timelapse-magic/"><u>In 2024, The Pioneer's Guide to GoPro and Timelapse Magic</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957707630-temperature-ranges-during-different-growth-stages-from-spore-germination-to-fruiting-bodies-emergence/"><u>Temperature Ranges During Different Growth Stages From Spore Germination to Fruiting Bodies Emergence.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-iphone-hdr-photography-skills-for-2024/"><u>The Essential iPhone HDR Photography Skills for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-practices-to-personalize-snapchat-video-playback-for-2024/"><u>Top Practices to Personalize Snapchat Video Playback for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-iphone-13-protective-cases-featuring-magsafe-tech-stylish-aesthetic-and-enhanced-durability-experts/"><u>Top Rated Apple iPhone 13 Protective Cases Featuring MagSafe Tech, Stylish Aesthetic, and Enhanced Durability Experts</u></a></li>
+</ul></div>
+

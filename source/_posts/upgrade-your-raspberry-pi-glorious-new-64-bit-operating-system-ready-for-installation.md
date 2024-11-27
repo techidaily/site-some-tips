@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Your Raspberry Pi: Glorious New 64-Bit Operating System Ready for Installation"
-date: 2024-09-19 19:19:12
-updated: 2024-09-20 10:57:29
+date: 2024-11-20T21:44:10.578Z
+updated: 2024-11-27T03:40:01.679Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -66,6 +70,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-efficient-video-editing-with-timestamps-and-on-screen-text-for-2024/"><u>[New] Efficient Video Editing with Timestamps & On-Screen Text for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-10-best-inspirational-movies-that-will-make-you-feel-motivated/"><u>[New] In 2024, 10 Best Inspirational Movies That Will Make You Feel Motivated</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-ultimate-guide-to-top-online-tools-for-perfecting-your-video-subtitles/"><u>[New] In 2024, The Ultimate Guide to Top Online Tools for Perfecting Your Video Subtitles</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-seamless-transition-of-tweeted-vids-to-snappy-ends-for-2024/"><u>[Updated] The Seamless Transition of Tweeted Vids to Snappy Ends for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-snapchats-spotlight-mechanics/"><u>2024 Approved Unlocking Snapchat's Spotlight Mechanics</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oneplus-11r-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your OnePlus 11R Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-insights-unleashing-the-full-potential-of-craft-on-your-macbook/"><u>Expert Insights: Unleashing the Full Potential of Craft on Your MacBook</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-magic-v2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Magic V2 Without Password | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-users-manual-for-fcp-power-users/"><u>In 2024, The Complete User's Manual for FCP Power Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-instagram-mavens-guide-to-spectaculous-unboxing-reels/"><u>In 2024, The Instagram Maven's Guide to Spectaculous Unboxing Reels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-quick-route-from-srt-to-text-txt-files/"><u>In 2024, The Ultimate, Quick Route From SRT to Text (TXT) Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-potential-in-media-production-via-xp/"><u>In 2024, Unleash Potential in Media Production via XP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taking-stock-of-magix-project-management-app-for-2024/"><u>Taking Stock of MAGIX Project Management App for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-blueprint-to-establishing-an-online-review-community-for-toys-for-2024/"><u>The Blueprint to Establishing an Online Review Community for Toys for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-movie-journey-for-inspiration-seekers-for-2024/"><u>The Ultimate Movie Journey for Inspiration Seekers for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-7-devices-to-power-your-metaverse-experience-for-2024/"><u>Top 7 Devices to Power Your Metaverse Experience for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turning-images-into-scenes-syncing-beats-for-2024/"><u>Turning Images Into Scenes, Syncing Beats for 2024</u></a></li>
+</ul></div>
+

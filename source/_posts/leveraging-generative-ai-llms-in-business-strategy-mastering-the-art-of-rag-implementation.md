@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Generative AI LLMs in Business Strategy: Mastering the Art of RAG Implementation"
-date: 2024-09-18 15:57:51
-updated: 2024-09-20 12:58:36
+date: 2024-11-25T04:20:37.405Z
+updated: 2024-11-26T18:53:16.293Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-beginners-guide-to-choosing-lenses-and-cameras-for-youtube-vloggers-for-2024/"><u>[New] Beginner's Guide to Choosing Lenses and Cameras for YouTube Vloggers for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-efficiently-transforming-ttml-and-xml-into-high-quality-srts/"><u>[New] Efficiently Transforming TTML and XML Into High-Quality SRTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-subtlety-in-volume-reduction-for-audacity-projects/"><u>[New] Subtlety in Volume Reduction for Audacity Projects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-story-a-guide-to-crafting-engaging-podcast-episodes/"><u>[New] Tailoring Your Story A Guide to Crafting Engaging Podcast Episodes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-using-b-roll-to-enhance-cinematic-quality/"><u>[Updated] 2024 Approved Using B-Roll to Enhance Cinematic Quality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-high-definition-mastery-best-hd-screen-recorder-selections-for-2024/"><u>[Updated] High Definition Mastery Best HD Screen Recorder Selections for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-effortless-youtube-income-computations/"><u>[Updated] In 2024, Effortless YouTube Income Computations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-pioneering-technologies-vr-applications/"><u>[Updated] Pioneering Technologies VR Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-overload-efficiently-editing-oversized-tiktok-drafts/"><u>[Updated] Streamline Overload Efficiently Editing Oversized TikTok Drafts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-full-potential-of-media-player-through-subtitles/"><u>[Updated] Unlock the Full Potential of Media Player Through Subtitles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-shots-a-windows-11-guide/"><u>2024 Approved Streamline Your Shots A Windows 11 Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-video-projects-using-movie-maker-on-windows-8/"><u>2024 Approved Streamline Your Video Projects Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/access-unlimited-free-live-videos-begin-your-downloads-now/"><u>Access Unlimited Free Live Videos - Begin Your Downloads Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-transforming-png-images-into-gifs-with-ease-movavi/"><u>Free Online Converter: Transforming PNG Images Into GIFs with Ease - Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/grosste-und-beste-anime-serie-seiten-fur-kostenlose-streams-2016/"><u>Größte Und Beste Anime-Serie-Seiten Für Kostenlose Streams (2016)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-11-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone 11 and iPad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-collection-of-film-scripts-by-genre/"><u>In 2024, The Ultimate Collection of Film Scripts by Genre</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210632550-9780760359068-the-mindfulness-in-knitting/"><u>The Mindfulness in Knitting | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-imaging-expertise-in-adobes-high-dynamic-range-for-2024/"><u>Transform Imaging Expertise in Adobe's High Dynamic Range for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Transforming Governance Through Openness: The Swiss Federal Administration Adopts Open Source Initiative for Public Software"
-date: 2024-09-17 13:19:21
-updated: 2024-09-20 10:38:46
+date: 2024-11-24T16:15:56.417Z
+updated: 2024-11-27T03:24:03.632Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-windows-leading-video-chat-pros-top-8/"><u>[New] In 2024, Windows' Leading Video Chat Pros Top 8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-smart-picture-editing-using-pixlr/"><u>[New] The Ultimate Guide to Smart Picture Editing Using Pixlr</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-how-to-for-finding-freely-available-pictorial-frames/"><u>[Updated] The How-To for Finding Freely Available Pictorial Frames</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-strategy-for-high-quality-remote-recordings/"><u>[Updated] The Ultimate Strategy for High-Quality Remote Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-dynamics-of-gopros-burst-capture-capabilities/"><u>2024 Approved The Dynamics of GoPro's Burst Capture Capabilities</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-practical-steps-to-enhance-videos-with-device-based-filtering/"><u>In 2024, Practical Steps to Enhance Videos with Device-Based Filtering</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-memes-edit-master/"><u>In 2024, Ultimate Memes Edit Master</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/selecting-the-perfect-no-fee-video-communication-tools/"><u>Selecting the Perfect No-Fee Video Communication Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/substitutes-for-winmovie-new-windows-editors-for-2024/"><u>Substitutes for WinMovie New Windows Editors for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015114600-trouble-with-noisy-meetings-restore-sound-in-zoom-on-your-desktop-computer/"><u>Trouble with Noisy Meetings? Restore Sound in Zoom on Your Desktop Computer.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-asmrs-potential-benefits-for-you-for-2024/"><u>Understanding ASMR's Potential Benefits for You for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-pixel-slate-experience-issues-with-chromeos-explored/"><u>Unpacking the Pixel Slate Experience: Issues with ChromeOS Explored</u></a></li>
+</ul></div>
+

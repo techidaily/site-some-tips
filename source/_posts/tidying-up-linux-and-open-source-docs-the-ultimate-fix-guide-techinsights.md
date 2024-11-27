@@ -1,7 +1,7 @@
 ---
 title: "Tidying Up Linux & Open Source Docs: The Ultimate Fix Guide | TechInsights"
-date: 2024-09-17 10:18:11
-updated: 2024-09-20 10:28:55
+date: 2024-11-22T05:18:39.428Z
+updated: 2024-11-26T21:51:05.653Z
 tags:
   - developer
 categories:
@@ -57,6 +57,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-oculus-the-premium-vr-gaming-headset/"><u>[New] Mastering Oculus The Premium VR Gaming Headset</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-and-science-of-broadcasting-in-real-time/"><u>[New] The Art and Science of Broadcasting in Real Time</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unpacking-the-dji-phantom-3-standard-features/"><u>[New] Unpacking the DJI Phantom 3 Standard Features</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-preventing-and-addressing-live-pause-issues-fb/"><u>[Updated] In 2024, Preventing and Addressing Live Pause Issues (FB)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-magic-behind-the-lens-iphone-xs-groundbreayer-camera-tech/"><u>[Updated] The Magic Behind the Lens IPhone X's Groundbreayer Camera Tech</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-complete-guide-to-mastering-powerdirector-software/"><u>2024 Approved The Complete Guide to Mastering PowerDirector Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tech-gems-best-desktops-revealed/"><u>2024 Approved Ultimate Tech Gems - Best Desktops Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-ultimate-8-ranked-apps-mobile-video-tile-masters-freepaid/"><u>2024 Approved Unveiling the Ultimate #8 Ranked Apps Mobile Video Tile Masters (Free/Paid)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-vector-fundamentals-unpacked-for-novices-categories-and-software/"><u>2024 Approved Vector Fundamentals Unpacked for Novices, Categories & Software</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-open-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-xs-max-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone XS Max</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-bridge-the-gap-youtube-tweet-functionality/"><u>In 2024, Bridge the Gap YouTube Tweet Functionality</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-v27-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo V27 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-channel-transformation-unleash-potential-with-tubebuddy/"><u>In 2024, Channel Transformation Unleash Potential with TubeBuddy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-techniques-for-finding-no-cost-image-frame-films/"><u>In 2024, Techniques for Finding No-Cost Image Frame Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-photographic-edge-cutting-edge-editing-strategies/"><u>In 2024, The Photographic Edge Cutting-Edge Editing Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo T2 5G | Dr.fone</u></a></li>
+</ul></div>
+

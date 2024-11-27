@@ -1,7 +1,7 @@
 ---
 title: Mastering RAG Technology Integration with Enterprise Intelligence - Strategies From ZDNet
-date: 2024-09-18 17:14:32
-updated: 2024-09-20 10:26:59
+date: 2024-11-19T21:17:04.150Z
+updated: 2024-11-27T03:33:01.804Z
 tags:
   - developer
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -93,6 +97,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +111,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +122,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-comprehensive-guide-to-10-best-meme-patterns/"><u>2024 Approved The Comprehensive Guide to #10 Best Meme Patterns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultima-designs-analysis-pinnacle-suite-studio-2023-overview/"><u>2024 Approved Ultima Designs Analysis Pinnacle Suite Studio, 2023 Overview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-review-of-lg-bp350-for-home-theaters/"><u>2024 Approved Ultimate Review of LG BP350 for Home Theaters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-creativity-top-20-vlogger-themes/"><u>2024 Approved Unlocking Creativity Top 20 Vlogger Themes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-windows-11s-hidden-secrets-for-media-upload/"><u>2024 Approved Unveiling Windows 11'S Hidden Secrets for Media Upload</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/behind-the-scenes-manycams-recording-system-evolution-for-2024/"><u>Behind the Scenes ManyCam's Recording System Evolution for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-advantages-of-claude-3-and-why-its-time-to-move-beyond-chatgpt/"><u>Discover the Advantages of Claude 3 and Why It's Time to Move Beyond ChatGPT</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-sony-xperia-5-vwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Sony Xperia 5 Vwith/without a PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-realme-gt-5-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Realme GT 5</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-syncopate-screen-a-beginners-guide-to-mobile-video-making/"><u>In 2024, Syncopate Screen A Beginner's Guide to Mobile Video Making</u></a></li>
+<li><a href="https://facebook.techidaily.com/leveraging-facebooks-today-memory-recollection/"><u>Leveraging Facebook's Today Memory Recollection</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/no-cost-treasures-aplus-ae-template-collections/"><u>No-Cost Treasures A+ AE Template Collections</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-onedrive-sync-fails-in-windows-os/"><u>Solutions for OneDrive Sync Fails in Windows OS</u></a></li>
+</ul></div>
+

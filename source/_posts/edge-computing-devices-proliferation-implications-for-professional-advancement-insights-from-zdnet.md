@@ -1,7 +1,7 @@
 ---
 title: "Edge Computing Devices Proliferation: Implications for Professional Advancement - Insights From ZDNet"
-date: 2024-09-18 12:27:24
-updated: 2024-09-20 10:55:49
+date: 2024-11-25T20:54:01.736Z
+updated: 2024-11-26T18:07:47.512Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -73,6 +77,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-revolutionize-your-reacting-skills-with-these-3-pro-level-youtube-tips/"><u>[New] In 2024, Revolutionize Your Reacting Skills with These 3 Pro-Level YouTube Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-stay-focused-with-no-youtube-thumbnail-view/"><u>[New] Stay Focused with No YouTube Thumbnail View</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-composers-toolkit-for-flawless-image-finishing/"><u>[New] The Composer's Toolkit for Flawless Image Finishing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-secrets-to-penning-popular-vlog-dialogue-plans/"><u>[New] The Secrets to Penning Popular Vlog Dialogue Plans</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-adding-youtube-music-to-video/"><u>[New] Tips For Adding YouTube Music To Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-how-to-easily-disableremove-youtube-shorts-permanently/"><u>[Updated] 2024 Approved How to Easily Disable/Remove YouTube Shorts Permanently?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infusing-your-art-with-captivating-collage-vistas/"><u>[Updated] Infusing Your Art with Captivating Collage Vistas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-closer-look-approach-to-team-collaboration/"><u>[Updated] The Closer Look Approach to Team Collaboration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-dji-spark-compact-drone-mastery-for-photographers/"><u>[Updated] Unveiling the DJI Spark Compact Drone Mastery for Photographers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors/"><u>2024 Approved The Photo Keeper’s Companion Unlimited Free Options & Elite Subscription Saviors</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Motorola ?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effective-solutions-to-overcome-ralink-rt3290-drivers-glitches-in-windows-7-8-and-10-environments/"><u>Effective Solutions to Overcome Ralink RT3290 Drivers Glitches in Windows 7, 8 & 10 Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-what-to-do-when-your-sennheiser-gaming-mic-wont-work-anymore/"><u>Expert Advice: What to Do When Your Sennheiser Gaming Mic Won't Work Anymore</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-tecno-pop-8-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Tecno Pop 8 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-enabling-instant-access-to-youtube-videos-in-your-facebook-browsing/"><u>In 2024, Enabling Instant Access to YouTube Videos in Your Facebook Browsing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-online-meetings-zoom-for-win10/"><u>In 2024, Streamlining Online Meetings Zoom for WIN10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-hdri-magic-compreranial-sdr-to-high-dynamic-range-upgrade/"><u>In 2024, Unlock HDRI Magic Compreranial SDR to High Dynamic Range Upgrade</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unlock-the-best-deal-final-cut-pro-education-discount-inside-for-2024/"><u>Updated Unlock the Best Deal Final Cut Pro Education Discount Inside for 2024</u></a></li>
+</ul></div>
+

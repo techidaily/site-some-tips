@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Lasting Containers Safety: How the Rust-Powered Edera Framework Revolutionizes Protection | ZDNet"
-date: 2024-09-17 23:38:24
-updated: 2024-09-20 11:28:14
+date: 2024-11-24T16:43:59.680Z
+updated: 2024-11-27T03:12:48.340Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlocking-profit-potential-with-dynamic-fb-ad-animations/"><u>[New] 2024 Approved Unlocking Profit Potential with Dynamic FB Ad Animations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-restore-lost-fb-watch-video-button/"><u>[New] In 2024, Restore Lost FB Watch Video Button</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-ae-titles-for-striking-visual-impact/"><u>[Updated] Top AE Titles for Striking Visual Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-budgets-youtube-marketing-investments/"><u>[Updated] Understanding Budgets YouTube Marketing Investments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-authoritative-periscope-users-bible/"><u>2024 Approved The Authoritative Periscope User's Bible</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-kept-secrets-elite-mac-speech-apps-youre-missing-out-on-for-2024/"><u>Best-Kept Secrets Elite Mac Speech Apps You're Missing Out On for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-tutorial-making-sense-of-blue-screen-in-w11/"><u>Comprehensive Tutorial: Making Sense of Blue Screen in W11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy S24+</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-nubia-red-magic-8s-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Nubia Red Magic 8S Pro Phone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-master-your-mac-with-ease-an-ultimate-guide-to-utilizing-preview-app/"><u>In 2024, Master Your Mac with Ease An Ultimate Guide to Utilizing Preview App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-scope-of-motion-tracking-from-simple-to-complex/"><u>In 2024, The Scope of Motion Tracking From Simple to Complex</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>In 2024, The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-gimbals-for-smooth-filming-experience/"><u>In 2024, Ultimate Gimbals for Smooth Filming Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-cost-by-300-snag-the-ultimate-deal-on-atomi-alpha-e-scooters-techadvantage/"><u>Slash Your Cost by $300 – Snag the Ultimate Deal on Atomi Alpha E-Scooters | TechAdvantage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnet-experiences-astounding-generative-ai-capabilities-on-googles-latest-launch-the-chromebookplus/"><u>ZDNet Experiences Astounding Generative AI Capabilities on Google's Latest Launch - The Chromebook+</u></a></li>
+</ul></div>
+

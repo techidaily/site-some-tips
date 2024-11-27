@@ -1,7 +1,7 @@
 ---
 title: "Top Trending Coding Languages of Today: Understanding Their Popularity and Significance | Tech Analysis by ZDNet"
-date: 2024-09-17 10:38:30
-updated: 2024-09-20 12:39:41
+date: 2024-11-22T18:50:21.258Z
+updated: 2024-11-26T20:48:53.920Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -67,11 +75,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -123,6 +139,10 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-realistic-movement-motion-blur-in-facial-images-with-picsart/"><u>[New] Unlocking Realistic Movement Motion Blur in Facial Images with Picsart</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-soundscout-audio-critique-adventure/"><u>[Updated] In 2024, SoundScout Audio Critique Adventure</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-reverse-the-norm-creative-methods-for-backward-youtube-watching-for-2024/"><u>[Updated] Reverse the Norm Creative Methods for Backward Youtube Watching for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-how-to-turn-your-smartphone-into-a-virtual-reality-vr-headset/"><u>2024 Approved How to Turn Your Smartphone Into a Virtual Reality (VR) Headset</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-thrilling-tales-at-the-top-engaging-openers/"><u>2024 Approved Thrilling Tales at the Top Engaging Openers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-job-search-techniques-through-chatgpt/"><u>Enhancing Job Search Techniques Through ChatGPT</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-find-your-fit-understanding-basic-to-pro-plans-at-vimeo/"><u>In 2024, Find Your Fit Understanding Basic to Pro Plans at Vimeo</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from Apple iPhone 12 mini</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-shooting-canons-time-lapse-techniques/"><u>In 2024, Streamline Your Shooting Canon's Time-Lapse Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-subtitle-mastery-made-easy-10-free-online-tools/"><u>In 2024, Subtitle Mastery Made Easy - 10 Free Online Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-pathway-to-perfect-pitches-insights-from-magix-maker/"><u>In 2024, The Pathway to Perfect Pitches Insights From Magix Maker</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-free-video-playback-vlc-or-mpc/"><u>In 2024, The Ultimate Guide to Free Video Playback VLC or MPC?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oppo-find-x6-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Oppo Find X6 Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revitalize-performance-of-dell-xps-15-by-updating-device-drivers-on-windows/"><u>Revitalize Performance of Dell XPS 15 by Updating Device Drivers on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-methods-for-capturing-your-overwatch-matches/"><u>Simple Methods for Capturing Your Overwatch Matches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-workflow-with-leading-tts-apps-for-mac-users-for-2024/"><u>Streamline Your Workflow with Leading TTS Apps for Mac Users for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-soloists-path-to-trending-podcasts-for-2024/"><u>The Soloist's Path to Trending Podcasts for 2024</u></a></li>
+</ul></div>
+

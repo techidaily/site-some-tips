@@ -1,7 +1,7 @@
 ---
 title: "Challenges of Generative AI: Struggling with Basic Human Cognitive Skills, Insights From ZDNet"
-date: 2024-09-19 18:38:55
-updated: 2024-09-20 11:41:36
+date: 2024-11-25T01:09:25.083Z
+updated: 2024-11-26T19:24:57.476Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-how-to-effortlessly-capture-mac-screenshots/"><u>[New] 2024 Approved How to Effortlessly Capture Mac Screenshots</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-beginners-blueprint-for-financial-gain-in-periscope-for-2024/"><u>[New] Beginner's Blueprint for Financial Gain in Periscope for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-50plus-youtube-channel-names-for-vloggers-100-new-filmora-for-2024/"><u>[Updated] 50+ Youtube Channel Names for Vloggers [100% New] - Filmora for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-elevate-videos-with-gif-a-simple-guide-for-vimeo-creators-for-2024/"><u>[Updated] Elevate Videos with GIF A Simple Guide for Vimeo Creators for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-from-script-to-airwaves-step-by-step-guide-for-ios-audio-recording/"><u>[Updated] In 2024, From Script to Airwaves Step-by-Step Guide for iOS Audio Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-selective-image-softening-pcmobile/"><u>[Updated] Techniques for Selective Image Softening PC/Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-how-to-efficiently-record-internet-radio/"><u>[Updated] Unveiling the Secrets How To Efficiently Record Internet Radio</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-motorola-moto-g84-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Motorola Moto G84 5G online without jailbreak</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-six-secrets-to-holding-your-viewers-attention/"><u>In 2024, The Six Secrets to Holding Your Viewers' Attention</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-poco-m6-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Poco M6 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-writers-journey-through-podcast-production-for-2024/"><u>The Writer's Journey Through Podcast Production for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-revenue-revolution-a-practical-guide-for-monetization/"><u>Youtube's Revenue Revolution A Practical Guide for Monetization</u></a></li>
+</ul></div>
+

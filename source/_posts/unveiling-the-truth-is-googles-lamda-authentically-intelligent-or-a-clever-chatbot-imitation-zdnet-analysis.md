@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: Is Google's LaMDA Authentically Intelligent or a Clever Chatbot Imitation (ZDNet Analysis)"
-date: 2024-09-19 18:36:26
-updated: 2024-09-20 10:49:19
+date: 2024-11-25T21:07:36.601Z
+updated: 2024-11-26T23:57:53.088Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-uncovering-the-intricacies-of-lgs-top-tier-4k-display/"><u>[New] Uncovering the Intricacies of LG's Top-Tier 4K Display</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-best-stream-tech-innovative-hardware-and-software-guide-for-youtubers/"><u>[Updated] Best Stream Tech Innovative Hardware & Software Guide for Youtubers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swiftly-sharpen-images-with-windows-11-pro/"><u>[Updated] Swiftly Sharpen Images with Windows 11 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-video-editors-for-macos-sierra/"><u>[Updated] Top 5 Video Editors for macOS Sierra</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-list-of-10-vectors-stock-pics-websites/"><u>2024 Approved The Ultimate List of 10 Vectors Stock Pics Websites</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dont-let-mystery-calls-disturb-you-how-to-shield-your-iphone-from-unknown-callers/"><u>Don't Let Mystery Calls Disturb You: How to Shield Your iPhone From Unknown Callers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-connect-3-monitors-to-a-computer/"><u>How to Connect 3 Monitors to a Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-redmi-a2plus-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Redmi A2+ Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-seamless-integration-of-slideshows-into-facebook-layouts/"><u>In 2024, Seamless Integration of Slideshows Into Facebook Layouts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/telegram-for-newcomers-how-to-make-your-advertising-stand-out/"><u>Telegram for Newcomers How to Make Your Advertising Stand Out</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-home-filmmaking-tricks-the-quick-and-easy-guide-for-2024/"><u>Top Home Filmmaking Tricks The Quick and Easy Guide for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/turning-audio-content-into-mp3s-on-your-computer-a-comprehensive-how-to-tutorial/"><u>Turning Audio Content Into MP3s on Your Computer - A Comprehensive How-To Tutorial</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/zenes-vizon-mp4-be-fenyvitathato-online-konverter-movavi-gyorsasagu-szolgaltatas-pcmac/"><u>Zenes Vízon MP4-Be Fényvitatható Online Konverter - Movavi Gyorsaságú Szolgáltatás [PC/Mac]</u></a></li>
+</ul></div>
+

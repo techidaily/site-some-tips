@@ -1,7 +1,7 @@
 ---
 title: OpenAI Unveils Advanced AI Model to Enhance Error Detection in GPT-3 Generated Code | TechCrunch
-date: 2024-09-18 10:53:39
-updated: 2024-09-20 10:27:41
+date: 2024-11-19T16:41:58.816Z
+updated: 2024-11-26T16:47:19.515Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-top-7-video-streaming-innovations-excel-on-youtube-with-iphonesandroid-os/"><u>[New] In 2024, Top 7 Video Streaming Innovations Excel on YouTube with iPhones/Android OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-evolved-2023-samsung-bd-j5900-a-deep-dive/"><u>[New] The Evolved 2023 Samsung BD-J5900 A Deep Dive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-best-screens-for-playstation-5-gamers/"><u>[New] TOP 5 Best Screens for PlayStation 5 Gamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-storytelling-into-cinematic-art/"><u>[New] Transforming Storytelling Into Cinematic Art</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-imageinspector-plus-detailed-windowsmac-screenshots/"><u>[Updated] ImageInspector Plus Detailed Windows/Mac Screenshots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-mac-mkv-players-compilation/"><u>[Updated] Top Mac MKV Players Compilation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-soundsmiths-scripture-on-crossfading-in-logic/"><u>2024 Approved The Soundsmith's Scripture on Crossfading in Logic</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-pixel-7a-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Pixel 7a.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-sustaining-wellbeing-in-virtual-reality/"><u>In 2024, Sustaining Wellbeing in Virtual Reality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-windows-11-gamers-ultimate-playbook-top-5-record-techniques/"><u>In 2024, Windows 11 Gamers' Ultimate Playbook Top 5 Record Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/listing-from-the-tail-reordering-videos-in-a-reverse-sequence-for-2024/"><u>Listing From the Tail Reordering Videos in a Reverse Sequence for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-engaging-sound-stories-podcast-scriptwriting-demystified/"><u>Unlocking Engaging Sound Stories Podcast Scriptwriting Demystified</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/bes-rewind-feat-unraveling-sequence-with-a-single-click/"><u>YouTube's Rewind Feat Unraveling Sequence with a Single Click</u></a></li>
+</ul></div>
+

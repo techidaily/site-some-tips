@@ -1,7 +1,7 @@
 ---
 title: Is Artificial Intelligence Effective as Part of the Software Dev Squad? Exploring Its Role on ZDNet
-date: 2024-09-18 12:21:15
-updated: 2024-09-20 11:33:14
+date: 2024-11-24T02:03:51.640Z
+updated: 2024-11-26T22:01:57.034Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cutting-edge-youtube-end-card-tactics-and-layouts/"><u>[New] 2024 Approved Cutting Edge Youtube End Card Tactics & Layouts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-ultimate-guide-to-quieter-youtube-videos/"><u>[New] In 2024, The Ultimate Guide to Quieter YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-roadmap-to-selecting-top-tier-visual-storytellers/"><u>[New] The Roadmap to Selecting Top-Tier Visual Storytellers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-real-time-collaboration-via-xbox-zoom/"><u>[New] Unlocking Real-Time Collaboration via Xbox Zoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>[Updated] Transform Your Mac with the Latest MacOS 11 Big Sur Overview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-3-step-guide-to-exceptional-gopro-videos/"><u>2024 Approved The 3-Step Guide to Exceptional GoPro Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-wmp-routine-for-cds-ripping-and-batch-processing/"><u>2024 Approved The Essential WMP Routine for CDs Ripping & Batch Processing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cursor-continuous-display-troubles-learn-how-to-fix-it-now/"><u>Cursor Continuous Display Troubles? Learn How to Fix It Now</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-add-custom-youtube-shorts-thumbnails-with-ease-in-2024/"><u>How to Add Custom YouTube Shorts Thumbnails with Ease, In 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-oneplus-11-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best OnePlus 11 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/solve-your-pc-dilemma-expert-solutions-for-windows-activation-error-code-0xc0-04f213/"><u>Solve Your PC Dilemma: Expert Solutions for Windows Activation Error Code 0XC0 04F213</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-magic-behind-luts-crafting-captivating-photos-for-2024/"><u>The Magic Behind LUTs Crafting Captivating Photos for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-factors-behind-chatgpts-record-breaking-popularity-surge/"><u>Top 5 Factors Behind ChatGPT's Record-Breaking Popularity Surge</u></a></li>
+</ul></div>
+

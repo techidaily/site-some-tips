@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Skills Without Overemphasizing AI: Discover Edge Innovations at ZDNet"
-date: 2024-09-19 21:11:57
-updated: 2024-09-20 10:47:30
+date: 2024-11-20T16:47:20.907Z
+updated: 2024-11-26T21:00:18.010Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-viral-video-voyage-twitters-compiled-top-10-tiktoks/"><u>[New] 2024 Approved Viral Video Voyage Twitter's Compiled Top 10 TikToks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-ordinary-moments-into-viral-instagram-reels/"><u>[New] Transforming Ordinary Moments Into Viral Instagram Reels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unparalleled-20-anime-series-themes/"><u>[New] Unparalleled 20 Anime Series Themes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-explore-and-relish-top-sandbox-journeys-for-2024/"><u>[Updated] Explore and Relish Top Sandbox Journeys for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-optimize-your-iphone-for-gif-saving-and-playing-like-a-pro/"><u>[Updated] In 2024, Optimize Your iPhone for GIF Saving & Playing Like a Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-isolating-photographs-within-windows-10-movie-files/"><u>2024 Approved Isolating Photographs Within Windows 10 Movie Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-slow-mo-with-these-android-hacks/"><u>2024 Approved Unlock the Power of Slow Mo with These Android Hacks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-officejet-pro-6968-printer-drivers-download-here/"><u>Get the Latest HP OfficeJet Pro 6968 Printer Drivers - Download Here</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-k11-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo K11 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-photo-editing-key-pixlr-insights/"><u>In 2024, Streamline Photo Editing Key Pixlr Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-comprehen-word-limit-reached-continuation-in-the-next-step/"><u>In 2024, The Comprehen... (Word Limit Reached, Continuation in the Next Step)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-vlcs-potential-for-mpeg-4-and-diverse-file-alterations/"><u>In 2024, Unlocking VLC's Potential for MPEG-4 and Diverse File Alterations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-list-best-8-free-open-source-enterprise-callers-for-2024/"><u>The Ultimate List Best 8 Free, Open Source Enterprise Callers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-free-vfx-websites-for-2024/"><u>The Ultimate List of FREE VFX Websites for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-methods-for-enhancing-your-ark-sanctuary-fps-performance-on-pc/"><u>Top Methods for Enhancing Your ARK: Sanctuary FPS Performance on PC</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Future of Winamp Unveiled: Insights Into Its Decision to Stay Closed Source and Strategic Moves Ahead"
-date: 2024-09-18 23:40:42
-updated: 2024-09-20 11:42:57
+date: 2024-11-23T22:47:54.946Z
+updated: 2024-11-26T20:36:52.633Z
 tags:
   - developer
 categories:
@@ -57,6 +57,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +70,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-boosting-joy-in-packet-opening-top-tips-for-2024/"><u>[Updated] Boosting Joy in Packet Opening Top Tips for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-benefits-of-high-dynamic-range-in-professional-videography/"><u>[Updated] In 2024, The Benefits of High Dynamic Range in Professional Videography</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-secure-your-conversations-mastering-free-and-paid-skype-captures-on-pcsmac-for-2024/"><u>[Updated] Secure Your Conversations Mastering Free and Paid Skype Captures on PCs/Mac for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-story-blueprints-across-8-movie-sectors/"><u>2024 Approved Ultimate Story Blueprints Across 8 Movie Sectors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726226017157-flac-m4a-movavi/"><u>免費在線FLAC M4A格式移動 – 利用 Movavi 進行高效率編解碼</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/3gpflv-movavi/"><u>無限制網路上轉換3GP到FLV - 利用Movavi自動化工具</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/gamers-streaming-tools-for-2024/"><u>Best Gamers' Streaming Tools for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/boost-your-sites-traffic-with-our-leading-cookiebot-driven-analytics-tools/"><u>Boost Your Site's Traffic with Our Leading Cookiebot-Driven Analytics Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-x-fold-2-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo X Fold 2 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-basic-hdr-imaging/"><u>In 2024, The Ultimate Guide to Basic HDR Imaging</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-true-income-potential-in-podcasting/"><u>In 2024, Unveiling the True Income Potential in Podcasting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-spinning-indie-podcast-hits-for-2024/"><u>The Art of Spinning Indie Podcast Hits for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-zooming-in-youtube-videos-for-2024/"><u>The Art of Zooming in YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/to-turn-off-or-not-navigating-through-your-off-facebook-activities-for-2024/"><u>To Turn Off or Not Navigating Through Your Off-Facebook Activities for 2024</u></a></li>
+</ul></div>
+

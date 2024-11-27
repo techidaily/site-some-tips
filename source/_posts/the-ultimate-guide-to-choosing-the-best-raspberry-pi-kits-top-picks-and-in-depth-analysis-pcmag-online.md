@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Choosing the Best Raspberry Pi Kits : Top Picks & In-Depth Analysis | PCMag Online"
-date: 2024-09-18 11:54:20
-updated: 2024-09-20 10:30:16
+date: 2024-11-23T01:54:39.074Z
+updated: 2024-11-26T23:15:42.966Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-leading-tools-to-record-your-desktop/"><u>[New] Leading Tools to Record Your Desktop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-swift-remedies-to-rescue-your-windows-10-photos-app/"><u>[New] Swift Remedies to Rescue Your Windows 10 Photos App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-color-theory-and-practical-application-techniques/"><u>[New] The Ultimate Guide to Color Theory and Practical Application Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-twilight-tones-adobe-premiere-blackouts/"><u>[New] Twilight Tones Adobe Premiere Blackouts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-jaunt-vr-odyssey-revisited/"><u>[Updated] The Jaunt VR Odyssey Revisited</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-volume-control-soft-fades-within-logic-pro-environment/"><u>2024 Approved Volume Control Soft Fades Within Logic Pro Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-dealing-with-servers-not-available-errors-in-destiny-2/"><u>Expert Advice: Dealing with 'Servers Not Available' Errors in Destiny 2</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploration-comparison-gopros-hero5-black-and-sessions/"><u>Exploration Comparison GoPro's Hero5 Black & Sessions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-craft-an-effortless-facebook-photo-mosaic/"><u>How to Craft an Effortless Facebook Photo Mosaic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-turn-daily-life-into-a-comedy-meme/"><u>In 2024, Turn Daily Life Into a Comedy Meme</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlined-high-quality-hdr-experience-for-your-computer-for-2024/"><u>Streamlined High-Quality HDR Experience for Your Computer for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-fixing-the-to-do-syncheroom-dilemma/"><u>Swiftly Fixing the To Do Syncheroom Dilemma</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-10-amazing-christmas-chromebook-bargains-discover-the-best-savings-on-tech/"><u>Top 10 Amazing Christmas Chromebook Bargains: Discover the Best Savings on Tech</u></a></li>
+</ul></div>
+

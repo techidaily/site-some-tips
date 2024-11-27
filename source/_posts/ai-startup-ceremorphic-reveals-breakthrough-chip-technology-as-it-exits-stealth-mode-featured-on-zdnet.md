@@ -1,7 +1,7 @@
 ---
 title: AI Startup Ceremorphic Reveals Breakthrough Chip Technology as It Exits Stealth Mode | Featured on ZDNET
-date: 2024-09-17 18:54:15
-updated: 2024-09-20 12:38:33
+date: 2024-11-21T16:32:02.433Z
+updated: 2024-11-26T21:09:27.064Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-trail-the-echoes-of-de-follows-in-instagram-land/"><u>[New] Trail the Echoes of De-Follows in Instagram Land</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleash-your-fb-potential-a-strategic-plan-for-more-likes-and-shares/"><u>[New] Unleash Your FB Potential A Strategic Plan for More Likes and Shares</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-rated-mkv-player-mobile-laptop/"><u>[Updated] Top-Rated MKV Player Mobile, Laptop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-definitive-list-of-video-stabilizer-brands-for-content-makers/"><u>2024 Approved The Definitive List of Video Stabilizer Brands for Content Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tweaking-sound-on-ps5ps4-games/"><u>2024 Approved Tweaking Sound on PS5/PS4 Games</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-top-5-substitutes-for-pandora-a-guide-to-enhanced-music-streaming/"><u>Best Top 5 Substitutes for Pandora: A Guide to Enhanced Music Streaming</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/comprehensive-guide-converting-and-downloading-your-favorite-acast-podcasts-in-various-audio-formats/"><u>Comprehensive Guide: Converting and Downloading Your Favorite Acast Podcasts in Various Audio Formats</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-samsung-galaxy-s24-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy S24 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-tricks-to-automate-iphone-video-loops/"><u>In 2024, Tricks to Automate iPhone Video Loops</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rise-of-autofocus-aided-hdr-photography-for-2024/"><u>The Rise of Autofocus Aided HDR Photography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-storytelling-potential-for-2024/"><u>Unlock Your Storytelling Potential for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-5-premium-ai-prompt-inventors-that-work-seamlessly-across-diverse-artificial-intelligence-platforms/"><u>Unveiling 5 Premium AI Prompt Inventors That Work Seamlessly Across Diverse Artificial Intelligence Platforms</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "How Generative AI Struggles with Basic Aspects of Human Cognition: Insights From ZDNet"
-date: 2024-09-17 10:13:15
-updated: 2024-09-20 12:27:36
+date: 2024-11-22T00:23:30.511Z
+updated: 2024-11-26T22:55:07.946Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -67,6 +71,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-add-srt-to-mp4-2024/"><u>[New] Ultimate Guide to Add SRT to MP4 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-high-definition-screens-selecting-your-optimal-4k-display/"><u>[Updated] 2024 Approved High Definition Screens Selecting Your Optimal 4K Display</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-top-sounds-for-video-creators-royalty-free-options/"><u>[Updated] 2024 Approved Top Sounds for Video Creators Royalty-Free Options</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-best-practices-in-yt-thumbnail-sizing-for-2024/"><u>[Updated] Best Practices in YT Thumbnail Sizing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-playstation-45-audio-tweaks/"><u>[Updated] The Essential Guide to PlayStation 4/5 Audio Tweaks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-pioneering-editing-snapseed-for-the-newcomer/"><u>2024 Approved Pioneering Editing Snapseed for the Newcomer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-saving-web-radio-broadcasts/"><u>2024 Approved The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cial-forecasting-in-the-world-of-youtube-snippet-creation/"><u>Financial Forecasting in the World of YouTube Snippet Creation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-an-experts-guide-to-accumulating-mass-tiktok-videos-effortlessly/"><u>In 2024, An Expert's Guide to Accumulating Mass TikTok Videos Effortlessly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-the-dji-x20-drone-vision-wear-review/"><u>In 2024, The DJI X20 Drone Vision Wear Review</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-fltrmgrsys-blue-screen-of-death-bsod-for-a-smoother-windows-experience/"><u>Overcoming Fltrmgr.sys Blue Screen of Death (BSOD) for a Smoother Windows Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-catch-up-effective-methods-for-skipping-edgenuity-courses-for-2024/"><u>Quick Catch-Up Effective Methods for Skipping Edgenuity Courses for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-access-royalty-free-clip-art-tips/"><u>Unlocking Access Royalty-Free Clip Art Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-visual-clarity-bypassing-background-in-photopea-for-2024/"><u>Unlocking Visual Clarity Bypassing Background in Photopea for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-rtmp-streams-overcoming-premieres-export-hurdle-for-2024/"><u>Unraveling RTMP Streams Overcoming Premiere's Export Hurdle for 2024</u></a></li>
+</ul></div>
+

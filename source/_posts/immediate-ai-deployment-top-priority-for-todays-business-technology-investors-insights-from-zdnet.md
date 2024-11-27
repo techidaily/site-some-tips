@@ -1,7 +1,7 @@
 ---
 title: "Immediate AI Deployment: Top Priority for Today's Business Technology Investors - Insights From ZDNet"
-date: 2024-09-18 23:28:17
-updated: 2024-09-20 12:18:49
+date: 2024-11-25T21:55:41.790Z
+updated: 2024-11-27T00:35:54.296Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-pioneering-soundtracks-for-stellar-instagram-reels/"><u>[New] In 2024, Pioneering Soundtracks for Stellar Instagram Reels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-step-by-step-guide-to-instagram-livestreaming-using-obs-for-2024/"><u>[New] Step-by-Step Guide to Instagram Livestreaming Using OBS for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-top-quality-fb-picture-and-film-maker-gratis-for-2024/"><u>[New] Top-Quality FB Picture & Film Maker (Gratis!) For 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-enchanted-realm-of-bygone-writings-a-literary-pilgrimage/"><u>[Updated] 2024 Approved The Enchanted Realm of Bygone Writings A Literary Pilgrimage</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-techniques-for-fast-vimeo-videos/"><u>[Updated] In 2024, Techniques for Fast Vimeo Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-subtle-soundplayback/"><u>[Updated] The Art of Subtle Soundplayback</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-personalized-phone-tones-for-android-users/"><u>[Updated] The Ultimate Guide to Personalized Phone Tones for Android Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-professional-shutter-sense-the-prime-6-4k-dslr-selections/"><u>2024 Approved Professional Shutter Sense The Prime 6 4K DSLR Selections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-securing-and-optimizing-virtual-meetings-with-zoom-on-windows-11/"><u>2024 Approved Securing and Optimizing Virtual Meetings with Zoom on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-finest-4-sites-for-tones/"><u>2024 Approved Unveiling the Finest 4 Sites for Tones</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerate-launch-times-for-windows-11-apps/"><u>Accelerate Launch Times for Windows 11 Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-directdraw-errors-solutions-for-smooth-performance/"><u>Bypassing DirectDraw Errors: Solutions for Smooth Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-honor-magic-5-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Honor Magic 5? Try These Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-sunset-to-silhouette-adobe-guide/"><u>In 2024, Sunset to Silhouette Adobe Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-solution-for-stopping-youtube-video-previews/"><u>In 2024, The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
+<li><a href="https://win-dash.techidaily.com/steps-to-update-amd-drivers-on-pcs-running-windows-10117/"><u>Steps to Update AMD Drivers on PCs Running Windows 10/11/7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-top-tales-youtubes-best-narrative-channels-this-year-for-2024/"><u>The Top Tales YouTube’s Best Narrative Channels This Year for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-invisible-social-signals-in-online-media-for-2024/"><u>Understanding Invisible Social Signals in Online Media for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/value-capture-affordable-cam-options-for-2024/"><u>Value Capture Affordable Cam Options for 2024</u></a></li>
+</ul></div>
+

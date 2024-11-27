@@ -1,7 +1,7 @@
 ---
 title: "Get Started with DevOps: Exclusive Linux Foundation Course at Budget-Friendly Rates | ZDNet"
-date: 2024-09-19 16:39:35
-updated: 2024-09-20 10:50:31
+date: 2024-11-20T17:32:52.212Z
+updated: 2024-11-27T02:10:25.936Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-virtual-reality-gamers-wealth/"><u>[New] In 2024, Virtual Reality Gamers' Wealth</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-increase-watch-time-win-viewers-on-youtube/"><u>[Updated] 2024 Approved Increase Watch Time, Win Viewers on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-capturing-the-world-in-hd-with-yis-4k-camera/"><u>[Updated] In 2024, Capturing the World in HD with YI's 4K Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-scripting-for-film/"><u>[Updated] The Essence of Scripting for Film</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-timing-duration-for-a-20mb-high-definition-video/"><u>[Updated] Timing Duration for a 20Mb High-Definition Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-6-social-media-platforms-for-business/"><u>[Updated] Top 6 Social Media Platforms for Business</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-effective-film-production-using-movie-maker-windows-8/"><u>2024 Approved The Ultimate Guide to Effective Film Production Using Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-images-on-android-our-picks-for-the-5-best-editors/"><u>2024 Approved Transform Your Images on Android Our Picks for the 5 Best Editors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-deactivating-sticky-keys-functionality-on-windows-systems/"><u>Guide to Deactivating 'Sticky Keys' Functionality on Windows Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-address-and-prevent-crash-to-ground-errors-on-your-computer/"><u>How to Address and Prevent Crash-to-Ground Errors on Your Computer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-x-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone X Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-motorola-moto-g73-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Motorola Moto G73 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-revolutionary-modifications-elevate-your-computer-experience/"><u>In 2024, Revolutionary Modifications Elevate Your Computer Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-affordable-video-effecting-sites-online/"><u>In 2024, Top 5 Affordable Video Effecting Sites Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-setup-integrating-a-samsung-soundbar-into-your-home-cinema-system/"><u>Seamless Setup: Integrating a Samsung Soundbar Into Your Home Cinema System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/striking-the-right-chord-in-your-podcast-summary-for-2024/"><u>Striking the Right Chord in Your Podcast Summary for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/synaptics-pointing-device-drivers-not-working-on-windows-10-solved/"><u>Synaptics Pointing Device Drivers Not Working on Windows 10 [Solved]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-capturing-kinetic-energy-in-iphone-images-for-2024/"><u>The Art of Capturing Kinetic Energy in iPhone Images for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-trio-of-social-networks-unpacking-facebook-twitter-instagram-and-youtube-influence/"><u>The Power Trio of Social Networks: Unpacking Facebook, Twitter, Instagram & YouTube Influence</u></a></li>
+</ul></div>
+

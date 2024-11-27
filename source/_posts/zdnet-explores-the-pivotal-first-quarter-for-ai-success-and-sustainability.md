@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores the Pivotal First Quarter for AI Success and Sustainability
-date: 2024-09-18 19:43:32
-updated: 2024-09-20 11:32:21
+date: 2024-11-21T20:24:30.349Z
+updated: 2024-11-26T19:01:43.673Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -73,6 +81,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-giggle-guide-quick-tips-for-meme-artistry-for-2024/"><u>[New] Giggle Guide Quick Tips for Meme Artistry for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-mastery-of-content-validation-avoiding-copyright-issues-on-tiktok-for-2024/"><u>[New] Mastery of Content Validation Avoiding Copyright Issues on TikTok for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-vr-game-creators-to-watch/"><u>[New] Top VR Game Creators To Watch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-insider-guide-to-intensified-minecraft-views/"><u>[Updated] The Insider Guide to Intensified Minecraft Views</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-tricks-for-achieving-high-quality-slow-motion-videos-on-android/"><u>[Updated] Top Tricks for Achieving High-Quality Slow Motion Videos on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unravel-the-mysteries-of-morphvox-the-ultimate-guide-to-voice-modification/"><u>2024 Approved Unravel the Mysteries of MorphVOX The Ultimate Guide to Voice Modification</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-brother-mfc-l2740dw-printer-drivers-for-pc-free-and-easy-setup/"><u>Download Brother MFC-L2740DW Printer Drivers for PC - Free & Easy Setup</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-premier-selection-of-vr-cycling-options/"><u>In 2024, The Premier Selection of VR Cycling Options</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-obs-studio-key-editing-tactics-unveiled-for-2024/"><u>Mastering OBS Studio Key Editing Tactics Unveiled for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/overcoming-obstacles-fully-enabling-your-icloud-music-collection/"><u>Overcoming Obstacles: Fully Enabling Your iCloud Music Collection</u></a></li>
+</ul></div>
+

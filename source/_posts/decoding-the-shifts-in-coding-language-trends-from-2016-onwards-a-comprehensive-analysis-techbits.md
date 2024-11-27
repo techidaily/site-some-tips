@@ -1,7 +1,7 @@
 ---
 title: Decoding the Shifts in Coding Language Trends From 2016 Onwards – A Comprehensive Analysis | TechBits
-date: 2024-09-18 11:27:13
-updated: 2024-09-20 11:51:37
+date: 2024-11-21T19:40:38.389Z
+updated: 2024-11-26T18:32:23.095Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-optimal-zooctorial-design-arrays/"><u>[New] Optimal Zooctorial Design Arrays</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-talent-passes-for-independent-film-viewing/"><u>[New] Talent Passes for Independent Film Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-path-to-insta-prominence-unveiling-9-key-moves-for-fame-seekers/"><u>[New] The Path to Insta Prominence Unveiling 9 Key Moves for Fame Seekers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-check-dji-fpv-drone-spectacles-features/"><u>[New] The Ultimate Check DJi FPV Drone Spectacles' Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-11-techniques-for-perfecting-hue-balance/"><u>[New] Top 11 Techniques for Perfecting Hue Balance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-13-creative-ways-to-save-and-store-online-audio-broadcasts/"><u>[Updated] 13 Creative Ways to Save and Store Online Audio Broadcasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-calm-and-clear-how-to-smooth-out-a-jittery-gopro-video/"><u>[Updated] 2024 Approved Calm and Clear How to Smooth Out a Jittery GoPro Video</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-exclusive-insight-into-the-6-most-advanced-instagram-reel-apps/"><u>[Updated] 2024 Approved Exclusive Insight Into the 6 Most Advanced Instagram Reel Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-godslayer-chronicles-ragnarok-dawn/"><u>[Updated] 2024 Approved Godslayer Chronicles Ragnarok Dawn</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-a-brand-building-income-youtube-edition/"><u>[Updated] In 2024, Building a Brand, Building Income YouTube Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-securing-gaming-triumphs-record-save-and-archive-ps4-games/"><u>[Updated] In 2024, Securing Gaming Triumphs Record, Save & Archive PS4 Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-your-creative-potential-with-full-length-vivacut-review-24/"><u>[Updated] Unleash Your Creative Potential with Full-Length VivaCut Review '24</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tiktok-profile-boost-smartly-insert-linktree-into-about-section/"><u>2024 Approved TikTok Profile Boost Smartly Insert Linktree Into About Section</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unpacking-the-wirecast-experience-and-its-rivals/"><u>In 2024, Unpacking the WireCast Experience & Its Rivals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-generative-ai-right-for-your-chat-app-here-are-7-potential-pitfalls-to-avoid/"><u>Is Generative AI Right for Your Chat App? Here Are 7 Potential Pitfalls to Avoid</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unpacking the Persistence of Bachelor's Degree Demands in Tech Hiring - Insights From ZDNet
-date: 2024-09-18 18:35:18
-updated: 2024-09-20 11:40:35
+date: 2024-11-20T01:47:29.715Z
+updated: 2024-11-27T04:44:21.739Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-conquer-the-connection-mastering-insta-tik-linkage/"><u>[New] 2024 Approved Conquer the Connection Mastering Insta-Tik Linkage</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-real-time-video-sharing-and-organizing/"><u>[New] In 2024, Real-Time Video Sharing and Organizing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-with-these-14-exceptional-text-animations/"><u>[New] Unleash Creativity with These 14 Exceptional Text Animations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-storytelling-borders-for-instagram-videos-for-2024/"><u>[Updated] Elevate Your Storytelling Borders for Instagram Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximize-visual-and-auditory-impact-in-windows-10-photos-app/"><u>[Updated] Maximize Visual & Auditory Impact in Windows 10 Photos App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-meme-design-props/"><u>[Updated] The Ultimate Guide to Meme Design Props</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-tiktok-usage-efficiently-change-user-numbers/"><u>2024 Approved Streamline TikTok Usage Efficiently Change User Numbers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-stock-image-memes-real-life-narratives/"><u>2024 Approved Top 10 Stock Image Memes Real Life Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-world-in-a-whole-view-video-edition/"><u>2024 Approved Unveiling the World in a Whole View Video Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/5lia6iis55qe44gq44ot44oh44kq44go44of44ol44o844k444od44kv44ox44os44kk44ok44o844gu44ko44op44o844ks6kej5rai44gx44gplus44gzic0g56ys77ys44or44o844oi/"><u>一般的なビデオとミュージックプレイヤーのエラーを解消します - 第２パート</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-circular-captures-iphone-filmmaking-tips-for-social-media/"><u>In 2024, Circular Captures IPhone Filmmaking Tips for Social Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tips-for-finding-the-best-online-cricket-matches-today/"><u>In 2024, Top Tips for Finding the Best Online Cricket Matches Today</u></a></li>
+<li><a href="https://extra-information.techidaily.com/industry-standards-prime-gimbals-for-drones/"><u>Industry Standards Prime Gimbals for Drones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-quest-for-superior-video-playback-software-for-2024/"><u>The Quest for Superior Video Playback Software for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-13-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 13 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-manual-to-boosting-gaming-with-steam-mods/"><u>The Ultimate Manual to Boosting Gaming with Steam Mods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vanish-without-a-trace-tips-for-anonymous-instagram-live-for-2024/"><u>Vanish Without A Trace Tips for Anonymous Instagram Live for 2024</u></a></li>
+</ul></div>
+

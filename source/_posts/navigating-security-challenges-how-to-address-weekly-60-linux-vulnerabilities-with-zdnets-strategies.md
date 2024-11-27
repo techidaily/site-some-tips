@@ -1,7 +1,7 @@
 ---
 title: "Navigating Security Challenges: How to Address Weekly 60 Linux Vulnerabilities with ZDNet's Strategies"
-date: 2024-09-19 15:18:59
-updated: 2024-09-20 12:10:32
+date: 2024-11-20T03:48:44.195Z
+updated: 2024-11-27T02:19:17.915Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -40,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -73,6 +81,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-essentials-for-professionals-advanced-strategies-in-video-tagging/"><u>[New] 2024 Approved Essentials for Professionals Advanced Strategies in Video Tagging</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-ultimate-manual-to-earn-through-vimeos-revenue-channels/"><u>[New] 2024 Approved The Ultimate Manual to Earn Through Vimeo's Revenue Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-comprehensive-guide-to-legally-sharing-music-on-instagram/"><u>[New] The Comprehensive Guide to Legally Sharing Music on Instagram</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enhance-your-content-creation-with-top-5-facebook-downloaders-for-2024/"><u>[Updated] Enhance Your Content Creation with Top 5 Facebook Downloaders for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-converting-videos-to-gifs-online-the-ultimate-youtube-resource/"><u>[Updated] In 2024, Converting Videos to Gifs Online The Ultimate YouTube Resource</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-lgs-monitor-revolution-the-complete-examination-of-a-4k-screen/"><u>[Updated] LG's Monitor Revolution The Complete Examination of a 4K Screen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-to-amplify-gopro-battery-duration/"><u>2024 Approved Techniques to Amplify GoPro Battery Duration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-vegas-pro-21-a-comprehenive-examination-for-gamblers-and-techies-alike/"><u>2024 Approved Vegas Pro '21 A Comprehenive Examination for Gamblers and Techies Alike</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70 Pro Phone without PIN</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comparing-nikon-d7500-and-mirrorless-rivals/"><u>In 2024, Comparing Nikon D7500 and Mirrorless Rivals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-comprehensive-blueprint-to-powerdirectors-full-potential/"><u>In 2024, The Comprehensive Blueprint to PowerDirector's Full Potential</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-online-tips-creating-title-magic/"><u>In 2024, Top Online Tips Creating Title Magic</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-corsair-one-pro-the-ultimate-gamers-workstation/"><u>In-Depth Analysis of Corsair ONE PRO: The Ultimate Gamer's Workstation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-prime-collection-of-gopro-complements-for-2024/"><u>The Prime Collection of GoPro Complements for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-update-the-silent-printer/"><u>Windows Update: The Silent Printer</u></a></li>
+</ul></div>
+

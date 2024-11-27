@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Unveiling the Future of Portable Artificial Intelligence Education"
-date: 2024-11-12T02:38:58.475Z
-updated: 2024-11-17T14:31:16.483Z
+date: 2024-11-22T05:22:54.288Z
+updated: 2024-11-26T17:52:40.865Z
 tags:
   - apple
 categories:
@@ -37,10 +37,7 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -62,6 +59,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -78,6 +79,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -89,6 +94,10 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -114,13 +123,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -132,13 +134,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -157,10 +152,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -218,22 +210,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-tech-tools-for-distance-podcasting/"><u>[Updated] 2024 Approved Tech Tools for Distance Podcasting</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-smartphone-solutions-top-voice-changer-applications/"><u>[Updated] Smartphone Solutions Top Voice Changer Applications</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-guide-to-professional-iphoneipad-podcast-production/"><u>[Updated] The Ultimate Guide to Professional iPhone/iPad Podcast Production</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-unlocking-video-potential-the-best-vlogging-cameras-ranked/"><u>2024 Approved Unlocking Video Potential The Best Vlogging Cameras Ranked</u></a></li>
-<li><a href="https://some-tips.techidaily.com/como-convertir-archivos-mkv-a-linea-con-gratuidad-mediante-movavi/"><u>Cómo Convertir Archivos MKV a Línea Con Gratuidad Mediante Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversion-libre-y-gratuita-de-m4v-a-flv-en-linea-con-la-herramienta-de-movavi/"><u>Conversión Libre Y Gratuita: De M4V a FLV en Línea Con La Herramienta De Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-converter-change-your-audio-files-from-mp3-to-video-format-avi-with-ease/"><u>Free Online Converter: Change Your Audio Files From MP3 to Video Format (AVI) with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-image-converter-convert-pdf-gif-and-more-to-jpeg-with-movavi/"><u>Free Online Image Converter: Convert PDF, GIF & More To JPEG with Movavi</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-iphone-8-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket iPhone 8 for Free</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Tecno Phantom V Fold? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726220252063-movavi/"><u>Movavi 소프트웨어: 최고의 리뷰와 추천을 위해 선택하세요!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-from-zero-to-hero-master-lip-syncing-with-these-5-amazing-apps-for-2024/"><u>New From Zero to Hero Master Lip Syncing with These 5 Amazing Apps for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-pdf-naar-png-converteer-gratis-simpelweg-en-krachtig-met-movavi/"><u>Online-PDF Naar PNG Converteer Gratis - Simpelweg en Krachtig Met Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/starting-at-just-1629-asus-rog-nuc-features-core-i7-155h-processor-and-nvidias-rtx-4060-graphics-card/"><u>Starting at Just $1,629: Asus ROG NUC Features Core I7 155H Processor & NVIDIA's RTX 4060 Graphics Card</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-m34-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy M34 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uniendo-videos-eficientemente-tecnicas-faciles-y-rapidas-de-movavi/"><u>Uniendo Videos Eficientemente: Técnicas Fáciles Y Rápidas De Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/vuurproffen-movavi-video-editor-bestel-duitslands-bijna-gewaardeid-zeer-veilig-kaufeexperte/"><u>Vuurproffen Movavi Video Editor Bestel: Duitsland's Bijna Gewaardeid Zeer Veilig Kaufeexperte</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/valuating-youtubes-potential-monthly-earnings-for-2024/"><u>[New] Evaluating YouTube's Potential Monthly Earnings for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-perfect-your-macs-microphone-usage-with-this-guide-to-audacity/"><u>[New] Perfect Your Mac's Microphone Usage with This Guide to Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-commercial-cloud-vaulting/"><u>[New] Superior Commercial Cloud Vaulting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-teachers-compendium-on-multimedia-pedagogy/"><u>[New] The Teacher's Compendium on Multimedia Pedagogy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-a-detailed-look-at-vsco-features/"><u>[New] Unleash Creativity A Detailed Look at VSCO Features</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-beginners-essential-guide-to-youtube-video-editing-magic/"><u>[Updated] Beginner’s Essential Guide to YouTube Video Editing Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-subtlety-in-volume-the-ableton-way/"><u>[Updated] Subtlety in Volume The Ableton Way</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-playlist-of-timeless-anime-themes/"><u>[Updated] The Ultimate Playlist of Timeless Anime Themes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-ai-photo-cutting-master/"><u>2024 Approved Superior AI Photo Cutting Master</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-the-8-premium-websites-for-free-3d-text-psd-files/"><u>Explore the 8 Premium Websites for FREE 3D Text PSD Files</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-jokeglyph-customize-funny-visuals-easily/"><u>In 2024, Jokeglyph Customize Funny Visuals Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-stroke-of-genius-best-10-creative-sketch-software-for-mac-free/"><u>In 2024, Stroke of Genius Best 10 Creative Sketch Software for Mac (Free)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/jabra-talk-45-showcased-pristine-clarity-and-prolonged-charging/"><u>Jabra Talk 45 Showcased: Pristine Clarity & Prolonged Charging</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/live-video-logging-on-mac-free/"><u>Live Video Logging on Mac, Free</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-restoring-dolby-atmos-functionality-on-your-windows-computer/"><u>Step-by-Step Tutorial: Restoring Dolby Atmos Functionality on Your Windows Computer</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-breakdown-of-amazons-fire-hd-10-a-must-have-for-family-media-lovers/"><u>The Complete Breakdown of Amazon's Fire HD 10 - A Must-Have for Family Media Lovers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-potential-for-green-screen-excellence-in-kinemaster-for-2024/"><u>Unlock Your Potential for Green Screen Excellence in Kinemaster for 2024</u></a></li>
 </ul></div>
 

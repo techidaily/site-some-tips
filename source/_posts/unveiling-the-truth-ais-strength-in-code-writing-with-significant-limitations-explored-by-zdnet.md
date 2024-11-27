@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: AI's Strength in Code Writing with Significant Limitations - Explored by ZDNet"
-date: 2024-09-18 21:26:37
-updated: 2024-09-20 12:50:41
+date: 2024-11-20T03:10:26.305Z
+updated: 2024-11-27T04:38:04.964Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-personalized-and-accessible-video-conclusions-downloads/"><u>[New] 2024 Approved Personalized & Accessible Video Conclusions Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-your-creative-process-with-instagrams-photography-tips/"><u>[New] Streamline Your Creative Process with Instagram's Photography Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-cheat-sheet-mastering-googles-voice-transcription-tool/"><u>[New] The Complete Cheat Sheet Mastering Google's Voice Transcription Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-itunes-radio-downloading-blueprint/"><u>[New] The Complete iTunes Radio Downloading Blueprint</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-video-producers-route-to-royalty-free-soundtracks-for-2024/"><u>[New] The Video Producer’s Route to Royalty-Free Soundtracks for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-clearing-up-your-video-quality-issues-for-2024/"><u>[Updated] Clearing Up Your Video Quality Issues for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-upside-down-visuals-unraveling-instagram-video-confusion/"><u>[Updated] Upside Down Visuals Unraveling Instagram Video Confusion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-pros-guide-to-hidden-power-ups-in-vlc-playback/"><u>2024 Approved The Pro's Guide to Hidden Power-Ups in VLC Playback</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-snipers-manual-to-capturing-live-online-music/"><u>2024 Approved The Sniper’s Manual to Capturing Live Online Music</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-security-software-of-2024-our-top-5-recommendations-for-malware-detection-and-elimination/"><u>Best Free Security Software of 2024: Our Top 5 Recommendations for Malware Detection and Elimination</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/ensuring-authenticity-and-compliance-in-your-tiktoks/"><u>Ensuring Authenticity & Compliance in Your TikToks</u></a></li>
+</ul></div>
+

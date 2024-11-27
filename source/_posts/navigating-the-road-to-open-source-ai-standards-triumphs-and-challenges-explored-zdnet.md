@@ -1,7 +1,7 @@
 ---
 title: Navigating the Road to Open Source AI Standards – Triumphs and Challenges Explored | ZDNet
-date: 2024-09-18 18:44:16
-updated: 2024-09-20 12:22:32
+date: 2024-11-20T18:39:05.523Z
+updated: 2024-11-27T03:43:01.113Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-essential-knowledge-for-instagram-success-a-guide-to-behind-the-scenes-metrics/"><u>[New] In 2024, Essential Knowledge for Instagram Success A Guide to Behind-the-Scenes Metrics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-mastering-virtual-reality-with-top-bike-simulators/"><u>[New] Mastering Virtual Reality with Top Bike Simulators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-complete-resource-for-high-quality-videos-in-gopro-studio-for-2024/"><u>[New] The Complete Resource for High-Quality Videos in GoPro Studio for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-total-sphere-camera-systems/"><u>[New] Total Sphere Camera Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-seal-on-immersive-odyssey/"><u>[New] Ultimate Seal on Immersive Odyssey</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-disabling-suggested-podcast-episodes-on-spotify-for-2024/"><u>[Updated] Disabling Suggested Podcast Episodes on Spotify for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>[Updated] Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-essentials-of-earning-on-youtube-platforms/"><u>[Updated] The Essentials of Earning on YouTube Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-fast-and-free-strategies-for-authenticity-in-insta-circles/"><u>2024 Approved Fast & Free Strategies for Authenticity in Insta Circles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlined-savings-for-cloud-storage-costs-analysis/"><u>2024 Approved Streamlined Savings for Cloud Storage Costs Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-asmrs-health-perks/"><u>2024 Approved Understanding ASMR's Health Perks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unrestricted-mental-harmony/"><u>2024 Approved Unrestricted Mental Harmony</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-scratch-building-a-lighthearted-image-meme-for-2024/"><u>From Scratch Building a Lighthearted Image Meme for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-t2x-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo T2x 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-master-kinemasters-features-with-ease-ranked-by-best-opponent-games/"><u>In 2024, Master KineMaster's Features with Ease, Ranked by Best Opponent Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-premium-top-tier-vr-game-equipment-list/"><u>In 2024, Premium Top-Tier VR Game Equipment List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-aurora-hdr-experience-is-it-transformative/"><u>In 2024, The Aurora HDR Experience Is It Transformative?</u></a></li>
+</ul></div>
+

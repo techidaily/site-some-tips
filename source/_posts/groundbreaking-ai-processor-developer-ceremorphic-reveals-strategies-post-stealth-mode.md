@@ -1,7 +1,7 @@
 ---
 title: Groundbreaking AI Processor Developer Ceremorphic Reveals Strategies Post-Stealth Mode
-date: 2024-09-18 15:22:57
-updated: 2024-09-20 10:14:52
+date: 2024-11-24T22:31:06.772Z
+updated: 2024-11-26T22:59:37.770Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/omplete-blueprint-for-tracking-yt-viewsrevenue-for-2024/"><u>[New] Complete Blueprint for Tracking YT Views/Revenue for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-affordable-asmr-recording-setup-excellence/"><u>[New] Ultimate Affordable ASMR Recording Setup Excellence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-symphonic-syncopation-perfecting-audio-transitions/"><u>[Updated] Symphonic Syncopation Perfecting Audio Transitions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-for-smooth-and-efficient-photo-background-blurring/"><u>[Updated] Tips for Smooth and Efficient Photo Background Blurring</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-how-to-create-unique-ringtone-from-social-media-music-tracks/"><u>2024 Approved How To Create Unique Ringtone From Social Media Music Tracks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-insights-into-crafting-responses-to-youtube-comments/"><u>2024 Approved Insights Into Crafting Responses to YouTube Comments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-submission-a-podcasters-guide/"><u>2024 Approved Streamlining Submission A Podcaster's Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-the-skies-in-depth-mavic-pro-discussion/"><u>Capturing the Skies - In-Depth Mavic Pro Discussion</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/embracing-iphones-shutter-speed-magic-for-dynamic-images/"><u>Embracing iPhone’s Shutter Speed Magic for Dynamic Images</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-wonders-of-yokus-island-express-an-epic-gaming-journey-revealed/"><u>Exploring the Wonders of Yoku's Island Express: An Epic Gaming Journey Revealed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-7t-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor Play 7T Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-technical-issues-in-insurgency-solving-the-ongoing-sandstorm-crash-problem/"><u>Overcoming Technical Issues in Insurgency: Solving the Ongoing 'Sandstorm' Crash Problem</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-find-x6-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo Find X6 and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sony-xperia-xz-superior-a-4k-mobile-experience-analysis-for-2024/"><u>Sony Xperia XZ Superior A 4K Mobile Experience Analysis for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-stepwise-approach-to-voice-recognition-integration-in-powerpoint-presentations-for-2024/"><u>The Stepwise Approach to Voice Recognition Integration in PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-twitch-loophole-reviving-forgotten-chats-for-2024/"><u>The Twitch Loophole Reviving Forgotten Chats for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-audio-to-text-on-slides-for-ppt-for-2024/"><u>Transforming Audio to Text on Slides for PPT for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveil-your-creative-potential-comprehensive-guide-to-powerdirector-pro-for-2024/"><u>Unveil Your Creative Potential Comprehensive Guide to PowerDirector Pro for 2024</u></a></li>
+</ul></div>
+

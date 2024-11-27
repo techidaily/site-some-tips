@@ -1,7 +1,7 @@
 ---
 title: Exploring the Hottest Coding Languages of Our Time and Unraveling Their Rising Demand
-date: 2024-09-19 23:53:46
-updated: 2024-09-20 11:44:56
+date: 2024-11-23T17:12:06.754Z
+updated: 2024-11-26T20:57:18.828Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-video-cropping-anomaly-decoding-imovies-actions/"><u>[New] In 2024, Video Cropping Anomaly Decoding iMovie's Actions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-instagram-filter-playbook-success/"><u>[Updated] In 2024, The Ultimate Instagram Filter Playbook Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-smartphone-photography-with-iphones-hdr/"><u>[Updated] Transform Your Smartphone Photography with iPhone’s HDR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-full-multitasking-in-apple-browsers/"><u>[Updated] Unlocking Full Multitasking in Apple Browsers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-using-b-roll-to-enhance-cinematic-quality/"><u>[Updated] Using B-Roll to Enhance Cinematic Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-optimizing-unused-scenes-a-filmmakers-approach/"><u>2024 Approved Optimizing Unused Scenes A Filmmaker's Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-core-language-of-cutting-edge-vr-experiences/"><u>2024 Approved The Core Language of Cutting-Edge VR Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-fundamentals-of-gif-design-and-creation/"><u>2024 Approved The Fundamentals of GIF Design and Creation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/anatomy-of-hand-tracking-techniques-and-types-for-2024/"><u>Anatomy Of Hand Tracking Techniques and Types for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tips-for-writing-irresistible-podcast-intros/"><u>In 2024, Tips for Writing Irresistible Podcast Intros</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upgrading-your-mp4s-integrating-premium-srt-sound/"><u>In 2024, Upgrading Your MP4s Integrating Premium SRT Sound</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/top-11-best-online-facebook-cover-photo-makers-for-2024/"><u>Top 11 Best Online Facebook Cover Photo Makers for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/touching-sound-quality-explore-flexus-200-by-klipsch/"><u>Touching Sound Quality: Explore Flexus 200 by Klipsch</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlocking-the-potential-a-thorough-review-of-high-quality-microsoft-surface-keyboard-designs/"><u>Unlocking the Potential: A Thorough Review of High-Quality Microsoft Surface Keyboard Designs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211031652-wi-fi-not-working-learn-how-to-restore-your-lost-internet-connection-here/"><u>Wi-Fi Not Working? Learn How To Restore Your Lost Internet Connection Here!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "1. Top 5 Critical Improvements for Android's Next Leap Against iOS Dominance: Insights From Tech Experts"
-date: 2024-11-15T18:43:25.130Z
-updated: 2024-11-17T04:45:51.843Z
+date: 2024-11-20T19:30:41.486Z
+updated: 2024-11-26T23:33:42.154Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -51,16 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -74,10 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -89,10 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -137,16 +126,16 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-restoring-iphone-x-identity-check-reviving-face-recognition-for-2024/"><u>[New] Restoring iPhone X Identity Check Reviving Face Recognition for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-major-modifications-in-windows-movie-maker/"><u>[New] Unveiling Major Modifications in Windows Movie Maker</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-phenomenon-vids-surpassing-100-million-views/"><u>[Updated] 2024 Approved Global Phenomenon Vids Surpassing 100 Million Views</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-cinematic-language/"><u>2024 Approved Pioneering Cinematic Language</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-the-ultimate-checklist-facebook-and-youtube-video-integration/"><u>2024 Approved The Ultimate Checklist Facebook & YouTube Video Integration</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-obtaining-and-setting-up-killer-wireless-vga-1535-drivers/"><u>Easy Installation Guide: Obtaining and Setting Up Killer Wireless VGA-1535 Drivers</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-s23plus-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy S23+ by Name | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-time-travelers-guide-mastering-video-speed-adjustment/"><u>In 2024, Time Traveler's Guide Mastering Video Speed Adjustment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-october-sale-metas-exclusive-499-512gb-quest-2-offer-a-must-have-vr-bargain-this-prime-day-technews/"><u>Top October Sale: Meta's Exclusive $499 512GB Quest 2 Offer - A Must-Have VR Bargain This Prime Day | TechNews</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-lunapics-secret-to-stunning-visuals-for-2024/"><u>Unlock LunaPic's Secret to Stunning Visuals for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unmatched-pixels-the-exclusive-advantages-of-hp-envy-27-for-2024/"><u>Unmatched Pixels The Exclusive Advantages of HP Envy 27 for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-a-detailed-guidance-how-to-add-custom-ringtones-and-sounds-to-your-android-for-2024/"><u>[New] A Detailed Guidance How To Add Custom Ringtones And Sounds To Your Android for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-screen-experience-pip-mastery-for-mac-enthusiasts/"><u>[Updated] Streamline Your Screen Experience PIP Mastery for Mac Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-power-of-srt-in-broadcasting/"><u>[Updated] Unveiling the Power of SRT in Broadcasting</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009430607-epic-games-launcher-troubleshooting-fix-not-opening-issues-fast/"><u>Epic Games Launcher Troubleshooting: Fix Not Opening Issues Fast!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-mac-video-editing-install-lumafusion-or-try-these-other-options/"><u>New Mac Video Editing Install Lumafusion or Try These Other Options</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/egies-for-video-discovery-boosting-viewership-cost-free-for-2024/"><u>Strategies for Video Discovery Boosting Viewership Cost-Free for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95687991-9781440507212-the-7-secrets-of-synchronicity/"><u>The 7 Secrets of Synchronicity | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-handbook-to-metaverse-promotion-for-2024/"><u>The Ultimate Handbook to Metaverse Promotion for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcending-visual-limits-with-hdr-technology-for-2024/"><u>Transcending Visual Limits with HDR Technology for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-your-visual-storytelling-with-luts-in-ae/"><u>Transform Your Visual Storytelling with LUTs in AE</u></a></li>
 </ul></div>
 

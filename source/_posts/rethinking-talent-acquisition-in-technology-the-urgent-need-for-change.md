@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Talent Acquisition in Technology: The Urgent Need for Change"
-date: 2024-09-18 10:50:26
-updated: 2024-09-20 10:10:33
+date: 2024-11-21T21:42:34.645Z
+updated: 2024-11-26T17:11:01.678Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +60,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -72,6 +80,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-hobbyists-to-pros-how-mavic-air-redefines-with-spark/"><u>[New] From Hobbyists to Pros How Mavic Air Redefines with Spark</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-revolutionary-rider-helmet-cams-top-picks-for-23-for-2024/"><u>[New] Revolutionary Rider Helmet Cams - Top Picks for '23 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-apex-quiz-channels-top-general-knowledge-picks-of-2024/"><u>[New] The Apex Quiz Channels Top General Knowledge Picks of 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-deep-dive-into-an-individuals-3dr-experience/"><u>[Updated] A Deep Dive Into an Individual's '3DR' Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snapcutmaster-insights-full-video-editor-evaluation/"><u>[Updated] SnapCutMaster Insights – Full Video Editor Evaluation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tiktok-bio-enhancement-with-direct-url-integration/"><u>[Updated] TikTok Bio Enhancement with Direct URL Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tomorrows-critique-varied-solutions/"><u>[Updated] Tomorrow’s Critique Varied Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-best-overlooked-free-speech-tools-for-mac/"><u>[Updated] Unveiling Best Overlooked Free Speech Tools for Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-designing-captivating-podcast-logos/"><u>2024 Approved The Ultimate Guide to Designing Captivating Podcast Logos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-top-10-strategies-for-youtube-to-mpeg-conversion/"><u>2024 Approved Top 10 Strategies for YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-code-error-48-in-devmgr/"><u>Fixed Code - Error #48 in DevMgr</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cost-effective-action-cameras-secure-your-selection-below-100/"><u>In 2024, Cost-Effective Action Cameras Secure Your Selection Below $100</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-founders-flowchart-for-launching-a-review-video-channel/"><u>In 2024, The Founder's Flowchart for Launching a Review Video Channel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-your-story-game-with-animation-techniques-for-text/"><u>In 2024, Transforming Your Story Game with Animation Techniques for Text</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-15-plus-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 15 Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-viewing-experience-save-with-our-exclusive-offers-on-wonderfoxs-dvd-video-encoder-this-summer/"><u>Unlock Your Viewing Experience: Save with Our Exclusive Offers on WonderFox's DVD Video Encoder This Summer!</u></a></li>
+</ul></div>
+

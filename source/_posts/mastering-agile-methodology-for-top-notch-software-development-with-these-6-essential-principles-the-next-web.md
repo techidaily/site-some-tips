@@ -1,7 +1,7 @@
 ---
 title: Mastering Agile Methodology for Top-Notch Software Development with These 6 Essential Principles | The Next Web
-date: 2024-09-19 23:36:35
-updated: 2024-09-20 10:39:52
+date: 2024-11-24T03:39:32.370Z
+updated: 2024-11-27T03:03:17.773Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -67,6 +71,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unleash-the-potential-latest-win11-applications-and-games/"><u>[New] In 2024, Unleash the Potential Latest Win11 Applications and Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-funniest-memes-download-now/"><u>[New] The Funniest Memes, Download Now</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-visual-harmony-crafting-chromatic-magic-for-2024/"><u>[New] Visual Harmony Crafting Chromatic Magic for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-navigating-360-degree-video-adjustments-using-premiere-pro/"><u>[Updated] Navigating 360-Degree Video Adjustments Using Premiere Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swiftly-freeze-action-in-your-iphone-photography-journey/"><u>[Updated] Swiftly Freeze Action in Your iPhone Photography Journey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmony-and-hype-perfecting-film-teaser-tunes/"><u>2024 Approved Harmony and Hype Perfecting Film Teaser Tunes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-how-to-transfer-playlists-between-music-services-a-detailed-guidance/"><u>2024 Approved How to Transfer Playlists Between Music Services – A Detailed Guidance</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-serene-soundtracks-copyright-free-legal-meditation-music/"><u>2024 Approved Serene Soundtracks – Copyright-Free, Legal Meditation Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-drone-accessory-guide-10-must-haves-revealed/"><u>2024 Approved The Ultimate Drone Accessory Guide - 10 Must-Haves Revealed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-follow-me-back-home-top-trail-tracking-drones/"><u>In 2024, Follow Me Back Home - Top Trail-Tracking Drones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Passcode Screen?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-pc-sound-control/"><u>In 2024, Unparalleled PC Sound Control</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-the-chatgpt-body-stream-error-proven-methods-to-restore-functionality/"><u>Overcoming the ChatGPT Body Stream Error: Proven Methods to Restore Functionality</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/top-rated-android-apps-best-pdf-to-microsoft-word-translation-tools-in-2020/"><u>Top Rated Android Apps: Best PDF to Microsoft Word Translation Tools in 2020</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-rpc-failures-with-ease/"><u>Troubleshooting Windows RPC Failures with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-3d-typographic-sites-for-2024/"><u>Ultimate List of 3D Typographic Sites for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unforgettable-visions-the-top-15-stop-motion-film-classics-for-2024/"><u>Unforgettable Visions The Top 15 Stop-Motion Film Classics for 2024</u></a></li>
+</ul></div>
+

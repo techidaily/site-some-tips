@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing System Administration: How Red Hat Integrates AI for Enhanced Sysadmin Efficiency"
-date: 2024-09-19 13:40:30
-updated: 2024-09-20 11:42:27
+date: 2024-11-25T03:23:45.588Z
+updated: 2024-11-27T00:13:46.235Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-mind-mavens-top-10-educational-youtube-hubs/"><u>[New] 2024 Approved Mind Mavens Top 10 Educational YouTube Hubs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-depth-look-at-worlds-best-live-streaming-sites-for-2024/"><u>[New] In-Depth Look at World's Best Live Streaming Sites for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-premier-gaming-liquids-best-of-breed-lists/"><u>[New] Premier Gaming Liquids Best of Breed Lists</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-7-essential-metaverse-tech-for-your-arsenal/"><u>[Updated] Top 7 Essential Metaverse Tech for Your Arsenal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-advanced-splitting-with-non-xsplit-apps/"><u>[Updated] Unlock Advanced Splitting with Non-Xsplit Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/adding-descriptive-titlestexts-via-microsoft-photos-win-11-for-2024/"><u>Adding Descriptive Titles/Texts via Microsoft Photos Win 11 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-cinema-grade-camera-lineup-the-1-to-18-selections/"><u>In 2024, Cinema-Grade Camera Lineup - The #1 to #18 Selections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers/"><u>In 2024, Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tutorial-guide-to-fade-out-music-in-premiere-pro/"><u>In 2024, Tutorial Guide To Fade Out Music In Premiere Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-visuals-detailed-guide-to-hero5-black-proficiency/"><u>In 2024, Unlocking Visuals Detailed Guide to Hero5 Black Proficiency</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-customization-adjusting-text-and-icon-sizes-on-android-phones-and-tablets/"><u>Mastering Customization: Adjusting Text & Icon Sizes on Android Phones & Tablets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-mobile-video-viewing-top-10-hd-players-on-android/"><u>Mastering Mobile Video Viewing Top 10 HD Players on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-gathering-free-photo-display-videos-for-2024/"><u>The Art of Gathering Free Photo Display Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-most-innovative-5k-screens-ranked-8-for-2024/"><u>The Most Innovative 5K Screens Ranked #8 for 2024</u></a></li>
+</ul></div>
+

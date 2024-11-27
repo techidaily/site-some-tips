@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses Artific
-date: 2024-09-19 15:17:43
-updated: 2024-09-20 11:13:34
+date: 2024-11-24T02:02:01.506Z
+updated: 2024-11-27T03:23:44.916Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,23 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-boost-your-instagrams-accessibility-with-easy-caption-features/"><u>[New] Boost Your Instagram's Accessibility with Easy Caption Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-panzoid-framework-assemblage/"><u>[New] Ultimate Panzoid Framework Assemblage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-grab-tailor-made-cost-free-outro-videos/"><u>[Updated] Grab Tailor-Made, Cost-Free Outro Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streaming-wars-understanding-vimeo-and-youtubes-distinctions/"><u>[Updated] Streaming Wars Understanding Vimeo and YouTube's Distinctions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-switching-picture-in-picture-on-macios-effortlessly/"><u>[Updated] Switching Picture-in-Picture on Mac/iOS Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-elite-circle-of-online-av-masters/"><u>[Updated] The Elite Circle of Online AV Masters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-podcast-tools-for-windows-8/"><u>2024 Approved Ultimate Podcast Tools for Windows 8</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/behind-the-screencast-scenes-industry-secrets-revealed-for-2024/"><u>Behind the Screencast Scenes Industry Secrets Revealed for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-motorola-edge-40-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Edge 40 Pro Device</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Exploring AI & Rust: Linus Torvalds on the Evolution of the Linux Kernel - Insights From a Tech Visionary"
-date: 2024-09-19 11:56:12
-updated: 2024-09-20 11:51:49
+date: 2024-11-24T05:05:47.400Z
+updated: 2024-11-26T16:17:28.563Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -67,6 +71,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +114,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-craft-compelling-fb-video-ads-free-toolkit-included/"><u>[New] Craft Compelling FB Video Ads - Free Toolkit Included</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-blueprint-for-captivating-instagram-unboxing-vids/"><u>[New] The Blueprint for Captivating Instagram Unboxing Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-hdr-experience-with-asuss-4k-monitor/"><u>[New] The Ultimate HDR Experience with Asus's 4K Monitor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-kid-safe-toy-quadcopters-unveiled/"><u>[New] Top Kid-Safe Toy Quadcopters Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncover-the-future-leading-innovations-in-vr-handwear/"><u>[New] Uncover the Future Leading Innovations in VR Handwear</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-visual-riches-at-no-cost-the-top-10-finds/"><u>[New] Visual Riches at No Cost – The Top 10 Finds</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-navigating-youtube-partnerships-successfully/"><u>[Updated] Navigating YouTube Partnerships Successfully</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-vr-classics-dont-miss-out/"><u>[Updated] Top VR Classics - Don’t Miss Out</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-synergy-of-content-and-platform-for-peak-performance/"><u>2024 Approved The Synergy of Content and Platform for Peak Performance</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capturing-action-choosing-from-5-leading-game-stream-webcams/"><u>Capturing Action Choosing From 5 Leading Game Stream Webcams</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-klevv-cras-c93/"><u>Comprehensive Evaluation of KLEVV CRAS C93</u></a></li>
+<li><a href="https://driver-error.techidaily.com/confronting-constant-bluetooth-in-windows-11/"><u>Confronting Constant Bluetooth in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-zoom-in-on-minecraft/"><u>In 2024, How to Zoom in on Minecraft</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-adding-linktree-to-tiktok-bios/"><u>In 2024, The Ultimate Guide to Adding Linktree to TikTok Bios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-images-on-android-our-picks-for-the-5-best-editors/"><u>In 2024, Transform Your Images on Android Our Picks for the 5 Best Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-windows-10-sound-capabilities/"><u>In 2024, Unlocking Windows 10 Sound Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-and-easy-fixes-for-silent-logitech-g933-mice-regain-audio-in-minutes/"><u>Quick and Easy Fixes for Silent Logitech G933 Mice - Regain Audio in Minutes!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-redmi-12-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi Redmi 12 with and without jailbreak | Dr.fone</u></a></li>
+</ul></div>
+

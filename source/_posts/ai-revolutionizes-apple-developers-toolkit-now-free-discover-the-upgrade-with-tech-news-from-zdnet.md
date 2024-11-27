@@ -1,7 +1,7 @@
 ---
 title: "AI Revolutionizes Apple Developers' Toolkit - Now FREE: Discover the Upgrade with Tech News From ZDNet!"
-date: 2024-09-17 17:48:30
-updated: 2024-09-20 12:46:15
+date: 2024-11-21T02:17:22.060Z
+updated: 2024-11-26T21:38:35.760Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -40,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -73,6 +81,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing/"><u>[New] Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-dynamic-gifs-from-video-an-illustrative-tutorial/"><u>[Updated] 2024 Approved Crafting Dynamic Gifs From Video An Illustrative Tutorial</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-leading-budget-friendly-record-software-showdown-in-games/"><u>[Updated] Leading Budget-Friendly Record Software Showdown in Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-your-youtube-potential-through-brand-partnerships/"><u>[Updated] Unlocking Your YouTube Potential Through Brand Partnerships</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-potential-of-magix-music-maker-2024/"><u>[Updated] Unveiling the Potential of Magix Music Maker 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-savvy-saving-with-20-best-free-storage-services-up-to-1tb/"><u>2024 Approved Savvy Saving with 20 Best Free Storage Services, Up To 1TB</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-list-of-15-viral-youtube-opener-templates/"><u>2024 Approved The Ultimate List of 15 Viral YouTube Opener Templates</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-visual-vault-techniques-for-capturing-tweets-animated-content/"><u>2024 Approved The Visual Vault Techniques for Capturing Tweets’ Animated Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-education-with-instructional-videos/"><u>2024 Approved Transforming Education with Instructional Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-next-gen-televisions-elite-10-rankings/"><u>In 2024, Next-Gen Televisions Elite #10 Rankings</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-best-no-cost-security-camera-software/"><u>New 2024 Approved The Best No-Cost Security Camera Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-must-have-accessories-enhancing-your-pcs-capability-with-8k-monitors-support-spotted/"><u>Top Pick: Must-Have Accessories Enhancing Your PC's Capability with 8K Monitors Support – Spotted</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-sporadic-pc-power-off-issue-solutions-at-hand/"><u>Troubleshooting a Sporadic PC Power-Off Issue – Solutions at Hand</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-asmrs-benefits-a-health-perspective-for-2024/"><u>Unveiling ASMR’s Benefits A Health Perspective for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Crafting Tomorrow's Innovation: Expert Insights Into AI Construction | ZDNet"
-date: 2024-09-18 21:13:33
-updated: 2024-09-20 11:14:11
+date: 2024-11-24T17:59:33.065Z
+updated: 2024-11-26T23:15:03.021Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-adding-soundtracks-to-instagram-visuals/"><u>[New] The Art of Adding Soundtracks to Instagram Visuals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-media-impact-tiktoks-viral-tweets-at-the-forefront/"><u>[Updated] 2024 Approved Social Media Impact TikTok's Viral Tweets at the Forefront</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-transforming-gaming-logs-alternatives-to-fbx-recording/"><u>[Updated] 2024 Approved Transforming Gaming Logs Alternatives to FBX Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-gaze-field-vr-device-overview/"><u>[Updated] Total Gaze Field VR Device Overview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-ar-a-modern-illusionists-toolkit/"><u>2024 Approved Unveiling AR A Modern Illusionist's Toolkit</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-a15-4g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy A15 4G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/best-music-visualizer-apps-of-2020-top-7-picks-for-immersive-audio-experience/"><u>Best Music Visualizer Apps of 2020: Top 7 Picks for Immersive Audio Experience</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-14-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-studio-techniques-decoded-xvideostudio-edition/"><u>In 2024, Studio Techniques Decoded XVideoStudio Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-instagram-stardom-unleash-your-potential-with-9-key-strategies/"><u>In 2024, The Ultimate Guide to Instagram Stardom - Unleash Your Potential with 9 Key Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unified-imagery-the-ultimate-blend-strategy/"><u>In 2024, Unified Imagery The Ultimate Blend Strategy</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-upload-guide-twitter-video-aspect-ratio-mandated/"><u>In 2024, Upload Guide Twitter Video Aspect Ratio Mandated</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solving-the-mystery-of-epson-error-0x97/"><u>Solving the Mystery of Epson Error 0X97</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-smart-way-to-scale-and-slash-iphone-videos-for-2024/"><u>The Smart Way to Scale & Slash iPhone Videos for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-mp4-made-easy-10-best-webm-to-mp4-conversion-tools/"><u>Updated 2024 Approved MP4 Made Easy 10 Best WebM to MP4 Conversion Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wonderfox-your-lost-pages-located-an-informative-guide/"><u>WonderFox: Your Lost Pages Located! - An Informative Guide</u></a></li>
+</ul></div>
+

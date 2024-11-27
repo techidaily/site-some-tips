@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Upcoming iPhone Models Compatible with iOS 18 - The Full List by ZDNet"
-date: 2024-09-17 20:30:18
-updated: 2024-09-20 10:35:14
+date: 2024-11-23T19:37:20.956Z
+updated: 2024-11-26T23:27:55.653Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -73,6 +77,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -103,6 +111,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +122,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-streamlined-recording-of-academic-sessions-on-macs/"><u>[New] 2024 Approved Streamlined Recording of Academic Sessions on Macs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-your-projects-expert-techniques-for-mac-dvd-creation/"><u>[New] Streamline Your Projects Expert Techniques for Mac DVD Creation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastering-rapid-windows-document-examination/"><u>[Updated] 2024 Approved Mastering Rapid Windows Document Examination</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-social-media-showdown-continues-the-ongoing-debate-on-igtv-and-youtube/"><u>[Updated] Social Media Showdown Continues The Ongoing Debate on IGTV and YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-the-art-of-background-music-for-video-unboxing/"><u>[Updated] Ultimate Guide The Art of Background Music for Video Unboxing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-visual-potential-the-power-of-lut-transformations/"><u>[Updated] Unlocking Visual Potential The Power of LUT Transformations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-excellent-interview-and-journey-audio-recordings/"><u>[Updated] Unveiling the Secrets of Excellent Interview and Journey Audio Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tomorrows-scrutiny-innovative-perspectives/"><u>2024 Approved Tomorrow’s Scrutiny Innovative Perspectives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tutorial-guide-to-fade-out-music-in-premiere-pro/"><u>2024 Approved Tutorial Guide To Fade Out Music In Premiere Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-advanced-splitting-with-non-xsplit-apps/"><u>2024 Approved Unlock Advanced Splitting with Non-Xsplit Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bringing-volume-to-silent-messages-on-iphone-unveiling-20-secrets-to-restore-sounds/"><u>Bringing Volume to Silent Messages on iPhone: Unveiling 20 Secrets to Restore Sounds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-ai-7-tricks-that-work-wonders/"><u>Harnessing AI: 7 Tricks That Work Wonders</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-x-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone X | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-incorporating-b-roll-in-video-projects/"><u>In 2024, Strategies for Incorporating B-Roll in Video Projects</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-13-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 13 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streaming-showdown-the-ultimate-guide-for-xsplit-and-obs-fans-for-2024/"><u>Streaming Showdown The Ultimate Guide for XSplit and OBS Fans for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-avi-video-rotator-software-and-apps-for-all-devices/"><u>Updated Free AVI Video Rotator Software and Apps for All Devices</u></a></li>
+</ul></div>
+

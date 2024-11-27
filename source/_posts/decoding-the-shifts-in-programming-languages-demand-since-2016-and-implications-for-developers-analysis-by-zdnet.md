@@ -1,7 +1,7 @@
 ---
 title: Decoding the Shifts in Programming Languages' Demand Since 2016 and Implications for Developers - Analysis by ZDNET
-date: 2024-09-19 22:25:42
-updated: 2024-09-20 11:15:23
+date: 2024-11-23T23:36:48.972Z
+updated: 2024-11-26T18:33:37.345Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-perfect-your-ig-photos-with-the-ideal-frame-choices/"><u>[New] 2024 Approved Perfect Your IG Photos with the Ideal Frame Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tackling-text-transformations-converting-xmlttml-for-voice-outputs/"><u>[New] Tackling Text Transformations Converting XML/TTML for Voice Outputs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tapping-humors-potential-with-a-comprehensive-9gag-meme-creation-guide/"><u>[New] Tapping Humor's Potential with a Comprehensive 9GAG Meme Creation Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-steadicam-options-for-high-end-dslr-video-production/"><u>[New] The Best Steadicam Options for High-End DSLR Video Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-the-iphones-full-potential-with-10-composition-principles/"><u>[New] Unleashing the iPhone's Full Potential with 10 Composition Principles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-demystifying-the-process-of-checking-subs/"><u>[Updated] In 2024, Demystifying The Process of Checking Subs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-profits-the-ultimate-guide-to-youtube-revenue/"><u>[Updated] Maximizing Profits The Ultimate Guide to YouTube Revenue</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-creativity-converting-youtube-videos-into-captivating-gifs-for-2024/"><u>[Updated] Unleashing Creativity Converting YouTube Videos Into Captivating GIFs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-top-10-techniques-live-cricket-broadcasting/"><u>[Updated] Unveiling Top 10 Techniques Live Cricket Broadcasting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-guide-to-androids-finest-podcast-platforms-top-6/"><u>2024 Approved Exclusive Guide to Android's Finest Podcast Platforms (Top 6)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-stepwise-approach-to-voice-recognition-integration-in-powerpoint-presentations/"><u>2024 Approved The Stepwise Approach to Voice Recognition Integration in PowerPoint Presentations</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-infinix-hot-40i-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Infinix Hot 40i Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/finding-the-latest-drivers-a-guide-to-update-your-device-on-windows-11/"><u>Finding the Latest Drivers: A Guide to Update Your Device on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-spectrum-visionary-eizos-cg318-4k-reviewed-and-revealed-for-2024/"><u>Full Spectrum Visionary EIZO's CG318-4K Reviewed and Revealed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-three-no-spend-ways-to-merge-movement-and-melodies-in-your-iphone-video-clips/"><u>In 2024, Three No-Spend Ways to Merge Movement and Melodies in Your iPhone Video Clips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/synchronizing-airwaves-for-audience-gain-for-2024/"><u>Synchronizing Airwaves for Audience Gain for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/thank-you-in-motion-templates-for-every-budget-level-for-2024/"><u>Thank You in Motion Templates for Every Budget Level for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-a15-4g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy A15 4G Location | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-unsuccessful-dpc-shift-glitch-on-windows-systems-solution-provided/"><u>Troubleshooting the Unsuccessful DPC Shift Glitch on Windows Systems [Solution Provided]</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Definitive History of the 2Cuationary Collision Between CrowdStrike & Windows Meltdown , as Covered by ZDNET
-date: 2024-11-12T07:51:52.870Z
-updated: 2024-11-17T08:37:43.682Z
+date: 2024-11-22T17:05:11.700Z
+updated: 2024-11-26T18:30:24.045Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What happened?
 
 CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty ["sensor configuration update"](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a "Channel File" whose function was to identify newly observed, malicious activity by cyberattackers.
@@ -51,10 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,19 +176,21 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-artisans-guide-to-picture-in-picture-videos-on-macos-systems/"><u>[Updated] 2024 Approved The Artisan's Guide to Picture in Picture Videos on macOS Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-5-best-tv-for-ps5-and-xbox-series-x-updated-july/"><u>[Updated] Top 5 Best TV for Ps5 and Xbox Series X (Updated July)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-threefold-way-to-extract-and-save-youtubes-subtitles-srt/"><u>2024 Approved The Threefold Way to Extract and Save YouTube's Subtitles (SRT)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-best-4k-monitors/"><u>2024 Approved Top 10 Best 4K Monitors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-potential-with-expert-picked-video-stabilization-tools/"><u>2024 Approved Unlock Your Potential with Expert-Picked Video Stabilization Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-non-responsive-usb-mouse-solutions-for-your-laptop-woes/"><u>Fixing a Non-Responsive USB Mouse: Solutions for Your Laptop Woes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/harmonic-hits-how-to-choose-the-perfect-song-for-ig-videos-for-2024/"><u>Harmonic Hits How to Choose the Perfect Song for IG Videos for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-xiaomi-redmi-note-12-pro-4g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Xiaomi Redmi Note 12 Pro 4G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a54-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A54 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-8-ultimate-4k-blu-ray-playback-units-reviewed/"><u>In 2024, Top 8 Ultimate 4K Blu-Ray Playback Units Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/masterpieces-of-radio-scripting-artistry-for-2024/"><u>Masterpieces of Radio Scripting Artistry for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-stalled-audio-channels-proven-fixes-for-streaming-issues/"><u>Reviving Stalled Audio Channels: Proven Fixes for Streaming Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-guide-turn-off-touchpad-automatically-when-using-an-external-mouse/"><u>Windows 11 Guide: Turn Off Touchpad Automatically when Using an External Mouse</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-effortless-extraction-of-facebook-hd-vids/"><u>[New] 2024 Approved Effortless Extraction of Facebook HD Vids</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-crafting-spectaculous-1080p-streams-on-fb-groups/"><u>[New] Crafting Spectaculous 1080P Streams on FB Groups</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eep-them-coming-back-top-6-ways-to-enhance-your-audiences-staying-power-on-youtube-for-2024/"><u>[New] Keep Them Coming Back Top 6 Ways To Enhance Your Audience's Staying Power on YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-guide-to-vitas-complete-video-editing-software/"><u>[New] The Essential Guide to Vita's Complete Video Editing Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-fast-track-setting-up-and-enjoying-ifunny-memes/"><u>[New] The Fast Track Setting Up & Enjoying iFunny Memes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-constructing-an-affordable-google-vr-helmet-at-home/"><u>[Updated] Constructing an Affordable Google VR Helmet at Home</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-disableremove-youtube-shorts-permanently2-for-2024/"><u>[Updated] How to Disable/Remove YouTube Shorts Permanently?2 For 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-your-storytelling-potential/"><u>[Updated] Unlock Your Storytelling Potential</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-visuals-quick-and-costless-video-downloads-on-pinterest/"><u>2024 Approved Unlock Your Visuals Quick & Costless Video Downloads on Pinterest</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boosting-engagement-a-guide-to-more-youtube-shorts-success-for-2024/"><u>Boosting Engagement A Guide to More YouTube Shorts Success for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-viewing-vlc-versus-mx-comparison/"><u>In 2024, Streamlining Your Viewing VLC Versus MX Comparison</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-a-detailed-walkthrough-of-internet-radio-logging/"><u>In 2024, The Ultimate Guide A Detailed Walkthrough of Internet Radio Logging</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-poco-c51-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Poco C51 Phone Now with These Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-maximizing-your-medical-ads-on-fb-for-2024/"><u>The Ultimate Guide to Maximizing Your Medical Ads on FB for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/wie-man-daten-einer-apple-id-erfolgreich-auf-einen-neuen-nutzer-ubersetzt/"><u>Wie Man Daten Einer Apple ID Erfolgreich Auf Einen Neuen Nutzer Übersetzt</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726027455804-windows-10pc/"><u>Windows 10によるPC操作記録手法</u></a></li>
 </ul></div>
 

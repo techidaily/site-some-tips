@@ -1,7 +1,7 @@
 ---
 title: "Bring Back Retro Gaming: Run Doom on the Compact Raspberry Pi Pico Unit with Easy Setup Guide"
-date: 2024-09-17 17:22:23
-updated: 2024-09-20 11:13:47
+date: 2024-11-23T20:26:10.073Z
+updated: 2024-11-27T04:21:01.010Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-picks-for-shining-3d-type-designs-with-a-golden-touch/"><u>[New] Top Picks for Shining 3D Type Designs with a Golden Touch</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-a-comprehensive-guide-to-modern-versatile-game-recording-software/"><u>[Updated] A Comprehensive Guide to Modern, Versatile Game Recording Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-swift-solution-for-effortless-srt-to-text-txt-transform/"><u>[Updated] The Swift Solution for Effortless SRT to Text (TXT) Transform</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-inshot-transitions-techniques/"><u>2024 Approved Perfecting Inshot Transitions Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-comprehensive-guide-to-mastering-facetune-app-features/"><u>2024 Approved The Comprehensive Guide to Mastering Facetune App Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-win11s-potential-with-zoom-conferencing/"><u>2024 Approved Unleashing Win11's Potential with Zoom Conferencing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/assessing-the-full-video-range-within-a-64128gb-memory-pool/"><u>Assessing the Full Video Range Within a 64/128GB Memory Pool</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tiktok-bio-enhancement-with-direct-url-integration/"><u>In 2024, TikTok Bio Enhancement with Direct URL Integration</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-what-to-use-instead-of-virtualdub-best-video-editing-tools/"><u>New What to Use Instead of VirtualDub Best Video Editing Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-review-delving-into-the-features-of-fugeteks-high-end-model-ft-568-selfie-stick/"><u>Top Rated Review: Delving Into the Features of Fugetek's High-End Model FT-568 Selfie Stick</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-android-sky-docs-ranking-for-2024/"><u>Ultimate Android Sky Docs Ranking for 2024</u></a></li>
+</ul></div>
+

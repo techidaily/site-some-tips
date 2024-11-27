@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Career Success: The Essential Trio of Languages for Aspiring Programmers"
-date: 2024-09-19 17:32:16
-updated: 2024-09-20 12:44:13
+date: 2024-11-25T16:38:23.328Z
+updated: 2024-11-26T23:46:34.255Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-free-online-video-capture-leaders-top-10-edition-for-2024/"><u>[New] Free Online Video Capture Leaders – Top 10 Edition for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-fixing-rtmp-streams-in-premiere/"><u>[New] The Ultimate Guide to Fixing RTMP Streams in Premiere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-checklist-preparing-your-room-and-pc-for-oculus-rift/"><u>[New] Ultimate Checklist Preparing Your Room and PC for Oculus Rift</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-shorts-templates-understanding-the-fundamentals/"><u>[New] YouTube Shorts Templates Understanding the Fundamentals</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-sky-cameras-battle-dji-pro-versus-gopro-fury/"><u>[Updated] In 2024, Sky Cameras Battle DJI Pro Versus GoPro Fury</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-live-streaming-mic-guide-choosing-from-the-best-6/"><u>[Updated] The Ultimate Live-Streaming Mic Guide Choosing From the Best 6</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-zoom-tricks-for-chromebook-users/"><u>[Updated] Ultimate Zoom Tricks for Chromebook Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-ps-simple-grading-techniques-for-perfection/"><u>[Updated] Unlocking PS Simple Grading Techniques for Perfection</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-quick-start-making-your-own-sports-highlight-film/"><u>2024 Approved Quick Start Making Your Own Sports Highlight Film</u></a></li>
+<li><a href="https://win-lab.techidaily.com/automatisierte-dokumentverschiebungen-effizientes-kopieren-von-dateien-in-verschiedenen-verzeichnissen/"><u>Automatisierte Dokumentverschiebungen - Effizientes Kopieren Von Dateien in Verschiedenen Verzeichnissen</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-sm-bus-controller-software-upgrades-for-all-windows-users-11-10-8-and-7/"><u>Compatible SM Bus Controller Software Upgrades for All Windows Users: 11, 10, 8 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oppo-find-x7-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Oppo Find X7 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamselect-an-alternative-to-dacast/"><u>In 2024, StreamSelect An Alternative to DaCast</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-or-update-your-netgear-wi-fi-card-step-by-step-download-instructions/"><u>Install or Update Your NETGEAR Wi-Fi Card - Step by Step Download Instructions</u></a></li>
+<li><a href="https://article-files.techidaily.com/ultimate-selection-top-hdr-camera-picks/"><u>Ultimate Selection Top HDR Camera Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-vectors-first-steps-and-essential-apps-for-2024/"><u>Understanding Vectors First Steps and Essential Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/universal-vmix-adapter-for-2024/"><u>Universal VMix Adapter for 2024</u></a></li>
+</ul></div>
+

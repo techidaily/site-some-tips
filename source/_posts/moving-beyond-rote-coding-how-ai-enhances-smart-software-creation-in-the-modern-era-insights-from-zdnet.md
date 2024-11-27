@@ -1,7 +1,7 @@
 ---
 title: "Moving Beyond Rote Coding: How AI Enhances Smart Software Creation in the Modern Era - Insights From ZDNet"
-date: 2024-09-18 11:37:11
-updated: 2024-09-20 12:58:22
+date: 2024-11-21T02:35:45.345Z
+updated: 2024-11-27T03:50:29.175Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-audio-how-to-download-and-customize-whatsapp-tones-on-devices/"><u>[New] Tailoring Audio How to Download & Customize WhatsApp Tones on Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-guide-to-metaverse-brand-strategies/"><u>[New] The Essential Guide to Metaverse Brand Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-embedding-music-in-social-media-videos/"><u>[New] Tips for Embedding Music in Social Media Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-secrets-of-phantoms-time-reversal-mode/"><u>[Updated] The Ultimate Secrets of Phantom's Time Reversal Mode</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-nine-game-streaming-haven-explored/"><u>[Updated] Top Nine Game Streaming Haven Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-photos-mastering-time-lapse-with-samsung-mobile/"><u>[Updated] Transform Your Photos Mastering Time Lapse with Samsung Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>2024 Approved The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-free-to-use-game-soundtracks-online/"><u>2024 Approved Top 10 Free-to-Use Game Soundtracks Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/fy-video-impact-leading-trackers-for-youtube-ranks-for-2024/"><u>Amplify Video Impact Leading Trackers for YouTube Ranks for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-to-fix-your-hyperx-cloud-alphas-malfunctioning-mic/"><u>Effective Solutions to Fix Your HyperX Cloud Alpha's Malfunctioning Mic</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-decoded-principles-simplified/"><u>Generative AI Decoded: Principles Simplified</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-intova-x-changes-action-camera-game-for-2024/"><u>How Intova X Changes Action Camera Game for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-irecorder-unpacked-what-you-need-to-know/"><u>In 2024, IRecorder Unpacked What You Need to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-ultimate-tutorial-mastering-twitter-video-responses/"><u>In 2024, Ultimate Tutorial Mastering Twitter Video Responses</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-screen-recording-apps-for-chromebook-a-comprehensive-guide/"><u>Top 10 Screen Recording Apps for Chromebook: A Comprehensive Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-faster-edit-smarter-top-20-adobe-premiere-shortcuts/"><u>Updated Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts</u></a></li>
+</ul></div>
+

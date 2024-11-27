@@ -1,7 +1,7 @@
 ---
 title: "Celebrating a Decade of Innovation: Kubernetes at Age 10 & Its Impact on Cloud-Native Tech | ZDNet"
-date: 2024-09-18 17:10:48
-updated: 2024-09-20 10:30:10
+date: 2024-11-25T22:16:48.118Z
+updated: 2024-11-26T23:03:45.317Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -123,6 +139,10 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/0-second-guide-to-fast-fortnite-graphics/"><u>[New] 30-Second Guide to Fast Fortnite Graphics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-headline-for-job-searches/"><u>[New] Tailoring Your Headline for Job Searches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-creative-potential-the-ultimate-hdr-guide/"><u>[New] Unleash Creative Potential The Ultimate HDR Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-toggle-off-instagram-tv-feature/"><u>[Updated] 2024 Approved Toggle Off Instagram TV Feature</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fostering-relationships-not-just-viewers-a-guide-to-subscriptions-for-2024/"><u>[Updated] Fostering Relationships, Not Just Viewers A Guide to Subscriptions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-instagram-image-addition-playbook/"><u>[Updated] The Instagram Image Addition Playbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tonal-treasures-the-ultimate-list-of-classical-download-sites/"><u>[Updated] Tonal Treasures The Ultimate List of Classical Download Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-6-premium-video-translation-tools/"><u>2024 Approved Top 6 Premium Video Translation Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tutorial-on-precise-audioshifting/"><u>2024 Approved Ultimate Tutorial on Precise Audioshifting</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-6s-plus-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 6s Plus</u></a></li>
+<li><a href="https://solve-help.techidaily.com/dvdps5q/"><u>DVD再生ができないPS5？使用可能な見え方テクニッQ</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-for-creating-restoration-points-in-windows-7/"><u>Easy Tutorial for Creating Restoration Points in Windows 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-content-extractor-the-best-of-the-rest-for-2024/"><u>Instagram Content Extractor The Best of the Rest for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/pace-up-decoding-your-graphics-spec-in-windows-11/"><u>Pace Up: Decoding Your Graphics Spec in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/selecting-sacred-melodies-a-christian-ringtones-compendium-for-2024/"><u>Selecting Sacred Melodies A Christian Ringtones Compendium for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syma-x8c-feature-analysis-for-2024/"><u>Syma X8C Feature Analysis for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-premium-pellet-grill-models-reviewed-by-techexperts-zdnet/"><u>Top 5 Premium Pellet Grill Models Reviewed by TechExperts (ZDNet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-iphones-potential-for-dynamic-shots-for-2024/"><u>Unleashing iPhone’s Potential for Dynamic Shots for 2024</u></a></li>
+</ul></div>
+

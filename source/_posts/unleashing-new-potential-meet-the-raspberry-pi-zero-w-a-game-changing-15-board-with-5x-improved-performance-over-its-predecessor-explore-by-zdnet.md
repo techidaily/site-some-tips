@@ -1,7 +1,7 @@
 ---
 title: "Unleashing New Potential: Meet the Raspberry Pi Zero 지오 W, a Game-Changing $15 Board with 5X Improved Performance over Its Predecessor | Explore by ZDNet"
-date: 2024-09-19 13:59:49
-updated: 2024-09-20 11:42:45
+date: 2024-11-22T23:22:22.366Z
+updated: 2024-11-26T21:35:45.177Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -66,6 +70,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -103,6 +111,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +122,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-audio-enhancement-for-online-video-creators/"><u>[New] 2024 Approved Audio Enhancement for Online Video Creators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-android-gb-advance-emulator-list/"><u>[New] 2024 Approved Essential Android GB Advance Emulator List</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mmo-universe-guidebook-best-10-free-roleplaying-games-for-2024/"><u>[Updated] MMO Universe Guidebook Best 10 Free Roleplaying Games for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-pictures-reversed-color-method/"><u>2024 Approved Transforming Pictures Reversed Color Method</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-mobiles-for-cutting-and-enhancing-dji-media/"><u>2024 Approved Ultimate Mobiles for Cutting & Enhancing DJi Media</u></a></li>
+<li><a href="https://solve-news.techidaily.com/abbyy-cloud-services-agreement-comprehensive-tos-and-data-protection-compliance-including-gdpr-provisions/"><u>ABBYY Cloud Services Agreement: Comprehensive TOS & Data Protection Compliance Including GDPR Provisions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-vivo-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Vivo .</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-image-enhancement-pivotal-pixlr-insights/"><u>In 2024, The Art of Image Enhancement Pivotal Pixlr Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-blueprint-to-thriving-in-spotify-ads/"><u>In 2024, The Ultimate Blueprint to Thriving in Spotify Ads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-framework-for-selecting-winning-podcast-names/"><u>In 2024, The Ultimate Framework for Selecting Winning Podcast Names</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-screen-upgrade-high-resolution-video-enhancer/"><u>In 2024, Ultimate Screen Upgrade High-Resolution Video Enhancer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-podcast-release-schedules/"><u>Mastering Podcast Release Schedules</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reliable-phone-data-resurrection-program/"><u>Reliable Phone Data Resurrection Program</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-solutions-top-bdr-softwares-for-windows-macos-for-2024/"><u>Superior Solutions Top BDR Softwares for Windows, macOS for 2024</u></a></li>
+</ul></div>
+

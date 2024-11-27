@@ -1,7 +1,7 @@
 ---
 title: Innovating Tech Talent Acquisition Tactics for a Competitive Edge in Modern Workforce Dynamics
-date: 2024-09-17 20:58:32
-updated: 2024-09-20 10:53:44
+date: 2024-11-24T21:36:27.086Z
+updated: 2024-11-27T00:20:15.382Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -72,6 +80,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-comprehensive-2023-guide-to-lg-360-cam-tech/"><u>[New] Comprehensive 2023 Guide to LG 360 Cam Tech</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-master-the-art-of-youtube-seo-11-steps-to-improvement/"><u>[New] In 2024, Master the Art of YouTube SEO 11 Steps to Improvement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-potential-of-bulk-tiktok-media-extraction/"><u>[New] Unlocking the Potential of Bulk TikTok Media Extraction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-screenshot-expert-evaluator/"><u>[Updated] 2024 Approved ScreenShot Expert Evaluator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-using-adobe-and-finding-substitutes/"><u>[Updated] The Ultimate Guide to Using Adobe and Finding Substitutes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-definitive-guide-to-audio-interfaces-in-podcasting/"><u>2024 Approved The Definitive Guide to Audio Interfaces in Podcasting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-thrilling-twists-and-turns-short-track-22/"><u>2024 Approved Thrilling Twists & Turns - Short Track '22</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/activating-the-slumbering-gpu-fan/"><u>Activating the Slumbering GPU Fan</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-xiaomi-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Xiaomi FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-cutting-edge-editing-music-loading-in-inshot/"><u>In 2024, Cutting-Edge Editing Music Loading in InShot</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-top-video-rotators-for-online-use/"><u>In 2024, Top Video Rotators for Online Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-potential-metaverse-marketing-secrets/"><u>In 2024, Unlocking Potential Metaverse Marketing Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unrivaled-vr-sets-for-aerial-adventures/"><u>In 2024, Unrivaled VR Sets for Aerial Adventures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-connectivity-fixing-airpods-that-refuse-to-reset/"><u>Overcoming Connectivity: Fixing AirPods That Refuse to Reset</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pinnacle-of-artistry-highlighting-top-6-nft-creators-for-2024/"><u>The Pinnacle of Artistry Highlighting Top 6 NFT Creators for 2024</u></a></li>
+</ul></div>
+

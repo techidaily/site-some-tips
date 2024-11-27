@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Employment: Unpacking the Impact of AI Agents on Our Professional Lives | ZDNET Exclusive"
-date: 2024-09-17 15:53:41
-updated: 2024-09-20 10:58:24
+date: 2024-11-26T03:48:39.545Z
+updated: 2024-11-26T21:12:22.515Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-strategic-use-of-slug-lines-in-blogging/"><u>[New] 2024 Approved Strategic Use of Slug Lines in Blogging</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-the-10-best-windows-cameras/"><u>[New] 2024 Approved The Ultimate Guide to the 10 Best Windows Cameras</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-leveraging-content-marketing-for-more-views-and-subscribers/"><u>[New] In 2024, Leveraging Content Marketing for More Views and Subscribers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-iphone-ringtones-a-guide-to-personalized-sound-choices/"><u>[Updated] 2024 Approved IPhone Ringtones A Guide to Personalized Sound Choices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-banner-blueprints-a-gamers-design-handbook/"><u>[Updated] In 2024, YouTube Banner Blueprints A Gamers' Design Handbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-syncopated-screecher-symphony/"><u>[Updated] Syncopated Screecher Symphony</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-audiotrack-removal-discover-the-ultimate-3-strategies-for-dvd-sound-extraction/"><u>Effortless Audiotrack Removal: Discover the Ultimate 3 Strategies for DVD Sound Extraction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-windows-photos-experience-with-added-filtersmusic/"><u>In 2024, Streamlining Windows Photos Experience with Added Filters/Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-best-action-cameras-for-hunting/"><u>In 2024, Top 5 Best Action Cameras for Hunting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-of-iconic-stop-motion-films-for-2024/"><u>The Ultimate List of Iconic Stop-Motion Films for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-file-conversion-your-quick-srt-to-text-txt-guide-for-2024/"><u>Transformative File Conversion Your Quick SRT to Text (TXT) Guide for 2024</u></a></li>
+</ul></div>
+

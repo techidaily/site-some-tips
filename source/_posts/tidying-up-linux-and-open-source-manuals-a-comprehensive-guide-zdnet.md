@@ -1,7 +1,7 @@
 ---
 title: "Tidying Up Linux & Open Source Manuals: A Comprehensive Guide | ZDNet"
-date: 2024-09-17 23:41:29
-updated: 2024-09-20 12:24:38
+date: 2024-11-24T19:41:27.531Z
+updated: 2024-11-26T18:52:57.733Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-sony-bdp-s3700-review-latest-update-summary/"><u>[New] Sony BDP-S3700 Review Latest Update Summary</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-syncopation-and-screenplay-directing-music-videos-with-ios/"><u>[New] Syncopation & Screenplay Directing Music Videos with iOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-incorporating-s2t-features-into-ppt/"><u>2024 Approved The Art of Incorporating S2T Features Into PPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-selection-best-photo-frame-software/"><u>2024 Approved The Artisan's Selection Best Photo Frame Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-top-hdr-camera-brands-and-features/"><u>2024 Approved Unraveling Top HDR Camera Brands and Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-concept-to-completion-using-magix-video-pro-x-for-2024/"><u>From Concept to Completion Using Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-step-by-step-how-to-erase-photographic-backgrounds/"><u>In 2024, Step-by-Step How to Erase Photographic Backgrounds</u></a></li>
+<li><a href="https://facebook.techidaily.com/keep-tabs-monitoring-shrouded-message-photos-in-messenger/"><u>Keep Tabs: Monitoring Shrouded Message Photos in Messenger</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-essential-iphone-gadgets-every-owner-must-have/"><u>Top Essential iPhone Gadgets Every Owner Must Have</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transform-your-youtube-routine-control-over-video-delivery-speeds-for-2024/"><u>Transform Your YouTube Routine Control Over Video Delivery Speeds for 2024</u></a></li>
+</ul></div>
+

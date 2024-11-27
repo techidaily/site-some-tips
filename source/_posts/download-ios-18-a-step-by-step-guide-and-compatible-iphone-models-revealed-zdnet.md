@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: A Step-by-Step Guide and Compatible iPhone Models Revealed | ZDNet"
-date: 2024-11-10T14:27:55.667Z
-updated: 2024-11-16T22:37:50.508Z
+date: 2024-11-25T16:58:03.181Z
+updated: 2024-11-26T22:02:30.476Z
 tags:
   - apple
 categories:
@@ -26,11 +26,19 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
 
@@ -40,28 +48,12 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -69,6 +61,10 @@ When you tap on Software Update, your iPhone will check for the latest version o
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
 
 After installing the latest iOS update, your iPhone will restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -91,10 +87,7 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
@@ -107,13 +100,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -175,17 +161,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ews-endings-as-a-narrative-tool-for-2024/"><u>[New] News Endings as a Narrative Tool for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-3dr-alone-unpackaging-a-single-user-review/"><u>[Updated] 2024 Approved '3DR' Alone Unpackaging a Single User Review</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-beyond-the-viewfinder-top-6-android-and-ios-video-apps/"><u>[Updated] Beyond the Viewfinder Top 6 Android and iOS Video Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-streamline-your-content-twitter-video-integration/"><u>[Updated] In 2024, Streamline Your Content Twitter Video Integration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-about-the-upcoming-samsung-galaxy-s2e-ultra-specs-release-info-and-price-estimates-uncovered/"><u>All About the Upcoming Samsung Galaxy S2e Ultra – Specs, Release Info, and Price Estimates Uncovered</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-the-ultimate-analytics-powerhouse/"><u>Cookiebot-Enhanced: The Ultimate Analytics Powerhouse</u></a></li>
-<li><a href="https://some-tips.techidaily.com/customer-triumph-stories-effective-ai-adaptation-and-management-techniques/"><u>Customer Triumph Stories: Effective AI Adaptation and Management Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/diving-deep-into-tech-jargon-understanding-ocr-and-idps-key-differences/"><u>Diving Deep Into Tech Jargon: Understanding OCR and IDP's Key Differences</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-site-personalization-with-advanced-cookiebot-technology/"><u>Enhance Site Personalization with Advanced Cookiebot Technology</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-frame-rate-lags-in-guilty-gear-strive-a-comprehensive-guide/"><u>Fixing Frame Rate Lags in Guilty Gear Strive: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-art-snagging-premium-steam-titles-at-no-cost/"><u>Master the Art: Snagging Premium Steam Titles at No Cost</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-path-to-becoming-a-lut-connoisseur/"><u>The Path to Becoming a LUT Connoisseur</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-channel-with-these-top-11-budget-friendly-tools/"><u>[New] Elevate Your Channel with These Top 11 Budget-Friendly Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-inside-obs-alternatives-for-professional-streamers/"><u>[Updated] 2024 Approved Inside OBS Alternatives for Professional Streamers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-science-behind-stopping-photo-booth-movies-for-2024/"><u>[Updated] The Science Behind Stopping Photo Booth Movies for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-10-best-webcam-covers-and-stickers-for-2024/"><u>[Updated] Top 10 Best Webcam Covers & Stickers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-mac-videography-tools-unleashed-in-sierra-os/"><u>[Updated] Top 5 Mac Videography Tools Unleashed in Sierra OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-secrets-to-adding-seconds-to-youtube-clips/"><u>2024 Approved Unveiling Secrets to Adding Seconds to YouTube Clips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-to-buying-todays-best-360-cameras/"><u>2024 Approved Unveiling the Secrets to Buying Today's Best 360 Cameras</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/avoiding-common-pitfalls-in-mlm-essential-techniques-and-tips-from-2009/"><u>Avoiding Common Pitfalls in MLM: Essential Techniques & Tips From 2009</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturing-the-thrill-top-techniques-for-win10-games-for-2024/"><u>Capturing the Thrill Top Techniques for Win10 Games for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-perfect-poster-design-removing-borders-from-canva-images/"><u>In 2024, Perfect Poster Design Removing Borders From Canva Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-fullscreen-editing-with-premiere-pro-experts/"><u>In 2024, The Art of Fullscreen Editing with Premiere Pro Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-photo-backdrop-removal-in-picsart/"><u>In 2024, The Essential Guide to Photo Backdrop Removal in Picsart</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unmatched-portfolio-boosters-top-free-3d-texts/"><u>In 2024, Unmatched Portfolio Boosters - Top Free 3D Texts</u></a></li>
 </ul></div>
 

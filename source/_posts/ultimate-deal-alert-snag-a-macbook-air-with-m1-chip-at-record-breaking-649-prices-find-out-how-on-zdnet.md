@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Deal Alert: Snag a MacBook Air with M1 Chip at Record-Breaking $649 Prices – Find Out How on ZDNet!"
-date: 2024-11-13T09:29:14.270Z
-updated: 2024-11-17T14:07:52.638Z
+date: 2024-11-19T16:06:04.738Z
+updated: 2024-11-27T00:21:31.477Z
 tags:
   - apple
 categories:
@@ -41,6 +41,10 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Walmart's new partnership with Apple allows them to sell computers and laptops directly to customers, a first for the retailer. As such, there's no expiration date for the M1 MacBook Air for $649, but they almost certainly won't stay in stock long at this price. Similarly, Best Buy's $699 price has potential to sell out quick, too. 
@@ -77,29 +81,22 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-online-image-perfection-at-your-fingertips/"><u>[New] Free Online Image Perfection at Your Fingertips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-ranking-top-8-budget-friendly-srt-apps/"><u>[New] The Ultimate Ranking Top 8 Budget-Friendly SRT Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-resource-compendium-for-optimizing-on-screen-captioning/"><u>[New] The Ultimate Resource Compendium for Optimizing On-Screen Captioning</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-intel-high-definition-audio-driver-issues-on-windows-11/"><u>[Solved] Intel High Definition Audio Driver Issues on Windows 11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-essential-tips-for-using-instagrams-sound-emojis/"><u>[Updated] In 2024, Essential Tips for Using Instagram's Sound Emojis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-novices-guide-to-photo-perfection-in-snapseed/"><u>[Updated] The Novice's Guide to Photo Perfection in Snapseed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>[Updated] Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-uhd-precision-converter-clearer-sharper-visuals/"><u>[Updated] UHD Precision Converter Clearer, Sharper Visuals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-tips-tuning-your-snapchat-videos-for-maximum-impact/"><u>2024 Approved Top Tips Tuning Your Snapchat Videos for Maximum Impact</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-15-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 15 Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-redmi-k70e-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Redmi K70E PIN</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-pinnacle-of-mac-livestream-software-1-5-guide/"><u>In 2024, The Pinnacle of Mac Livestream Software - #1-5 Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/konvertere-dng-format-naar-jpeg-online-gratis-met-movavi/"><u>Konvertere DNG-Format Naar JPEG Online Gratis Met Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-unable-to-connect-issues-in-kodi-a-comprehensive-guide/"><u>Resolving 'Unable to Connect' Issues in Kodi – A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/taking-flight-in-depth-review-of-the-x4-fpv-quadcopter-for-2024/"><u>Taking Flight In-Depth Review of the X4 FPV Quadcopter for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/tech-savvy-gaming-windows-10-video-capture-tactics-for-2024/"><u>Tech-Savvy Gaming Windows 10 Video Capture Tactics for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-from-boredom-to-attention-unveiling-the-6-key-videos/"><u>[New] 2024 Approved From Boredom to Attention Unveiling the 6 Key Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-flourish-in-fame-elevate-from-zero-to-1000-followersmonthly/"><u>[New] Flourish in Fame Elevate From Zero to 1,000 Followers/Monthly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-multi-task-experience-safe-area-and-pip-settings/"><u>[New] Tailoring Your Multi-Task Experience Safe Area & PIP Settings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-top-best-background-erase-software/"><u>[New] Top Best Background Erase Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-handbook-for-swapping-music-libraries/"><u>[Updated] The Ultimate Handbook for Swapping Music Libraries</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-8-tools-for-efficiently-planning-instagram-content/"><u>[Updated] Top 8 Tools for Efficiently Planning Instagram Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-live-streaming-technologies-for-broadcinas/"><u>[Updated] Top Live Streaming Technologies for Broadcinas</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-transform-your-vision-into-reality-windows-11-video-creation/"><u>[Updated] Transform Your Vision Into Reality Windows 11 Video Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-visual-treasures-a-pexels-search-guide/"><u>[Updated] Unleashing Visual Treasures A Pexels Search Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-learning-snapseeds-power-tools/"><u>2024 Approved Unleash Creativity Learning Snapseed's Power Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-tactics-to-modify-playback-speed-in-spotify-for-2024/"><u>Advanced Tactics to Modify Playback Speed in Spotify for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-the-impact-of-chatgpt-on-user-data-security-is-it-safe/"><u>Assessing the Impact of ChatGPT on User Data Security: Is It Safe?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-14-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 14 Plus and iPad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unpacking-xmedia-suite-review-all-you-need-to-know/"><u>In 2024, Unpacking XMedia Suite Review All You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-like-a-pro-with-telegram-web-for-2024/"><u>Navigating Like a Pro with Telegram Web for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/simplifica-tu-almacenamiento-mediante-el-software-raid-clone-para-crear-configuraciones-raid-multiunidad/"><u>Simplifica Tu Almacenamiento Mediante El Software RAID Clone Para Crear Configuraciones RAID Multiunidad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-hd-tech-a-look-at-hp-envy-27-for-2024/"><u>The Evolution of HD Tech - A Look at HP Envy 27 for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

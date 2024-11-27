@@ -1,7 +1,7 @@
 ---
 title: "Redefining AI Development Strategies: Exploring Alternatives to Massive Language Models"
-date: 2024-09-19 11:24:30
-updated: 2024-09-20 12:47:23
+date: 2024-11-24T21:52:25.257Z
+updated: 2024-11-26T19:14:31.861Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-to-effective-video-capturing-with-vsdc-and-others/"><u>[New] In 2024, Unveiling the Secrets to Effective Video Capturing with VSDC & Others</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncover-the-best-5-ios-applications-for-easy-podcasting/"><u>[New] Uncover the Best 5 iOS Applications for Easy Podcasting</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-essential-tips-for-producing-high-quality-youtube-videos/"><u>[Updated] Essential Tips for Producing High-Quality YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-exclusive-insights-into-making-memorable-instagram-movies/"><u>[Updated] Exclusive Insights Into Making Memorable Instagram Movies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thank-you-in-motion-templates-for-every-budget-level/"><u>[Updated] Thank You in Motion Templates for Every Budget Level</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-timeline-enhancement-incor-written-by-assistant/"><u>[Updated] Timeline Enhancement Incor Written by Assistant</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-real-time-media-streamers/"><u>2024 Approved Superior Real-Time Media Streamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-malfunctioning-usb-connectivity-in-windows-11-systems/"><u>How to Repair Malfunctioning USB Connectivity in Windows 11 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-messaging-a-step-by-step-guide-to-sending-texts-from-your-ipad/"><u>Mastering Messaging: A Step-by-Step Guide to Sending Texts From Your iPad</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/quick-how-to-transferring-windows-10-images-onto-usb-drives/"><u>Quick How-To: Transferring Windows 10 Images Onto USB Drives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-and-modernizing-clipboard-memory-usage-in-windows-11/"><u>Streamlining and Modernizing Clipboard Memory Usage in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/techniques-for-more-watches-on-your-insta-vids-for-2024/"><u>Techniques for More Watches on Your Insta Vids for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-connectors-companion-instagram-to-tiktok-guide-for-2024/"><u>The Connector's Companion Instagram to TikTok Guide for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-infinix-note-30-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Infinix Note 30 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-roadmap-to-crafting-high-quality-srt-files-for-2024/"><u>The Ultimate Roadmap to Crafting High-Quality SRT Files for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-video-translation-playbook-with-13-expert-recommended-apps-for-2024/"><u>The Ultimate Video Translation Playbook with 13 Expert-Recommended Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turning-twitter-videos-into-audible-mp3s-for-2024/"><u>Turning Twitter Videos Into Audible MP3s for 2024</u></a></li>
+</ul></div>
+

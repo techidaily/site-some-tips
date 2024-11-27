@@ -1,7 +1,7 @@
 ---
 title: Thousands Gain Access to Exclusive AI Knowledge with Apple's New Initiative for Students and Alumni | ZDNET
-date: 2024-09-17 22:50:45
-updated: 2024-09-20 11:32:33
+date: 2024-11-24T03:13:58.565Z
+updated: 2024-11-26T16:05:29.480Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-charting-a-course-for-revenue-with-ytp2024-insights/"><u>[New] Charting a Course for Revenue with YTP2024 Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tale-bearers-school-distinguished-dothee/"><u>[New] Tale Bearers School - Distinguished Dothee</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tech-assisted-jogs-top-virtual-reality-walking-machines-explored/"><u>[New] Tech-Assisted Jogs Top Virtual Reality Walking Machines Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-2022-winter-games-zenith-of-snowboard-cross/"><u>[New] The 2022 Winter Games Zenith of Snowboard Cross</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leveraging-periscope-for-real-time-engagement/"><u>[Updated] Leveraging Periscope for Real-Time Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-srt-primer-for-enthusiasts/"><u>[Updated] The Ultimate SRT Primer for Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transcription-and-task-execution-on-the-go-fee-free/"><u>[Updated] Transcription and Task Execution on the Go – Fee-Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-new-potentials-with-macos-11-big-sur/"><u>[Updated] Unlocking New Potentials with macOS 11 Big Sur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-youtubes-hidden-gems-the-comment-space/"><u>[Updated] Unveiling YouTube's Hidden Gems The Comment Space</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-simplicity-and-hidden-quirks-of-sonos-latest-s2-app-according-to-zdnets-insightful-review/"><u>Discover the Simplicity & Hidden Quirks of Sonos' Latest S2 App, According to ZDNet's Insightful Review</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-zoom-in-google-meet/"><u>How to Zoom In Google Meet</u></a></li>
+<li><a href="https://win-special.techidaily.com/ifind-data-restoration-expert-guide-on-retrieving-lost-information-from-your-hard-drive-with-ifind/"><u>IFind Data Restoration: Expert Guide on Retrieving Lost Information From Your Hard Drive with iFinD</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-s23-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/perfecting-the-science-of-instagram-highlight-recovery/"><u>Perfecting the Science of Instagram Highlight Recovery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-value-dome-cams-affordable-360-filmmaking-tools-for-2024/"><u>Top Value Dome Cams Affordable 360° Filmmaking Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-se-2020-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone SE (2020)? | Stellar</u></a></li>
+</ul></div>
+

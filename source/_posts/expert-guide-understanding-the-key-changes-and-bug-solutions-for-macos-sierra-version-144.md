@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Understanding the Key Changes and Bug Solutions for macOS Sierra (Version 14.4)"
-date: 2024-11-16T09:58:12.229Z
-updated: 2024-11-17T00:14:01.862Z
+date: 2024-11-24T02:43:18.254Z
+updated: 2024-11-26T16:28:44.015Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A crushing upset
 
 Somehow, though, Apple managed to get many, many people negatively worked up about one aspect of its launch.
@@ -71,10 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -94,10 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -148,22 +146,20 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-video-productions-15-top-tier-free-music-websites/"><u>[New] 2024 Approved Elevate Your Video Productions 15 Top-Tier Free Music Websites</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-intricate-yet-straightforward-guide-exploring-popular-youtube-reactions/"><u>[New] 2024 Approved The Intricate Yet Straightforward Guide Exploring Popular YouTube Reactions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/earing-up-for-a-leisurely-view-three-methods-to-tame-video-speed-on-youtube-60-chars-minor-exception-due-to-title-length-but-offers-comprehensive-insig/"><u>[New] Gearing Up for a Leisurely View Three Methods to Tame Video Speed on YouTube (60 Chars, Minor Exception Due to Title Length but Offers Comprehensive Insight)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-smartest-titles-at-your-fingertips/"><u>[New] Smartest Titles at Your Fingertips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-hear-the-hd-story-from-youtube-to-twitters-vids-for-2024/"><u>[Updated] Hear the HD Story From YouTube to Twitter's Vids for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-how-to-use-green-screen-for-streaming/"><u>[Updated] How to Use Green Screen for Streaming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-foundations-of-vsco-photo-manipulation/"><u>[Updated] The Foundations of VSCO Photo Manipulation</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unleashing-instagram-success-through-precision-metrics-monitoring/"><u>[Updated] Unleashing Instagram Success Through Precision Metrics Monitoring</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-leading-tech-for-cloud-saving-top-choices-for-android/"><u>2024 Approved Leading Tech for Cloud Saving Top Choices for Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-smooth-segments-crossfade-logic-pro-steps/"><u>2024 Approved The Key to Smooth Segments Crossfade Logic Pro Steps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-quintessential-collection-of-anime-intros/"><u>2024 Approved The Quintessential Collection of Anime Intros</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-social-media-success-a-comprehensive-10-step-plan/"><u>In 2024, Unlock Social Media Success A Comprehensive 10-Step Plan</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-youtubes-srt-a-three-step-process/"><u>In 2024, Unlocking YouTube’s SRT A Three-Step Process</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-metaverse-awaits-gear-up-with-these-tools-for-2024/"><u>The Metaverse Awaits Gear Up with These Tools for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-app-non-installation-microsoft-tips/"><u>Troubleshooting App Non-Installation: Microsoft Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-speed-loading-windows-photo-displayer-for-2024/"><u>Ultimate Speed-Loading Windows Photo Displayer for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-chroma-chronicles-expertise-in-color-crafting-for-2024/"><u>[New] Chroma Chronicles Expertise in Color Crafting for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-guide-establishing-your-first-youtube-profile/"><u>[New] Step-by-Step Guide Establishing Your First YouTube Profile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-import-photos-and-videos-into-windows-10/"><u>[New] The Ultimate Guide to Import Photos & Videos Into Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-movie-journey-for-inspiration-seekers/"><u>[New] The Ultimate Movie Journey for Inspiration Seekers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-selection-affordable-hd-cams-for-sports/"><u>[New] Ultimate Selection Affordable HD Cams for Sports</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-turbocharged-windows-content-assessment/"><u>[Updated] 2024 Approved Turbocharged Windows Content Assessment</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-free-yourself-from-video-edges-on-youtube/"><u>[Updated] Free Yourself From Video Edges on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-new-screen-recorder-tools-analysis-march-2023/"><u>[Updated] In 2024, New Screen Recorder Tools Analysis – March 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tap-out-of-tiktok-clutter-editing-guide-for-massive-drafts/"><u>[Updated] Tap Out of TikTok Clutter Editing Guide for Massive Drafts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uniting-social-spheres-from-instagram-to-tiktok-triumphs/"><u>[Updated] Uniting Social Spheres From Instagram to TikTok Triumphs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-crafting-impactful-youtube-channel-logo-tips/"><u>2024 Approved Crafting Impactful YouTube Channel Logo Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-crisp-clear-cinematography/"><u>2024 Approved The Key to Crisp, Clear Cinematography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-path-to-richer-textual-design-in-ae/"><u>2024 Approved The Path to Richer Textual Design in AE</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-sound-functionality-to-airpods-when-linked-with-windows-computers/"><u>How to Restore Sound Functionality to AirPods When Linked with Windows Computers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-infinix-zero-5g-2023-turbo-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Infinix Zero 5G 2023 Turbo Location | Dr.fone</u></a></li>
 </ul></div>
 

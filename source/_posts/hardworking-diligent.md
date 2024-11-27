@@ -1,7 +1,7 @@
 ---
 title: Hardworking - Diligent
-date: 2024-09-17 13:39:46
-updated: 2024-09-20 11:24:50
+date: 2024-11-25T20:49:22.438Z
+updated: 2024-11-26T23:07:21.737Z
 tags:
   - developer
 categories:
@@ -57,6 +57,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-learn-how-to-change-your-in-game-characters-vocal-presence-with-ease-for-free/"><u>[New] Learn How to Change Your In-Game Character's Vocal Presence with Ease - For FREE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tag-and-showcase-a-podcast-episode/"><u>[New] Tag and Showcase a Podcast Episode</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-reverse-videos-on-android/"><u>[Updated] How to Reverse Videos on Android ?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-dji-quadcopters-starter-upgraded-professional-edition/"><u>[Updated] In 2024, DJI Quadcopters Starter, Upgraded, Professional Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-television-or-projector-unraveling-the-best-for-4k-viewing-pleasure/"><u>[Updated] Television or Projector? Unraveling the Best for 4K Viewing Pleasure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-best-free-platforms-for-unique-and-striking-text-appeal/"><u>[Updated] The Best Free Platforms for Unique and Striking Text Appeal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-spoken-words-into-written-text-using-in-built-tools-of-office-suite-ms-word/"><u>[Updated] Transforming Spoken Words Into Written Text Using In-Built Tools of Office Suite - MS Word</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-selective-object-removal-in-iphone-images/"><u>[Updated] Ultimate Guide to Selective Object Removal in iPhone Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-your-media-mastering-mp4-and-other-formats-in-vlc/"><u>2024 Approved Streamlining Your Media Mastering MP4 & Other Formats in VLC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-subtitle-mastery-made-easy-10-free-online-tools/"><u>2024 Approved Subtitle Mastery Made Easy - 10 Free Online Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-realm-of-melodies-where-to-get-hearing-heroes-ringtones/"><u>2024 Approved The Realm of Melodies Where to Get Hearing Heroes' Ringtones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-gratis-ai-exploring-6-compelling-reasons-for-opting-for-chatgpt-plus-even-with-free-access-to-gpt-4/"><u>Beyond Gratis AI: Exploring 6 Compelling Reasons for Opting for ChatGPT Plus Even with Free Access to GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-tailored-ai-personalized-chatgpt-creation-guide/"><u>Crafting Tailored AI: Personalized ChatGPT Creation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-guide-for-updating-mouse-drivers-in-line-with-hid-standards/"><u>Essential Guide for Updating Mouse Drivers in Line with HID Standards</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-frequent-baldurs-gate-3-game-crashing-on-your-computer/"><u>Expert Tips: Overcoming Frequent Baldur's Gate 3 Game-Crashing on Your Computer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/plain-screen-recorder-windows-10-edition/"><u>Plain Screen Recorder - Windows 10 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/switching-up-your-iphones-call-sound-effectively-for-2024/"><u>Switching up Your iPhone's Call Sound Effectively for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailoring-your-canvas-a-guide-to-erasing-background-elements-for-2024/"><u>Tailoring Your Canvas A Guide to Erasing Background Elements for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-luxury-cosmetics-series-for-2024/"><u>Ultimate Luxury Cosmetics Series for 2024</u></a></li>
+</ul></div>
+

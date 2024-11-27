@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Comfort of Change: My Experience with KDE Plasma 6 – A Positive Transition | ZDNet"
-date: 2024-09-18 19:32:51
-updated: 2024-09-20 12:46:16
+date: 2024-11-20T22:35:05.212Z
+updated: 2024-11-27T05:06:01.921Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-monetized-critique-videos-the-truth-unveiled/"><u>[New] Monetized Critique Videos The Truth Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-rhythmic-resonance-harmony-for-visuals/"><u>[New] Rhythmic Resonance Harmony for Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-take-your-photography-to-new-heights-with-lightrooms-hdr-capabilities/"><u>[New] Take Your Photography to New Heights with Lightroom’s HDR Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-places-for-accessing-gratis-graphics/"><u>[New] Top 10 Places for Accessing Gratis Graphics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unraveling-the-mystery-of-phantoms-velocity-inversion/"><u>[New] Unraveling the Mystery of Phantom's Velocity Inversion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-video-editing-in-windows-10-photos-using-story-remix/"><u>[Updated] Streamline Video Editing in Windows 10 Photos Using Story Remix</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-iphone-photography-playbook-prime-angles-uncovered/"><u>[Updated] The Ultimate iPhone Photography Playbook Prime Angles Uncovered</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-navigating-video-recording-and-editing-basics-with-adobe-connect/"><u>2024 Approved Navigating Video Recording & Editing Basics with Adobe Connect</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-budget-powerhouse-a-top-productivity-laptop-beating-thinkpads-and-macbooks-on-sale-now-techdigest/"><u>Discover the Ultimate Budget Powerhouse: A Top Productivity Laptop Beating ThinkPads and MacBooks on Sale Now | TechDigest</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-camon-20-premier-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Camon 20 Premier 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-packaging-a-marketing-approach-for-2024/"><u>Unraveling the Packaging A Marketing Approach for 2024</u></a></li>
+</ul></div>
+

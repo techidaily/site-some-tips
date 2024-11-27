@@ -1,7 +1,7 @@
 ---
 title: "Apple Coding Community Excited: New AI Integration Brings Free Powerful Tools to Programmers – Dive In Today!"
-date: 2024-09-18 13:53:20
-updated: 2024-09-20 10:54:58
+date: 2024-11-20T20:52:49.845Z
+updated: 2024-11-27T05:05:22.147Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/rand-your-content-download-complimentary-templates-for-youtube-makers/"><u>[New] Brand Your Content Download Complimentary Templates for YouTube Makers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-effortless-methods-to-document-console-gaming-for-2024/"><u>[New] Effortless Methods to Document Console Gaming for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-power-of-consistency-steps-to-increase-youtube-views-and-subscriptions/"><u>[New] The Power of Consistency Steps to Increase YouTube Views and Subscriptions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-cadencecritic-sound-evaluation-and-judgment/"><u>2024 Approved CadenceCritic Sound Evaluation & Judgment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-stabilizing-shaky-images-a-realistic-benefit-or-hype/"><u>2024 Approved Stabilizing Shaky Images A Realistic Benefit or Hype?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-syncopating-youtube-melodies-with-visuals/"><u>2024 Approved Syncopating YouTube Melodies with Visuals</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-tiktok-profile-boost-smartly-insert-linktree-into-about-section/"><u>2024 Approved TikTok Profile Boost Smartly Insert Linktree Into About Section</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-identifying-and-resolving-every-itunes-sync-issue/"><u>Comprehensive Guide: Identifying and Resolving Every iTunes Sync Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mic-verification-techniques-a-rapid-and-easy-approach-to-clarity/"><u>Mic Verification Techniques: A Rapid & Easy Approach to Clarity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proven-methods-for-conducting-outstanding-interviews-for-2024/"><u>Proven Methods for Conducting Outstanding Interviews for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stream-on-the-go-youtube-via-mobile-for-understaffed-creators-for-2024/"><u>Stream on the Go YouTube via Mobile for Understaffed Creators for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unmatched-assistance-best-free-tools-for-a-win11-revamp/"><u>Unmatched Assistance: Best Free Tools for a Win11 Revamp</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unusual-sideway-photos-in-instagram-storytelling-for-2024/"><u>Unusual Sideway Photos in Instagram Storytelling for 2024</u></a></li>
+</ul></div>
+

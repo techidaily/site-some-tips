@@ -1,7 +1,7 @@
 ---
 title: "Explore Microsoft's Newest Innovation: The Financial Genius Bot 'Copilot' | Get a Sneak Peek with ZDNet"
-date: 2024-09-18 20:50:22
-updated: 2024-09-20 12:33:34
+date: 2024-11-25T01:20:05.773Z
+updated: 2024-11-27T04:43:40.896Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-audiovisual-virtuoso-capturing-emotion-in-harmony/"><u>[New] In 2024, Audiovisual Virtuoso Capturing Emotion in Harmony</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unleashing-the-potential-of-your-social-media-past/"><u>[New] In 2024, Unleashing the Potential of Your Social Media Past</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-premium-free-srt-translation-services/"><u>[New] Unveiling Premium Free SRT Translation Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-choosing-video-aspect-ratios/"><u>[Updated] The Art of Choosing Video Aspect Ratios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-comprehensive-guide-to-editing-hauls-for-online-audiences/"><u>[Updated] The Comprehensive Guide to Editing Hauls for Online Audiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-attention-grabber-composer/"><u>2024 Approved Top Attention Grabber Composer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/advanced-cleaning-solutions-at-home-the-complete-rundown-of-the-dreame-bot-l1-0-pro-review/"><u>Advanced Cleaning Solutions at Home - The Complete Rundown of the Dreame Bot L1 0 Pro Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effective-fixes-for-samsung-blu-ray-players-that-refuse-to-function/"><u>Effective Fixes for Samsung Blu-Ray Players That Refuse To Function</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-most-advanced-bird-feeders-a-review-by-smarttechtimes/"><u>Exploring the Most Advanced Bird Feeders : A Review by SmartTechTimes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unhackable-blueprint-for-inserting-your-tiktok-links/"><u>In 2024, Unhackable Blueprint for Inserting Your TikTok Links</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-dji-phantom-3s-superior-flight-control-features/"><u>In 2024, Unveiling DJI Phantom 3'S Superior Flight Control Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/landing-a-bargain-enjoy-yourself-with-a-giant-high-definition-samsung-49-oled-screen-for-less-than-youd-think/"><u>Landing a Bargain: Enjoy Yourself with a Giant, High-Definition Samsung 49 OLED Screen for Less Than You'd Think!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-with-manycam-top-virtual-webcam-software-solution/"><u>Live Streaming Mastery with ManyCam: Top Virtual Webcam Software Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smoothest-android-3d-video-streaming-for-2024/"><u>Smoothest Android 3D Video Streaming for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-green-screen-expertise-with-kinemaster-for-2024/"><u>The Ultimate Guide to Green Screen Expertise with Kinemaster for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/whirling-installer-range/"><u>Whirling Installer Range</u></a></li>
+</ul></div>
+

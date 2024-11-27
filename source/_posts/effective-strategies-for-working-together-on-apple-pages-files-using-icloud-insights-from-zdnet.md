@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Working Together on Apple Pages Files Using iCloud - Insights From ZDNet
-date: 2024-11-14T08:05:48.157Z
-updated: 2024-11-16T23:04:08.543Z
+date: 2024-11-20T03:10:43.263Z
+updated: 2024-11-26T16:30:23.205Z
 tags:
   - apple
 categories:
@@ -34,15 +34,16 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -53,10 +54,7 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
@@ -69,13 +67,6 @@ Image: Jack Wallen
 
 ## Enable the Collaboration feature
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Open an Apple Pages document
 
 The first thing you must do is open the Pages document that will be shared with your collaborators. Once you have the document open, you should see the Collaborate button at the top of the window (**Figure 3**).
@@ -84,19 +75,6 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -104,6 +82,10 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -122,6 +104,10 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -163,14 +149,22 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ctors-insight-crafting-engaging-online-reactions-on-youtube-3-pro-tips/"><u>[New] Actor's Insight Crafting Engaging Online Reactions on YouTube (3 Pro Tips)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-tech-gems-best-desktops-revealed/"><u>[New] Ultimate Tech Gems - Best Desktops Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-styling-secrets-with-a-diy-video-editing-guide/"><u>[New] Unlock Styling Secrets with a DIY Video Editing Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-the-potential-of-hero5-black-for-stunning-visuals/"><u>[New] Unlock the Potential of Hero5 Black for Stunning Visuals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-to-create-personalized-whatsapp-alerts/"><u>2024 Approved Unlock the Power to Create Personalized WhatsApp Alerts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/achieve-more-chromes-top-8-productivity-enhancers-powered-by-ai/"><u>Achieve More: Chrome's Top 8 Productivity Enhancers Powered by AI</u></a></li>
-<li><a href="https://fox-that.techidaily.com/avoid-auto-correction-blunders-6-tips-for-perfect-iphone-typing-skills/"><u>Avoid Auto-Correction Blunders: 6 Tips for Perfect iPhone Typing Skills</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-lenovo-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Lenovo Phone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-your-fitness-routine-top-10-yoga-streams-unveiled/"><u>[New] 2024 Approved Elevate Your Fitness Routine - Top 10 Yoga Streams Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-captivating-cinematic-experience-elevate-video-quality-with-filters-pc-and-mobile-for-2024/"><u>[New] Captivating Cinematic Experience Elevate Video Quality with Filters (PC & Mobile) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-elite-watchlist-top-10-advanced-video-capture-programs-for-2024/"><u>[New] Elite Watchlist Top 10 Advanced Video Capture Programs for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-world-class-audio-broadcast-channels/"><u>[New] In 2024, World-Class Audio Broadcast Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-of-free-vfx-websites/"><u>[New] The Ultimate List of FREE VFX Websites</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-immediate-audience-monitoring-tools-for-2024/"><u>[Updated] Immediate Audience Monitoring Tools for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-action-replay-compare-gopros-hero5-black-and-session/"><u>[Updated] In 2024, Action Replay Compare GoPro's Hero5 Black & Session</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-screenplay-treasures-for-each-movie-division/"><u>[Updated] Ultimate Screenplay Treasures for Each Movie Division</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-panoramic-camera-scrutiny/"><u>2024 Approved Ultimate Panoramic Camera Scrutiny</u></a></li>
+<li><a href="https://win11.techidaily.com/automatic-empty-recycle-bin-in-windows-step-by-step/"><u>Automatic Empty Recycle Bin in Windows Step by Step</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-20-word-formula-to-skyrocket-your-business-reach/"><u>In 2024, The 20-Word Formula to Skyrocket Your Business Reach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveil-clarity-the-finest-10-online-editing-utilities-ranked/"><u>In 2024, Unveil Clarity The Finest 10 Online Editing Utilities Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-premier-livestream-networks/"><u>In 2024, Unveiling the Premier Livestream Networks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-bootmgr-not-found-issue-a-comprehensive-guide/"><u>Solving the BOOTMGR Not Found Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/twirl-off-tiktoks-top-country-hits-for-serene-sessions-for-2024/"><u>Twirl Off TikTok's Top Country Hits for Serene Sessions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-potential-with-top-pixlr-editing-techniques-for-2024/"><u>Unlocking Potential with Top Pixlr Editing Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-to-premieres-full-screen-mode-for-2024/"><u>Unveiling the Secrets to Premiere's Full Screen Mode for 2024</u></a></li>
 </ul></div>
 

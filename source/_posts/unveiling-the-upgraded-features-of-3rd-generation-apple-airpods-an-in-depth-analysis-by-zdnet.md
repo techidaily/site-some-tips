@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Upgraded Features of 3Rd Generation Apple AirPods: An In-Depth Analysis by ZDNET"
-date: 2024-11-13T22:52:04.921Z
-updated: 2024-11-16T23:31:36.084Z
+date: 2024-11-21T22:00:01.793Z
+updated: 2024-11-27T04:36:15.573Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A trained charm offensive
 
 But before I could bathe in that oddness, a charming saleswoman wandered over and asked if she could help.
@@ -79,10 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -124,10 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -193,22 +191,24 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-culinary-cinema-mastery-the-7-pathways-to-delectable-vids/"><u>[New] In 2024, Culinary Cinema Mastery - The 7 Pathways to Delectable Vids</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-event-ensemble-curating-best-dj-templates/"><u>[Updated] 2024 Approved Event Ensemble Curating Best DJ Templates</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-awaken-the-artist-within-selective-shots-for-inspiration/"><u>2024 Approved Awaken the Artist Within Selective Shots for Inspiration</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/chuckle-clips-for-iphone/"><u>Chuckle Clips for iPhone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-prime-landscapes-for-streaming-success/"><u>In 2024, Prime Landscapes for Streaming Success</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-lenovo-legion-7i-16gb-ram-amd-ryzen-500-series-review-initial-thoughts-and-specs-unpacked/"><u>In-Depth Lenovo Legion 7I 16GB RAM, AMD Ryzen 500 Series Review: Initial Thoughts and Specs Unpacked.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-through-artificial-intelligence-myths-key-takeaways-from-the-latest-abbyy-ai-summit/"><u>Navigating Through Artificial Intelligence Myths: Key Takeaways From the Latest ABBYY AI Summit</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-technology-the-key-to-customized-user-experience-and-seo-success/"><u>Optimize with Cookiebot Technology: The Key to Customized User Experience and SEO Success</u></a></li>
-<li><a href="https://some-tips.techidaily.com/professionelle-verbesserung-mit-hilfe-digitaler-zwillingsmodelle-fur-ihr-unternehmen/"><u>Professionelle Verbesserung Mit Hilfe Digitaler Zwillingsmodelle Für Ihr Unternehmen</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209925313-9781594391484-qigong-the-secret-of-youth-2nd-ed-2nd-ed/"><u>Qigong, The Secret of Youth 2nd. Ed. (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revamping-your-know-your-customer-approach-with-the-latest-techniques-insights-from-abbyy/"><u>Revamping Your Know-Your-Customer Approach with the Latest Techniques - Insights From ABBYY</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-of-creating-your-own-gmail-disguise-address/"><u>Step-by-Step Process of Creating Your Own Gmail Disguise Address</u></a></li>
-<li><a href="https://some-tips.techidaily.com/strategies-to-enhance-page-ranking-and-web-traffic-through-seo-techniques/"><u>Strategies to Enhance Page Ranking and Web Traffic Through SEO Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamline-legal-processes-using-abbyys-innovative-contract-analysis-platform/"><u>Streamline Legal Processes Using ABBYY's Innovative Contract Analysis Platform</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-evolution-of-trade-finance-adaptive-strategies-for-emerging-obstacles-and-opportunities/"><u>The Evolution of Trade Finance: Adaptive Strategies for Emerging Obstacles and Opportunities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-ai-the-key-to-unlocking-iot-potential-insights-from-abbyy/"><u>Unleashing the Power of AI: The Key to Unlocking IoT Potential - Insights From ABBYY</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-guide-to-streamlined-gaming-with-steam-big-picture/"><u>Your Guide to Streamlined Gaming with Steam Big Picture</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-freeframe-gallery-a-haven-for-the-pocket-savvy-in-tiktok-artistry/"><u>[New] In 2024, The FreeFrame Gallery A Haven for the Pocket-Savvy in TikTok Artistry</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-secrets-to-capturing-engaging-and-dynamic-presentations/"><u>[New] Secrets to Capturing Engaging and Dynamic Presentations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-summit-of-synergy-for-vr-sensations/"><u>[New] Summit of Synergy for VR Sensations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-2022-winter-games-zenith-of-snowboard-cross/"><u>[New] The 2022 Winter Games Zenith of Snowboard Cross</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-finest-5-android-image-boosters/"><u>[New] The Finest 5 Android Image Boosters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-how-to-for-ifunnys-meme-app/"><u>[New] The Ultimate How-To for iFunny's Meme App</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieving-perfect-reproduction-tips-for-exceptional-sound-capture/"><u>[Updated] 2024 Approved Achieving Perfect Reproduction Tips for Exceptional Sound Capture</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-navigating-social-streams-find-just-watched-video-list-on-facebook/"><u>[Updated] In 2024, Navigating Social Streams Find Just-Watched Video List on Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-googles-ar-sticker-innovation/"><u>[Updated] Understanding Google's AR Sticker Innovation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unlocking-chromebook-zoom-capabilities/"><u>[Updated] Unlocking Chromebook Zoom Capabilities</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ios-screen-recording-the-updated-process/"><u>2024 Approved IOS Screen Recording The Updated Process</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-text-boosting-techniques-in-videos/"><u>2024 Approved Top 10 Text Boosting Techniques in Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722532726274-from-dark-fantasy-to-dazzling-display-demons-souls-in-a-graphic-overhaul/"><u>From Dark Fantasy to Dazzling Display - Demon's Souls in a Graphic Overhaul</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-oppo-f25-pro-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-eye-candy-for-digital-performances/"><u>In 2024, Ultimate Eye Candy for Digital Performances</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-vanguard-of-radio-theatre-composition-for-2024/"><u>The Vanguard of Radio-Theatre Composition for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-portable-screen-mirroring-devices/"><u>Top Rated Portable Screen Mirroring Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-secrets-of-movie-maker-for-windows-11-with-our-guide-for-2024/"><u>Unlock the Secrets of Movie Maker for Windows 11 with Our Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-finest-affordable-webm-players-on-market-for-2024/"><u>Unveiling the Finest Affordable WebM Players on Market for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Doctor's Diagnostic Accuracy: Integrating Generative AI with Healthcare Records - Insights From ZDNet"
-date: 2024-09-18 19:23:32
-updated: 2024-09-20 10:52:37
+date: 2024-11-22T22:27:33.441Z
+updated: 2024-11-27T02:11:57.662Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-audio-equipment-for-crystal-clear-4k-video-capture/"><u>[New] Top Audio Equipment for Crystal Clear 4K Video Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-artistic-expression-download-movie-maker-for-win11-enthusiasts/"><u>[New] Unlock Artistic Expression Download Movie Maker for Win11 Enthusiasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-cost-free-multi-os-video-player-releases-for-2024/"><u>10 Cost-Free, Multi-OS Video Player Releases for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-lineup-elite-webcam-holders/"><u>2024 Approved Superior Lineup Elite Webcam Holders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-and-tricks-adjusting-the-tempo-of-your-snapchat-videos/"><u>2024 Approved Tips and Tricks Adjusting the Tempo of Your Snapchat Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-curated-selection-of-top-6-nft-maker-applications-for-2024/"><u>A Curated Selection of Top 6 NFT Maker Applications for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/alternatives-to-fraps-comprehensive-guide-to-comparable-recording-software-options/"><u>Alternatives to Fraps: Comprehensive Guide to Comparable Recording Software Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-prints-with-microsoft-defender-smartscreen-edge/"><u>Configuring Prints with Microsoft Defender SmartScreen Edge</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-method-revive-your-wacom-experience-in-win-10117-devices/"><u>Direct Method: Revive Your Wacom Experience in Win 10/11/7 Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-se-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone SE to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-combo-of-virtual-reality-tech/"><u>In 2024, The Ultimate Combo of Virtual Reality Tech</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-15-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 15 Making It Possible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-no-cost-voice-modifier-transform-your-valorant-gameplay-for-2024/"><u>Ultimate No-Cost Voice Modifier Transform Your Valorant Gameplay for 2024</u></a></li>
+</ul></div>
+

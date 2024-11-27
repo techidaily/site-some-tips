@@ -1,7 +1,7 @@
 ---
 title: "Continued Vitality: How the New Alliance Secures Linux Kernel 4.14'S LTS Legacy"
-date: 2024-09-19 21:59:56
-updated: 2024-09-20 12:49:31
+date: 2024-11-23T02:14:48.437Z
+updated: 2024-11-27T04:57:38.395Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-sync-shutter-speed-blur-artistry-in-photoshop/"><u>[New] Sync Shutter Speed Blur Artistry in Photoshop</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unlock-social-media-secrets-with-instagram-insights/"><u>[Updated] In 2024, Unlock Social Media Secrets with Instagram Insights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-personalized-melodies-made-easy-building-a-youtube-music-collection-on-webmobile-for-2024/"><u>[Updated] Personalized Melodies Made Easy Building a YouTube Music Collection on Web/Mobile for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-playlist-for-bike-enthusiasts/"><u>[Updated] Ultimate Playlist for Bike Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-top-hdr-camera-picks/"><u>[Updated] Ultimate Selection Top HDR Camera Picks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-drivers-now-unleashing-full-potential-of-your-microsoft-wireless-mouse-5000/"><u>Download Drivers Now! Unleashing Full Potential of Your Microsoft Wireless Mouse 5000</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-path-to-becoming-an-fcp-specialist/"><u>In 2024, The Ultimate Path to Becoming an FCP Specialist</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-why-the-amazon-fire-hd-10-is-a-perfect-multimedia-choice-for-everyone-in-the-household/"><u>In-Depth Analysis: Why the Amazon Fire HD 10 Is a Perfect Multimedia Choice for Everyone in the Household</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-your-captions-the-top-10-precision-subtitle-editors-for-2024/"><u>Master Your Captions The Top 10 Precision Subtitle Editors for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/say-goodbye-to-an-overflowing-inbox-effortlessly-unveil-the-one-step-hack-for-clear-communication-channels-without-setting-up-rules-or-separate-accounts/"><u>Say Goodbye to an Overflowing Inbox Effortlessly: Unveil the One-Step Hack for Clear Communication Channels without Setting up Rules or Separate Accounts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-techniques-for-flawless-inshot-videos-for-2024/"><u>Transition Techniques for Flawless Inshot Videos for 2024</u></a></li>
+</ul></div>
+

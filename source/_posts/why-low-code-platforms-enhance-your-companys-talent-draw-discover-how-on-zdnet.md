@@ -1,7 +1,7 @@
 ---
 title: Why Low-Code Platforms Enhance Your Company's Talent Draw - Discover How on ZDNet
-date: 2024-09-19 13:43:57
-updated: 2024-09-20 12:27:57
+date: 2024-11-22T00:12:04.462Z
+updated: 2024-11-27T00:21:21.952Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-capture-hearts-on-tiktok-designed-templates-for-visual-impact/"><u>[New] Capture Hearts on TikTok Designed Templates for Visual Impact</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-innovate-meme-designs-in-adobe-tools/"><u>[New] In 2024, Innovate Meme Designs in Adobe Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-zoom-expertise-for-improved-google-meet-visibility/"><u>[New] The Ultimate Zoom Expertise for Improved Google Meet Visibility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-potential-of-zoom-meetings/"><u>[New] Unlocking the Potential of Zoom Meetings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-highest-rated-nintendo-switch-battle-titles-max-156/"><u>[Updated] 2024 Approved Highest-Rated Nintendo Switch Battle Titles (Max 156)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-splitcam-review-does-it-reign-supreme-in-video-tech/"><u>[Updated] 2024 Approved SplitCam Review Does It Reign Supreme in Video Tech?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-crafting-a-personalized-youtube-pathway-to-viewers/"><u>[Updated] Crafting a Personalized YouTube Pathway to Viewers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thrifty-tech-finds-best-cameras-on-a-dime/"><u>[Updated] Thrifty Tech Finds Best Cameras on a Dime</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-motorola-edge-40-neo-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Motorola Edge 40 Neo Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-joyful-journeys-await-best-classic-summer-movies/"><u>In 2024, Joyful Journeys Await Best Classic Summer Movies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-metaverse-and-multi-meva-split-an-exploratory-analysis/"><u>In 2024, The Metaverse & Multi-Meva Split An Exploratory Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-advanced-photo-tools-review/"><u>In 2024, Unveiling Advanced Photo Tools Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-filmmakers-guide-to-enhancing-close-ups-using-kinemaster-for-2024/"><u>The Filmmaker’s Guide to Enhancing Close-Ups Using Kinemaster for 2024</u></a></li>
+</ul></div>
+

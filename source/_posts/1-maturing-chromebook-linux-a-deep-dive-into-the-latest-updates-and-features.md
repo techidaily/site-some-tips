@@ -1,7 +1,7 @@
 ---
 title: "1. Maturing Chromebook Linux: A Deep Dive Into the Latest Updates and Features"
-date: 2024-09-17 20:59:44
-updated: 2024-09-20 12:33:56
+date: 2024-11-20T16:33:45.768Z
+updated: 2024-11-26T17:34:30.601Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-profitable-video-content-starting-and-scaling-up/"><u>[Updated] Profitable Video Content Starting and Scaling Up</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-nuances-of-gamers-channel-templates/"><u>2024 Approved Navigating the Nuances of Gamers' Channel Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-guide-to-video-editing-in-windows-8-movie-maker/"><u>2024 Approved The Complete Guide to Video Editing in Windows 8 Movie Maker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-strategies-for-impartiating-patient-narratives/"><u>2024 Approved Transformative Strategies for Impartiating Patient Narratives</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/cfexpress/"><u>失われた情報を回復:CFexpressカード利用者向け詳細ガイド</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-speech-to-text-processing-in-powerpoint/"><u>In 2024, Streamlining Speech-To-Text Processing in Powerpoint</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-conversational-ais-the-ultimate-list-of-high-performance-chatgpt-prompts-sourced-from-github/"><u>Mastering Conversational AIs: The Ultimate List of High-Performance ChatGPT Prompts Sourced From GitHub</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-the-copyright-symphony-of-instagrams-sounds-for-2024/"><u>Navigating the Copyright Symphony of Instagram's Sounds for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pathfinder-to-peak-physicality-chatgpts-assistance/"><u>Pathfinder to Peak Physicality: ChatGPT's Assistance</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/steelseries-gaming-mouse-drivers-free-download/"><u>SteelSeries Gaming Mouse Drivers - Free Download</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/strategia-di-backup-centralizzato-ottimale-per-server-multipli-windows/"><u>Strategia Di Backup Centralizzato Ottimale per Server Multipli Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-iphone-cinematography-transforming-fast-motion-into-sluggish-sequences-for-2024/"><u>The Art of iPhone Cinematography Transforming Fast Motion Into Sluggish Sequences for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-videos-with-the-right-dimension-proportions-for-2024/"><u>Transform Your Videos with the Right Dimension Proportions for 2024</u></a></li>
+</ul></div>
+

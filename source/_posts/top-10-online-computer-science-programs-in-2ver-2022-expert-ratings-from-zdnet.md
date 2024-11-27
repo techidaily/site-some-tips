@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Online Computer Science Programs in 2veR 2022: Expert Ratings From ZDNet"
-date: 2024-09-17 18:54:50
-updated: 2024-09-20 11:53:54
+date: 2024-11-20T02:30:21.138Z
+updated: 2024-11-26T18:04:43.115Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-cinematic-edge-master-the-top-5-camera-skills/"><u>[New] The Cinematic Edge Master the Top 5 Camera Skills</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tiktok-wallpaper-templates-uncovered/"><u>[New] Top TikTok Wallpaper Templates Uncovered</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-starting-with-telegram-advertising-essential-steps-for-newbies/"><u>[Updated] Starting with Telegram Advertising Essential Steps for Newbies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones/"><u>[Updated] Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-elite-8-virtual-handhelds-overview/"><u>2024 Approved The Elite 8 Virtual Handhelds Overview</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-innovation-iphone-16s-revolutionary-camera-button-unveiled-how-it-enhances-photography-experience-techzn/"><u>Discover the Latest Innovation: IPhone 16'S Revolutionary Camera Button Unveiled - How It Enhances Photography Experience | TechZN</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-upload-window-movie-maker-video-to-vimeo-for-2024/"><u>How to Upload Window Movie Maker Video to Vimeo for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-15-pro-max-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 15 Pro Max in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-pc-masterys-essential-list-for-video-download-enthusiasts/"><u>In 2024, PC Mastery's Essential List for Video Download Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ranking-the-ultimate-10-free-online-subtitle-makers-srt/"><u>In 2024, Ranking the Ultimate 10 Free Online Subtitle Makers (Srt)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-step-by-step-to-subscription-the-youtube-partner-program-route/"><u>In 2024, Step-by-Step to Subscription The YouTube Partner Program Route</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-most-massive-lifting-machines-in-the-sky/"><u>In 2024, The Most Massive Lifting Machines in the Sky</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-iphone-lens-enhancers-x8-series-selection/"><u>In 2024, Top iPhone Lens Enhancers X/8 Series Selection</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-a56s-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo A56s 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-successfully-resolve-a-non-responsive-microsoft-store-appearance/"><u>Steps to Successfully Resolve a Non-Responsive Microsoft Store Appearance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-affordable-video-players-a-comprehensive-list-pc-and-mobile-for-2024/"><u>Ultimate Guide to Affordable Video Players A Comprehensive List (PC & Mobile) for 2024</u></a></li>
+</ul></div>
+

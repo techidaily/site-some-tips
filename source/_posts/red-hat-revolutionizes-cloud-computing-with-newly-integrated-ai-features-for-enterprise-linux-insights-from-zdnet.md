@@ -1,7 +1,7 @@
 ---
 title: Red Hat Revolutionizes Cloud Computing with Newly Integrated AI Features for Enterprise Linux - Insights From ZDNet
-date: 2024-09-19 20:42:15
-updated: 2024-09-20 11:40:21
+date: 2024-11-25T18:23:27.455Z
+updated: 2024-11-26T23:30:58.864Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -40,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -72,6 +80,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-increase-clicks-and-watch-time-with-best-in-class-thumbnails-for-youtube/"><u>[New] In 2024, Increase Clicks and Watch Time with Best-in-Class Thumbnails for YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-optimizing-zoom-hd-quality-clear-methods/"><u>[New] In 2024, Optimizing Zoom HD Quality Clear Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-swift-students-guide-to-bypassing-edgenuity-videos/"><u>[New] The Swift Student's Guide to Bypassing Edgenuity Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unveiling-the-art-of-podcast-rss-mastery-for-2024/"><u>[New] Unveiling the Art of Podcast RSS Mastery for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-step-by-step-guide-adding-tracks-to-premiere-pro-projects/"><u>[Updated] 2024 Approved Step-by-Step Guide Adding Tracks to Premiere Pro Projects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-secrets-to-enthralling-unboxing-content-on-insta/"><u>[Updated] Unlock the Secrets to Enthralling Unboxing Content on Insta</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-editing-decoded-a-deep-dive-into-magix-vpx/"><u>2024 Approved The Art of Editing Decoded A Deep Dive Into Magix VPX</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-expert-guide-to-navigating-win11-easily/"><u>2024 Approved The Expert Guide to Navigating Win11 Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-insiders-guide-to-mastering-windows-10/"><u>2024 Approved The Insider's Guide to Mastering WINDOWS 10</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-infinix-zero-5g-2023-turbo-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Zero 5G 2023 Turbo? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/convert-and-download-hd-tv-episodes-and-full-movies-as-mp4movavi/"><u>Convert and Download HD TV Episodes & Full Movies as MP4/MOV/AVI</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-strategies-to-overcome-finals-error-code-tfla0002-issues/"><u>Effective Strategies to Overcome Finals Error Code TFLA0002 Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-affordable-and-easy-online-passport-pics-tools/"><u>In 2024, Top 10 Affordable & Easy Online Passport Pics Tools</u></a></li>
+</ul></div>
+

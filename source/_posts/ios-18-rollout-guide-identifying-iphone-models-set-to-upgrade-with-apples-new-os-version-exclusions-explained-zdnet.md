@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Rollout Guide: Identifying iPhone Models Set to Upgrade with Apple's New OS Version - Exclusions Explained | ZDNET"
-date: 2024-09-18 18:46:34
-updated: 2024-09-20 12:58:52
+date: 2024-11-24T20:50:52.312Z
+updated: 2024-11-26T16:13:53.855Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -73,6 +81,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-perfect-your-channel-info-a-template-approach/"><u>[New] 2024 Approved Perfect Your Channel Info A Template Approach</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ine-crucial-strategies-to-elevate-your-youtube-presence-for-2024/"><u>[New] Nine Crucial Strategies to Elevate Your Youtube Presence for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-audio-enhanced-video-screen-record-for-2024/"><u>[Updated] Audio-Enhanced Video Screen Record for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-metaverse-masterpieces-top-ten-films-that-reimagine-realities/"><u>[Updated] Metaverse Masterpieces Top Ten Films That Reimagine Realities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-beginners-guide-to-stunning-slow-motion-shooting-with-an-android/"><u>[Updated] The Beginner's Guide to Stunning Slow-Motion Shooting with an Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-comprehensive-guide-to-changing-console-voice/"><u>[Updated] The Comprehensive Guide to Changing Console Voice</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-all-about-facetune-in-depth-user-guide-and-analysis/"><u>2024 Approved All About Facetune In-Depth User Guide & Analysis</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-combat-black-screen-disruptions-in-gaming-feeds/"><u>2024 Approved Combat Black Screen Disruptions in Gaming Feeds</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synthesizing-clarity-a-complete-voice-note-taking-course/"><u>In 2024, Synthesizing Clarity A Complete Voice Note-Taking Course</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transformative-meme-making-discovering-the-best-8-tools/"><u>In 2024, Transformative Meme-Making Discovering the Best 8 Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/premium-collection-of-animated-texts-for-2024/"><u>Premium Collection of Animated Texts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quantum-hdr-unveiled-insightful-guide-for-professionals-for-2024/"><u>Quantum HDR Unveiled Insightful Guide for Professionals for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-mastery-in-cinematic-productions-with-kinemaster-for-2024/"><u>Transition Mastery in Cinematic Productions with Kinemaster for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-risks-why-ai-chatbots-arent-ideal-for-producing-legitimate-windows-11-codes/"><u>Understanding the Risks: Why AI Chatbots Aren't Ideal for Producing Legitimate Windows 11 Codes</u></a></li>
+</ul></div>
+

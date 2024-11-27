@@ -1,7 +1,7 @@
 ---
 title: Transformative Tech or Lazy Convenience? How Bank Chief Information Officers Favor Bold AI Challenges Over Simplistic Prompt Writing Strategies | ZDNET
-date: 2024-09-19 12:57:42
-updated: 2024-09-20 12:57:10
+date: 2024-11-25T21:10:20.737Z
+updated: 2024-11-27T03:48:56.718Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-definitive-guide-to-iphones-how-to-grab-podcast-episodes/"><u>[New] The Definitive Guide to iPhones How to Grab Podcast Episodes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-expert-secrets-for-effective-ipad-sound-capture/"><u>[Updated] In 2024, Expert Secrets for Effective iPad Sound Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-years-finest-photo-framers-and-organizers-compilation/"><u>[Updated] The Year's Finest Photo Framers & Organizers Compilation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-eyeball-enticer-author/"><u>2024 Approved Top-Tier Eyeball Enticer Author</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-pcs-performance-by-clearing-clutter-using-bleachbit-zdnet-recommended/"><u>Boost Your PC's Performance by Clearing Clutter Using BleachBit (ZDNet Recommended)</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-12-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi 12 Phone Screen?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intel-extends-support-with-additional-two-years-of-warranty-on-latest-generation-processors-to-combat-instability-issues/"><u>Intel Extends Support with Additional Two Years of Warranty on Latest Generation Processors to Combat Instability Issues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aging-youtubes-cc-options-for-video-production/"><u>Leveraging YouTube's CC Options for Video Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/perfecting-onscreen-image-clarity-and-detail-for-2024/"><u>Perfecting Onscreen Image Clarity and Detail for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-your-creativity-innovative-online-crop-strategies-for-2024/"><u>Unleash Your Creativity - Innovative Online Crop Strategies for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Top Trending Programming Languages of Today and Their Market Significance - Explored by ZDNet
-date: 2024-09-17 11:19:56
-updated: 2024-09-20 10:44:41
+date: 2024-11-24T00:59:48.652Z
+updated: 2024-11-26T18:31:36.956Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-choice-vr-game-engines-update-march-2023/"><u>[New] 2024 Approved Top Choice VR Game Engines Update - March 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-macpc-vmix-bridge-software/"><u>[New] MacPC VMix Bridge Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secret-seeing-popular-youtube-reactions/"><u>[New] Unveiling the Secret Seeing Popular YouTube Reactions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-dji-phantom-3-a-complete-technical-review/"><u>[Updated] Unveiling DJI Phantom 3 A Complete Technical Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-time-honored-tricks-top-1980s-visual-effects-to-elevate-your-edits/"><u>2024 Approved Time-Honored Tricks Top 1980S Visual Effects to Elevate Your Edits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/discovering-androids-premier-mobas-ranked/"><u>Discovering Android's Premier MOBAs Ranked</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6s-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6s without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-get-your-favorite-nowness-media-content-cross-platform-guide-for-mac-and-windows-users/"><u>How to Get Your Favorite NOWNESS Media Content: Cross-Platform Guide for Mac & Windows Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-tecno-pop-8-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Tecno Pop 8 FRP?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-c55-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco C55 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-mirthful-content-extraction-report/"><u>In 2024, Mirthful Content Extraction Report</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-blueprint-for-transferring-large-videos-between-apple-devices/"><u>In 2024, The Ultimate Blueprint for Transferring Large Videos Between Apple Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-for-optimal-cloud-space-solutions/"><u>In 2024, Top Picks for Optimal Cloud Space Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-visual-potential-is-pickup-the-pinnacle-of-android-editing-tools/"><u>In 2024, Unleashing Visual Potential Is PickUp the Pinnacle of Android Editing Tools?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unlocking-the-potential-of-youtube-shorts-a-comprehensive-tutorial/"><u>In 2024, Unlocking the Potential of YouTube Shorts A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-guide-to-integrating-music-and-editing-in-canva-vids-for-2024/"><u>The Guide to Integrating Music & Editing in Canva Vids for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/iral-video-tags-tips-for-popular-youtube-shorts/"><u>Top Viral Video Tags Tips for Popular YouTube Shorts</u></a></li>
+</ul></div>
+

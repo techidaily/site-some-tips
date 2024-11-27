@@ -1,7 +1,7 @@
 ---
 title: Take Your Professional Growth Further - Navigating The Edge in Tech (AI Is Just Part of the Story) | ZDNET
-date: 2024-09-19 20:55:46
-updated: 2024-09-20 10:45:52
+date: 2024-11-24T19:28:57.226Z
+updated: 2024-11-26T23:57:43.375Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -73,6 +81,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -92,6 +108,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-capturing-life-in-high-definition-the-nikon-1j5-review/"><u>[New] In 2024, Capturing Life in High Definition The Nikon 1J5 Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-serendipity-in-a-snapshot-top-10-chill-playtime/"><u>[New] In 2024, Serendipity in a Snapshot Top 10 Chill Playtime</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-integrating-aesthetic-enhancements-into-windows-photos-audio-plus-visuals/"><u>[New] Integrating Aesthetic Enhancements Into Windows Photos Audio + Visuals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-master-the-craft-streamlining-your-online-television-recordings/"><u>[New] Master the Craft Streamlining Your Online Television Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-guide-to-motion-blur-from-theory-to-practice-in-ps/"><u>[New] The Essential Guide to Motion Blur From Theory to Practice in PS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-how-to-block-spotifys-unrequested-podcast-episodes/"><u>[Updated] In 2024, How to Block Spotify's Unrequested Podcast Episodes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essential-seo-handbook-for-podcast-success/"><u>[Updated] The Essential Seo Handbook for Podcast Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-slomo-app-assessment-insights/"><u>[Updated] Ultimate SloMo App Assessment - Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-speech-refinement-kit-free-tools-for-flawless-audio-effects/"><u>2024 Approved The Ultimate Speech Refinement Kit Free Tools for Flawless Audio Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-undead-lore-weaver/"><u>2024 Approved Undead Lore Weaver</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-guide-troubleshooting-mov-file-imports-in-davinci-resolve-editor/"><u>Expert Guide: Troubleshooting MOV File Imports in DaVinci Resolve Editor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-k850-ultrahd-samsung-2023-tech-review/"><u>In 2024, K850 UltraHD Samsung 2023 Tech Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-role-of-authenticity-in-client-generated-marketing/"><u>In 2024, The Role of Authenticity in Client-Generated Marketing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-text-tilt-treasures/"><u>In 2024, Top Text Tilt Treasures</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/resolving-playback-glitches-on-macos-sierra-tips-and-tricks-for-smooth-operation/"><u>Resolving Playback Glitches on MacOS Sierra - Tips and Tricks for Smooth Operation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-manual-to-acquiring-final-cut-pro-gratis-for-2024/"><u>The Essential Manual to Acquiring Final Cut Pro Gratis for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-the-secrets-to-reddit-success-in-business-promotions/"><u>Unlocking the Secrets to Reddit Success in Business Promotions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-youtubes-potential-for-free-educational-events-for-2024/"><u>Unlocking YouTube's Potential for Free Educational Events for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-t2-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo T2 Pro 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
+

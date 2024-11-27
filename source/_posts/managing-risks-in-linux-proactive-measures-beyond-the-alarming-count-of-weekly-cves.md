@@ -1,7 +1,7 @@
 ---
 title: "Managing Risks in Linux: Proactive Measures Beyond the Alarming Count of Weekly CVEs"
-date: 2024-09-18 18:39:43
-updated: 2024-09-20 11:13:35
+date: 2024-11-19T17:06:16.985Z
+updated: 2024-11-27T03:06:36.659Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,11 +75,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-downloading-fb-videos-made-easy-our-top-5-selection-for-2024/"><u>[New] Downloading FB Videos Made Easy Our Top 5 Selection for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-hubsan-h501s-x4-fpv-quadcopter-review-for-2024/"><u>[New] Hubsan H501S X4 FPV Quadcopter Review for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-hyperlapse-storytelling/"><u>[New] The Ultimate Guide to Hyperlapse Storytelling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-notch-drones-for-professionals-our-curated-list/"><u>[New] Top-Notch Drones for Professionals – Our Curated List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-photos-using-adobes-power/"><u>[New] Transform Your Photos Using Adobe's Power</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-uncomplicated-routines-to-streamline-your-online-sessions-pcmac-os/"><u>[Updated] 2024 Approved Uncomplicated Routines to Streamline Your Online Sessions - PC/Mac OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-for-top-tier-hdr-cameras/"><u>[Updated] Ultimate Selection for Top-Tier HDR Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-your-creative-genius-with-iphone-x-camera/"><u>[Updated] Unleash Your Creative Genius with iPhone X Camera</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-charting-a-course-for-cash-flows-the-3-step-methodology-for-measuring-youtube-earnings/"><u>2024 Approved Charting a Course for Cash Flows The 3-Step Methodology for Measuring YouTube Earnings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-depths-power-less-to-powerful/"><u>Exploring AI Depths: Power-Less to Powerful</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-retreat-from-macos-sierras-latest-upgrade/"><u>How to Retreat From MacOS Sierra's Latest Upgrade</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-bring-your-videos-to-life-top-rated-1080p-video-editors/"><u>New 2024 Approved Bring Your Videos to Life Top-Rated 1080P Video Editors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-start-menu-button-failures-in-windows-11-a-step-by-step-guide/"><u>Solving Windows Start Menu Button Failures in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-quick-convert-guide-transforming-gifs-into-telegram-and-whatsapp-emojis-for-2024/"><u>The Quick-Convert Guide Transforming Gifs Into Telegram and WhatsApp Emojis for 2024</u></a></li>
+</ul></div>
+

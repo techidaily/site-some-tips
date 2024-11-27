@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code on Tech Talent Acquisition: How Flawed Hiring Practices Contribute to Developer Exhaustion"
-date: 2024-09-18 19:57:40
-updated: 2024-09-20 11:52:17
+date: 2024-11-21T16:42:19.741Z
+updated: 2024-11-26T22:25:11.246Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tricks-to-improve-mobile-streaming-quality-on-chrome-browser/"><u>[New] 2024 Approved Tricks to Improve Mobile Streaming Quality on Chrome Browser</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snowball-rally-highlights-from-the-beijing-games-2022/"><u>[New] Snowball Rally Highlights From the Beijing Games, 2022</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-next-step-in-virtual-reality-jaunt-vr-review/"><u>[Updated] The Next Step in Virtual Reality Jaunt VR Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-powerful-path-to-flawless-photo-edits-mastering-background-eraser-use/"><u>2024 Approved The Powerful Path to Flawless Photo Edits Mastering Background Eraser Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-audio-transformation-software-magic-and-more/"><u>2024 Approved Top Audio Transformation Software Magic and More</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-color-spaces-srgb-vs-rgb/"><u>2024 Approved Understanding Color Spaces Srgb vs Rgb</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-compre-written-in-code-deciphering-youtube-backlink-building-techniques/"><u>A Compre Written in Code Deciphering YouTube Backlink Building Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-playability-eliminating-latency-issues-in-mass-effect-legendary-edition/"><u>Enhancing Playability: Eliminating Latency Issues in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-stretching-youtube-videos-to-full-display/"><u>In 2024, Stretching YouTube Videos to Full Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-photographic-face-off-legend-sj6-vs-xiaomis-yi-kickstarter/"><u>In 2024, Ultimate Photographic Face-Off Legend SJ6 Vs. Xiaomi's Yi Kickstarter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-oculus-hardware-malfunctions-expert-advice-for-202/"><u>Overcoming Oculus Hardware Malfunctions: Expert Advice for 202</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-mophies-ac-powerstation-balancing-price-and-portability-for-on-the-go-users/"><u>Review of Mophie's AC Powerstation - Balancing Price and Portability for On-the-Go Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-customizing-how-enter-works-in-excel-spreadsheets/"><u>Step-by-Step Tutorial: Customizing How Enter Works in Excel Spreadsheets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-selecting-high-performance-fpv-drone-propellers-for-2024/"><u>The Complete Guide to Selecting High-Performance FPV Drone Propellers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-video-text-upgrades-for-professionals-for-2024/"><u>Top 10 Video Text Upgrades for Professionals for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ultimate-data-retrieval-program-comprehensive-software-suite-for-all-formats/"><u>Ultimate Data Retrieval Program: Comprehensive Software Suite for All Formats</u></a></li>
+<li><a href="https://win-forum.techidaily.com/your-ultimate-guide-to-popular-online-hubs-twitter-instagram-facebook-and-youtube/"><u>Your Ultimate Guide to Popular Online Hubs: Twitter, Instagram, Facebook & Youtube</u></a></li>
+</ul></div>
+

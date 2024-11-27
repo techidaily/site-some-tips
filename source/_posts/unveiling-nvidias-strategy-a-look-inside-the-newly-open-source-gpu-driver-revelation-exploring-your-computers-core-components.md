@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Nvidia's Strategy: A Look Inside the Newly-Open Source GPU Driver Revelation - Exploring Your Computer's Core Components"
-date: 2024-09-18 12:59:28
-updated: 2024-09-20 11:52:54
+date: 2024-11-22T16:53:39.155Z
+updated: 2024-11-26T17:11:45.763Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-narrative-nuance-a-guide-to-crafting-compelling-film-dialogues/"><u>[New] Narrative Nuance A Guide to Crafting Compelling Film Dialogues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unparalleled-8-visual-augmentations-for-live-cams/"><u>[New] Unparalleled 8 Visual Augmentations for Live Cams</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-virtual-frontiers-the-ultimate-guide-to-metavision-in-science-fiction-cinema/"><u>[New] Virtual Frontiers The Ultimate Guide to Metavision in Science Fiction Cinema</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-effortless-audio-blending-into-youtube-clips-using-editors/"><u>[Updated] In 2024, Effortless Audio Blending Into YouTube Clips Using Editors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-fixing-minecraft-load-failures-a-step-by-step-solution/"><u>Expert Tips for Fixing Minecraft Load Failures - A Step-by-Step Solution</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oppo-a2-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Oppo A2 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-googles-ar-sticker-innovation/"><u>In 2024, Understanding Google's AR Sticker Innovation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-asmrs-secrets-for-optimal-wellness/"><u>In 2024, Unlocking ASMR's Secrets for Optimal Wellness</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-production-choosing-the-top-webcam-for-podcasts/"><u>In 2024, Unparalleled Production Choosing the Top Webcam for Podcasts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-tecno-spark-go-2024-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Tecno Spark Go (2024) FRP Bypass</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/unlocking-the-power-of-three-key-approaches/"><u>Unlocking the Power of Three: Key Approaches</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores Why Apple's New WWDC AI Developments Might Not Spark Interest (And That's a Good Thing)
-date: 2024-11-10T08:38:02.589Z
-updated: 2024-11-17T09:05:15.746Z
+date: 2024-11-20T00:21:29.085Z
+updated: 2024-11-26T16:30:54.785Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A crushing upset
 
 Somehow, though, Apple managed to get many, many people negatively worked up about one aspect of its launch.
@@ -71,16 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -100,10 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -154,24 +146,18 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-streamyrecorder-your-simple-screen-recorder-for-windows-11/"><u>[New] In 2024, StreamyRecorder Your Simple Screen Recorder for Windows 11</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-kinemasters-journey-through-seamless-segmentation/"><u>[New] Kinemaster's Journey Through Seamless Segmentation</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-disable-snippet-view-in-youtube-for-full-content-for-2024/"><u>[Updated] Disable Snippet View in YouTube for Full Content for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-streamline-your-tech-expertise-with-io-screen-recording/"><u>[Updated] Streamline Your Tech Expertise with IO Screen Recording</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-enhancing-your-file-navigation-on-windows-a-step-by-step-guide/"><u>1. Enhancing Your File Navigation on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-protecting-your-data-against-onedrive-software-glitches/"><u>1. Protecting Your Data Against OneDrive Software Glitches</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ace-audio-identification-finding-songs-easily-on-your-apple-mac-computer/"><u>Ace Audio Identification: Finding Songs Easily on Your Apple Mac Computer</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-nokia-g22-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Nokia G22? | Dr.fone</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/effective-methods-for-retrieving-your-revoked-or-lost-license/"><u>Effective Methods for Retrieving Your Revoked or Lost License</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-libgdk-win32-20-0dll-dll-error-fix-file-not-found/"><u>Expert Tips for Libgdk-Win32-2.0-0.dll DLL Error Fix: File Not Found</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-circumventing-edgenuity-effortlessly-a-students-guide/"><u>In 2024, Circumventing Edgenuity Effortlessly A Student's Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/setting-up-your-preferred-mic-and-cam-in-windows-11-step-by-step-guide/"><u>Setting Up Your Preferred Mic & Cam in Windows 11 – Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/significant-upgrade-unveiled-icloud-now-fully-functional-with-windows-os/"><u>Significant Upgrade Unveiled: ICloud Now Fully Functional with Windows OS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-concealing-your-taskbar-in-windows-10/"><u>Step-by-Step Guide: Concealing Your Taskbar in Windows 10</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-solving-wrongdoers-keyboard-malfunctions-on-pc/"><u>Troubleshooting Guide: Solving 'Wrongdoers' Keyboard Malfunctions on PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-optimal-key-binding-tools-on-windows-systems/"><u>Ultimate Guide to Optimal Key Binding Tools on Windows Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/upcoming-mandatory-windows-11-update-23h2-what-you-need-to-know/"><u>Upcoming Mandatory Windows 11 Update 23H2: What You Need to Know</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-microsofts-recall-functionality-works-without-artificial-intelligence-in-computers/"><u>Why Microsoft's Recall Functionality Works Without Artificial Intelligence in Computers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-how-to-charm-your-way-into-a-friends-tiktok-show/"><u>[New] In 2024, How to Charm Your Way Into a Friend’s TikTok Show</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-peeling-back-sharex-critical-analysis-and-alternatives/"><u>[New] In 2024, Peeling Back ShareX Critical Analysis & Alternatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-ordinary-recordings-into-pro-level-with-audacity/"><u>[New] Transforming Ordinary Recordings Into Pro-Level With Audacity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-business-visual-aids-to-enhance-your-meetings/"><u>[Updated] Free Business Visual Aids to Enhance Your Meetings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-boost-your-productivity-mastering-macs-screen-record-with-shortcuts/"><u>[Updated] In 2024, Boost Your Productivity Mastering Mac's Screen Record with Shortcuts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-troubleshoot-tweets-on-chrome-not-loading-for-2024/"><u>[Updated] Troubleshoot Tweets on Chrome Not Loading for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-chatgpt-pdf-plugins-that-can-save-you-time-and-effort/"><u>10 ChatGPT PDF Plugins That Can Save You Time and Effort</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unmatched-mac-streaming-discover-the-1-5-tools/"><u>2024 Approved Unmatched Mac Streaming Discover the #1-5 Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/easy-and-free-ways-to-transfer-photos-and-videos-from-an-iphone-to-a-pc/"><u>Easy and Free Ways to Transfer Photos and Videos From an iPhone to a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20c-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20C to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-30-metaverse-gems-diy-meme-ideas-unleashed/"><u>In 2024, Top 30 Metaverse Gems DIY Meme Ideas Unleashed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-common-icloud-hiccups-for-iphoneipad-users-troubleshooting-guide/"><u>Overcoming Common iCloud Hiccups for iPhone/iPad Users: Troubleshooting Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-smart-technique-for-iphone-videos-reduction-and-scaling-for-2024/"><u>The Smart Technique for iPhone Videos Reduction & Scaling for 2024</u></a></li>
 </ul></div>
 

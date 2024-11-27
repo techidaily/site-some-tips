@@ -1,7 +1,7 @@
 ---
 title: Experience Enhanced Efficiency with Raspberry Pi Zero 2 W's Latest Upgrade, Boosting Speed by Over Five Times for Just $15 - Insights From ZDNet
-date: 2024-09-18 23:27:56
-updated: 2024-09-20 12:12:17
+date: 2024-11-21T03:09:37.611Z
+updated: 2024-11-27T05:22:03.247Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-prioritize-your-videography-with-top-12-players/"><u>[New] In 2024, Prioritize Your Videography with Top 12 Players</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essence-of-chuckles-in-single-photos/"><u>[New] The Essence of Chuckles in Single Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-iphones-potential-download-itunes-radio-effortlessly/"><u>[New] Unlock iPhone's Potential Download iTunes Radio Effortlessly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-discover-best-deals-high-quality-budget-friendly-asmr-tech-secrets/"><u>[Updated] In 2024, Discover Best Deals - High-Quality, Budget-Friendly ASMR Tech Secrets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-discovering-eastern-architectural-wonders-in-minecraft/"><u>[Updated] In 2024, Discovering Eastern Architectural Wonders in Minecraft</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-iphone-silhouette-photography-tips/"><u>[Updated] IPhone Silhouette Photography Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-screenplay-creation-hub/"><u>2024 Approved Top Screenplay Creation Hub</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-trendsetters-on-twitternet-top-10-threads-ranking/"><u>2024 Approved Trendsetters on Twitternet Top 10 Threads Ranking</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dont-miss-out-discover-the-ultimate-selection-of-unbeatable-labor-day-deals-on-notebooks-still-available-now/"><u>Don't Miss Out: Discover the Ultimate Selection of Unbeatable Labor Day Deals on Notebooks - Still Available Now!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ten-best-practices-for-meme-creation/"><u>In 2024, Ten Best Practices for Meme Creation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-unleashing-creativity-advanced-obs-techniques-explained/"><u>In 2024, Unleashing Creativity Advanced OBS Techniques Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-converting-xmv-video-to-various-popular-file-types-such-as-mp4-mkv-and-avi/"><u>Step-by-Step Tutorial on Converting XMV Video to Various Popular File Types Such as MP4, MKV & AVI</u></a></li>
+</ul></div>
+

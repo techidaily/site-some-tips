@@ -1,7 +1,7 @@
 ---
 title: "Tidying Up Linux & Open Source Manuals: Unveiling an Organized Approach | ZDNet"
-date: 2024-09-18 14:39:25
-updated: 2024-09-20 10:49:13
+date: 2024-11-23T21:42:23.193Z
+updated: 2024-11-26T22:20:57.820Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-proven-winners-the-top-5-tools-for-video-conference-recording/"><u>[New] 2024 Approved Proven Winners The Top 5 Tools for Video Conference Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-master-the-art-of-photo-display-with-best-frames/"><u>[New] Master the Art of Photo Display with Best Frames</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-windows-11-a-features-showcase-for-2024/"><u>[New] Windows 11 A Features Showcase for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-go-global-with-gifs-converting-vimeo-video-to-animation/"><u>[Updated] 2024 Approved Go Global with GIFs Converting Vimeo Video to Animation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-skaldic-odyssey-ragnarok-awakens/"><u>[Updated] 2024 Approved The Skaldic Odyssey Ragnarök Awakens</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-12-video-live-viewing-platform/"><u>[Updated] Comprehensive 12-Video Live Viewing Platform</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhanced-compatibility-windows-10-os-now-supports-built-in-basic-printing-and-scanning-solutions/"><u>Enhanced Compatibility: Windows 10 OS Now Supports Built-In Basic Printing & Scanning Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-a78-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo A78 FRP</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-video-editor-comparing-inshots-features/"><u>In 2024, Top Video Editor Comparing InShot's Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-for-crafting-top-charting-youtube-titles/"><u>In 2024, Ultimate Guide for Crafting Top-Charting YouTube Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-the-best-10-cost-free-photo-hosters/"><u>In 2024, Ultimate Guide to the Best 10 Cost-Free Photo Hosters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upgraded-multitasking-with-microsofts-multi-display-feature-in-edge/"><u>In 2024, Upgraded Multitasking with Microsoft's Multi-Display Feature in Edge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-liberating-tracks-with-pazeras-tools-for-2024/"><u>The Ultimate Guide to Liberating Tracks with Pazera's Tools for 2024</u></a></li>
+</ul></div>
+

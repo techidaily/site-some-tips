@@ -1,7 +1,7 @@
 ---
 title: "Expanding AI Agent Networks Increase Potential Hazards: Insights From Researchers | ZDNET"
-date: 2024-09-19 14:33:16
-updated: 2024-09-20 12:34:53
+date: 2024-11-23T22:51:09.300Z
+updated: 2024-11-26T21:32:37.200Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-comprehensive-directory-for-got-ringtones-download/"><u>[New] The Comprehensive Directory for GoT Ringtones Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-prolonging-gopros-energy-stamina/"><u>[New] Tips for Prolonging GoPro's Energy Stamina</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-youtube-earnings-unveiled-average-adsense-payments-per-thousand-views/"><u>[Updated] 2024 Approved Youtube Earnings Unveiled Average AdSense Payments Per Thousand Views</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-improve-your-virtual-engagement-mastering-snap-photography/"><u>[Updated] Improve Your Virtual Engagement Mastering Snap Photography</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-solving-sync-issues-between-cameras-and-obs-for-2024/"><u>[Updated] Solving Sync Issues Between Cameras and OBS for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-comic-strip-editor/"><u>[Updated] Ultimate Comic Strip Editor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-20-mobiles-transforming-dji-aerial-video-art/"><u>2024 Approved Top 20 Mobiles Transforming DJi Aerial Video Art</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/automatisches-backup-setup-in-windows-7-schritt-fur-schritt/"><u>Automatisches Backup-Setup in Windows 7 – Schritt Für Schritt</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-look-at-best-videographer-selection-for-2024/"><u>In-Depth Look at Best Videographer Selection for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/podcasters-guide-to-premium-recorders/"><u>Podcaster's Guide to Premium Recorders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-8-in-virtual-reality-gaming-for-2024/"><u>The Essential 8 in Virtual Reality Gaming for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-unrestricted-data-saver-solutions-for-2024/"><u>Top Unrestricted Data Saver Solutions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultra-fast-windows-view-for-pictures-for-2024/"><u>Ultra-Fast Windows View for Pictures for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Haze of AI-Generated Data: Precision or Pitfall? - Insights for Today"
-date: 2024-09-18 15:49:59
-updated: 2024-09-20 11:15:53
+date: 2024-11-23T18:03:47.186Z
+updated: 2024-11-26T22:06:42.157Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-obs-versus-shadowplay-streaming-software-showdown/"><u>[New] 2024 Approved OBS versus ShadowPlay - Streaming Software Showdown</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-checklist-for-optimal-yt-brand-aesthetics/"><u>[New] The Ultimate Checklist for Optimal YT Brand Aesthetics</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mastering-the-art-of-thumbnail-design-tips-and-pitfalls-for-2024/"><u>[Updated] Mastering the Art of Thumbnail Design Tips and Pitfalls for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-multilingual-maven-writes-on-cutting-edge-video-translators-ranked-23/"><u>[Updated] The Multilingual Maven’ Writes On Cutting-Edge Video Translators Ranked 23</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thorough-review-of-videoshow-24-features-and-updates/"><u>[Updated] Thorough Review of VideoShow '24 Features & Updates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-storytellers-portal/"><u>2024 Approved Ultimate Storytellers' Portal</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adobe-cloud-storage-demystified-features-functionality-and-alternatives-reviewed-for-2024/"><u>Adobe Cloud Storage Demystified Features, Functionality, and Alternatives Reviewed for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cross-platform-no-cost-dvd-player-converter-for-various-windows-os-editions/"><u>Cross-Platform No Cost DVD Player Converter for Various Windows OS Editions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-steps-for-novice-enthusiasts-in-building-a-perfect-home-sound-system/"><u>Essential Steps for Novice Enthusiasts in Building a Perfect Home Sound System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-pixel-realms-unique-alarm-rhythms/"><u>In 2024, Ultimate Pixel Realms Unique Alarm Rhythms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-languages-with-ease-reviewing-6-superior-offline-translator-apps/"><u>Navigating Languages with Ease: Reviewing 6 Superior Offline Translator Apps</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/securing-chrome-against-persistent-pop-ups-a-guide-using-malwarefox-for-optimal-defense/"><u>Securing Chrome Against Persistent Pop-Ups: A Guide Using MalwareFox for Optimal Defense</u></a></li>
+</ul></div>
+

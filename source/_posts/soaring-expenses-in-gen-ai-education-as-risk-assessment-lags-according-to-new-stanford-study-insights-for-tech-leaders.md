@@ -1,7 +1,7 @@
 ---
 title: Soaring Expenses in Gen AI Education as Risk Assessment Lags According to New Stanford Study - Insights for Tech Leaders
-date: 2024-09-19 20:28:21
-updated: 2024-09-20 12:56:36
+date: 2024-11-25T02:32:26.482Z
+updated: 2024-11-26T16:02:42.555Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-advice-on-optimal-hdr-camera-selection/"><u>[New] Expert Advice on Optimal HDR Camera Selection</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-perfect-timing-for-on-screen-dialogue-in-your-youtube-productions/"><u>[New] Perfect Timing for On-Screen Dialogue in Your YouTube Productions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-videos-with-tiktok-effects/"><u>[New] Transform Videos with TikTok Effects</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-crafting-cinematic-magic-essential-tips-for-creating-stunning-slow-motion-media-on-instagram/"><u>[Updated] In 2024, Crafting Cinematic Magic Essential Tips for Creating Stunning Slow-Motion Media on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-mystery-behind-professional-looking-time-lapses-in-gopro/"><u>2024 Approved Unveiling the Mystery Behind Professional-Looking Time Lapses in GoPro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversione-gratuita-di-file-mov-a-swf-online-con-convertimov-senza-limiti/"><u>Conversione Gratuita Di File MOV a SWF Online Con ConvertiMOV - Senza Limiti</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-of-language-models-4-exciting-advances-we-hope-for-gpt-5/"><u>Future of Language Models: 4 Exciting Advances We Hope for GPT-5</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-role-of-crossfade-in-modern-music-mixing/"><u>In 2024, The Role of Crossfade in Modern Music Mixing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unifying-media-files-from-desktop-to-iphone/"><u>In 2024, Unifying Media Files From Desktop to iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-of-movie-maker-on-windows-8/"><u>In 2024, Unveiling the Secrets of Movie Maker on Windows 8</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/overcooked-2-revealed-a-mouthwatering-journey-through-mayhem/"><u>Overcooked! 2 Revealed: A Mouthwatering Journey Through Mayhem</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-infinix-note-30-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-macro-videography-techniques-for-2024/"><u>Ultimate Guide to Macro Videography Techniques for 2024</u></a></li>
+</ul></div>
+

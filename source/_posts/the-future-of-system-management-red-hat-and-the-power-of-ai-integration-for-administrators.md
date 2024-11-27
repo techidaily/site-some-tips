@@ -1,7 +1,7 @@
 ---
 title: "The Future of System Management: Red Hat and the Power of AI Integration for Administrators"
-date: 2024-09-18 13:40:58
-updated: 2024-09-20 11:15:16
+date: 2024-11-23T16:43:30.371Z
+updated: 2024-11-26T17:26:45.563Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-resolving-social-media-puzzle-zippy-fb-videos-not-in-view/"><u>[New] 2024 Approved Resolving Social Media Puzzle Zippy FB Videos Not in View</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-beyond-reality-boundaries-the-vr-journey-continues/"><u>[New] In 2024, Beyond Reality Boundaries The VR Journey Continues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-close-up-mastery-on-roblox/"><u>[New] The Ultimate Guide to Close-Up Mastery on Roblox</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship-for-2024/"><u>[Updated] Financial Insights for Vids How Much Do YouTubers Earn Per Sponsorship for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-fcp-tutorial-for-new-users/"><u>[Updated] Ultimate FCP Tutorial for New Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-visual-feast-delving-into-the-world-of-asuss-4k-uxga-screen/"><u>2024 Approved A Visual Feast Delving Into the World of ASUS's 4K UXGA Screen</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-best-bites-outside-the-box-new-film-favorites/"><u>2024 Approved Best Bites Outside the Box New Film Favorites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-starter-gear-for-gopro-cameras/"><u>2024 Approved Top Starter Gear for GoPro Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-funny-photo-editor/"><u>2024 Approved Ultimate Funny Photo Editor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-clarity-the-ultimate-video-enhancer-22-techniques/"><u>2024 Approved Unleashing Clarity The Ultimate Video Enhancer 2.2 Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-cinematic-magic-top-5-filmmaking-insights/"><u>2024 Approved Unlocking Cinematic Magic Top 5 Filmmaking Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-top-quality-hdr-camera-brands-and-models/"><u>2024 Approved Unveiling Top-Quality HDR Camera Brands and Models</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevate-your-mobile-conversations-with-uc/"><u>Elevate Your Mobile Conversations with UC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-craft-your-virtual-persona-with-our-metaverse-guide/"><u>In 2024, Craft Your Virtual Persona with Our Metaverse Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-videos-with-tiktok-effects/"><u>In 2024, Transform Videos with TikTok Effects</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-last-of-us-part-ii-tackling-and-resolving-puzzling-performance-bugs/"><u>The Last of Us Part II - Tackling and Resolving Puzzling Performance Bugs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-how-to-on-using-voice-input-in-google-docs/"><u>The Ultimate How-To on Using Voice Input in Google Docs</u></a></li>
+</ul></div>
+

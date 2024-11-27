@@ -1,7 +1,7 @@
 ---
 title: Experts Choice for Premium Website Hosting Solutions of the Year - 2024 | ZDNet
-date: 2024-09-17 11:19:54
-updated: 2024-09-20 12:21:17
+date: 2024-11-24T18:49:36.486Z
+updated: 2024-11-26T19:42:05.256Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -73,6 +81,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-strategies-for-effortless-insertion-of-videos-into-youtube-compilations/"><u>[New] Strategies for Effortless Insertion of Videos Into YouTube Compilations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategizing-superior-screen-snatchers/"><u>[New] Strategizing Superior Screen-Snatchers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outube-cash-flow-8-simple-money-making-tips-for-2024/"><u>[New] YouTube Cash Flow 8 Simple Money-Making Tips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-smooth-srt-exports-post-premiere/"><u>2024 Approved Strategies for Smooth SRT Exports Post-Premiere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-role-of-asmr-in-improving-mental-clarity/"><u>2024 Approved The Role of ASMR in Improving Mental Clarity</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-12-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi 12 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/dual-display-dominance-top-videographer-verdict/"><u>Dual Display Dominance Top Videographer Verdict</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-moto-g13-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Motorola Moto G13</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/how-to-broadcast-videos-on-twitter-without-the-retweet-step/"><u>How To Broadcast Videos on Twitter without the 'Retweet' Step</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-say-goodbye-to-interruptions-youtube-adblocking-made-simple/"><u>In 2024, Say Goodbye to Interruptions YouTube Adblocking Made Simple</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-qanda-on-quantum-hdr-technology/"><u>In 2024, The Essential Q&A on Quantum HDR Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creativity-learning-snapseeds-power-tools/"><u>In 2024, Unleash Creativity Learning Snapseed's Power Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-creative-possibilities-with-these-5-amazing-free-ai-imagery-tools/"><u>Unlock Creative Possibilities with These 5 Amazing Free AI Imagery Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-world-of-premium-banners-for-media-for-2024/"><u>Unlocking the World of Premium Banners for Media for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Three Key Innovations in Meta's LLaMA 3.1: Pioneering Developments for Next-Gen Artificial Intelligence - Insights From ZDNet"
-date: 2024-09-18 19:44:30
-updated: 2024-09-20 10:18:23
+date: 2024-11-25T01:00:56.758Z
+updated: 2024-11-26T21:11:27.958Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-stats-spotlight-pinpointing-viewers-of-your-photos/"><u>[Updated] 2024 Approved Insta Stats Spotlight Pinpointing Viewers of Your Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-tier-hdr-cameras-explained-and-compared/"><u>[Updated] Top-Tier HDR Cameras Explained & Compared</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-speech-to-text-magic-for-ms-word-users/"><u>2024 Approved Speech-to-Text Magic for MS Word Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-time-lapse-wizardry-an-introduction/"><u>2024 Approved Time-Lapse Wizardry An Introduction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-ordinary-unboxings-into-viral-phenomena-on-insta/"><u>2024 Approved Transform Ordinary Unboxings Into Viral Phenomena on Insta</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-deep-dive-into-moto-z2s-smarter-side/"><u>A Deep Dive Into Moto Z2's Smarter Side</u></a></li>
+<li><a href="https://program-issues.techidaily.com/escape-the-endless-load-fix-your-game-in-7-simple-steps-forza-horizon-5/"><u>Escape the Endless Load: Fix Your Game in 7 Simple Steps (Forza Horizon 5)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-how-to-trim-video-in-windows-10-photos-easily/"><u>In 2024, How to Trim Video in Windows 10 Photos Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-photographers-path-to-perfected-colors/"><u>In 2024, The Photographer's Path to Perfected Colors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-a25-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy A25 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/total-motion-analysis-2023-for-2024/"><u>Total Motion Analysis 2023 for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ultimate-list-hashtags-for-maximum-video-engagement-in-games/"><u>Ultimate List Hashtags for Maximum Video Engagement in Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unable-to-see-video-sony-a6400-troubleshoot-guide-for-2024/"><u>Unable To See Video Sony A6400 Troubleshoot Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-oneplus-ace-2-pro-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the OnePlus Ace 2 Pro password or pattern lock</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-simplify-avi-editing-a-step-by-step-guide-to-trimming-and-splitting-for-2024/"><u>Updated Simplify AVI Editing A Step-by-Step Guide to Trimming and Splitting for 2024</u></a></li>
+</ul></div>
+

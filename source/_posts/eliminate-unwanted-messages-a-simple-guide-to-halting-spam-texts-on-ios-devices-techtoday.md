@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Unwanted Messages: A Simple Guide to Halting Spam Texts on iOS Devices | TechToday"
-date: 2024-11-10T21:10:45.122Z
-updated: 2024-11-17T14:48:01.031Z
+date: 2024-11-22T23:36:26.391Z
+updated: 2024-11-26T20:46:17.311Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ The good news is that you can stop these text messages using a feature already i
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Settings
 
 Open the Settings app on your iPhone, scroll down until you can access Apps, and tap on the Messages option.
@@ -44,6 +37,10 @@ Open the Settings app on your iPhone, scroll down until you can access Apps, and
 Tap on Messages to access the settings for your Messages app.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scroll until you find 'Filter Unknown Messages'
 
@@ -56,10 +53,7 @@ Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
@@ -87,10 +81,7 @@ Screenshot by Maria Diaz/ZDNET
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I stop spam calls on iPhone?
@@ -107,19 +98,6 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How do I report junk messages on iPhone?
 
@@ -139,11 +117,19 @@ If you keep getting messages from the same sender after reporting them, you can 
 3. Tap on the Info button on the right.
 4. Select Block this caller.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why is the 'Filter Unknown Senders' option turned off?
 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -181,24 +167,20 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-humorhub-quick-and-quirky-images/"><u>[New] In 2024, HumorHub Quick & Quirky Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-top-25-mobile-editors-for-dji-filmmaking/"><u>[New] The Top 25 Mobile Editors for DJi Filmmaking</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-reddit-triumphs-highly-upvoted-threads-compilation/"><u>[New] Ultimate Reddit Triumphs Highly Upvoted Threads Compilation</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-features-and-flaws-of-samsungs-image-editor-reviewed/"><u>[Updated] Features and Flaws of Samsung's Image Editor Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-keywords-in-the-realm-of-virtual-reality/"><u>[Updated] Keywords in the Realm of Virtual Reality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-swift-strategies-for-iphones-and-freeipodcasts-download-techniques/"><u>2024 Approved Swift Strategies for iPhones and FreeiPodcasts Download Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-unlocking-a-new-vocal-identity-in-free-fire-gaming/"><u>2024 Approved The Ultimate Guide to Unlocking a New Vocal Identity in Free Fire Gaming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unique-voice-customization-for-chrome-os-5-top-cloud-audio-editors-reviewed/"><u>2024 Approved Unique Voice Customization for Chrome OS 5 Top Cloud Audio Editors Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-crypto-potential-the-ultimate-list-of-nft-engines/"><u>2024 Approved Unlocking Crypto Potential The Ultimate List of NFT Engines</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-redmi-13c-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Redmi 13C 5G</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descargar-e-instalar-el-mejor-conversor-de-video-free-online-convertir-mkv-a-mpeg-con-moviemkv/"><u>Descargar E Instalar El Mejor Conversor De Video Free Online: Convertir MKV a MPEG Con MovieMKV</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/digital-content-upgrade-changing-numbers-on-tiktok-quickly/"><u>Digital Content Upgrade Changing Numbers on TikTok Quickly</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hivatalos-imovie-konvertalashoz-windows-video-editor-2024/"><u>HIVATALOS iMovie Konvertáláshoz Windows Video Editor 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ase-views-discover-20-prime-thumbnail-fonts-for-2024/"><u>Increase Views - Discover 20 Prime Thumbnail Fonts for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-frame-rates-for-best-slow-motion-effects-for-2024/"><u>Mastering Frame Rates for Best Slow Motion Effects for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-amplifying-your-minecraft-scene-for-2024/"><u>The Art of Amplifying Your Minecraft Scene for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-the-power-of-online-livestreams-with-us-today-for-2024/"><u>Unleash the Power of Online Livestreams with Us Today for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-generative-artificial-intelligence-definition-and-applications/"><u>Unveiling Generative Artificial Intelligence: Definition & Applications</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-honored-proposals-leading-ringtone-creators-iphone/"><u>[New] Honored Proposals Leading Ringtone Creators iPhone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-linking-giants-a-step-by-step-guide-to-merging-instagram-and-tiktok/"><u>[New] Linking Giants A Step-by-Step Guide to Merging Instagram and TikTok</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-timeline-enhancement-incor-written-by-assistant/"><u>[New] Timeline Enhancement Incor Written by Assistant</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-click-methodology-building-google-collage-projects-at-breakneck-speeds/"><u>[Updated] Quick Click Methodology Building Google Collage Projects at Breakneck Speeds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streaming-wars-the-top-10-platforms-ranked-and-compared/"><u>[Updated] Streaming Wars The Top 10 Platforms Ranked and Compared</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-influencers-blueprint-rapidly-amass-a-million-fans-with-our-top-15-instagram-tips/"><u>[Updated] The Influencer's Blueprint Rapidly Amass a Million Fans with Our Top 15 Instagram Tips</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/10-nicht-erkannt-losungsansatze-fur-vier-gangige-probleme/"><u>10 Nicht Erkannt - Lösungsansätze Für Vier Gängige Probleme</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-class-software-for-creating-video-from-pictures/"><u>2024 Approved Master Class Software For Creating Video From Pictures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-implementing-podcast-seo/"><u>2024 Approved The Ultimate Guide to Implementing Podcast SEO</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/echoes-for-every-call-the-ultimate-guide-to-tamil-ringtones/"><u>Echoes for Every Call The Ultimate Guide to Tamil Ringtones</u></a></li>
+<li><a href="https://facebook.techidaily.com/efficient-techniques-for-capturing-and-transferring-fb-media/"><u>Efficient Techniques for Capturing and Transferring FB Media</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-masterful-thumbnails-in-a-flash-professional-valorant-creations/"><u>In 2024, Masterful Thumbnails in a Flash Professional Valorant Creations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-art-of-cinematography-basic-shots-explained/"><u>In 2024, Unveiling the Art of Cinematography Basic Shots Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-film-makers-quick-guide-to-perfect-sea-scenes-for-2024/"><u>The Film-Maker’s Quick Guide to Perfect Sea Scenes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-of-movie-maker-on-windows-8-for-2024/"><u>Unveiling the Secrets of Movie Maker on Windows 8 for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AI Demand Surges Amongst Corporate Tech Purchasers - Immediate Integration Imperative!
-date: 2024-09-18 10:44:21
-updated: 2024-09-20 10:47:39
+date: 2024-11-24T19:34:05.796Z
+updated: 2024-11-26T23:56:14.622Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +60,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -72,6 +80,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-logic-pro-method-to-gradually-reduce-audio-levels/"><u>[New] Logic Pro Method to Gradually Reduce Audio Levels</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aximize-your-videos-with-top-youtube-rippers-for-2024/"><u>[New] Maximize Your Videos with Top YouTube Rippers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-visuals-a-complete-guide-to-video-enhancer-22/"><u>[New] Transforming Visuals A Complete Guide to Video Enhancer 2.2</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-spotlight-on-premium-360cameras-for-professionals/"><u>[Updated] 2024 Approved Spotlight on Premium 360°Cameras for Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-price-tag-on-popularity-pewdiepies-annual-earnings/"><u>[Updated] The Price Tag on Popularity – PewDiePie's Annual Earnings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-compelling-podcast-imagery-fundamental-tips-for-2024/"><u>Crafting Compelling Podcast Imagery Fundamental Tips for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-mastering-firefoxs-popup-window-magic/"><u>In 2024, Mastering Firefox's Popup Window Magic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-writers-block-in-computer-memory-dealing-with-a-referenced-location-at-0x-0x/"><u>Overcoming Writer's Block in Computer Memory: Dealing with a Referenced Location at 0X (0X)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-mac-software-for-mkv-files-for-2024/"><u>Top 5 Mac Software for MKV Files for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-creativity-with-animated-gifs/"><u>Unleash Creativity with Animated GIFS</u></a></li>
+<li><a href="https://games-able.techidaily.com/walletsavvy-monitor-27m2v-led-gamepad/"><u>WalletSavvy Monitor 27M2V - LED GamePad</u></a></li>
+</ul></div>
+

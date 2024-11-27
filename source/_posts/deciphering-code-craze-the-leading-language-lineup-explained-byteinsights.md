@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Code Craze: The Leading Language Lineup Explained | ByteInsights"
-date: 2024-09-19 13:58:53
-updated: 2024-09-20 11:30:21
+date: 2024-11-21T21:52:08.690Z
+updated: 2024-11-27T04:30:50.900Z
 tags:
   - developer
 categories:
@@ -57,6 +57,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +70,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-from-hobbyists-to-pros-how-mavic-air-redefines-with-spark/"><u>[New] From Hobbyists to Pros How Mavic Air Redefines with Spark</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-four-pillars-of-mobile-video-acquisition-igtv-edition/"><u>[New] In 2024, Four Pillars of Mobile Video Acquisition IGTV Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-perfecting-pics-with-facetune/"><u>[New] Ultimate Guide Perfecting Pics with Facetune</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-prime-collection-of-gopro-complements-for-2024/"><u>[Updated] The Prime Collection of GoPro Complements for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-science-of-sensor-based-hands-monitoring/"><u>2024 Approved The Science of Sensor-Based Hands Monitoring</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-budget-switch-console-clones-for-2024/"><u>Best Budget Switch Console Clones for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-xcover-6-pro-tactical-edition-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy XCover 6 Pro Tactical Edition Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From iPhone 11 Pro Max</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instantly-optimize-iphone-videos-in-size-and-duration/"><u>In 2024, Instantly Optimize iPhone Videos in Size and Duration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-maximize-your-viewing-experience-with-youtube-scaling/"><u>In 2024, Maximize Your Viewing Experience with YouTube Scaling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-overcoming-handheld-videography-instability-on-gopro/"><u>In 2024, Overcoming Handheld Videography Instability on GoPro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-set-up-efficient-live-conversations-on-pc-via-whatsapp-web/"><u>In 2024, Set Up Efficient Live Conversations on PC via WhatsApp Web</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-compact-guide-to-joining-and-scheduling-zoom-on-your-android-phone/"><u>In 2024, The Compact Guide to Joining & Scheduling Zoom on Your Android Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-personal-narratives-best-practices-for-video-praise/"><u>In 2024, Transforming Personal Narratives Best Practices for Video Praise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-potential-with-android-camera-apps/"><u>In 2024, Unlocking Potential with Android Camera Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trendsetting-sky-docks-for-android-users-for-2024/"><u>Trendsetting Sky Docks for Android Users for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-affordability-and-quality-with-the-new-amazon-fire-hd-8-review-the-ideal-entry-level-device/"><u>Unlocking Affordability and Quality with the New Amazon Fire HD 8 Review: The Ideal Entry-Level Device?</u></a></li>
+</ul></div>
+

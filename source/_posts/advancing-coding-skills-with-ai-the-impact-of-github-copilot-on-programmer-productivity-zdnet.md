@@ -1,7 +1,7 @@
 ---
 title: "Advancing Coding Skills with AI: The Impact of GitHub Copilot on Programmer Productivity - ZDNet"
-date: 2024-09-18 23:29:29
-updated: 2024-09-20 10:59:24
+date: 2024-11-24T04:45:42.725Z
+updated: 2024-11-27T01:18:00.452Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -46,6 +50,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +114,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-coordinating-a-course-through-combined-youtube-watches/"><u>[New] 2024 Approved Coordinating a Course Through Combined YouTube Watches</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-end-online-locations-for-metallic-3d-lettering/"><u>[New] High-End Online Locations for Metallic 3D Lettering</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-adding-time-markers-on-youtubes/"><u>[New] The Ultimate Guide to Adding Time Markers on YouTubes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-free-video-editing-and-effects-sites/"><u>[New] The Ultimate Guide to Free Video Editing and Effects Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-tactics-in-producing-convincing-customer-testimonial-videos/"><u>[New] Top Tactics in Producing Convincing Customer Testimonial Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-how-to-add-music-to-a-video-on-iphone-for-free/"><u>[Updated] 2024 Approved How to Add Music to a Video on iPhone for FREE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thriving-livestreams-strategies-for-beginners-with-low-followers/"><u>[Updated] Thriving Livestreams Strategies for Beginners with Low Followers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-photo-pace-crafting-time-lapse-videos-on-your-galaxy-phone/"><u>2024 Approved Photo Pace Crafting Time-Lapse Videos on Your Galaxy Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-simple-sessions-into-high-end-audacity-recordings/"><u>2024 Approved Transforming Simple Sessions Into High-End Audacity Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-lost-reddit-content-instant-access-techniques/"><u>2024 Approved Unveiling Lost Reddit Content Instant Access Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upholders-of-popularity-the-10-most-loved-reddit-stories/"><u>In 2024, Upholders of Popularity The 10 Most Loved Reddit Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/opting-for-hdri-a-better-step-forward-in-video-production-for-2024/"><u>Opting for HDRI A Better Step Forward in Video Production for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/post-update-nozzle-necessity-neglected/"><u>Post-Update, Nozzle Necessity Neglected</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/say-goodbye-to-hiss-and-hum-mastering-noise-reduction-in-final-cut-pro-x-for-2024/"><u>Say Goodbye to Hiss and Hum Mastering Noise Reduction in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-role-of-ai-in-advancing-or-deteriorating-mental-health-care-services/"><u>The Role of AI in Advancing or Deteriorating Mental Health Care Services</u></a></li>
+</ul></div>
+

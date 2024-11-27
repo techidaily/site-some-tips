@@ -1,7 +1,7 @@
 ---
 title: "Programming Language Trends From 2016: Understanding Their Evolutions & Predictions for Future Popularity | ZDNet Insights"
-date: 2024-09-18 15:14:41
-updated: 2024-09-20 11:26:52
+date: 2024-11-21T01:59:10.452Z
+updated: 2024-11-26T20:05:44.882Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +60,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-clandestine-scrollers-of-fb-stories/"><u>[New] 2024 Approved Clandestine Scrollers of Fb Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-learn-to-modify-snapchats-audio-effect-in-two-ways/"><u>[New] Learn to Modify Snapchat's Audio Effect in Two Ways</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-battery-selection-guide-for-uavs/"><u>[New] The Ultimate Battery Selection Guide for UAVs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-titles-best-ai-powered-podcast-name-makers/"><u>[New] Transforming Titles Best AI-Powered Podcast Name Makers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-become-a-youtube-star-essential-skills-training/"><u>[Updated] 2024 Approved Become a YouTube Star Essential Skills Training</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-innovative-vr-experiences-from-elite-designers/"><u>[Updated] 2024 Approved Innovative VR Experiences From Elite Designers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-insights-into-audio-memos/"><u>[Updated] The Ultimate Insights Into Audio Memos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-workflow-with-leading-tts-apps-for-mac-users/"><u>2024 Approved Streamline Your Workflow with Leading TTS Apps for Mac Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unbeatable-range-ultimate-4k-camera-rig-selection/"><u>2024 Approved Unbeatable Range Ultimate 4K Camera Rig Selection</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-0x80072f8f-in-windows-comprehensive-fixes-and-guidance-for-users/"><u>Error Code 0X80072F8F in Windows: Comprehensive Fixes and Guidance for Users</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synergistic-campaigns-brands-and-youtube-hand-in-hand/"><u>In 2024, Synergistic Campaigns Brands & YouTube Hand in Hand</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-premier-livestream-networks-you-need-to-watch/"><u>In 2024, The Premier Livestream Networks You Need To Watch</u></a></li>
+<li><a href="https://facebook.techidaily.com/quick-guide-to-addingremoving-facebook-shortcuts/"><u>Quick Guide to Adding/Removing Facebook Shortcuts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tying-the-story-together-expert-techniques-for-inshots-seamless-segments-for-2024/"><u>Tying the Story Together Expert Techniques for Inshot's Seamless Segments for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleashing-auditory-brilliance-without-a-mic-in-sight-for-2024/"><u>Unleashing Auditory Brilliance without a Mic in Sight for 2024</u></a></li>
+</ul></div>
+

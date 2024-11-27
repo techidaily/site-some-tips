@@ -1,7 +1,7 @@
 ---
 title: "The Paradox of Progress at 60: Examining Basic's Legacy in Simplicity as Both Its Greatest Strength and Weakness | Featured on ZDNet"
-date: 2024-09-19 23:39:32
-updated: 2024-09-20 10:14:49
+date: 2024-11-26T03:31:23.562Z
+updated: 2024-11-26T19:54:53.924Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>[New] Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-echoes-of-now-strategies-for-downloading-current-events-for-2024/"><u>[Updated] Echoes of Now Strategies for Downloading Current Events for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-evaluating-earnings-the-effective-3-step-process-for-youtube-financial-analysis/"><u>[Updated] Evaluating Earnings The Effective 3-Step Process for YouTube Financial Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-syma-x5c-your-first-drones-best-friend/"><u>[Updated] The Ultimate Guide to Syma X5C – Your First Drone's Best Friend</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-video-sharing-titans-ranking-vimeo-youtube-and-dailymotion/"><u>[Updated] Video-Sharing Titans Ranking Vimeo, YouTube & Dailymotion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-videos-from-low-to-high-dynamic-range/"><u>2024 Approved Transforming Videos From Low to High Dynamic Range</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-10-movie-gems-to-spark-inspiration/"><u>2024 Approved Ultimate List 10 Movie Gems to Spark Inspiration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-unleashed-revolutionizing-task-management/"><u>ChatGPT Unleashed: Revolutionizing Task Management</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/easy-guide-how-to-download-and-transform-youtube-videos-into-mp3-files-using-quick-techniques/"><u>Easy Guide: How to Download and Transform YouTube Videos Into MP3 Files Using Quick Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-m54-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy M54 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-use-kinemaster-online-and-10-best-online-alternatives-for-2024/"><u>How To Use KineMaster Online and 10 Best Online Alternatives for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-best-mc-housing-plans-for-vibrant-villages/"><u>In 2024, Best MC Housing Plans for Vibrant Villages</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-path-to-costless-image-archives/"><u>In 2024, Unveiling the Path to Costless Image Archives</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-women-rule-the-top-10-youtube-stars-amongst-genders/"><u>In 2024, Women Rule The Top 10 YouTube Stars Amongst Genders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secrets-of-single-stream-success-online-broadcast-tips-and-tricks-for-2024/"><u>Secrets of Single-Stream Success Online Broadcast Tips and Tricks for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Potential in Your IT Team: The Emerging Era of Citizen Developers and Their Artificial Intelligence Expertise | ZDNET"
-date: 2024-09-18 13:28:47
-updated: 2024-09-20 11:47:31
+date: 2024-11-25T00:47:14.079Z
+updated: 2024-11-26T20:21:11.289Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/rom-individual-tracks-to-albums-building-a-personalized-soundtrack-on-web-and-mobile-for-2024/"><u>[New] From Individual Tracks to Albums Building a Personalized Soundtrack on Web & Mobile for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-seamless-journey-of-filming-and-editing-haul-videos/"><u>[New] The Seamless Journey of Filming and Editing Haul Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-adobes-photo-jiggle-decrease-enhancing-or-eliminating/"><u>[Updated] 2024 Approved Adobe's Photo Jiggle Decrease Enhancing or Eliminating?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-from-basic-to-brilliant-top-10-pixlr-techniques/"><u>[Updated] From Basic to Brilliant Top 10 Pixlr Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-subtly-lowering-volume-alives-guide/"><u>[Updated] Subtly Lowering Volume Alive’s Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-this-years-premier-trivia-broadcasting-titles/"><u>[Updated] Unveiling This Year's Premier Trivia Broadcasting Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-secrets-with-enhanced-scopes-in-roblox-games/"><u>2024 Approved Unveiling Secrets with Enhanced Scopes in Roblox Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-3-stability-improvements-for-windows-11-users-no-more-crashes/"><u>Fallout 3 Stability Improvements for Windows 11 Users - No More Crashes!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-for-taming-your-systems-roaring-fan-an-easy-fix/"><u>Guide for Taming Your System's Roaring Fan – An Easy Fix</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-vivo-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Vivo Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-find-n3-flip-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo Find N3 Flip to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-skype-soundtrack-hub-finding-the-right-tones-online/"><u>In 2024, Skype Soundtrack Hub Finding the Right Tones Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-revision-efficient-erasing-techniques-in-psx/"><u>In 2024, The Art of Revision Efficient Erasing Techniques in PSX</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/streamlining-the-process-of-saving-ps3-gaming-moments-for-2024/"><u>Streamlining the Process of Saving PS3 Gaming Moments for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/successfully-recovered-how-to-bounce-back-stronger-after-setbacks/"><u>Successfully Recovered: How to Bounce Back Stronger After Setbacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-in-focus-premium-360-degree-professionals-cameras-2023-for-2024/"><u>The Future in Focus Premium 360-Degree Professionals' Cameras, 2023 for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-stop-warzone-20-from-crashing-on-your-computer/"><u>Troubleshooting Guide: Stop Warzone 2.0 From Crashing on Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbeatable-prices-for-top-budget-4k-cameras-(1000-for-2024/"><u>Unbeatable Prices for Top Budget 4K Cameras (<$1,000) for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mp4m2ts-movavi/"><u>영상 형식 바꾸기: MP4/M2TS를 무료로 구성 - 웹 사이트에서 Movavi</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Decade-Long Forecast: The Evolution of Artificer Intelligence as Seen by ZDNet Experts"
-date: 2024-09-17 23:51:10
-updated: 2024-09-20 10:54:24
+date: 2024-11-24T20:02:38.306Z
+updated: 2024-11-27T03:56:19.237Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-immediate-image-revamp-the-six-top-iphone-object-removal-apps/"><u>[New] Immediate Image Revamp The Six Top iPhone Object-Removal Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-finest-zero-cost-digital-darkroom-tools/"><u>[New] Unveiling the Finest Zero-Cost Digital Darkroom Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-7-best-video-player-for-mac/"><u>[Updated] 2024 Approved 7 Best Video Player for Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-leading-srs-tuning-methods-for-macwin-users/"><u>[Updated] 2024 Approved Leading SRS Tuning Methods for Mac/Win Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elite-arsenal-choosing-the-top-7-fps/"><u>[Updated] Elite Arsenal Choosing the Top 7 FPS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-computer-functionality-post-intel-hardware-violation/"><u>Enhancing Computer Functionality Post-Intel Hardware Violation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-infinix-smart-7-hd-easily-by-drfone-android/"><u>How To Unlock a Infinix Smart 7 HD Easily?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-choices-full-sweep-video-recording-systems/"><u>In 2024, Top Choices Full Sweep Video Recording Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-list-of-no-cost-vectors-and-design-portals-online/"><u>In 2024, Ultimate List of No-Cost Vectors and Design Portals Online</u></a></li>
+<li><a href="https://fox-links.techidaily.com/terracore-pros-fusion-of-touch-and-high-definition/"><u>TerraCore Pros Fusion of Touch & High Definition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-secrets-to-gently-fading-audio-in-audacity-for-2024/"><u>Unraveling the Secrets to Gently Fading Audio in Audacity for 2024</u></a></li>
+</ul></div>
+

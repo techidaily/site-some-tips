@@ -1,7 +1,7 @@
 ---
 title: How Citizen Developers Are Transforming Enterprise Tech Landscape by Taking on More Application Responsibilities
-date: 2024-09-18 18:44:24
-updated: 2024-09-20 11:41:41
+date: 2024-11-22T04:01:20.180Z
+updated: 2024-11-26T22:49:13.027Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-snapshot-survival-guide-top-recorders-evaluated-for-2024/"><u>[New] SnapShot Survival Guide Top Recorders Evaluated for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-and-tricks-for-effortless-finding-exceptional-pexel-images/"><u>[Updated] Tips and Tricks for Effortless Finding Exceptional Pexel Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-your-tiktok-profile-altering-account-numbers/"><u>[Updated] Transforming Your TikTok Profile Altering Account Numbers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-14-plus-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 14 Plus in Lost Mode</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-complete-control-over-your-youtube-viewing-experience/"><u>In 2024, Complete Control Over Your YouTube Viewing Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-timeless-treasures-accessing-fbs-historic-stories/"><u>In 2024, Timeless Treasures Accessing FB's Historic Stories</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/rhythm-rendezvous-optimal-dj-video-selections/"><u>Rhythm Rendezvous Optimal DJ Video Selections</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-please-quit-issues-with-roblox-players-windows-experience/"><u>Solving 'Please Quit' Issues with Roblox Players’ Windows Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-stream-reversal-manual-an-18-step-guide-to-control-your-broadcast-for-2024/"><u>The Stream Reversal Manual An 18-Step Guide to Control Your Broadcast for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-in-the-world-of-youtube-broadcasting-master-class-for-2024/"><u>Thriving in the World of YouTube Broadcasting Master Class for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-free-video-players-vlc-or-mpc-winner-in-2024/"><u>Top 5 Free Video Players VLC or MPC Winner, In 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-spectrum-simple-fixes-for-perfect-photoshop-palette-adjustments-for-2024/"><u>Unveiling the Spectrum Simple Fixes for Perfect Photoshop Palette Adjustments for 2024</u></a></li>
+</ul></div>
+

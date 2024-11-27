@@ -1,7 +1,7 @@
 ---
 title: Journey to Standardizing Open-Source Artifice Intelligence Encounters Challenges & Opposition | Report by ZDNET
-date: 2024-09-19 16:40:13
-updated: 2024-09-20 12:27:30
+date: 2024-11-22T17:08:53.735Z
+updated: 2024-11-26T22:48:40.708Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-expert-trackers-for-social-media-hashes-in-fb-tweet-and-ig-for-2024/"><u>[New] Expert Trackers for Social Media Hashes in FB, Tweet & IG for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-visionary-studio-teasers/"><u>[New] Visionary Studio Teasers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-crafting-success-leading-business-channels-for-professionals-for-2024/"><u>[Updated] Crafting Success Leading Business Channels for Professionals for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-on-how-skip-edgenuity-videos-easily/"><u>[Updated] Tips on How Skip Edgenuity Videos Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-best-unlimited-cloud-storage-service-recommendations/"><u>2024 Approved Best Unlimited Cloud Storage Service Recommendations</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Poco X6 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-6-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone 6? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-steady-visual-commencement/"><u>In 2024, Steady Visual Commencement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-variants-of-moviemaker-pro-on-windows/"><u>In 2024, Variants of MovieMaker Pro on WIndows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-poco-c51-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Poco C51? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-podcast-blurbs-techniques-and-illustrations-for-2024/"><u>The Art of Podcast Blurbs Techniques and Illustrations for 2024</u></a></li>
+</ul></div>
+

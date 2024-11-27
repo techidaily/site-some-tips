@@ -1,7 +1,7 @@
 ---
 title: "Adopting Operations Excellence in Corporate IT Spaces: Progress and Pitfalls on the Horizon | Analysis by ZDNet"
-date: 2024-09-18 11:50:49
-updated: 2024-09-20 12:41:27
+date: 2024-11-24T18:29:31.386Z
+updated: 2024-11-27T03:01:30.216Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +64,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -67,11 +79,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-channel-compendium-best-of-the-bunch-historical-youtubes-for-study/"><u>[New] 2024 Approved Channel Compendium Best of the Bunch - Historical YouTubes For Study</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-harmonizing-your-calendar-with-zoom-appointments-on-all-screens-for-2024/"><u>[New] Harmonizing Your Calendar With Zoom Appointments on All Screens for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-channel-charisma-strategies-to-skyrocket-your-youtube-visibility/"><u>[New] In 2024, Channel Charisma Strategies to Skyrocket Your YouTube Visibility</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-peeking-at-pro-screen-recording-tools/"><u>[New] Peeking at Pro Screen Recording Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-podcast-perfection-best-timing-strategy/"><u>[New] Podcast Perfection Best Timing Strategy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-sound-transition-in-logic-pro-x/"><u>[New] The Art of Sound Transition in Logic Pro X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-platform-prowess-twitch-vs-youtube-comparison/"><u>[New] The Platform Prowess Twitch vs YouTube Comparison</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-srt-to-subc-innovative-techniques-explored/"><u>[Updated] The Art of SRT to SUBC Innovative Techniques Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>[Updated] Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-ipad-slow-motion-techniques-for-filming-and-video-modification/"><u>2024 Approved The Ultimate iPad Slow Motion Techniques for Filming and Video Modification</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-s23-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy S23 Phone When You Forget the Password</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/como-realizar-copias-de-seguridad-en-windows-10-hacia-una-unidad-nas-qnap-dos-metodos-efectivos/"><u>Cómo Realizar Copias De Seguridad en Windows 10 Hacia Una Unidad NAS QNAP: Dos Métodos Efectivos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-ghost-touch-on-an-iphone-10-potential-fixes-to-try/"><u>How to Fix Ghost Touch on an iPhone: 10 Potential Fixes to Try</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-itel-a70-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Itel A70.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From iPhone 15 Plus?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supreme-select-iphone-customized-sound-crafting/"><u>In 2024, Supreme Select IPhone Customized Sound Crafting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synopsis-of-crowd-opinions-on-vllo/"><u>In 2024, Synopsis of Crowd Opinions on VLLO</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-secret-to-stability-overcoming-handheld-videography-challenges/"><u>In 2024, The Secret to Stability Overcoming Handheld Videography Challenges</u></a></li>
+</ul></div>
+

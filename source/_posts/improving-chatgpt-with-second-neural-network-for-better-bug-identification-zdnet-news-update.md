@@ -1,7 +1,7 @@
 ---
 title: Improving ChatGPT with Second Neural Network for Better Bug Identification | ZDNet News Update
-date: 2024-09-19 12:46:59
-updated: 2024-09-20 12:53:42
+date: 2024-11-24T03:18:06.794Z
+updated: 2024-11-27T04:01:05.521Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-post-a-video-between-twitter-and-tumblr-in-2024/"><u>[New] How to Post a Video Between Twitter and Tumblr, In 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-infographics-leveraging-social-media-videos/"><u>[Updated] 2024 Approved Infographics Leveraging Social Media Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-live-and-learn-twitter-video-chronicles-of-23/"><u>[Updated] Live and Learn Twitter Video Chronicles of '23</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlimited-potential-with-best-in-class-pp-templates/"><u>[Updated] Unlimited Potential with Best-in-Class PP Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-list-for-google-pixel-tunes/"><u>2024 Approved The Ultimate List for Google Pixel Tunes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-high-quality-audio-recording-with-these-top-5-windows-11-tips/"><u>2024 Approved Unlock High-Quality Audio Recording with These Top 5 Windows 11 Tips</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/can-your-xbox-360-read-blu-ray-disc-media-the-complete-facts-revealed/"><u>Can Your Xbox 360 Read Blu-Ray Disc Media? The Complete Facts Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/emojis-and-the-language-of-money/"><u>Emojis and the Language of Money</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/in-2024-how-to-make-an-adorable-video-for-your-babys-first-year/"><u>In 2024, How to Make an Adorable Video for Your Babys First Year</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-nine-game-streaming-haven-explored/"><u>In 2024, Top Nine Game Streaming Haven Explored</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-obs-the-ultimate-tutorial-for-live-broadcasts-for-2024/"><u>Mastering OBS The Ultimate Tutorial for Live Broadcasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rhythmic-resonance-the-ultimate-site-list-for-downloads-for-2024/"><u>Rhythmic Resonance The Ultimate Site List for Downloads for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-foundations-of-vsco-photo-manipulation-for-2024/"><u>The Foundations of VSCO Photo Manipulation for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-preventing-recurring-blender-software-failures-on-pc/"><u>Troubleshooting Guide: Preventing Recurring Blender Software Failures on PC</u></a></li>
+</ul></div>
+

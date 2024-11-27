@@ -1,7 +1,7 @@
 ---
 title: "Top Trending Programming Languages of 2021: Understanding the Ranking Criteria and Significance"
-date: 2024-09-17 22:50:45
-updated: 2024-09-20 10:26:21
+date: 2024-11-20T02:06:19.065Z
+updated: 2024-11-26T22:47:12.665Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-advanced-photoshop-overlay-methods-for-2024/"><u>[New] Advanced Photoshop Overlay Methods for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-easy-path-to-observing-well-liked-comments-on-the-video-platform/"><u>[New] The Easy Path to Observing Well-Liked Comments on the Video Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-importance-of-diversity-and-inclusion-in-market-research-samples/"><u>[New] The Importance of Diversity & Inclusion in Market Research Samples</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-blueprint-of-individuality-in-the-crowded-tiktok-space/"><u>[Updated] In 2024, The Blueprint of Individuality in the Crowded TikTok Space</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gold-medal-glory-olympic-speed-skating-short-track-highlights/"><u>2024 Approved Gold Medal Glory Olympic Speed Skating Short Track Highlights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-vfx-creation-with-story-remix-and-windows-10-photos/"><u>2024 Approved Streamline Your VFX Creation with Story Remix and Windows 10 Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-4k-revolution-takes-flight-q500-review/"><u>In 2024, The 4K Revolution Takes Flight - Q500 Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-notch-tricks-to-nail-every-green-screen-shot/"><u>In 2024, Top-Notch Tricks to Nail Every Green Screen Shot</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/panasonics-hx-a1-the-wearable-action-camera-revealed/"><u>Panasonic’s HX-A1 - The Wearable Action Camera Revealed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-8-linux-screenshot-utilities-compared/"><u>Top 8 Linux Screenshot Utilities Compared</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/vote-ventures-5-top-political-game-showdowns-for-2024/"><u>Vote-Ventures 5 Top Political Game Showdowns for 2024</u></a></li>
+</ul></div>
+

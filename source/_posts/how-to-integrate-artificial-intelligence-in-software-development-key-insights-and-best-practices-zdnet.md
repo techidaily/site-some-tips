@@ -1,7 +1,7 @@
 ---
 title: "How to Integrate Artificial Intelligence in Software Development: Key Insights & Best Practices | ZDNet"
-date: 2024-09-19 22:11:18
-updated: 2024-09-20 10:57:26
+date: 2024-11-19T19:22:14.050Z
+updated: 2024-11-27T02:04:44.106Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unlocking-videos-on-fb-with-2023-mobile-utility/"><u>[New] 2024 Approved Unlocking Videos on FB with 2023 Mobile Utility</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unleash-your-inner-videographer-with-these-4-methods-on-xbox/"><u>[New] In 2024, Unleash Your Inner Videographer with These 4 Methods on Xbox</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-supreme-4k-display-selection-the-best-of-ten/"><u>[New] Supreme 4K Display Selection The Best of Ten</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-design-guide-youtube-banners-and-thumbnail-creation/"><u>[Updated] Design Guide YouTube Banners & Thumbnail Creation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-how-to-make-good-youtube-banner-dos-and-donts/"><u>[Updated] In 2024, How To Make Good YouTube Banner - Dos and Don’ts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superior-screenplays-distributed-among-classified-types/"><u>[Updated] Superior Screenplays Distributed Among Classified Types</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-evolved-look-of-sony-bdp-s6700/"><u>[Updated] The Evolved Look of Sony BDP-S6700</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-lava-yuva-3-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Lava Yuva 3 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-picks-6-best-iphone-virus-scanners-and-defenders-on-the-market/"><u>Expert Picks: 6 Best iPhone Virus Scanners and Defenders on the Market</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/heartfelt-cinematic-experiences-for-hopeful-hearts/"><u>Heartfelt Cinematic Experiences for Hopeful Hearts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-simplifying-the-process-of-creating-time-lapses-with-gopro/"><u>In 2024, Simplifying the Process of Creating Time Lapses with GoPro</u></a></li>
+<li><a href="https://win-popular.techidaily.com/watch-now-anywhere-secure-your-favorite-anime-with-gogoanime-downloads/"><u>Watch Now Anywhere – Secure Your Favorite Anime with Gogoanime Downloads!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Advancing Toward Consensus on Open Source AI Framework, Despite Ongoing Disputes and Concerns | ZDNet
-date: 2024-09-19 21:37:46
-updated: 2024-09-20 10:55:34
+date: 2024-11-22T03:47:41.597Z
+updated: 2024-11-26T18:48:01.034Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -57,6 +65,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +78,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-all-encompassing-virtual-horizon-review/"><u>[New] All-Encompassing Virtual Horizon Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-hero-boosting-youtube-view-count-quickly-for-2024/"><u>[Updated] From Zero to Hero Boosting YouTube View Count Quickly for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-x-mix-master-pro-for-computer-users/"><u>[Updated] In 2024, X-Mix Master Pro for Computer Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-creative-edge-advanced-tips-for-shooting-with-gopro-hero5-black/"><u>[Updated] The Creative Edge Advanced Tips for Shooting with GoPro Hero5 Black</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-essential-twitter-archive-user-manual-for-2024/"><u>[Updated] The Essential Twitter Archive User Manual for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-photos-with-ease-comprehensive-guide-on-background-erasure-tool-usage/"><u>[Updated] Transform Your Photos with Ease Comprehensive Guide on Background Erasure Tool Usage</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-easytech-snapshot-quick-rundown/"><u>2024 Approved EasyTech Snapshot Quick Rundown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-15-budget-friendly-webm-players-that-work-flawlessly/"><u>2024 Approved Top 15 Budget-Friendly WebM Players That Work Flawlessly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-image-editing-luts-in-adobe-photoshop-cc/"><u>In 2024, Streamlining Image Editing LUTs in Adobe PhotoShop CC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-windows-11-audio-record-process/"><u>In 2024, The Complete Windows 11 Audio Record Process</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-your-viewing-vlc-versus-mx-comparison-for-2024/"><u>Streamlining Your Viewing VLC Versus MX Comparison for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tamiltunes-handbook-downloading-and-trimming-melodies-for-calls-for-2024/"><u>TamilTunes Handbook Downloading & Trimming Melodies for Calls for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-lenovo-chromebook-duet-an-in-depth-analysis-of-a-cost-effective-2-in-1-laptop/"><u>The Lenovo Chromebook Duet - An In-Depth Analysis of a Cost-Effective 2-In-1 Laptop</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-routine-for-accessing-and-playing-fb-videos-via-apple-tv-for-2024/"><u>The Ultimate Routine for Accessing and Playing FB Videos via Apple TV for 2024</u></a></li>
+</ul></div>
+

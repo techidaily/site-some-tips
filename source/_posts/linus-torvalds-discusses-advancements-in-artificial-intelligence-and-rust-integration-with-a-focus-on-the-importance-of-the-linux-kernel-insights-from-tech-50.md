@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses Advancements in Artificial Intelligence & Rust Integration with a Focus on the Importance of the Linux Kernel - Insights From Tech Guru
-date: 2024-09-19 15:29:30
-updated: 2024-09-20 11:20:12
+date: 2024-11-26T04:27:28.728Z
+updated: 2024-11-26T21:16:27.996Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-subscriber-growth-and-its-impact-on-youtube-success/"><u>[New] 2024 Approved Subscriber Growth and Its Impact on YouTube Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-subtle-art-of-easing-audio-intensity-garageband/"><u>[New] The Subtle Art of Easing Audio Intensity (Garageband)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-2024s-android-in-the-cloud-innovators/"><u>[New] Top 2024'S Android in the Cloud Innovators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tricks-for-non-engagement-with-edgenuity-video-content/"><u>[New] Tricks for Non-Engagement with Edgenuity Video Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-radiance-hdr-examined-value-or-not/"><u>[Updated] Radiance HDR Examined Value or Not?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-picture-shading-with-adobe-tools/"><u>[Updated] Streamlining Picture Shading with Adobe Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-tips-to-trim-your-video-playback-time-on-snapchat/"><u>[Updated] Tips to Trim Your Video Playback Time on Snapchat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-asmrs-benefits-a-health-perspective/"><u>2024 Approved Unveiling ASMR’s Benefits A Health Perspective</u></a></li>
+<li><a href="https://discover-able.techidaily.com/windows-server-20032022/"><u>无需复制的Windows Server 2003到2022硬盘克隆技术</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-downloading-and-installing-brother-mfc-l2700dw-drivers-on-windows/"><u>Comprehensive Guide to Downloading and Installing Brother MFC-L2700DW Drivers on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-unboxing-into-art/"><u>In 2024, Transforming Unboxing Into Art</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-winning-more-linkedin-job-opportunities-a-guide-with-10-tips/"><u>Leveraging ChatGPT for Winning More LinkedIn Job Opportunities - A Guide with 10 Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/tailored-gaming-journey-disabling-crossplay-for-solo-apex-players-for-2024/"><u>Tailored Gaming Journey - Disabling Crossplay for Solo Apex Players for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-android-experience-mastering-chatgpt-as-a-personal-android-assistant/"><u>Transform Your Android Experience: Mastering ChatGPT as a Personal Android Assistant</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-exploring-the-best-dawn-and-rise-of-browser-based-daws-top-10-selection/"><u>Updated Exploring the Best Dawn and Rise of Browser-Based DAWs Top 10 Selection</u></a></li>
+</ul></div>
+

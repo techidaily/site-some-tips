@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Managing Hundreds of Weekly CVEs by The Linux Security Team | ZDNET Insights
-date: 2024-09-17 17:35:47
-updated: 2024-09-20 11:41:29
+date: 2024-11-23T20:33:18.216Z
+updated: 2024-11-26T19:47:36.652Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -67,11 +75,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -92,6 +108,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-how-to-download-and-alter-sacred-audio-sounds/"><u>[New] In 2024, How to Download and Alter Sacred Audio Sounds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-immersive-playgrounds-androids-top-15-simulations/"><u>[New] In 2024, Immersive Playgrounds Android's Top 15 Simulations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-turning-youtube-hosted-tweets-into-audio-files/"><u>[Updated] Techniques for Turning YouTube-Hosted Tweets Into Audio Files</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-breaking-down-the-animation-process-a-movie-maker-approach/"><u>2024 Approved Breaking Down the Animation Process A Movie Maker Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-spreading-online-jokes-fast/"><u>2024 Approved The Key to Spreading Online Jokes Fast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unravel-multilingual-mysteries-with-these-top-35-video-translation-solutions/"><u>2024 Approved Unravel Multilingual Mysteries with These Top 35 Video Translation Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-access-and-utilize-chatgpts-new-beta-browser-plugin-functions/"><u>How to Access and Utilize ChatGPT's New Beta Browser Plugin Functions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-s17e-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo S17e to PC? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/talent-release-form-for-filming-and-video-to-free-download/"><u>Talent Release Form for Filming and Video to Free Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-viral-stock-images-and-stories-for-2024/"><u>The Ultimate List of Viral Stock Images & Stories for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/topo-11-precisados-de-convertidores-mov-livres-multiplataforma-mac-windows-on-line/"><u>Topo 11 Precisados De Convertidores MOV Livres Multiplataforma (MAC, WINDOWS, ON-LINE)</u></a></li>
+</ul></div>
+

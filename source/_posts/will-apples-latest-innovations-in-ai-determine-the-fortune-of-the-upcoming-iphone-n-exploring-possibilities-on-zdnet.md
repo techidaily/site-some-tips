@@ -1,7 +1,7 @@
 ---
 title: Will Apple's Latest Innovations in AI Determine the Fortune of the Upcoming iPhone N? Exploring Possibilities on ZDNET
-date: 2024-09-17 20:53:33
-updated: 2024-09-20 10:12:12
+date: 2024-11-24T03:13:45.968Z
+updated: 2024-11-26T23:16:17.773Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-dji-aerial-units-baseline-upgraded-ultrahd-experts/"><u>[New] 2024 Approved DJI Aerial Units Baseline, Upgraded, UltraHD Experts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-hook-it-game-winning-podcast-beginnings/"><u>[Updated] The Hook-It Game Winning Podcast Beginnings</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-windows-insight-sharing-methods/"><u>2024 Approved Swift Windows Insight Sharing Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-ten-clandestine-corrections-for-artists/"><u>2024 Approved Top Ten Clandestine Corrections for Artists</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027312470-youtube/"><u>長時間ビデオをダウンロードするためのYoutube対応手順</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-driver-downloads-for-lenovo-x1-carbon-users-guide-for-windows-10-and-7-systems/"><u>Effortless Driver Downloads for Lenovo X1 Carbon Users: Guide for Windows 10 & 7 Systems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-boosting-your-youtube-presence-key-tips-for-popularity/"><u>In 2024, Boosting Your YouTube Presence Key Tips for Popularity</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-streaming-success-gamers-software/"><u>In 2024, Streaming Success Gamers' Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-humor-with-excellent-zero-cost-memes/"><u>In 2024, Unleash Your Humor with Excellent Zero-Cost Memes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macbook-users-guide-seamless-screen-mirroring-with-your-television/"><u>Macbook Users Guide: Seamless Screen Mirroring with Your Television</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fundamentals-of-creating-dynamic-podcast-feeds-for-2024/"><u>The Fundamentals of Creating Dynamic Podcast Feeds for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-checklist-for-nfl-live-broadcasting-for-2024/"><u>The Ultimate Checklist for NFL Live Broadcasting for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-spark-go-2024-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Spark Go (2024) Device</u></a></li>
+</ul></div>
+

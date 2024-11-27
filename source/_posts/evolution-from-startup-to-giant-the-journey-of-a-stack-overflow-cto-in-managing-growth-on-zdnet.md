@@ -1,7 +1,7 @@
 ---
 title: "Evolution From Startup to Giant: The Journey of a Stack Overflow CTO in Managing Growth on ZDNet"
-date: 2024-09-19 15:53:20
-updated: 2024-09-20 11:15:28
+date: 2024-11-21T03:06:19.423Z
+updated: 2024-11-26T16:09:31.179Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,11 +45,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -57,6 +69,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +82,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -155,11 +175,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-mastering-media-non-xsplit-options-revealed/"><u>[New] 2024 Approved Mastering Media Non-Xsplit Options Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-design-mastery-in-minutes-canvas-quick-secret-tips/"><u>[Updated] 2024 Approved Design Mastery in Minutes Canva's Quick Secret Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-breaking-barriers-in-drone-longevity-top-10/"><u>[Updated] Breaking Barriers in Drone Longevity (Top 10)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-sculpted-sentences-turning-text-into-3d-art/"><u>[Updated] Sculpted Sentences Turning Text Into 3D Art</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-insiders-guide-to-uploading-with-google/"><u>[Updated] The Insider’s Guide to Uploading with Google</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-utilizing-luts-for-professional-color-grading/"><u>[Updated] Utilizing LUTs for Professional Color Grading</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-knockout-kings-vs-viewership-titans/"><u>2024 Approved Knockout Kings Vs. Viewership Titans</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/eluding-prying-eyes-privacy-preserving-video-editing/"><u>Eluding Prying Eyes Privacy-Preserving Video Editing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-apples-upgraded-masterpiece-series-4-apple-watch-redefined/"><u>In-Depth Look at Apple's Upgraded Masterpiece: Series 4 Apple Watch Redefined</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successfully-overcame-install-errors-for-age-of-empires-iv-on-microsoft-digital-shop/"><u>Successfully Overcame Install Errors for Age of Empires IV on Microsoft Digital Shop</u></a></li>
+</ul></div>
+

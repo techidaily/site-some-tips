@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Business with Red Hat's New Enterprise Linux AI Capabilities | ZDNet Insights
-date: 2024-09-19 11:15:58
-updated: 2024-09-20 11:55:52
+date: 2024-11-25T18:53:19.370Z
+updated: 2024-11-27T01:33:46.583Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,24 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-apeaks-leap-forward-in-screen-capture-review-and-results/"><u>[Updated] 2024 Approved Apeak’s Leap Forward in Screen Capture – Review and Results</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-full-potential-mac-plus-obs-plus-streamlabs/"><u>[Updated] Unlock Full Potential Mac + OBS + Streamlabs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vectors-for-novices-uncover-essentials-types-and-applications/"><u>[Updated] Vectors for Novices Uncover Essentials, Types & Applications</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-from-raw-footage-to-excellence-the-webcam-edition/"><u>2024 Approved From Raw Footage to Excellence The Webcam Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-ai-skills-discover-the-7-key-tips-for-flawlessly-crafted-prompts/"><u>Boost Your AI Skills: Discover the 7 Key Tips for Flawlessly Crafted Prompts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unique-book-trail-showcases/"><u>In 2024, Unique Book Trail Showcases</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-video-correction-praising-patrons/"><u>Master Video Correction, Praising Patrons</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-when-your-hp-wireless-keyboard-stops-working-a-comprehensive-guide/"><u>Step-by-Step Fix for When Your HP Wireless Keyboard Stops Working: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-balance-of-swiftness-and-security-on-spotify-sounds-for-2024/"><u>The Balance of Swiftness and Security on Spotify Sounds for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-tech-bargains-exclusive-october-2024-laptops-on-sale-discovered-by-zdnet/"><u>Top Prime Day Tech Bargains: Exclusive October 2024 Laptops on Sale - Discovered by ZDNet</u></a></li>
+</ul></div>
+

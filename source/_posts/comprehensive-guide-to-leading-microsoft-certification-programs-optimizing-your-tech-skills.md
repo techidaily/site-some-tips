@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Leading Microsoft Certification Programs: Optimizing Your Tech Skills"
-date: 2024-09-19 13:56:34
-updated: 2024-09-20 11:54:58
+date: 2024-11-19T17:38:44.336Z
+updated: 2024-11-26T19:43:40.689Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-peervid-grabber-fb-live/"><u>[Updated] 2024 Approved PeerVid Grabber FB Live</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-navigate-hdri-windows-powered-editing-wonders/"><u>[Updated] Navigate HDRI Windows-Powered Editing Wonders</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-sony-bdp-s6500-review/"><u>2024 Approved Sony BDP-S6500 Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-to-effortlessly-attain-professional-graphic-content/"><u>2024 Approved Techniques to Effortlessly Attain Professional Graphic Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-list-of-filmmaking-gear-for-newcomers/"><u>2024 Approved The Essential List of Filmmaking Gear for Newcomers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-what-is-screenplay/"><u>2024 Approved What Is Screenplay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-world-of-srt-files-on-youtube-and-twitter-for-2024/"><u>Navigating the World of SRT Files on YouTube and Twitter for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplify-satire-funniest-memes-made-simple-for-2024/"><u>Simplify Satire Funniest Memes Made Simple for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-moving-your-tunes-from-vintage-ipod-to-pc/"><u>Step-by-Step Guide: Moving Your Tunes From Vintage iPod to PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-checklist-for-internet-broadcast-preservation-for-2024/"><u>The Complete Checklist for Internet Broadcast Preservation for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-phone-carriers-the-backbone-of-mobile-telephony-services/"><u>Unveiling Phone Carriers: The Backbone of Mobile Telephony Services</u></a></li>
+</ul></div>
+

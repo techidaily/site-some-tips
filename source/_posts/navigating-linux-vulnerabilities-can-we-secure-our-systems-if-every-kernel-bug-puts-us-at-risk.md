@@ -1,7 +1,7 @@
 ---
 title: "Navigating Linux Vulnerabilities: Can We Secure Our Systems If Every Kernel Bug Puts Us at Risk?"
-date: 2024-09-17 23:44:24
-updated: 2024-09-20 11:57:33
+date: 2024-11-22T00:55:39.541Z
+updated: 2024-11-26T16:59:56.599Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-transcription-tech-zero-fee-for-the-user/"><u>[New] Transcription Tech, Zero Fee for the User</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-precision-photography-dampening-disarray/"><u>[Updated] Precision Photography Dampening Disarray</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-smooth-sound-transformation-essential-ios-apps-to-convert-youtube-mp3-wise/"><u>[Updated] Smooth Sound Transformation Essential iOS Apps to Convert YouTube MP3-Wise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-phone-and-camera-mounts-precision-focus-tracking/"><u>[Updated] Ultimate Phone & Camera Mounts Precision Focus Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-pro-tiktok-editing-techniques/"><u>2024 Approved Ultimate Guide Pro TikTok Editing Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-resource-list-of-3d-fonts-online/"><u>2024 Approved Ultimate Resource List of 3D Fonts Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unboxing-opportunities-the-marketing-planning-journey/"><u>2024 Approved Unboxing Opportunities The Marketing Planning Journey</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-action-hunting-cameras-of-2023-for-2024/"><u>Best Action Hunting Cameras of 2023 for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/footage-analysis-trendy-video-patterns/"><u>FIFA Footage Analysis Trendy Video Patterns</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-raw-esd-to-refined-iso-windows-conversion-techniques/"><u>From Raw ESD to Refined ISO: Windows Conversion Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-chart-topping-tunes-compiling-an-impressive-youtube-playlist/"><u>In 2024, Chart-Topping Tunes Compiling an Impressive YouTube Playlist</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-seamlessly-post-pictures-from-your-phone/"><u>In 2024, How To Seamlessly Post Pictures From Your Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-stock-photo-memes-and-realities/"><u>In 2024, The Ultimate Guide to Stock Photo Memes & Realities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-tech-marvels-top-picks-for-everyone/"><u>In 2024, Ultimate Tech Marvels Top Picks for Everyone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-xiaomi-redmi-a2-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Xiaomi Redmi A2 and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-butterflies-go-online-mastering-interaction-on-facebook-twitter-instagram-and-youtube/"><u>Social Butterflies Go Online: Mastering Interaction on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+</ul></div>
+

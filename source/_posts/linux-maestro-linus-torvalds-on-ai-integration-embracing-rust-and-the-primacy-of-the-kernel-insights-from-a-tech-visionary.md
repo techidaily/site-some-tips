@@ -1,7 +1,7 @@
 ---
 title: Linux Maestro Linus Torvalds on AI Integration, Embracing Rust, and The Primacy of the Kernel - Insights From a Tech Visionary
-date: 2024-09-18 17:27:32
-updated: 2024-09-20 10:30:55
+date: 2024-11-22T23:00:48.699Z
+updated: 2024-11-27T02:09:05.533Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-for-sound-alteration-applications-in-vtubing/"><u>[New] The Ultimate List for Sound Alteration Applications in VTubing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unparalleled-window-watchers-top-video-player-picks/"><u>[New] Unparalleled Window Watchers Top Video Player Picks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-zipping-up-the-journey-to-subrip-text-files/"><u>[New] Zipping Up The Journey to SubRip Text Files</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-convert-high-res-fb-videos-seamlessly-into-mp4-at-no-extra-cost/"><u>2024 Approved Convert High-Res FB Videos Seamlessly Into MP4 at No Extra Cost</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-make-a-game-streaming-video-with-ai-portrait/"><u>2024 Approved How to Make a Game Streaming Video With AI Portrait</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-record-breaking-reddit-threads-ranked-1-10/"><u>2024 Approved Record-Breaking Reddit Threads Ranked 1-10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-pathway-to-high-quality-images-on-deal/"><u>2024 Approved Unveiling the Pathway to High-Quality Images on Deal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-netflixs-floating-window-feature-effectively/"><u>2024 Approved Utilizing Netflix's Floating Window Feature Effectively</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ting-your-youtube-presence-with-effective-tags/"><u>Elevating Your YouTube Presence with Effective Tags</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-a-step-by-step-approach-to-freeing-up-space-in-figma/"><u>In 2024, A Step-by-Step Approach to Freeing Up Space in Figma</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pioneering-online-video-secrets-for-youtubes-spherical-livestreaming-techniques/"><u>In 2024, Pioneering Online Video Secrets for YouTube's Spherical Livestreaming Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-thorough-review-easy-approach-to-hdr-enhancement/"><u>In 2024, Thorough Review Easy Approach to HDR Enhancement</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-samsung-galaxy-s23-fe-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Samsung Galaxy S23 FE to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-to-perfect-green-screen-in-kinemaster/"><u>In 2024, Unveiling the Secrets to Perfect Green Screen in Kinemaster</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlined-playback-import-tunes-into-inshot-for-2024/"><u>Streamlined Playback Import Tunes Into InShot for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-software-guide-to-gamers-broadcast-for-2024/"><u>Ultimate Software Guide to Gamers' Broadcast for 2024</u></a></li>
+</ul></div>
+

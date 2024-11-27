@@ -1,7 +1,7 @@
 ---
 title: "Guide: Sending and Receiving iMessages From Your PC with Windows - Expert Tips"
-date: 2024-11-14T11:08:27.325Z
-updated: 2024-11-17T00:08:44.098Z
+date: 2024-11-26T02:05:58.479Z
+updated: 2024-11-26T22:23:04.740Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -62,13 +66,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -86,10 +83,7 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
@@ -97,13 +91,6 @@ Screenshot by Lance Whitney/ZDNET
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -120,16 +107,7 @@ Screenshot by Lance Whitney/ZDNET
 ## Use Intel Unison
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install Intel Unison
@@ -139,13 +117,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -159,11 +130,19 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -213,24 +192,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-breakthrough-technology-for-screens-showmores-revolutionary-recorder/"><u>[New] 2024 Approved Breakthrough Technology for Screens ShowMore's Revolutionary Recorder</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-tips-for-effective-game-playback-on-microsoft-os/"><u>[New] 2024 Approved Tips for Effective Game Playback on Microsoft OS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-future-of-editing-with-vita-a-complete-review/"><u>[New] The Future of Editing with Vita - A Complete Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-under-the-lens-hero-4-meets-hero-5/"><u>[New] Under the Lens Hero 4 Meets Hero 5</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-prime-dialogue-designer-space/"><u>[Updated] Prime Dialogue Designer Space</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamlining-your-meetings-using-zoom-with-win11/"><u>[Updated] Streamlining Your Meetings Using Zoom with Win11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-comprehensive-approach-to-linking-your-tiktok-profile/"><u>[Updated] The Comprehensive Approach to Linking Your TikTok Profile</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-popular-meme-ideas-for-every-occasion/"><u>[Updated] Top Popular Meme Ideas for Every Occasion</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-brain-challenge-top-trivia-networks-for-24/"><u>[Updated] Ultimate Brain Challenge - Top Trivia Networks for '24</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-innovative-cloud-storage-options-in-2s024/"><u>[Updated] Unveiling Innovative Cloud Storage Options in 2S024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-instagram-memories-with-these-apps/"><u>2024 Approved Unlocking Instagram Memories with These Apps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/advanced-playback-techniques-to-streamline-media-workflows/"><u>Advanced Playback Techniques to Streamline Media Workflows</u></a></li>
-<li><a href="https://windows11.techidaily.com/dual-display-designs-selective-screen-splendor-in-win-1011/"><u>Dual-Display Designs: Selective Screen Splendor in Win 10/11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/enhancing-classroom-learning-through-recorders/"><u>Enhancing Classroom Learning Through Recorders</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-8-free-online-havens-for-3d-text-psdfiles/"><u>In 2024, Top 8 FREE Online Havens for 3D Text PSDFiles</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-quick-selection-of-multiple-messages-in-your-inbox-using-googles-mail-service/"><u>Master the Quick Selection of Multiple Messages in Your Inbox Using Google's Mail Service</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/precisionscreenrecorder-capture-anytime-for-2024/"><u>PrecisionScreenRecorder - Capture Anytime for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-photos-with-easy-online-cropping-steps-for-2024/"><u>Transforming Photos with Easy Online Cropping Steps for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ate-text-to-video-best-online-platforms-for-vids/"><u>Ultimate Text-to-Video Best Online Platforms for Vids</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-10-power-players-youtubes-ladies-in-gaming/"><u>[New] In 2024, 10 Power Players YouTube's Ladies in Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-clear-path-a-step-by-step-approach-to-buying-an-exceptional-4k-monitor/"><u>[New] The Clear Path A Step-By-Step Approach to Buying an Exceptional 4K Monitor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-discovering-the-most-acclaimed-photo-swap-apps/"><u>[New] Unleash Creativity Discovering the Most Acclaimed Photo Swap Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-wmi-provider-host-high-cpu-usage-on-windows-1111-quickly-and-easily/"><u>[Solved] WMI Provider Host: High CPU Usage on Windows 11/11 | Quickly & Easily!</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-t2-pro-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo T2 Pro 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-tecno-camon-20-premier-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Tecno Camon 20 Premier 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-productivity-top-10-techniques-for-effective-time-management-in-the-workplace-insights-from-zdnet/"><u>Boost Your Productivity: Top 10 Techniques for Effective Time Management in the Workplace - Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-reno-10-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo Reno 10 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-comparative-analysis-of-game-streaming-software-obs-vs-shadowplay/"><u>In 2024, Comparative Analysis of Game Streaming Software OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-obtaining-flawless-visual-content/"><u>In 2024, The Art of Obtaining Flawless Visual Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transition-tunes-mastering-crossfading-in-music/"><u>In 2024, Transition Tunes Mastering Crossfading in Music</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/instagram-story-mastery-controlling-your-video-speed/"><u>Instagram Story Mastery Controlling Your Video Speed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/photobooth-frustration-unfreezing-video-playback-for-2024/"><u>Photobooth Frustration Unfreezing Video Playback for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/testimonials-on-screen-marketings-best-friend-for-2024/"><u>Testimonials on Screen Marketing's Best Friend for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-everyday-moments-with-ioss-complete-life-story-for-2024/"><u>Transforming Everyday Moments with iOS's Complete Life Story for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-foundation-of-motion-visualization-for-2024/"><u>Understanding the Foundation of Motion Visualization for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win1011-mouse-driver-reactivation-a-quick-reference/"><u>Win10/11 Mouse Driver Reactivation: A Quick Reference</u></a></li>
 </ul></div>
 

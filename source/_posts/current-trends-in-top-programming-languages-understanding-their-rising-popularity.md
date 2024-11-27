@@ -1,7 +1,7 @@
 ---
 title: Current Trends in Top Programming Languages - Understanding Their Rising Popularity
-date: 2024-09-18 19:10:17
-updated: 2024-09-20 10:23:36
+date: 2024-11-20T18:06:18.816Z
+updated: 2024-11-27T01:22:15.315Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-eye-opening-journey-with-q500/"><u>[New] The Eye-Opening Journey with Q500</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-control-over-your-spotify-default-podcast-recommendations/"><u>[Updated] Control Over Your Spotify Default Podcast Recommendations</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-instalment-insight-getting-vrecord-running-for-2024/"><u>[Updated] Instalment Insight Getting VRecord Running for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-syncing-social-media-zoom-and-facebook-live-interactions/"><u>[Updated] Syncing Social Media Zoom and Facebook Live Interactions</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1725287532206-ai/"><u>AIができる！動画のフレーム補完手引き - 最新技術で見事なクオリティアップ</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/google-ar-stickers-innovation-and-comparison-to-other-offerings/"><u>Google AR Stickers Innovation and Comparison to Other Offerings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-the-best-17-image-editing-utilities-for-2024/"><u>Guide to the Best 17 Image Editing Utilities for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-tecno-camon-20-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Camon 20 phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Samsung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-premier-essentials-seamless-audio-switching/"><u>In 2024, Premier Essentials Seamless Audio Switching</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-premier-selection-of-vr-cycling-options-for-2024/"><u>The Premier Selection of VR Cycling Options for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tiktok-mastery-the-art-of-editing-your-number-for-2024/"><u>TikTok Mastery The Art of Editing Your Number for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleash-high-speed-internet-with-ourlinks-u631-usb-wi-fi-adaptor-miniature-design-meets-robust-performance/"><u>Unleash High-Speed Internet with Ourlink's U631 USB Wi-Fi Adaptor: Miniature Design Meets Robust Performance</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Safeguard Your System Against 60 Weekly Vulnerabilities Spotted by The Linux Security Team | ZDNET Insights
-date: 2024-09-19 22:20:31
-updated: 2024-09-20 11:14:37
+date: 2024-11-21T20:45:24.463Z
+updated: 2024-11-26T21:17:33.994Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -67,11 +75,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -92,6 +108,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-the-guide-to-procuring-and-utilizing-free-visual-frame-content/"><u>[Updated] The Guide to Procuring and Utilizing Free Visual Frame Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-snapchats-spotlight-mechanics/"><u>[Updated] Unlocking Snapchat's Spotlight Mechanics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-video-editing-mastery-using-lut-filters-in-obs-studio/"><u>2024 Approved Unlock Video Editing Mastery Using LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://discover-great.techidaily.com/como-instalar-windows-11-en-equipos-incompatibles-sin-perder-datos-3-metodos-efectivos/"><u>Cómo Instalar Windows 11 en Equipos Incompatibles Sin Perder Datos: 3 Métodos Efectivos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/dark-moments-decoded-for-iphone-users/"><u>Dark Moments Decoded for iPhone Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-zooms-visual-clarity-tips-and-tricks/"><u>Enhancing Zoom's Visual Clarity Tips and Tricks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-pl2303-chip-driver-for-windows-pcs/"><u>Get the Latest PL2303 Chip Driver for Windows PCs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-framefinesse-a-detailed-guide-on-ig-image-dimensions/"><u>In 2024, FrameFinesse A Detailed Guide on IG Image Dimensions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-directory-for-podcast-hosting/"><u>In 2024, The Ultimate Directory for Podcast Hosting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-how-to-for-ifunnys-meme-app/"><u>In 2024, The Ultimate How-To for iFunny's Meme App</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://solve-info.techidaily.com/step-by-step-guide-adding-and-extracting-subtitles-in-m2ts-video-format/"><u>Step-by-Step Guide: Adding and Extracting Subtitles in M2TS Video Format</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essence-of-chuckles-in-single-photos-for-2024/"><u>The Essence of Chuckles in Single Photos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-handbook-for-iphone-ringtone-tweaking-for-2024/"><u>The Essential Handbook for iPhone Ringtone Tweaking for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/three-tricks-for-transforming-videos-on-iphone-by-merging-melodies-for-2024/"><u>Three Tricks for Transforming Videos on iPhone by Merging Melodies for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncovering-hidden-notifications-on-iphones-easily/"><u>Uncovering Hidden Notifications on iPhones Easily</u></a></li>
+</ul></div>
+

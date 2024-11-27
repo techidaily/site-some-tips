@@ -1,7 +1,7 @@
 ---
 title: Mastering Machine Intelligence with Kubernetes' Latest Version – Innovations for Efficient AI Deployments
-date: 2024-09-18 20:26:27
-updated: 2024-09-20 11:29:35
+date: 2024-11-22T23:00:28.841Z
+updated: 2024-11-27T01:59:25.012Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-picks-in-the-market-for-cheap-but-high-quality-screens/"><u>[New] Top Picks in the Market for Cheap but High-Quality Screens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-premiere-pro-template-guide-no-cost/"><u>[New] Ultimate Premiere Pro Template Guide - No Cost</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-80plus-creative-cooking-channel-names-to-attract-more-audience/"><u>[Updated] In 2024, 80+ Creative Cooking Channel Names to Attract More Audience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-omnimix-pro-versatile-os-edition/"><u>[Updated] In 2024, OMNIMix Pro Versatile OS Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels/"><u>[Updated] Streaming Selection Saga Choose Between Engaging Podcasts and YouTube Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-movie-watching-process-add-subtitles-to-wmp/"><u>[Updated] Streamline Your Movie-Watching Process Add Subtitles to WMP</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-tailoring-youtube-experience-on-the-worlds-largest-social-network/"><u>[Updated] Tailoring YouTube Experience on the World's Largest Social Network</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-escaping-a-stroke-on-your-youtube-channel/"><u>2024 Approved Escaping a Stroke on Your YouTube Channel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-money-mastery-made-simple-reddits-13-best-income-streams/"><u>2024 Approved Money Mastery Made Simple Reddit's 13 Best Income Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-excellent-cricket-broadcasting/"><u>2024 Approved The Ultimate Guide to Excellent Cricket Broadcasting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-speed-solutions-for-sluggish-android-videos/"><u>2024 Approved Top Speed Solutions for Sluggish Android Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximizing-your-sound-the-best-microphones-for-podcasting-for-2024/"><u>Maximizing Your Sound The Best Microphones for Podcasting for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-your-iphones-display-dilemmas-top-7-problems-and-fixes/"><u>Solving Your iPhone's Display Dilemmas: Top 7 Problems and Fixes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-art-of-package-revelation-amplifying-initial-impressions-for-2024/"><u>The Art of Package Revelation Amplifying Initial Impressions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-adobe-premiere-soundtrack-guide-for-2024/"><u>The Ultimate Adobe Premiere Soundtrack Guide for 2024</u></a></li>
+</ul></div>
+

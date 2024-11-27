@@ -1,7 +1,7 @@
 ---
 title: Businesses Can Now Personalize Google's Vector AI for Internal Use, Thanks to Recent Updates
-date: 2024-09-17 23:20:46
-updated: 2024-09-20 12:33:26
+date: 2024-11-22T02:43:26.871Z
+updated: 2024-11-26T17:00:01.919Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -81,6 +85,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -103,6 +111,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +122,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-ultimate-checklist-for-video-quality-boost-version-22/"><u>[New] 2024 Approved The Ultimate Checklist for Video Quality Boost Version 2.2</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks/"><u>[New] In 2024, How to Sculpt the Perfect YouTube Moniker Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thorough-investigation-dji-inspire-1-reviewed/"><u>[Updated] Thorough Investigation DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-visuals-10-must-try-text-upgrades-in-videos/"><u>2024 Approved Transforming Visuals 10 Must-Try Text Upgrades in Videos</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/diy-guide-creating-personalized-holiday-videos/"><u>DIY Guide: Creating Personalized Holiday Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-employers-might-react-to-chatgpt-use-and-potential-consequences/"><u>How Employers Might React to ChatGPT Use and Potential Consequences</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-honor-70-lite-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Honor 70 Lite 5G Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-issue-when-football-manager-2023-doesnt-open/"><u>How to Fix the Issue When Football Manager 2023 Doesn't Open</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-techniques-for-downloading-converting-and-saving-vids-on-twitter-as-mp3s/"><u>In 2024, Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-terracore-pros-fusion-of-touch-and-high-definition/"><u>In 2024, TerraCore Pros Fusion of Touch & High Definition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-impressive-hdr-portraits-explained/"><u>In 2024, The Art of Impressive HDR Portraits Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-vr-player-guide-unveiling-the-best-pc-streamers/"><u>In 2024, The Ultimate VR Player Guide Unveiling the Best PC Streamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-untangling-veiled-feedback-mechanisms-in-video-sites/"><u>In 2024, Untangling Veiled Feedback Mechanisms in Video Sites</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visionary-backdrop-transformers-photorealm-innovation/"><u>Visionary Backdrop Transformers PhotoRealm Innovation</u></a></li>
+</ul></div>
+

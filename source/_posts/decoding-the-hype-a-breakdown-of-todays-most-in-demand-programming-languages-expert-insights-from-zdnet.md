@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Hype: A Breakdown of Today's Most In-Demand Programming Languages - Expert Insights From ZDNet"
-date: 2024-09-18 12:48:12
-updated: 2024-09-20 10:51:48
+date: 2024-11-25T16:56:11.117Z
+updated: 2024-11-26T19:25:35.800Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-downloading-with-diligence-how-to-securely-save-imagesvideos-on-iphone-for-2024/"><u>[New] Downloading with Diligence How to Securely Save Images/Videos on iPhone for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-syma-x8c-performance-breakdown/"><u>[New] Syma X8C Performance Breakdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-8-immersive-virtual-reality-adventures-on-oculus/"><u>[New] Top 8 Immersive Virtual Reality Adventures on Oculus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-describing-your-podcast-with-flair/"><u>[Updated] The Art of Describing Your Podcast with Flair</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-places-for-free-text-visual-enhancements/"><u>[Updated] Top Places for Free Text Visual Enhancements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-camera-duel-sj6-against-xiaomis-yi-visionary/"><u>2024 Approved The Ultimate Camera Duel SJ6 Against Xiaomi's Yi Visionary</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-glitch-obstructing-halo-infinite-game-startup/"><u>DirectX12 Glitch Obstructing Halo Infinite Game Startup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-your-google-usb-driver-fast-and-easy-installation-steps-inside/"><u>Get Your Google USB Driver - Fast and Easy Installation Steps Inside!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hotkey-hacks-masterful-window-management-made-simple/"><u>Hotkey Hacks: Masterful Window Management Made Simple</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50i-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X50i Phone Forgot Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-intricate-dance-of-photos-into-a-unified-display/"><u>In 2024, The Intricate Dance of Photos Into a Unified Display</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-your-path-to-youtube-prominence-effective-tactics-unveiled/"><u>In 2024, Your Path to YouTube Prominence Effective Tactics Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lost-the-gunfire-correcting-no-sound-glitches-in-battlefield-4-now/"><u>Lost the Gunfire? Correcting No Sound Glitches in Battlefield 4 Now!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/revolutionary-capturing-best-5-cameras-for-slow-mo-for-2024/"><u>Revolutionary Capturing Best 5 Cameras for Slow Mo for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-screenplays-distributed-among-classified-types-for-2024/"><u>Superior Screenplays Distributed Among Classified Types for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-artisans-selection-best-photo-frame-software-for-2024/"><u>The Artisan's Selection Best Photo Frame Software for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-3-free-video-players-face-off-vlc-vs-mpc-showdown-for-2024/"><u>Top 3 FREE Video Players Face Off VLC Vs. MPC Showdown for 2024</u></a></li>
+</ul></div>
+

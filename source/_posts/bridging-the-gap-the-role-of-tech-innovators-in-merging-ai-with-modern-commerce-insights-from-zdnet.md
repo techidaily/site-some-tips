@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: The Role of Tech Innovators in Merging AI with Modern Commerce - Insights From ZDNet"
-date: 2024-09-17 10:42:55
-updated: 2024-09-20 11:12:45
+date: 2024-11-25T17:06:53.119Z
+updated: 2024-11-27T03:25:05.958Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -40,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-fundamentals-of-color-grading-using-luts-in-ae/"><u>[New] The Fundamentals of Color Grading Using LUTs in AE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-potential-advanced-tiktok-visual-enhancements/"><u>[New] Unleashing Potential Advanced TikTok Visual Enhancements</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-are-apples-new-processors-revolutionizing-editing-tech-for-2024/"><u>[Updated] Are Apple's New Processors Revolutionizing Editing Tech for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-audience-wave-top-hash-tags-to-swell-youtube-views/"><u>[Updated] Audience Wave Top Hash Tags to Swell Youtube Views</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-expert-tips-for-efficiently-logging-google-online-gatherings/"><u>[Updated] In 2024, Expert Tips for Efficiently Logging GooGle Online Gatherings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-srts-potential-in-subtitle-format-sub/"><u>[Updated] Unveiling SRT's Potential in Subtitle Format (SUB)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-vlog-presentation-converting-h-footage-for-vertical-display/"><u>2024 Approved Mastering Vlog Presentation Converting H-Footage for Vertical Display</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-preferred-options-superior-mac-video-capture-apps/"><u>2024 Approved Preferred Options Superior Mac Video Capture Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/plete-guide-to-aspect-ratios-about-youtube-videosshortsads-for-2024/"><u>A Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/cutting-edge-methods-for-capturing-your-playtime/"><u>Cutting-Edge Methods for Capturing Your Playtime</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-efficiency-boost-editing-on-magix-video-pro-x/"><u>In 2024, The Efficiency Boost Editing on Magix Video Pro X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-ios-auditory-options/"><u>In 2024, Top 10 iOS Auditory Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-online-platforms-for-youtube-media-growth/"><u>In 2024, Top Online Platforms for YouTube Media Growth</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-crashes-in-nioh-2-heres-your-definitive-guide-to-fixing-them/"><u>Persistent Crashes in Nioh 2? Here's Your Definitive Guide to Fixing Them</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-customer-service-merging-chatgpt-with-whatsapp-for-enhanced-support/"><u>Seamless Customer Service: Merging ChatGPT with WhatsApp for Enhanced Support</u></a></li>
+</ul></div>
+

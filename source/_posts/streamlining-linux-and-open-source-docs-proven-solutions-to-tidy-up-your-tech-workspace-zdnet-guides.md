@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Linux & Open Source Docs: Proven Solutions to Tidy Up Your Tech Workspace | ZDNET Guides"
-date: 2024-09-17 21:20:31
-updated: 2024-09-20 10:40:19
+date: 2024-11-21T22:21:20.585Z
+updated: 2024-11-26T17:14:12.117Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-best-webcam-technology-boosting-audio-fidelity/"><u>[New] In 2024, Best Webcam Technology Boosting Audio Fidelity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essence-of-effortless-live-broadcasts-with-one-device-use/"><u>[New] The Essence of Effortless Live Broadcasts with One-Device Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-videos-with-magix-video-pro-x/"><u>[New] Transform Your Videos with Magix Video Pro X</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-media-sensation-tiktoks-top-10-per-share/"><u>[Updated] 2024 Approved Social Media Sensation TikTok's Top 10 Per Share</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/descargar-y-convertir-archivo-3gp-a-mpeg-4-sin-costo-con-conversor-de-video-online-facil/"><u>Descargar Y Convertir Archivo 3GP a MPEG-4 Sin Costo Con Conversor De Video Online Fácil</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exclusive-look-at-the-best-philips-somneo-alarm-clock-model/"><u>Exclusive Look at the Best Philips Somneo Alarm Clock Model</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-riding-the-wave-of-solitary-podcast-popularity/"><u>In 2024, Riding the Wave of Solitary Podcast Popularity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-screen-showdown-top-6-hdmi-21-monitors-reviewed/"><u>In 2024, The Ultimate Screen Showdown Top 6 HDMI 2.1 Monitors Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-camera-tech-s-filmmaking/"><u>In 2024, Unparalleled Camera Tech 'S Filmmaking</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-for-overcoming-encoding-limits/"><u>Techniques for Overcoming Encoding Limits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voice-command-integration-mercedes-benz-unveils-ai-assistant-in-cars/"><u>Voice Command Integration: Mercedes-Benz Unveils AI Assistant in Cars</u></a></li>
+</ul></div>
+

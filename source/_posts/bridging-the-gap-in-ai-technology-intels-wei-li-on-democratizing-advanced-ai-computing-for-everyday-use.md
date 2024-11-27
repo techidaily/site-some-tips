@@ -1,7 +1,7 @@
 ---
 title: Bridging the Gap in AI Technology - Intel's Wei Li on Democratizing Advanced AI Computing for Everyday Use
-date: 2024-09-17 11:56:40
-updated: 2024-09-20 11:21:17
+date: 2024-11-20T17:11:43.700Z
+updated: 2024-11-26T16:37:58.819Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -46,6 +50,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +114,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/uick-cover-art-crafting-for-fighting-games-for-2024/"><u>[New] Quick Cover Art Crafting for Fighting Games for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-luts-to-amplify-your-photo-quality/"><u>[New] Understanding LUTs to Amplify Your Photo Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-soundsmiths-scripture-on-crossfading-in-logic/"><u>[Updated] The Soundsmith's Scripture on Crossfading in Logic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-blueprint-for-sourcing-top-tier-instagram-ringtones-and-crafting-standout-alarms/"><u>[Updated] The Ultimate Blueprint for Sourcing Top-Tier Instagram Ringtones and Crafting Standout Alarms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-8-youtuber-blunders-to-avoid-and-why-theyre-common/"><u>[Updated] Top 8 Youtuber Blunders to Avoid and Why They're Common</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tutorial-for-full-utilization-of-final-cut-pro/"><u>2024 Approved Ultimate Tutorial for Full Utilization of Final Cut Pro</u></a></li>
+<li><a href="https://discover-community.techidaily.com/effective-fixes-when-your-screen-capture-wont-save-what-next/"><u>Effective Fixes When Your Screen Capture Won't Save – What Next?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effective-techniques-for-b-cutting-and-cutaways/"><u>Effective Techniques for B-Cutting and Cutaways</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/giggles-and-grins-topical-humor-guides-for-everyone/"><u>Giggles and Grins Topical Humor Guides for Everyone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-13c-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi 13C by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-to-converting-your-dvd-collection-for-viewing-on-ipad/"><u>Quick Guide to Converting Your DVD Collection for Viewing on iPad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-a-diy-guide-to-haul-edits-for-2024/"><u>Unleash Creativity with a DIY Guide to Haul Edits for 2024</u></a></li>
+</ul></div>
+

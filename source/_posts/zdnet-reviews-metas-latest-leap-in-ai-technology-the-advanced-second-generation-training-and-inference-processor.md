@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reviews Meta's Latest Leap in AI Technology: The Advanced Second-Generation Training and Inference Processor"
-date: 2024-09-17 22:32:33
-updated: 2024-09-20 10:27:56
+date: 2024-11-20T01:41:02.126Z
+updated: 2024-11-26T17:57:53.777Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,6 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +65,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +84,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -123,6 +139,10 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-sharing-subtitle-files-socially/"><u>[New] The Complete Guide to Sharing Subtitle Files Socially</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-download-snapchat-ringtones-websites/"><u>[Updated] Top 10 Download Snapchat Ringtones Websites</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-essential-tips-for-a-novice-using-facebook-analytics/"><u>2024 Approved Essential Tips for a Novice Using Facebook Analytics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-professional-screen-capture-techniques-orderly-tutorials/"><u>2024 Approved Professional Screen Capture Techniques - Orderly Tutorials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-acquiring-flawless-photos-on-the-internet/"><u>2024 Approved Strategies for Acquiring Flawless Photos on the Internet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-realistic-3d-text-photoshopping-style/"><u>In 2024, Crafting Realistic 3D Text Photoshopping Style</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-9a-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 9A to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-video-beats-into-ringtones-must-visit-sites-explored/"><u>In 2024, Transform Video Beats Into Ringtones Must-Visit Sites Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-art-of-sideways-iphone-photography/"><u>In 2024, Unveiling the Art of Sideways iPhone Photography</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-the-spotlight-comprehensive-j5-tactical-pro-v1-pro-flashlight-analysis-for-rugged-and-portable-glowing-solutions/"><u>In the Spotlight: Comprehensive J5 Tactical Pro V1-Pro Flashlight Analysis for Rugged and Portable Glowing Solutions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/e-capture-screen-to-youtube-posting-with-pcmac/"><u>Online Capture Screen-to-YouTube Posting with PC/Mac</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sml385btbk-effortless-setup-and-brilliant-display-make-this-singing-machine-perfect-for-partygoers/"><u>SML385BTBK Effortless Setup and Brilliant Display Make This Singing Machine Perfect for Partygoers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-editors-almanac-key-takeaways-from-filmora-editioning-for-2024/"><u>The Editor’s Almanac Key Takeaways From Filmora Editioning for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ticklishtunes-your-guide-to-amusing-ringtone-downloads-for-2024/"><u>TicklishTunes Your Guide to Amusing Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-infinix-smart-8-hd-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Infinix Smart 8 HD Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions-for-2024/"><u>Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unravel-the-mystery-of-tempo-control-in-instagram-stories-for-2024/"><u>Unravel the Mystery of Tempo Control in Instagram Stories for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/venturing-into-vector-world-starting-point-and-top-tools-for-2024/"><u>Venturing Into Vector World Starting Point and Top Tools for 2024</u></a></li>
+</ul></div>
+

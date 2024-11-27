@@ -1,7 +1,7 @@
 ---
 title: Mastering the Convergence of RAG and Generative AI in Business Strategy – Insights for Leaders
-date: 2024-09-17 16:19:32
-updated: 2024-09-20 11:58:40
+date: 2024-11-24T16:27:54.739Z
+updated: 2024-11-26T22:09:28.971Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-smart-sharing-the-leading-shortened-url-services-for-youtubers/"><u>[New] In 2024, Smart Sharing The Leading Shortened URL Services for Youtubers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-tiktok-experience-with-new-user-numbers/"><u>[New] Transform Your TikTok Experience with New User Numbers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>[New] Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unifiedvision-mixer-hub/"><u>[New] UnifiedVision Mixer Hub</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unraveling-vrs-impact-on-digital-cinema/"><u>[New] Unraveling VR's Impact on Digital Cinema</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-art-of-recording-flawless-podcasts-via-zoom/"><u>[Updated] In 2024, The Art of Recording Flawless Podcasts via Zoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-choice-of-steadicams-for-drone-video-shootings/"><u>2024 Approved Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/analyzing-the-goofy-journey-vhs-review-insights/"><u>Analyzing 'The Goofy Journey' VHS Review Insights</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/how-to-recover-a-corrupted-or-missing-windows-1011-partition-step-by-step/"><u>How to Recover a Corrupted or Missing Windows 10/11 Partition Step-by-Step</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-taking-command-with-custom-character-sounds-in-free-fire-no-expense-involved/"><u>In 2024, Taking Command with Custom Character Sounds in Free Fire - No Expense Involved</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-raw-footage-an-in-depth-guide-to-applying-lut-filters-in-obs-studio/"><u>In 2024, Transforming Raw Footage An In-Depth Guide to Applying LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-audio-potential-pazeras-free-tool-review/"><u>In 2024, Unleash Your Audio Potential Pazera's Free Tool Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-remedies-to-restore-missing-wpcpdll-on-your-computer/"><u>Step-by-Step Remedies to Restore Missing WPCP.DLL on Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-prime-picks-best-storytelling-channels-fans-for-2024/"><u>The Prime Picks Best Storytelling Channels Fans for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-for-virtual-reality-content-android-friendly-for-2024/"><u>The Ultimate Guide for Virtual Reality Content (Android-Friendly) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11-widget-tweaks-a-comprehensive-guide-to-disabling-live-feeds/"><u>Windows 11 Widget Tweaks: A Comprehensive Guide to Disabling Live Feeds</u></a></li>
+</ul></div>
+

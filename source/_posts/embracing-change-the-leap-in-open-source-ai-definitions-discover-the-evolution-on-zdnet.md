@@ -1,7 +1,7 @@
 ---
 title: "Embracing Change: The Leap in Open Source AI Definitions - Discover the Evolution on ZDNet"
-date: 2024-09-19 14:37:44
-updated: 2024-09-20 12:52:20
+date: 2024-11-25T03:00:01.271Z
+updated: 2024-11-27T01:16:31.627Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-your-subtitles-top-10-web-based-editors-reviewed/"><u>[New] Streamlining Your Subtitles Top 10 Web-Based Editors Reviewed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-leaving-no-trace-on-insta-permanent-deactivation-101-for-2024/"><u>[Updated] Leaving No Trace on Insta Permanent Deactivation 101 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-top-5-low-weight-action-recorders-list/"><u>[Updated] Ultimate Top 5 Low-Weight Action Recorders List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-finest-yt-unboxing-sequences/"><u>2024 Approved Explore the Finest YT Unboxing Sequences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-screensnatchers-guide-to-beautifully-free-bgs-on-tiktok/"><u>2024 Approved ScreenSnatchers' Guide to Beautifully Free BGs on TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/draft-satirical-graphics-for-giphy-use/"><u>Draft Satirical Graphics for Giphy Use</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-freeing-up-system-ram-resolved/"><u>Fortnite Freeing Up System RAM - Resolved</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-movie-magic-solutions-questions-answered/"><u>In 2024, Movie Magic Solutions Questions Answered</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlined-audio-processing-in-windows-media-player/"><u>In 2024, Streamlined Audio Processing in Windows Media Player</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-vector-file-polishing/"><u>In 2024, Superior Vector File Polishing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-selection-of-top-5-best-android-photo-apps/"><u>In 2024, The Ultimate Selection of Top 5 Best Android Photo Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725616814183-live-streaming-made-easy-with-manycam-professional-virtual-camera-solutions/"><u>Live Streaming Made Easy with ManyCam - Professional Virtual Camera Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-languages-swiftly-on-windows-with-key-combinations/"><u>Navigate Through Languages Swiftly on Windows With Key Combinations</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-deceptions-tactics-to-skirt-scams/"><u>Unraveling Deceptions: Tactics to Skirt Scams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-mystery-of-apples-new-ios-camera-for-2024/"><u>Unraveling the Mystery of Apple's New iOS Camera for 2024</u></a></li>
+</ul></div>
+

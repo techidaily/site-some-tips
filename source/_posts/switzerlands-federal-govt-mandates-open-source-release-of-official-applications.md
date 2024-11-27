@@ -1,7 +1,7 @@
 ---
 title: Switzerland's Federal Govt. Mandates Open-Source Release of Official Applications
-date: 2024-09-19 19:38:48
-updated: 2024-09-20 11:53:33
+date: 2024-11-20T18:01:46.959Z
+updated: 2024-11-27T02:44:12.645Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-canvas-clearance-techniques-for-uncluttered-image-frames/"><u>[New] Canvas Clearance Techniques for Uncluttered Image Frames</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-time-taken-for-a-20mb-video-playback/"><u>[New] Time Taken for a 20MB Video Playback</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unbiased-take-on-recordcast-efficacy/"><u>[Updated] In 2024, Unbiased Take on RecordCast Efficacy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-synchronized-intro-editing-across-all-your-devices-this-year/"><u>[Updated] Synchronized Intro Editing Across All Your Devices This Year</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-foundation-of-motion-visualization/"><u>[Updated] Understanding the Foundation of Motion Visualization</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-vlog-stability-devices-for-smooth-screensavers/"><u>2024 Approved Ultimate Vlog Stability Devices for Smooth Screensavers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/assessing-the-riches-of-mr-beast/"><u>Assessing the Riches of Mr. Beast</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/cutting-edge-graphic-amendments-for-2024/"><u>Cutting-Edge Graphic Amendments for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/discovering-the-forgotten-chronicles-a-guide-to-past-facebook-stories-on-tech-devices/"><u>Discovering The Forgotten Chronicles A Guide to Past Facebook Stories on Tech Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-smart-8-hd-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Smart 8 HD phone? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ten-strategies-for-controlling-a-twitch-broadcast/"><u>In 2024, Ten Strategies for Controlling a Twitch Broadcast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-collection-no-cost-ae-template-gold/"><u>In 2024, Ultimate Collection No-Cost AE Template Gold</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-photoshops-magic-with-image-curving/"><u>In 2024, Unraveling Photoshop’s Magic with Image Curving</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-for-professional-livestreaming-using-zoom-on-youtube-for-2024/"><u>The Complete Guide for Professional Livestreaming Using Zoom on YouTube for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/trustworthy-iphone-file-rescue-software-protect-and-retrieve-your-data-with-ease/"><u>Trustworthy iPhone File Rescue Software: Protect and Retrieve Your Data with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-these-top-free-slideshow-templates-for-2024/"><u>Unleash Creativity with These Top Free Slideshow Templates for 2024</u></a></li>
+</ul></div>
+

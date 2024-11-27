@@ -1,7 +1,7 @@
 ---
 title: Mastering Hybrid Cloud Solutions with Red Hat's Updated Enterprise Linux Distribution and Advanced Features
-date: 2024-09-19 10:23:50
-updated: 2024-09-20 12:47:16
+date: 2024-11-22T16:31:08.466Z
+updated: 2024-11-26T19:17:24.031Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-blackout-blitz-premiere-pro-60s/"><u>[New] Blackout Blitz Premiere Pro 60S</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/choes-of-excellence-10-strategies-for-superior-sound-quality-for-2024/"><u>[New] Echoes of Excellence 10 Strategies for Superior Sound Quality for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-revolutionaries-building-virtual-realms/"><u>[New] Revolutionaries Building Virtual Realms</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-video-tools-an-educators-guide-to-classroom-engagement-for-2024/"><u>[Updated] Video Tools An Educator's Guide to Classroom Engagement for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/finalize-your-winxdvd-user-license-agreement-with-digiartys-specialized-software-solutions/"><u>Finalize Your WinXDVD User License Agreement with Digiarty's Specialized Software Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essence-of-color-in-photography-top-11-tutorials/"><u>In 2024, The Essence of Color in Photography (Top 11 Tutorials)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-success-with-effective-video-praise-techniques/"><u>In 2024, Unlocking Success with Effective Video Praise Techniques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-document-management-techniques-for-saving-images-from-word-templates/"><u>Mastering Document Management: Techniques for Saving Images From Word Templates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-gpu-load-with-proven-wm-fixes-on-windows/"><u>Optimizing GPU Load with Proven WM Fixes on Windows</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-of-the-updated-demons-souls-improved-aesthetics-and-unchanged-greatness/"><u>Review of the Updated Demon's Souls: Improved Aesthetics and Unchanged Greatness</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-itunes-podcast-upload-for-2024/"><u>The Complete Guide to iTunes Podcast Upload for 2024</u></a></li>
+</ul></div>
+

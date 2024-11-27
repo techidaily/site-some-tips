@@ -1,7 +1,7 @@
 ---
 title: "Unpacking the Truth: Why 60 Daily CVEs From The Linux Foundation Aren't Alarming - Smart Mitigation Tactics"
-date: 2024-09-17 16:45:11
-updated: 2024-09-20 11:12:11
+date: 2024-11-22T16:48:20.777Z
+updated: 2024-11-27T05:29:41.023Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,11 +75,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-streamlined-techniques-for-recording-gotomeetings/"><u>[New] 2024 Approved Streamlined Techniques for Recording GoToMeetings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-influencing-earnings-through-channel-partnerships/"><u>[New] In 2024, Influencing Earnings Through Channel Partnerships</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-speech-synthesis-simplified-from-ssa-to-compelling-srt-files-for-2024/"><u>[New] Speech Synthesis Simplified From SSA to Compelling SRT Files for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-budget-camera-stabilizers-for-youtube-stars/"><u>[New] The Best Budget Camera Stabilizers for YouTube Stars</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-movie-storage-space-needs-over-24-hours/"><u>[Updated] Understanding Movie Storage Space Needs Over 24 Hours</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-price-tag-on-youtube-promo/"><u>[Updated] Understanding the Price Tag on Youtube Promo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here/"><u>2024 Approved How to Transcribe Speech to Text in Microsoft Word Learn It Here</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-creative-apps-roundup-choose-from-the-best-8-photo-edits-for-smartphones/"><u>2024 Approved Top Creative Apps Roundup Choose From the Best 8 Photo Edits for Smartphones</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlenet-wont-open-a-step-by-step-fix-guide-for-gamers/"><u>Battle.net Won't Open? A Step-by-Step Fix Guide for Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-audio-issues-on-your-windows-7-pc/"><u>Effective Solutions for Audio Issues on Your Windows 7 PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/iphone-backup-wiederverwenden-3-schritte-zum-wiederbelebung-ihres-ipads/"><u>IPhone-Backup Wiederverwenden: 3 Schritte Zum Wiederbelebung Ihres iPads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/less-hassle-more-joy-mastery-in-making-with-gpt/"><u>Less Hassle, More Joy: Mastery in Making with GPT</u></a></li>
+</ul></div>
+

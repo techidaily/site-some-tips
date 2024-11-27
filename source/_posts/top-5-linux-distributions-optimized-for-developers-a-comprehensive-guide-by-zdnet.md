@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Linux Distributions Optimized for Developers: A Comprehensive Guide by ZDNet"
-date: 2024-09-19 14:15:17
-updated: 2024-09-20 11:12:42
+date: 2024-11-26T04:25:54.570Z
+updated: 2024-11-26T17:03:43.393Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +60,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-gifify-your-twit-making-vids-free-and-flashy/"><u>[New] In 2024, Gifify Your Twit Making Vids Free & Flashy</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-efficiently-stream-your-facebook-feed-on-pcmaclaptop/"><u>[Updated] Efficiently Stream Your Facebook Feed on PC/Mac/Laptop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tech-tips-how-to-get-fcp-without-money/"><u>[Updated] Tech Tips How to Get FCP Without Money</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-finest-tech-for-streaming-and-saving-your-video-conferences-for-2024/"><u>[Updated] The Finest Tech for Streaming and Saving Your Video Conferences for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-palette-primer-compreenasive-guide-to-coloring/"><u>[Updated] The Palette Primer Compreenasive Guide to Coloring</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unveiling-the-secrets-of-adobe-cloud-and-alternative-storage-solutions/"><u>[Updated] Unveiling the Secrets of Adobe Cloud & Alternative Storage Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieve-cost-efficiency-with-lenovos-exclusive-student-discount-programs/"><u>Achieve Cost-Efficiency with Lenovo's Exclusive Student Discount Programs</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-peripherals-keyboard-and-mouse-woes-under-win7/"><u>How to Fix Unresponsive Peripherals: Keyboard and Mouse Woes Under Win7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-best-monitors-for-xbox-series-x/"><u>In 2024, The Best Monitors for Xbox Series X</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-ringtone-collection-top-download-locales/"><u>In 2024, Ultimate Ringtone Collection Top Download Locales</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-exciting-photography-aspects-of-ios-11/"><u>In 2024, Unveiling Exciting Photography Aspects of iOS 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-integrity-of-format-with-ffmpegs-audio-recapture-methods-for-2024/"><u>The Integrity of Format with FFmpeg's Audio Recapture Methods for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-android-photo-tech-tips-and-apps-guide-for-2024/"><u>Top Android Photo-Tech Tips & Apps Guide for 2024</u></a></li>
+</ul></div>
+

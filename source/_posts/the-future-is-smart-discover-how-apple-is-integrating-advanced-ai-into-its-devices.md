@@ -1,7 +1,7 @@
 ---
 title: The Future Is Smart - Discover How Apple Is Integrating Advanced AI Into Its Devices
-date: 2024-11-12T00:05:09.369Z
-updated: 2024-11-16T19:59:41.931Z
+date: 2024-11-21T18:47:27.904Z
+updated: 2024-11-27T00:50:30.864Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### SPECIAL FEATURE
 
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
@@ -29,13 +33,6 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 This year, five topics will likely dominate the headlines, dictate the next industry buzzwords, and be in the minds of every consumer. You'll hear a lot more about the "[AI PC](https://www.zdnet.com/article/nvidia-makes-the-case-for-the-ai-pc-at-ces-2024/)", but don't let that name obscure the reality: Our smartphones -- the most personal of computers -- are also receptive to an artificial intelligence makeover.
 
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
 
@@ -50,6 +47,10 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 **Also: [Apple research reveals some dazzling AI tech could be headed to your iPhone](https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/)**
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
 
@@ -68,10 +69,7 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -91,16 +89,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -122,10 +111,7 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -182,22 +168,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-selection-10-budget-friendly-youtube-caption-tools-for-2024/"><u>[New] Ultimate Selection 10 Budget-Friendly YouTube Caption Tools for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-sims-chronicles-uncut-expert-techniques-to-preserve-the-heart-of-your-gaming-life-in-sims-4/"><u>[Updated] 2024 Approved Sims Chronicles Uncut Expert Techniques to Preserve the Heart of Your Gaming Life in Sims 4</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-full-guide-to-instagrams-per-video-limit/"><u>[Updated] In 2024, The Full Guide to Instagram's Per-Video Limit</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-9-listing-best-virtual-microphones-recorders-2023/"><u>[Updated] Ultimate 9 Listing Best Virtual Microphones Recorders 2023</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-under-20-review-of-uphere-c5c-and-d6sec-air-coolers-revealed/"><u>Best Under $20? Review of UpHere C5C & D6Sec Air Coolers Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversione-libera-aiff-a-wmv-su-internet-utilizzando-movavi-il-processo-facile/"><u>Conversione Libera AIFF a WMV Su Internet Utilizzando Movavi - Il Processo Facile!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/decouvrez-les-17-meilleures-utilitaires-gratuit-pour-capturer-des-ecrans-en-2n24-guide-complet-avec-movavi/"><u>Découvrez Les 17 Meilleures Utilitaires Gratuit Pour Capturer Des Écrans en 2N24 - Guide Complet Avec Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-selection-of-no-cost-audio-converters-for-windows-and-macos-including-web-apps-a-review-by-movavi/"><u>Discover the Ultimate Selection of No-Cost Audio Converters for Windows and macOS, Including Web Apps - A Review by Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/easy-steps-transferring-video-content-into-imovie-with-a-reliable-converter/"><u>Easy Steps: Transferring Video Content Into iMovie with a Reliable Converter</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratuito-converter-online-de-midia-do-caf-para-mp3-pelo-movavi/"><u>Gratuito Converter Online De Mídia Do CAF Para MP3 Pelo Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/hatosagos-movavi-videkedzser-gyujtani-online/"><u>Hatóságos Movavi Vidékedzser - Gyújtani Online</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pioneering-change-googles-introduction-of-the-innovative-bard/"><u>Pioneering Change: Google's Introduction of the Innovative 'Bard'</u></a></li>
-<li><a href="https://some-tips.techidaily.com/section-3c-qandas-on-carpal-tunnel-syndrome/"><u>Section 3C: Q&As on Carpal Tunnel Syndrome</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-35-unmissable-cyber-monday-bargains-on-dell-products-find-them-now-at-walmart-ebay-and-other-retailers/"><u>Top 35 Unmissable Cyber Monday Bargains on Dell Products: Find Them Now at Walmart, eBay, and Other Retailers!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-windows-7-microphone-issues-a-comprehensive-guide/"><u>Troubleshoot and Fix Windows 7 Microphone Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-sizing-your-videos-perfectly-for-tiktok-on-any-device/"><u>Ultimate Guide: Sizing Your Videos Perfectly for TikTok on Any Device</u></a></li>
-<li><a href="https://fox-info.techidaily.com/virtual-reality-explained-meta-vs-omni-insights/"><u>Virtual Reality Explained Meta Vs. Omni Insights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-startup-zoom-navigating-participant-groups/"><u>[New] 2024 Approved Startup Zoom Navigating Participant Groups</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-a-tactical-approach-to-youtube-video-enhancement-with-imovie/"><u>[New] A Tactical Approach to YouTube Video Enhancement with iMovie</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-cheat-sheet-for-first-time-final-cut-users/"><u>[New] The Essential Cheat Sheet for First Time Final Cut Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-secrets-of-zoom-success/"><u>[New] Unveiling the Secrets of Zoom Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-google-docs-speech-to-text-a-complete-guidebook/"><u>[Updated] 2024 Approved Google Docs Speech-to-Text A Complete Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-secret-to-love-in-video-editing-filmoras-best-aspects/"><u>[Updated] The Secret to Love in Video Editing Filmora's Best Aspects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-power-to-create-personalized-whatsapp-alerts/"><u>[Updated] Unlock the Power to Create Personalized WhatsApp Alerts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-photos-into-videos-an-experts-complete-tutorial-series/"><u>2024 Approved Transforming Photos Into Videos An Expert's Complete Tutorial Series</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-the-mysteries-of-quantum-hdr/"><u>2024 Approved Unraveling the Mysteries of Quantum HDR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-economically-sound-artificial-intelligence-options/"><u>6 Economically Sound Artificial Intelligence Options</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/become-the-brand-you-want-with-our-exclusive-set-of-free-graphics-for-2024/"><u>Become the Brand You Want With Our Exclusive Set of FREE Graphics for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/lator-projected-profits-from-youtube/"><u>Calculator Projected Profits From YouTube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-fallout-4-no-sound-on-pc/"><u>How to Fix Fallout 4 No Sound on PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-potential-an-in-depth-look-at-vivocut-editing/"><u>In 2024, Unlocking Potential An In-Depth Look at VivoCut Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-mobile-photography-elevate-your-iphoneipad-shots/"><u>Mastering Mobile Photography: Elevate Your iPhone/iPad Shots</u></a></li>
 </ul></div>
 

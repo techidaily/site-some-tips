@@ -1,7 +1,7 @@
 ---
 title: Anthropic Unveils Innovative Claude Beta Feature Set, Paving Way for Next-Gen Smart Assistants - ZDNet Insights
-date: 2024-09-17 10:22:33
-updated: 2024-09-20 12:33:59
+date: 2024-11-21T22:10:42.635Z
+updated: 2024-11-26T21:49:14.033Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-freerecorder-x-unveiled-features-and-performance/"><u>[New] 2024 Approved FreeRecorder X Unveiled Features and Performance</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-pioneering-proficiency-the-complete-guide-to-music-and-media-fusion-on-youtube/"><u>[New] 2024 Approved Pioneering Proficiency The Complete Guide to Music & Media Fusion on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-seamless-media-conversion-from-avis-to-striking-gif-images-via-filmora-software-windowsmacos/"><u>[New] 2024 Approved Seamless Media Conversion From AVIs to Striking GIF Images via Filmora Software (Windows/macOS)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-video-playback-with-youtubes-latest-feature-av1-for-2024/"><u>[New] Elevate Video Playback with YouTube's Latest Feature - AV1 for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-82-witty-tiktok-comedy-skits/"><u>[Updated] 2024 Approved 82 Witty TikTok Comedy Skits</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-joke-to-jest-constructing-impactful-social-media-memes/"><u>[Updated] From Joke to Jest Constructing Impactful Social Media Memes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-sunlit-shades-to-subdued-spectrum-in-photoshop/"><u>[Updated] Sunlit Shades to Subdued Spectrum in Photoshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-visual-clarity-bypassing-background-in-photopea/"><u>[Updated] Unlocking Visual Clarity Bypassing Background in Photopea</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tapping-into-the-funny-side-with-photos/"><u>2024 Approved Tapping Into the Funny Side with Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-aerial-filmmaking-techniques/"><u>2024 Approved The Essentials of Aerial Filmmaking Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-science-of-choosing-music-for-movie-previews/"><u>2024 Approved The Science of Choosing Music for Movie Previews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultra-stable-gimbals-for-mobile-and-professional-photography/"><u>2024 Approved Ultra-Stable Gimbals for Mobile & Professional Photography</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-spotify-crashes-on-ios-devices-a-guide-for-when-you-lock-your-phone/"><u>Fix Spotify Crashes on iOS Devices: A Guide for When You Lock Your Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-your-brand-with-smart-spotify-marketing/"><u>In 2024, Transforming Your Brand with Smart Spotify Marketing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-perfecting-pics-with-facetune/"><u>In 2024, Ultimate Guide Perfecting Pics with Facetune</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unveiling-the-secrets-of-efficient-audio-recordings/"><u>In 2024, Unveiling the Secrets of Efficient Audio Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-strategies-in-drone-filmmaking-for-2024/"><u>Top Strategies in Drone Filmmaking for 2024</u></a></li>
+</ul></div>
+

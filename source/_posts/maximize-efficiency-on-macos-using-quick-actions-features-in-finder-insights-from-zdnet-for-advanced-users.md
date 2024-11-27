@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Quick Actions Features in Finder - Insights From ZDNET for Advanced Users
-date: 2024-11-11T21:36:34.752Z
-updated: 2024-11-17T06:12:45.008Z
+date: 2024-11-23T17:37:31.085Z
+updated: 2024-11-27T05:29:44.164Z
 tags:
   - apple
 categories:
@@ -34,10 +34,7 @@ Of course, not every file type has an associated Quick Action but you can add ne
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What files offer Quick Actions?
@@ -51,23 +48,21 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
 
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
@@ -97,10 +92,7 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -153,16 +145,15 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-step-by-step-guide-to-masterful-editing/"><u>[New] A Step-by-Step Guide to Masterful Editing</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-quick-video-insights-the-essentials/"><u>[New] Quick Video Insights The Essentials</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-cinemas-next-frontier-virtual-reality/"><u>[New] Unlocking Cinema's Next Frontier Virtual Reality</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-edu-top-ten-inspiring-educational-content-yt/"><u>[Updated] 2024 Approved Edu-Top Ten Inspiring Educational Content YT</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-instagram-live-without-a-trace-the-unseen-spectators-playbook/"><u>[Updated] Instagram Live without a Trace The Unseen Spectator's Playbook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-right-platform-for-content-creation-podcast-or-video/"><u>[Updated] The Right Platform for Content Creation? Podcast or Video?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-5-digital-tools-for-enhancing-web-streams/"><u>In 2024, Top 5 Digital Tools for Enhancing Web Streams</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/step-by-step-eliminating-sound-from-modern-avi-format-avi-2023-for-2024/"><u>Step-by-Step Eliminating Sound From Modern AVI Format (AVI 2023) for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/superior-audio-options-for-video-makers/"><u>Superior Audio Options for Video Makers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-experts-manual-to-windows-10-prowess-for-2024/"><u>The Expert's Manual to WINDOWS 10 Prowess for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unified-youtube-behavior-manual/"><u>Unified YouTube Behavior Manual</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-multi-platform-skype-group-formation/"><u>[Updated] Mastering Multi-Platform Skype Group Formation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-infographic-social-video-marketing-tips-for-small-business/"><u>2024 Approved [Infographic] Social Video Marketing Tips for Small Business</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-slide-show-enable-voice-input-with-powerpoint/"><u>2024 Approved Streamline Your Slide Show Enable Voice Input with PowerPoint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-strategies-to-end-windows-10s-unstable-photo-viewing/"><u>2024 Approved Swift Strategies to End Windows 10'S Unstable Photo Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-efficient-zoom-meeting-arrangements-on-android/"><u>2024 Approved Tips for Efficient Zoom Meeting Arrangements on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-typography-in-after-effects/"><u>2024 Approved Transformative Typography in After Effects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1011-media-playermp4/"><u>動画再生問題解決: Windows 10/11 Media PlayerでMP4が出せない原因と改善策</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-instagram-hashtags-that-are-trending-and-can-help-you-succeed/"><u>Essential Instagram Hashtags That Are Trending and Can Help You Succeed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-s17-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo S17?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-and-rating-the-ultimate-test-for-anthropics-smart-photo-editor-software/"><u>In-Depth Analysis & Rating: The Ultimate Test for Anthropics Smart Photo Editor Software</u></a></li>
 </ul></div>
 

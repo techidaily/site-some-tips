@@ -1,7 +1,7 @@
 ---
 title: "Celebrating Two Decades of Innovation: Canonical's Impact on Ubuntu and Open Source"
-date: 2024-09-19 12:56:11
-updated: 2024-09-20 10:20:49
+date: 2024-11-20T05:23:44.765Z
+updated: 2024-11-26T22:34:24.551Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,11 +45,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -72,6 +84,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-delivering-quality-imagery-applying-lut-techniques-in-adobes-tools/"><u>[New] 2024 Approved Delivering Quality Imagery Applying LUT Techniques in Adobe's Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-bring-your-beat-to-facebook-ios-and-android-edition/"><u>[New] In 2024, Bring Your Beat to Facebook - iOS & Android Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-leading-virtual-realities-iphone-and-android-guide/"><u>[New] The Leading Virtual Realities IPhone & Android Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-personalized-phone-tones-for-android-users/"><u>[New] The Ultimate Guide to Personalized Phone Tones for Android Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-twitters-video-converters/"><u>2024 Approved The Essential Guide to Twitters Video Converters</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728492205241-0x80073712/"><u>解決方法：錯誤代碼 0X80073712 - 修改失效的更新檔</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105119398-fix-pci-to-pci-bridge-driver-issue-easy-and-quick/"><u>Fix PCI-to-PCI Bridge Driver Issue Easy and Quick!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/free-access-to-apple-developer-beta-versions-risky-move-or-great-opportunity/"><u>Free Access to Apple Developer Beta Versions: Risky Move or Great Opportunity?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-magic-vs-2-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Magic Vs 2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-the-essentials-of-burst-in-action-shots/"><u>In 2024, Understanding the Essentials of Burst in Action Shots</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-poco-m6-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Poco M6 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-overcoming-fatal-installation-error-16-and-ensuring-a-smooth-start/"><u>Step-by-Step Guide to Overcoming 'Fatal Installation Error 16#' And Ensuring a Smooth Start</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-webcam-experience-top-18-tools-for-video-capture-for-2024/"><u>Streamline Your Webcam Experience Top 18 Tools for Video Capture for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-kinemaster-potential-how-to-engage-and-top-alternatives-compared-for-2024/"><u>Unlocking KineMaster Potential How To Engage and Top Alternatives Compared for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-secrets-to-craft-impeccable-timelapse-shots-with-gopro-for-2024/"><u>Unveiling Secrets to Craft Impeccable Timelapse Shots with GoPro for 2024</u></a></li>
+</ul></div>
+

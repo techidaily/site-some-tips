@@ -1,7 +1,7 @@
 ---
 title: "Decoding Developer Choices: The Ups and Downs in Popularity for Programming Languages Since 2016 - Analysis & Projections | CodeWise Blog"
-date: 2024-09-18 12:20:51
-updated: 2024-09-20 12:57:37
+date: 2024-11-21T02:52:51.443Z
+updated: 2024-11-26T20:22:44.624Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -56,6 +60,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -103,6 +111,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +122,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-does-rapid-subscription-improve-video-watching/"><u>[New] In 2024, Does Rapid Subscription Improve Video Watching?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-producers-playbook-strategies-to-win-over-youtube-viewers/"><u>[New] The Producer's Playbook Strategies to Win Over YouTube Viewers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-list-best-video-cameras-s-musical-cinematography/"><u>[New] Ultimate List Best Video Cameras 'S Musical Cinematography</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-video-formats-that-thrive-on-instagram-whats-best/"><u>[Updated] 2024 Approved Video Formats That Thrive on Instagram - What's Best?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-11-brainy-battles-general-knowledge-channels-revealed/"><u>[Updated] Top 11 Brainy Battles General Knowledge Channels Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-lgs-27in-widescreen-4k-display/"><u>2024 Approved The Ultimate Guide to LG's 27in Widescreen 4K Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-gaming-screens-selecting-the-top-5-ps5/"><u>2024 Approved Ultimate Gaming Screens Selecting the Top 5 (PS5)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creative-potential-using-storyremix-for-windows-11s-photo-videos/"><u>2024 Approved Unleash Creative Potential Using StoryRemix for Windows 11'S Photo Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unraveling-the-mystery-of-non-exporting-srt-in-premiere/"><u>2024 Approved Unraveling the Mystery of Non-Exporting SRT in Premiere</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehending-windows-role-in-memory-reservation/"><u>Comprehending Windows' Role in Memory Reservation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-conversion-of-mka-videos-with-movavi-no-hidden-costs/"><u>Free Online Conversion of MKA Videos with Movavi - No Hidden Costs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-drone-technology-mechanisms-and-applications-demystified/"><u>In 2024, Unraveling Drone Technology Mechanisms and Applications Demystified</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-leading-10-live-streaming-services/"><u>In 2024, Unveiling the Leading 10 Live-Streaming Services</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010708835-say-goodbye-to-crashes-in-diablo-ii-resurrected-solutions-revealed/"><u>Say Goodbye to Crashes in Diablo II: Resurrected - Solutions Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-luxury-transforming-standard-shipments-into-memories-for-2024/"><u>Unveiling Luxury Transforming Standard Shipments Into Memories for 2024</u></a></li>
+</ul></div>
+

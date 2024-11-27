@@ -1,7 +1,7 @@
 ---
 title: "Celebrating Radia Perlman: The Architect of Networking & Hidden Hero Recognition by ZDNet"
-date: 2024-09-18 21:56:13
-updated: 2024-09-20 10:40:31
+date: 2024-11-20T22:39:56.373Z
+updated: 2024-11-27T05:13:14.188Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-sparkle-and-shine-tips-to-preserve-your-snapstreak/"><u>[New] 2024 Approved Sparkle and Shine Tips to Preserve Your Snapstreak</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-audio-enhancement-for-professional-instagram-posts/"><u>[New] In 2024, Audio Enhancement for Professional Instagram Posts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-real-time-photo-sharing-in-google-meet/"><u>[New] Mastering Real-Time Photo Sharing in Google Meet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-creative-potential-image-curve-magic-in-ps/"><u>[New] Unlock Creative Potential Image Curve Magic in PS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-mystery-of-sideways-instagram-videography/"><u>[Updated] The Mystery of Sideways Instagram Videography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-budget-friendly-apps-revolutionizing-smartphone-imagery/"><u>[Updated] Top 10 Budget-Friendly Apps Revolutionizing Smartphone Imagery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-full-potential-of-your-iphone-photos/"><u>[Updated] Unlock the Full Potential of Your iPhone Photos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-x50iplus-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor X50i+ to Roku | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/driving-sales-not-just-views-monetizing-your-social-media-videos/"><u>Driving Sales, Not Just Views Monetizing Your Social Media Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-poco-c55-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Poco C55 Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-windows-11-evolution-in-focus/"><u>In 2024, Windows 11 Evolution in Focus</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-pro-audio-on-your-device-a-comprehensive-review-of-the-top-8-ios-compatible-daw-apps/"><u>New In 2024, Pro Audio on Your Device A Comprehensive Review of the Top 8 iOS-Compatible DAW Apps</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/wiederherstellungsmethode-fur-partitionierte-datentrager-mit-windows-cmd/"><u>Wiederherstellungsmethode Für Partitionierte Datenträger Mit Windows CMD</u></a></li>
+</ul></div>
+

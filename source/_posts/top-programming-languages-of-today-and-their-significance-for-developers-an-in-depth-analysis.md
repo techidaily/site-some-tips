@@ -1,7 +1,7 @@
 ---
 title: Top Programming Languages of Today and Their Significance for Developers - An In-Depth Analysis
-date: 2024-09-19 23:17:50
-updated: 2024-09-20 10:44:49
+date: 2024-11-19T19:55:53.891Z
+updated: 2024-11-26T20:08:38.425Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-joymakerbox-sign-up-share-smiles-create/"><u>2024 Approved JoyMakerBox Sign Up, Share Smiles, Create</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-websites-aimed-at-enhancing-text-appearance/"><u>2024 Approved Top Websites Aimed at Enhancing Text Appearance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-uhd-precision-converter-clearer-sharper-visuals/"><u>2024 Approved UHD Precision Converter Clearer, Sharper Visuals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unlocking-performance-top-windows-11-strategies/"><u>2024 Approved Unlocking Performance Top Windows 11 Strategies</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminate-persistent-failures-of-the-print-spooler-service/"><u>Eliminate Persistent Failures of the Print Spooler Service</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-immediate-collage-making-for-social-sharing/"><u>In 2024, Mastering Immediate Collage Making for Social Sharing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-t2-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo T2 5G Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-mkv-players-macos-edition/"><u>In 2024, Top-Tier MKV Players MacOS Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creativity-a-detailed-look-at-vsco-features/"><u>In 2024, Unleash Creativity A Detailed Look at VSCO Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplified-approach-to-download-youtube-captions-3-proven-methods-for-2024/"><u>Simplified Approach to Download YouTube Captions 3 Proven Methods for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steering-clear-frozen-security-in-windows-11/"><u>Steering Clear Frozen Security in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swift-and-smooth-your-ultimate-guide-to-iphone-podcast-downloading-for-2024/"><u>Swift & Smooth Your Ultimate Guide to iPhone Podcast Downloading for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-beat-architect-techniques-for-isolating-and-repurposing-kernels-in-audio-for-2024/"><u>The Beat Architect Techniques for Isolating and Repurposing Kernels in Audio for 2024</u></a></li>
+</ul></div>
+

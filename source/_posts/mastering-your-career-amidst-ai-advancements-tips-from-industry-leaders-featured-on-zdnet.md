@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your Career Amidst AI Advancements: Tips From Industry Leaders Featured on ZDNET"
-date: 2024-09-19 17:54:28
-updated: 2024-09-20 12:36:34
+date: 2024-11-20T21:07:58.772Z
+updated: 2024-11-26T19:37:34.081Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,6 +75,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -81,6 +93,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +108,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-snap-the-truth-your-manual-to-authenticity-on-instagram/"><u>[New] Snap the Truth Your Manual to Authenticity on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-movie-color-correction-through-luts-application/"><u>[New] Streamlining Movie Color Correction Through Luts Application</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-footage-a-comprehensive-guide-to-gopros-color-adjustment/"><u>[New] Tailoring Your Footage A Comprehensive Guide to GoPro's Color Adjustment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-fisheye-lens-in-360-imagery/"><u>[Updated] The Art of Fisheye Lens in 360 Imagery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-most-acclaimed-cloud-services-on-android-platform/"><u>[Updated] The Most Acclaimed Cloud Services on Android Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tiktok-mastery-the-art-of-editing-your-number/"><u>[Updated] TikTok Mastery The Art of Editing Your Number</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-untangling-box-mystery-ideas-to-boost-joy/"><u>[Updated] Untangling Box Mystery Ideas to Boost Joy</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unveiling-the-secrets-acquiring-attractive-pexel-photos/"><u>[Updated] Unveiling the Secrets Acquiring Attractive Pexel Photos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-camera-woes-ended-by-fix-obs/"><u>2024 Approved Camera Woes Ended by Fix - OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-supreme-4k-display-selection-the-best-of-ten/"><u>2024 Approved Supreme 4K Display Selection The Best of Ten</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition/"><u>2024 Approved The Cinematic Revolution Exploring the Best Shots & Lighting Tips - '24 Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-for-audio-driver-update-in-ws11/"><u>Essential Tips for Audio Driver Update in WS11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-persistent-reboot-loop-in-windows-11-and-10-systems/"><u>Fixes for Persistent Reboot Loop in Windows 11 & 10 Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oneplus-ace-2-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock OnePlus Ace 2 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-methods-for-computer-based-vhs-artistic-touches/"><u>Perfect Methods for Computer-Based VHS Artistic Touches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-truthgpt-coin-could-this-be-a-fraudulent-scheme/"><u>Understanding TruthGPT Coin: Could This Be a Fraudulent Scheme?</u></a></li>
+</ul></div>
+

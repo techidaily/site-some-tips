@@ -1,7 +1,7 @@
 ---
 title: Snag the New 9Th Generation iPad at a Steal - Only $250 Post-Apple Launch | ZDNet
-date: 2024-11-11T15:23:21.922Z
-updated: 2024-11-17T01:44:56.583Z
+date: 2024-11-24T19:17:46.852Z
+updated: 2024-11-26T19:02:49.531Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ The [Apple iPad (9th Generation)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 **Also: [Everything Apple announced at its 'Let Loose' iPad event](https://www.zdnet.com/article/everything-apple-announced-at-its-ipad-event-today-ipad-pro-air-pencil-m4-and-more/)**
 
 If the 9th Gen is too outdated for your liking, the [iPad 10th Gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8a5530fd-5ec6-459a-ad07-d932b49b5eab%7Cdtp&dtb=1) is also discounted right now, down to only $349 after Apple [dropped the price by $100](https://www.zdnet.com/article/this-349-ipad-was-secretly-the-best-announcement-during-the-apple-event/) following the announcement of their new iPads. This model features a 10.9-inch Liquid Retina display with 64GB of storage. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -65,25 +69,14 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-cutting-edge-techniques-in-logitech-webcam-filming-and-streaming-guide/"><u>[New] 2024 Approved Cutting-Edge Techniques in Logitech Webcam Filming and Streaming Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-decoding-the-micro-video-phenomenon-on-facebook-for-2024/"><u>[New] Decoding the Micro-Video Phenomenon on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-accessing-vintage-facebook-content-tips-for-all-devices/"><u>[Updated] Accessing Vintage Facebook Content Tips for All Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-turn-template-ideas-into-real-logo-artwork/"><u>[Updated] Turn Template Ideas Into Real Logo Artwork</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-integrating-b-footage-into-main-shots/"><u>2024 Approved The Art of Integrating B-Footage Into Main Shots</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dissecting-the-benefits-of-using-sns-hdr-over-others/"><u>Dissecting the Benefits of Using SNS HDR over Others</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/getting-started-with-seamless-sound-transitions/"><u>Getting Started with Seamless Sound Transitions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-media-edits-storyremix-and-windows-11-photos-integration/"><u>In 2024, Streamlining Media Edits StoryRemix & Windows 11 Photos Integration</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsunga20review-exceptional-performance-at-a-wallet-friendly-price-point/"><u>SamsungA20Review - Exceptional Performance at a Wallet-Friendly Price Point</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-producing-high-quality-gopro-time-lapse-for-2024/"><u>The Complete Guide to Producing High-Quality GoPro Time-Lapse for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-5-gaming-monitors-for-playstation-and-xbox-for-2024/"><u>The Ultimate 5 Gaming Monitors for PlayStation & Xbox for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-20-unrestricted-zero-cost-pubg-snapshits-for-2024/"><u>Top 20 Unrestricted, Zero-Cost PUBG Snapshits for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-ultimate-guide-to-professional-streaming-on-fb/"><u>[New] In 2024, The Ultimate Guide to Professional Streaming on FB</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-simple-screen-recorder-for-windows-10-download/"><u>[New] Simple Screen Recorder for Windows 10 Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-leading-tech-for-cloud-saving-top-choices-for-android/"><u>2024 Approved Leading Tech for Cloud Saving Top Choices for Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skew-it-right-a-step-by-step-guide-for-photo-warping/"><u>2024 Approved Skew It Right A Step-by-Step Guide for Photo Warping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-smooth-segments-crossfade-logic-pro-steps/"><u>2024 Approved The Key to Smooth Segments Crossfade Logic Pro Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-quintessential-collection-of-anime-intros/"><u>2024 Approved The Quintessential Collection of Anime Intros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimizing-media-experience-best-windows-phone-videos/"><u>In 2024, Optimizing Media Experience Best Windows Phone Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-youtubes-srt-a-three-step-process/"><u>In 2024, Unlocking YouTube’s SRT A Three-Step Process</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-save-and-enjoy-youtube-media-on-your-ipod/"><u>Step-by-Step Tutorial: Save and Enjoy YouTube Media on Your iPod</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

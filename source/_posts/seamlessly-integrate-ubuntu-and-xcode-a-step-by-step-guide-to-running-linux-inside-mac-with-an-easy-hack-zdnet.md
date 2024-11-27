@@ -1,7 +1,7 @@
 ---
 title: "Seamlessly Integrate Ubuntu & Xcode: A Step-by-Step Guide to Running Linux Inside Mac with an Easy Hack | ZDNet"
-date: 2024-11-14T14:29:46.877Z
-updated: 2024-11-17T03:08:20.121Z
+date: 2024-11-26T03:48:28.092Z
+updated: 2024-11-27T02:38:13.534Z
 tags:
   - apple
 categories:
@@ -28,9 +28,17 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -71,10 +79,7 @@ Double-press the iPhone's right-side button to access Apple Pay.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
@@ -84,13 +89,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -108,13 +106,6 @@ That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.)
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I set up Apple Pay from my iPhone Settings?
 
 To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
@@ -125,10 +116,7 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
@@ -149,13 +137,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -163,6 +144,10 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -212,21 +197,22 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-luminous-layers-the-graders-path-to-perfection/"><u>[New] In 2024, Luminous Layers The Grader's Path to Perfection</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-perfect-your-video-conferencing-optimal-filter-use-in-zoom-for-2024/"><u>[New] Perfect Your Video Conferencing Optimal Filter Use in Zoom for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-smooth-sailing-easy-recording-tips-for-your-logitech-cam/"><u>[New] Smooth Sailing Easy Recording Tips for Your Logitech Cam</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-the-visual-storyteller-youtube-cinematic-training/"><u>[Updated] 2024 Approved Mastering the Visual Storyteller YouTube Cinematic Training</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-rhythm-on-rings-creating-tamil-ringtone-playlists/"><u>[Updated] In 2024, Rhythm on Rings Creating Tamil Ringtone Playlists</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-when-to-start-the-podcast-journey/"><u>2024 Approved When to Start the Podcast Journey</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-x-audio-workstation-for-home-computers/"><u>2024 Approved X-Audio Workstation for Home Computers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/pngjpeg-movavi/"><u>免費網站移動PNG成JPEG - 用Movavi進行無損格式轉換</u></a></li>
-<li><a href="https://some-tips.techidaily.com/wepbjpeg-movavi/"><u>無償で簡単WepbJpegファイルを移行 - Movaviのガイド</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-tool-quickly-transform-wav-files-into-m4a-format-with-movavi/"><u>Free Online Tool: Quickly Transform WAV Files Into M4A Format with Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratuit-mp4-vers-jpeg-en-ligne-convertisseur-video-rapide/"><u>Gratuit MP4 Vers JPEG en Ligne - Convertisseur Vidéo Rapide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y200e-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y200e 5G Phones with/without a PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/jpg-image-te-een-gif-vervangen-gratis-met-de-kloknemers-van-movavi-online/"><u>JPG-Image Te Een Gif Vervangen Gratis Met De Kloknemers Van Movavi Online</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/making-the-most-out-of-video-calls-combining-skype-and-zoom/"><u>Making the Most Out of Video Calls Combining Skype & Zoom</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-capturing-screenshots-across-all-operating-systems-with-ease/"><u>Ultimate Guide: Capturing Screenshots Across All Operating Systems with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-list-of-complimentary-windows-compatible-moviemaking-tools-choices-for-wine-1187-enthusiasts/"><u>Ultimate List of Complimentary Windows-Compatible Moviemaking Tools: Choices for Wine 11/8/7 Enthusiasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-through-premium-hdr-camera-options/"><u>[New] Navigating Through Premium HDR Camera Options</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-pendulum-assembly-set/"><u>[New] Pendulum Assembly Set</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-preservation-digitizing-and-safeguarding-faded-family-memories/"><u>[New] The Art of Preservation Digitizing & Safeguarding Faded Family Memories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-visual-storytelling-with-iphone-xs-new-lens/"><u>[New] The Art of Visual Storytelling with iPhone X's New Lens</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-social-savvy-how-to-save-gifs-for-iphoneandroid-use/"><u>[Updated] In 2024, Social Savvy How to Save GIFs for iPhone/Android Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-to-zoom-into-online-engagements-intelligently/"><u>[Updated] Techniques to Zoom Into Online Engagements Intelligently</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube/"><u>2024 Approved Ryan Kaji’s Net Worth 11-Year-Old Boy Gets Highest-Paid From YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-creative-potential-with-10-best-backdrop-modification-software/"><u>2024 Approved Unlock Creative Potential with 10 Best Backdrop Modification Software</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/auf-usb-ubertragen-schnell-lernen-mit-6-tipps-fotos-von-deinem-ipad-auf-einen-speicherstick-zu-kopieren/"><u>Auf USB Übertragen: Schnell Lernen Mit 6 Tipps, Fotos Von Deinem iPad Auf Einen Speicherstick Zu Kopieren</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/clearing-outdated-dns-data-from-macos-a-simple-guide/"><u>Clearing Outdated DNS Data From macOS: A Simple Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfect-pc-video-grabbers-a-comprehensible-selection/"><u>In 2024, Perfect PC Video Grabbers A Comprehensible Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultrawide-vs-uhd-4k-monitors-the-experts-advice/"><u>In 2024, UltraWide VS UHD 4K Monitors The Expert's Advice</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-video-cloning-in-just-a-few-steps-top-3-methods-revealed/"><u>Mastering Video Cloning in Just a Few Steps - Top 3 Methods Revealed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/missing-video-functionality-in-sony-a6400/"><u>Missing Video Functionality in Sony A6400</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategy-cradle-nurturing-market-gains-for-2024/"><u>Strategy Cradle Nurturing Market Gains for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultra-quick-photo-inspector-app-for-2024/"><u>Ultra-Quick Photo Inspector App for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-potential-with-expert-picked-video-stabilization-tools-for-2024/"><u>Unlock Your Potential with Expert-Picked Video Stabilization Tools for 2024</u></a></li>
 </ul></div>
 

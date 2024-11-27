@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Code Security on GitHub Unpacked: Mastering the Basics Is Key | ZDNET Analysis"
-date: 2024-09-17 16:58:41
-updated: 2024-09-20 10:39:43
+date: 2024-11-24T17:14:25.075Z
+updated: 2024-11-27T01:50:11.235Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -56,6 +64,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-best-tools-and-techniques-adding-frames-to-digital-images-2023-edition/"><u>[New] Best Tools & Techniques - Adding Frames to Digital Images, 2023 Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-creating-a-seamless-visual-experience-in-meetings/"><u>[New] Creating a Seamless Visual Experience in Meetings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-and-tricks-to-avoid-photo-crashes-on-windows-11/"><u>[Updated] Tips & Tricks to Avoid Photo Crashes on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-access-to-youtube-srt-files-three-key-points/"><u>2024 Approved Swift Access to YouTube SRT Files Three Key Points</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-iphone-user-manual-for-water-imagery/"><u>2024 Approved The Ultimate iPhone User Manual for Water Imagery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-the-newly-released-2022-airpods-pro-worth-your-money-a-comprehensive-review-by-an-expert-findings/"><u>Are the Newly Released 2022 AirPods Pro Worth Your Money? A Comprehensive Review by an Expert Findings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-predictive-ai-principles-and-processes-behind-forward-looking-technology/"><u>Demystifying Predictive AI: Principles & Processes Behind Forward-Looking Technology</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-asus-rog-phone-8-pro-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-sunny-side-up-videography-for-android/"><u>In 2024, Sunny Side-Up Videography for Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-linguistic-leaders-list-of-top-33-apps-that-turn-videos-into-text/"><u>In 2024, The Linguistic Leaders' List of Top 33 Apps That Turn Videos Into Text</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-facetunes-potential-photo-editing-like-never-before/"><u>In 2024, Unveiling Facetune's Potential Photo Editing Like Never Before</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-accessories-for-a-next-level-ps5-setup/"><u>Innovative Accessories for a Next-Level PS5 Setup</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revealing-successful-markets-for-2024/"><u>Revealing Successful Markets for 2024</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-samsung-galaxy-a23-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Samsung Galaxy A23 5G?</u></a></li>
+</ul></div>
+

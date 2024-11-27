@@ -1,7 +1,7 @@
 ---
 title: Boost Your Apple Watch's Battery Performance with Our Top 8 Customized Settings
-date: 2024-11-15T03:46:20.568Z
-updated: 2024-11-17T11:52:33.319Z
+date: 2024-11-21T01:11:01.213Z
+updated: 2024-11-27T05:37:09.138Z
 tags:
   - apple
 categories:
@@ -43,10 +43,7 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
@@ -57,13 +54,6 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -73,10 +63,7 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -97,6 +84,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
@@ -111,13 +102,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -126,11 +110,19 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -173,24 +165,18 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-the-most-effective-7-apps-for-blocking-android-web-ads/"><u>[New] In 2024, The Most Effective 7 Apps for Blocking Android Web Ads</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/astering-the-art-of-discovering-elusive-youtube-videos-for-2024/"><u>[New] Mastering the Art of Discovering Elusive YouTube Videos for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-navigating-through-the-excellent-5-virtual-title-experts/"><u>[New] Navigating Through the Excellent 5 Virtual Title Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-photoshop-simplified-beginner-friendly-editing-secrets/"><u>[New] Photoshop Simplified Beginner-Friendly Editing Secrets</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-exclusive-list-of-elite-christian-streaming-services/"><u>[New] The Exclusive List of Elite Christian Streaming Services</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-top-3d-gold-text-effect-sites-on-the-web/"><u>[Updated] In 2024, Top 3D Gold Text Effect Sites on the Web</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-into-the-abyss-and-beyond-shadowbearer-vs-daybeam-for-2024/"><u>[Updated] Into the Abyss and Beyond Shadowbearer Vs Daybeam for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-leveraging-googles-platform-for-podcast-distribution-for-2024/"><u>[Updated] Leveraging Google's Platform for Podcast Distribution for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-essential-guide-to-vitas-complete-video-editing-software/"><u>[Updated] The Essential Guide to Vita's Complete Video Editing Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transformative-talk-20-words-to-bolster-marketing-success/"><u>[Updated] Transformative Talk 20 Words to Bolster Marketing Success</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-vegas-pros-21-landmark-release-a-complete-analysis/"><u>[Updated] Vegas Pro's '21 Landmark Release - A Complete Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-free-video-editing-and-effects-sites/"><u>2024 Approved The Ultimate Guide to Free Video Editing and Effects Sites</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tech-assisted-jogs-top-virtual-reality-walking-machines-explored/"><u>In 2024, Tech-Assisted Jogs Top Virtual Reality Walking Machines Explored</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-text-effect-strategies/"><u>In 2024, Ultimate Text Effect Strategies</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/navigating-the-nuances-of-japanese-characters/"><u>Navigating the Nuances of Japanese Characters</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/smirk-sculptor-image-maker/"><u>Smirk Sculptor Image Maker</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-truth-about-genius-widecam-f1am-understanding-pixelation-and-sound-distortions/"><u>Unveiling the Truth About Genius WideCam F1am: Understanding Pixelation and Sound Distortions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnet-highlights-meta-quest-3-as-most-innovative-product-a-stealthy-triumph/"><u>ZDNET Highlights Meta Quest 3 as Most Innovative Product : A Stealthy Triumph!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-to-locate-your-youtube-fanbase-for-2024/"><u>[New] How to Locate Your YouTube Fanbase for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-image-editors-ultimate-toolkit-review/"><u>[New] The Image Editor's Ultimate Toolkit Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-significance-of-video-in-client-promotional-power/"><u>[Updated] The Significance of Video in Client Promotional Power</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-top-20-cost-free-video-editing-websites/"><u>2024 Approved Ultimate Guide Top 20 Cost-Free Video Editing Websites</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/download-youtube-audio-safely-and-legally-in-3-ways-for-2024/"><u>Download Youtube Audio Safely & Legally in 3 Ways for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-editing-in-garageband/"><u>In 2024, Mastering the Art of Editing in GarageBand</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-tecno-camon-20-premier-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Tecno Camon 20 Premier 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-remove-drums-from-songs-online/"><u>New 2024 Approved How to Remove Drums From Songs Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/strategic-insights-for-triumph-in-smm/"><u>Strategic Insights for Triumph in SMM</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-riders-eye-view-unveiling-23s-finest-action-camera-hats-for-bike-enthusiasts-for-2024/"><u>The Rider's Eye View – Unveiling '23’S Finest Action Camera Hats for Bike Enthusiasts for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/timeless-thread-triumphs-reddits-all-time-fave-list-top-10-for-2024/"><u>Timeless Thread Triumphs Reddit’s All-Time Fave List (Top 10) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-14-dynamic-text-animation-samples-for-2024/"><u>Unveiling 14 Dynamic Text Animation Samples for 2024</u></a></li>
 </ul></div>
 

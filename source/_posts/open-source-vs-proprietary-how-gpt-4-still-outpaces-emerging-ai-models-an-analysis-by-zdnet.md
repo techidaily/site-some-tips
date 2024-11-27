@@ -1,7 +1,7 @@
 ---
 title: "Open Source Vs. Proprietary: How GPT-4 Still Outpaces Emerging AI Models - An Analysis by ZDNET"
-date: 2024-09-17 19:36:44
-updated: 2024-09-20 10:55:53
+date: 2024-11-26T05:23:47.963Z
+updated: 2024-11-26T16:42:28.219Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,24 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-high-resolution-with-lgs-digital-cinema-31mu97-b/"><u>[New] Exploring High-Resolution with LG's Digital Cinema 31MU97-B</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-adobe-audition-tutorial-managing-sound-curves/"><u>[New] In 2024, Adobe Audition Tutorial Managing Sound Curves</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-seamless-content-consumption-configuring-pip-for-youtube-on-iphone/"><u>[New] Seamless Content Consumption Configuring PIP for YouTube on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-through-virtual-lenses-a-historical-view/"><u>[New] Through Virtual Lenses A Historical View</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2023-access-exclusive-beats-for-free-fb-downloader-for-2024/"><u>[Updated] 2023 Access Exclusive Beats for Free - FB Downloader for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneers-of-virtual-reality-top-vr-headsets-on-pc/"><u>[Updated] Pioneers of Virtual Reality Top VR Headsets on PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-securing-product-sponsors-on-youtube/"><u>[Updated] Strategies for Securing Product Sponsors on YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tunetracker-outside-of-dacast-realm/"><u>In 2024, TuneTracker Outside of DaCast Realm</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Apple iPhone 12 mini | Dr.fone</u></a></li>
+</ul></div>
+

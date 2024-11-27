@@ -1,7 +1,7 @@
 ---
 title: "Transforming Generative AI Into Practical Help with LangChain: Insights From ZDNet"
-date: 2024-09-19 21:28:26
-updated: 2024-09-20 11:22:33
+date: 2024-11-21T16:52:31.760Z
+updated: 2024-11-27T00:31:04.411Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/nto-the-unknown-how-to-start-and-flourish-as-a-travel-videographer/"><u>[New] Into the Unknown How To Start & Flourish As a Travel Videographer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tips-and-tricks-elevating-your-images-with-text-editing/"><u>[New] Tips & Tricks Elevating Your Images with Text Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-monitor-match-up-recommendations-for-top-tier-xbox-sx-experience/"><u>[New] Ultimate Monitor Match-Up Recommendations for Top-Tier Xbox SX Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-routes-turning-pinterest-vids-into-music-files/"><u>[Updated] Ultimate Routes Turning Pinterest Vids Into Music Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-guide-mastering-gopro-video-editing/"><u>2024 Approved The Artisan's Guide Mastering GoPro Video Editing</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/craft-the-perfect-gif-message-in-snapchat-easy-steps/"><u>Craft the Perfect Gif Message in Snapchat [Easy Steps]</u></a></li>
+<li><a href="https://discover-able.techidaily.com/die-erfolgreichsten-8-microphone-songs-von-youtubern-dein-guide-zur-musikbranche/"><u>Die Erfolgreichsten 8 Microphone Songs Von Youtubern: Dein Guide Zur Musikbranche</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-fixing-bugs-and-crashes-in-nwstoreexe-efficiently/"><u>Expert Advice: Fixing Bugs and Crashes in NW_store.exe Efficiently</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-your-hands-on-the-latest-gaming-tech-with-nintendo-switch-oled-discounted-by-60-this-labor-day-only-at-walmart-zdnet-news/"><u>Get Your Hands on the Latest Gaming Tech with Nintendo Switch OLED Discounted by $60 This Labor Day, Only at Walmart | ZDNET News.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Without a Passcode</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-easy-way-to-craft-your-digital-self-in-virtual-worlds/"><u>In 2024, The Easy Way to Craft Your Digital Self in Virtual Worlds</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-frustration-fixing-persistent-game-crashes-in-warzone-20-on-desktop-pcs/"><u>Overcoming the Frustration: Fixing Persistent Game-Crashes in Warzone 2.0 on Desktop PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-50plus-overlays-for-engaging-media-content-for-2024/"><u>Top 50+ Overlays for Engaging Media Content for 2024</u></a></li>
+</ul></div>
+

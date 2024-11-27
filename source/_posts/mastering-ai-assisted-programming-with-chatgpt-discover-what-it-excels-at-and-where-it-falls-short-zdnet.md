@@ -1,7 +1,7 @@
 ---
 title: "Mastering AI-Assisted Programming with ChatGPT: Discover What It Excels At and Where It Falls Short | ZDNET"
-date: 2024-09-18 17:50:58
-updated: 2024-09-20 10:21:11
+date: 2024-11-24T16:49:12.113Z
+updated: 2024-11-26T16:41:39.988Z
 tags:
   - developer
 categories:
@@ -67,6 +67,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -81,6 +85,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +100,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-art-of-vocal-performance-for-video-projects/"><u>[New] In 2024, The Art of Vocal Performance for Video Projects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-budget-friendly-jpeg-to-gif-conversion-tools-online/"><u>[New] Top 10 Budget-Friendly JPEG to GIF Conversion Tools Online</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-smooth-segmentation-4-easy-fades-explained/"><u>[Updated] Smooth Segmentation 4 Easy Fades Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-smooth-scene-transitions-with-premieres-fades/"><u>2024 Approved Smooth Scene Transitions with Premiere's Fades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-ringtones-roundup-elite-download-hubs/"><u>2024 Approved Superior Ringtones Roundup Elite Download Hubs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-art-of-encompassing-vision/"><u>2024 Approved Unveiling the Art of Encompassing Vision</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battle-the-bugs-essential-troubleshooting-tips-to-stop-world-of-warships-crashes-on-computer-systems/"><u>Battle the Bugs: Essential Troubleshooting Tips to Stop World of Warships Crashes on Computer Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-samsungs-top-tier-tablet-the-galaxy-tab-s7plus-reviewed/"><u>Comprehensive Guide to Samsung's Top-Tier Tablet: The Galaxy Tab S7+ Reviewed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/elevating-system-bus-efficiency-on-win11/"><u>Elevating System Bus Efficiency on Win11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-poco-c65-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Poco C65</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-collection-of-dynamic-text-for-ae-projects/"><u>In 2024, Ultimate Collection of Dynamic Text for AE Projects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-ultimate-picture-narrative-craft-pro-edition/"><u>In 2024, Ultimate Picture Narrative Craft - Pro Edition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/srt-unveiled-essential-information-for-all-ages-for-2024/"><u>SRT Unveiled Essential Information for All Ages for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-at-memes-app-version-for-2024/"><u>The Best at Memes (App Version) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-audio-skills-using-audacity-professionally-for-2024/"><u>Transforming Audio Skills Using Audacity Professionally for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-lava-blaze-2-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Lava Blaze 2 5G Users</u></a></li>
+</ul></div>
+

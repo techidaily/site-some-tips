@@ -1,7 +1,7 @@
 ---
 title: Strong - Robust
-date: 2024-09-17 19:39:17
-updated: 2024-09-20 10:37:22
+date: 2024-11-25T03:29:42.409Z
+updated: 2024-11-27T01:40:02.536Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-creators-guide-turn-viewers-into-paychecks/"><u>[Updated] In 2024, The Creator’s Guide Turn Viewers Into Paychecks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-impact-of-music-on-a-trailers-emotional-pull/"><u>[Updated] The Impact of Music on a Trailer's Emotional Pull</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-screen-snapper-unlocking-zd-softwares-potential/"><u>[Updated] Ultimate Screen Snapper Unlocking ZD Software's Potential</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-srt-file-integration-on-digital-platforms/"><u>2024 Approved Streamlining SRT File Integration on Digital Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-images-with-text-a-windowsmacos-expertise-guide/"><u>2024 Approved Transform Your Images with Text A Windows/MacOS Expertise Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-uniting-voices-how-to-speak-with-your-youtube-community/"><u>2024 Approved Uniting Voices How to Speak With Your YouTube Community</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-voice-windows-10-audio-basics/"><u>In 2024, Unleashing Voice Windows 10 Audio Basics</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-a34-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy A34 5G Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-mobile-payments-the-ultimate-walkthrough-of-apple-pay-on-the-apple-watch/"><u>Seamless Mobile Payments: The Ultimate Walkthrough of Apple Pay on the Apple Watch</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+</ul></div>
+

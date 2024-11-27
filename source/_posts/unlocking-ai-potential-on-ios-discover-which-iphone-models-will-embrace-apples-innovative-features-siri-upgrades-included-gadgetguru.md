@@ -1,7 +1,7 @@
 ---
 title: "Unlocking AI Potential on iOS: Discover Which iPhone Models Will Embrace Apple’s Innovative Features, Siri Upgrades Included | GadgetGuru"
-date: 2024-11-13T08:27:48.589Z
-updated: 2024-11-17T11:51:03.224Z
+date: 2024-11-20T03:21:54.699Z
+updated: 2024-11-26T17:50:00.450Z
 tags:
   - apple
 categories:
@@ -37,10 +37,7 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -90,6 +87,10 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does systemwide AI text generation work?
 
 Apple
@@ -115,10 +116,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -132,13 +130,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -156,6 +147,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -172,10 +167,7 @@ The company is striving to keep the AI features secure through several mechanism
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
@@ -218,16 +210,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-best-screen-recorder-for-chromebook/"><u>[New] 2024 Approved Best Screen Recorder for Chromebook</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-framerate-and-quality-in-game-recorders-explored-for-2024/"><u>[New] Framerate and Quality in Game Recorders Explored for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-score-selection-service-enhancing-media-pieces-for-2024/"><u>[Updated] Score Selection Service Enhancing Media Pieces for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-caption-creation-process-for-compelling-facebook-media/"><u>[Updated] The Ultimate Caption Creation Process for Compelling Facebook Media</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-unlocking-the-mystery-of-pfp-a-tiktok-perspective-for-2024/"><u>[Updated] Unlocking the Mystery of 'PFP' A TikTok Perspective for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expertly-curated-list-of-top-10-note-taking-solutions-for-enhanced-efficiency/"><u>Expertly Curated List of Top 10 Note-Taking Solutions for Enhanced Efficiency</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-adobe-premiere-tutorial-importing-and-exporting-videos-like-a-pro/"><u>New In 2024, Adobe Premiere Tutorial Importing and Exporting Videos Like a Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-9-methods-for-accessing-powershell-on-windows-10/"><u>Top 9 Methods for Accessing PowerShell on Windows 10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transitioning-kodi-the-shift-from-debian-packages-to-flatpak-on-linux-systems/"><u>Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-selection-premium-mac-screens-and-monitors/"><u>Ultimate Selection: Premium Mac Screens and Monitors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uncover-hidden-gems-essential-yet-overlooked-windows-shortcuts/"><u>Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-boosting-video-visibility-by-sending-imovie-content-to-vimeo/"><u>[New] In 2024, Boosting Video Visibility by Sending iMovie Content to Vimeo</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-focused-adventure-getting-up-close-in-roblox-landscapes/"><u>[New] In 2024, Focused Adventure Getting Up Close in Roblox Landscapes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-your-sound-potential-a-modern-look-at-pazeras-techniques/"><u>[New] Unlocking Your Sound Potential A Modern Look at Pazera's Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-6-comprehensive-metaverse-scenarios/"><u>[New] Unveiling 6 Comprehensive Metaverse Scenarios</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-examining-the-tech-in-djis-phantom-3-prototype/"><u>[Updated] Examining the Tech in DJI's Phantom 3 Prototype</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superior-script-architect-space/"><u>[Updated] Superior Script Architect Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-turning-talk-into-top-tier-podcasts-writing-and-samples-included/"><u>[Updated] Turning Talk Into Top-Tier Podcasts Writing & Samples Included</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-denoise-video-in-adobe-premiere-pro-audio-and-video-noise-removal/"><u>2024 Approved Denoise Video in Adobe Premiere Pro – Audio and Video Noise Removal</u></a></li>
+<li><a href="https://network-issues.techidaily.com/discovered-nvidia-graphics-chip-vanishing-from-system-hub/"><u>Discovered: NVIDIA Graphics Chip Vanishing From System Hub</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-xs-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-swiftly-update-and-get-the-newest-wacom-graphic-tablet-drivers/"><u>How to Swiftly Update and Get the Newest Wacom Graphic Tablet Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-professional-techniques-for-aps-hdr-creation/"><u>In 2024, Unveiling Professional Techniques for APS HDR Creation</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/strategie-efficaci-per-superare-i-problemi-al-recupero-di-windows-nove-versione-11-che-non-stanno-funzionando/"><u>Strategie Efficaci per Superare I Problemi Al Recupero Di Windows Nove Versione 11 Che Non Stanno Funzionando</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-crafting-exceptional-instagram-ringtone-alerts-a-compreeved-guide-for-2024/"><u>The Art of Crafting Exceptional Instagram Ringtone Alerts A Compreeved Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-enhancing-ar-with-lut-knowledge-for-2024/"><u>The Essential Guide to Enhancing AR with LUT Knowledge for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pulse-of-the-population-vllo-analysis-for-2024/"><u>The Pulse of the Population VLLO Analysis for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-resource-50plus-no-fee-visual-effects-websites-reviewed-for-2024/"><u>The Ultimate Resource 50+ No-Fee Visual Effects Websites Reviewed for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-tutorial-loading-and-enjoying-dvd-movies-with-nintendos-wii-and-wii-u-systems/"><u>Ultimate Tutorial: Loading & Enjoying DVD Movies with Nintendo's Wii & Wii U Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-spark-20-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Spark 20 Pro Device</u></a></li>
 </ul></div>
 

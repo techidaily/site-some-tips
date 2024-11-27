@@ -1,7 +1,7 @@
 ---
 title: "Google's Strategic Shift: Turning Your Television Into a Command Center Connecting Devices Worldwide, A Gateway to 600+ Million Users"
-date: 2024-09-19 10:11:16
-updated: 2024-09-20 11:28:43
+date: 2024-11-25T21:12:36.734Z
+updated: 2024-11-26T17:51:54.128Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-resolving-blackout-errors-on-playback-devices/"><u>[New] 2024 Approved Resolving Blackout Errors on Playback Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-skypes-premier-audio-capture-solutions/"><u>[New] In 2024, Skype's Premier Audio Capture Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-choice-for-capturing-quality-content-on-youtube/"><u>[New] Top Choice for Capturing Quality Content on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-magnification-in-roblox-worlds/"><u>[Updated] The Art of Magnification in Roblox Worlds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-iphone-footage-filming-and-slowing-down-videos/"><u>[Updated] Transform Your iPhone Footage Filming and Slowing Down Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-upgrade-to-high-quality-video-streaming-on-facebook-for-2024/"><u>[Updated] Upgrade to High-Quality Video Streaming on Facebook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-tutorial-from-gif-art-to-sticky-fun-on-social-media/"><u>2024 Approved The Essential Tutorial From GIF Art to Sticky Fun on Social Media</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-prevent-automatic-song-playback-in-apple-music/"><u>How to Prevent Automatic Song Playback in Apple Music</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-common-problems-with-youtube-connectivity-and-performance/"><u>Overcoming Common Problems with YouTube Connectivity and Performance</u></a></li>
+<li><a href="https://fox-links.techidaily.com/real-time-voice-to-action-no-price-tag/"><u>Real-Time Voice to Action, No Price Tag</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reverse-image-syndrome-explaining-sideways-ig-vids-for-2024/"><u>Reverse Image Syndrome Explaining Sideways IG Vids for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-of-youtube-to-mp4mpeg-mastery-for-2024/"><u>Unveiling the Secrets of YouTube to MP4/MPEG Mastery for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-elevate-your-storytelling-gopro-quik-video-editing-essentials-for-macbook/"><u>Updated 2024 Approved Elevate Your Storytelling GoPro Quik Video Editing Essentials for MacBook</u></a></li>
+</ul></div>
+

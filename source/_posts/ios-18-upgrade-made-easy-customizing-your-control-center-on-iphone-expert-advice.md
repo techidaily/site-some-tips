@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Upgrade Made Easy: Customizing Your Control Center on iPhone - Expert Advice"
-date: 2024-11-11T14:56:24.543Z
-updated: 2024-11-16T16:41:48.084Z
+date: 2024-11-24T19:56:27.436Z
+updated: 2024-11-26T20:22:17.452Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
@@ -37,10 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -51,24 +52,25 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -78,19 +80,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -98,10 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -140,24 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-crafting-a-masterpiece-with-collages/"><u>[New] Step-by-Step Crafting a Masterpiece with Collages</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unravel-the-mystery-of-tempo-control-in-instagram-stories/"><u>[New] Unravel the Mystery of Tempo Control in Instagram Stories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-list-the-best-websites-for-ringtone-grabs/"><u>[Updated] Exclusive List The Best Websites for Ringtone Grabs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-sync-your-storytelling-iphone-captures-words-and-pictures/"><u>[Updated] Sync Your Storytelling IPhone Captures Words and Pictures</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tone-and-pitch-control-on-chrome-os-select-the-best-online-speech-converters/"><u>[Updated] Tone and Pitch Control on Chrome OS Select the Best Online Speech Converters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-seal-on-immersive-odyssey/"><u>[Updated] Ultimate Seal on Immersive Odyssey</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-uncovering-inshots-edge-in-the-editing-world/"><u>[Updated] Uncovering InShot's Edge in the Editing World</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-time-management-mastery-with-zero-cost-clocks/"><u>2024 Approved Unleashing Time Management Mastery with Zero Cost Clocks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-updated-rtx-user/"><u>Download Updated RTX # User</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-a38-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from A38.</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-on-eliminating-windows-error-0x800700e1/"><u>Guide on Eliminating Windows Error 0X800700E1</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-sony-xperia-5-v-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Sony Xperia 5 V Screen | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-reno-8t-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo Reno 8T? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-workflow-with-mac-preview-complete-guide/"><u>In 2024, Streamlining Your Workflow with Mac Preview Complete Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-time-capsule-converting-single-photographs-to-video/"><u>In 2024, Time Capsule Converting Single Photographs to Video</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlined-method-to-alter-iphone-resolution-for-2024/"><u>Streamlined Method to Alter iPhone Resolution for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-footage-editing-videos-seamlessly-on-windows-11-and-storyremix-for-2024/"><u>Transforming Footage Editing Videos Seamlessly on Windows 11 and StoryRemix for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uncover-the-best-the-ultimate-5-book-promo-video-list-for-2024/"><u>Uncover the Best The Ultimate 5 Book Promo Video List for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-how-to-craft-engaging-macootd-tiktoks-effortlessly/"><u>[New] 2024 Approved How To Craft Engaging MacOOTD TikToks Effortlessly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-method-for-screen-recording-across-platforms/"><u>[New] The Ultimate Method for Screen Recording Across Platforms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-complete-analysis-of-gecatas-play-recorder/"><u>[Updated] 2024 Approved Complete Analysis of Gecata's Play Recorder</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-canon-camera-insights-for-stunning-time-lapse-vids/"><u>2024 Approved Canon Camera Insights for Stunning Time-Lapse Vids</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-linkedin-image-aspect-ratios-explained/"><u>2024 Approved LinkedIn Image Aspect Ratios Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supercharge-your-video-subtitling-explore-leading-internet-tools-today/"><u>In 2024, Supercharge Your Video Subtitling Explore Leading Internet Tools Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-gaming-monitors-for-ps5-and-xbox-x/"><u>In 2024, Top-Ranked Gaming Monitors for PS5 & Xbox X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-creative-potential-in-filmmaking-with-filmora-answers/"><u>In 2024, Unlock Creative Potential in Filmmaking with Filmora Answers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>New Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optional-a-ruler-or-measuring-device-for-analyzing-fringe-spacing/"><u>Optional: A Ruler or Measuring Device for Analyzing Fringe Spacing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swift-video-transformation-with-top-8-apps-for-2024/"><u>Swift Video Transformation with Top 8 Apps for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-ultimate-guide-converting-4k-videos-to-mp4-for-easy-download/"><u>Updated Ultimate Guide Converting 4K Videos to MP4 for Easy Download</u></a></li>
 </ul></div>
 

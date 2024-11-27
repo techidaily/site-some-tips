@@ -1,7 +1,7 @@
 ---
 title: "Essential Language Skills: Mastering the Top 3 Languages Needed for Today's Programming Job Market | ZDNet"
-date: 2024-09-18 22:36:35
-updated: 2024-09-20 10:42:52
+date: 2024-11-24T18:05:31.386Z
+updated: 2024-11-26T19:45:10.413Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-step-by-step-guide-on-applying-cc-rights-effectively/"><u>[New] 2024 Approved A Step-by-Step Guide on Applying CC Rights Effectively</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-topmusicreactionvids-yt-celebrity-highlights-2023/"><u>[New] 2024 Approved TopMusicReactionVids YT Celebrity Highlights, 2023</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-achieving-financial-independence-through-youtube-and-adsense-for-2024/"><u>[New] Achieving Financial Independence Through YouTube and AdSense for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-av1-versus-vp9-the-ultimate-codec-showdown/"><u>[New] AV1 Versus VP9 The Ultimate Codec Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-audience-experiences/"><u>[New] Superior Audience Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-mastering-photo-enhancement-with-complete-guide-to-facetune/"><u>[Updated] Mastering Photo Enhancement with Complete Guide to Facetune</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-simplify-audio-extraction-find-the-most-affordable-solutions-for-2024/"><u>[Updated] Simplify Audio Extraction Find the Most Affordable Solutions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-online-stores-for-personalized-box-designs/"><u>[Updated] Top 10 Online Stores for Personalized Box Designs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-srt-to-video-top-10-free-subtitle-tools/"><u>[Updated] Transform SRT to Video - Top 10 FREE Subtitle Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-potential-discovering-free-onlineoffline-animations/"><u>[Updated] Unleash Potential Discovering Free Online/Offline Animations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-perfect-snap-infusing-dynamic-blur-into-faces-through-picsart-editing/"><u>2024 Approved The Perfect Snap Infusing Dynamic Blur Into Faces Through Picsart Editing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/achieve-next-level-gaming-on-gtx-1660-ti-by-updating-drivers-for-peak-performance/"><u>Achieve Next-Level Gaming on GTX ^1660 Ti by Updating Drivers for Peak Performance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-12-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 12 With 7 Methods</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-enhancing-visuals-tips-for-shooting-and-editing-slow-motion-content-on-instagram/"><u>In 2024, Enhancing Visuals Tips for Shooting and Editing Slow Motion Content on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-audio-podcasts-made-easy-for-iphones/"><u>In 2024, Streamline Audio Podcasts Made Easy for iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-wonders-mastering-firefox-x-pie-mode/"><u>In 2024, Unveiling the Wonders Mastering Firefox X-Pie Mode</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-speed-up-or-slow-down-top-10-free-video-editing-apps-for-mobile/"><u>New In 2024, Speed Up or Slow Down Top 10 Free Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strengthening-your-presence-networking-techniques-for-youtubers-for-2024/"><u>Strengthening Your Presence Networking Techniques for YouTubers for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Itel S23+? | Dr.fone</u></a></li>
+</ul></div>
+

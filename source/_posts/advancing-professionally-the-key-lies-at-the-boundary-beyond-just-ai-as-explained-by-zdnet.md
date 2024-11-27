@@ -1,7 +1,7 @@
 ---
 title: "Advancing Professionally: The Key Lies at the Boundary (Beyond Just AI), as Explained by ZDNet"
-date: 2024-09-19 19:52:33
-updated: 2024-09-20 11:26:44
+date: 2024-11-24T17:11:58.442Z
+updated: 2024-11-26T17:30:17.185Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-pigments-and-perceptions-mastering-image-colorization/"><u>[New] Pigments & Perceptions Mastering Image Colorization</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pixel-perfect-video-modifier/"><u>[New] Pixel-Perfect Video Modifier</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-5-best-non-samsung-camera-picks-for-gear-enthusiasts/"><u>[New] Unveiling 5 Best Non-Samsung Camera Picks for Gear Enthusiasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-wirecast-versus-obs-which-broadcasting-tool-reigns-supreme/"><u>[Updated] 2024 Approved Wirecast Versus OBS Which Broadcasting Tool Reigns Supreme?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-becoming-a-pro-streaming-on-youtube-and-twitch-via-obs/"><u>[Updated] Becoming a Pro Streaming on YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-seeding-strategies-for-valheim-prosperity/"><u>[Updated] Seeding Strategies for Valheim Prosperity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>2024 Approved Twitch vs YouTube An In-Depth Comparative Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhanced-video-editing-suites-on-windows/"><u>Enhanced Video Editing Suites on WIndows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-comprehensive-morphvox-modification-handbook/"><u>In 2024, Comprehensive MorphVOX Modification Handbook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-exploring-the-capabilities-of-yuneecs-typhoon-uav/"><u>In 2024, Exploring the Capabilities of Yuneec’s Typhoon UAV</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-apps-upgrade-your-mobile-movies-instantly/"><u>In 2024, Top Apps Upgrade Your Mobile Movies Instantly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/streamlining-your-browser-experience-eliminating-non-essential-elements-in-microsoft-edge/"><u>Streamlining Your Browser Experience: Eliminating Non-Essential Elements in Microsoft Edge</u></a></li>
+</ul></div>
+

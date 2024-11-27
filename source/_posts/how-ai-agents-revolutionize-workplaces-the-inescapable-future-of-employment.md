@@ -1,7 +1,7 @@
 ---
 title: "How AI Agents Revolutionize Workplaces: The Inescapable Future of Employment"
-date: 2024-09-19 13:57:32
-updated: 2024-09-20 10:14:29
+date: 2024-11-21T17:47:46.277Z
+updated: 2024-11-26T23:39:22.990Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-transforming-your-android-into-a-broadcast-hub-for-2024/"><u>[New] Transforming Your Android Into a Broadcast Hub for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-intriguing-book-trailers-on-display/"><u>2024 Approved Intriguing Book Trailers on Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tamil-tunes-steps-for-ringtones-and-editing-songs-as-alerts/"><u>2024 Approved Tamil Tunes Steps for Ringtones & Editing Songs as Alerts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-high-def-monitor-list-top-10-picks/"><u>2024 Approved The Ultimate High-Def Monitor List Top 10 Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-fix-for-horizontalvertical-lines-on-your-television-screens/"><u>DIY Fix for Horizontal/Vertical Lines on Your Television Screens</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-a25-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy A25 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-efficient-a-comprehensive-guide-to-srt-to-txt-switching/"><u>In 2024, Time Efficient A Comprehensive Guide to SRT to TXT Switching</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-secrets-to-adding-seconds-to-youtube-clips/"><u>In 2024, Unveiling Secrets to Adding Seconds to YouTube Clips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/step-by-step-pronunciation-practice-for-beginners-in-germany/"><u>Step-by-Step Pronunciation Practice for Beginners in Germany</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-optimizing-windows-media-players-audio-operations-from-cds-for-2024/"><u>The Art of Optimizing Windows Media Player's Audio Operations From Cds for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-artificial-intelligence-powered-story-creation-tools/"><u>Top 4 Artificial Intelligence-Powered Story Creation Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-drone-racings-secrets-and-surpassing-fpv-drones-for-2024/"><u>Unveiling Drone Racing's Secrets & Surpassing FPV Drones for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/where-to-find-your-favorite-songs-legally-the-5-best-mp3boo-clones-for-free-music-downloads/"><u>Where to Find Your Favorite Songs Legally: The 5 Best MP3BOO Clones for Free Music Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-file-tracking-the-ultimate-guide-to-copying-windows-11-filesystem-trails-6-methods/"><u>Winning at File Tracking: The Ultimate Guide to Copying Windows 11 Filesystem Trails (6 Methods)</u></a></li>
+</ul></div>
+

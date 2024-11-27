@@ -1,7 +1,7 @@
 ---
 title: "Making AI More Accessible and Functional: Unveiling the Role of LangChain in Enhancing Generative Assistants | Spotlight on Tech by ZDNET"
-date: 2024-09-18 12:44:29
-updated: 2024-09-20 11:30:34
+date: 2024-11-25T03:18:30.982Z
+updated: 2024-11-26T16:49:30.970Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-miniature-film-script-sketch/"><u>[New] 2024 Approved Miniature Film Script Sketch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-navigating-noise-sensational-success-in-telegram-marketing/"><u>[New] Navigating Noise Sensational Success in Telegram Marketing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-6-tech-for-subtitle-creation-in-video/"><u>[New] Ultimate 6 Tech for Subtitle Creation in Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1716069304922-updated-2024-approved-sprightly-spirits-top-kid-approved-games/"><u>[Updated] 2024 Approved Sprightly Spirits Top Kid-Approved Games!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-a-melodic-guide-navigating-copyright-with-instagram/"><u>2024 Approved A Melodic Guide Navigating Copyright with Instagram</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-stunning-hdr-portraits-step-by-step-instructions/"><u>2024 Approved Capturing Stunning HDR Portraits Step-by-Step Instructions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-steadicams-for-drone-shooting-precision/"><u>2024 Approved Superior Steadicams for Drone Shooting Precision</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tools-for-transforming-your-spotify-mixes-into-youtube-channels-for-2024/"><u>Best Tools for Transforming Your Spotify Mixes Into YouTube Channels for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/clearstream-2v-all-weather-hd-tv-antenna-evaluation-superior-quality-in-an-aesthetically-challenging-design/"><u>ClearStream 2V All-Weather HD TV Antenna Evaluation: Superior Quality in an Aesthetically Challenging Design</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-strategies-stop-hogwarts-legacy-game-from-freezing-at-boot-up-with-these-8-tips/"><u>Effective Strategies: Stop Hogwarts Legacy Game From Freezing at Boot-Up with These 8 Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-immersive-insight-amd-radeon-update/"><u>In 2024, Immersive Insight AMD Radeon Update</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>In 2024, Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-topic-titling-artisans-assistant/"><u>In 2024, Topic Titling Artisan's Assistant</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-iphone-capabilities-crafting-and-transforming-slow-videos/"><u>In 2024, Unlocking iPhone Capabilities Crafting & Transforming Slow Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-potential-with-hero5-black-perfecting-cinematography-skills-for-2024/"><u>Unleash Potential with Hero5 Black Perfecting Cinematography Skills for 2024</u></a></li>
+</ul></div>
+

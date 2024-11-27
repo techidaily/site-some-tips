@@ -1,7 +1,7 @@
 ---
 title: What's Next for Winamp? Exploring Its New Direction Beyond the Open Source Pathway - Insights From ZDNet
-date: 2024-09-17 16:42:40
-updated: 2024-09-20 11:49:52
+date: 2024-11-22T16:23:38.804Z
+updated: 2024-11-26T16:38:57.570Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,23 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/tart-with-strategy-launching-an-online-dominant-gaming-channel/"><u>[New] Start with Strategy Launching an Online Dominant Gaming Channel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-laying-down-the-law-vegas-pro-21-edition-reviewed/"><u>[Updated] Laying Down the Law VEGAS Pro '21 Edition Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-premier-guide-to-high-definition-android-viewing-tools/"><u>[Updated] The Premier Guide to High-Definition Android Viewing Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-guide-to-extracting-srt-from-a-zip-archive/"><u>2024 Approved Guide to Extracting SRT From a ZIP Archive</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-mastering-the-art-of-moving-twitter-videos-into-whatsapp/"><u>2024 Approved Mastering the Art of Moving Twitter Videos Into WhatsApp</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-journey-to-zoom-mastery/"><u>In 2024, Streamline Your Journey to Zoom Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/instantaneous-installation-laugh-with-ifunny-memes-easily-for-2024/"><u>Instantaneous Installation Laugh with iFunny Memes Easily for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-show-off-your-gaming-skills-how-to-share-ps4-screenshots-online/"><u>New In 2024, Show Off Your Gaming Skills How to Share PS4 Screenshots Online</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tech-talk-m06-audio-pairing-perfectly-executed/"><u>Tech Talk: M06 Audio Pairing Perfectly Executed</u></a></li>
+</ul></div>
+

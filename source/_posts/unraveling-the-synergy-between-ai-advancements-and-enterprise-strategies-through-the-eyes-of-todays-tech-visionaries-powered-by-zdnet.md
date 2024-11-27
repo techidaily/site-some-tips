@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Synergy Between AI Advancements and Enterprise Strategies Through the Eyes of Today's Tech Visionaries | Powered by ZDNET
-date: 2024-09-17 21:41:20
-updated: 2024-09-20 12:14:27
+date: 2024-11-20T03:34:58.585Z
+updated: 2024-11-26T16:58:27.658Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-advanced-mac-photo-tips-5-efficient-snapshot-techniques/"><u>[New] In 2024, Advanced Mac Photo Tips 5 Efficient Snapshot Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rinciples-of-crafting-compelling-youtube-introduction-vids-for-2024/"><u>[New] Principles of Crafting Compelling YouTube Introduction Vids for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-innovative-ai-based-podcast-name-generators/"><u>[New] Top 10 Innovative AI-Based Podcast Name Generators</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-artful-annotation-distortion-techniques/"><u>[Updated] 2024 Approved Artful Annotation Distortion Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-in-depth-guide-best-audio-techniques-on-windows/"><u>[Updated] In-Depth Guide Best Audio Techniques on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-creativity-best-android-edits/"><u>[Updated] Unleash Creativity Best Android Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-editors-toolkit-maximizing-the-impact-of-gopro-videos/"><u>2024 Approved The Editor's Toolkit Maximizing the Impact of GoPro Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-ai-enhanced-photoshop-suite/"><u>2024 Approved Top AI Enhanced Photoshop Suite</u></a></li>
+<li><a href="https://win-lab.techidaily.com/consequences-of-initializing-an-already-used-hard-disk-understanding-the-process/"><u>Consequences of Initializing an Already-Used Hard Disk – Understanding the Process</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-the-evolution-of-affordable-excellence-with-the-updated-improved-apple-ipad-10cu-inch-display-at-its-finest/"><u>Experience the Evolution of Affordable Excellence with the Updated, Improved Apple iPad - 10.cu Inch Display at Its Finest</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-image-timestamping-techniques-unveiled/"><u>In 2024, Image Timestamping Techniques Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-visual-verdict-sj6-meets-xiaomis-yi-visionaries/"><u>In 2024, The Ultimate Visual Verdict SJ6 Meets Xiaomi’s Yi Visionaries</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/setting-up-your-streaming-installing-apple-tv-app-on-amazon-firestick/"><u>Setting Up Your Streaming: Installing Apple TV App on Amazon Firestick</u></a></li>
+</ul></div>
+

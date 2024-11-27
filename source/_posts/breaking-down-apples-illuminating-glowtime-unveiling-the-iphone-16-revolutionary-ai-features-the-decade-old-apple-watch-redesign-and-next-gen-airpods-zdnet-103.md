@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Apple's Illuminating 'Glowtime': Unveiling the iPhone 16, Revolutionary AI Features, The Decade-Old Apple Watch Redesign, and Next-Gen AirPods | ZDNET Insights"
-date: 2024-11-09T19:19:34.538Z
-updated: 2024-11-17T01:48:55.638Z
+date: 2024-11-25T16:06:39.177Z
+updated: 2024-11-27T04:47:59.732Z
 tags:
   - apple
 categories:
@@ -34,6 +34,10 @@ For now, here are the new AI-powered skills you can expect next month with [iOS 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Writing tools
 
 Jason Hiner/ZDNET
@@ -45,13 +49,6 @@ Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Note
 Apple Intelligence will tap into your photos for a few different tricks. You'll be able to create movies out of photos in your library just by typing a description of what you want to see, much like you would for a [chatbot prompt](https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/). Using natural language, you'll be able to search for specific photos and even find certain moments in a video. 
 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Audio transcriptions
 
@@ -67,23 +64,9 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Mail assistance
 
@@ -109,24 +92,33 @@ Those are a fair number of AI-powered features and upgrades, but Apple Intellige
 
 ## What will come later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Image playground
 
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Image wand
 
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Genmoji
 
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Siri tricks
 
@@ -166,19 +158,22 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-the-future-is-here-free-innovative-fb-story-enhancers/"><u>[New] The Future Is Here Free, Innovative FB Story Enhancers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-visual-excellence-evaluation-selecting-between-ultrawide-and-uhd-4k-for-2024/"><u>[Updated] Visual Excellence Evaluation Selecting Between UltraWide & UHD 4K for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-visionenhance-pro-high-fidelity-video-upgrade/"><u>2024 Approved VisionEnhance Pro - High Fidelity Video Upgrade</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connecting-to-secure-networks-vpn-installation-tips-for-windows-11-users/"><u>Connecting to Secure Networks: VPN Installation Tips for Windows 11 Users</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/destination-finale-quadvient-il-des-images-supprimees-permanemment-sur-windows-et-iphone/"><u>Destination Finale: Qu'Advient-Il Des Images Supprimées Permanemment Sur Windows Et iPhone ?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expert-solutions-for-unresponsive-screen-capture-tools-overcoming-13-problems-with-movavi/"><u>Expert Solutions for Unresponsive Screen Capture Tools - Overcoming 13 Problems With Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-amd-drivers-on-windows-10-11-and-7/"><u>How to Update AMD Drivers on Windows 10, 11 & 7</u></a></li>
-<li><a href="https://some-tips.techidaily.com/kostenloze-omzetting-van-nef-naar-jpg-professioneel-online-kneus-von-movavi/"><u>Kostenloze Omzetting Van NEF Naar JPG - Professioneel Online Kneus Von Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavitiffjpeg/"><u>Movaviの無料TIFFファイルをJPEGに簡単変換 - オンラインで使えるソリューション</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-13-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone 13 Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforma-tu-video-mp4-en-formato-mov-por-internet-gratuito-manteniendo-pura-calidad-pasos-faciles/"><u>Transforma Tu Vídeo MP4 en Formato MOV Por Internet Gratuito, Manteniendo Pura Calidad - Pasos Fáciles</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-precision-machines-best-of-the-series-for-2024/"><u>Ultimate Precision Machines - Best of the Series for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-the-distinction-between-wav-and-mp3-file-formats-a-deep-dive/"><u>Understanding the Distinction Between WAV and MP3 File Formats: A Deep Dive</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rw2-png-movavi/"><u>무료 RW2 PNG 그림을 직접 인터넷으로 변환하는 단계별 지침 – Movavi 이용</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>[New] The Playlist Puzzle Assembling Songs in New Spaces</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-chuckles-on-the-clouds-designing-hits-for-fb-and-instagram-meme-culture/"><u>[Updated] In 2024, Chuckles on the Clouds Designing Hits for FB & Instagram Meme Culture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-leading-audio-editing-software-in-shaping-your-vtuber-image/"><u>[Updated] Leading Audio Editing Software in Shaping Your VTuber Image</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>[Updated] The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-utilize-snapchats-star-trail-effectively/"><u>[Updated] Utilize Snapchat's Star Trail Effectively</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-present-trends-in-drone-technology-for-the-future/"><u>2024 Approved Present Trends in Drone Technology for the Future</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-unveiling-the-secrets-an-overview-of-using-ez-grabber-professionally/"><u>2024 Approved Unveiling the Secrets An Overview of Using EZ Grabber Professionally</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-htc-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on HTC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-restoring-functionality-to-a-broken-lenovo-f-key-with-ease/"><u>Expert Advice: Restoring Functionality to a Broken Lenovo F-Key with Ease</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-emotional-bonds-in-a-digital-world-through-facebooks-updated-dating-tools/"><u>Exploring Emotional Bonds in a Digital World Through Facebook’s Updated Dating Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-how-to-add-motion-blur-effect-to-photos-in-photoshop/"><u>In 2024, How to Add Motion Blur Effect to Photos in Photoshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-toolwiz-photosapp-insights-the-full-2023-perspective-on-photography-tools/"><u>In 2024, Toolwiz PhotosApp Insights - The Full 2023 Perspective on Photography Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-animation-set-for-typography/"><u>In 2024, Top-Ranked Animation Set for Typography</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-potential-of-ios-albums-ordering-and-cloud-syncing-essentials/"><u>In 2024, Unlocking the Potential of iOS Albums Ordering & Cloud Syncing Essentials</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumb/"><u>New 2024 Approved Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-creative-potential-with-10-best-backdrop-modification-software-for-2024/"><u>Unlock Creative Potential with 10 Best Backdrop Modification Software for 2024</u></a></li>
 </ul></div>
 

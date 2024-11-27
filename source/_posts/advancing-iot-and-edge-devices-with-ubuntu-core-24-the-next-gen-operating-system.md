@@ -1,7 +1,7 @@
 ---
 title: Advancing IoT & Edge Devices with Ubuntu Core 24 - The Next-Gen Operating System
-date: 2024-09-17 15:43:57
-updated: 2024-09-20 12:14:17
+date: 2024-11-22T18:12:41.934Z
+updated: 2024-11-26T16:58:54.556Z
 tags:
   - developer
 categories:
@@ -57,6 +57,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -123,6 +139,10 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-downloading-and-enjoying-ifunny-memes/"><u>[New] The Complete Guide to Downloading and Enjoying iFunny Memes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unparalleled-capturing-the-best-camcorders/"><u>[New] Unparalleled Capturing The Best Camcorders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-standard-edition-review-of-djis-drone-model-3/"><u>[Updated] The Standard Edition Review of DJI's Drone Model 3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unraveling-the-metaverse-an-analysis-of-6-complex-instances/"><u>[Updated] Unraveling the Metaverse An Analysis of 6 Complex Instances</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-getting-to-know-the-premium-p2715q-a-high-definition-marvel/"><u>2024 Approved Getting to Know the Premium P2715Q A High-Definition Marvel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-pixlr-essentials-10-pro-tips-to-transform-your-images/"><u>2024 Approved Pixlr Essentials 10 Pro Tips to Transform Your Images</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-phantom-v-fold-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Phantom V Fold</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-xiaomi-civi-3-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Xiaomi Civi 3 to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revealing-the-top-10-color-enhancers-in-adobes-lightroom/"><u>In 2024, Revealing the Top 10 Color Enhancers in Adobe’s LightRoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-speech-access-to-no-cost-voice-manipulation-tools/"><u>In 2024, Transform Your Speech Access to No-Cost Voice Manipulation Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/maximize-inshot-usage-import-feature-walkthrough/"><u>Maximize InShot Usage Import Feature Walkthrough</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mkv-video-in-reihe-umwandeln-schneller-und-einfach-mit-dem-kostenlosen-macx-mkv-codec-umwandler/"><u>MKV-Video in Reihe Umwandeln: Schneller Und Einfach Mit Dem Kostenlosen MacX MKV-Codec-Umwandler</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Programming Languages' Popularity Dynamics From 2016 Onwards - Unveiling Patterns & Future Directions | CyberTech Hub
-date: 2024-09-19 21:54:58
-updated: 2024-09-20 10:45:21
+date: 2024-11-23T17:24:24.820Z
+updated: 2024-11-26T21:00:40.185Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-detailed-look-at-the-latest-picsart-update-a-complete-guide-and-review/"><u>[New] 2024 Approved Detailed Look at the Latest PicsArt Update - A Complete Guide & Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-animators-toolkit-windows-movie-maker-for-winning-projects/"><u>[New] The Animator's Toolkit Windows Movie Maker for Winning Projects</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-basic-steps-flip-video-using-vlc-software/"><u>[Updated] 2024 Approved Basic Steps Flip Video Using VLC Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-discovering-facebooks-quintessential-updates/"><u>[Updated] In 2024, Discovering Facebook's Quintessential Updates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-unbiased-and-structured-interviews/"><u>[Updated] Techniques for Unbiased and Structured Interviews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/m2pmp4-movavi/"><u>「無料でM2PをMP4に変換する – Movaviのユーザーガイド」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-photopea-guide-to-clean-image-canvases/"><u>2024 Approved Photopea Guide to Clean Image Canvases</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-ranked-5-backdrop-change-apps-for-iphones-x-8-7/"><u>2024 Approved Top-Ranked 5 Backdrop Change Apps for iPhones (X, 8, 7)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-color-grading-with-luts-in-pscc/"><u>2024 Approved Unlocking Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-10-essential-podcast-art-creation-techniques/"><u>2024 Approved Unveiling 10 Essential Podcast Art Creation Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-magic-6-lite-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Honor Magic 6 Lite to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/get-ready-the-unified-disneyplus-and-hulu-platform-is-nearly-available-for-subscription/"><u>Get Ready! The Unified Disney+ and Hulu Platform Is Nearly Available for Subscription.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-crop-photo-online/"><u>How To Crop Photo Online?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-the-calculator-in-windows-11/"><u>How to Open the Calculator in Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-in-search-of-greatness-top-15-timeless-stop-motion-films/"><u>In 2024, In Search of Greatness Top 15 Timeless Stop Motion Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-distinctions-between-metaverse-and-multimeva-for-2024/"><u>The Essential Distinctions Between Metaverse and Multimeva for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-path-to-larger-video-presentation-in-youtube-for-2024/"><u>The Path to Larger Video Presentation in YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-smartphone-list-for-capturing-crystal-clear-video-for-2024/"><u>Ultimate Smartphone List for Capturing Crystal Clear Video for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-hidden-potential-boost-productivity-essential-multitasking-tips-for-podcast-lovers-for-2024/"><u>Unlock Hidden Potential, Boost Productivity Essential Multitasking Tips for Podcast Lovers for 2024</u></a></li>
+</ul></div>
+

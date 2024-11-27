@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of RAG Synergy: Enhancing Your Business with Generative Large Language Models | InnovationToday"
-date: 2024-09-19 10:12:17
-updated: 2024-09-20 10:59:46
+date: 2024-11-23T04:06:28.635Z
+updated: 2024-11-27T03:43:24.033Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-exploring-screen-recording-with-zdsoft/"><u>[New] Exploring Screen Recording with ZDSoft</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-whatsapp-friendly-broadcasting-facebook-videos/"><u>[New] In 2024, WhatsApp-Friendly Broadcasting Facebook Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-online-oasis-viewer/"><u>[New] Online Oasis Viewer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-filtering-the-truth-in-your-insta-network/"><u>[Updated] Filtering the Truth in Your Insta Network</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-your-creativity-10-steps-for-new-photoshop-users/"><u>[Updated] Unleash Your Creativity 10 Steps for New Photoshop Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unmatched-performance-and-price-select-top-asmr-microphone-picks/"><u>[Updated] Unmatched Performance & Price - Select Top ASMR Microphone Picks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-avi-visionary-player-compatible-with-pcmobile/"><u>2024 Approved Avi Visionary Player Compatible with PC/Mobile</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-flexible-cam-balancer-toolkit/"><u>2024 Approved Flexible Cam Balancer Toolkit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-turn-your-videos-backwards-on-phone/"><u>In 2024, Turn Your Videos Backwards on Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-inshots-potential-with-your-own-songs/"><u>In 2024, Unlocking InShot's Potential with Your Own Songs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-world-of-social-media-facebook-twitter-instagram-and-youtube-explained/"><u>Understanding The World Of Social Media: Facebook, Twitter, Instagram & Youtube Explained</u></a></li>
+</ul></div>
+

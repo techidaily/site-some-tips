@@ -1,7 +1,7 @@
 ---
 title: "Deciding Between New Apple Laptops: In-Depth Review and Contrast of M3 Versus M2 MacBook Air | ZDNet"
-date: 2024-11-13T00:56:05.440Z
-updated: 2024-11-17T08:26:50.352Z
+date: 2024-11-23T21:47:02.624Z
+updated: 2024-11-27T03:10:14.995Z
 tags:
   - apple
 categories:
@@ -39,6 +39,10 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
@@ -46,10 +50,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -66,13 +67,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 | Price        | Starting at $799                                  | Starting at $899                                  |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
@@ -134,6 +128,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -149,10 +147,7 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -172,10 +167,7 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -212,21 +204,16 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-money-making-guide-to-streaming-services/"><u>[New] In 2024, The Ultimate Money-Making Guide to Streaming Services</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-simplify-aquatic-footage-7-key-shooting-strategies-for-2024/"><u>[New] Simplify Aquatic Footage 7 Key Shooting Strategies for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-art-of-impressive-hdr-portraits-explained/"><u>[New] The Art of Impressive HDR Portraits Explained</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-hue-harmonizer-tool/"><u>[Updated] Ultimate Hue Harmonizer Tool</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-proven-subtitle-editors-the-comprehensive-top-10-list-online/"><u>2024 Approved Proven Subtitle Editors – The Comprehensive Top 10 List (Online)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-srt-to-subc-innovative-techniques-explored/"><u>2024 Approved The Art of SRT to SUBC Innovative Techniques Explored</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-free-screen-recording-in-win11/"><u>2024 Approved Unlock the Power of Free Screen Recording in Win11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-using-srt-audio-on-windows-and-macos-devices/"><u>2024 Approved Using SRT Audio on Windows & macOS Devices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/comprehensive-manual-best-practices-for-using-mobizen-recording-tool-for-2024/"><u>Comprehensive Manual Best Practices for Using Mobizen Recording Tool for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/huggingchat-vs-chatgpt-which-is-the-superior-ai-conversation-assistant/"><u>HuggingChat Vs. ChatGPT: Which Is the Superior AI Conversation Assistant?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-poco-x5-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-synthesizing-worlds-latest-trends-in-virtual-tech/"><u>In 2024, Synthesizing Worlds Latest Trends in Virtual Tech</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/keeping-memories-afloat-the-top-selection-of-cloud-services-reviewed/"><u>Keeping Memories Afloat The Top Selection of Cloud Services Reviewed</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-syncs-up-with-pearson-education-circle/"><u>Mondly Syncs Up With Pearson Education Circle</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamline-memory-management-via-mematic-for-2024/"><u>Streamline Memory Management via Mematic for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-transform-your-videos-into-audio-top-ios-and-android-apps/"><u>Updated Transform Your Videos Into Audio Top iOS and Android Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-gopro-karma-quest-for-altitude-dominance/"><u>[New] 2024 Approved The GoPro Karma Quest for Altitude Dominance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>[New] The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-soloists-guide-to-captivating-audiences/"><u>[New] The Soloist's Guide to Captivating Audiences</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capturecraft-in-depth-analysis-of-screen-capture-tech/"><u>[Updated] In 2024, CaptureCraft In-Depth Analysis of Screen Capture Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supercharge-your-gaming-experience-the-best-free-voice-transformer-awaits/"><u>[Updated] Supercharge Your Gaming Experience - The Best Free Voice Transformer Awaits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-activatedeactivate-pip-in-ios-web-experience/"><u>2024 Approved How to Activate/Deactivate PIP in iOS Web Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-11-proplus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on 11 Pro+</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-building-your-own-studiopc-an-all-inclusive-guide-for-4k-editors/"><u>In 2024, Building Your Own StudioPC An All-Inclusive Guide for 4K Editors</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-motorola-edge-40-neo-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Motorola Edge 40 Neo without backup.</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transform-into-a-korean-speaker-in-no-time-these-tools-will-help/"><u>Transform Into a Korean Speaker in No Time - These Tools Will Help</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-new-dimensions-in-physical-interaction-tech-for-2024/"><u>Unlocking New Dimensions in Physical Interaction Tech for 2024</u></a></li>
 </ul></div>
 

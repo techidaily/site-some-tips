@@ -1,7 +1,7 @@
 ---
 title: How Generative AI Could Actually Increase Our Workload - Insights From ZDNet
-date: 2024-09-17 11:22:11
-updated: 2024-09-20 10:44:28
+date: 2024-11-21T00:08:56.875Z
+updated: 2024-11-26T20:29:44.034Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,11 +45,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -66,6 +78,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -123,6 +139,10 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-magic-in-managing-photos-with-magix/"><u>[New] Magic in Managing Photos with MAGIX</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-stabilizing-drone-footage/"><u>[Updated] Strategies for Stabilizing Drone Footage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-storytellers-portal/"><u>[Updated] Ultimate Storytellers' Portal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-creativity-free-animation-techniques/"><u>[Updated] Unlocking Creativity Free Animation Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>[Updated] Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-updated-inquiry-collection-for-podcast-appeal/"><u>[Updated] Updated Inquiry Collection for Podcast Appeal</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-the-art-of-capturing-spoken-words-digitally/"><u>2024 Approved Perfecting the Art of Capturing Spoken Words Digitally</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-for-cod-vanguard-voice-communication-issues/"><u>Fixes & Solutions for Cod: Vanguard Voice Communication Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/flip-through-twitch-feeds-without-pause/"><u>Flip Through Twitch Feeds Without Pause</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-monitors-reimagined-an-insight-into-the-z32x/"><u>In 2024, The Art of Monitors Reimagined An Insight Into the Z32X</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-s17-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo S17 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pioneering-free-convertors-top-5-online-apps-for-gifs-to-videos/"><u>Pioneering Free Convertors Top 5 Online Apps for GIFs to Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/value-meets-performance-unpacking-the-affordable-surface-pro-11-experience-with-expert-analysis-news/"><u>Value Meets Performance: Unpacking the Affordable Surface Pro 11 Experience with Expert Analysis News</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Breakdown of Apple's Latest Unveiling: M4 iPad Pro & Updated Product Lineup with Enhanced Apple Pencil and 13 iPad Air Revealed - Exclusive Coverage !"
-date: 2024-11-12T08:47:25.038Z
-updated: 2024-11-17T00:19:02.222Z
+date: 2024-11-21T05:29:14.027Z
+updated: 2024-11-27T03:02:20.507Z
 tags:
   - apple
 categories:
@@ -26,18 +26,15 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -59,6 +56,10 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -76,10 +77,7 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -98,13 +96,6 @@ Apple
 
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Magic Keyboard
 
 Apple
@@ -112,10 +103,7 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -133,6 +121,10 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -168,18 +160,21 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-streaming-wars-the-top-10-platforms-ranked-and-compared/"><u>[New] Streaming Wars The Top 10 Platforms Ranked and Compared</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-superiorly-crafted-radio-scripts/"><u>[Updated] Superiorly Crafted Radio Scripts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-complete-guide-to-iphone-silhouette-mastery/"><u>[Updated] The Complete Guide to iPhone Silhouette Mastery</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-designing-engaging-audio-visual-podcast-teasers/"><u>2024 Approved Designing Engaging Audio-Visual Podcast Teasers</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-features-enhancing-your-websites-personalization/"><u>Cookiebot-Enabled Features: Enhancing Your Website's Personalization</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ddr3-production-halts-by-samsung-and-sk-hynix-amidst-intense-hbm3-memory-market-growth/"><u>DDR3 Production Halts by Samsung and SK Hynix Amidst Intense HBM3 Memory Market Growth</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuit-convertissez-vos-videos-webm-en-mp3-facilement-grace-a-movavi/"><u>Gratuit : Convertissez Vos Vidéos WebM en MP3 Facilement Grâce À Movavi!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-science-of-motion-without-contact/"><u>In 2024, Unraveling the Science of Motion Without Contact</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-microsofts-chatgpt-down-find-out-with-these-5-quick-checks/"><u>Is Microsoft's ChatGPT Down? Find Out With These 5 Quick Checks</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-madden-nfl-22-persistent-loading-issues/"><u>Resolved: Fixes for Madden NFL 22 Persistent Loading Issues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/studio-masterclass-in-depth-xvideostudio-report-for-2024/"><u>Studio Masterclass In-Depth XVideoStudio Report for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-8-must-play-virtual-reality-titles-for-now-for-2024/"><u>Top 8 Must-Play Virtual Reality Titles for Now for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-yogic-vistas-top-10-inspirational-yoga-videos/"><u>[New] 2024 Approved Yogic Vistas Top 10 Inspirational Yoga Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-drone-designs-always-on-your-side/"><u>[New] Innovative Drone Designs Always on Your Side</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-underdeveloped-world-of-vr-experiences/"><u>[New] The Underdeveloped World of VR Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-timelapse-video-shooting-with-hero5/"><u>[New] Unveiling the Secrets of Timelapse Video Shooting with Hero5</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhancing-video-discoverability-with-smart-thumbnails/"><u>[Updated] 2024 Approved Enhancing Video Discoverability with Smart Thumbnails</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-first-step-to-aerial-adventure-best-beginner-drones/"><u>[Updated] First Step to Aerial Adventure Best Beginner Drones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-lengthening-gopros-electric-life/"><u>[Updated] Strategies for Lengthening GoPro's Electric Life</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-structuring-an-efficient-collaborative-office-environment/"><u>[Updated] Strategies for Structuring an Efficient, Collaborative Office Environment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-art-of-closer-views-on-microsoft-teams/"><u>[Updated] Unveiling the Art of Closer Views on Microsoft Teams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-dji-drones-collection-entry-grade-premium-pro-elite-4k-flight/"><u>2024 Approved DJI Drones Collection Entry Grade, Premium Pro, Elite 4K Flight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tempo-treasure-hunters-dive-into-free-online-scanners/"><u>2024 Approved Tempo Treasure Hunters Dive Into FREE Online Scanners</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-role-of-xbox-covers/"><u>Discovering the Role of Xbox Covers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ideal-mac-video-logic-tool/"><u>Ideal Mac Video Logic Tool</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-high-definition-capture-top-applications/"><u>In 2024, High-Definition Capture Top Applications</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-leading-audio-modification-programs-a-comprehensive-guide/"><u>New Leading Audio-Modification Programs A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-anglers-companion-best-action-cams-for-fishing-for-2024/"><u>The Angler’s Companion Best Action Cams for Fishing for 2024</u></a></li>
 </ul></div>
 

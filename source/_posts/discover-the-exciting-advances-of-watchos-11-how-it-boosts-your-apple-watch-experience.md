@@ -1,7 +1,7 @@
 ---
 title: Discover the Exciting Advances of WatchOS 11 - How It Boosts Your Apple Watch Experience
-date: 2024-11-12T07:25:04.528Z
-updated: 2024-11-16T20:18:16.067Z
+date: 2024-11-24T00:10:03.779Z
+updated: 2024-11-26T17:21:12.766Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -53,10 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -72,10 +73,7 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -91,10 +89,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -110,10 +105,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -170,22 +162,14 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-creating-perfect-360-photos-on-iphone-for-2024/"><u>[New] Creating Perfect 360 Photos on iPhone for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-perfecting-your-igtv-thumbnail-imagery-for-2024/"><u>[New] Perfecting Your IGTV Thumbnail Imagery for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-conversion-secrets-yt-vs-igtv/"><u>[Updated] 2024 Approved Channel Conversion Secrets YT Vs IGTV</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-chart-success-using-youtube-statistics-to-grow-engagement/"><u>[Updated] Chart Success Using YouTube Statistics to Grow Engagement</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-viral-instagram-videos-essential-tricks-for-attention-for-2024/"><u>[Updated] Viral Instagram Videos Essential Tricks for Attention for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-webmswf/"><u>網路上自由下載MOVAVI WebM到SWF的轉換工具</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726222800570-movavi/"><u>与 Movavi 精心设计的联锁营销 - 量身定制深度链接生成</u></a></li>
-<li><a href="https://some-tips.techidaily.com/descarga-gratuita-convertir-archivos-flv-a-vob-sin-problemas/"><u>Descarga Gratuita: Convertir Archivos FLV a VOB Sin Problemas</u></a></li>
-<li><a href="https://some-tips.techidaily.com/descarga-imprescindible-movavi-soluciones-de-multimedia-para-su-negocio/"><u>Descarga Imprescindible - Movavi Soluciones De Multimedia Para Su Negocio</u></a></li>
-<li><a href="https://article-files.techidaily.com/dissecting-disney-delights-a-review-of-the-goofy-saga/"><u>Dissecting Disney Delights A Review of 'The Goofy Saga'</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-converter-avi-to-mjpeg-movavi/"><u>Free Online Converter: AVI to MJPEG - Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-converter-mp4-to-avi-and-jpg-to-png-with-movavi/"><u>Free Online Converter: MP4 to AVI & JPG to PNG with Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratuit-movavi-converseren-van-mp3-naar-aac-en-andere-audiodateien-efficient-en-gemakkelijk/"><u>Gratuit Movavi - Converseren Van MP3 Naar AAC en Andere Audiodateien Efficiënt en Gemakkelijk</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/guide-eliminating-unwanted-commercials-from-youtube-on-ios-and-android-devices/"><u>Guide: Eliminating Unwanted Commercials From YouTube on iOS and Android Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/high-definition-horizons-the-intricacies-of-dell-p2715q-screening/"><u>High-Definition Horizons The Intricacies of Dell P2715Q Screening</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/learn-and-master-io-screen-recording-today-for-2024/"><u>Learn and Master IO Screen Recording Today for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/sedis-doma-a-chces-nahradit-schuzi-bez-povoleni-pokus-se-zoom-na-movavi-navrhovaci-prukladky/"><u>Sedíš Doma a Chceš Nahradit Schůzi Bez Povolení? Pokus Se Zoom Na Movavi - Návrhovací Průkladky</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-effortlessly-upload-your-imovie-masterpieces-to-vimeo/"><u>[New] Effortlessly Upload Your iMovie Masterpieces to Vimeo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-quest-for-optimal-video-viewing-vlcs-stand-against-mpc/"><u>[New] The Quest for Optimal Video Viewing VLC's Stand Against MPC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-xsplits-equals/"><u>[Updated] The Ultimate List of Xsplit's Equals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-zoom-services-directly-from-your-inbox-gmail-edition/"><u>2024 Approved Utilizing Zoom Services Directly From Your Inbox - Gmail Edition</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-mac-mp4-cutter-apps-enhance-video-editing/"><u>Best Mac MP4 Cutter Apps Enhance Video Editing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-reveling-in-4k-an-in-depth-look-at-yis-hero-series/"><u>In 2024, Reveling in 4K An In-Depth Look at Yi’s HERO Series</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-edge-40-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 40 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-value-broadband-router-tested-the-tp-link-archer-c50-unveiled/"><u>Top Value Broadband Router Tested: The TP-Link Archer C50 Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-of-using-multiple-screens-on-netflix-for-2024/"><u>Unveiling the Secrets of Using Multiple Screens on Netflix for 2024</u></a></li>
 </ul></div>
 

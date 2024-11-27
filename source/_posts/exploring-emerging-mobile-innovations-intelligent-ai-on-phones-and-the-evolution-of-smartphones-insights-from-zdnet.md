@@ -1,7 +1,7 @@
 ---
 title: "Exploring Emerging Mobile Innovations: Intelligent AI on Phones & The Evolution of Smartphones - Insights From ZDNet"
-date: 2024-11-15T12:45:44.341Z
-updated: 2024-11-16T19:38:16.389Z
+date: 2024-11-26T03:05:09.230Z
+updated: 2024-11-26T18:52:01.386Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -59,13 +63,6 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -107,13 +104,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,6 +113,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -136,10 +130,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -160,10 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -173,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,18 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-new-era-of-advertising-embracing-the-metaverse/"><u>[New] The New Era of Advertising Embracing the Metaverse</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-green-filmmaking-made-simple-with-smart-tech/"><u>[Updated] 2024 Approved Green Filmmaking Made Simple with Smart Tech</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-7-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 7 Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-v30-lite-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo V30 Lite 5G</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/comprehensive-guide-to-free-cloud-communication-software/"><u>Comprehensive Guide to Free Cloud Communication Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhance-your-websites-analytics-effortlessly/"><u>Cookiebot-Enabled: Enhance Your Website's Analytics Effortlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhancing-user-experience-through-personalized-engagement/"><u>Cookiebot-Enabled: Enhancing User Experience Through Personalized Engagement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-marketing-solutions-drive-growth-through-advanced-analytics-and-personalization/"><u>Cookiebot-Enhanced Marketing Solutions: Drive Growth Through Advanced Analytics & Personalization</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-tailored-and-tracked/"><u>Cookiebot-Enhanced User Experience: Tailored and Tracked</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-the-backbone-of-your-sites-personalization-strategy/"><u>Cookiebot: The Backbone of Your Site's Personalization Strategy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/costains-abteilungsstrategie-fur-digitale-transformationen-die-rolle-von-abbyy-technologien-in-der-finanzverwaltung/"><u>Costain's Abteilungsstrategie Für Digitale Transformationen – Die Rolle Von ABBYY-Technologien in Der Finanzverwaltung</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-your-gaming-experience-by-addressing-low-fps-concerns-in-outriders/"><u>Improving Your Gaming Experience by Addressing Low FPS Concerns in Outriders</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-7-plus-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 7 Plus Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-transforming-movie-visuals-using-standardized-luts-from-cg-central/"><u>[New] The Complete Guide Transforming Movie Visuals Using Standardized Luts From CG Central</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-gamers-playground-on-tiktok-best-ten-for-2024/"><u>[Updated] Gamer's Playground on TikTok - Best Ten for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essentials-of-video-format-transformation-using-vlc/"><u>[Updated] The Essentials of Video Format Transformation Using VLC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-compare-and-contrast-best-6-hdmi-monitor-models-in-detail/"><u>2024 Approved Compare & Contrast Best 6 HDMI Monitor Models in Detail</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unmatched-storytelling-education-1-8-spotlight/"><u>2024 Approved Unmatched Storytelling Education #1-#8 Spotlight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-prime-cloud-storage-options/"><u>2024 Approved Unveiling Prime Cloud Storage Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avi-video-cutting-made-easy-top-16-tools-for-windows-mac-android-iphone-and-online-for-2024/"><u>AVI Video Cutting Made Easy Top 16 Tools for Windows, MAC, Android, iPhone, and Online for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/demystifying-color-grading-with-powerful-luts-for-2024/"><u>Demystifying Color Grading with Powerful LUTs for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-iphone-camera-focus-proven-fixes-for-blurry-images/"><u>Enhance iPhone Camera Focus: Proven Fixes for Blurry Images</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/free-file-recovery-techniques-in-windows-10-explored-the-leading-five-options-with-ifind-software/"><u>Free File Recovery Techniques in Windows 10 Explored: The Leading Five Options with IFind Software</u></a></li>
+<li><a href="https://app-tips.techidaily.com/icloud-photo-sharing-a-beginners-complete-step-by-step-tutorial/"><u>ICloud Photo Sharing: A Beginner's Complete Step-by-Step Tutorial</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-amplify-your-influence-on-ig-how-to-gain-1k-followers-monthly/"><u>In 2024, Amplify Your Influence on IG How to Gain 1K Followers Monthly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-timing-your-podcast-release-effectively/"><u>In 2024, Timing Your Podcast Release Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-auditory-adventures-installing-apple-podcasts-app/"><u>In 2024, Unleash Your Auditory Adventures Installing Apple Podcasts App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-bottom-line-podcasters-earnings-on-average-for-2024/"><u>The Bottom Line Podcasters' Earnings, On Average for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-verdict-on-android-photo-editing-does-picku-excel-in-2024/"><u>The Verdict on Android Photo Editing – Does PickU Excel, In 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-face-swapping-features-on-your-apple-watch-a-step-by-step-guide/"><u>Unlocking the Secrets of Face-Swapping Features on Your Apple Watch - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vanguard-20-top-anime-song-starters-for-2024/"><u>Vanguard 20 Top Anime Song Starters for 2024</u></a></li>
 </ul></div>
 

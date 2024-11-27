@@ -1,7 +1,7 @@
 ---
 title: Introduces Groundbreaking Satellite SOS Messaging for Enhanced Safety in Android Devices | Insights From ZDNet
-date: 2024-11-13T00:32:30.178Z
-updated: 2024-11-16T17:57:05.868Z
+date: 2024-11-23T20:23:29.568Z
+updated: 2024-11-27T05:38:54.244Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -51,10 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,20 +126,17 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-peak-color-alignment-tool-for-2024/"><u>[New] Peak Color Alignment Tool for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-snappy-snippets-quick-and-quirky-memes-guide/"><u>[New] Snappy Snippets Quick and Quirky Memes Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-art-of-iphone-podcast-listening/"><u>[New] The Art of iPhone Podcast Listening</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-quick-drama-drafting-method/"><u>[Updated] 2024 Approved Quick Drama Drafting Method</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-constructing-cinema-stories/"><u>[Updated] Constructing Cinema Stories</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-the-financial-demands-of-music-video-production/"><u>[Updated] Understanding the Financial Demands of Music Video Production</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-movie-magic-made-simple-a-step-by-step-guide/"><u>2024 Approved Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/buffer-free-streaming-mastery-fix-your-kodi-playback-issues-here/"><u>Buffer-Free Streaming Mastery: Fix Your Kodi Playback Issues Here</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-reactivate-your-photo-viewer-in-win-11-proactively/"><u>How to Reactivate Your Photo Viewer in Win 11 Proactively</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-m54-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy M54 5G Lock Screen Password</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-virtual-reality-vr-bikes-to-check-out/"><u>In 2024, Top Virtual Reality (VR) Bikes to Check Out</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-review-and-step-by-step-tutorials-for-powerdirector-for-2024/"><u>In-Depth Review & Step-by-Step Tutorials for PowerDirector for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/netflix-service-outage-is-it-down-heres-how-you-can-check-and-resolve-issues/"><u>Netflix Service Outage - Is It Down? Here's How You Can Check & Resolve Issues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-the-way-you-view-web-content-using-ms-edges-split-screen-functionality-for-2024/"><u>Transform the Way You View Web Content Using MS Edge's Split Screen Functionality for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-these-essential-vector-editors-for-2024/"><u>Unleash Creativity with These Essential Vector Editors for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-iphones-simple-methods-for-effective-screening-for-2024/"><u>[New] IPhone's Simple Methods for Effective Screening for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-yt-techniques-for-fading-out-unwanted-backgrounds/"><u>[New] Mastering YT Techniques for Fading Out Unwanted Backgrounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-ringtones-roundup-elite-download-hubs/"><u>[New] Superior Ringtones Roundup Elite Download Hubs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-montages-made-easy-androidios-apps-for-creative-minds/"><u>[New] Top Montages Made Easy Android/iOS Apps for Creative Minds</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-turn-your-youtube-snippets-into-memorable-gifs-for-2024/"><u>[Updated] Turn Your YouTube Snippets Into Memorable GIFs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-video-filter-application-techniques/"><u>[Updated] Unveiling the Secrets of Video Filter Application Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-your-video-their-feast-how-to-craft-gifs-from-vimeo-videos-for-2024/"><u>[Updated] Your Video, Their Feast How to Craft GIFs From Vimeo Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tips-for-perfect-3d-printing-overcoming-the-challenge-of-pillow-like-texture-defects/"><u>Advanced Tips for Perfect 3D Printing: Overcoming the Challenge of Pillow-Like Texture Defects</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/comprehensive-tutorial-on-preserving-iphone-phone-records-via-easy-backup-steps/"><u>Comprehensive Tutorial on Preserving iPhone Phone Records via Easy Backup Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertisseur-jpeg-a-ligne-de-donnees-gratuit-movavi/"><u>Convertisseur JPEG À Ligne De Données Gratuit - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-chromatic-enhancement/"><u>In 2024, The Art of Chromatic Enhancement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secrets-of-savings-the-ultimate-list-of-boxes-buying-websites/"><u>Secrets of Savings The Ultimate List of Boxes-Buying Websites</u></a></li>
 </ul></div>
 

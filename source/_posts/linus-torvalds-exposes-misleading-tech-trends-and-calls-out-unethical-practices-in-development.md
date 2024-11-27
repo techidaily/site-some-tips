@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Exposes Misleading Tech Trends & Calls Out Unethical Practices in Development
-date: 2024-09-19 10:36:33
-updated: 2024-09-20 11:56:18
+date: 2024-11-20T04:38:28.836Z
+updated: 2024-11-26T17:08:46.460Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-analyzing-earnings-disparity-dailymovement-and-youtube-profits-compared/"><u>[New] Analyzing Earnings Disparity DailyMovement and YouTube Profits Compared</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-leading-tech-in-snap-capture/"><u>[New] Leading Tech in Snap Capture</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ecrets-to-successful-youtube-filmmaking-with-pc-editing-software-for-2024/"><u>[New] Secrets to Successful YouTube Filmmaking with PC Editing Software for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-basics-of-electronic-story-craftsmanship/"><u>[New] The Basics of Electronic Story Craftsmanship</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-pulse-of-the-population-vllo-analysis/"><u>[New] The Pulse of the Population VLLO Analysis</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-mobilize-your-marketing-easy-youtube-channel-launch-tips-for-entrepreneurs/"><u>[Updated] 2024 Approved Mobilize Your Marketing Easy YouTube Channel Launch Tips for Entrepreneurs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-securely-copying-youtube-music-tracks-safely/"><u>[Updated] In 2024, Guide to Securely Copying YouTube Music Tracks Safely</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-cutting-edge-finding-the-top-5-titling-professionals-online/"><u>[Updated] The Cutting Edge Finding the Top 5 Titling Professionals Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-to-easy-metaverse-character-creation/"><u>[Updated] Unlocking the Secrets to Easy Metaverse Character Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-hidden-secrets-for-advanced-win10-users/"><u>[Updated] Unveiling Hidden Secrets for Advanced Win10 Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed/"><u>2024 Approved Top 5 Cloud-Based Voice Customizers for Chrome OS Vocal Transformation Tools Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-greatest-anime-opener-tunes/"><u>2024 Approved Ultimate List Greatest Anime Opener Tunes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tag-and-showcase-a-podcast-episode/"><u>In 2024, Tag and Showcase a Podcast Episode</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-toggle-between-normal-and-picture-in-picture-view-for-youtube-on-iphone/"><u>In 2024, Toggle Between Normal and Picture In Picture View for Youtube on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tranquil-tracks-easy-volume-diminution-via-garageband/"><u>In 2024, Tranquil Tracks Easy Volume Diminution via Garageband</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/mastering-email-performance-indicators-with-massmail-software-insights/"><u>Mastering Email Performance Indicators with MassMail Software Insights</u></a></li>
+</ul></div>
+

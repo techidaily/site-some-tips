@@ -1,7 +1,7 @@
 ---
 title: "Combating Developer Burnout: Innovative Strategies From Leading Tech Firms Featured on ZDNet"
-date: 2024-09-17 18:19:54
-updated: 2024-09-20 12:34:43
+date: 2024-11-24T01:36:19.976Z
+updated: 2024-11-27T03:35:20.140Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,6 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +65,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +84,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-abcs-of-amassing-affection-on-fb-squaring-up-your-video-strategy-for-2024/"><u>[New] The ABC's of Amassing Affection on FB Squaring Up Your Video Strategy for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fostering-connection-strategies-for-striking-fb-slideshows-for-2024/"><u>[Updated] Fostering Connection Strategies for Striking FB Slideshows for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-earning-cash-online-with-no-skills-needed/"><u>[Updated] The Ultimate Guide to Earning Cash Online with No Skills Needed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveil-image-by-removing-surroundings/"><u>[Updated] Unveil Image by Removing Surroundings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-choice-of-steadicams-for-drone-shooting/"><u>2024 Approved Ultimate Choice of Steadicams for Drone Shooting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-listening-to-your-favorite-talk-shows/"><u>2024 Approved Unlock the Power of Podcasts 15 Task-Filled Activities to Do While Listening to Your Favorite Talk Shows</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-and-chatgpt-face-off-evaluating-which-chatbot-reigns-supreme/"><u>Claude and ChatGPT Face-Off: Evaluating Which Chatbot Reigns Supreme?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-poco-m6-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Poco M6 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-vivo-g2-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Vivo G2 with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-guide-quick-tips-for-meme-artistry/"><u>In 2024, Giggle Guide Quick Tips for Meme Artistry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/originality-in-ai-language-processing-systems/"><u>Originality in AI Language Processing Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-of-ice-artistry-2022-edition-for-2024/"><u>The Best of Ice Artistry 2022 Edition for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-crafting-luts-in-3d-for-2024/"><u>The Complete Guide to Crafting LUTs in 3D for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-sound-trailblazers-guide-kicking-off-with-fade-in-techniques-for-2024/"><u>The Sound Trailblazer’s Guide Kicking Off with Fade-In Techniques for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ultimate-guide-to-macro-videography-techniques-for-2024/"><u>Ultimate Guide to Macro Videography Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-iphone-strategies-for-flawless-audio-downloads-for-2024/"><u>Ultimate iPhone Strategies for Flawless Audio Downloads for 2024</u></a></li>
+</ul></div>
+

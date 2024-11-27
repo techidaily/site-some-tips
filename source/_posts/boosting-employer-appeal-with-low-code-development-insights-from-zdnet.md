@@ -1,7 +1,7 @@
 ---
 title: "Boosting Employer Appeal with Low-Code Development: Insights From ZDNet"
-date: 2024-09-18 15:25:59
-updated: 2024-09-20 11:46:25
+date: 2024-11-25T21:36:30.674Z
+updated: 2024-11-27T03:05:41.900Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +60,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -73,6 +81,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -92,6 +108,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-peculiar-pratfalls-memes-tailored-for-the-perfect-moment/"><u>[New] 2024 Approved Peculiar Pratfalls Memes Tailored for the Perfect Moment</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-spectacited-sight-top-ranked-phones-with-elite-4k-camera-features/"><u>[New] 2024 Approved Spectacited Sight Top-Ranked Phones with Elite 4K Camera Features</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-breathtaking-bounds-of-2022-skaters/"><u>[New] In 2024, Breathtaking Bounds of 2022 Skaters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-synthesizing-best-canon-temporal-videography/"><u>[New] Synthesizing Best Canon Temporal Videography</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-budget-friendly-hd-cameras-for-adrenaline-junkies/"><u>[Updated] 2024 Approved Best Budget-Friendly HD Cameras for Adrenaline Junkies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-8-best-open-source-videoconference-systems-for-enterprises-today/"><u>[Updated] 2024 Approved The 8 Best Open Source Videoconference Systems for Enterprises Today</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-navigating-through-film-workflow-choosing-between-hdr-and-sdr-for-2024/"><u>[Updated] Navigating Through Film Workflow Choosing Between HDR & SDR for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-syma-x8c-tech-specifications-study/"><u>[Updated] Syma X8C Tech Specifications Study</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-sierras-icloud-drives-and-shares/"><u>[Updated] The Ultimate Guide to Sierra's iCloud Drives & Shares</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-upload-and-share-your-visual-content-on-youtube/"><u>[Updated] Upload & Share Your Visual Content on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-reducing-shakiness-on-your-gopro-movie/"><u>2024 Approved The Ultimate Guide to Reducing Shakiness on Your GoPro Movie</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-era-of-streaming-leading-voices-of-female-creators/"><u>A New Era of Streaming Leading Voices of Female Creators</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-zte-nubia-flip-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About ZTE Nubia Flip 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/who-wins-in-video-quality-comparing-av1-to-vp9/"><u>Who Wins in Video Quality? Comparing AV1 to VP9</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Ops
-date: 2024-09-17 19:37:29
-updated: 2024-09-20 11:31:50
+date: 2024-11-23T18:11:03.823Z
+updated: 2024-11-26T23:24:21.973Z
 tags:
   - developer
 categories:
@@ -57,6 +57,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -81,6 +85,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -103,6 +111,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +122,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-best-of-the-best-12-youtube-video-game-openers-freepaid/"><u>[New] 2024 Approved The Best of the Best 12 YouTube Video Game Openers (FREE/PAID)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-investigating-screenshots-best-tools-fraps-vs-obs-studio/"><u>[Updated] Investigating Screenshots’ Best Tools Fraps Vs OBS Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tech-gear-review-vr-treadmills-showdown/"><u>[Updated] Tech Gear Review VR Treadmills Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-compilation-4-websites-for-ringtone-hunt/"><u>[Updated] The Ultimate Compilation 4 Websites for Ringtone Hunt</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-onestream-playbook-for-live-streamers/"><u>[Updated] The Ultimate OneStream Playbook for Live Streamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transcribe-speaking-to-writing-free-of-charge/"><u>[Updated] Transcribe Speaking to Writing Free of Charge</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-boosting-virtual-engagement-how-to-incorporate-filters-in-zoom/"><u>2024 Approved Boosting Virtual Engagement How to Incorporate Filters in Zoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-using-telegram-web-effectively/"><u>2024 Approved The Ultimate Guide to Using Telegram Web Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-20-pubg-photo-mashups-without-copyrights/"><u>2024 Approved Ultimate 20 PUBG Photo Mashups, Without Copyrights</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/accessing-windows-11-using-your-microsoft-365-business-account-benefits-and-step-by-step-guide/"><u>Accessing Windows 11 Using Your Microsoft 365 Business Account: Benefits and Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/breaking-the-cycle-why-taking-breaks-is-essential-for-mental-health/"><u>Breaking the Cycle: Why Taking Breaks Is Essential for Mental Health</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dvdhandbrake/"><u>DVD抽出手順：HandBrakeの使い方ガイド</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-screensnap-sage-mastering-captures-technology/"><u>In 2024, ScreenSnap Sage Mastering Captures Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-expertise-within-polarrs-photography-suite/"><u>In 2024, Unraveling the Expertise Within Polarr’s Photography Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-of-powerful-titles/"><u>In 2024, Unveiling the Secrets of Powerful Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-inshot-the-best-video-editing-app-our-in-depth-review-for-2024/"><u>Is InShot the Best Video Editing App? Our In-Depth Review for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-wont-open-master-these-essential-troubleshooting-steps-for-windows-users/"><u>Valorant Won't Open? Master These Essential Troubleshooting Steps for Windows Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/winning-strategies-elevating-win11-zoom-experience-for-2024/"><u>Winning Strategies Elevating Win11 Zoom Experience for 2024</u></a></li>
+</ul></div>
+

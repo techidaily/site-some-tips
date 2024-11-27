@@ -1,7 +1,7 @@
 ---
 title: Ubuntu Linux Core Update 24 Marks Significant Advancement in IoT & Edge Computing - ZDNet Insights
-date: 2024-09-18 18:52:11
-updated: 2024-09-20 10:22:40
+date: 2024-11-26T02:26:52.644Z
+updated: 2024-11-26T22:12:42.298Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-flight-in-depth-analysis-of-dji-phantom-4/"><u>[New] Unveiling Flight In-Depth Analysis of DJI Phantom 4</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-amped-arcs-and-zigzags-in-olympic-speed/"><u>2024 Approved Amped Arcs & Zigzags in Olympic Speed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-pdf-visual-improvements/"><u>2024 Approved Top-Tier PDF Visual Improvements</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp3ogg-movavi/"><u>網路上免費MP3到OGG格式的轉換 - 利用Movavi音頻編輯工具</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoiding-pitfalls-common-mistakes-in-instagram-filmmaking/"><u>Avoiding Pitfalls Common Mistakes in Instagram Filmmaking</u></a></li>
+<li><a href="https://fox-http.techidaily.com/combining-youtube-harmonies-in-moving-images-for-2024/"><u>Combining YouTube Harmonies in Moving Images for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-digital-landscape-with-facebook-twitter-instagram-and-youtube/"><u>Exploring the Digital Landscape with Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761464-9781604078336-free-your-voice/"><u>Free Your Voice | Free Book</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-6s-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 6s - 4 Easy Ways</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-creators-vs-youtubes-profit-policies/"><u>In 2024, Creators Vs. YouTube's Profit Policies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-audio-capture-methods-in-windows-11-operating-system/"><u>In 2024, Top 5 Audio Capture Methods in Windows 11 Operating System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techniques-for-softening-volume-in-logic-pro-mixing-for-2024/"><u>Techniques for Softening Volume in Logic Pro Mixing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-most-reliable-and-affordable-passport-photo-makers-ranked-for-2024/"><u>The Most Reliable and Affordable Passport Photo Makers Ranked for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-secret-pathway-to-premium-pristine-pictures-for-2024/"><u>The Secret Pathway to Premium, Pristine Pictures for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tips-for-meme-magic-with-kinemaster-for-2024/"><u>Top Tips for Meme Magic with KineMaster for 2024</u></a></li>
+</ul></div>
+

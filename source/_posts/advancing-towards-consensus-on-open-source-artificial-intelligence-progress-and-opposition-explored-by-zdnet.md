@@ -1,7 +1,7 @@
 ---
 title: "Advancing Towards Consensus on Open-Source Artificial Intelligence: Progress and Opposition Explored by ZDNet"
-date: 2024-09-17 17:47:55
-updated: 2024-09-20 12:50:15
+date: 2024-11-20T18:42:07.302Z
+updated: 2024-11-26T21:18:58.000Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -123,6 +139,10 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-checklist-for-successful-reddit-threads/"><u>[New] The Ultimate Checklist for Successful Reddit Threads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nraveling-post-upload-functionality-in-youtube-videos-for-2024/"><u>[New] Unraveling Post-Upload Functionality in YouTube Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-sharpened-focus-on-squares-creating-striking-imovie-content-for-instagram/"><u>[Updated] 2024 Approved Sharpened Focus on Squares Creating Striking iMovie Content for Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superfast-windows-images-scaner/"><u>[Updated] Superfast Windows Images Scaner</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-full-picture-of-ustream-and-analogous-services/"><u>[Updated] The Full Picture of Ustream & Analogous Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-leaderboard-of-first-zeoid-innovations/"><u>[Updated] The Leaderboard of First Zeoid Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-filmmakers-edge-mastering-kinemasters-zoom-functionality/"><u>2024 Approved The Filmmaker's Edge Mastering Kinemaster's Zoom Functionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-guidelines-for-breaking-through-cover-art/"><u>2024 Approved Top 10 Guidelines for Breaking Through Cover Art</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/ssdps34/"><u>如何在新SSD上輕鬆移植PS3/4系統硬碟</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/a-user-friendly-guide-to-efficiently-use-ez-grabber/"><u>A User-Friendly Guide to Efficiently Use EZ Grabber</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-14-pro-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone 14 Pro Activation Lock</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-honor-90-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Honor 90 Phones</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-the-art-of-filter-and-music-integration-in-windows-10-photos/"><u>Mastering the Art of Filter & Music Integration in Windows 10 Photos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/prime-choices-cheap-pc-capture-software-listed-for-2024/"><u>Prime Choices Cheap PC Capture Software Listed for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spoken-bliss-us-liberty-celebrations/"><u>Spoken Bliss: U.S. Liberty Celebrations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fast-track-to-hot-photos-on-pexels-for-2024/"><u>The Fast Track to Hot Photos on Pexels for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-techniques-from-video-to-audio-downloads-on-pinterest-for-2024/"><u>Ultimate Techniques From Video to Audio Downloads on Pinterest for 2024</u></a></li>
+</ul></div>
+

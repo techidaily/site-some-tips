@@ -1,7 +1,7 @@
 ---
 title: "Navigating Artificial Intelligence with Open Source: The Path to Innovation - Insights From ZDNet"
-date: 2024-09-19 13:27:16
-updated: 2024-09-20 11:37:12
+date: 2024-11-20T16:53:51.595Z
+updated: 2024-11-27T04:54:14.211Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +80,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-quickest-online-platforms-transforming-gif-into-video/"><u>[Updated] In 2024, Quickest Online Platforms Transforming GIF Into Video</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-simple-screen-recorder-for-windows-10-download/"><u>[Updated] In 2024, Simple Screen Recorder for Windows 10 Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-audio-content-with-googles-tools/"><u>[Updated] Streamline Your Audio Content with Google’s Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tiny-tale-telling-framework/"><u>[Updated] Tiny Tale Telling Framework</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725285007263-winx-dvd-ripper-platinum/"><u>「特集: スケールアウト価格のWinX DVD Ripper Platinum入手コツ」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-pc-audio-with-simple-techniques/"><u>2024 Approved Streamline Your PC Audio with Simple Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-ideal-aspect-ratio-for-video-content/"><u>2024 Approved Unveiling the Ideal Aspect Ratio for Video Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-the-eus-digital-strategy-the-potential-impact-on-chatgpt-technology/"><u>Dissecting the EU's Digital Strategy: The Potential Impact on ChatGPT Technology</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy A15 4G?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-k70e-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi K70E to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2022-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2022) without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-must-try-tiktok-video-ideas-drawing-from-anime-worlds/"><u>In 2024, Must-Try TikTok Video Ideas Drawing From Anime Worlds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-free-melodies-for-deep-meditation-and-inner-peace/"><u>In 2024, Top 10 Free Melodies for Deep Meditation and Inner Peace</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-data-retrieval-tool-restore-lost-data-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-data/"><u>Motorola Data Retrieval tool – restore lost data from Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ae-text-configurations-from-basics-to-brilliance-for-2024/"><u>Top AE Text Configurations From Basics to Brilliance for 2024</u></a></li>
+</ul></div>
+

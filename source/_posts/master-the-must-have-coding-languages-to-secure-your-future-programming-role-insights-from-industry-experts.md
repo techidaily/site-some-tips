@@ -1,7 +1,7 @@
 ---
 title: Master the Must-Have Coding Languages to Secure Your Future Programming Role - Insights From Industry Experts.
-date: 2024-09-17 10:52:47
-updated: 2024-09-20 11:30:47
+date: 2024-11-22T18:00:27.952Z
+updated: 2024-11-27T03:56:25.759Z
 tags:
   - developer
 categories:
@@ -81,6 +81,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -93,6 +97,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +111,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +122,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-ideal-titles-superior-blu-ray-players-for-free-and-paid-users/"><u>[New] In 2024, Ideal Titles Superior Blu-Ray Players for Free and Paid Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-vlc-features-in-mac-os/"><u>[New] The Ultimate Guide to VLC Features in Mac OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transformative-visuals-the-pixiz-process-for-photo-video-fusion/"><u>[New] Transformative Visuals The Pixiz Process for Photo-Video Fusion</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-inside-look-a-detailed-review-of-the-android-lightroom-app/"><u>[Updated] In 2024, Inside Look A Detailed Review of the Android Lightroom App</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-snapchat-soundscapes-full-playback-no-missed-beats/"><u>[Updated] Snapchat Soundscapes Full Playback, No Missed Beats</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-sprint-to-quicker-vimeo-streams-for-2024/"><u>[Updated] Sprint to Quicker Vimeo Streams for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-skills-sharpen-your-windows-images/"><u>[Updated] Swift Skills Sharpen Your Windows Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-for-harnessing-free-visual-content-creatively/"><u>[Updated] Tips for Harnessing Free Visual Content Creatively</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-with-color-a-complete-look-at-ps-3d-luts/"><u>2024 Approved Innovating with Color A Complete Look at PS 3D LUTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-affordable-asmr-experience-awaits/"><u>2024 Approved The Ultimate Affordable ASMR Experience Awaits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-its-limitations-in-accurate-text-condensation-seek-better-options/"><u>ChatGPT and Its Limitations in Accurate Text Condensation: Seek Better Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-iphones-should-you-upgrade-to-the-apple-iphone-16-from-an-older-base-model-expert-tips/"><u>Comparing iPhones: Should You Upgrade to the Apple iPhone 16 From an Older Base Model? Expert Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-drone-vr-integration-guide/"><u>In 2024, Ultimate Drone-VR Integration Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-release-killer-wireless-vulnerabilities-patched-in-driver-v1535-how-to-download-safely/"><u>Latest Release: Killer Wireless Vulnerabilities Patched in Driver v1535 – How to Download Safely</u></a></li>
+</ul></div>
+

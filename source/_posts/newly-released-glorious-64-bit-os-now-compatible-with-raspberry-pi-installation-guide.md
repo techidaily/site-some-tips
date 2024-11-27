@@ -1,7 +1,7 @@
 ---
 title: Newly Released Glorious 64-Bit OS Now Compatible with Raspberry Pi - Installation Guide
-date: 2024-09-17 10:49:47
-updated: 2024-09-20 10:22:56
+date: 2024-11-21T22:17:01.710Z
+updated: 2024-11-26T21:01:01.057Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-guide-to-the-top-youtube-video-editors/"><u>[New] Ultimate Guide to the Top YouTube Video Editors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-use-a-tripod-for-vlogging/"><u>[Updated] 2024 Approved How To Use a Tripod for Vlogging</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-tips-for-obs-and-facebook-integration-for-2024/"><u>[Updated] Expert Tips for OBS and Facebook Integration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-transferring-tunes-between-platforms/"><u>[Updated] The Art of Transferring Tunes Between Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-secure-cloud-stores-for-your-android-compiled/"><u>2024 Approved Top Secure Cloud Stores for Your Android - Compiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-images-basic-tips-with-lunapic/"><u>2024 Approved Transform Your Images Basic Tips with LunaPic</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-tecno-camon-20-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Tecno Camon 20 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-syncing-zoom-to-your-calendar-on-iphoneandroiddesktop/"><u>In 2024, Syncing Zoom to Your Calendar on iPhone/Android/Desktop</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtubes-guide-to-the-best-gaming-tech/"><u>In 2024, YouTube's Guide to the Best Gaming Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/lowering-edges-cpu-load-a-user-guide/"><u>Lowering Edge's CPU Load: A User Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage-for-2024/"><u>Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/text-temporal-tinkering-tools-for-2024/"><u>Text Temporal Tinkering Tools for 2024</u></a></li>
+</ul></div>
+

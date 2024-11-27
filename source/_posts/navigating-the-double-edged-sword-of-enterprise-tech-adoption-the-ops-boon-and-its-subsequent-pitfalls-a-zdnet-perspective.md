@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Double-Edged Sword of Enterprise Tech Adoption: The Ops Boon and Its Subsequent Pitfalls - A ZDNET Perspective"
-date: 2024-09-19 16:46:24
-updated: 2024-09-20 10:43:38
+date: 2024-11-24T02:57:55.586Z
+updated: 2024-11-27T01:31:09.891Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,6 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +65,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +78,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-4k-uxga-reality-check-detailed-review-of-asus-mg28uq/"><u>[New] 2024 Approved 4K UXGA Reality Check - Detailed Review of ASUS MG28UQ</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mastering-youtube-titulos-con-algoritmos/"><u>[New] 2024 Approved Mastering YouTube Títulos Con Algoritmos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-guide-to-find-youtube-hidden-videos-for-2024/"><u>[New] Step-By-Step Guide to Find YouTube Hidden Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-choice-of-steadicams-for-drone-video-shootings/"><u>[New] Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-breakdown-xstudio-video-production-mastery/"><u>[New] The Ultimate Breakdown XStudio Video Production Mastery</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-undisclosed-snaps-secrets-to-unseen-image-recording-on-snapchat-app/"><u>[New] Undisclosed Snaps Secrets to Unseen Image Recording on Snapchat App</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-step-by-step-minecraft-video-editing-process/"><u>[Updated] In 2024, Step-by-Step Minecraft Video Editing Process</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-lg-360-degree-headset-review-next-gen-immersion/"><u>[Updated] LG 360-Degree Headset Review - Next-Gen Immersion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-viral-click-title-genie/"><u>2024 Approved Ultimate Viral Click Title Genie</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-from-novice-to-proficient-the-path-with-zoom-webinars/"><u>In 2024, From Novice to Proficient The Path with Zoom Webinars</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-swift-transition-the-ultimate-guide-to-sierra-on-macs/"><u>In 2024, Swift Transition The Ultimate Guide to Sierra on Macs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-potential-of-audience-feedback-on-youtube/"><u>In 2024, Unlock the Potential of Audience Feedback on YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-note-13-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi Note 13 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snag-a-discounted-2nd-generation-apple-pencil-at-only-95-limited-time-labor-day-sale-on-techradar/"><u>Snag a Discounted 2Nd Generation Apple Pencil at Only $95 - Limited Time Labor Day Sale on TechRadar</u></a></li>
+</ul></div>
+

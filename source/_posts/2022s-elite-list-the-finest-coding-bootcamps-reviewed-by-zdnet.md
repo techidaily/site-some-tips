@@ -1,7 +1,7 @@
 ---
 title: "2022'S Elite List: The Finest Coding Bootcamps Reviewed by ZDNet"
-date: 2024-09-18 10:20:39
-updated: 2024-09-20 10:36:23
+date: 2024-11-20T18:15:51.439Z
+updated: 2024-11-26T21:23:11.539Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-simplified-installation-dive-into-ifunnys-meme-world/"><u>[New] 2024 Approved Simplified Installation Dive Into iFunny's Meme World</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-dive-into-the-world-of-lengthened-images-with-iphone-for-2024/"><u>[New] Dive Into the World of Lengthened Images with iPhone for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-optimal-video-chat-on-windows-1-8/"><u>[New] In 2024, Optimal Video Chat on Windows #1-8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-quality-recordings-the-1-to-18-camera-list/"><u>[New] Superior Quality Recordings - The #1 to #18 Camera List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-premier-top-ten-creative-av-media-maker-directory/"><u>[New] The Premier Top-Ten Creative Av Media Maker Directory</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-exclusive-play-on-apex-how-to-turn-off-cross-platform-mode-for-2024/"><u>[Updated] Exclusive Play on Apex How to Turn Off Cross-Platform Mode for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-cinematographer-secrets-for-exceptional-visuals/"><u>[Updated] Top Cinematographer Secrets for Exceptional Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-livestreams-with-eco-friendly-screen-effects/"><u>2024 Approved Transform Your Livestreams with Eco-Friendly Screen Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-world-through-360-degree-fisheye-imaging/"><u>2024 Approved Unlocking the World Through 360 Degree Fisheye Imaging</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-of-the-line-messaging-app/"><u>In-Depth Analysis of the Line Messaging App</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818022153-optimize-win10s-vision-upgrade-intel-graphic-drivers-today/"><u>Optimize Win10's Vision: Upgrade Intel Graphic Drivers Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-your-browsing-a-guide-to-the-best-auto-clicker-tools-for-android-phones/"><u>Streamline Your Browsing: A Guide to the Best Auto-Clicker Tools for Android Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolved-sony-bdp-s6700-unveiled-for-2024/"><u>The Evolved Sony BDP-S6700 Unveiled for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Crafting Your Path to Success in Tech: Stories and Strategies From a Prominent Player in the International Aerospace Sector"
-date: 2024-09-19 16:34:51
-updated: 2024-09-20 12:36:27
+date: 2024-11-21T17:05:53.346Z
+updated: 2024-11-26T22:51:23.242Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-streamline-recorder-quality-test-for-2024/"><u>[New] StreamLine Recorder Quality Test for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tune-into-unparalleled-music-video-watching-best-android-vids-for-you/"><u>[New] Tune Into Unparalleled Music Video Watching Best Android Vids for You</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-summit-of-synergy-for-vr-sensations/"><u>2024 Approved Summit of Synergy for VR Sensations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-time-efficient-ways-to-wipe-out-ssgnature-backdrops/"><u>2024 Approved Time-Efficient Ways to Wipe Out Ssgnature Backdrops</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-impact-of-leading-social-sites-a-comparison-between-facebook-twitter-instagram-and-youtube/"><u>Exploring the Impact of Leading Social Sites: A Comparison Between Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-c67-4g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme C67 4G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-imovie-video-trimming/"><u>In 2024, Understanding iMovie Video Trimming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-verdant-visualizations-compiling-30plus-free-screen-templates-for-videographers/"><u>In 2024, Verdant Visualizations Compiling 30+ Free Screen Templates for Videographers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-outage-at-networking-interface/"><u>Resolved: Outage at Networking Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/salvaging-silenced-chatgpt-tracks/"><u>Salvaging Silenced ChatGPT Tracks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-combining-your-favorite-songs-into-one-master-spotify-list/"><u>Ultimate Guide: Combining Your Favorite Songs Into One Master Spotify List</u></a></li>
+</ul></div>
+

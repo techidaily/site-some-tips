@@ -1,7 +1,7 @@
 ---
 title: "Automattic Expands Footprint by Acquiring Beeper: A Glimpse Into Their Grand Vision for Enhanced Messaging"
-date: 2024-11-15T02:59:27.231Z
-updated: 2024-11-17T08:53:55.847Z
+date: 2024-11-24T20:12:23.388Z
+updated: 2024-11-27T04:11:03.161Z
 tags:
   - apple
 categories:
@@ -25,6 +25,10 @@ In this article, I'll talk about that use case -- and why VPNs are so important 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The killer app for XR (2024 edition)
 
@@ -59,10 +63,7 @@ Sure, there are many other uses for XR. ZDNET editor-in-chief [Jason Hiner loves
 I would argue that using XR while traveling or living in a small space is, however, the first killer app for these types of devices. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The obvious necessity of a VPN
@@ -80,10 +81,7 @@ Worse, those connections are often shared, and there's a fair chance someone mig
 The primary protection for those who need to travel and go online is using a VPN to encrypt traffic as it leaves your computing device. Some companies require employees to connect to their corporate networks over a VPN for similar reasons. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use a VPN with an XR headset
@@ -111,10 +109,7 @@ Virtual Dude also recommends sideloading an app that lets you sideload Android a
 That said, Virtual Dude's video is a proof of concept that VPNs can work on XR devices like the Quest. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Give it some time
@@ -166,24 +161,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-leading-5-goggles-for-optimal-drone-pilot-viewing/"><u>[New] 2024 Approved Leading 5 Goggles for Optimal Drone Pilot Viewing</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-path-to-efficient-workflow-learning-voice-to-text-conversion-in-ms-word/"><u>[New] In 2024, The Path to Efficient Workflow Learning Voice-to-Text Conversion in MS Word</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-ps2-replay-on-android-devices-top-picks/"><u>[Updated] 2024 Approved Mastering PS2 Replay on Android Devices - Top Picks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-6-cool-minecraft-house-ideas-for-2024/"><u>[Updated] Top 6 Cool Minecraft House Ideas for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-news.techidaily.com/abbyy-abbyy-effektiv-steigerung-sicherheit-verringerung-betrug-und-beschleunigung-des-kunden-onboards-durch-innovative-identitatsprufung/"><u>AbbyY ABBYY: Effektiv Steigerung Sicherheit, Verringerung Betrug Und Beschleunigung Des Kunden-Onboards Durch Innovative Identitätsprüfung</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyys-latest-sdk-revolutionizes-receipt-digitization-with-cutting-edge-features/"><u>ABBYY's Latest SDK Revolutionizes Receipt Digitization with Cutting-Edge Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/adrian-jones-appointed-as-new-chief-revenue-officer-at-abbyy/"><u>Adrian Jones Appointed as New Chief Revenue Officer at ABBYY</u></a></li>
-<li><a href="https://some-tips.techidaily.com/advanced-analytics-driven-by-innovative-cookiebot-solutions/"><u>Advanced Analytics Driven by Innovative Cookiebot Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-your-site-with-cookiebot-technology-a-comprehensive-tracking-solution/"><u>Boost Your Site with Cookiebot Technology - A Comprehensive Tracking Solution</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-boosting-user-engagement-and-analytics/"><u>Cookiebot-Driven Personalization: Boosting User Engagement and Analytics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-site-optimization-elevate-your-seo-game/"><u>Cookiebot-Driven Site Optimization: Elevate Your SEO Game</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-sites-enhance-user-experience-and-track-visitors-effectively/"><u>Cookiebot-Enabled Sites: Enhance User Experience & Track Visitors Effectively</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-user-tracking-and-analytics/"><u>Cookiebot-Enabled User Tracking & Analytics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhancing-user-experience-with-smart-tracking-solutions/"><u>Cookiebot-Enabled: Enhancing User Experience with Smart Tracking Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-making-an-easy-appointment-at-your-local-apple-store-today/"><u>DIY: Making an Easy Appointment at Your Local Apple Store Today</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-txt-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .txt file electronically</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95866140-9780316522021-meditation-is-not-what-you-think/"><u>Meditation Is Not What You Think | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/openais-shap-e-unveiled-a-comprehensive-overview-of-its-role-in-explainable-ai/"><u>OpenAI's SHAP-E Unveiled: A Comprehensive Overview of Its Role in Explainable AI</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-pro-techs-picks-the-most-excellent-screen-recorder-apps-for-2024/"><u>[New] Pro Tech's Picks The Most Excellent Screen Recorder Apps for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-economical-enthusiasts-guide-to-game-recording-for-2024/"><u>[New] The Economical Enthusiast's Guide to Game Recording for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-iphone-apps-for-daily-podcasts/"><u>[New] Top 5 iPhone Apps for Daily Podcasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-best-mirrorless-cams-top-picks-for-your-next-vlog-project-for-2024/"><u>[Updated] The Best Mirrorless Cams Top Picks for Your Next Vlog Project for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-virtual-potential-with-kinemasters-latest-android-release/"><u>[Updated] Unlocking Virtual Potential with KineMaster's Latest Android Release</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unrivaled-sonic-union-for-speakers/"><u>[Updated] Unrivaled Sonic Union for Speakers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-htcs-masterpiece-in-vr-the-immersive-experience/"><u>2024 Approved HTC's Masterpiece in VR The Immersive Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-effective-interview-techniques/"><u>2024 Approved Mastering The Art Of Effective Interview Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-path-to-subtle-iphone-shots-4-essential-techniques-discovered/"><u>2024 Approved The Path to Subtle iPhone Shots 4 Essential Techniques Discovered</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-iphones-full-screen-memories/"><u>2024 Approved Utilizing iPhone's Full-Screen Memories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-voice-maestros-toolkit-free-applications-to-enrich-your-auditory-palette/"><u>In 2024, The Voice Maestro's Toolkit Free Applications to Enrich Your Auditory Palette</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-stock-image-memes-real-life-narratives/"><u>In 2024, Top 10 Stock Image Memes Real Life Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-musical-talent-with-magix-studio/"><u>In 2024, Unleashing Musical Talent with Magix Studio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-pip-in-chrome-for-every-os-for-2024/"><u>Navigating PIP in Chrome for Every OS for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-premier-virtual-communities-where-strangers-become-friends/"><u>New 2024 Approved The Premier Virtual Communities Where Strangers Become Friends</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Avoid Panic! Learn How to Manage 60 Weekly Linux Security Vulnerabilities as Explained by ZDNet Experts
-date: 2024-09-18 17:55:32
-updated: 2024-09-20 12:40:54
+date: 2024-11-25T03:21:29.017Z
+updated: 2024-11-27T03:09:30.997Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-digital-clarity-the-1-tools-for-clearing-up-photos-on-screen/"><u>[New] 2024 Approved Digital Clarity The #1 Tools for Clearing Up Photos on Screen</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/electing-gear-for-youtube-a-filmmakers-essentials-for-2024/"><u>[New] Selecting Gear for YouTube A Filmmaker's Essentials for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-video-tweaking-apps-for-social-networking/"><u>[New] Top 5 Video Tweaking Apps for Social Networking</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-cropping-and-focus-mastery/"><u>[Updated] Advanced Cropping and Focus Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-economical-high-performance-asmr-microphones/"><u>[Updated] Ultimate Guide to Economical, High-Performance ASMR Microphones</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-efficient-storage-of-androidmac-snaps-for-longevity/"><u>In 2024, Efficient Storage of Android/Mac Snaps for Longevity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-inside-the-speech-of-cyberspace-must-know-vr-terms/"><u>In 2024, Inside the Speech of Cyberspace Must-Know VR Terms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-authoritative-periscope-users-bible/"><u>In 2024, The Authoritative Periscope User's Bible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-blueprint-for-obtaining-premium-visuals-for-free-for-2024/"><u>The Essential Blueprint for Obtaining Premium Visuals for Free for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-20-ae-templates-for-aspiring-designers-for-2024/"><u>Top 20 AE Templates for Aspiring Designers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-camon-20-premier-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Camon 20 Premier 5G? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
+

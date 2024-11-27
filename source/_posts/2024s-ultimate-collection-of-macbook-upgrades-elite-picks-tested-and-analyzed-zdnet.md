@@ -1,7 +1,7 @@
 ---
 title: "2024'S Ultimate Collection of MacBook Upgrades: Elite Picks Tested & Analyzed | ZDNET"
-date: 2024-11-15T23:45:04.157Z
-updated: 2024-11-16T23:42:34.408Z
+date: 2024-11-24T22:34:29.651Z
+updated: 2024-11-27T02:26:05.347Z
 tags:
   - apple
 categories:
@@ -46,10 +46,7 @@ Cons
 * May be too large for small wrists
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Watch Ultra 2
@@ -143,13 +140,14 @@ Pros
 Cons 
 * Expensive
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Garmin Venu 3S
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best waterproof Garmin smartwatch for most people
@@ -177,13 +175,6 @@ Pros
 
 Cons 
 * Large display is likely to consumer more battery power
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Samsung Galaxy Watch 6 Classic
 
@@ -217,10 +208,7 @@ Cons
 * Limited notification and app support
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Coros Apex 2 Pro
@@ -255,14 +243,11 @@ Cons
 * Questionable heart rate readings
 * One size available
 
-## Suunto Race
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Suunto Race
 
 ### Best waterproof smartwatch with lap counter
 
@@ -277,13 +262,6 @@ Other data such as sleep tracking, HRV measurements, training load, and recovery
 **Suunto Race tech** **specs:** **Display:** 1.43-inch 466 x 466 pixels AMOLED| **Battery life:** 30 days | **Dimensions:** 49 x 49 x 13.3 mm | **Weight:** 69 grams | **Water resistance:** 100 meters | **LTE Cellular option:** No
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the best waterproof smartwatch?
 
@@ -300,13 +278,6 @@ If you're an Android user, you may prefer a Samsung Galaxy 6 Classic -- the newe
 | Samsung Galaxy Watch 6 Classic | $400      | 40 hours         | 43mm and 47mm      |
 | Coros Apex 2 Pro               | $450      | 14 days          | 46.1mm             |
 | Suunto Race                    | $450      | 12 days          | 49mm               |
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which is the right waterproof smartwatch for you?
 
@@ -326,13 +297,6 @@ However, finding the best waterproof smartwatch for you can be more complicated,
 | Coros Apex 2 Pro               | A watch with a very long battery life that relieves you of any battery anxiety. It is also smaller so less of an issue while swimming, surfing, or paddling.                                                                                                                                     |
 | Suunto Race                    | A powerful watch that tracks your laps, surfing metrics, and has a long battery life. Your sleep and other health metrics are also captured with the AI coach providing guidance for optimal performance.                                                                                        |
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Factors to consider when buying a smartwatch
 
 Smartwatches serve as companions to our smartphones, and there are several things to consider as you explore the many options available to you. Several factors will help you quickly narrow down available candidates, so let's take a closer look and help you select the best smartwatch for you.
@@ -351,11 +315,19 @@ All of the smartwatches included in this list were chosen based on how they perf
 * **Workouts**: Smartwatch makers have embraced health and fitness so we take our smartwatch out for swimming in the pool or local lakes, running with GPS, rowing on the Hydrow, biking on trails, and walking with the family. GPS and heart rate data is tracked and then we evaluate the accuracy against proven GPS sports watches.
 * **Sleep and activity tracking:** Sleep tracking has improved with smartwatches over time and we evaluate them as compared to smart rings and other watches. Night time is also a good time to charge your smartwatch so you may choose not to use your watch to track sleep so your watch can serve faithfully all day and into the night.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can you use a Samsung or Google watch with an iPhone?
 
 Google Wear OS watches used to work with both Android and iPhone devices, but the new Wear OS 4 and later watches from Samsung and Google only support Android smartphones. iPhone users should stick with the Apple Watch, while Android phone users should seriously consider a Google Pixel Watch or Samsung Galaxy Watch model.
 
 Garmin, Coros, and Suunto watches work flawlessly with both Android and iPhone devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I text from a smartwatch?
 
@@ -363,11 +335,19 @@ You absolutely can! However, most of their screens are too small to type on, so 
 
 Garmin watches support quick-response text messaging via a connected Android smartphone. Apple restricts third-party text messaging on the iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can you use a cellular Apple Watch as a standalone device?
 
 While you can leave your iPhone at home while you run, go to the store, or stroll on the beach, you must have an iPhone turned on and connected to the internet at this other location. This is one reason why connecting to an iPhone and switching to an Android makes the Apple Watch useless with an Android phone.
 
 After initial setup, a cellular-enabled Samsung Galaxy Watch can act as a stand-alone mobile device. With the latest Galaxy Watch 6 or Watch 5 Pro running Wear OS powered by Samsung, many more apps can be used on the go, so you can leave the phone behind in most cases.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the hot new features in the latest smartwatches?
 
@@ -423,24 +403,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-vanguard-wearables-for-sporting-captures/"><u>[New] 2024 Approved Vanguard Wearables for Sporting Captures</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-audio-player-insights-and-critiques/"><u>[Updated] In 2024, Audio Player Insights & Critiques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-smile-sourcebook-event-specific-memetic-delights/"><u>[Updated] Smile Sourcebook Event-Specific Memetic Delights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-80s-effects-compendium-for-professional-editors/"><u>2024 Approved Top 80S Effects Compendium for Professional Editors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unearthed-30-window-11-insider-strategies-to-boost-performance/"><u>2024 Approved Unearthed 30 Window 11 Insider Strategies to Boost Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/definitive-guide-to-the-strongest-ssd-cooling-tech-t-force-dark-airflow-i-by-teamgroup/"><u>Definitive Guide to the Strongest SSD Cooling Tech - T-Force Dark AirFlow I by TeamGroup</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-picks-ultimate-guide-to-the-best-compact-solar-chargers-pcmag/"><u>Expert Picks: Ultimate Guide to the Best Compact Solar Chargers | PCMag</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-compatibility-nightmares-in-windows-without-troubleshooting-tools/"><u>Fix Compatibility Nightmares in Windows without Troubleshooting Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975062431-get-your-samsung-devices-official-adb-drivers-here/"><u>Get Your Samsung Device's Official ADB Drivers Here</u></a></li>
-<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-black-illusion-vs-silver-miracle/"><u>In 2024, The Black Illusion Vs Silver Miracle</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tiktok-downloading-the-blueprint-for-mass-media-capture/"><u>In 2024, TikTok Downloading The Blueprint for Mass Media Capture</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-utilities-free-and-paid-macpc-bd-software-compared/"><u>In 2024, Ultimate Utilities Free & Paid Mac/PC BD Software Compared</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/join-the-elite-gamers-club-get-your-hands-on-an-nzxt-desktop-packed-with-intel-i5-gtx-amoled-4060-for-a-steal-at-59month/"><u>Join the Elite Gamers' Club: Get Your Hands on an NZXT Desktop Packed With Intel I5, GTX Amoled 4060 For a Steal at $59/Month</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamline-your-memories-on-ios-organized-albums-and-efficient-icloud-synchronization-for-2024/"><u>Streamline Your Memories on iOS Organized Albums & Efficient iCloud Synchronization for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tech-enthusiasts-create-ultimate-pc-with-integrated-coffee-roaster-and-grinder-inside/"><u>Tech Enthusiasts Create Ultimate PC with Integrated Coffee Roaster & Grinder Inside</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-superior-slow-motion-quality-through-fps-selection-for-2024/"><u>Unlocking Superior Slow Motion Quality Through FPS Selection for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-of-youtube-video-comments-for-2024/"><u>Unlocking the Secrets of YouTube Video Comments for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-beat-matchers-playlist-selecting-flawless-dj-videos/"><u>[New] 2024 Approved Beat Matcher's Playlist Selecting Flawless DJ Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streaming-wars-the-top-10-platforms-ranked-and-compared/"><u>[New] Streaming Wars The Top 10 Platforms Ranked and Compared</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-essential-tutorial-for-fb-video-production-for-2024/"><u>[New] The Essential Tutorial for FB Video Production for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-four-pioneering-methods-to-record-teaching-sessions-on-apple-devices/"><u>[Updated] Four Pioneering Methods to Record Teaching Sessions on Apple Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-magic-v2-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor Magic V2</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gif-ing-up-your-insta-comments-a-step-by-step-tutorial-for-visual-chat/"><u>GIF-Ing Up Your Insta Comments: A Step-by-Step Tutorial for Visual Chat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-choose-the-background-music-for-the-trailer-for-2024/"><u>How to Choose the Background Music for the Trailer for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-becoming-an-unboxing-star-strategies-for-viral-engaging-tiktok-videos/"><u>In 2024, Becoming an Unboxing Star Strategies for Viral, Engaging TikTok Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-conventional-to-cutting-edge-the-shift-from-rgb-to-srgb/"><u>In 2024, From Conventional to Cutting-Edge The Shift From Rgb to Srgb</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-science-of-motion-without-contact/"><u>In 2024, Unraveling the Science of Motion Without Contact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/studio-masterclass-in-depth-xvideostudio-report-for-2024/"><u>Studio Masterclass In-Depth XVideoStudio Report for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-artists-guide-to-dynamic-palette-alteration-for-2024/"><u>The Artist's Guide to Dynamic Palette Alteration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-and-tricks-exchanging-images-and-videos-on-apple-devices-for-2024/"><u>Tips & Tricks Exchanging Images & Videos on Apple Devices for 2024</u></a></li>
 </ul></div>
 

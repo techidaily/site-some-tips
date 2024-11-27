@@ -1,7 +1,7 @@
 ---
 title: "Organizing Chaos: A Comprehensive Guide to Streamlining Linux & Open Source Documentation"
-date: 2024-09-18 22:59:54
-updated: 2024-09-20 10:28:27
+date: 2024-11-24T01:40:05.087Z
+updated: 2024-11-27T04:19:33.327Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-ten-steps-to-keeping-vr-healthy/"><u>[New] Ten Steps to Keeping VR Healthy</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unlock-fast-video-trimming-in-windows-11-apps/"><u>[Updated] 2024 Approved Unlock Fast Video Trimming in Windows 11 Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-take-your-imagery-to-new-heights-photoshops-3d-text-technique/"><u>[Updated] Take Your Imagery to New Heights Photoshop’s 3D Text Technique</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-5-pro-drone-selections-for-professionals/"><u>2024 Approved Top 5 Pro Drone Selections for Professionals</u></a></li>
+<li><a href="https://facebook.techidaily.com/expert-tips-for-bypassing-unwanted-social-media-offers/"><u>Expert Tips for Bypassing Unwanted Social Media Offers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-tecno-spark-20-proplus-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Tecno Spark 20 Pro+ Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-list-of-top-vector-stock-portals/"><u>In 2024, The Expert's List of Top Vector Stock Portals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-perfect-pairing-of-xbox-and-zooming-techniques-for-gaming-for-2024/"><u>The Perfect Pairing of Xbox and Zooming Techniques for Gaming for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-checklist-for-top-notch-fb-cover-videos/"><u>The Ultimate Checklist for Top-Notch FB Cover Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208197229-troubleshooting-guide-usb-reconnection-issues-solved/"><u>Troubleshooting Guide: USB Reconnection Issues Solved</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-non-detected-usb-peripherals-in-windows-11-explained/"><u>Troubleshooting Non-Detected USB Peripherals in Windows 11 Explained</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unleashing-audio-delights-the-art-of-apple-podcast-download/"><u>Unleashing Audio Delights The Art of Apple Podcast Download</u></a></li>
+</ul></div>
+

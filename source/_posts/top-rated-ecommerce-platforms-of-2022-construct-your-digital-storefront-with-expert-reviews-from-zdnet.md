@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated ECommerce Platforms of 2022: Construct Your Digital Storefront with Expert Reviews From ZDNet"
-date: 2024-09-19 19:21:44
-updated: 2024-09-20 10:10:27
+date: 2024-11-21T19:46:05.396Z
+updated: 2024-11-27T00:10:41.313Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-premium-rate-free-excellence-criteria-for-top-10-lut-tools/"><u>[Updated] Premium-Rate Free Excellence Criteria for Top 10 LUT Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tales-that-echo-through-time-top-8-halls-for-storytellers/"><u>[Updated] Tales That Echo Through Time Top 8 Halls for Storytellers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-hd-encoding-devices-for-live-events/"><u>[Updated] Ultimate HD Encoding Devices for Live Events</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamsmart-beyond-the-dacast-shell/"><u>2024 Approved StreamSmart Beyond the DaCast Shell</u></a></li>
+<li><a href="https://program-issues.techidaily.com/city-builders-dilemma-overcoming-the-challenges-of-cities-skylines-2-pc-stability-and-crash-fixes/"><u>City Builders' Dilemma: Overcoming the Challenges of Cities: Skylines 2 PC Stability and Crash Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delve-into-technology-with-toms-hardware-expertise/"><u>Delve Into Technology with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-visionary-viewing-10-high-res-screens/"><u>In 2024, Visionary Viewing #10 High-Res Screens</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-the-transformation-a-comprehensive-guide-through-each-version-of-openais-groundbreaking-gpt-models/"><u>Inside the Transformation: A Comprehensive Guide Through Each Version of OpenAI's Groundbreaking GPT Models</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-8-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 8 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-networks-fueling-business-innovation-and-growth-for-2024/"><u>Top 6 Networks Fueling Business Innovation and Growth for 2024</u></a></li>
+</ul></div>
+

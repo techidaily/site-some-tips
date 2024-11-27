@@ -1,7 +1,7 @@
 ---
 title: "Essential Trio: Mastering the Top 3 Languages for Landing Your Dream Coding Role - Insights From ZDNet"
-date: 2024-09-18 21:28:36
-updated: 2024-09-20 12:41:21
+date: 2024-11-23T02:09:11.979Z
+updated: 2024-11-27T04:49:01.674Z
 tags:
   - developer
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -81,6 +85,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +100,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-capture-connections-real-time-recordings-for-2024/"><u>[New] Capture Connections Real Time Recordings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-backdrop-change-kit-pixelpioneers-reveal/"><u>[New] Ultimate Backdrop Change Kit PixelPioneer's Reveal</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-command-the-youtube-stage-mastering-visibility-through-tactics/"><u>[Updated] 2024 Approved Command the YouTube Stage Mastering Visibility Through Tactics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-full-screen-recorder-reviews-pcmac-edition/"><u>[Updated] In 2024, Essential Full-Screen Recorder Reviews PC/Mac Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-high-quality-sound-recording-via-audacity/"><u>[Updated] The Art of High-Quality Sound Recording via Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>[Updated] The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unrivaled-screenplays-reflective-of-diverse-themes/"><u>[Updated] Unrivaled Screenplays Reflective of Diverse Themes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-what-are-the-best-sites-to-download-text-effects/"><u>[Updated] What Are The Best Sites To Download Text Effects?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/18-tips-for-free-online-event-streaming-techniques-for-2024/"><u>18 Tips for Free Online Event Streaming Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-criteria-for-choosing-a-premier-streamer-network/"><u>2024 Approved Top 10 Criteria for Choosing a Premier Streamer Network</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-secrets-of-selecting-a-powerful-podcast-name/"><u>2024 Approved Unlocking the Secrets of Selecting a Powerful Podcast Name</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-zero-30-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Zero 30 5G Fingerprint Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/building-and-upgrading-made-easy-by-toms-hardware-wisdom/"><u>Building and Upgrading Made Easy by Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-insights-through-cookiebot-integration-on-your-website/"><u>Enhanced Insights Through Cookiebot Integration on Your Website</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-rainbow-six-siege-connection-problem-expert-tips-and-tricks/"><u>Fixing the Rainbow Six Siege Connection Problem - Expert Tips and Tricks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-online-stop-motion-software-a-comprehensive-review/"><u>In 2024, Best Online Stop Motion Software A Comprehensive Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-leveraging-teamsnap-for-dynamic-virtual-presentations/"><u>In 2024, Leveraging TeamSnap for Dynamic Virtual Presentations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-android-time-lapses-innovations-in-video-capture/"><u>In 2024, The Future of Android Time-Lapses Innovations in Video Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tier-seo-strategies-to-elevate-your-podcast-rankings-for-2024/"><u>Top-Tier SEO Strategies to Elevate Your Podcast Rankings for 2024</u></a></li>
+</ul></div>
+

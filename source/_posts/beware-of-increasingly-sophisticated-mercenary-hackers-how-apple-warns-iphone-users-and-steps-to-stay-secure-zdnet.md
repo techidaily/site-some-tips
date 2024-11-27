@@ -1,7 +1,7 @@
 ---
 title: "Beware of Increasingly Sophisticated Mercenary Hackers: How Apple Warns iPhone Users & Steps to Stay Secure | ZDNET"
-date: 2024-11-13T23:37:02.847Z
-updated: 2024-11-17T07:25:47.306Z
+date: 2024-11-23T00:54:04.863Z
+updated: 2024-11-26T18:34:24.066Z
 tags:
   - apple
 categories:
@@ -46,21 +46,16 @@ Let me show you how to enable this feature.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to remove tracking information in MacOS Safari
 
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -72,10 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -127,24 +119,22 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-strategies-for-dampening-aerial-drone-vibration-artifacts/"><u>[New] Strategies for Dampening Aerial Drone Vibration Artifacts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-tricks-to-control-music-paceplay-in-spotify/"><u>[New] Top Tricks to Control Music Paceplay in Spotify</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-10plus-proven-techniques-for-selecting-the-finest-cricket-broadcasts/"><u>[New] Unveiling 10+ Proven Techniques for Selecting the Finest Cricket Broadcasts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cut-costs-boost-creativity-learn-the-secrets-of-green-screen-artistry-from-4-leading-educators/"><u>[Updated] 2024 Approved Cut Costs, Boost Creativity Learn the Secrets of Green Screen Artistry From 4 Leading Educators</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-frame-it-up-right-insta-ready-video-edits-for-final-cut-pro-x/"><u>[Updated] In 2024, Frame It Up Right Insta-Ready Video Edits for Final Cut Pro X</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-complete-process-for-crafting-your-own-ringtone-from-tiktok-music/"><u>[Updated] The Complete Process for Crafting Your Own Ringtone From TikTok Music</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-premier-pro-essentials-accessible-for-all-editors/"><u>[Updated] The Premier Pro Essentials - Accessible for All Editors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-exciting-photography-aspects-of-ios-11/"><u>[Updated] Unveiling Exciting Photography Aspects of iOS 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/9-remedies-troubleshoot-steams-unwritable-library/"><u>9 Remedies: Troubleshoot Steam's Unwritable Library</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evolve-your-career-with-these-6-techniques-in-an-ai-enhanced-work-environment/"><u>Evolve Your Career with These 6 Techniques in an AI-Enhanced Work Environment</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-lenovo-thinkphone-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Lenovo ThinkPhone Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transforming-video-files-to-mp3-a-focused-guide-for-pinterest-users/"><u>In 2024, Transforming Video Files to MP3 A Focused Guide for Pinterest Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-understanding-video-storage-daylong-total-in-gbs/"><u>In 2024, Understanding Video Storage Daylong Total in GBs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-whats-the-best-youtube-thumbnail-size/"><u>In 2024, What's the Best YouTube Thumbnail Size?</u></a></li>
-<li><a href="https://win11.techidaily.com/prolific-path-to-excellence-our-top-7-windows-11-widget-choices/"><u>Prolific Path to Excellence: Our Top 7 Windows 11 Widget Choices</u></a></li>
-<li><a href="https://techidaily.com/stop-mouse-acceleration-easily-tips-and-tricks-inside/"><u>Stop Mouse Acceleration Easily - Tips & Tricks Inside</u></a></li>
-<li><a href="https://some-tips.techidaily.com/supreme-storytelling-through-soundscape-for-2024/"><u>Supreme Storytelling Through Soundscape for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-multi-monitor-support-for-your-m3-macbook-pro-inspired-by-the-versatile-m3-macbook-air-insights/"><u>Unlocking Multi-Monitor Support for Your M3 MacBook Pro, Inspired by the Versatile M3 MacBook Air | Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/vidas-tillsynligeligt-ljudextrahering-komplett-guide-till-utanfor-bindestaven/"><u>Vidås Tillsynligeligt Ljudextrahering - Komplett Guide Till Utanför Bindestaven</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-video-boundaries-explained/"><u>[Updated] 2024 Approved Instagram Video Boundaries Explained</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-editors-deep-dive-into-pixelcut-pro-latest-features-in-review/"><u>[Updated] In 2024, Editor's Deep Dive Into PixelCut Pro - Latest Features in Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-full-breakdown-of-facetunes-updated-features/"><u>[Updated] The Full Breakdown of Facetune's Updated Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tomorrows-digital-playground-a-comparative-study-of-metaverse-and-omniverse/"><u>[Updated] Tomorrow's Digital Playground A Comparative Study of Metaverse & Omniverse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-basics-an-approachable-hdr-review/"><u>[Updated] Unveiling the Basics An Approachable HDR Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-step-by-step-adding-movie-maker-videos-to-vimeo-stream/"><u>2024 Approved Step-by-Step Adding Movie Maker Videos to Vimeo Stream</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-30-pro-windows-10-mastery-hacks/"><u>2024 Approved Top 30 Pro Windows 10 Mastery Hacks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-high-fidelity-with-sonys-wh-1000xm4-headphones/"><u>Discover High Fidelity with Sony's WH-1000XM4 Headphones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-elite-guide-to-gopro-side-by-side-shopping/"><u>In 2024, The Elite Guide to GoPro Side-By-Side Shopping</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-law-filters-into-your-windows-workflows/"><u>Integrating LAW Filters Into Your Windows Workflows</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-process-for-disabling-a-vcenter-hosted-vsan-storage-network/"><u>Step-by-Step Process for Disabling a vCenter-Hosted vSAN Storage Network</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-downloading-youtube-media-for-2024/"><u>The Ultimate Guide to Downloading YouTube Media for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-nba-experience-top-15-ways-to-watch-games-online-for-2024/"><u>The Ultimate NBA Experience - Top 15 Ways to Watch Games Online for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721458827627-top-11-fixes-stop-missed-calls-on-your-iphone-once-and-for-all/"><u>Top 11 Fixes: Stop Missed Calls on Your iPhone Once and For All!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-6s-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone 6s Plus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-top-voice-change-programs-for-2024/"><u>Ultimate List of Top Voice-Change Programs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-a-deep-dive-into-metaverse-meme-culture-for-2024/"><u>Unleash Creativity A Deep Dive Into Metaverse Meme Culture for 2024</u></a></li>
 </ul></div>
 

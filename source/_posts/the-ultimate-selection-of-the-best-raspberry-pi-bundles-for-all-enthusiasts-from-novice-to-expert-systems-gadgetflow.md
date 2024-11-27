@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Selection of the Best Raspberry Pi Bundles for All Enthusiasts: From Novice to Expert Systems - GadgetFlow"
-date: 2024-09-18 18:59:29
-updated: 2024-09-20 12:56:43
+date: 2024-11-19T20:08:29.984Z
+updated: 2024-11-26T18:02:14.559Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,24 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-ten-practical-ways-to-prevent-vr-sickness/"><u>[New] Ten Practical Ways to Prevent VR Sickness</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-producing-high-quality-hdr-photographs-with-lightroom/"><u>[New] Tips for Producing High-Quality HDR Photographs with Lightroom</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-embrace-the-pause-button-3-techniques-for-decelerating-youtube-video-playback-59-chars-slight-overage-with-rich-content-justification-for-2024/"><u>[Updated] Embrace the Pause Button 3 Techniques for Decelerating YouTube Video Playback (59 Chars, Slight Overage with Rich Content Justification) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-shareable-humorous-content/"><u>[Updated] The Essence of Shareable Humorous Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-ultimate-expedition-manual-launching-a-career-in-travel-blogging/"><u>2024 Approved The Ultimate Expedition Manual Launching a Career in Travel Blogging</u></a></li>
+<li><a href="https://common-error.techidaily.com/deterring-windows-11-system-crashes/"><u>Deterring Windows 11 System Crashes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-latest-canon-mg280-software-update-for-windows-1187-systems-guide-and-downloads/"><u>How to Get Latest Canon MG280 Software Update for Windows 11/8/7 Systems: Guide and Downloads</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-nokia-c32-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Nokia C32 Data? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upload-like-a-pro-the-ultimate-guide-to-photo-videos-and-online-success/"><u>In 2024, Upload Like a Pro The Ultimate Guide to Photo Videos and Online Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unilateral-earbud-error-how-to-rectify/"><u>Unilateral Earbud Error How to Rectify</u></a></li>
+</ul></div>
+

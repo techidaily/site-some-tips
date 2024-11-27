@@ -1,7 +1,7 @@
 ---
 title: Unlocking Seamless Access to Artificial Intelligence Applications with SuperDuperDB - Insights From ZDNet
-date: 2024-09-18 22:31:35
-updated: 2024-09-20 12:22:53
+date: 2024-11-24T22:54:33.556Z
+updated: 2024-11-26T16:57:15.887Z
 tags:
   - developer
 categories:
@@ -57,6 +57,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -73,6 +77,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +88,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-cutting-edge-home-entertainment-elite-3d-blu-ray-gear/"><u>[New] In 2024, Cutting-Edge Home Entertainment Elite 3D Blu-Ray Gear</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-next-generation-of-aerial-artistry-with-bebops-parrot-2/"><u>[New] The Next Generation of Aerial Artistry with Bebop's Parrot 2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-premier-8-video-transformers-for-your-mac-and-phone/"><u>[New] The Premier 8 Video Transformers for Your Mac & Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-iphone-light-balancing/"><u>[New] The Ultimate Guide to iPhone Light Balancing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-portable-video-player-mkv-format/"><u>[New] Ultimate Portable Video Player (MKV Format)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unveiling-the-10-leading-christian-church-streamers/"><u>[Updated] In 2024, Unveiling The 10 Leading Christian Church Streamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-precision-cuts-and-transitions-for-premier-users/"><u>[Updated] Precision Cuts & Transitions for Premier Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-innovations-best-vr-tech-for-drones-for-2024/"><u>[Updated] Top Innovations Best VR Tech for Drones for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unexplained-angle-flip-sideways-vids-in-instagram-world/"><u>2024 Approved Unexplained Angle Flip Sideways Vids in Instagram World</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-failed-windows-update-with-error-code-0x800f0845/"><u>Correcting Failed Windows Update with Error Code 0X800f0845</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-google-pixel-7a-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Google Pixel 7a to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-restore-windows-photo-viewer-in-windows-10-for-2024/"><u>How to Restore Windows Photo Viewer in Windows 10 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-undoing-streams-a-complete-list-of-25-procedures-for-twitch/"><u>In 2024, Undoing Streams A Complete List of 25 Procedures for Twitch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-to-best-pure-text-or-integrated-chatgpt/"><u>Navigate to Best: Pure Text or Integrated ChatGPT?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-transferring-tunes-between-platforms-for-2024/"><u>The Art of Transferring Tunes Between Platforms for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-looking-for-suggestions-to-trim-mkv-files-with-the-best-mkv-trimmer-on-mac-your-search-is-over-because-we-have-some-great-advice-for-you-rea/"><u>Updated In 2024, Looking for Suggestions to Trim MKV Files with the Best MKV Trimmer on Mac? Your Search Is over because We Have some Great Advice for You. Read Ahead to Learn How to Trim MKV Files on Mac with Ease</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Harnessing AI's Power in Software Engineering: Speed Vs. Metrics Challenges"
-date: 2024-09-17 21:21:10
-updated: 2024-09-20 10:58:22
+date: 2024-11-22T01:03:40.041Z
+updated: 2024-11-27T05:05:03.130Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-essential-tips-for-recording-fb-messenger-calls-for-2024/"><u>[New] Essential Tips for Recording FB Messenger Calls for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-snapshot-solution-how-to-swiftly-switch-your-gif-for-a-sticker/"><u>[New] The Snapshot Solution How to Swiftly Switch Your GIF for a Sticker</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-igniting-your-individual-brand-flame/"><u>[Updated] Igniting Your Individual Brand Flame</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-sound-of-serenity-windowsmac-adjustments/"><u>2024 Approved The Sound of Serenity Windows/Mac Adjustments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-power-in-valorant-the-best-voice-modifier-without-payment/"><u>2024 Approved Unleash Power in Valorant The Best Voice Modifier Without Payment</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/complexity-of-projects-handled/"><u>Complexity of Projects Handled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-benefits-of-the-propella-n7s-40-budget-friendly-compact-and-easy-to-handle/"><u>Discover the Benefits of the Propella N7s 4.0: Budget-Friendly, Compact & Easy to Handle!</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-error-code-0x0000004e-breakdown/"><u>Fixing Windows Error Code: 0X0000004E Breakdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-soundtracks-into-professional-podcasts/"><u>In 2024, Transforming Soundtracks Into Professional Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-free-secure-vlc-player-access-on-apple-devices/"><u>In 2024, Unlocking Free, Secure VLC Player Access on Apple Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210664400-9782889059645-loracle-de-la-balance/"><u>L'Oracle de la Balance | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-collaboration-and-efficiency-master-these-5-innovative-window-tips/"><u>Optimize Collaboration and Efficiency: Master These 5 Innovative Window Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-installation-how-to-get-the-latest-microsoft-driver-updates-for-your-windows-system-1087/"><u>Seamless Installation: How to Get the Latest Microsoft Driver Updates for Your Windows System (10/8/7)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-financial-lifeline-of-podcasting-for-2024/"><u>The Financial Lifeline of Podcasting for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-mobile-video-editors-for-ios-and-android-for-2024/"><u>Top-Rated Mobile Video Editors for iOS & Android for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-sonos-latest-s2-app-streamlining-your-sound-with-ease-and-hidden-surprises/"><u>Unveiling Sonos' Latest S2 App: Streamlining Your Sound with Ease & Hidden Surprises!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Navigating the World of AI Mastery with No Tech Background? Discover Why Complex Systems Require Multifaceted Learning Strategies | ZDNet Exploration
-date: 2024-09-19 14:38:47
-updated: 2024-09-20 10:39:40
+date: 2024-11-20T00:46:29.244Z
+updated: 2024-11-26T19:03:41.646Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-strategies-for-harvesting-fb-status-video-archives/"><u>[New] In 2024, Strategies for Harvesting FB Status Video Archives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tech-trends-unveiled-excellence-in-vr-treadmills/"><u>[New] Tech Trends Unveiled Excellence in VR Treadmills</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-must-knows-before-elevating-systems/"><u>[New] Top 10 Must-Knows Before Elevating Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-expertise-in-transition-techniques-adobe-edition-for-2024/"><u>[Updated] Expertise in Transition Techniques, Adobe Edition for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-stabilizing-tech-for-youtube-creators-success/"><u>2024 Approved Top 10 Stabilizing Tech for YouTube Creators' Success</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-transformed-how-an-apple-store-associate-unlocked-my-love-for-the-vision-pro-tech-chronicles/"><u>Experience Transformed: How an Apple Store Associate Unlocked My Love for the Vision Pro | Tech Chronicles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/framefusion-pro-8-crafting-digital-masterpieces-for-2024/"><u>FrameFusion Pro 8 Crafting Digital Masterpieces for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-14-pro-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 14 Pro Max to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-poetic-genres-gpt-3-as-your-guide/"><u>Navigating Poetic Genres: GPT-3 as Your Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-computer-has-rebooted-from-a-bugcheck-solved/"><u>The Computer Has Rebooted From a Bugcheck [Solved]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-batman-remedies-for-critical-crashes-in-arkham-knight/"><u>Troubleshooting Batman: Remedies for Critical Crashes in Arkham Knight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-index-downloading-your-preferred-chime-files-for-2024/"><u>Ultimate Index Downloading Your Preferred Chime Files for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-implementing-website-pinging-essential-insights-and-best-practices/"><u>Understanding and Implementing Website Pinging - Essential Insights & Best Practices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-immersive-era-vrs-progress-and-upcoming-struggles-for-2024/"><u>Unveiling the Immersive Era VR's Progress & Upcoming Struggles for 2024</u></a></li>
+</ul></div>
+

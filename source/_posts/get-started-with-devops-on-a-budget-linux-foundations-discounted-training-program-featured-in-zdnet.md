@@ -1,7 +1,7 @@
 ---
 title: "Get Started with DevOps on a Budget: Linux Foundation's Discounted Training Program Featured in ZDNet"
-date: 2024-09-17 13:52:36
-updated: 2024-09-20 11:20:33
+date: 2024-11-23T20:22:42.772Z
+updated: 2024-11-27T02:08:33.592Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,6 +71,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -80,6 +88,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-stylish-spectacles-trending-insta-filters-list/"><u>[New] 2024 Approved Stylish Spectacles Trending Insta Filters List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-text-tools-and-after-effects/"><u>[New] Superior Text Tools & After Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-intersection-of-design-and-efficiency-in-professional-environments/"><u>[New] The Intersection of Design & Efficiency in Professional Environments</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elite-camera-drones-10-unveiling-visuals-like-never-before/"><u>[Updated] In 2024, Elite Camera Drones #10 Unveiling Visuals Like Never Before</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-depth-training-adopting-the-best-screen-recording-practices-with-adobe-captivate-for-2024/"><u>[Updated] In-Depth Training Adopting the Best Screen Recording Practices with Adobe Captivate for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-monetization-mastery-top-youtubers-earnings/"><u>[Updated] Monetization Mastery - Top Youtubers Earnings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-guide-for-professional-livestreaming-using-zoom-on-youtube/"><u>2024 Approved The Complete Guide for Professional Livestreaming Using Zoom on YouTube</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-90-lite-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor 90 Lite</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-candids-canvas-transforming-photos-with-editing-tips/"><u>In 2024, Candid's Canvas Transforming Photos with Editing Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-noise-control-for-filmmakers-basic-pro-methods-and-pricing/"><u>In 2024, Noise Control for Filmmakers - Basic, Pro Methods & Pricing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-timelapse-magic-utilizing-your-canon-gear/"><u>In 2024, Timelapse Magic Utilizing Your Canon Gear</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-securing-photographic-backdrops/"><u>In 2024, Ultimate Guide to Securing Photographic Backdrops</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-slomo-videography-tool-assessment/"><u>In 2024, Ultimate SloMo Videography Tool Assessment</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-itel-a60-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Itel A60 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-full-potential-of-iphones-hdr-capabilities/"><u>In 2024, Unlocking the Full Potential of iPhone's HDR Capabilities</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-your-creations-uploading-imovie-videos-to-youtube-for-2024/"><u>Maximizing Your Creations Uploading IMovie Videos to YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-2023-shoppers-guide-to-innovative-360-cameras-and-systems-for-2024/"><u>The 2023 Shopper’s Guide to Innovative 360 Cameras & Systems for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-next-gen-virtual-reality-discover-the-new-psvr-2s-release-timeline-cost-and-technical-specs/"><u>The Next-Gen Virtual Reality: Discover the New PSVR 2'S Release Timeline, Cost & Technical Specs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-secrets-to-auditory-harmony-crossfade-for-2024/"><u>Unraveling the Secrets to Auditory Harmony (Crossfade) for 2024</u></a></li>
+</ul></div>
+

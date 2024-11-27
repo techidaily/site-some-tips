@@ -1,7 +1,7 @@
 ---
 title: "Transitioning From the M3 to the M1: Is It Time to Upgrade Your MacBook Pro with the Latest Tech"
-date: 2024-11-16T13:42:42.775Z
-updated: 2024-11-16T17:57:23.672Z
+date: 2024-11-21T22:26:47.373Z
+updated: 2024-11-27T02:43:06.673Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A crushing upset
 
 Somehow, though, Apple managed to get many, many people negatively worked up about one aspect of its launch.
@@ -71,10 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -94,10 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -148,19 +146,24 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-from-obscurity-to-the-limelight-the-proven-methods-of-changing-your-tiktok-username/"><u>[New] 2024 Approved From Obscurity to the Limelight The Proven Methods of Changing Your TikTok Username</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-video-edits-youtube-content-creation-on-windows/"><u>[New] 2024 Approved Mastering Video Edits YouTube Content Creation on Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-backdrop-choices-for-streamers/"><u>[New] Ultimate Backdrop Choices for Streamers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-cubic-cottages-for-newcomers-to-mc-world/"><u>[Updated] In 2024, Cubic Cottages for Newcomers to MC World</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-srt-download-blueprint-from-youtube/"><u>[Updated] The Ultimate SRT Download Blueprint From YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-video-filter-application-techniques/"><u>[Updated] Unveiling the Secrets of Video Filter Application Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/a-complete-guide-to-steam-switch-controller-use-for-2024/"><u>A Complete Guide to Steam Switch Controller Use for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-gt-10-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-artisans-path-to-precision-zooming-on-kinemaster/"><u>In 2024, The Artisan’s Path to Precision Zooming on Kinemaster</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-voice-to-text-applications/"><u>In 2024, Top Tier Voice to Text Applications</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-creative-potential-animated-text-techniques-ig-stories/"><u>In 2024, Unlocking Creative Potential Animated Text Techniques IG Stories</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-smooth-gaming-sessions-in-the-sims-4pc-expert-insights-and-fixes-for-the-latest-update/"><u>Mastering Smooth Gaming Sessions in The Sims ^[4](PC): Expert Insights and Fixes for the Latest Update</u></a></li>
-<li><a href="https://fox-http.techidaily.com/premier-real-time-video-distribution-tools/"><u>Premier Real-Time Video Distribution Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-installation-issues-with-windows-11-troubleshooter/"><u>Solving Installation Issues with Windows 11 Troubleshooter</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-elite-batteries-and-chargers-for-black-gopro-hero5-devices-for-2024/"><u>[New] Elite Batteries & Chargers for Black GoPro Hero5 Devices for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-defining-the-basics-the-art-of-digital-stories/"><u>[New] In 2024, Defining the Basics The Art of Digital Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-anti-shake-gimblers-reviewed-by-vloggers/"><u>[New] The Best Anti-Shake Gimblers Reviewed by Vloggers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-quiet-guide-to-livestreaming-yourself-on-instagram/"><u>[New] The Quiet Guide to Livestreaming Yourself on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-9-free-android-mp3-extractors/"><u>[New] Top 9 FREE Android MP3 Extractors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-top-8-excellent-free-online-srt-translators-for-efficiency/"><u>[Updated] Unveiling Top 8 Excellent Free Online SRT Translators for Efficiency</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/15-fun-filled-multiplayer-titles-for-friends/"><u>15 Fun-Filled Multiplayer Titles for Friends</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>2024 Approved Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-manual-for-using-speech-recognition-in-google-documents/"><u>2024 Approved The Complete Manual for Using Speech Recognition in Google Documents</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-as-your-ally-composing-confidential-company-emails/"><u>AI as Your Ally: Composing Confidential Company Emails</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/clip-courage-embracing-twitters-viral-vanguard/"><u>Clip Courage Embracing Twitter's Viral Vanguard</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cing-video-reach-tactics-against-bot-visitors/"><u>Enhancing Video Reach Tactics Against Bot Visitors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-low-volume-playback-system-guide/"><u>In 2024, The Art of Low-Volume Playback System Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/proven-strategies-for-saving-your-digital-discussions-google-meets-for-2024/"><u>Proven Strategies for Saving Your Digital Discussions (Google Meets) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-photographers-list-of-top-10-lenses-for-2024/"><u>The Photographer's List of Top 10 Lenses for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-the-ultimate-android-mp3-downloader-collection-for-2024/"><u>Top Picks The Ultimate Android MP3 Downloader Collection for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-tasks-using-auto-gpt-discover-8-game-changing-techniques/"><u>Transform Tasks Using Auto-GPT: Discover 8 Game-Changing Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-why-arent-my-airpods-automatically-roaming-among-my-ipad-apple-watch-and-more/"><u>Troubleshooting: Why Aren't My AirPods Automatically Roaming Among My iPad, Apple Watch, & More?</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/windows-11-hd4k/"><u>Windows 11でフリーマガジン: HDや4Kにビデオ解像度調整の簡単ガイド</u></a></li>
 </ul></div>
 

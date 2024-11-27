@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Here: Discover How AI Agents Will Revolutionize Your Job for Good | Expert Analysis by ZDNET"
-date: 2024-09-17 21:11:21
-updated: 2024-09-20 11:36:58
+date: 2024-11-21T19:45:30.414Z
+updated: 2024-11-27T00:58:27.051Z
 tags:
   - developer
 categories:
@@ -57,6 +57,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-discover-the-best-tools-and-tips-to-accurately-tag-your-videos/"><u>[New] Discover the Best Tools & Tips to Accurately Tag Your Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-tune-tastic-transfers-find-your-favorite-youtube-songs-with-top-6-free-android-apps/"><u>[New] Tune-Tastic Transfers Find Your Favorite Youtube Songs with Top 6 Free Android Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ushering-bliss-into-your-unboxing-experience/"><u>[New] Ushering Bliss Into Your Unboxing Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-journey-through-ingenious-animated-texts-top-14-snapshots/"><u>[Updated] Journey Through Ingenious Animated Texts Top 14 Snapshots</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-scrutinizing-the-importance-of-honesty-in-online-self-portraits-for-2024/"><u>[Updated] Scrutinizing the Importance of Honesty in Online Self-Portraits for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-checklist-for-efficiently-uploading-tracks-on-youtube/"><u>[Updated] The Ultimate Checklist for Efficiently Uploading Tracks on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-content-conversion-top-5-online-gif-to-video-hubs/"><u>2024 Approved Streamline Your Content Conversion Top 5 Online GIF-to-Video Hubs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-chatgpt-and-google-translate-determining-the-superior-language-tool/"><u>Comparing ChatGPT and Google Translate: Determining the Superior Language Tool</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-x6-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find X6 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/photography-at-the-tip-of-your-fingers-top-10-apps-for-2024/"><u>Photography at the Tip of Your Fingers – Top 10 Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-for-lengthening-gopros-electric-life-for-2024/"><u>Strategies for Lengthening GoPro's Electric Life for 2024</u></a></li>
+</ul></div>
+

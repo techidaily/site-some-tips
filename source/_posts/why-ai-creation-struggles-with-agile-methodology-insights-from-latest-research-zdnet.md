@@ -1,7 +1,7 @@
 ---
 title: "Why AI Creation Struggles with Agile Methodology: Insights From Latest Research | ZDNet"
-date: 2024-09-17 13:17:26
-updated: 2024-09-20 12:20:35
+date: 2024-11-21T23:48:01.076Z
+updated: 2024-11-26T17:30:36.324Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-comparative-guide-to-the-metaverse-and-multiplemetaverse-platforms-insightful-analysis/"><u>[New] Comparative Guide to the Metaverse & MultipleMetaverse Platforms (Insightful Analysis)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-10-tv-streaming-platforms-in-depth-comparisons-for-2024/"><u>[New] Top 10 TV Streaming Platforms In-Depth Comparisons for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-cropping-settings-in-digital-editors/"><u>[New] Understanding Cropping Settings in Digital Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-unusual-upward-turning-of-ig-video-images/"><u>[Updated] The Unusual Upward Turning of IG Video Images</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-zipping-to-captions-direct-method-for-srt-file-creation-for-2024/"><u>[Updated] Zipping to Captions Direct Method for .Srt File Creation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-through-virtual-experiences/"><u>2024 Approved Innovating Through Virtual Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-pinnacle-of-scripts-across-the-cinematic-universes-sections/"><u>2024 Approved The Pinnacle of Scripts Across the Cinematic Universe's Sections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-sound-savvy-mastering-podcast-playback-on-iphones/"><u>2024 Approved The Sound Savvy Mastering Podcast Playback on iPhones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/broadcasting-e-learning-sessions/"><u>Broadcasting E-Learning Sessions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/end-live-recording-mode-immediately-in-qt-app-for-2024/"><u>End Live Recording Mode Immediately in QT App for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005045206-fast-track-fixes-for-batman-arkham-knight-stop-game-freezing-now/"><u>Fast Track Fixes for 'Batman: Arkham Knight': Stop Game Freezing Now</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-nokia-150-2023-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Nokia 150 (2023) Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>In 2024, Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-budgets-youtube-marketing-investments/"><u>In 2024, Understanding Budgets YouTube Marketing Investments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/photos-that-speak-volumes-starting-with-lunapics-tutorial-for-2024/"><u>Photos That Speak Volumes Starting with LunaPic's Tutorial for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-hand-tracking-encyclopedia-for-2024/"><u>The Complete Hand-Tracking Encyclopedia for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-skyward-voyage-of-gopro-karma-analysis-for-2024/"><u>The Skyward Voyage of GoPro Karma Analysis for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-top-6-animated-emoji-video-effects-for-2024/"><u>Updated Top 6 Animated Emoji Video Effects for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+</ul></div>
+

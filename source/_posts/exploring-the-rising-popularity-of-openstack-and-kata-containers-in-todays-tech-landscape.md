@@ -1,7 +1,7 @@
 ---
 title: Exploring the Rising Popularity of OpenStack and Kata Containers in Today's Tech Landscape
-date: 2024-09-19 10:37:32
-updated: 2024-09-20 10:47:33
+date: 2024-11-23T20:21:27.628Z
+updated: 2024-11-27T02:46:39.212Z
 tags:
   - developer
 categories:
@@ -57,6 +57,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +70,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-uncomplicated-strategy-for-fish-phonetics-tweaking/"><u>[New] Uncomplicated Strategy for Fish Phonetics Tweaking</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-astonishing-critique-and-comparable-products/"><u>[Updated] Astonishing Critique & Comparable Products</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-zoom-audio-production-comprehensive-tips-and-techniques-for-professionals-for-2024/"><u>[Updated] Mastering ZOOM Audio Production Comprehensive Tips and Techniques for Professionals for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-allure-vs-warnings-of-virtual-reality-worlds/"><u>[Updated] The Allure vs Warnings of Virtual Reality Worlds</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unleash-potential-ps5-writable-and-readable-extras-for-2024/"><u>[Updated] Unleash Potential PS5' Writable & Readable Extras for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-resource-50plus-no-fee-visual-effects-websites-reviewed/"><u>2024 Approved The Ultimate Resource 50+ No-Fee Visual Effects Websites Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-the-streaming-landscape-twitch-vs-youtube-compared/"><u>2024 Approved Understanding the Streaming Landscape Twitch Vs YouTube Compared</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-your-potential-with-periscope-broadcasts/"><u>2024 Approved Unleash Your Potential with Periscope Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-creativity-free-animation-techniques/"><u>2024 Approved Unlocking Creativity Free Animation Techniques</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/achieve-optimum-stability-incorrances-for-tripods-in-vlog-shoots/"><u>Achieve Optimum Stability Incorrances for Tripods in Vlog Shoots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-pc-connectivity-using-android-phones-in-windows-11/"><u>Enhancing PC Connectivity: Using Android Phones in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-sony-xperia-10-v-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Sony Xperia 10 V?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-sony-xperia-5-v-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Sony Xperia 5 V</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-n3-flip-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find N3 Flip Phone with Broken Screen</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/meilleurs-lecteurs-wmv-pour-mac-comprendre-les-solutions-de-visualisation-des-fichiers-wmv-sur-votre-ordinateur-apple/"><u>Meilleurs Lecteurs WMV Pour Mac: Comprendre Les Solutions De Visualisation Des Fichiers WMV Sur Votre Ordinateur Apple</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-s23-tactical-edition-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy S23 Tactical Edition Phone? Unlock It Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-your-approach-to-downloading-large-amounts-on-tiktok-for-2024/"><u>Streamlining Your Approach to Downloading Large Amounts on TikTok for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-vrs-immersive-visual-experience-for-2024/"><u>Unveiling VR's Immersive Visual Experience for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-free-clip-art-for-graphic-designs-for-2024/"><u>Utilizing Free Clip Art for Graphic Designs for 2024</u></a></li>
+</ul></div>
+

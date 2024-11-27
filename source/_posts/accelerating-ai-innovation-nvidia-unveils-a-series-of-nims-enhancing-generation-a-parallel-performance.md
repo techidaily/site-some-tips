@@ -1,7 +1,7 @@
 ---
 title: "Accelerating AI Innovation: Nvidia Unveils a Series of NIMs Enhancing Generation-A Parallel Performance"
-date: 2024-09-19 13:50:31
-updated: 2024-09-20 11:34:41
+date: 2024-11-20T21:02:21.011Z
+updated: 2024-11-26T20:00:46.272Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-full-screen-fixes-for-online-streams/"><u>[New] 2024 Approved Full-Screen Fixes for Online Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-how-to-and-where-download-unboxing-video-background-music/"><u>[New] How To & Where Download Unboxing Video Background Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-next-wave-of-social-media-top-apps-as-periscope-alternates/"><u>[New] The Next Wave of Social Media Top Apps as Periscope Alternates</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-craft-the-perfect-snaps-top-ideas-unveiled/"><u>[Updated] 2024 Approved Craft the Perfect Snaps Top Ideas Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-best-practice-manual-for-text-on-picture-edits/"><u>[Updated] The Best Practice Manual for Text-on-Picture Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-vsco-photo-workflow-analysis/"><u>2024 Approved The Ultimate VSCO Photo Workflow Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-metaverse-vr-gear-list-top-8-choices/"><u>2024 Approved Ultimate Metaverse VR Gear List Top 8 Choices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-sony-xperia-10-v-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Sony Xperia 10 V? Try These Fixes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stepwise-unveiling-effect/"><u>In 2024, Stepwise Unveiling Effect</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-infinix-note-30-vip-racing-edition-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Infinix Note 30 VIP Racing Edition? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/poco-data-recovery-recover-lost-data-from-poco-c55-by-fonelab-android-recover-data/"><u>Poco Data Recovery – recover lost data from Poco C55</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/speeding-up-spotify-tracks-safe-techniques-and-strategies/"><u>Speeding Up Spotify Tracks Safe Techniques and Strategies</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-resurgence-squad-stellars-data-salvation/"><u>The Resurgence Squad: Stellar's Data Salvation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-the-best-android-photo-editor-does-picku-stand-out-in-2024/"><u>Uncover the Best Android Photo Editor – Does PickU Stand Out, In 2024</u></a></li>
+</ul></div>
+

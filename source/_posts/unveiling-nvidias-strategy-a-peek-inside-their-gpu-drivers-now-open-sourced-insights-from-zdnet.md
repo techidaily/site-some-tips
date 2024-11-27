@@ -1,7 +1,7 @@
 ---
 title: "Unveiling NVIDIA's Strategy: A Peek Inside Their GPU Drivers Now Open-Sourced - Insights From ZDNet"
-date: 2024-09-17 16:39:24
-updated: 2024-09-20 12:33:54
+date: 2024-11-19T17:15:47.363Z
+updated: 2024-11-27T03:30:09.417Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-how-to-restore-voice-chat-capabilities-in-back-4-blood/"><u>[FIXED] How to Restore Voice Chat Capabilities in 'Back 4 Blood'</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-pickus-impact-on-mobile-photography-a-comparative-study/"><u>[New] 2024 Approved PickU's Impact on Mobile Photography – A Comparative Study</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-guide-to-blur-techniques-for-dynamic-artwork/"><u>[New] The Essential Guide to Blur Techniques for Dynamic Artwork</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-altering-voices-for-a-competitive-edge-in-free-fire/"><u>[New] The Ultimate Guide Altering Voices for a Competitive Edge in Free Fire</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-discover-the-best-comparing-free-video-players-vlc-and-mpc/"><u>2024 Approved Discover the Best Comparing Free Video Players (VLC and MPC)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-next-gen-cloud-vaults-ultimate-pick-list/"><u>2024 Approved Next-Gen Cloud Vaults Ultimate Pick List</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-the-persistent-deathloop-not-opening-error-message/"><u>Effective Fixes for the Persistent 'Deathloop Not Opening' Error Message</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-asus-touchpad-driver-installation-for-windows-11-fast-download-guide/"><u>Effortless ASUS Touchpad Driver Installation for Windows 11: Fast Download Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/engine-trouble-with-steelseries-gg-on-windows-a-comprehensive-fix-guide/"><u>Engine Trouble with SteelSeries GG on Windows? A Comprehensive Fix Guide!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones/"><u>In 2024, Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/m4v-gif-movavi/"><u>M4V GIF 바꾸기를 위해 Movavi의 인터넷에서 무료 상품을 사용하세요</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superbackground-cleanup-suite-for-2024/"><u>SuperBackground Cleanup Suite for 2024</u></a></li>
+</ul></div>
+

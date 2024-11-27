@@ -1,7 +1,7 @@
 ---
 title: "1) Combatting Developer Burnout: Innovative Strategies Adopted by Tech Firms - Insights From ZDNet"
-date: 2024-09-19 14:54:35
-updated: 2024-09-20 11:21:19
+date: 2024-11-19T18:55:10.430Z
+updated: 2024-11-27T01:54:14.066Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/xpert-insights-on-forging-youtube-sponsorship-bonds-using-famebit-for-2024/"><u>[New] Expert Insights on Forging YouTube Sponsorship Bonds Using FameBit for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-premium-12-video-capture-apps-no-time-limit/"><u>[New] In 2024, Premium 12 Video Capture Apps, No Time Limit</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-unveiling-the-art-of-night-sky-captures-on-iphone/"><u>[New] In 2024, Unveiling the Art of Night Sky Captures on iPhone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-is-broadcasting-facebook-videos-a-reality-yet/"><u>[New] Is Broadcasting Facebook Videos a Reality Yet?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-education-with-instructional-videos/"><u>[New] Transforming Education with Instructional Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-seamless-linktree-addition-in-your-tiktok-profile/"><u>[New] Unlocking Seamless Linktree Addition in Your TikTok Profile</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-from-novice-to-expert-crafting-top-tier-reddit-posts-for-2024/"><u>[Updated] From Novice to Expert Crafting Top-Tier Reddit Posts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlined-video-calls-synchronizing-zoom-and-gmail-for-better-communication/"><u>[Updated] Streamlined Video Calls Synchronizing Zoom & Gmail for Better Communication</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-creative-energy-video-creation-tips-on-the-latest-windows-10-edition/"><u>[Updated] Unleash Creative Energy Video Creation Tips on the Latest Windows 10 Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimize-your-online-presence-incorporating-video-filters-in-zoom/"><u>2024 Approved Optimize Your Online Presence Incorporating Video Filters in Zoom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tonal-transition-triumphs-for-creative-virtuosos/"><u>2024 Approved Tonal Transition Triumphs for Creative Virtuosos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transitioning-away-from-newest-sierra-version-back-to-1010/"><u>2024 Approved Transitioning Away From Newest Sierra Version Back to 10.10</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitta-to-trackable-audio-transitions/"><u>2024 Approved Twitta to Trackable Audio Transitions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-mavericks-os-x-mp4-editing-tool-professional-grade-results/"><u>New In 2024, Mavericks OS X MP4 Editing Tool Professional-Grade Results</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Small - Compact
-date: 2024-09-17 10:15:45
-updated: 2024-09-20 11:24:49
+date: 2024-11-25T04:21:05.292Z
+updated: 2024-11-26T19:01:09.893Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,6 +71,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-must-know-aspect-ratio-for-tweeting-videos/"><u>[New] 2024 Approved The Must-Know Aspect Ratio for Tweeting Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-comprehensive-list-of-top-9-video-meeting-software-on-devices/"><u>[New] In 2024, Comprehensive List of Top 9 Video Meeting Software on Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-pinnacle-sound-selections-android-based/"><u>[New] Pinnacle Sound Selections, Android-Based</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-pro-photographys-selections-the-creme-de-la-4k-dslrs/"><u>[New] Pro Photography's Selections The Crème De La 4K DSLRs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tech-savvy-guide-from-digital-to-physical-dvds-on-mac/"><u>[New] Tech Savvy Guide From Digital to Physical - DVDs on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-6-online-communities-catering-to-the-commercial-world/"><u>[New] Top 6 Online Communities Catering to the Commercial World</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-dimensions-and-edits-the-imovie-crop-enigma/"><u>[Updated] Dimensions and Edits The iMovie Crop Enigma</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-future-at-your-fingertips-testing-the-latest-in-virtual-reality-by-lg/"><u>2024 Approved The Future at Your Fingertips Testing the Latest in Virtual Reality by LG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-power-of-pause-effectively-responding-to-comments/"><u>2024 Approved The Power of Pause Effectively Responding to Comments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-dall-e-s-newly-added-editing-features-progress-and-potential/"><u>Explore DALL-E 'S Newly Added Editing Features: Progress and Potential</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guide-to-restoring-lost-photographs-solutions-for-windows-and-ios-devices/"><u>Guide to Restoring Lost Photographs: Solutions for Windows and iOS Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-asus-rog-phone-8-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Asus ROG Phone 8 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-rapid-revision-windows-protocol-uncovered/"><u>In 2024, Rapid Revision Windows Protocol Uncovered</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-android-auditory-guide-adding-personalized-sounds-and-ringtones/"><u>In 2024, The Complete Android Auditory Guide Adding Personalized Sounds and Ringtones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-picks-for-excellent-free-srt-translation-tools/"><u>In 2024, Top 8 Picks for Excellent Free SRT Translation Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-utilizing-tailored-volume-reduction-in-audacity/"><u>In 2024, Utilizing Tailored Volume Reduction in Audacity</u></a></li>
+<li><a href="https://facebook.techidaily.com/innovation-intersections-selecting-best-sites-for-enterprise-growth/"><u>Innovation Intersections: Selecting Best Sites for Enterprise Growth</u></a></li>
+<li><a href="https://media-tips.techidaily.com/optimizing-spotify-streaming-tips-to-save-space-and-bandwidth/"><u>Optimizing Spotify Streaming: Tips to Save Space and Bandwidth</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-relying-solely-on-ai-chatbots-is-a-no-go-for-skilled-writers-reasons-1-8/"><u>Why Relying Solely on AI Chatbots Is a No-Go for Skilled Writers (Reasons #1-#8)</u></a></li>
+</ul></div>
+

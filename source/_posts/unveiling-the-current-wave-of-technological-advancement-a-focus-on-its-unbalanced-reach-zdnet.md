@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Current Wave of Technological Advancement: A Focus on Its Unbalanced Reach | ZDNet"
-date: 2024-09-19 13:50:48
-updated: 2024-09-20 12:59:38
+date: 2024-11-21T03:06:50.212Z
+updated: 2024-11-26T16:10:32.151Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-gopro-expertise-unleashed-livestreams-directed-at-periscope-and-facebook/"><u>[New] 2024 Approved Gopro Expertise Unleashed Livestreams Directed at Periscope & Facebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-broadcasting-conferences-with-no-expense-account/"><u>[New] Broadcasting Conferences with No Expense Account</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-optimizing-youtube-videos-for-igtv-exposure/"><u>[New] In 2024, Optimizing YouTube Videos for IGTV Exposure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-the-potential-of-your-notes-use-mematic/"><u>[New] Unleash the Potential of Your Notes - Use Mematic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-valorant-gameplay-top-ranked-costless-voice-alterer-revealed/"><u>[Updated] Transform Valorant Gameplay Top-Ranked, Costless Voice Alterer Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-with-mobile-melodies-on-iphone/"><u>2024 Approved Unleashing Creativity with Mobile Melodies on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-full-potential-best-trio-for-zoom-conversion/"><u>2024 Approved Unlock Full Potential Best Trio for Zoom Conversion</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-70-lite-5g-messages-recovery-recover-deleted-messages-from-honor-70-lite-5g-by-fonelab-android-recover-messages/"><u>Honor 70 Lite 5G Messages Recovery - Recover Deleted Messages from Honor 70 Lite 5G</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-essential-tips-for-perfecting-photos-via-snapchat-edit-features/"><u>In 2024, Essential Tips for Perfecting Photos via Snapchat Edit Features</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-pova-6-pro-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Tecno Pova 6 Pro 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-key-elements-for-effective-spotify-ad-execution/"><u>In 2024, The Key Elements for Effective Spotify Ad Execution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-troubleshooting-tips-for-win-11s-stubborn-photos-app/"><u>In 2024, Troubleshooting Tips for Win 11'S Stubborn Photos App</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-tutorial-on-installing-the-latest-driver-for-your-logitech-m31s-mouse/"><u>The Ultimate Tutorial on Installing the Latest Driver for Your Logitech M31s Mouse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/toolwiz-analysis-revolutionizing-image-editing-on-the-go-for-2024/"><u>Toolwiz Analysis Revolutionizing Image Editing on the Go for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-logitech-m325-mouse-easy-downloads-available-here/"><u>Update Your Logitech M325 Mouse: Easy Downloads Available Here!</u></a></li>
+</ul></div>
+

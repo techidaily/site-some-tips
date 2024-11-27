@@ -1,7 +1,7 @@
 ---
 title: "How Meta's Generative AI Evolves Beyond Forecasting: Strategic Implications for Tech and Society - Insights From ZDNet"
-date: 2024-09-17 19:13:33
-updated: 2024-09-20 12:20:33
+date: 2024-11-21T00:37:35.523Z
+updated: 2024-11-26T21:36:06.084Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-embark-on-elevating-voice-startup-steps-for-an-engaging-product-vlog-channel/"><u>[New] Embark on Elevating Voice Startup Steps for an Engaging Product Vlog Channel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-photos-with-photoshops-dynamic-motion-blur-feature/"><u>[New] Tailoring Photos with Photoshop's Dynamic Motion Blur Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-snapchats-spotlight-mechanics/"><u>[New] Unlocking Snapchat's Spotlight Mechanics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-razers-kiyo-webcam-complete-overview/"><u>[Updated] Razer's Kiyo Webcam - Complete Overview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-visual-vintner-techniques-for-flavorful-films/"><u>[Updated] The Visual Vintner Techniques for Flavorful Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-compreeved-art-of-audio-notes-capture/"><u>2024 Approved The Compreeved Art of Audio Notes Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-androidios-weddings-ultimate-countdown-timer-apps/"><u>2024 Approved Top 10 Android/iOS Weddings Ultimate Countdown Timer Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-potential-of-text-with-photo-shading-psx/"><u>2024 Approved Unlock the Potential of Text with Photo Shading PSX</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-where-to-buy-a-monetized-youtube-channel-a-complete-guide/"><u>2024 Approved Where to Buy a Monetized YouTube Channel A Complete Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-dell-inspiron-3671-desktop-computer-a-review-of-an-unassuming-midrange-performance-unit/"><u>Evaluating the Dell Inspiron 3671 Desktop Computer: A Review of an Unassuming, Midrange Performance Unit</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-airwaves-to-e-readers-how-to-save-web-tv-shows/"><u>From Airwaves To E-Readers How to Save Web TV Shows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-15-pro-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 15 Pro iCloud Bypass</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-hot-30i-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Hot 30i to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-describing-your-podcast-with-flair-for-2024/"><u>The Art of Describing Your Podcast with Flair for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-pc-review-hub-your-source-for-hardware-deep-dives/"><u>Tom's PC Review Hub: Your Source for Hardware Deep Dives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-live-performances-best-audio-platforms-for-2024/"><u>Top Live Performances Best Audio Platforms for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-websites-easy-alarm-ringtone-downloads-for-2024/"><u>Ultimate Websites Easy Alarm Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncharted-territories-discovering-hidden-vlc-capabilities-for-2024/"><u>Uncharted Territories Discovering Hidden VLC Capabilities for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unshakeable-video-quality-best-stabilizers/"><u>Unshakeable Video Quality - Best Stabilizers</u></a></li>
+</ul></div>
+

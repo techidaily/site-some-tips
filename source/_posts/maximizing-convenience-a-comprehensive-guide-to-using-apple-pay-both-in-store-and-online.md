@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Convenience: A Comprehensive Guide to Using Apple Pay Both In-Store and Online"
-date: 2024-11-11T01:34:38.837Z
-updated: 2024-11-17T07:52:02.756Z
+date: 2024-11-23T01:07:00.957Z
+updated: 2024-11-27T04:15:48.777Z
 tags:
   - apple
 categories:
@@ -56,10 +56,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -90,6 +87,10 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does systemwide AI text generation work?
 
 Apple
@@ -101,13 +102,6 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -122,10 +116,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -139,19 +130,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -169,6 +147,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -183,6 +165,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -224,22 +210,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-exploring-sonic-wonders-on-iphone/"><u>[New] Exploring Sonic Wonders on iPhone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-perilous-pathways-decades-10-adventures-for-2024/"><u>[Updated] Perilous Pathways Decade’s #10 Adventures for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversor-gratuitos-en-linea-ts-para-mp4-mediante-movavi-descargue-hoy/"><u>Conversor Gratuitos en Línea TS Para MP4 Mediante Movavi - Descargue Hoy!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convert-your-rmvb-videos-to-avi-format-for-free-using-movavis-services/"><u>Convert Your RMVB Videos to AVI Format for Free Using Movavi's Services</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722884488657-elevate-your-ipod-touch-experience-with-these-8-fantastic-no-cost-music-apps/"><u>Elevate Your iPod Touch Experience with These 8 Fantastic No-Cost Music Apps</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-mp3-converter-convert-mpeg-audio-files-to-aac-m4a-format/"><u>Free MP3 Converter: Convert MPEG Audio Files to AAC M4A Format</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-androids-ultimate-capture-secrets-revealed/"><u>In 2024, Android's Ultimate Capture Secrets Revealed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/melodic-mobile-alerts-download-classical-ringtones-here-for-2024/"><u>Melodic Mobile Alerts Download Classical Ringtones Here for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-w64/"><u>Movavi W64 フリーオンラインコンバータ - 使い勝手の良さを堪能せよ</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-wi-fi-wav-m4a-online/"><u>Movavi: 무료 제공 Wi-Fi를 통해 WAV을 M4A 암호화로 전환 - Online 모바일</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-lava-yuva-3-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Lava Yuva 3</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/smile-spark-planner-for-2024/"><u>Smile Spark Planner for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-selecting-superior-ancestry-tracking-tools-top-10-picks/"><u>The Ultimate Guide to Selecting Superior Ancestry Tracking Tools (Top 10 Picks)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformacion-gratuita-de-archivos-aac-a-formatos-flac-en-linea-con-movavi/"><u>Transformación Gratuita De Archivos AAC a Formatos FLAC en Línea Con Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/trasforma-i-tuoi-file-wma-nel-formato-vob-senza-costi-movavi/"><u>Trasforma I Tuoi File WMA Nel Formato VOB Senza Costi - Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726223490741-pgm-movavi/"><u>무료 온라인 PGM 교체를 위한 Movavi의 도우미 방법</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-best-compact-audio-capturers-for-ipads-and-macs/"><u>[New] In 2024, The Best Compact Audio Capturers for iPads and Macs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-simplify-viewing-incorporating-subtitles-into-wmp/"><u>[New] Simplify Viewing Incorporating Subtitles Into WMP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-soundscapes-spectrum-music-finder-service/"><u>[New] Soundscapes Spectrum Music Finder Service</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-productivity-playlist-podcast-inspired-tasks/"><u>[New] The Ultimate Productivity Playlist Podcast-Inspired Tasks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-million-viewer-milestone-unpacking-youtubes-revenue-formula/"><u>[Updated] Million-Viewer Milestone Unpacking YouTube’s Revenue Formula</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-essential-guide-to-simple-iphone-screen-recording/"><u>[Updated] The Essential Guide to Simple Iphone Screen Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-potential-windows-10s-new-upgrades/"><u>[Updated] Unleashing Potential Windows 10'S New Upgrades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-scripting-for-success-filmmakers-secrets/"><u>2024 Approved Scripting for Success Filmmaker's Secrets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-innovative-methods-to-improve-your-windows-update-process/"><u>7 Innovative Methods to Improve Your Windows Update Process</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-how-to-downloading-and-installing-magic-mouse-windows-compatibility-software-for-seamless-use/"><u>Easy How-To: Downloading and Installing Magic Mouse Windows Compatibility Software for Seamless Use</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-optimizing-youtube-profits-understanding-your-adsense-earnings-per-kv/"><u>In 2024, Optimizing Youtube Profits Understanding Your AdSense Earnings per KV</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-workings-of-drones-an-introduction-for-beginners/"><u>In 2024, The Workings of Drones An Introduction for Beginners</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-y78t-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo Y78t Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-things-to-think-about-prior-to-investing-in-an-unlocked-cell-phone/"><u>Top Things to Think About Prior to Investing in an Unlocked Cell Phone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977817945-windows-users-discover-the-latest-driver-updates-for-your-brother-scanners-now-available/"><u>Windows Users! Discover the Latest Driver Updates for Your Brother Scanners Now Available!</u></a></li>
 </ul></div>
 

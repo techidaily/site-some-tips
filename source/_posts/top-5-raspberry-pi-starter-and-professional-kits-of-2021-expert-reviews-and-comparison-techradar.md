@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Raspberry Pi Starter & Professional Kits of 2021: Expert Reviews & Comparison | TechRadar"
-date: 2024-09-18 21:54:40
-updated: 2024-09-20 11:15:37
+date: 2024-11-24T21:42:18.804Z
+updated: 2024-11-26T16:33:32.639Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhance-viewer-engagement-the-top-6-methods-for-higher-youtube-audience-retention/"><u>[New] 2024 Approved Enhance Viewer Engagement The Top 6 Methods for Higher YouTube Audience Retention</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-ultimate-speed-boost-for-vimeo-videos/"><u>[New] 2024 Approved Ultimate Speed Boost for Vimeo Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-create-captivating-sports-videography-for-2024/"><u>[Updated] Create Captivating Sports Videography for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-speech-synthesis-simplified-from-ssa-to-compelling-srt-files/"><u>[Updated] In 2024, Speech Synthesis Simplified From SSA to Compelling SRT Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-timeless-family-adventures-on-screen-this-season/"><u>[Updated] Top 10 Timeless Family Adventures on Screen This Season</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-images-into-engaging-animation-projects/"><u>[Updated] Transforming Images Into Engaging Animation Projects</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/10-unique-video-reaction-strategies-for-online-enthusiasts-for-2024/"><u>10 Unique Video Reaction Strategies for Online Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-leaders-in-learning-top-15-online-science-hubs/"><u>2024 Approved Leaders in Learning Top 15 Online Science Hubs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-conversion-essentials-ttml-xml-ssa-and-beyond/"><u>In 2024, SRT Conversion Essentials TTML, XML, SSA, and Beyond</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-guide-to-cd-conversion-and-burning-with-wmp/"><u>In 2024, The Complete Guide to CD Conversion & Burning with WMP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-premier-pro-essentials-accessible-for-all-editors/"><u>In 2024, The Premier Pro Essentials - Accessible for All Editors</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-free-and-easy-way-to-edit-gopro-hd-videos/"><u>The Free and Easy Way to Edit GoPro HD Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tune-tracker-and-manager-android-companion-for-2024/"><u>Top Tune Tracker & Manager, Android Companion for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Comeback Trail: Understanding the Surge in Popularity for OpenStack & Kata Containers - Insights From ZDNet"
-date: 2024-09-19 20:40:40
-updated: 2024-09-20 11:56:49
+date: 2024-11-22T02:12:07.141Z
+updated: 2024-11-27T04:01:55.046Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-essential-toolkit-how-to-use-obs-for-youtube-and-twitch-streaming/"><u>[New] 2024 Approved The Essential Toolkit How to Use OBS for YouTube & Twitch Streaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-a-thorough-guide-to-thriving-in-stardews-hidden-landmark-ginger-isle-for-2024/"><u>[New] A Thorough Guide to Thriving in Stardew's Hidden Landmark Ginger Isle for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-closer-look-strategies-in-virtual-world-of-roblox/"><u>[New] Closer Look Strategies in Virtual World of Roblox</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-for-altering-and-personalizing-iphone-ringtones/"><u>[New] Expert Tips for Altering & Personalizing iPhone Ringtones</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebooks-inverse-image-labyrinth-navigate-with-these-3-methods-for-2024/"><u>[New] Facebook's Inverse Image Labyrinth - Navigate with These 3 Methods for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>[New] Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-visual-companion-premium-webcams-for-podcasts/"><u>[Updated] The Ultimate Visual Companion Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-zip-to-srt-file-transition/"><u>[Updated] Understanding the Zip to Srt File Transition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-increase-photographic-imagery-keeping-details-intact/"><u>2024 Approved Increase Photographic Imagery, Keeping Details Intact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-tutorial-for-lut-use-in-after-effects/"><u>2024 Approved The Ultimate Tutorial for LUT Use in After Effects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-zest-up-social-feeds-create-meme-adobe-style/"><u>2024 Approved Zest Up Social Feeds Create Meme Adobe-Style</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-nubia-z50s-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Nubia Z50S Pro Phone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/liste-des-fichiers-essentiels-a-sauvegarder-avant-de-reinstaller-windows-11/"><u>Liste Des Fichiers Essentiels À Sauvegarder Avant De Réinstaller Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-critical-factors-for-upgrading-your-4k-lens-for-2024/"><u>The Critical Factors for Upgrading Your 4K Lens for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-potential-of-your-podcast-covers-now-for-2024/"><u>Unlock the Potential of Your Podcast Covers Now for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-skys-bounty-to-brighten-indoors-for-2024/"><u>Utilizing Sky's Bounty to Brighten Indoors for 2024</u></a></li>
+</ul></div>
+

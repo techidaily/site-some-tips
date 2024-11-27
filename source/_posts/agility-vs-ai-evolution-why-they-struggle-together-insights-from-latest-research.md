@@ -1,7 +1,7 @@
 ---
 title: "Agility Vs. AI Evolution: Why They Struggle Together - Insights From Latest Research"
-date: 2024-09-18 13:50:12
-updated: 2024-09-20 12:54:43
+date: 2024-11-20T03:09:48.573Z
+updated: 2024-11-27T01:25:34.033Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-maximizing-streaming-experience-with-two-screen-viewing-on-netflix/"><u>[New] In 2024, Maximizing Streaming Experience with Two-Screen Viewing on Netflix</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-screencastify-for-easy-video-capture/"><u>[New] Mastering Screencastify for Easy Video Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-stand-out-from-the-noise-logo-design-for-podcast-success/"><u>[New] Stand Out From the Noise Logo Design for Podcast Success</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-10-android-and-ios-timers-for-effortless-wedding-countdown-management-for-2024/"><u>[New] Top 10 Android and iOS Timers for Effortless Wedding Countdown Management for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-30-acid-pro-replacements-explored/"><u>[New] Top 30 ACID Pro Replacements Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-removing-photo-borders/"><u>[Updated] The Ultimate Guide to Removing Photo Borders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-images-the-art-of-applying-luts-in-pro/"><u>[Updated] Transforming Images The Art of Applying LUTs in Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-hidden-potential-snapchat-zooming-tips/"><u>[Updated] Unlock Hidden Potential Snapchat Zooming Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-cinemagraph-guide-top-5-must-know-tactics/"><u>2024 Approved The Ultimate Cinemagraph Guide - Top 5 Must-Know Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-toggle-the-past-the-twitch-live-trick/"><u>2024 Approved Toggle the Past The Twitch Live Trick</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-secrets-to-creating-instagram-hits-with-engaging-unboxing-videos/"><u>2024 Approved Unlock the Secrets to Creating Instagram Hits with Engaging Unboxing Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/advanced-movie-editing-saving-and-enhancing-mov-files-in-windows-11-for-2024/"><u>Advanced Movie Editing Saving and Enhancing MOV Files in Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/brush-up-your-youtube-videos-with-color-correction-for-2024/"><u>Brush Up Your Youtube Videos with Color Correction for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-easily-upgrade-and-install-amd-radeon-vega-64-drivers-for-windows-systems/"><u>How to Easily Upgrade and Install AMD Radeon Vega 64 Drivers for Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-secrets-of-editing-numerical-data-in-tiktoks/"><u>In 2024, The Secrets of Editing Numerical Data in TikToks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-x9a-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor X9a</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-list-of-sources-for-professional-whoosh-effects/"><u>New The Ultimate List of Sources for Professional Whoosh Effects</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/optimal-mp4-transporter-to-fb-hub-for-2024/"><u>Optimal MP4 Transporter to FB Hub for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-is-the-top-tool-github-copilot-or-chatgpt-for-developers/"><u>Which Is the Top Tool? GitHub Copilot or ChatGPT for Developers</u></a></li>
+</ul></div>
+

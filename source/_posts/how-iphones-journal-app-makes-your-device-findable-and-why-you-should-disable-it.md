@@ -1,7 +1,7 @@
 ---
 title: How iPhone's Journal App Makes Your Device Findable and Why You Should Disable It
-date: 2024-11-14T19:55:41.392Z
-updated: 2024-11-17T11:26:24.173Z
+date: 2024-11-24T20:15:17.407Z
+updated: 2024-11-26T18:36:20.308Z
 tags:
   - apple
 categories:
@@ -45,10 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to your iPhone Settings
@@ -56,6 +53,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 To find the Journal app setting, open your Settings app on your iPhone.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Find Privacy & Security
 
@@ -69,13 +70,6 @@ Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverabl
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Turn off Discoverable by Others
 
 Toggle off the "Discoverable by Others" setting within your Journaling Suggestions privacy setting.
@@ -84,24 +78,18 @@ Maria Diaz/ZDNET
 
 ---
 
-## **FAQ**
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## **FAQ**
 
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
@@ -117,6 +105,10 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -156,24 +148,18 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-synthesizing-success-in-metaverse-sales-techniques/"><u>[New] 2024 Approved Synthesizing Success in Metaverse Sales Techniques</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-dive-deep-into-metaverse-with-top-8-vr-helmets/"><u>[New] In 2024, Dive Deep Into Metaverse with Top 8 VR Helmets</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-streaming-facebook-movies-via-apple-tv/"><u>[New] In 2024, Streaming Facebook Movies via Apple TV</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-realme-narzo-n55-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme Narzo N55 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://some-tips.techidaily.com/changer-des-fichiers-mpeg-en-format-flac-gratuitement-sur-internet-guide-de-conversion-video-facile-a-suivre/"><u>Changer Des Fichiers MPEG en Format FLAC Gratuitement Sur Internet - Guide De Conversion Vidéo Facile À Suivre</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversione-gratuita-wmv-a-ogg-online-guida-passo-passo-con-movavi/"><u>Conversione Gratuita WMV a Ogg Online: Guida Passo-Passo Con Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convertissez-librement-aac-en-aiff-avec-le-service-en-ligne-gratuit-de-movavi-guide-complet-et-professionnel/"><u>Convertissez Librement AAC en AIFF Avec Le Service en Ligne Gratuit De Movavi – Guide Complet Et Professionnel</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-list-of-13-leading-ai-art-software-picked-by-movavi/"><u>Discover the Ultimate List of 13 Leading AI Art Software Picked by Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/download-e-instalacao-do-capcut-para-windows-guia-passo-a-passo/"><u>Download E Instalação Do CapCut Para Windows - Guia Passo a Passo</u></a></li>
-<li><a href="https://some-tips.techidaily.com/effortless-collage-creation-discover-the-ultimate-5-methods-from-experts-at-movavi/"><u>Effortless Collage Creation: Discover the Ultimate 5 Methods From Experts at Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/historic-top-10-highest-scoring-players-from-the-uefa-euro-championships/"><u>Historic Top 10 Highest-Scoring Players From the UEFA Euro Championships</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-meizu-21-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Meizu 21 Phones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavimp4and/"><u>Movaviのプロセス：無料でMP4ビデオを簡易編集&変換</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-g2-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-cygwin1dll-file-missing-issue-a-comprehensive-guide/"><u>Solving the Cygwin1.dll File Missing Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/swift-image-polishing-the-best-ios-tools-for-removing-obstructions-for-2024/"><u>Swift Image Polishing The Best iOS Tools for Removing Obstructions for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-6s-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 6s Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://some-tips.techidaily.com/wma-avi-movavi/"><u>무료 WMA-AVI 변환 서비스: 온라인 장치로 Movavi 프로그램 사용</u></a></li>
-<li><a href="https://some-tips.techidaily.com/png-movivi/"><u>ウェブ上で自由に利用可能なPNG変換サービス - MoviVi</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-mastering-past-facebook-feed-exploration-for-laptops-and-phones/"><u>[Updated] In 2024, Mastering Past Facebook Feed Exploration for Laptops and Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-film-a-beginners-guide-to-essential-shots/"><u>[Updated] Understanding Film A Beginner's Guide to Essential Shots</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere/"><u>2024 Approved Authoritative Picks Top 10 Apps to Watch Football Games Anytime, Anywhere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-virtual-meetings-in-google-mail/"><u>2024 Approved Streamlining Virtual Meetings in Google Mail</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-evolution-of-hd-tech-a-look-at-hp-envy-27/"><u>2024 Approved The Evolution of HD Tech - A Look at HP Envy 27</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-experts-handbook-for-srt-file-conversions/"><u>2024 Approved The Expert's Handbook for SRT File Conversions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-video-editors-aiding-in-app-dev-creation/"><u>2024 Approved Top Video Editors Aiding in App Dev Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-journey-through-creativity-using-movie-maker-to-make-animated-dreams-for-2024/"><u>A Journey Through Creativity Using Movie Maker to Make Animated Dreams for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-zte-nubia-z60-ultra-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast ZTE Nubia Z60 Ultra to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-x50-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor X50</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-audio-and-video-showcase-excellent-webcams-for-podcasts/"><u>In 2024, Ultimate Audio & Video Showcase Excellent Webcams for Podcasts</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/nailing-the-technique-for-snapchat-screen-time-lapses/"><u>Nailing the Technique for Snapchat Screen Time-Lapses</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/standing-intellectual-property-rights-on-video-screen-captures-for-2024/"><u>Understanding Intellectual Property Rights on Video Screen Captures for 2024</u></a></li>
 </ul></div>
 

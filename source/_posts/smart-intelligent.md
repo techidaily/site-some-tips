@@ -1,7 +1,7 @@
 ---
 title: Smart - Intelligent
-date: 2024-09-17 10:43:54
-updated: 2024-09-20 11:23:17
+date: 2024-11-24T04:46:27.511Z
+updated: 2024-11-27T00:13:40.056Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-streamlining-the-demo-process-in-adobe-captivate-for-2024/"><u>[New] Streamlining the Demo Process in Adobe Captivate for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-seamless-ocean-footage-with-these-7-hacks/"><u>[New] Unlocking Seamless Ocean Footage with These 7 Hacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unseen-battles-umbraheroes-black-versus-luminaryheroes-silver/"><u>[New] Unseen Battles Umbraheroes (Black) Versus Luminaryheroes (Silver)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-clearer-photos-a-guide-to-picsarts-bg-eraser/"><u>[New] Unveiling Clearer Photos A Guide to Picsart's Bg Eraser</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-to-crafting-captivating-podcast-scripts-plus-free-examples/"><u>[Updated] A Step-By Step Guide to Crafting Captivating Podcast Scripts (Plus Free Examples)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-procuring-high-quality-clip-art-with-no-cost/"><u>[Updated] Strategies for Procuring High-Quality Clip Art with No Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-convert-kings-playbook-youtube-to-mp4mpeg-edition/"><u>[Updated] The Convert King's Playbook YouTube to MP4/MPEG Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-photographs-into-stunning-collaborative-art/"><u>[Updated] Transforming Photographs Into Stunning Collaborative Art</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-upgrade-clips-adding-effects-to-videos-pcmobile/"><u>2024 Approved Upgrade Clips Adding Effects to Videos (PC/Mobile)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-snapchat-my-ais-impact-with-6-reasons/"><u>Deconstructing Snapchat My AI's Impact with 6 Reasons</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-pcs-rec-room-mic-issues-expert-tips/"><u>How to Repair Your PC's Rec Room Mic Issues: Expert Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-power-of-authenticity-in-testimonial-videography/"><u>In 2024, Unlocking the Power of Authenticity in Testimonial Videography</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transforming-your-android-device-into-a-portable-wireless-access-point/"><u>Transforming Your Android Device Into a Portable Wireless Access Point</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-samsung-galaxy-s23-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Samsung Galaxy S23 password or pattern lock</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-10-best-free-chroma-key-apps-for-android-and-ios-devices-2023-edition/"><u>Updated In 2024, 10 Best Free Chroma Key Apps for Android and iOS Devices 2023 Edition</u></a></li>
+</ul></div>
+

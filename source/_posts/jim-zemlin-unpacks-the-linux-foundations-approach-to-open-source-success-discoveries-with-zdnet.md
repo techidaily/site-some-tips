@@ -1,7 +1,7 @@
 ---
 title: Jim Zemlin Unpacks The Linux Foundation's Approach to Open Source Success - Discoveries with ZDNet
-date: 2024-09-18 21:33:36
-updated: 2024-09-20 12:22:38
+date: 2024-11-24T17:16:13.744Z
+updated: 2024-11-27T00:40:58.333Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-guide-to-crafting-professional-haul-videos/"><u>[New] Comprehensive Guide to Crafting Professional Haul Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-solution-guide-turning-xml-and-ttml-into-srt/"><u>[New] Comprehensive Solution Guide Turning XML & TTML Into SRT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-securing-smooth-timelines-to-avoid-frame-drops-in-obs/"><u>[New] In 2024, Securing Smooth Timelines to Avoid Frame Drops in OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-introduction-to-adding-new-fonts-in-ae/"><u>[New] Introduction to Adding New Fonts in AE</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-instagram-memories-with-these-apps-for-2024/"><u>[New] Unlocking Instagram Memories with These Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-evaluating-video-coders-are-you-team-av1-or-vp9/"><u>[Updated] Evaluating Video Coders Are You Team Av1 or VP9?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-optimizing-large-scale-video-migrations-from-iphone-to-mac-systems/"><u>[Updated] Optimizing Large-Scale Video Migrations From iPhone to Mac Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-navigating-the-world-of-advanced-lut-design/"><u>2024 Approved Navigating the World of Advanced LUT Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-seamless-shift-in-music-production/"><u>2024 Approved The Seamless Shift in Music Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-premiere-pro-planning-and-templates/"><u>2024 Approved The Ultimate Guide to Premiere Pro Planning & Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools/"><u>2024 Approved Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/streaming-sounds-into-your-social-story-arcs/"><u>Streaming Sounds Into Your Social Story Arcs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssential-list-6-diverse-websites-for-youtube-visuals/"><u>The Essential List 6 Diverse Websites for YouTube Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-path-to-becoming-an-fcp-specialist-for-2024/"><u>The Ultimate Path to Becoming an FCP Specialist for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-vivo-s17e-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo S17e Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+</ul></div>
+

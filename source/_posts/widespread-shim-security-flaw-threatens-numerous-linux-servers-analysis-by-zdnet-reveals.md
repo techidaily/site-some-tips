@@ -1,7 +1,7 @@
 ---
 title: Widespread Shim Security Flaw Threatens Numerous Linux Servers, Analysis by ZDNet Reveals
-date: 2024-09-19 23:47:23
-updated: 2024-09-20 11:59:10
+date: 2024-11-21T03:33:31.710Z
+updated: 2024-11-27T04:00:05.025Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-posting-videos-on-instagram-easy-for-2024/"><u>[New] Posting Videos on Instagram Easy for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-mobile-experiences-ios-and-androids-vr-hits/"><u>[New] Top Mobile Experiences IOS & Android's VR Hits</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-digging-through-youtube-conversations/"><u>[Updated] 2024 Approved Digging Through YouTube Conversations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-master-the-art-of-repeating-iphones-videos/"><u>[Updated] 2024 Approved Master the Art of Repeating iPhones Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-leverage-linked-profiles-to-amplify-fb-stories-for-2024/"><u>[Updated] Leverage Linked Profiles to Amplify FB Stories for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-masterclasses-on-obtaining-visual-elements/"><u>[Updated] Masterclasses on Obtaining Visual Elements</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/12-innovative-online-platforms-to-elevate-your-facebook-cover-pics-for-2024/"><u>12 Innovative Online Platforms to Elevate Your Facebook Cover Pics for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-maximizing-hdr-photography-capabilities-on-iphone/"><u>2024 Approved Maximizing HDR Photography Capabilities on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-new-tech-horizon-with-microsofts-hololens-review/"><u>2024 Approved The New Tech Horizon with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-stock-photos-their-journey-to-internet-fame/"><u>2024 Approved Top Stock Photos Their Journey to Internet Fame</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-the-basics-of-motion-design/"><u>2024 Approved Understanding the Basics of Motion Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-content-creation-free-tools-for-downloading-vids-online/"><u>2024 Approved Unlocking Content Creation Free Tools for Downloading Vids Online</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/4-effiziente-methoden-fur-die-losung-der-fehlermeldung-nicht-bootgerat-fehler/"><u>4 Effiziente Methoden Für Die Lösung Der Fehlermeldung 'Nicht-Bootgerät'-Fehler</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-common-issues-encountered-during-steam-game-setup-or-update-process/"><u>Fixes for Common Issues Encountered During Steam Game Setup or Update Process</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-best-selling-oculus-rift-gaming-experiences/"><u>In 2024, The Best-Selling Oculus Rift Gaming Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-pathway-to-perfect-images-step-by-step-backdrop-erasure/"><u>In 2024, The Pathway to Perfect Images Step-By-Step Backdrop Erasure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultrawide-vs-uhd-4k-monitor-showdown-top-picks/"><u>In 2024, UltraWide VS UHD 4K Monitor Showdown Top Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-art-of-superior-images-for-free/"><u>In 2024, Unlocking the Art of Superior Images for Free</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-g54-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola G54 5G for Parents | Dr.fone</u></a></li>
+</ul></div>
+

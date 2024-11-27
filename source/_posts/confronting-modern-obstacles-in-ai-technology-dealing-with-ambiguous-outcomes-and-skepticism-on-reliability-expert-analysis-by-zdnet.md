@@ -1,7 +1,7 @@
 ---
 title: "Confronting Modern Obstacles in AI Technology: Dealing with Ambiguous Outcomes and Skepticism on Reliability | Expert Analysis by ZDNET"
-date: 2024-09-19 14:10:49
-updated: 2024-09-20 11:57:52
+date: 2024-11-24T03:38:14.892Z
+updated: 2024-11-27T03:48:48.500Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-refining-online-discussions-in-google-meet/"><u>[New] 2024 Approved Refining Online Discussions in Google Meet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ultimate-guide-8-budget-friendly-video-calls-on-windows-and-mac/"><u>[New] 2024 Approved Ultimate Guide 8 Budget-Friendly Video Calls on Windows & Mac</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-cartoonify-photos-wirelessly-on-pcs-macs-and-more/"><u>[New] Cartoonify Photos Wirelessly on PCs, Macs, and More</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-instagram-stardom-crafting-attractive-unboxing-videos/"><u>[New] Unlock Instagram Stardom Crafting Attractive Unboxing Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-background-replacement-on-instagrams-platform-for-2024/"><u>[Updated] Mastering Background Replacement on Instagram's Platform for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-prime-strategies-for-high-quality-youtube-mp3mpeg/"><u>2024 Approved Prime Strategies for High-Quality YouTube MP3/MPEG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-pcs-for-serious-workers/"><u>2024 Approved Superior PCs for Serious Workers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-battery-powered-google-wireless-nest-video-doorbells/"><u>Comprehensive Evaluation of Battery Powered Google Wireless Nest Video Doorbells</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-transferring-your-android-messages-to-pc-or-mac-effortlessly/"><u>Guide: Transferring Your Android Messages to PC or Mac Effortlessly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-find-n3-flip-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo Find N3 Flip Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-path-to-stunning-hdr-portraits/"><u>In 2024, The Ultimate Path to Stunning HDR Portraits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-revolution-of-perception-in-augmented-realms-for-2024/"><u>The Revolution of Perception in Augmented Realms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-expenses-in-music-video-creation-for-2024/"><u>Understanding Expenses in Music Video Creation for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728487008789-windows-10/"><u>Windows 10ユーザー向け｜完全なディスクバックアップ方法ガイド</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Elite PCs in 202N4: A Comprehensive Review by ZDNet with Insights on Leading Brands Like Apple and Dell"
-date: 2024-11-15T20:34:15.999Z
-updated: 2024-11-16T16:15:59.415Z
+date: 2024-11-22T02:34:41.655Z
+updated: 2024-11-26T19:08:02.726Z
 tags:
   - apple
 categories:
@@ -71,6 +71,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -83,13 +87,6 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How does systemwide AI text generation work?
 
 Apple
@@ -101,19 +98,6 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -128,10 +112,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -145,6 +126,10 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -163,10 +148,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -183,6 +165,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -224,24 +210,16 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/days-gone-officially-released-on-pc-discover-the-updated-first-person-shooter-experience-now/"><u>'Days Gone': Officially Released on PC - Discover the Updated First-Person Shooter Experience Now</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-comparing-the-most-popular-linux-snapshots-tools/"><u>[New] 2024 Approved Comparing the Most Popular Linux Snapshots Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-explore-free-youtube-pic-themes/"><u>[New] In 2024, Explore Free YouTube Pic Themes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-jailbreak-comedy-hour-best-fb-moments-of-amusement-and-awe-for-2024/"><u>[New] Jailbreak Comedy Hour Best FB Moments of Amusement and Awe for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-gradual-sound-escalation-auditions-guide-to-fades/"><u>[New] The Gradual Sound Escalation Audition’s Guide to Fades</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-percussion-prospector-find-and-test-free-software/"><u>[New] The Percussion Prospector – Find & Test Free Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-overview-dji-inspire-1-reviewed/"><u>[New] The Ultimate Overview DJI Inspire 1 Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-fundamentals-of-creating-breathtaking-canon-time-lapses/"><u>[Updated] The Fundamentals of Creating Breathtaking Canon Time-Lapses</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-poco-c55-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/chdman-to-the-rescue-tailoring-old-games-for-modern-storage/"><u>ChDMan to the Rescue: Tailoring Old Games for Modern Storage</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-f54-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy F54 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s24plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S24+ To Phone | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-innovate-your-mobile-photography-with-these-free-overlay-experts/"><u>In 2024, Innovate Your Mobile Photography with These Free Overlay Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-viewers-experience-with-top-mac-streamers/"><u>In 2024, Transform Your Viewers' Experience with Top Mac Streamers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/time-honored-tech-selfies-with-iphone-x-for-2024/"><u>Time-Honored Tech Selfies with iPhone X for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ae-titles-for-striking-visual-impact-for-2024/"><u>Top AE Titles for Striking Visual Impact for 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/transform-paperwork-into-digital-format-on-ios-mastering-the-art-of-ocr-with-iscanbook-go/"><u>Transform Paperwork Into Digital Format on iOS: Mastering the Art of OCR with iScanBook Go!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-power-of-time-markings-in-your-youtube-content-for-2024/"><u>Unlock the Power of Time Markings in Your YouTube Content for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-access-unlimited-free-high-quality-green-screen-footage-online/"><u>[New] 2024 Approved Access Unlimited Free, High-Quality Green Screen Footage Online</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-melodic-mix-audio-meets-images-online/"><u>[New] 2024 Approved Melodic Mix Audio Meets Images Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-frustration-to-finishing-how-magix-vpx-saves-time/"><u>[New] From Frustration to Finishing How Magix VPX Saves Time</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-leading-alternatives-to-twitter-ranked-best-for-2024/"><u>[New] Leading Alternatives to Twitter, Ranked Best for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-effective-b-roll-application/"><u>[Updated] Strategies for Effective B-Roll Application</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-companion-to-master-color-correction-top-11/"><u>2024 Approved The Photographer's Companion to Master Color Correction (Top 11)</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/come-modificare-il-tuo-hard-disk-su-windows-11-senza-dover-eseguire-uninstallazione-completa-metodi-efficaci-e-semplici-per-gli-utenti-di-tutti-i-livelli/"><u>Come Modificare Il Tuo Hard Disk Su Windows 11 Senza Dover Eseguire Un'installazione Completa - Metodi Efficaci E Semplici per Gli Utenti Di Tutti I Livelli!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-g54-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola G54 5GFRP Lock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-list-of-11-advanced-color-correction-and-grading-tutorials-for-2024/"><u>The Complete List of 11 Advanced Color Correction & Grading Tutorials for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-oceans-archive-best-practices-in-capturing-professional-underwater-footage-for-2024/"><u>The Ocean’s Archive Best Practices in Capturing Professional Underwater Footage for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-cross-platform-video-playback-software-for-2024/"><u>Unleashing the Power of Cross-Platform Video Playback Software for 2024</u></a></li>
 </ul></div>
 

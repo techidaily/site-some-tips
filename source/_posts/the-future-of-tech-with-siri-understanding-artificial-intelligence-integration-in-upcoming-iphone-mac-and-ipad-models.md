@@ -1,7 +1,7 @@
 ---
 title: "The Future of Tech with Siri: Understanding Artificial Intelligence Integration in Upcoming iPhone, Mac, and iPad Models"
-date: 2024-11-11T14:47:11.606Z
-updated: 2024-11-17T11:46:48.957Z
+date: 2024-11-21T23:43:02.709Z
+updated: 2024-11-26T20:55:25.461Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The cost of GPU processing
 
 Advanced AI features require substantial computational power, typically provided by high-performance GPUs. For instance, [NVIDIA's MGX with GH 200 and Grace Hopper superchip](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/) designed for AI training, inference, 5G, and HPC cost around $65,000 each. Deploying these servers regionally to support lower-end devices would be prohibitively expensive. Apple would easily need thousands of these units to support its entire user base, resulting in astronomical costs likely passed on to consumers through service fees.
@@ -45,10 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,10 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -77,10 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -125,20 +120,22 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-organizing-video-content-with-vimeo-chapters/"><u>[New] 2024 Approved Organizing Video Content with Vimeo Chapters</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-zipfile-subs-guide-from-archive-to-srt-file-format-for-2024/"><u>[New] Zipfile Subs Guide From Archive to SRT File Format for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-sound-changes-with-premiere-pro/"><u>2024 Approved Seamless Sound Changes with Premiere Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726222746499-movavi/"><u>網路直通無需付錢，改變音源格式：MOVAVI 自由型編排</u></a></li>
-<li><a href="https://some-tips.techidaily.com/a-csata-megallo-az-on-mikroszamara-top-20-kiktatasokkal-gyujtott-el-pc-programokba-es-telefonokba-2024/"><u>A Csata Megálló Az Ön Mikroszámára: Top 20 Kiktatásokkal Gyújtott El PC-Programokba És Telefonokba, 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/compilation-of-top-8-uhd-video-apps-free-on-pcmacos/"><u>Compilation of Top 8 UHD Video Apps, Free on PC/MacOS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722768260372-discover-the-top-10-travel-gadgets-today/"><u>Discover the Top 10 Travel Gadgets Today</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exploring-chatgpt-4-understanding-its-features-and-distinctiveness/"><u>Exploring ChatGPT-4: Understanding Its Features & Distinctiveness</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-conversion-easily-change-ppm-documents-with-movavi/"><u>Free Online Conversion: Easily Change PPM Documents with Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/google-meet-2024-6/"><u>Google Meet 錄影詳解 2024: 6 種高效錄影方法的深度比較分析</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-13-pro-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 13 Pro Passcode not Working?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-expert-strategies-for-efficient-video-editing-with-gopro-studio/"><u>In 2024, Expert Strategies for Efficient Video Editing with GoPro Studio</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavis-free-web-service-convert-your-3gp-files-to-swf-format-instantly/"><u>Movavi's Free Web Service: Convert Your 3GP Files to Swf Format Instantly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/wmvmp3-movavi/"><u>제공된 온라인 WMV/MP3 크리에이션 - Movavi의 무료 기회</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-generating-a-custom-youtube-subscriber-url-for-2024/"><u>[New] Generating a Custom YouTube Subscriber URL for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-sprint-to-quicker-vimeo-streams/"><u>[New] Sprint to Quicker Vimeo Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tiktok-content-mastery-learn-to-alter-digit-scenes-effectively/"><u>[New] TikTok Content Mastery Learn to Alter Digit Scenes Effectively</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagrams-best-tools-ranked-editors-to-elevate-reels/"><u>[Updated] In 2024, Instagram's Best Tools Ranked Editors to Elevate Reels</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-optimizing-latency-for-real-time-obs-viewing/"><u>[Updated] In 2024, Optimizing Latency for Real-Time OBS Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-cinematographers-playbook-top-5-creative-strategies/"><u>[Updated] The Cinematographer's Playbook Top 5 Creative Strategies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974418358-fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-professionals-almanac-to-efficient-voice-recording/"><u>In 2024, Professional's Almanac to Efficient Voice Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-submission-a-podcasters-guide/"><u>In 2024, Streamlining Submission A Podcaster's Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-definitive-guide-to-premium-vr-players-oculus-focus/"><u>In 2024, The Definitive Guide to Premium VR Players - Oculus Focus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-route-to-richer-tiktok-bios-a-guide-to-linktree-integration/"><u>In 2024, The Route to Richer TikTok Bios A Guide to Linktree Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>In 2024, Transform Your Screen PIP Tutorials for macOS Enthusiasts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-meizu-21-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Meizu 21 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-a-malfunctioning-xbox-series-x-or-s-headset-expert-tips-included/"><u>Solutions for a Malfunctioning Xbox Series X or S Headset - Expert Tips Included</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-b-roll-sequences-with-main-scenes-effortlessly-for-2024/"><u>Syncing B Roll Sequences with Main Scenes Effortlessly for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-tactics-for-advanced-iphone-x-animoji-utilization-for-2024/"><u>Transformative Tactics for Advanced iPhone X Animoji Utilization for 2024</u></a></li>
 </ul></div>
 

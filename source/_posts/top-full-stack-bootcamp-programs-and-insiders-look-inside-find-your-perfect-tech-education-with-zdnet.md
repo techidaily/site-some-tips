@@ -1,7 +1,7 @@
 ---
 title: "Top Full Stack Bootcamp Programs & Insider's Look Inside: Find Your Perfect Tech Education with ZDNET"
-date: 2024-09-18 20:40:32
-updated: 2024-09-20 10:18:14
+date: 2024-11-20T02:15:40.900Z
+updated: 2024-11-27T04:15:06.154Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-precision-guide-to-mastering-mobizens-screen-capture-functionality/"><u>[New] In 2024, Precision Guide to Mastering Mobizen's Screen Capture Functionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-twitter-video-download-tool-for-mp3-conversion/"><u>[New] Twitter Video Download Tool for MP3 Conversion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-quick-route-from-srt-to-text-txt-files/"><u>[Updated] The Ultimate, Quick Route From SRT to Text (TXT) Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-blueprint-for-obtaining-free-visual-aids/"><u>2024 Approved The Blueprint for Obtaining Free Visual Aids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-lut-filters-in-obs-studio-effectively/"><u>2024 Approved Utilizing LUT Filters in OBS Studio Effectively</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-insignia-cn400f-usb-network-adapter-drivers-here/"><u>Get Your Insignia CN400F USB Network Adapter Drivers Here</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-11-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 11 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-12-mini-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 12 mini? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-phone-personalizing-the-ios-alert-sound/"><u>In 2024, Transform Your Phone Personalizing the iOS Alert Sound</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-13-mini-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone 13 mini in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-c50-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-sound-key-audio-interfaces-for-podcasters-for-2024/"><u>Streamline Your Sound Key Audio Interfaces for Podcasters for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/supreme-4k-tvs-for-the-ultimate-gaming-experience-for-2024/"><u>Supreme 4K TVs for the Ultimate Gaming Experience for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-android-time-lapses-innovations-in-video-capture-for-2024/"><u>The Future of Android Time-Lapses Innovations in Video Capture for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-civi-3-disney-100th-anniversary-edition-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Civi 3 Disney 100th Anniversary Edition Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-rankings-secrets-enhancing-video-visibility/"><u>YouTube Rankings Secrets Enhancing Video Visibility</u></a></li>
+</ul></div>
+

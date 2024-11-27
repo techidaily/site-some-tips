@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the New M3 and M2 MacBook Air for Savvy Shoppers | GadgetCentral"
-date: 2024-11-15T16:53:03.952Z
-updated: 2024-11-16T23:48:06.369Z
+date: 2024-11-21T17:54:20.359Z
+updated: 2024-11-27T00:10:13.756Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -45,6 +49,10 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
@@ -56,13 +64,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -95,16 +96,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -116,10 +108,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -131,10 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -171,18 +157,22 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-nine-crucial-methods-to-log-computer-speakers-and-microphones/"><u>[Updated] 2024 Approved Nine Crucial Methods to Log Computer Speakers and Microphones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-through-tiktoks-video-palettes/"><u>2024 Approved Navigating Through TikTok's Video Palettes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-perfection-for-newbies-the-lunapic-way/"><u>2024 Approved Photo Perfection for Newbies The LunaPic Way</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-science-of-social-media-optimizing-post-performance-on-instagram/"><u>2024 Approved The Science of Social Media Optimizing Post Performance on Instagram</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726227573560-tsmpeg-movavi/"><u>網路直接免費轉換TS到MPEG影片-Movavi 轉檔器</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mp4mkvavimp3/"><u>無限 MP4/MKV/AVI直接轉為MP3 - 移馳自由版音訊格式切換器</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-future-proofing-healthcare/"><u>ChatGPT's Role in Future-Proofing Healthcare</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convert-wav-files-to-au-format-free-online-movavi-converter/"><u>Convert WAV Files to AU Format Free Online - Movavi Converter</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-resolving-the-not-launching-error-in-hogwarts-legacy-updated-tips-for-202cu/"><u>Expert Advice: Resolving the 'Not Launching' Error in Hogwarts Legacy (Updated Tips for 202Cu)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/football-manager-2020-stability-guide-fixing-your-game-from-freezing-and-crashing/"><u>Football Manager 2020 Stability Guide: Fixing Your Game From Freezing and Crashing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-converter-change-opus-files-to-mp4-format-with-ease/"><u>Free Online Converter: Change Opus Files to MP4 Format with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratuito-conversor-imagenes-en-formato-jpeg-online-herramienta-de-alta-calidad-movavi/"><u>Gratuito Conversor Imagenes en Formato JPEG Online: Herramienta De Alta Calidad - Movavi</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-v30-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo V30 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-premier-ios-tools-mimicking-playstation-2-experience/"><u>[Updated] 2024 Approved Premier IOS Tools Mimicking PlayStation 2 Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-your-editing-potential-the-ultimate-guide-to-background-erasure-in-ps/"><u>[Updated] Unlock Your Editing Potential The Ultimate Guide to Background Erasure in PS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-full-potential-of-apods-downloads/"><u>[Updated] Unlocking the Full Potential of APods Downloads</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube/"><u>2024 Approved Break It Down Free Techniques to Go Frame by Frame on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-gateway-guide-entering-the-world-of-photo-video-with-pixiz/"><u>2024 Approved The Gateway Guide Entering the World of Photo-Video with Pixiz</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-superior-hd-videos-on-android-devices/"><u>2024 Approved Unleash Superior HD Videos on Android Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-history-your-ultimate-guide-to-current-and-past-mac-operating-systems/"><u>Decoding the History: Your Ultimate Guide to Current and Past Mac Operating Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-canon-printer-mf82eb-driver-for-windows-supported-versions-78110/"><u>Get Canon Printer MF82eb Driver for WINDOWS - Supported Versions: 7/8.1/10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-palm-2-vs-openai-gpt-4-an-in-depth-look-at-the-key-contrasts-between-these-two-powerhouse-models/"><u>Google PaLM 2 vs OpenAI GPT-4: An In-Depth Look at the Key Contrasts Between These Two Powerhouse Models</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/icrafts-new-b760m-motherboard-infused-with-pastel-hues-a-must-have-for-anime-fans/"><u>ICraft's New B760M Motherboard Infused with Pastel Hues: A Must-Have for Anime Fans</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tricks-to-turn-off-youtube-videos-without-compromise/"><u>In 2024, Tricks to Turn Off YouTube Videos Without Compromise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-creativity-essential-green-screen-techniques/"><u>In 2024, Unlock Creativity Essential Green Screen Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-restoring-startup-functionality-in-mozilla-thunderbird/"><u>Step-by-Step Instructions: Restoring Startup Functionality in Mozilla Thunderbird</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essentials-of-firefoxs-pip-functionality-for-2024/"><u>The Essentials of Firefox's PIP Functionality for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-calculus-of-cashflow-from-creativity-measuring-your-youtube-earnings-and-impact/"><u>The Ultimate Calculus of Cashflow From Creativity Measuring Your YouTube Earnings and Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-ios-albums-ordering-and-cloud-syncing-essentials-for-2024/"><u>Unlocking the Potential of iOS Albums Ordering & Cloud Syncing Essentials for 2024</u></a></li>
 </ul></div>
 

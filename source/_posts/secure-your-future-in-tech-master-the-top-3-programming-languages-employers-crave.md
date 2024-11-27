@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Future in Tech: Master the Top 3 Programming Languages Employers Crave"
-date: 2024-09-17 21:50:20
-updated: 2024-09-20 12:55:17
+date: 2024-11-24T04:12:45.479Z
+updated: 2024-11-27T03:00:19.418Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -40,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -67,6 +75,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-desktop-and-mobile-solutions-how-to-rotate-videos-for-instagram/"><u>[New] In 2024, [Desktop & Mobile Solutions] How to Rotate Videos for Instagram?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-the-most-effective-pc-screen-capture-apps/"><u>[New] In 2024, The Ultimate Guide to the Most Effective PC Screen Capture Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-visual-treatment-applying-filters-to-videos/"><u>[New] Superior Visual Treatment Applying Filters to Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-synergy-of-style-and-functionality-in-ae-plugins/"><u>[New] Synergy of Style and Functionality in AE Plugins</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-toolwiz-analysis-revolutionizing-image-editing-on-the-go/"><u>[New] Toolwiz Analysis Revolutionizing Image Editing on the Go</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-innovative-approaches-to-android-video-capture/"><u>[Updated] In 2024, Innovative Approaches to Android Video Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-staying-relevant-adapting-to-periscope-trends/"><u>[Updated] Staying Relevant Adapting to Periscope Trends</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-android-gaming-experience-kinemaster-reviewed/"><u>2024 Approved The Ultimate Android Gaming Experience - KineMaster Reviewed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-razr-40-ultra-by-drfone-android/"><u>How to Bypass FRP on Motorola Razr 40 Ultra?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-no-fuss-tactics-for-saving-vimeo-footage/"><u>In 2024, No-Fuss Tactics for Saving Vimeo Footage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-photo-perfection-discover-our-6-best-background-erasers/"><u>In 2024, Ultimate Photo Perfection – Discover Our 6 Best Background Erasers</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-realme-11-proplus-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Realme 11 Pro+ without backup.</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-techniques-to-preserve-and-store-mov-files-on-windows-pcs/"><u>Top Techniques to Preserve and Store Mov Files on Windows PCs</u></a></li>
+</ul></div>
+

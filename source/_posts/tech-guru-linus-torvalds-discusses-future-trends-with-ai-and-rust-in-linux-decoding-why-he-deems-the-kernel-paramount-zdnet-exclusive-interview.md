@@ -1,7 +1,7 @@
 ---
 title: Tech Guru Linus Torvalds Discusses Future Trends with AI & Rust in Linux, Decoding Why He Deems the Kernel Paramount | ZDNET Exclusive Interview
-date: 2024-09-17 10:19:15
-updated: 2024-09-20 10:27:15
+date: 2024-11-25T17:36:48.533Z
+updated: 2024-11-26T19:41:40.107Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -67,6 +71,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-techniques-for-ensuring-unbiased-decision-making/"><u>[New] Techniques For Ensuring Unbiased Decision-Making</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-triple-tier-phones-the-best-choice-for-high-quality-videos/"><u>[Updated] Triple-Tier Phones The Best Choice for High-Quality Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-old-school-techniques-elevating-edits/"><u>2024 Approved Prime Old-School Techniques Elevating Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-at-memes-app-version/"><u>2024 Approved The Best at Memes (App Version)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-legally-sharing-tunes-on-instagram/"><u>2024 Approved The Ultimate Guide to Legally Sharing Tunes on Instagram</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-lava-yuva-3-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Lava Yuva 3 Through Google Earth?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-building-relationships-one-post-at-a-time-on-fb/"><u>In 2024, Building Relationships One Post at a Time on FB</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-rediscovering-removed-youtube-video-easy-access-explained/"><u>In 2024, Rediscovering Removed YouTube Video Easy Access Explained</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-social-image-saver-stealing-and-storing-gif-images-from-twitter/"><u>In 2024, The Social Image Saver Stealing and Storing GIF Images From Twitter</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-your-mobile-power-needs-with-the-innovative-ampace-andes-1500/"><u>Maximize Your Mobile Power Needs with the Innovative Ampace Andes 1500</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-discord-delays-in-their-tracks-expert-solutions-and-strategies/"><u>Stop Discord Delays in Their Tracks - Expert Solutions and Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-economic-aspects-of-making-a-music-video-for-2024/"><u>The Economic Aspects of Making a Music Video for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-mi-drone-4k-review-drones-vs-landscape-photography-for-2024/"><u>The Mi Drone 4K Review Drones vs Landscape Photography for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/thorough-review-gopro-hero4-slr4-sliver-features/"><u>Thorough Review GoPro Hero4 SLR4 Sliver Features</u></a></li>
+</ul></div>
+

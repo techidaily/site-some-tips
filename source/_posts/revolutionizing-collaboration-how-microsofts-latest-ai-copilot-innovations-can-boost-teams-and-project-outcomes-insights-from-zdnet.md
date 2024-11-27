@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Collaboration: How Microsoft's Latest AI Copilot Innovations Can Boost Teams & Project Outcomes - Insights From ZDNet"
-date: 2024-09-17 22:21:19
-updated: 2024-09-20 11:16:21
+date: 2024-11-20T01:20:54.921Z
+updated: 2024-11-26T18:49:15.238Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,6 +75,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -123,6 +139,10 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-simplify-your-digital-life-5-essential-recording-strategies-web/"><u>[New] 2024 Approved Simplify Your Digital Life 5 Essential Recording Strategies Web</u></a></li>
+<li><a href="https://games-able.techidaily.com/144hz-monitors-the-ultimate-gaming-visual-experience/"><u>144Hz Monitors: The Ultimate Gaming Visual Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-6-iphone-tools-for-erasing-unwanted-items-in-images/"><u>2024 Approved Top 6 iPhone Tools for Erasing Unwanted Items in Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-zoom-potential-3-secrets-to-superior-video-changes/"><u>2024 Approved Unlock Zoom Potential 3 Secrets to Superior Video Changes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/crafting-the-perfect-chat-sound-downloading-and-customizing-whatsapp-ringtones-for-2024/"><u>Crafting the Perfect Chat Sound Downloading & Customizing WhatsApp Ringtones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/discover-the-future-of-reading-dive-into-the-world-of-kindle-e-readers/"><u>Discover the Future of Reading: Dive Into the World of Kindle E-Readers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easily-obtain-and-install-the-latest-dell-d3100-printer-software-today/"><u>Easily Obtain and Install the Latest Dell D3100 Printer Software Today</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-note-12-pro-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Xiaomi Redmi Note 12 Pro 5G Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-striding-forward-a-comprehensive-review-of-vr-walkers/"><u>In 2024, Striding Forward A Comprehensive Review of VR Walkers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-dialogue-in-film-and-theatre/"><u>In 2024, The Art of Dialogue in Film and Theatre</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-audiencier-names-with-top-ai-tools/"><u>In 2024, Transforming Audiencier Names with Top AI Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-master-plugins-for-final-cut-pro-for-2024/"><u>Top 10 Master Plugins for Final Cut Pro for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-20-free-unlicensed-pubg-screenshot-compilations-for-2024/"><u>Top 20 Free Unlicensed PUBG Screenshot Compilations for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-resolving-itunes-store-unavailable-for-transactions-error/"><u>Troubleshooting: Resolving 'iTunes Store Unavailable for Transactions' Error</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unifying-online-collaboration-tools-skype-and-zoom-for-2024/"><u>Unifying Online Collaboration Tools Skype & Zoom for 2024</u></a></li>
+</ul></div>
+

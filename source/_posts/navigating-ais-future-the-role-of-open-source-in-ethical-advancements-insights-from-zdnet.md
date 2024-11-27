@@ -1,7 +1,7 @@
 ---
 title: "Navigating AI's Future: The Role of Open Source in Ethical Advancements - Insights From ZDNet"
-date: 2024-09-17 23:51:51
-updated: 2024-09-20 12:38:42
+date: 2024-11-24T21:03:59.273Z
+updated: 2024-11-26T23:33:48.595Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-color-your-skies-dji-mini-2-and-air-2s-luts-complimentary-offer/"><u>[New] 2024 Approved Color Your Skies – DJI Mini 2 & Air 2S LUTS Complimentary Offer</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-premium-asmr-microphones-impressive-audio-at-economical-costs/"><u>[New] 2024 Approved Premium ASMR Microphones Impressive Audio at Economical Costs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-shedding-light-on-brighter-hdr-approaches-with-high-quality-luminosity/"><u>[New] 2024 Approved Shedding Light on Brighter HDR Approaches with High-Quality Luminosity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-artisans-guide-to-aesthetic-photographic-adjustments/"><u>[New] The Artisan's Guide to Aesthetic Photographic Adjustments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-key-to-combining-linktree-and-tiktok-biographies/"><u>[New] The Key to Combining Linktree and TikTok Biographies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-total-command-mastery-powerdirector-review-and-guide/"><u>[New] Total Command Mastery PowerDirector Review & Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastering-tempo-a-guide-to-instagram-story-adjustments/"><u>[Updated] 2024 Approved Mastering Tempo A Guide to Instagram Story Adjustments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-edits-with-smart-use-of-luts-in-premiere-pro/"><u>[Updated] Transform Your Edits with Smart Use of LUTs in Premiere Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ultimate-action-cam-for-high-intensity-sports-for-2024/"><u>[Updated] Ultimate Action Cam for High-Intensity Sports for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-list-selecting-excellent-webcams-for-podcasts/"><u>[Updated] Ultimate List Selecting Excellent Webcams for Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-selecting-premium-text-tools-for-ae/"><u>2024 Approved The Ultimate Guide to Selecting Premium Text Tools for AE</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-iphone-se-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or iPhone SE without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-advanced-techniques-flawless-insertion-of-vimeo-video-in-slides/"><u>In 2024, Advanced Techniques Flawless Insertion of Vimeo Video in Slides</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-xiaomi-14-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Xiaomi 14 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-prime-catchy-headline-creator/"><u>In 2024, Prime Catchy Headline Creator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-11-windows-11-secrets-unveiled/"><u>In 2024, Top 11 Windows 11 Secrets Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-sound-connection-a-podcasters-guide/"><u>In 2024, Ultimate Sound Connection A Podcaster's Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/snap-to-it-ios-and-android-writers-choice-for-2024/"><u>Snap to It – iOS & Android' Writers’ Choice for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unpacking-idevices-entertainment-apple-arcades-role/"><u>Unpacking iDevices Entertainment: Apple Arcade's Role</u></a></li>
+</ul></div>
+

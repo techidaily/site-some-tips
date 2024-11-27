@@ -1,7 +1,7 @@
 ---
 title: Microsoft Unveils Enhanced Azure AI Speech Capabilities During Build 2024 - Insights From ZDNet
-date: 2024-09-18 13:26:12
-updated: 2024-09-20 12:49:16
+date: 2024-11-25T22:34:52.808Z
+updated: 2024-11-27T05:05:01.069Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-step-by-step-to-a-tailored-facebook-memory-reel/"><u>[New] In 2024, Step-by-Step to a Tailored Facebook Memory Reel</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-vision-to-execution-the-full-spectrum-of-personal-branding-on-youtube/"><u>[Updated] 2024 Approved From Vision to Execution The Full Spectrum of Personal Branding on YouTube</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1-complete-guide-to-screen-capture-techniques-mastering-the-basics/"><u>1. Complete Guide to Screen Capture Techniques - Mastering the Basics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-essential-insights-on-recording-google-video-conferences/"><u>2024 Approved Essential Insights on Recording Google Video Conferences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-melodic-content-and-legalities-on-insta/"><u>2024 Approved Melodic Content and Legalities on Insta</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-updated-drivers-for-your-toshiba-multifunction-device-on-windows-os/"><u>How To Install Updated Drivers For Your Toshiba Multifunction Device on Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-to-download-youtubes-subtitles/"><u>In 2024, Unveiling the Secrets to Download YouTube's Subtitles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-privacy-understanding-how-neural-network-inversion-can-expose-chatbots/"><u>Protecting Privacy: Understanding How Neural Network Inversion Can Expose Chatbots</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-photography-with-darktable-advanced-raw-image-editing-on-macos-and-linux-completely-gratis/"><u>Revolutionize Your Photography with Darktable: Advanced Raw Image Editing on macOS & Linux, Completely Gratis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-personalizing-your-whatsapp-ringtone-iphonesandroids-included-for-2024/"><u>The Ultimate Guide to Personalizing Your WhatsApp Ringtone - iPhones/Androids Included for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unhackable-blueprint-for-inserting-your-tiktok-links-for-2024/"><u>Unhackable Blueprint for Inserting Your TikTok Links for 2024</u></a></li>
+</ul></div>
+

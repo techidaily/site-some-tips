@@ -1,7 +1,7 @@
 ---
 title: SUSE Elevates Distribution Longevity, Offers Unmatched 19-Year Support – Exclusive in Linux World | ZDNet
-date: 2024-09-18 13:47:55
-updated: 2024-09-20 12:45:47
+date: 2024-11-20T16:10:59.806Z
+updated: 2024-11-26T19:29:38.634Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,23 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-snapseed-essentials-starting-your-editing-journey/"><u>[New] Snapseed Essentials Starting Your Editing Journey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-gb-requirement-for-a-days-film/"><u>[New] Understanding GB Requirement for a Day's Film</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-step-by-step-securely-attach-a-link-to-your-tiktok-profile/"><u>[Updated] 2024 Approved Step-by-Step Securely Attach a Link to Your TikTok Profile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-editing-hacks-for-flawless-image-edits-on-canva/"><u>2024 Approved Ultimate Editing Hacks for Flawless Image Edits on Canva</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-camon-20-premier-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Camon 20 Premier 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-telehealth-advancements-with-vr-integrations/"><u>In 2024, Telehealth Advancements with VR Integrations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-prime-collection-of-no-cost-passport-photo-making-software/"><u>In 2024, The Prime Collection of No-Cost Passport Photo Making Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-webcam-tech-unveiled-best-recording-practices/"><u>In 2024, WebCam Tech Unveiled Best Recording Practices</u></a></li>
+</ul></div>
+

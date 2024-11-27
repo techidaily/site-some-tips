@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Simulation Suite Unveiled: Introducing iOS & Android Emulators with Extended Template Options in Google's Project Indexed"
-date: 2024-09-17 11:18:27
-updated: 2024-09-20 12:19:42
+date: 2024-11-23T02:15:50.848Z
+updated: 2024-11-27T04:34:08.703Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -40,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-perfecting-your-on-air-presence-youtube-and-twitch-streaming-through-obs/"><u>[New] In 2024, Perfecting Your On-Air Presence YouTube & Twitch Streaming Through OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-portable-battery-packs-to-keep-recording-longer/"><u>[New] Portable Battery Packs to Keep Recording Longer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-8-android-visionaries-for-speedy-videos/"><u>[New] Top 8 Android Visionaries for Speedy Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-vivocut-editing-a-comprehensive-2024-guide-and-review/"><u>[New] Ultimate VivoCut Editing A Comprehensive 2024 Guide & Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-zoom-strategies-engaging-small-groups-efficiently/"><u>[New] Zoom Strategies Engaging Small Groups Efficiently</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-your-video-editing-with-device-filters/"><u>[Updated] Streamlining Your Video Editing with Device Filters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-picks-superior-cloud-space-solutions/"><u>[Updated] Top Picks Superior Cloud Space Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-spots-for-classic-ringtone-downloads/"><u>[Updated] Top Spots for Classic Ringtone Downloads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-yt-shorts-soundtrack-hits-top-10-trending-sounds-for-2024/"><u>[Updated] YT Shorts Soundtrack Hits Top 10 Trending Sounds for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-technical-tips-to-secure-flawless-broadcasting/"><u>2024 Approved Top-Tier Technical Tips to Secure Flawless Broadcasting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breathing-life-into-your-phone-the-complete-guide-to-android-audio-customization/"><u>Breathing Life Into Your Phone The Complete Guide to Android Audio Customization</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-z-fold-5-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy Z Fold 5 support MKV video files?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-quicksnap-firefox-enhancements/"><u>In 2024, QuickSnap Firefox Enhancements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/jumpstart-with-these-8-ready-to-use-gpt-variants-today/"><u>Jumpstart with These 8 Ready-to-Use GPT Variants Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-camcorders-for-extreme-weather-and-splashes-review-for-2024/"><u>Top 7 Camcorders for Extreme Weather and Splashes Review for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tips-for-creating-highly-sharable-insta-unpacked-content-for-2024/"><u>Top Tips for Creating Highly Sharable Insta Unpacked Content for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-enjoy-3d-videos-on-microsoft-windows-for-free/"><u>Ultimate Guide: Enjoy 3D Videos on Microsoft Windows for Free!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-resource-list-open-source-imagery-sanctuary-for-2024/"><u>Ultimate Resource List Open-Source Imagery Sanctuary for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Shared Frustrations: Why Upgrading to iPhone on iOS 18 Is a Major Misstep - A Community Discussion"
-date: 2024-11-15T23:58:46.519Z
-updated: 2024-11-16T21:35:02.173Z
+date: 2024-11-25T04:24:49.013Z
+updated: 2024-11-26T20:36:25.420Z
 tags:
   - apple
 categories:
@@ -26,25 +26,19 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -55,16 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -74,6 +59,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -91,13 +80,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -111,6 +93,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -154,21 +140,19 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/updated-noble-nine-top-dvd-creation-tools-sierra-edition/"><u>[Updated] Noble Nine Top DVD Creation Tools, Sierra Edition</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-streamline-your-tech-expertise-with-io-screen-recording/"><u>[Updated] Streamline Your Tech Expertise with IO Screen Recording</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-checklist-for-smooth-transitions/"><u>[Updated] The Ultimate Checklist for Smooth Transitions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-turn-your-iphone-vids-clockwise/"><u>[Updated] Turn Your iPhone Vids Clockwise</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>[Updated] Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unleash-power-in-social-media-10-advanced-tactics-for-fb-optimization-for-2024/"><u>[Updated] Unleash Power in Social Media 10 Advanced Tactics for FB Optimization for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-potential-best-video-editing-hacks/"><u>2024 Approved Unlock Your Potential Best Video Editing Hacks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725286841482-dvd/"><u>意外な裏技：DVDコピーと変換を効率化するハードウェア・アクセラレーションの仕組み</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-repair-tips-for-when-your-dvdbdcd-drive-wont-eject-or-open-properly/"><u>DIY Repair Tips for When Your DVD/BD/CD Drive Won't Eject or Open Properly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-virtual-meetings-in-google-mail/"><u>In 2024, Streamlining Virtual Meetings in Google Mail</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-on-apples-m4-mac-mini-prospective-pricing-release-window-and-tech-specs-analysis/"><u>Inside Scoop on Apple's M4 Mac Mini - Prospective Pricing, Release Window, and Tech Specs Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-restoring-your-google-map-experience-when-problems-arise/"><u>Step-by-Step Guide to Restoring Your Google Map Experience when Problems Arise</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unmatched-motion-blur-free-videos-top-phones-with-ois-technology-advantage-for-2024/"><u>Unmatched Motion Blur-Free Videos Top Phones with OIS Technology Advantage for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unstuck-from-intel-drivers-and-support-assistance-problems-expert-fixes-for-pc-users/"><u>Unstuck From Intel Drivers and Support Assistance Problems: Expert Fixes for PC Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-3d-lut-magic-a-deep-dive-into-photoshop-for-2024/"><u>Unveiling 3D LUT Magic A Deep Dive Into Photoshop for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-taking-your-content-public-steps-for-live-streaming-for-2024/"><u>[New] Taking Your Content Public Steps for Live Streaming for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-path-to-pristine-zoom-video-settings/"><u>[New] The Path to Pristine Zoom Video Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-photography-frames/"><u>[New] Top 10 Photography Frames</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-a-complete-overview-of-vsco-photo-editor/"><u>[Updated] 2024 Approved A Complete Overview of VSCO Photo Editor</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-12-flip-screen-cams-for-dynamic-videography/"><u>[Updated] Top 12 Flip-Screen Cams for Dynamic Videography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-motion-systems-scrutiny-report/"><u>[Updated] Total Motion Systems Scrutiny Report</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-learners-handbook-of-av1-technology/"><u>2024 Approved The Learner's Handbook of AV1 Technology</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-redmi-a2-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi Redmi A2 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhancing-narratives-with-temporal-and-spatial-shifts-for-2024/"><u>Enhancing Narratives with Temporal & Spatial Shifts for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-a05swithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel A05swith/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-videos-swiftly-with-these-top-8-iphone-apps/"><u>In 2024, Transform Your Videos Swiftly with These Top 8 iPhone Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-for-effortless-installation-of-msixbundle-and-appx-packages/"><u>Ultimate Guide for Effortless Installation of MSixbundle & Appx Packages</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-a-curated-selection-of-websites-for-obtaining-quality-whoosh-sound-experience/"><u>Updated A Curated Selection of Websites for Obtaining Quality Whoosh Sound Experience</u></a></li>
 </ul></div>
 

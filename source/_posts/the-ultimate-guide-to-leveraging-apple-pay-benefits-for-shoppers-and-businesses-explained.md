@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Leveraging Apple Pay - Benefits for Shoppers and Businesses Explained!
-date: 2024-11-11T12:10:21.239Z
-updated: 2024-11-16T20:31:20.822Z
+date: 2024-11-20T23:56:58.867Z
+updated: 2024-11-27T03:14:19.156Z
 tags:
   - apple
 categories:
@@ -28,16 +28,13 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -46,6 +43,10 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -69,13 +70,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -93,10 +87,7 @@ Enter your passcode to confirm Apple Pay payment.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
@@ -113,14 +104,11 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
 
@@ -130,13 +118,6 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 2. Tap on Add Card and follow the prompts to add your new card.
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
 
@@ -155,6 +136,10 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 **Also: [Venmo and PayPal now offer 'Tap to Pay' on iPhone for businesses](https://www.zdnet.com/article/venmo-and-paypal-now-offer-tap-to-pay-on-iphone-for-businesses/)**
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Apple Cash?
 
@@ -212,22 +197,24 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-mobile-magnification-premium-highlights-for-iphonesandroids/"><u>[New] Mobile Magnification Premium Highlights for IPhones/Androids</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-social-media-potential-a-guide-to-video-marketing-on-fb-for-2024/"><u>[New] Unlocking Social Media Potential A Guide to Video Marketing on FB for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-10-youtube-tips-for-teachers/"><u>[Updated] 2024 Approved 10 YouTube Tips for Teachers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gourmet-guide-producing-culinary-content/"><u>[Updated] In 2024, Gourmet Guide Producing Culinary Content</u></a></li>
-<li><a href="https://some-tips.techidaily.com/evolution-of-abbyy-embracing-a-new-identity-with-an-emphasis-on-organizational-growth-and-personnel-empowerment/"><u>Evolution of ABBYY: Embracing a New Identity with an Emphasis on Organizational Growth and Personnel Empowerment</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-noise-free-experience-overcoming-lack-of-audio-in-hdmi-connections-between-computer-monitor-and-tv/"><u>Fix Noise-Free Experience: Overcoming Lack of Audio in HDMI Connections Between Computer, Monitor, and TV</u></a></li>
-<li><a href="https://some-tips.techidaily.com/future-leaders-expect-more-process-clarity-and-innovative-tech-reveals-abbyy-research-on-wfh-adaptations/"><u>Future Leaders Expect More Process Clarity and Innovative Tech, Reveals ABBYY Research on WFH Adaptations</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-fix-the-livekernelevent-error-code/"><u>How to Troubleshoot and Fix the LiveKernelEvent Error (Code</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-genuine-consumer-centric-approach-now-at-the-forefront-of-insurance-claims/"><u>Is Genuine Consumer-Centric Approach Now at the Forefront of Insurance Claims?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leverage-advanced-traffic-insights-the-power-of-cookiebot-technology-on-websites/"><u>Leverage Advanced Traffic Insights: The Power of Cookiebot Technology on Websites</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leveraging-abbyys-text-recognition-vw-explores-enhanced-infotainment-tech/"><u>Leveraging ABBYY's Text Recognition: VW Explores Enhanced Infotainment Tech</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-advanced-website-insights-and-customized-content/"><u>Leveraging Cookiebot Technology for Advanced Website Insights and Customized Content</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-mental-clarity-tips-on-quieting-phones-organizing-thoughts-and-reflective-introspection-from-the-abbyy-experts/"><u>Mastering Mental Clarity: Tips on Quieting Phones, Organizing Thoughts, and Reflective Introspection From the ABBYY Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-marketplace-strategies-from-the-abbyy-ai-hub/"><u>Navigating the Marketplace: Strategies From the ABBYY AI Hub</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ess-integration-of-smartphone-tech-in-creating-youtube-channels/"><u>Seamless Integration of Smartphone Tech in Creating YouTube Channels</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-zte-nubia-flip-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On ZTE Nubia Flip 5G</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unbeatable-bargain-video-content-websites-for-2024/"><u>Unbeatable Bargain Video Content Websites for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-leveraging-technology-tools-for-accurate-and-efficient-market-analysis/"><u>[New] Leveraging Technology Tools for Accurate and Efficient Market Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-picks-for-instagram-soundtracks-and-how-to-design-a-stellar-chime/"><u>[New] Top Picks for Instagram Soundtracks & How to Design a Stellar Chime</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-innovative-approaches-to-efficiently-capture-and-save-your-screens-with-mobizen/"><u>[Updated] 2024 Approved Innovative Approaches to Efficiently Capture and Save Your Screens with Mobizen</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-behind-the-scenes-music-insights-for-ig/"><u>[Updated] In 2024, Behind the Scenes Music Insights for IG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-to-navigate-and-thrive-with-product-sponsors-on-youtube/"><u>[Updated] Strategies to Navigate and Thrive with Product Sponsors on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-metaverse-unraveled-explore-these-6-vivid-models/"><u>[Updated] The Metaverse Unraveled Explore These 6 Vivid Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-9-premier-video-translators-for-accurate-global-communication/"><u>[Updated] Ultimate Guide 9 Premier Video Translators for Accurate Global Communication</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtubes-short-form-videos-10-tactics-for-dominance-in-views/"><u>[Updated] Youtube's Short-Form Videos - 10 Tactics for Dominance in Views</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhancing-video-appeal-20-premium-thumbnail-fonts/"><u>2024 Approved Enhancing Video Appeal 20 Premium Thumbnail Fonts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-harmonize-visuals-and-melodies-in-facebook-media-posts/"><u>2024 Approved Harmonize Visuals & Melodies in Facebook Media Posts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-perfect-portrait-retouching-conceal-dont-deceive/"><u>2024 Approved Perfect Portrait Retouching Conceal, Don't Deceive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategic-steps-for-a-million-viewing-video-masterpiece/"><u>2024 Approved Strategic Steps for a Million-Viewing Video Masterpiece</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-the-power-of-voice-ms-words-speech-recognition-features/"><u>2024 Approved Unleashing the Power of Voice MS Word's Speech Recognition Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-insights-how-to-communicate-effectively-with-viewers/"><u>2024 Approved Unlocking Insights How to Communicate Effectively with Viewers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-advantages-of-downloading-ios-16-cost-free-version-with-exciting-enhancements-released-now/"><u>Discover the Advantages of Downloading iOS 16: Cost-Free Version with Exciting Enhancements Released Now!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-se-2022-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone SE (2022) to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-s-ultimate-avi-editor-for-windows-8-edit-videos-like-a-pro/"><u>New In 2024, S Ultimate AVI Editor for Windows 8 Edit Videos Like a Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-film-grading-with-cg-centrals-look-up-tables-for-2024/"><u>Streamlining Film Grading with CG Central's Look-Up Tables for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How the Rising Importance of Ops Strategies Brings Growth & Challenges for IT Departments: Insights From Industry Experts"
-date: 2024-09-19 20:36:35
-updated: 2024-09-20 12:13:48
+date: 2024-11-26T05:10:05.226Z
+updated: 2024-11-26T23:33:09.795Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-cataloging-fb-video-ratios-for-2024/"><u>[New] Cataloging FB Video Ratios for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-chromeos-direct-screens-capture-tool-for-2024/"><u>[New] ChromeOS Direct Screens Capture Tool for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superb-alter-ego-voice-tools-for-aspiring-vtubers/"><u>[New] Superb Alter-Ego Voice Tools For Aspiring VTubers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-success-in-live-streaming-of-cricket-matches/"><u>2024 Approved Unlocking Success in Live Streaming of Cricket Matches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-top-8-collaborative-video-collage-android-apps-freepremium/"><u>2024 Approved Unveiling Top 8 Collaborative Video Collage Android Apps (Free/Premium)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-radeon-hd-7870-driver-update-instructions-for-enhanced-performance-on-windows-10-machines/"><u>AMD Radeon HD 7870 Driver Update Instructions for Enhanced Performance on Windows 10 Machines</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-version-of-sapphire-gpu-drivers-for-windows-pcs/"><u>Get the Latest Version of Sapphire GPU Drivers for Windows PCs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-y27-4g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo Y27 4G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-voice-inputs-powerpoint-speech-to-text-guide/"><u>In 2024, Unlocking Voice Inputs PowerPoint Speech-to-Text Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/securely-downloading-vlc-media-player-for-free-on-macos/"><u>Securely Downloading VLC Media Player for Free on macOS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-turning-onoff-cookies-on-popular-browsers-chrome-firefox-opera-and-edge-running-on-windows-ebox/"><u>Step-by-Step Instructions for Turning On/Off Cookies on Popular Browsers (Chrome, Firefox, Opera & Edge) Running on Windows Ebox</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-hero5-users-blueprint-for-incredible-time-lapse-videos-for-2024/"><u>The Hero5 User's Blueprint for Incredible Time-Lapse Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-srt-enhancements-maximizing-performance-on-both-platforms-for-2024/"><u>Top SRT Enhancements Maximizing Performance on Both Platforms for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-5-leading-bitrate-modification-applications-for-optimal-video-quality/"><u>Ultimate Guide: 5 Leading Bitrate Modification Applications for Optimal Video Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-png-alterations-guide-for-2024/"><u>Ultimate PNG Alterations Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-4k-potential-an-in-depth-look-at-dell-p2715q-for-2024/"><u>Unlocking 4K Potential An In-Depth Look at Dell P2715Q for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-virtual-horizons-a-deep-dive-into-6-metaverse-cases-for-2024/"><u>Unveiling Virtual Horizons A Deep Dive Into 6 Metaverse Cases for 2024</u></a></li>
+</ul></div>
+

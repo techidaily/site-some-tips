@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Microsoft Build Conference: Schedule Highlights & Live Streaming Tips – Tech Enthusiast Perspective"
-date: 2024-09-19 22:23:33
-updated: 2024-09-20 12:56:54
+date: 2024-11-22T16:45:30.637Z
+updated: 2024-11-27T00:48:49.825Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,6 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +64,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-art-of-visual-communication-video-creation-techniques-in-windows-10/"><u>[New] In 2024, The Art of Visual Communication Video Creation Techniques in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-sound-of-serenity-windowsmac-adjustments/"><u>[New] The Sound of Serenity Windows/Mac Adjustments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-timers-without-a-dollar/"><u>2024 Approved Ultimate Timers Without a Dollar</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversione-facoltativa-cambia-il-tuo-file-mp4-in-un-animato-gif-online-ed-economico-da-utilizzare-su-movavi/"><u>Conversione Facoltativa: Cambia Il Tuo File MP4 in Un Animato GIF Online Ed Economico Da Utilizzare Su Movavi</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/diving-into-the-interface-of-magix-music-maker-2024/"><u>Diving Into the Interface of Magix Music Maker 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-14-plus-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 14 Plus Password? – Here are the Best Solutions | Stellar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-does-openais-shap-enlighten-machine-learning/"><u>How Does OpenAI's SHAP Enlighten Machine Learning?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-google-pixel-7a-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Google Pixel 7a FRP Locks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-easy-to-learn-art-of-earning-wealth-reddits-ultimate-guide/"><u>In 2024, The Easy-to-Learn Art of Earning Wealth Reddit's Ultimate Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-how-to-activate-windows-11-written-for-high-dynamic-range-auto-hdr/"><u>In 2024, Unveiling How to Activate Windows 11' Written for High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/todays-vr-an-inside-look-for-2024/"><u>Today’s VR An Inside Look for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-art-of-converting-still-images-into-engaging-videos-with-pixiz-for-2024/"><u>Unveiling the Art of Converting Still Images Into Engaging Videos with Pixiz for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/vrije-converter-voor-3gp-naar-gif-professionele-online-dienst-door-movavi/"><u>Vrije Converter Voor 3GP Naar GIF: Professionele, Online Dienst Door Movavi</u></a></li>
+</ul></div>
+

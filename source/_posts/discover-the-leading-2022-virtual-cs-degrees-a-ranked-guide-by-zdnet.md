@@ -1,7 +1,7 @@
 ---
 title: "Discover the Leading 2022 Virtual CS Degrees: A Ranked Guide by ZDNET"
-date: 2024-09-18 23:40:24
-updated: 2024-09-20 10:40:15
+date: 2024-11-23T02:52:30.620Z
+updated: 2024-11-27T01:50:12.592Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,6 +71,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -80,6 +88,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-digital-delights-the-finest-15-comedic-channels-on-youtube/"><u>[New] In 2024, Digital Delights The Finest 15 Comedic Channels on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-static-text-into-dynamic-elements-on-a-budget/"><u>[New] Transforming Static Text Into Dynamic Elements on a Budget</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-ae-title-effect-wizardry/"><u>[Updated] The Ultimate Guide to AE Title Effect Wizardry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-effective-film-production-using-movie-maker-windows-8/"><u>[Updated] The Ultimate Guide to Effective Film Production Using Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-understanding-the-mechanisms-of-youtubes-cc-license/"><u>[Updated] Understanding the Mechanisms of YouTube's CC License</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unveiling-the-ultimate-strategy-to-record-your-favorite-streamed-series-hulu/"><u>[Updated] Unveiling the Ultimate Strategy to Record Your Favorite Streamed Series (Hulu)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-create-gripping-documentary-scenes/"><u>2024 Approved Strategies to Create Gripping Documentary Scenes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-installing-logitech-c27n-hd-webcam-on-windows-11-systems/"><u>Easy Guide to Installing Logitech C27n HD Webcam on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-dos-and-donts-navigating-the-common-blunders-in-generative-ai-usage/"><u>Essential Dos and Don'ts: Navigating the Common Blunders in Generative AI Usage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-integrating-b-roll-effectively-without-distraction/"><u>In 2024, Integrating B Roll Effectively Without Distraction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-swift-shift-from-srt-to-text-your-modern-guide-for-speed/"><u>In 2024, Swift Shift From SRT to Text Your Modern Guide for Speed</u></a></li>
+<li><a href="https://fox-within.techidaily.com/samsung-data-transfer-how-to-fix-source-disk-changes-that-cant-be-modified/"><u>Samsung Data Transfer: How to Fix Source Disk Changes That Can't Be Modified</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-airpod-microphone-issues-on-windows-11-with-these-easy-fixes/"><u>Solve AirPod Microphone Issues on Windows 11 with These Easy Fixes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/spring-screens-reimagined-a-review-of-modern-tech/"><u>Spring Screens Reimagined A Review of Modern Tech</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-notch-performance-meets-budget-friendliness-in-our-oneplus-6t-overview/"><u>Top-Notch Performance Meets Budget Friendliness in Our OnePlus 6T Overview</u></a></li>
+</ul></div>
+

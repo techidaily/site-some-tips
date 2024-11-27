@@ -1,7 +1,7 @@
 ---
 title: Is Google's LaMDA AI Truly Sentient or Just Another Advanced Chatbot?
-date: 2024-09-18 18:27:44
-updated: 2024-09-20 12:17:43
+date: 2024-11-24T20:20:45.455Z
+updated: 2024-11-27T03:57:24.915Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-elite-selection-of-10-websites-offering-free-photos/"><u>[New] The Elite Selection of 10 Websites Offering FREE Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-multi-device-stabilization-systems/"><u>[New] Ultimate Multi-Device Stabilization Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-accessing-all-shared-content-in-messenger-chats/"><u>[Updated] In 2024, Accessing All Shared Content in Messenger Chats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swap-periscopes-lens-innovative-video-platforms-for-smartphones/"><u>[Updated] Swap Periscope's Lens Innovative Video Platforms for Smartphones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-a-detailed-walkthrough-of-internet-radio-logging/"><u>[Updated] The Ultimate Guide A Detailed Walkthrough of Internet Radio Logging</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails/"><u>2024 Approved Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-rated-traffic-cameras-for-automobiles-2023/"><u>2024 Approved Top-Rated Traffic Cameras for Automobiles 2023</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-dvd-downloading-strategies-of-2023-for-flawless-iso-creation/"><u>Discover the Best DVD Downloading Strategies of 2023 for Flawless ISO Creation</u></a></li>
+<li><a href="https://techidaily.com/experience-the-future-with-klings-advanced-ai-powered-video-creation/"><u>Experience the Future with Kling's Advanced AI-Powered Video Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-joyfuljourney-sign-up-share-and-create-fun-videos/"><u>In 2024, JoyfulJourney Sign Up, Share and Create Fun Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/moto-cams-best-top-5-hats-for-riders-for-2024/"><u>Moto Cam's Best Top 5 Hats for Riders for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-the-world-of-mobile-gaming-best-2024-consoles-reviewed/"><u>Navigating the World of Mobile Gaming - Best 2024 Consoles Reviewed</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-downloadinstallregisteruninstall-wondershare-virbo/"><u>New In 2024, Download/Install/Register/Uninstall | Wondershare Virbo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overwatch-graphic-incompatibility-resolved/"><u>Overwatch: Graphic Incompatibility Resolved</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-guide-transforming-your-yt-gaming-content-with-hashtags/"><u>Step-by-Step Guide Transforming Your YT Gaming Content with Hashtags</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-best-open-source-neural-networks-for-digital-artwork/"><u>Unveiling the Best Open-Source Neural Networks for Digital Artwork</u></a></li>
+</ul></div>
+

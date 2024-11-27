@@ -1,7 +1,7 @@
 ---
 title: "Tidying Up Linux & Open Source Docs: The Ultimate Fix Revealed"
-date: 2024-09-17 21:59:10
-updated: 2024-09-20 12:44:16
+date: 2024-11-25T01:43:57.117Z
+updated: 2024-11-27T01:11:55.763Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-streamlining-screen-recording/"><u>[New] Streamlining Screen Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-comic-strip-editor/"><u>[New] Ultimate Comic Strip Editor</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-enhancing-viewability-of-fb-videos-hv-debate/"><u>[Updated] 2024 Approved Enhancing Viewability of FB Videos – H/V Debate</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-instagram-sequence-steps-to-reach-1k-monthly-followers/"><u>[Updated] 2024 Approved The Instagram Sequence Steps to Reach 1K Monthly Followers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-explore-the-world-of-frames-5-free-youtube-tips-for-you/"><u>[Updated] Explore the World of Frames 5 Free YouTube Tips for You</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-best-fast-photo-viewer-for-windows-10/"><u>[Updated] Top Best Fast Photo Viewer for Windows 10?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-pursuit-of-pleasure-10-games-echoing-gta-v/"><u>2024 Approved Pursuit of Pleasure 10 Games Echoing GTA V</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-venn-of-virtuality-metaverse-and-multiverse-analysis/"><u>2024 Approved The Venn of Virtuality Metaverse & Multiverse Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-photos-using-adobes-power/"><u>2024 Approved Transform Your Photos Using Adobe's Power</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-long-is-the-validity-period-of-your-mailcom-email-address/"><u>How Long Is the Validity Period of Your mail.com Email Address?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-yuva-2-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Lava Yuva 2 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-technological-trendsetters-exclusive-picks/"><u>In 2024, Technological Trendsetters - Exclusive Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-android-song-curator/"><u>In 2024, Top-Ranked Android Song Curator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-power-of-slow-mo-with-these-android-hacks/"><u>In 2024, Unlock the Power of Slow Mo with These Android Hacks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-walkthrough-taking-and-sharing-game-screenshots-with-xbox-one/"><u>The Complete Walkthrough: Taking and Sharing Game Screenshots with Xbox One</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-tips-for-iphones-hdr-images-for-2024/"><u>Ultimate Tips for iPhone's HDR Images for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-netgear-wna3100-with-the-newest-drivers-fast-and-simple/"><u>Upgrade Your Netgear WNA3100 with the Newest Drivers – Fast and Simple</u></a></li>
+</ul></div>
+

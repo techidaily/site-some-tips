@@ -1,7 +1,7 @@
 ---
 title: "Exploring KDE Plasma N6: A Comfortably Familiar Desktop Experience - Insights for Tech Enthusiasts | ZDNet"
-date: 2024-09-18 15:42:25
-updated: 2024-09-20 12:53:18
+date: 2024-11-19T19:29:51.064Z
+updated: 2024-11-27T03:22:53.149Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-illuminate-your-recording-setup-how-to-prevent-a-dark-screen-on-obs/"><u>[New] 2024 Approved Illuminate Your Recording Setup How to Prevent a Dark Screen on OBS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-improving-frame-rate-in-warped-web-videos/"><u>[New] Improving Frame Rate in Warped Web Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-of-androids-best-music-video-apps/"><u>[New] The Ultimate List of Android's Best Music Video Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-turn-your-iphone-images-upside-down-with-precision/"><u>[New] Turn Your iPhone Images Upside Down with Precision</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-creative-expressions-building-stories-from-photos-in-pixiz/"><u>[New] Unlock Creative Expressions Building Stories From Photos in Pixiz</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-exploring-hottest-ae-template-trends-on-ig-for-2024/"><u>[Updated] Exploring Hottest AE Template Trends on IG for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-reddit-presence-with-these-tactics/"><u>[Updated] Transform Your Reddit Presence with These Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-the-potential-of-iphone-photos-through-motion-blur/"><u>[Updated] Unleashing the Potential of iPhone Photos Through Motion Blur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unparalleled-harmony-collector-android-based/"><u>[Updated] Unparalleled Harmony Collector, Android-Based</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-leveraging-social-media-insights-in-market-research/"><u>2024 Approved Leveraging Social Media Insights in Market Research</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-notch-drones-for-professionals-our-curated-list/"><u>2024 Approved Top-Notch Drones for Professionals – Our Curated List</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-infinix-smart-7-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Infinix Smart 7 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/childhood-cruisers-crafted-games/"><u>Childhood Cruisers, Crafted Games</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1728477508039-gptclonezilla/"><u>GPT硬盘克隆技巧：用Clonezilla完成指令</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Itel P55T? | Dr.fone</u></a></li>
+</ul></div>
+

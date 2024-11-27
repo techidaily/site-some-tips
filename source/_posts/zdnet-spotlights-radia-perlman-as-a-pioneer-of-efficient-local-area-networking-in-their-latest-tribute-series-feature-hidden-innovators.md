@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Spotlights Radia Perlman as a Pioneer of Efficient Local Area Networking in Their Latest Tribute Series Feature: 'Hidden Innovators'"
-date: 2024-09-18 22:26:40
-updated: 2024-09-20 10:35:30
+date: 2024-11-24T04:45:06.072Z
+updated: 2024-11-26T22:48:48.456Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,6 +75,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-pixel-powerhouse-review-amd-radeon/"><u>[New] 2024 Approved Pixel Powerhouse Review AMD Radeon</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-cutting-edge-camera-capabilities-unleashing-potential-on-iphone/"><u>[New] Cutting-Edge Camera Capabilities Unleashing Potential on iPhone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-directing-the-stream-a-close-look-at-obs-vs-twitch-studio/"><u>[New] Directing the Stream A Close Look at OBS vs Twitch Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-master-list-of-premium-4k-yt-converters-ranked-by-usage/"><u>[New] Master List of Premium 4K YT Converters Ranked by Usage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-streaming-platforms-for-authors/"><u>[New] Ultimate Streaming Platforms for Authors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-buy-subscribers-wisely-watch-your-numbers-soar/"><u>[Updated] In 2024, Buy Subscribers Wisely, Watch Your Numbers Soar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-straightening-aerial-video-stability/"><u>[Updated] Techniques for Straightening Aerial Video Stability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unseen-underpinnings-of-user-interface-craftsmanship/"><u>[Updated] Unseen Underpinnings of User Interface Craftsmanship</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-quick-windows-data-evaluation-guide/"><u>2024 Approved Quick Windows Data Evaluation Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-best-places-to-explore-vector-artwork-at-no-cost/"><u>2024 Approved Unlock the Best Places to Explore Vector Artwork at No Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-windows-11s-visual-capabilities-with-auto-hdr-mode-activation/"><u>2024 Approved Unlocking Windows 11'S Visual Capabilities with Auto HDR Mode Activation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-motorola-edge-40-neo-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Motorola Edge 40 Neo to iPhone | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-electric-two-wheelers-understanding-the-core-principles-of-functionality/"><u>Demystifying Electric Two-Wheelers: Understanding the Core Principles of Functionality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-realme-c67-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Realme C67 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-key-to-smooth-auditory-transitions/"><u>In 2024, The Key to Smooth Auditory Transitions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oppo-reno-10-proplus-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo Reno 10 Pro+ 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-techniques-to-perfect-pets-eyes-in-images/"><u>Step-by-Step Techniques to Perfect Pets' Eyes in Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-filmmaking-install-xps-media-tools-for-2024/"><u>Streamline Filmmaking Install XP's Media Tools for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728497868846-raw/"><u>ハードディスクのRAW状態からデータを回復:手順とテクニック</u></a></li>
+</ul></div>
+

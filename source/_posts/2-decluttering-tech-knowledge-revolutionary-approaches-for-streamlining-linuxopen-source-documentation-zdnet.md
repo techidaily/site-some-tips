@@ -1,7 +1,7 @@
 ---
 title: "2. Decluttering Tech Knowledge: Revolutionary Approaches for Streamlining Linux/Open-Source Documentation | ZDNet"
-date: 2024-09-18 12:22:33
-updated: 2024-09-20 11:53:11
+date: 2024-11-21T16:36:04.703Z
+updated: 2024-11-26T21:41:18.117Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-creativity-harnessing-the-full-potential-of-movie-maker-windows-8/"><u>[New] Unleashing Creativity Harnessing the Full Potential of Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-precision-recording-advanced-screenrec-for-laptops-for-2024/"><u>[Updated] Precision Recording Advanced ScreenRec for Laptops for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-mastering-movements-intova-xs-video-excellence/"><u>2024 Approved Mastering Movements Intova X's Video Excellence</u></a></li>
+<li><a href="https://ai-video.techidaily.com/dissecting-the-pixel-slate-experience-navigating-through-chromeos-challenges/"><u>Dissecting the Pixel Slate Experience: Navigating Through ChromeOS Challenges</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-8-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 8 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastered-high-cpu-issue-in-cyberpunk-2077-game-now-runs-smoothly/"><u>Mastered High CPU Issue in Cyberpunk 2077 – Game Now Runs Smoothly!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-world-of-no-fee-visual-aids-for-2024/"><u>Navigating the World of No-Fee Visual Aids for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tales-before-twilight-a-review-of-video-driven-narratives-for-2024/"><u>Tales Before Twilight A Review of Video-Driven Narratives for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ymbiotic-relationship-between-cities-and-ecology/"><u>The Symbiotic Relationship Between Cities and Ecology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-years-finest-photo-framers-and-organizers-compilation-for-2024/"><u>The Year's Finest Photo Framers & Organizers Compilation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-smooth-transitioning-from-zoom-to-fb-live-events-for-2024/"><u>Tips for Smooth Transitioning From ZOOM to FB Live Events for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turn-out-clearer-snaps-ranking-the-most-effective-online-editors-for-2024/"><u>Turn Out Clearer Snaps Ranking the Most Effective Online Editors for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/two-factor-authentication-for-added-security-to-your-apple-icloud-account/"><u>Two-Factor Authentication for Added Security to Your Apple iCloud Account</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-of-online-vertical-video-editing-software/"><u>Updated 2024 Approved The Ultimate List of Online Vertical Video Editing Software</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Top 5 Premium Raspberry Pi Sets of 2023 - Ultimate Beginner & Advanced Models Revealed by ZDNet
-date: 2024-09-18 23:56:52
-updated: 2024-09-20 12:53:22
+date: 2024-11-25T04:50:08.055Z
+updated: 2024-11-26T20:24:35.547Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-reimagine-your-visuals-three-effective-techniques-for-backdrop-alteration-on-tiktok-for-2024/"><u>[New] Reimagine Your Visuals Three Effective Techniques for Backdrop Alteration on TikTok for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-rise-of-remote-therapeutic-platforms/"><u>[New] The Rise of Remote Therapeutic Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-footage-a-step-by-step-guide-to-gopros-timelapse/"><u>[New] Transforming Footage A Step-by-Step Guide to GoPro's Timelapse</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-start-streaming-sports-creating-your-own-mac-based-channel/"><u>[Updated] Start Streaming Sports Creating Your Own Mac-Based Channel</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-pinnacle-strategies-for-persuasive-client-centered-videography/"><u>[Updated] The Pinnacle Strategies for Persuasive Client-Centered Videography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-zoom-features-on-windows-11-pcs/"><u>[Updated] Unlocking Zoom Features on Windows 11 PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unmatched-clarity-our-choice-of-the-top-10-camera-lenses/"><u>[Updated] Unmatched Clarity Our Choice of the Top 10 Camera Lenses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-creatives-handbook-obtaining-stock-visuals-for-media/"><u>2024 Approved The Creative's Handbook Obtaining Stock Visuals for Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-wealth-reddits-top-13-money-making-methods/"><u>2024 Approved Unlocking Wealth Reddit's Top 13 Money-Making Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/experts-choice-top-green-screen-tools-list-for-2024/"><u>Expert's Choice Top Green Screen Tools List for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-razr-40-ultra-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola Razr 40 Ultra Phone with Broken Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/masterclass-review-unleashing-the-full-potential-of-the-ibuypower-y60-desktop-for-gamers/"><u>Masterclass Review: Unleashing the Full Potential of the iBUYPOWER Y60 Desktop for Gamers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-startech-driver-conflicts-on-windows-operating-systems-win-11-8-and-7-step-by-step-solutions/"><u>Solving StarTech Driver Conflicts on Windows Operating Systems (Win 11, 8 & 7): Step-by-Step Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-beginners-guide-to-key-camera-movements-in-film-for-2024/"><u>The Beginner's Guide to Key Camera Movements in Film for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-x9a-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor X9a Phone Pattern Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-unbeatable-prime-day-electronics-offers-best-laptops-of-october-2024-featured-by-zdnet/"><u>Top Picks: Unbeatable Prime Day Electronics Offers - Best Laptops of October 2024 Featured by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-best-video-software-vlc-against-mx-for-2024/"><u>Unveiling Best Video Software VLC Against MX for 2024</u></a></li>
+</ul></div>
+

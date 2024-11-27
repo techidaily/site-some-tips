@@ -1,7 +1,7 @@
 ---
 title: "AI Evolution Over the Next Ten Years: Groundbreaking Developments on the Horizon, According to ZDNet Experts"
-date: 2024-09-19 20:48:57
-updated: 2024-09-20 10:43:48
+date: 2024-11-20T21:38:04.969Z
+updated: 2024-11-27T05:32:29.601Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -80,6 +88,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-elite-9-directors-cuts-downloader-for-2024/"><u>[New] Elite 9 Directors' Cuts Downloader for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-making-magic-mobile-best-phones-for-media-crafting/"><u>[New] Making Magic Mobile Best Phones for Media Crafting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-strategies-softwares-versus-hardware-harmony/"><u>[New] Streamline Strategies Softwares Versus Hardware Harmony?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-perfect-slide-sharing-techniques-the-best-ways-to-use-a-webcam-for-2024/"><u>[Updated] Perfect Slide Sharing Techniques The Best Ways to Use a Webcam for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-sound-speeds-in-spotify-without-compromise/"><u>[Updated] Streamlining Sound Speeds in Spotify Without Compromise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-capturing-imagination-best-shot-tips/"><u>[Updated] The Art of Capturing Imagination Best Shot Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-cloud-storage-cost-breakdown-2024-edition/"><u>[Updated] The Ultimate Cloud Storage Cost Breakdown, 2024 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-ringtones-for-game-of-thrones-enthusiasts-online-listings/"><u>[Updated] Top Ringtones for Game of Thrones Enthusiasts - Online Listings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-experience-the-new-unleash-a-set-of-50-designs-for-free/"><u>2024 Approved Experience the New Unleash a Set of 50 Designs for Free</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-photoshop-picmaster-guide-and-assessment/"><u>2024 Approved Photoshop PicMaster Guide & Assessment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-riders-eye-view-unveiling-23s-finest-action-camera-hats-for-bike-enthusiasts/"><u>2024 Approved The Rider's Eye View – Unveiling '23’S Finest Action Camera Hats for Bike Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-twitch-loophole-reviving-forgotten-chats/"><u>2024 Approved The Twitch Loophole Reviving Forgotten Chats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-art-of-flawless-instantaneous-iphone-podcast-downloads/"><u>2024 Approved Unlocking the Art of Flawless, Instantaneous iPhone Podcast Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-announces-breakthrough-for-tech-enthusiasts-the-launch-of-five-cutting-edge-ryzen-cpu-models-supported-by-strix-and-kraken-technologies/"><u>AMD Announces Breakthrough for Tech Enthusiasts: The Launch of Five Cutting-Edge Ryzen CPU Models Supported by Strix and Kraken Technologies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-f14-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy F14 5G FRP Bypass</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-camon-20-premier-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Tecno Camon 20 Premier 5G Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-smart-guide-to-procuring-premium-image-banners-for-2024/"><u>The Smart Guide to Procuring Premium Image Banners for 2024</u></a></li>
+</ul></div>
+

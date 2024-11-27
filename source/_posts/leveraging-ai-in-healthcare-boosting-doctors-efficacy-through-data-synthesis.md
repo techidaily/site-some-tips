@@ -1,7 +1,7 @@
 ---
 title: "Leveraging AI in Healthcare: Boosting Doctor's Efficacy Through Data Synthesis"
-date: 2024-09-19 22:10:30
-updated: 2024-09-20 12:48:10
+date: 2024-11-20T19:02:27.233Z
+updated: 2024-11-27T04:49:47.519Z
 tags:
   - developer
 categories:
@@ -57,6 +57,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +76,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-editing-with-final-cut-pro/"><u>[New] Mastering the Art of Editing with Final Cut Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-digital-imaging-apps-for-sharpening-fuzzy-pictures/"><u>[New] Top 10 Digital Imaging Apps for Sharpening Fuzzy Pictures</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-looking-for-permission-to-view-friends-entirely-shared-media/"><u>[Updated] 2024 Approved Looking for Permission to View Friend’s Entirely Shared Media</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-media-integration-adding-online-yt-videos-to-ppts/"><u>[Updated] Mastering Media Integration Adding Online YT Videos to PPTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-mac-software-for-mkv-files/"><u>[Updated] Top 5 Mac Software for MKV Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-browsing-with-ms-edges-pip/"><u>[Updated] Transform Your Browsing with MS Edge's PIP</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-infinix-smart-8-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Infinix Smart 8 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-organizing-information-mastery-seamless-integration-of-chapters-in-youtube-videos/"><u>In 2024, Organizing Information Mastery Seamless Integration of Chapters in YouTube Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-lava-yuva-2-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Lava Yuva 2 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-using-obs-and-streamlabs-together-mac/"><u>In 2024, The Ultimate Guide to Using OBS and Streamlabs Together (Mac)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-creative-potential-advanced-zooming-on-snapchat/"><u>In 2024, Unlock Creative Potential Advanced Zooming on Snapchat</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-drone-photographers-stabilization-companion/"><u>The Drone Photographer's Stabilization Companion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1724765909516-18/"><u>デジアーティー 18周年記念限定プロジェクトをご紹介</u></a></li>
+</ul></div>
+

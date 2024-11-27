@@ -1,7 +1,7 @@
 ---
 title: "Post-Quantum Crypto Advancements: The Linux Foundation Collaborates with Tech Giants"
-date: 2024-09-17 12:49:23
-updated: 2024-09-20 12:44:43
+date: 2024-11-22T02:03:01.277Z
+updated: 2024-11-27T04:38:10.093Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +64,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -123,6 +139,10 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/aximize-youtube-views-a-comprehensible-guide-to-collaborative-videos-for-2024/"><u>[New] Maximize YouTube Views A Comprehensible Guide to Collaborative Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-streamlining-the-search-for-spotless-stock-visuals/"><u>[New] Streamlining the Search for Spotless Stock Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-talk-shows/"><u>[New] The Secret Ingredient to Success 15 Activities that Enhance Learning While Listening to Talk Shows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-source-guide-buying-and-downloading-your-favorite-youtube-rings/"><u>[New] Ultimate Source Guide Buying and Downloading Your Favorite YouTube Rings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beyond-ustream-live-stream-platforms-reviewed/"><u>[Updated] Beyond Ustream Live Stream Platforms Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-youtube-live-streaming-software-and-hardware-you-should-know/"><u>[Updated] In 2024, Best YouTube Live Streaming Software and Hardware You Should Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-maximizing-your-time-free-countdown-essentials/"><u>[Updated] Maximizing Your Time Free Countdown Essentials</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-perfect-sound-devices-for-podcasters/"><u>[Updated] Perfect Sound Devices for Podcasters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-5-efficient-mac-snippers-for-quick-captures/"><u>[Updated] Top 5 Efficient Mac Snippers for Quick Captures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-steadicam-models-compatible-with-dslr-cameras/"><u>[Updated] Top Steadicam Models Compatible with DSLR Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tactics-for-securing-royalty-free-creative-pieces/"><u>In 2024, Tactics for Securing Royalty-Free Creative Pieces</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-webcam-filters-to-elevate-your-streaming/"><u>In 2024, Top 8 Webcam Filters to Elevate Your Streaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-gone-mouse-pointer-issue-in-windows-11/"><u>Resolving the Gone Mouse Pointer Issue in Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-14-pro-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 14 Pro With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://solve-info.techidaily.com/wiederherstellung-vergessener-filmdateien-von-einer-sd-karte-gunstige-und-einfache-methoden/"><u>Wiederherstellung Vergessener Filmdateien Von Einer SD-Karte - Günstige Und Einfache Methoden</u></a></li>
+</ul></div>
+

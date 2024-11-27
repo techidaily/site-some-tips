@@ -1,7 +1,7 @@
 ---
 title: Open Up Your Smart Home with the Latest Assistant From ZDNet, Surpassing Alexa and Apple's Ecosystem for Enhanced Control!
-date: 2024-09-18 12:35:29
-updated: 2024-09-20 11:55:24
+date: 2024-11-23T04:15:13.850Z
+updated: 2024-11-26T22:19:04.935Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -57,6 +65,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +78,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -92,6 +108,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-top-notch-graphic-retouches/"><u>[Updated] Top-Notch Graphic Retouches</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unravel-the-secrets-to-sequential-video-viewing-no-charges-for-2024/"><u>[Updated] Unravel the Secrets to Sequential Video Viewing (No Charges) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-post-production-with-after-effects-and-luts/"><u>2024 Approved Streamlining Post Production with After Effects and LUTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-top-8-sites-for-sharing-and-downloading-free-3d-text-psds/"><u>2024 Approved The Top 8 Sites for Sharing and Downloading Free 3D Text PSDs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/extensive-review-the-gecata-gamersoft-toolkit-for-2024/"><u>Extensive Review The Gecata Gamersoft Toolkit for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-understanding-and-using-instagrams-music-features/"><u>In 2024, The Essential Guide to Understanding and Using Instagram's Music Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-rings-rhythm-versus-screen-time-symphony/"><u>In 2024, The Ring's Rhythm Versus Screen Time Symphony</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-ios-auditory-pleasures/"><u>In 2024, The Ultimate Guide to iOS Auditory Pleasures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-whatsapps-vocal-messaging-system/"><u>Navigating WhatsApp's Vocal Messaging System</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-perfect-pacing-strategies-for-cutting-extra-audio-in-your-imovie-projects-across-apple-ecosystems-for-2024/"><u>New Perfect Pacing Strategies for Cutting Extra Audio in Your iMovie Projects Across Apple Ecosystems for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-music-sync-for-windows-for-2024/"><u>Superior Music Sync for Windows for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-realme-10t-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Realme 10T 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/unboxing-the-innocn-veil-monitor-27c1u-a-dazzling-journey-into-4k-excellence-with-effortless-connectivity-reviewed-by-zdnet/"><u>Unboxing the Innocn Veil Monitor (27C1U): A Dazzling Journey Into 4K Excellence with Effortless Connectivity Reviewed by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-efficiency-incorporating-zoom-into-your-gmail-routine-for-2024/"><u>Unlocking Efficiency Incorporating Zoom Into Your Gmail Routine for 2024</u></a></li>
+</ul></div>
+

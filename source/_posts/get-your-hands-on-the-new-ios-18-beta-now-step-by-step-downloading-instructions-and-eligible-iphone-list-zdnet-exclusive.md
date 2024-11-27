@@ -1,7 +1,7 @@
 ---
 title: "Get Your Hands on the New iOS 18 Beta Now: Step-by-Step Downloading Instructions & Eligible iPhone List | ZDNet Exclusive"
-date: 2024-09-18 15:43:22
-updated: 2024-09-20 11:20:56
+date: 2024-11-23T01:54:42.693Z
+updated: 2024-11-26T19:32:35.742Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -56,6 +64,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -123,6 +139,10 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-designers-odyssey-navigating-to-professional-prominence/"><u>[New] The Designer's Odyssey Navigating to Professional Prominence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-lg-bp350-monitor-reviews-expert-opinions-and-ratings/"><u>[New] The Ultimate LG BP350 Monitor Reviews Expert Opinions & Ratings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-guides-to-3d-type-exploration/"><u>[New] Ultimate Guides to 3D Type Exploration</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-windowsnap-tool-for-straightforward-recording/"><u>[New] WindowSnap Tool for Straightforward Recording</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-the-art-of-video-chatting-on-snapchat/"><u>2024 Approved Mastering the Art of Video Chatting on Snapchat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-pursuit-of-ultra-clarity-the-4k-z32x-reviewed/"><u>2024 Approved The Pursuit of Ultra Clarity The 4K Z32X Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-visual-virtuoso-enhancing-photos-with-text-os-based-techniques/"><u>2024 Approved The Visual Virtuoso Enhancing Photos with Text, OS-Based Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/connecting-tv-audiences-to-facebook-live-shows-for-2024/"><u>Connecting TV Audiences to Facebook Live Shows for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-social-media-savant-to-money-maker-on-instagram-for-2024/"><u>From Social Media Savant to Money Maker on Instagram for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-in-depth-review-and-step-by-step-tutorials-for-powerdirector/"><u>In 2024, In-Depth Review & Step-by-Step Tutorials for PowerDirector</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-swift-solutions-for-iphone-photography-misfocus/"><u>In 2024, Swift Solutions for iPhone Photography Misfocus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-stop-snippet-playback-on-youtube/"><u>In 2024, The Ultimate Guide Stop Snippet Playback on YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-techniques-to-tackle-non-responsive-rust-applications-pro-tips/"><u>Modern Techniques to Tackle Non-Responsive Rust Applications - Pro Tips</u></a></li>
+</ul></div>
+

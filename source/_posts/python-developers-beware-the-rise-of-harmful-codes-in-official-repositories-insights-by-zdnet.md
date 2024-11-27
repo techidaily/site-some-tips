@@ -1,7 +1,7 @@
 ---
 title: "Python Developers Beware: The Rise of Harmful Codes in Official Repositories - Insights by ZDNet"
-date: 2024-09-18 11:38:42
-updated: 2024-09-20 12:29:11
+date: 2024-11-26T04:28:08.263Z
+updated: 2024-11-26T19:17:02.930Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-omega-series-high-definition-full-touch-workstations/"><u>[New] Omega Series High Definition Full Touch Workstations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-capture-and-share-vlogs-effectively-fb-via-obs/"><u>[Updated] How to Capture & Share Vlogs Effectively (FB via OBS)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-mirth-merger-image-composer/"><u>[Updated] In 2024, Mirth Merger Image Composer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syncing-visual-elements-across-platforms/"><u>[Updated] Syncing Visual Elements Across Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-the-quantum-leap-hdr-innovations/"><u>2024 Approved Understanding the Quantum Leap HDR Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unexplained-tilted-images-on-instagrams-video-section/"><u>2024 Approved Unexplained Tilted Images on Instagram's Video Section</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-windows-experience-with-these-top-7-tips/"><u>Elevate Your Windows Experience with These Top 7 Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-the-device-not-found-error-when-setting-up-your-windows-7-pc/"><u>How to Successfully Overcome the 'Device Not Found' Error When Setting Up Your Windows 7 PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-lava-agni-2-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Lava Agni 2 5G Through Google Earth?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-rated-desktops-for-peak-performance/"><u>In 2024, Top-Rated Desktops for Peak Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-utilizing-in-browser-multiframe-pip/"><u>In 2024, Utilizing In-Browser Multiframe PIP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-efficiently-erase-your-google-activity-without-hitches/"><u>Ultimate Guide: Efficiently Erase Your Google Activity Without Hitches</u></a></li>
+</ul></div>
+

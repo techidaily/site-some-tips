@@ -1,7 +1,7 @@
 ---
 title: Top 18 Unbeatable Prime Day Laptop Offers From HP, Apple & Razer - Exclusive Deals for Savvy Shoppers | ZDNet
-date: 2024-11-09T17:34:24.370Z
-updated: 2024-11-16T22:46:51.626Z
+date: 2024-11-26T00:53:04.495Z
+updated: 2024-11-26T22:31:17.668Z
 tags:
   - apple
 categories:
@@ -75,6 +75,10 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727607600000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -84,10 +88,7 @@ Asus/ZDNET
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day MacBook deals
@@ -98,6 +99,10 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -105,6 +110,10 @@ HPZDNET
 * [HP Envy x360 2-in-1 for $845 (save $50)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-2-1-Touch-Screen-i7-16GB%2Fdp%2FB0CZ37N6DL%2Fref%3Dsr%5F1%5F3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1): We recently had a chance to go [hands-on with HP's newest version of the Envy x360 2-in-1](https://www.zdnet.com/article/ive-tested-dozens-of-2-in-1-laptops-this-one-hits-all-the-right-marks/), and praised the laptop for its gorgeous display and all-around optimization. If that laptop looked interesting to you, but you want to save some money, the previous version is on sale on Amazon for just $845 for the 16GB, 2TB version.
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
 
@@ -122,13 +131,6 @@ Kyle Kucharski/ZDNET
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -138,10 +140,7 @@ Kyle Kucharski/ZDNET
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -154,23 +153,9 @@ Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals con
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -245,22 +230,20 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-dive-deeper-into-life-advanced-strategies-for-capturing-the-essence-of-your-sims-adventures-in-sims-4/"><u>[Updated] 2024 Approved Dive Deeper Into Life Advanced Strategies for Capturing the Essence of Your Sim's Adventures in Sims 4</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-virtual-reality-film-classics-you-cant-forget-for-2024/"><u>[Updated] Virtual Reality Film Classics You Can't Forget for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amo/"><u>/Amo</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversion-gratuite-des-fichiers-rmvb-a-laide-de-movavi-guide-complet/"><u>Conversion Gratuite Des Fichiers RMVB À L'aide De Movavi - Guide Complet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convertir-jpeg-a-png-de-forma-gratuita-en-linea-con-herramientas-de-conversion-rapidas/"><u>Convertir JPEG a PNG De Forma Gratuita en Línea Con Herramientas De Conversión Rápidas</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convierte-tus-archivos-de-pelicula-mp4-al-formato-ogg-sin-gastar-soluciones-de-conversion-en-linea/"><u>Convierte Tus Archivos De Película MP4 Al Formato Ogg Sin Gastar: Soluciones De Conversión en Línea</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convierte-tus-documentos-caf-sin-coste-uso-libre-y-facil-con-movavi-solutions/"><u>Convierte Tus Documentos CAF Sin Coste: Uso Libre Y Fácil Con Movavi Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-insights-on-lg-channels-a-comprehensive-guide/"><u>Essential Insights on LG Channels: A Comprehensive Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/meilleur-logiciel-pour-lediting-4k-facilite-et-precision-dans-vos-travaux-video-professionnels/"><u>Meilleur Logiciel Pour L'Editing 4K: Facilité Et Précision Dans Vos Travaux Vidéo Professionnels</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimal-free-tools-5-gif-to-video-conversion-websites-without-downloads-for-2024/"><u>Optimal Free Tools 5 GIF-to-Video Conversion Websites Without Downloads for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-note-12-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi Note 12 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-for-macos-sierras-system-return-to-el-capitan/"><u>Step-by-Step for MacOS Sierra's System Return to El Capitan</u></a></li>
-<li><a href="https://some-tips.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-wmv-au-format-flv-gratuitement-guilde-du-multimedia/"><u>Toutes Les Étapes Pour Transformer Un Fichier WMV Au Format FLV Gratuitement - Guilde Du Multimédia</u></a></li>
-<li><a href="https://some-tips.techidaily.com/troubleshoot-immediately-why-isnt-your-audacity-session-picking-up-sound/"><u>Troubleshoot Immediately: Why Isn't Your Audacity Session Picking Up Sound?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-stream-like-a-pro-fb-live-tips-2023/"><u>[Updated] In 2024, Stream Like a Pro FB Live Tips 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-mac-speech-to-text-apps-youre-not-aware-of/"><u>[Updated] Top Mac Speech-to-Text Apps You're Not Aware Of</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-best-text-effects-of-psd/"><u>2024 Approved Best Text Effects of PSD</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-collaborative-sing-along-tiktok-feature/"><u>2024 Approved Collaborative Sing-Along TikTok Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creative-potential-for-video-editing-in-windows-photos/"><u>2024 Approved Unleash Creative Potential for Video Editing in Windows Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-pinpoint-intel-processors-age-in-windows-systems/"><u>Expert Tips to Pinpoint Intel Processor’s Age in Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-camera-driver-software-full-guide-compatible-with-windows-11-10-8-and-7/"><u>Free Camera Driver Software: Full Guide - Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/es-goldmine-a-simplified-three-step-blueprint-for-calculating-subscriber-earning-potential/"><u>Google's Goldmine A Simplified Three-Step Blueprint for Calculating Subscriber Earning Potential</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-8-to-windows-10-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 8 to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-surging-up-the-search-results-with-effective-podcast-seo/"><u>In 2024, Surging Up the Search Results with Effective Podcast SEO</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-insights-on-iphone-based-podcast-acquisition/"><u>In 2024, The Expert's Insights on iPhone-Based Podcast Acquisition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-most-wallet-friendly-cloud-haven-for-mass-datasets/"><u>In 2024, The Most Wallet-Friendly Cloud Haven for Mass Datasets</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-wonder-workshops-dash-robot-a-highly-interactive-smart-toy/"><u>Review of the Wonder Workshop's Dash Robot - A Highly Interactive Smart Toy</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/solutions-rapides-pour-le-probleme-mozilla-ne-souvre-pas/"><u>Solutions Rapides Pour Le Problème Mozilla Ne S'ouvre Pas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/steps-to-adobe-audition-fade-in/"><u>Steps to Adobe Audition Fade In</u></a></li>
 </ul></div>
 

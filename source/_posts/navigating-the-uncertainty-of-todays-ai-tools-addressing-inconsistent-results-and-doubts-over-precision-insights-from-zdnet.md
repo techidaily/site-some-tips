@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Uncertainty of Today's AI Tools: Addressing Inconsistent Results & Doubts Over Precision – Insights From ZDNet"
-date: 2024-09-19 15:42:41
-updated: 2024-09-20 12:50:22
+date: 2024-11-21T01:57:47.958Z
+updated: 2024-11-27T00:58:01.566Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -67,6 +75,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/peedy-spread-of-youtube-playlists-techniques-for-2024/"><u>[New] Speedy Spread of Youtube Playlists Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-premier-screen-picks-for-ps5-and-xbox-games/"><u>[New] The Premier Screen Picks for PS5 and Xbox Games</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-guide-to-choosing-between-m1-macbooks-for-2024/"><u>[New] The Ultimate Guide to Choosing Between M1 MacBooks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-of-superior-live-streaming-services/"><u>[New] The Ultimate List of Superior Live Streaming Services</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-boost-your-view-count-this-tutorials-top-hit/"><u>[Updated] Boost Your View Count This Tutorial's Top Hit</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-smart-youtubers-playbook-fixing-short-snafus-for-2024/"><u>[Updated] The Smart Youtuber's Playbook Fixing Short Snafus for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-max-360-vs-hero-11-evaluating-the-best-gopro-for-action-videos/"><u>2024 Approved Max 360 Vs. Hero 11 Evaluating the Best GoPro for Action Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-perusing-past-facebook-pages-to-review-or-not-to/"><u>2024 Approved The Art of Perusing Past Facebook Pages To Review or Not To?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-how-to-on-using-voice-input-in-google-docs/"><u>2024 Approved The Ultimate How-To on Using Voice Input in Google Docs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-game-changer-samsung-ue590-4k-monitor/"><u>2024 Approved Unveiling the Game Changer - Samsung UE590 4K Monitor</u></a></li>
+<li><a href="https://fox-http.techidaily.com/essential-guide-how-to-seamlessly-convert-webp-to-jpeg-for-2024/"><u>Essential Guide How to Seamlessly Convert WebP to JPEG for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/"><u>In 2024, Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-surecores-revolutionary-low-power-cryoquantum-tech-next-gen-memory-functionality-at-minimal-4kelvin/"><u>Introducing SureCore's Revolutionary Low-Power CryoQuantum Tech: Next-Gen Memory Functionality At Minimal 4Kelvin</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-decks-enhanced-gaming-experience-via-sd/"><u>Steam Deck's Enhanced Gaming Experience via SD</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-sound-with-cloud-tools-top-5-online-text-to-speech-services-reviewed-for-2024/"><u>Transform Sound with Cloud Tools Top 5 Online Text-to-Speech Services Reviewed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-imagery-with-these-mobile-montage-leaders-for-2024/"><u>Transform Your Imagery with These Mobile Montage Leaders for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-10-movie-trailer-apps-for-iphones-and-ipads-for-2024/"><u>Updated Top 10 Movie Trailer Apps for iPhones and iPads for 2024</u></a></li>
+</ul></div>
+

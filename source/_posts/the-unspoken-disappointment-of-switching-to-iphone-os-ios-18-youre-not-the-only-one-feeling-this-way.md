@@ -1,7 +1,7 @@
 ---
 title: The Unspoken Disappointment of Switching to iPhone OS iOS 18 - You're Not the Only One Feeling This Way!
-date: 2024-11-14T19:45:24.201Z
-updated: 2024-11-17T07:38:46.022Z
+date: 2024-11-21T17:23:19.651Z
+updated: 2024-11-27T04:05:10.634Z
 tags:
   - apple
 categories:
@@ -59,6 +59,10 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -105,23 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-video-presentations-with-top-30-free-intra-makers/"><u>[New] In 2024, Elevate Your Video Presentations with Top 30 Free Intra Makers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-smoothing-playback-the-truth-behind-frozen-photo-booth-videos/"><u>[Updated] Smoothing Playback The Truth Behind Frozen Photo Booth Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-free-video-editing-and-effects-sites/"><u>[Updated] The Ultimate Guide to Free Video Editing and Effects Sites</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-teamwork-through-smart-use-of-slack-reminder-features/"><u>Boosting Teamwork Through Smart Use of Slack Reminder Features</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fixing-common-problems-with-freemake-video-converter-for-smooth-performance/"><u>Fixing Common Problems with Freemake Video Converter for Smooth Performance</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-getting-started-with-photography-the-leading-cams/"><u>In 2024, Getting Started with Photography The Leading Cams</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-blueprint-for-iphone-photo-arrangement-in-ordered-algebras-and-icloud/"><u>In 2024, The Complete Blueprint for iPhone Photo Arrangement in Ordered Algebras and iCloud</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-narzo-60-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme Narzo 60 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/polite-practices-for-chatbot-engagements-examples-with-siri-and-others/"><u>Polite Practices for Chatbot Engagements: Examples with Siri & Others</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tailored-transmission-terminal-podcasters-hub-for-2024/"><u>Tailored Transmission Terminal Podcaster's Hub for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/transitioning-to-ultra-high-definition-with-4k/"><u>Transitioning to Ultra High-Definition with 4K</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-audience-centric-video-structure-chapter-addition-for-maximum-viewership-on-youtube/"><u>[New] Audience-Centric Video Structure Chapter Addition for Maximum Viewership on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-iphone-podcast-listening/"><u>[New] The Art of iPhone Podcast Listening</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tidy-up-your-pictures-top-10-online-unblur-tools/"><u>[New] Tidy Up Your Pictures Top 10 Online Unblur Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-twitter-media-to-music-downloading-and-converting-process/"><u>[New] Twitter Media to Music Downloading & Converting Process</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unveiling-the-techniques-of-premium-vr-gametime-captures-for-2024/"><u>[New] Unveiling the Techniques of Premium VR Gametime Captures for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-building-confidence-against-youtube-critiques/"><u>[Updated] 2024 Approved Building Confidence Against YouTube Critiques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-amplify-creativity-in-photography-innovative-pixlr-hacks/"><u>[Updated] In 2024, Amplify Creativity in Photography Innovative Pixlr Hacks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-social-shine-a-snapchat-guide-for-giftful-gif-enthusiasts/"><u>[Updated] In 2024, Social Shine A Snapchat Guide for Giftful GIF Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-the-leading-7-nft-conversion-services/"><u>[Updated] Ultimate Guide The Leading 7 NFT Conversion Services</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-tasty-tales-ideal-naming-for-culinary-broadcasts/"><u>2024 Approved Tasty Tales Ideal Naming for Culinary Broadcasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-blueprint-entering-itunes-and-google-play-listings/"><u>2024 Approved The Blueprint Entering iTunes and Google Play Listings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-toolwiz-revolutionizes-camera-use-a-comprehensive-review-for-photographers/"><u>2024 Approved Toolwiz Revolutionizes Camera Use - A Comprehensive Review for Photographers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-a25-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy A25 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-virtual-reality-vr-bikes-to-check-out/"><u>In 2024, Top Virtual Reality (VR) Bikes to Check Out</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-elite-video-cameras-for-2-point-zero-four-two/"><u>In 2024, Unveiling the Elite Video Cameras for 2 Point Zero Four Two</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-vivo-v30-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Vivo V30</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-verdict-on-inshot-master-editor-for-2024/"><u>The Verdict on InShot Master Editor for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-d3derrnotavailable-issue-on-your-pc/"><u>Understanding and Fixing the D3DERR_NotAvailable Issue on Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unpacking-the-enhancements-in-sony-s6500-bdp-for-2024/"><u>Unpacking the Enhancements in Sony S6500 BDP for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

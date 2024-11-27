@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores the Friction Between Progressive AI Strategies and Agile Practices in Recent Study
-date: 2024-09-17 15:49:32
-updated: 2024-09-20 10:22:22
+date: 2024-11-22T21:34:59.011Z
+updated: 2024-11-27T01:55:08.266Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-avi-conversions-create-gifs-with-filmora-on-pcmac/"><u>[New] Streamlining AVI Conversions Create GIFs with Filmora on PC/Mac</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-metaverse-reflections-a-pioneering-collection-of-thoughts/"><u>[Updated] 2024 Approved Metaverse Reflections A Pioneering Collection of Thoughts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-leading-5-facebook-updates-to-note-this-year/"><u>[Updated] 2024 Approved The Leading 5 Facebook Updates to Note This Year</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-expert-advice-perfected-media-import-techniques-for-windows-10-for-2024/"><u>[Updated] Expert Advice Perfected Media Import Techniques for Windows 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebook-video-extravaganza-the-most-advanced-fire-browser-tools-updated/"><u>[Updated] In 2024, Facebook Video Extravaganza The Most Advanced Fire-Browser Tools, Updated</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-rapid-fortnite-tile-making-hacks/"><u>[Updated] In 2024, Rapid Fortnite Tile-Making Hacks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-essential-guide-to-musical-feed-posts-on-instagram-for-2024/"><u>[Updated] The Essential Guide to Musical Feed Posts on Instagram for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-identifying-lowest-cloud-data-rates/"><u>2024 Approved Strategies for Identifying Lowest Cloud Data Rates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-satire-picture-styler/"><u>2024 Approved Superior Satire Picture Styler</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-checklist-to-increase-likes-on-your-tiktok-videos/"><u>In 2024, The Ultimate Checklist to Increase Likes on Your TikTok Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/optimal-strategies-for-editing-and-upgrading-youtube-profiles-for-2024/"><u>Optimal Strategies for Editing and Upgrading YouTube Profiles for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-v27-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo V27? Here is How | Dr.fone</u></a></li>
+</ul></div>
+

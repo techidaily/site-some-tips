@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: 7 Leading Cybersecurity Credentials Ranked by ZDNet"
-date: 2024-09-17 22:19:45
-updated: 2024-09-20 12:34:42
+date: 2024-11-24T22:07:24.836Z
+updated: 2024-11-27T01:37:08.117Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -73,6 +77,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -103,6 +111,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +122,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-amazons-favorite-originals-twitter-top-picks/"><u>[Updated] Amazon's Favorite Originals - Twitter Top Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swiftly-restore-working-airdrop-between-apple-gadgets-and-macs/"><u>[Updated] Swiftly Restore Working AirDrop Between Apple Gadgets & Macs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-iphone-hdr-mastery/"><u>[Updated] The Ultimate Guide to iPhone HDR Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-8-preferred-mp3-grabbers-android/"><u>[Updated] Ultimate Selection 8 Preferred MP3 Grabbers (Android)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-basics-of-windows-10-effortlessly/"><u>2024 Approved Master the Basics of Windows 10 Effortlessly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-laptop-showdown-can-the-hp-15-with-an-amd-chip-meet-your-needs/"><u>Budget Laptop Showdown: Can the HP 15 with an AMD Chip Meet Your Needs?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-up-fixing-steam-file-limitation-issues/"><u>Easing Up: Fixing Steam File Limitation Issues</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-enhancing-visual-appeal-with-instagrams-filters-and-effects/"><u>In 2024, Enhancing Visual Appeal with Instagram's Filters & Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-notch-voice-alteration-for-valorant-players-available-at-zero-cost/"><u>In 2024, Top Notch Voice Alteration for Valorant Players - Available at Zero Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-power-of-pause-time-mastering-art-of-slow-motion-videos-using-photos-apps-and-websites/"><u>In 2024, Unlocking the Power of Pause Time Mastering Art of Slow Motion Videos Using Photos Apps and Websites</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-browser-barriers-a-user-friendly-guide-for-safari-cannot-load-page-issues/"><u>Overcoming Browser Barriers - A User-Friendly Guide for 'Safari Cannot Load Page' Issues</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/preserving-your-email-credibility-with-massmail-a-guide-on-protecting-the-senders-image/"><u>Preserving Your Email Credibility with MassMail: A Guide on Protecting the Sender’s Image</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-chroma-shift-4k-vistas-unveiled-by-blade-technology-for-2024/"><u>The Chroma Shift 4K Vistas Unveiled by Blade Technology for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-virtual-realitys-interactive-gear/"><u>Unraveling Virtual Reality's Interactive Gear</u></a></li>
+</ul></div>
+

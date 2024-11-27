@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Slack Alerts: A Step-by-Step Guide for Your Apple Watch - Insights From ZDNet"
-date: 2024-11-15T07:51:21.458Z
-updated: 2024-11-16T17:49:38.922Z
+date: 2024-11-23T18:01:57.467Z
+updated: 2024-11-27T03:38:35.744Z
 tags:
   - apple
 categories:
@@ -44,22 +44,23 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -76,10 +77,7 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
@@ -87,10 +85,7 @@ Screenshot by David Gewirtz/ZDNET
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -110,13 +105,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -141,6 +129,10 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -187,22 +179,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-finding-the-perfect-date-tracker-10-best-androidios-apps/"><u>[New] Finding the Perfect Date Tracker 10 Best Android/iOS Apps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-explore-the-world-of-video-calls-hangouts-for-android/"><u>[New] In 2024, Explore the World of Video Calls Hangouts for Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-art-of-voice-manipulation-in-ps-console-titles/"><u>[New] The Art of Voice Manipulation in PS Console Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-artisans-path-to-precision-zooming-on-kinemaster/"><u>[New] The Artisan’s Path to Precision Zooming on Kinemaster</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>[New] The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-best-tvs-for-ps5xbox-series-x-games/"><u>[New] The Ultimate List Best TVs for PS5/Xbox Series X Games</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-streamlining-fb-live-recording-for-maximum-clarity/"><u>[Updated] Streamlining FB Live Recording for Maximum Clarity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-supercharge-your-gaming-experience-the-best-free-voice-transformer-awaits/"><u>[Updated] Supercharge Your Gaming Experience - The Best Free Voice Transformer Awaits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-audiophiles-companion-to-top-tier-audio-equipment/"><u>[Updated] The Audiophile's Companion to Top-Tier Audio Equipment</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-what-is-a-drone-and-how-does-it-work-for-2024/"><u>[Updated] What Is a Drone and How Does It Work for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-editing-savvy-streamlining-your-youtube-video-lengths/"><u>2024 Approved Editing Savvy Streamlining Your YouTube Video Lengths</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-time-stamped-photography/"><u>2024 Approved The Essentials of Time-Stamped Photography</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/a-beginners-guide-to-unzipping-files-with-minimal-hassle/"><u>A Beginner's Guide to Unzipping Files with Minimal Hassle</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-choosing-and-buying-the-right-tv-for-your-home-viewing-experience/"><u>Comprehensive Guide to Choosing and Buying the Right TV for Your Home Viewing Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-playbook-a-guide-to-efficiently-posting-srt-files-online-for-2024/"><u>The Ultimate Playbook A Guide to Efficiently Posting SRT Files Online for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/video-post-production-powerhouses-a-comparison-of-adobe-premiere-and-after-effects-for-2024/"><u>Video Post-Production Powerhouses A Comparison of Adobe Premiere and After Effects for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/egal-ways-to-boost-your-video-watch-count-responsibly-for-2024/"><u>[New] Legal Ways to Boost Your Video Watch Count Responsibly for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-visual-journey-to-crafting-a-user-friendly-subscribe-link/"><u>[Updated] A Visual Journey to Crafting a User-Friendly Subscribe Link</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-altering-photographic-contrast/"><u>2024 Approved The Art of Altering Photographic Contrast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-viral-potential-with-ai-driven-video-titles/"><u>2024 Approved Unlocking Viral Potential with AI-Driven Video Titles</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-xiaomi-redmi-note-12-pro-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Xiaomi Redmi Note 12 Pro 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://howto.techidaily.com/1723262387118-explore-the-latest-in-computing-discover-whats-new-at-toms-hardware/"><u>Explore the Latest in Computing: Discover What's New at Tom's Hardware</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixed-graphics-driver-glitches-in-latest-overwatch-update/"><u>Fixed Graphics Driver Glitches in Latest Overwatch Update</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oppo-find-x7-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Oppo Find X7 Ultra Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-one-arm-wonders-keeping-photos-steady/"><u>In 2024, One Arm Wonders Keeping Photos Steady</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tune-into-visuals-embedding-music-in-powerpoint/"><u>In 2024, Tune Into Visuals Embedding Music in PowerPoint</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/revive-your-laptop-solutions-for-when-it-shuts-down-unexpectedly/"><u>Revive Your Laptop: Solutions for When It Shuts Down Unexpectedly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-close-up-meetings-in-ms-teams-for-2024/"><u>The Art of Close-Up Meetings in MS Teams for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96476461-9780880507707-the-book-of-secrets/"><u>The Book of Secrets | Free Book</u></a></li>
 </ul></div>
 

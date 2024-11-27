@@ -1,7 +1,7 @@
 ---
 title: "Discover the Highlights From Apple's Glowtime Launch: AI Integration & Latest Wearables Unveiled"
-date: 2024-11-09T23:09:13.506Z
-updated: 2024-11-17T12:47:29.499Z
+date: 2024-11-22T19:48:01.853Z
+updated: 2024-11-26T16:01:01.968Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Place your Home screen icons anywhere
 
 With iOS 18, you can customize the Home screen by moving icons to any spot and applying different themes. To dive in, press down on any empty area of the Home screen. Drag an icon to any location on the screen, and it will stay in place. This means you can place icons in columns, as a border around the screen, or just free-floating in space.
@@ -43,10 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,20 +120,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhancing-beauty-on-streams-via-color-grading/"><u>[New] 2024 Approved Enhancing Beauty on Streams via Color Grading</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-unlock-the-power-of-cutting-for-beginner-editors/"><u>[New] In 2024, Unlock the Power of Cutting for Beginner Editors</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-promotion-26-effective-techniques/"><u>[New] Mastering YouTube Promotion 26 Effective Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-video-editing-inshots-place/"><u>[New] The Ultimate Guide to Video Editing - InShot's Place</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-typographic-tools-in-adobe-after-effects/"><u>[New] Typographic Tools in Adobe After Effects</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-av1-foundations-and-fundamentals/"><u>[New] Unveiling AV1 Foundations and Fundamentals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-most-acclaimed-podcast-platforms-for-macbook-aficionados/"><u>[Updated] The Most Acclaimed Podcast Platforms for macBook Aficionados</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-of-10-best-zero-cost-srt-conversion-software/"><u>2024 Approved Ultimate List of 10 Best Zero-Cost Srt Conversion Software</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726219475801-movavi-mac/"><u>利用 Movavi 软件在 Mac 上高效制作视频 - 步骤导规</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-xps-movie-magic-software-essentials/"><u>In 2024, Unlock XP's Movie Magic Software Essentials</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/premium-audio-selection-top-cd-changers-and-players-24/"><u>Premium Audio Selection: Top CD Changers & Players '24</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/sharing-the-top-remorse-moment-of-upgrading-to-ios-18-a-common-dilemma-discussed-on-zdnet/"><u>Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed on ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-adding-podcasts-in-instagram-stories-for-2024/"><u>The Art of Adding Podcasts in Instagram Stories for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/workaround-for-windows-security-errors-managed-by-admins/"><u>Workaround for Windows Security Errors Managed by Admins</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-apowersofts-place-in-the-screen-capture-market/"><u>[New] 2024 Approved Apowersoft's Place in the Screen Capture Market</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-your-video-editing-with-device-filters/"><u>[New] Streamlining Your Video Editing with Device Filters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-frame-rate-in-languid-videos/"><u>[New] Superior Frame Rate in Languid Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-syncing-with-serenity-listening-to-podcasts-on-iphone-for-2024/"><u>[New] Syncing With Serenity Listening to Podcasts on iPhone for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-notch-tricks-to-nail-every-green-screen-shot/"><u>[New] Top-Notch Tricks to Nail Every Green Screen Shot</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unveiling-the-simplicity-accessing-highly-engaged-youtube-reactions/"><u>[Updated] 2024 Approved Unveiling the Simplicity Accessing Highly Engaged YouTube Reactions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tech-gear-review-vr-treadmills-showdown/"><u>2024 Approved Tech Gear Review VR Treadmills Showdown</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/average-gain-for-youtubers-per-ad-exposure-in-2024/"><u>Average Gain for YouTubers per Ad Exposure, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/first-steps-to-picture-perfection-demystifying-pixels/"><u>First Steps to Picture Perfection Demystifying Pixels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-layers-of-a-great-humorous-poster/"><u>In 2024, The Layers of a Great Humorous Poster</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-honor-x8b-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Honor X8b</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/instantly-start-youtube-videos-on-your-facebook-timeline-for-2024/"><u>Instantly Start YouTube Videos on Your Facebook Timeline for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-nights-reign-black-vs-the-dawns-duty-silver-for-2024/"><u>The Night's Reign (Black) VS The Dawn’s Duty (Silver) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unblemished-visuals-buying-high-quality-images-for-2024/"><u>Unblemished Visuals Buying High-Quality Images for 2024</u></a></li>
 </ul></div>
 

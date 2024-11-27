@@ -1,7 +1,7 @@
 ---
 title: "Intel Unveils Hala Point: A Groundbreaking 1.15B Neuron Computer Inspired by the Human Brain | Detailed Analysis on ZDNET"
-date: 2024-09-17 15:12:25
-updated: 2024-09-20 12:25:50
+date: 2024-11-23T21:27:05.204Z
+updated: 2024-11-26T19:35:06.921Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -56,6 +64,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -72,6 +84,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -123,6 +139,10 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-taleshifters-academy-top-8-picks/"><u>[New] 2024 Approved Top Taleshifters Academy - Top 8 Picks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-from-basic-to-exceptional-gopro-filming-techniques/"><u>[New] From Basic to Exceptional Gopro Filming Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-getting-started-with-windows-10-sound-recording-for-2024/"><u>[New] Getting Started with Windows 10 Sound Recording for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-overcoming-iphone-camera-focusing-glitches/"><u>[New] Tips for Overcoming iPhone Camera Focusing Glitches</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-the-essence-of-luts-for-professional-photography/"><u>[New] Understanding the Essence of LUTs for Professional Photography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-youtube-potential-implementing-chapter-sections/"><u>[New] Unlocking YouTube Potential Implementing Chapter Sections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-15-online-haven-for-your-favorite-ringtone-files/"><u>[Updated] Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-7-fps-experiences-of-the-decade/"><u>[Updated] Top 7 FPS Experiences of the Decade</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-image-transformation-with-3d-lut-in-photoshop/"><u>2024 Approved The Art of Image Transformation with 3D LUT in Photoshop</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a14-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A14 5G?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-tecno-spark-10-4g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Tecno Spark 10 4G FRP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-mac-videography-tools-unleashed-in-sierra-os-for-2024/"><u>Top 5 Mac Videography Tools Unleashed in Sierra OS for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-movie-storage-space-needs-over-24-hours-for-2024/"><u>Understanding Movie Storage Space Needs Over 24 Hours for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-best-webm-video-compressors-for-online-use/"><u>Updated 2024 Approved The Best WebM Video Compressors for Online Use</u></a></li>
+</ul></div>
+

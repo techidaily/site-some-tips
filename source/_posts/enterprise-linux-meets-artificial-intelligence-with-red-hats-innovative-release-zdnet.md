@@ -1,7 +1,7 @@
 ---
 title: Enterprise Linux Meets Artificial Intelligence with Red Hat's Innovative Release | ZDNet
-date: 2024-09-17 13:22:47
-updated: 2024-09-20 12:38:52
+date: 2024-11-20T03:54:04.978Z
+updated: 2024-11-27T01:44:03.799Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-nintendos-best-hd-recorders-for-enthusiasts/"><u>[New] In 2024, Nintendo's Best HD Recorders for Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-juxtaposing-flight-with-flair-a-bebop-parrot-analysis/"><u>[New] Juxtaposing Flight with Flair – A Bebop Parrot Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-future-of-display-technology-with-eizos-high-res-monitor/"><u>[New] The Future of Display Technology with EIZO's High-Res Monitor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-videos-for-free-leading-enhancement-pages/"><u>[New] Transform Videos for Free Leading Enhancement Pages</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vanguard-designs-evaluation-studio-25-examined-current-year/"><u>[Updated] Vanguard Designs Evaluation Studio 25 Examined, Current Year</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevating-your-visual-storytelling-techniques-and-strategies-for-shooting-compelling-slow-motion-content-for-instagram/"><u>2024 Approved Elevating Your Visual Storytelling Techniques and Strategies for Shooting Compelling Slow Motion Content for Instagram</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Vivo</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-complete-users-manual-to-youtube-editing-via-finalcut-pro/"><u>In 2024, The Complete User's Manual to YouTube Editing via FinalCut Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/precision-subtitle-tweaking-for-the-mac-pro-user/"><u>Precision Subtitle Tweaking for the Mac Pro User</u></a></li>
+<li><a href="https://some-tips.techidaily.com/subtlety-in-sound-fading-out-effectively-in-logic-pro-for-2024/"><u>Subtlety In Sound Fading Out Effectively in Logic Pro for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-writers-workshop-for-podcast-creators-examples-included-for-2024/"><u>The Writers' Workshop for Podcast Creators (Examples Included) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-digital-collage-creator-8x-for-2024/"><u>Ultimate Digital Collage Creator 8X for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visual-clarity-conundrum-ultrawide-vs-uhd-4k-monitors-decision/"><u>Visual Clarity Conundrum UltraWide vs UHD 4K Monitors Decision</u></a></li>
+</ul></div>
+

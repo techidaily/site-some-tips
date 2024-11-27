@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Limited Availability: How to Get a Raspberry Pi During Current Supply Crunch | ElectronicsWeekly"
-date: 2024-09-18 11:10:45
-updated: 2024-09-20 12:44:16
+date: 2024-11-26T00:34:46.555Z
+updated: 2024-11-26T19:33:32.600Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,23 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-turbocharge-fb-video-speed-selective-extensions-and-apps-guidebook/"><u>[Updated] Turbocharge FB Video Speed Selective Extensions & Apps Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-spectrum-of-virtuality-from-meta-to-omniverse-explored/"><u>2024 Approved The Spectrum of Virtuality From Meta to Omniverse Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-data-buffering-option-for-sony-a7c/"><u>In 2024, Best Data Buffering Option for Sony A7C</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-crafting-winning-collaboration-plans-on-youtube/"><u>In 2024, Crafting Winning Collaboration Plans on YouTube</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-m14-4g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy M14 4G FRP?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/restoring-gpu-efficiency-the-latest-ddu-guide/"><u>Restoring GPU Efficiency: The Latest DDU Guide</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/software-solutions-for-retrieving-lost-or-corrupted-disk-partitions/"><u>Software Solutions for Retrieving Lost or Corrupted Disk Partitions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stream-your-audiovid-creations-here-for-2024/"><u>Stream Your AudioVid Creations Here for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-free-high-quality-subtitle-tools-for-2024/"><u>The Ultimate Guide to FREE, High-Quality Subtitle Tools for 2024</u></a></li>
+</ul></div>
+

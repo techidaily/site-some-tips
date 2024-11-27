@@ -1,7 +1,7 @@
 ---
 title: "Ten Years On: Exploring the Revolutionary Journey and Lasting Legacy of Raspberry Pi | Insights From ZDNET"
-date: 2024-09-18 21:49:59
-updated: 2024-09-20 11:36:14
+date: 2024-11-25T17:26:56.642Z
+updated: 2024-11-26T23:04:35.180Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-creating-a-vr-ready-environment/"><u>[New] The Complete Guide to Creating a VR-Ready Environment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-and-tricks-for-effective-azure-speech-to-text-use/"><u>[New] Tips and Tricks for Effective Azure Speech-to-Text Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-luts-transforming-images-magic/"><u>2024 Approved Understanding LUTs Transforming Images Magic</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/constantly-displaying-your-flipbook-index-a-guide-with-flipbuilder/"><u>Constantly Displaying Your FlipBook Index - A Guide with FlipBuilder</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/discover-movie-substitutes-7-recommended-for-2024/"><u>Discover Movie Substitutes, #7 Recommended for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-chatgpt-copilot-unveiling-its-functions-and-capabilities/"><u>Discovering ChatGPT Copilot: Unveiling Its Functions & Capabilities</u></a></li>
+<li><a href="https://fox-info.techidaily.com/game-on-android-a-deep-dive-into-kinemaster-features-for-2024/"><u>Game On Android A Deep Dive Into KineMaster Features for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-honor-90-lite-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Honor 90 Lite?</u></a></li>
+<li><a href="https://win-tips.techidaily.com/movavi-converter-review-aiff-vs-wav-an-in-depth-guide-to-selecting-the-best-audio-format/"><u>Movavi Converter Review: AIFF vs WAV - An In-Depth Guide to Selecting the Best Audio Format</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-for-leveraging-azure-voice-to-text-technology-for-2024/"><u>Strategies for Leveraging Azure Voice-to-Text Technology for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-selections-high-capacity-cloud-options-for-2024/"><u>Superior Selections High-Capacity Cloud Options for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-definitive-guide-to-acquiring-tiktok-followers-safely-for-2024/"><u>The Definitive Guide to Acquiring TikTok Followers Safely for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-creative-potential-with-these-top-7-meme-creation-techniques-for-2024/"><u>Unlock Creative Potential with These Top 7 Meme-Creation Techniques for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unveiling Microsoft's GitHub Copilot Strategy for Maximizing AI Efficiency in Coding - Insights From ZDNet
-date: 2024-09-19 17:34:17
-updated: 2024-09-20 12:28:49
+date: 2024-11-21T18:35:02.039Z
+updated: 2024-11-27T04:06:42.529Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-surge-in-tiktok-like-ratings-with-smart-unboxing/"><u>[New] Surge in TikTok Like Ratings with Smart Unboxing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-upgrade-your-photo-edits-the-ultimate-guide-to-pixlr-power/"><u>[New] Upgrade Your Photo Edits The Ultimate Guide to Pixlr Power</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-sound-guide-for-your-android-devices-customization/"><u>[Updated] The Ultimate Sound Guide for Your Android Device's Customization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list/"><u>[Updated] Through a Photographer's Eye Our Best 10 Lenses List</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-help-tackle-dll-fails/"><u>[Windows Help] Tackle DLL Fails</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-olympic-highlights-thrilling-runs-from-x-games/"><u>2024 Approved Olympic Highlights Thrilling Runs From X Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-sustainable-filmmaking-aids-at-no-charge/"><u>2024 Approved Sustainable Filmmaking Aids at No Charge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tutorial-from-webp-to-jpeg/"><u>2024 Approved Ultimate Tutorial From WebP to JPEG</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-missing-xinput13dll-for-smooth-performance/"><u>Addressing Missing XINPUT1_3.dll for Smooth Performance</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/lyric-video-makers-you-should-try-for-2024/"><u>Best Lyric Video Makers You Should Try for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-dutys-black-ops-cold-war-ui-problem-27711-fixed-and-enhanced-for-players/"><u>Call of Duty's Black Ops Cold War - UI Problem #27711: Fixed & Enhanced for Players</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-a-development-partner-building-slick-web-applications-made-easy/"><u>ChatGPT as a Development Partner: Building Slick Web Applications Made Easy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-canon-printer-drivers-for-windows-11-and-older-versions-windows-8-7-get-downloaded-now/"><u>Compatible Canon Printer Drivers for Windows 11 and Older Versions (Windows 8, 7) - Get Downloaded Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-activate-hyper-v-in-the-latest-windows-os/"><u>How To Activate Hyper-V in the Latest Windows OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-6-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 6 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/hp-victus-15l-gaming-desktop-now-a-steal-at-480-labor-day-sale-alert/"><u>HP Victus 15L Gaming Desktop Now a Steal at $480 – Labor Day Sale Alert!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-video-editing-with-kinemaster-know-how-and-premier-online-counterparts/"><u>In 2024, Transform Video Editing with KineMaster Know-How & Premier Online Counterparts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209876548-9781733160117-memoirs-of-a-future-ghost/"><u>Memoirs of a Future Ghost | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/subtlety-in-sound-decreasing-decibels-in-logic-pro-projects-for-2024/"><u>Subtlety in Sound Decreasing Decibels in Logic Pro Projects for 2024</u></a></li>
+</ul></div>
+

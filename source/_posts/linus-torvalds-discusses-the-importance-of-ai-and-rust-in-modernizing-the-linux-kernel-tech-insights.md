@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses the Importance of AI & Rust in Modernizing the Linux Kernel | Tech Insights
-date: 2024-09-17 10:50:53
-updated: 2024-09-20 11:26:28
+date: 2024-11-23T17:20:18.949Z
+updated: 2024-11-27T04:30:58.055Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -40,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -73,6 +81,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-enhance-your-viewing-with-ease-utilizing-the-pip-mode-on-netflix/"><u>[New] 2024 Approved Enhance Your Viewing with Ease Utilizing the PIP Mode on Netflix</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-free-to-funded-monetization-mastery-for-fb-pages/"><u>[New] In 2024, From Free to Funded Monetization Mastery for FB Pages</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-techniques-and-tools-for-effective-hand-tracking/"><u>[New] Techniques & Tools for Effective Hand Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-walkthrough-for-movie-making-on-windows-8/"><u>[New] The Ultimate Walkthrough for Movie Making on Windows 8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-turn-popular-tiktok-tracks-into-practical-personalized-ringtones/"><u>[New] Turn Popular TikTok Tracks Into Practical, Personalized Ringtones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mastering-modern-photographys-dynamic-range-capabilities/"><u>[Updated] 2024 Approved Mastering Modern Photography's Dynamic Range Capabilities</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-streamlined-recording-of-academic-sessions-on-macs/"><u>[Updated] In 2024, Streamlined Recording of Academic Sessions on Macs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-engaging-elite-videography-talent/"><u>[Updated] Strategies for Engaging Elite Videography Talent</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-gaming-consoles-vocals-today/"><u>[Updated] Transform Your Gaming Consoles' Vocals Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uncover-the-secrets-of-your-off-facebook-life-with-us/"><u>[Updated] Uncover the Secrets of Your Off-Facebook Life with Us</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-guide-to-designing-personalized-instagram-ringtone/"><u>2024 Approved The Complete Guide to Designing Personalized Instagram Ringtone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-poco-c65-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Poco C65</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-x8b-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor X8b</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-lava-storm-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-troubleshooting-iphone-x-regaining-access-via-facial-id/"><u>In 2024, Troubleshooting iPhone X Regaining Access via Facial ID</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-audio-interfaces-unveiled-the-podcasters-must-have-list-for-2024/"><u>Top Audio Interfaces Unveiled The Podcaster's Must-Have List for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-c51-by-drfone-android/"><u>Universal Unlock Pattern for Realme C51</u></a></li>
+</ul></div>
+

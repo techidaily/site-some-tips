@@ -1,7 +1,7 @@
 ---
 title: Decoding The Highly Demanded Programming Languages of Our Time - A Comprehensive Guide
-date: 2024-09-18 20:13:52
-updated: 2024-09-20 11:30:33
+date: 2024-11-22T19:56:57.586Z
+updated: 2024-11-26T23:12:58.324Z
 tags:
   - developer
 categories:
@@ -73,6 +73,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +84,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-fundamentals-of-quality-streaming-how-to-do-it-right-with-wirecast-and-youtube/"><u>[New] The Fundamentals of Quality Streaming How to Do It Right with WireCast and Youtube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-slow-motion-spectrum-top-cams-reviewed-by-experts/"><u>[New] The Slow-Motion Spectrum Top Cams Reviewed by Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unraveling-the-mystery-of-apples-new-ios-camera/"><u>[Updated] Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-roundup-unleashing-the-best-5-online-title-makers/"><u>2024 Approved The Ultimate Roundup Unleashing the Best 5 Online Title Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-with-these-top-free-slideshow-templates/"><u>2024 Approved Unleash Creativity with These Top Free Slideshow Templates</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-8-android-group-calls-over-4-users-for-2024/"><u>Essential 8 Android Group Calls Over 4 Users for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/free-access-catching-all-us-formula-e-races-without-paying-a-dime/"><u>Free Access: Catching All U.S. Formula E Races Without Paying a Dime</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-interest-captivate-views-elevate-likes-on-your-unboxings/"><u>In 2024, Ignite Interest, Captivate Views Elevate Likes on Your Unboxings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-a79-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo A79 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-auto-hdr-techniques-in-modern-cameras/"><u>In 2024, Understanding Auto HDR Techniques in Modern Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-basics-of-digital-imagery-sizes/"><u>In 2024, Unveiling the Basics of Digital Imagery Sizes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/maximizing-audience-reach-twitch-livest-writes-for-youtube/"><u>Maximizing Audience Reach Twitch Livest Writes for YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/supreme-creation-studio-test-for-2024/"><u>Supreme Creation Studio Test for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swift-shadowing-in-1-minute-for-2024/"><u>Swift Shadowing in 1 Minute for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-s23-ultra-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy S23 Ultra for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-hand-tracker-potential-guide-for-2024/"><u>Unlock Hand Tracker Potential Guide for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-is-mastodon-really/"><u>What Is Mastodon Really?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726222495571-movavi/"><u>모바일 오디오를 조정하는 도구 - Movavi 스크린 리덕터</u></a></li>
+</ul></div>
+

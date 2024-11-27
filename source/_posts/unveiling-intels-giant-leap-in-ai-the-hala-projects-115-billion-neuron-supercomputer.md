@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Intel's Giant Leap in AI: The HALA Project's 1.15 Billion-Neuron Supercomputer"
-date: 2024-09-17 22:25:18
-updated: 2024-09-20 11:43:55
+date: 2024-11-22T23:02:01.609Z
+updated: 2024-11-26T21:50:00.010Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-compelling-youtube-narratives-with-chapters-and-subsections/"><u>[New] 2024 Approved Crafting Compelling YouTube Narratives with Chapters and Subsections</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-post-resurrecting-made-simple/"><u>[New] In 2024, Post Resurrecting Made Simple</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-turbocharged-titans-compile-the-finest-srt-enhancements-for-pcs-and-macs/"><u>[New] Turbocharged Titans Compile the Finest SRT Enhancements for PCs & Macs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlock-creative-potential-top-10-online-banners-tools-for-2024/"><u>[Updated] Unlock Creative Potential - Top 10 Online Banners Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-potential-an-in-depth-look-at-vivocut-editing/"><u>[Updated] Unlocking Potential An In-Depth Look at VivoCut Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-newest-compatible-cameras-to-match-samsung-gear-360/"><u>2024 Approved Newest Compatible Cameras to Match Samsung Gear 360</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-brand-potential-top-terminology-for-impactful-campaigns/"><u>2024 Approved Unlock Brand Potential Top Terminology for Impactful Campaigns</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-tecno-pop-8-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Tecno Pop 8 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-infinix-smart-7-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Infinix Smart 7 without App | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guia-completa-para-crear-un-video-de-youtube-tecnicas-basicas-para-nuevos-creadores/"><u>Guía Completa Para Crear Un Video De YouTube - Técnicas Básicas Para Nuevos Creadores</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-is-here-high-resolution-video-on-nikon-j5/"><u>In 2024, The Future Is Here High-Resolution Video on Nikon J5</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unique-14-motion-graphics-showcasing-text/"><u>In 2024, Unique 14 Motion Graphics Showcasing Text</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlimited-choice-in-free-personalized-outro-sounds-for-2024/"><u>Unlimited Choice in Free, Personalized Outro Sounds for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/windows-server-schutz-fehler-beim-zugriffsschutz-gelost/"><u>Windows Server Schutz: Fehler Beim Zugriffsschutz Gelöst</u></a></li>
+</ul></div>
+

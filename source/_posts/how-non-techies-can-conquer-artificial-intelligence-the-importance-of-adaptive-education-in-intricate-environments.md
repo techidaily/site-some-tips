@@ -1,7 +1,7 @@
 ---
 title: "How Non-Techies Can Conquer Artificial Intelligence: The Importance of Adaptive Education in Intricate Environments"
-date: 2024-09-17 16:56:38
-updated: 2024-09-20 10:27:10
+date: 2024-11-26T03:15:51.946Z
+updated: 2024-11-26T17:17:05.032Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-crafting-engaging-haul-vids-a-step-by-step-guide/"><u>[Updated] Crafting Engaging Haul Vids A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-scripting-a-powerful-tiktok-outro-statement/"><u>[Updated] In 2024, Scripting a Powerful TikTok Outro Statement</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-record-complete-page-display/"><u>[Updated] Record Complete Page Display</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-path-to-personalized-tiktok-hash-creation/"><u>[Updated] The Path to Personalized TikTok Hash Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transformative-srt-editing-techniques-for-apple-devices/"><u>[Updated] Transformative SRT Editing Techniques for Apple Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-sound-key-audio-interfaces-for-podcasters/"><u>2024 Approved Streamline Your Sound Key Audio Interfaces for Podcasters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-hidden-world-of-hand-tracking/"><u>2024 Approved Unveiling the Hidden World of Hand Tracking</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-m54-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy M54 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-potential-embrace-note-taking-on-mematic/"><u>In 2024, Unlock Potential Embrace Note-Taking on Mematic</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-how-to-stop-death-stranding-from-crashing-on-your-pc/"><u>Solution Guide: How to Stop Death Stranding From Crashing on Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-innovations-in-podcast-titling-with-ai-assistants-for-2024/"><u>Top Innovations in Podcast Titling with AI Assistants for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-video-editing-with-kinemaster-know-how-and-premier-online-counterparts-for-2024/"><u>Transform Video Editing with KineMaster Know-How & Premier Online Counterparts for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-issues-with-your-non-functional-steelseries-arctis-7-microphone/"><u>Troubleshooting Guide: Solving Issues with Your Non-Functional SteelSeries Arctis 7 Microphone</u></a></li>
+</ul></div>
+

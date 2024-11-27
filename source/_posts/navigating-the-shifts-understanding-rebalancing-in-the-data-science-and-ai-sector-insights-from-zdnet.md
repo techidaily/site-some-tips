@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Shifts: Understanding Rebalancing in the Data Science & AI Sector - Insights From ZDNet"
-date: 2024-09-17 13:51:48
-updated: 2024-09-20 10:21:19
+date: 2024-11-23T22:13:33.701Z
+updated: 2024-11-26T20:21:25.800Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,11 +45,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-gradual-dimming-of-sound-in-audacity-masterclass-for-2024/"><u>[New] Gradual Dimming of Sound in Audacity Masterclass for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-best-practices-for-producing-encouragement-driven-vlogs/"><u>[Updated] Best Practices for Producing Encouragement-Driven Vlogs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-pathway-to-proficient-zoom-communication-maximizing-meeting-engagement/"><u>[Updated] In 2024, The Pathway to Proficient ZOOM Communication Maximizing Meeting Engagement</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-top-5-secret-story-viewers-tools/"><u>[Updated] Top 5 Secret Story Viewers' Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-improving-video-quality-during-iphone-shoots/"><u>2024 Approved Improving Video Quality During iPhone Shoots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-hd-live-stream-gear-list/"><u>2024 Approved Ultimate HD Live Stream Gear List</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unraveling-youtubes-profit-from-1m-viewers/"><u>2024 Approved Unraveling Youtube's Profit From 1M Viewers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-app-opening-top-5-windows-11-tips/"><u>Accelerate App Opening: Top 5 Windows 11 Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-steps-for-resolving-disc-not-reading-errors-on-wii-systems/"><u>Essential Steps for Resolving 'Disc Not Reading' Errors on Wii Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-10-best-blurred-background-tools/"><u>In 2024, The 10 Best Blurred Background Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>In 2024, Twilight Crusaders The Darkened Knight vs the Shining One</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-potential-in-ar-applying-lut-techniques/"><u>In 2024, Unleashing Potential in AR Applying LUT Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/score-an-ipad-9th-gen-for-only-250-post-apple-event-exclusive-offer-featured-in-zdnets-latest-update/"><u>Score an iPad (9Th Gen) for Only $250 Post-Apple Event - Exclusive Offer Featured in ZDNET's Latest Update</u></a></li>
+</ul></div>
+

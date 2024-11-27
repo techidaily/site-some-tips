@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Beginner Programmer Positions: Launching Careers in Tech with the Right First Steps"
-date: 2024-09-18 14:58:40
-updated: 2024-09-20 11:31:20
+date: 2024-11-20T01:49:03.124Z
+updated: 2024-11-27T01:23:10.779Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,11 +45,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -66,6 +78,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -111,6 +127,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-sequential-appearance-start/"><u>[New] In 2024, Sequential Appearance Start</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-vertical-vs-horizontal-deciding-facebook-video-orientation/"><u>[New] In 2024, Vertical vs Horizontal Deciding Facebook Video Orientation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-top-pick-top-10-android-and-ios-wedding-countdown-clock-apps-of-the-year/"><u>[New] The Top Pick Top 10 Android and iOS Wedding Countdown Clock Apps of the Year</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-strategies-maximizing-efficiency-in-windows-10/"><u>[New] Top Strategies Maximizing Efficiency in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-androids-best-music-video-apps/"><u>[Updated] The Ultimate List of Android's Best Music Video Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-for-applying-luts-in-film-color-grading/"><u>[Updated] Tips for Applying LUTs in Film Color Grading</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-s23-ultra-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy S23 Ultra? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/common-issues-with-core-windows-10-applications-crashing-on-certain-devices/"><u>Common Issues with Core Windows 10 Applications Crashing on Certain Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/crafting-your-windows-photos-masterpiece-adding-filters-musical-elements/"><u>Crafting Your Windows Photos Masterpiece Adding Filters, Musical Elements</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/flip-the-script-design-your-own-video-finale-for-free/"><u>Flip the Script Design Your Own Video Finale for Free</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-oneplus-ace-3-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It OnePlus Ace 3 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-webcams-elevating-audio-quality-in-podcasts/"><u>In 2024, Top 10 Webcams Elevating Audio Quality in Podcasts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-13-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone 13 Pro Max? 5 Tips You Must Know</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-instagram-stardom-in-just-nine-easy-tips/"><u>Mastering Instagram Stardom in Just Nine Easy Tips</u></a></li>
+</ul></div>
+

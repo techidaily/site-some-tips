@@ -1,7 +1,7 @@
 ---
 title: How Leveraging Low-Code Solutions Enhances Employer Branding, According to ZDNet
-date: 2024-09-17 11:31:43
-updated: 2024-09-20 11:13:18
+date: 2024-11-22T19:55:06.177Z
+updated: 2024-11-27T04:29:40.878Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capturing-stunning-webcam-content-quick-steps-to-success/"><u>[New] 2024 Approved Capturing Stunning WebCam Content Quick Steps to Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-blueprint-to-establishing-an-online-review-community-for-toys/"><u>2024 Approved The Blueprint to Establishing an Online Review Community for Toys</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-prolonging-gopros-energy-stamina/"><u>2024 Approved Tips for Prolonging GoPro's Energy Stamina</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpts-secret-arsenal-5-features-underutilized-by-most-users/"><u>GPT's Secret Arsenal: 5 Features Underutilized by Most Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ignite-passion-in-push-ups-and-jumps-with-these-top-20-songs-for-2024/"><u>Ignite Passion in Push-Ups and Jumps with These Top 20 Songs for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 15</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-iphone-camera-settings-simplified/"><u>In 2024, Expert iPhone Camera Settings Simplified</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-tutorial-for-wm6-setup/"><u>In 2024, Ultimate Tutorial for WM6 Setup</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-todays-challenges-overcoming-uncertainty-in-ai-output-and-doubts-on-precision-insights-from-zdnet/"><u>Navigating Today's Challenges: Overcoming Uncertainty in AI Output & Doubts on Precision - Insights From ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-lenovo-visual-vibrations/"><u>Tackling Lenovo Visual Vibrations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-modern-shoppers-guide-to-360-degree-imaging-tech-for-2024/"><u>The Modern Shopper's Guide to 360-Degree Imaging Tech for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tips-for-obtaining-pristine-images-at-no-cost-for-2024/"><u>Top Tips for Obtaining Pristine Images at No Cost for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-how-to-change-volume-in-media-files-with-filmora/"><u>Updated How to Change Volume in Media Files with Filmora</u></a></li>
+</ul></div>
+

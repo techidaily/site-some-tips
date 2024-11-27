@@ -1,7 +1,7 @@
 ---
 title: Leveraging Stack Overflow's Expertise for Advanced Gemini AI on Google Cloud Services
-date: 2024-09-17 18:12:23
-updated: 2024-09-20 10:47:48
+date: 2024-11-25T19:35:04.663Z
+updated: 2024-11-26T19:40:50.038Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-add-edge-to-insta-videos-a-trifecta-guide/"><u>[New] 2024 Approved Add Edge to Insta Videos - A Trifecta Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-conquer-small-screen-navigate-through-these-best-free-and-online-downloader-tools/"><u>[New] In 2024, Conquer Small Screen Navigate Through These Best Free & Online Downloader Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-how-to-dodge-without-disruption-bypassing-edgenuity-courses-effortlessly/"><u>[New] In 2024, How to Dodge Without Disruption Bypassing Edgenuity Courses Effortlessly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-guide-to-snapchats-captivating-boomers/"><u>[New] Step-By-Step Guide to Snapchat's Captivating Boomers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-world-of-google-ar-accessories-and-beyond/"><u>[New] The World of Google AR Accessories, and Beyond</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-uncover-the-best-practices-for-video-seo-on-facebook/"><u>[New] Uncover the Best Practices for Video SEO on Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncovering-hidden-wellsprings-of-free-graphic-designs/"><u>[New] Uncovering Hidden Wellsprings of Free Graphic Designs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-color-richness-the-role-of-look-up-tables-in-adobe-photos/"><u>[New] Unlocking Color Richness The Role of Look-Up Tables in Adobe Photos</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-new-world-keeps-crashing-on-pc/"><u>[SOLVED] New World Keeps Crashing on PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocked-gems-seeking-free-tiktok-picture-perfections/"><u>[Updated] Unlocked Gems Seeking Free TikTok Picture Perfections</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-mastering-filmmaking-on-youtube-and-substitutes/"><u>2024 Approved Mastering Filmmaking on YouTube & Substitutes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-final-word-on-powerdirector-a-complete-review/"><u>2024 Approved The Final Word on PowerDirector A Complete Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-stylish-methodology-combining-gopro-imagery-into-360-video-tapestry/"><u>In 2024, Stylish Methodology Combining GoPro Imagery Into 360 Video Tapestry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-full-potential-of-powerdirector-24/"><u>In 2024, Unveiling the Full Potential of PowerDirector '24</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-handbook-of-gopro-time-lapse-photography-excellence-for-2024/"><u>The Complete Handbook of GoPro Time-Lapse Photography Excellence for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-excel-features-unattainable-by-chatgpt/"><u>Top Excel Features Unattainable by ChatGPT</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Leading Cybersecurity Certs Revealed on ZDNet
-date: 2024-09-17 20:35:32
-updated: 2024-09-20 12:11:27
+date: 2024-11-22T04:13:36.927Z
+updated: 2024-11-26T19:57:00.000Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-template-to-tutorial-gamers-channel-design/"><u>[New] 2024 Approved From Template to Tutorial Gamers' Channel Design</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-gamers-experience-recording-console-titles-for-pc/"><u>[New] Enhancing Gamers' Experience Recording Console Titles for PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unblock-mystery-solved-detecting-snapchat-shutout/"><u>[New] Unblock Mystery Solved Detecting Snapchat Shutout</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-9-indoor-game-apps-perfect-for-android-without-connectivity/"><u>[Updated] 2024 Approved Top 9 Indoor Game Apps - Perfect For Android Without Connectivity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-your-compreran-guide-to-creating-viral-ad-videos-for-free/"><u>[Updated] 2024 Approved Your Compreran Guide to Creating Viral Ad Videos for Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tech-jest-crafter/"><u>[Updated] Tech Jest Crafter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-8-headsets-for-an-immersive-virtual-world-adventure/"><u>[Updated] Top 8 Headsets for an Immersive Virtual World Adventure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-trending-picture-tales-history-revealed/"><u>[Updated] Trending Picture Tales History Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-impact-of-aurora-hdr-on-photography/"><u>[Updated] Understanding the Impact of Aurora HDR on Photography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>[Updated] Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-instagram-guide-for-curating-and-sharing-podcasts/"><u>2024 Approved The Instagram Guide for Curating and Sharing Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-6-pro-rated-gopro-head-straps-and-mastering-usage/"><u>2024 Approved Top 6 Pro-Rated GoPro Head Straps & Mastering Usage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-mystery-of-hxtrexe-in-windows-10-expert-tips-and-fixes/"><u>Decoding the Mystery of hxtr.exe in Windows 10 - Expert Tips and Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-audit-your-internet-service-providers-data-charges-effectively/"><u>How to Audit Your Internet Service Provider's Data Charges Effectively</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-infinix-zero-5g-2023-turbo-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Infinix Zero 5G 2023 Turbo to New Phone | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-voice-modification-tools-essential-choices-for-vtuber-creators/"><u>In 2024, Top Voice Modification Tools Essential Choices for VTuber Creators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-free-memes-for-everyday-chuckles/"><u>In 2024, Top-Tier Free Memes for Everyday Chuckles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-easy-way-to-download-and-use-the-ifunny-meme-app/"><u>The Easy Way to Download and Use the iFunny Meme App</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-discounted-roku-streaming-sticks-and-players-unmissable-savings/"><u>Top Discounted Roku Streaming Sticks & Players - Unmissable Savings!</u></a></li>
+</ul></div>
+

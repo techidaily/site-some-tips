@@ -1,7 +1,7 @@
 ---
 title: "Redefining Recruitment: A Fresh Approach to Attracting Top-Tier IT Professionals"
-date: 2024-09-17 14:48:41
-updated: 2024-09-20 11:22:14
+date: 2024-11-22T02:50:00.695Z
+updated: 2024-11-26T23:06:33.571Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-fast-fixes-for-chaotic-youtube-list-ordering/"><u>[New] 2024 Approved Fast Fixes for Chaotic YouTube List Ordering</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-chill-vibes-top-idle-pc-experiences-for-2024/"><u>[New] Chill Vibes Top Idle PC Experiences for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-cost-efficiency-in-yt-promotional-campaigns/"><u>[New] Cost Efficiency in YT Promotional Campaigns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-the-secret-to-exceptional-time-lapse-videos-on-galaxy/"><u>[New] Unlock the Secret to Exceptional Time-Lapse Videos on Galaxy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-magic-of-moving-texts-a-guide-for-insta-pros/"><u>[New] Unveiling the Magic of Moving Texts A Guide for Insta Pros</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-historical-stop-motion-masterpieces-15-essential-viewing/"><u>[Updated] 2024 Approved Historical Stop-Motion Masterpieces #15 Essential Viewing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-comprehensive-blueprint-to-youtube-banner-effectiveness/"><u>[Updated] 2024 Approved The Comprehensive Blueprint to YouTube Banner Effectiveness</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-crafting-a-youtube-video-with-100kplus-reach/"><u>[Updated] The Art of Crafting a YouTube Video with 100K+ Reach</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-8-ultimate-4k-blu-ray-playback-units-reviewed-for-2024/"><u>[Updated] Top 8 Ultimate 4K Blu-Ray Playback Units Reviewed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-iphones-nightlight-settings/"><u>[Updated] Understanding iPhone's Nightlight Settings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-list-of-premium-ways-to-access-cricket-live/"><u>2024 Approved Comprehensive List of Premium Ways to Access Cricket Live</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-showdown-how-does-the-apple-watch-ultra-stack-up-against-the-series-8-find-out-with-expert-analysis-zdnet/"><u>Apple Showdown: How Does the Apple Watch Ultra Stack Up Against the Series 8? Find Out with Expert Analysis | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-quick-and-easy-iphone-methods-to-download-podcasts-anywhere/"><u>In 2024, Quick and Easy iPhone Methods to Download Podcasts Anywhere</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-fisheye-camera-capabilities/"><u>In 2024, The Ultimate Guide to Fisheye Camera Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tales-on-the-silver-screen-writing-for-cinema-for-2024/"><u>Tales on the Silver Screen Writing for Cinema for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-intense-focus-5-techniques-for-zooming-in-minecraft-for-2024/"><u>The Art of Intense Focus 5 Techniques for Zooming in Minecraft for 2024</u></a></li>
+</ul></div>
+

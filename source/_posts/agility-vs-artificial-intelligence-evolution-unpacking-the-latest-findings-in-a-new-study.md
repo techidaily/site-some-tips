@@ -1,7 +1,7 @@
 ---
 title: "Agility Vs. Artificial Intelligence Evolution: Unpacking the Latest Findings in a New Study"
-date: 2024-09-17 21:52:52
-updated: 2024-09-20 12:41:43
+date: 2024-11-24T16:14:22.848Z
+updated: 2024-11-26T22:39:31.757Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/fficiently-shortening-youtube-content-for-2024/"><u>[New] Efficiently Shortening YouTube Content for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-mi-drone-4k-experience/"><u>[New] The Ultimate Guide to Mi Drone 4K Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-beginners-overview-of-animation-trends/"><u>[Updated] 2024 Approved Beginner's Overview of Animation Trends</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-free-pc-sound-capturing-software-x-recorder-version-for-2024/"><u>[Updated] Free Pc Sound Capturing Software - X-Recorder Version for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-download-apple-podcasts/"><u>[Updated] How to Download Apple Podcasts?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-tips-for-zoom-on-chrome-devices/"><u>[Updated] Top Tips for Zoom on Chrome Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-how-to-use-luts-from-color-grading-central-to-color-grading-for-movies/"><u>2024 Approved How to Use Luts From Color Grading Central to Color Grading for Movies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-teachers-guide-to-use-video-in-teaching/"><u>2024 Approved Teacher's Guide To Use Video In Teaching</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/at-lp120xusb-review-simplifying-record-conversion-for-all/"><u>AT-LP120XUSB Review - Simplifying Record Conversion for All</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/gratuita-conversao-de-imagens-em-formato-raw-cr2-online-com-o-movavi/"><u>Gratuita Conversão De Imagens Em Formato RAW CR2 Online Com O Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-realme-c67-5g-phone-by-drfone-android/"><u>How to Reset a Locked Realme C67 5G Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swiftly-upload-to-twitter-premium-video-convertors-guide-for-2024/"><u>Swiftly Upload to Twitter Premium Video Convertors Guide for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unleashing-dogfights-across-stars-an-evaluation-of-combat-immersion-in-star-wars-squadrons/"><u>Unleashing Dogfights Across Stars: An Evaluation of Combat Immersion in Star Wars: Squadrons</u></a></li>
+</ul></div>
+

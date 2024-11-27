@@ -1,7 +1,7 @@
 ---
 title: "Revamping Your Approach: Modern Strategies in Recruiting Top Technology Professionals - Insights From ZDNet"
-date: 2024-09-17 18:26:14
-updated: 2024-09-20 10:21:44
+date: 2024-11-19T19:31:24.299Z
+updated: 2024-11-26T23:41:36.816Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,23 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-10-best-video-player-apps-for-iphone-and-ipad/"><u>[New] 2024 Approved 10 Best Video Player Apps for iPhone and iPad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma/"><u>[New] The Skyborne Duo Faceoff DJI Mavic Pro & GoPro Karma</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-windows-hdr-capabilities-for-cutting-edge-video-workflows/"><u>[New] Unlocking Windows' HDR Capabilities for Cutting-Edge Video Workflows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transformative-techniques-for-capturing-on-iphone/"><u>[Updated] Transformative Techniques for Capturing on iPhone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/crafting-3d-text-a-step-by-step-guide-to-adobe-illustrator-for-2024/"><u>Crafting 3D Text A Step-by-Step Guide to Adobe Illustrator for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/holistic-digital-marketing-leveraging-facebook-linkedin-and-youtube-for-growth/"><u>Holistic Digital Marketing: Leveraging Facebook, LinkedIn and YouTube for Growth</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-apple-iphone-14-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on Apple iPhone 14 Plus Safe and Legal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-10-plugin-power-duo-for-final-cut-pro/"><u>In 2024, The Ultimate 10 Plugin Power Duo for Final Cut Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pexels-101-finding-the-picture-of-your-dreams-for-2024/"><u>Pexels 101 Finding the Picture of Your Dreams for 2024</u></a></li>
+</ul></div>
+

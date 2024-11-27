@@ -1,7 +1,7 @@
 ---
 title: "Meta's GenAI Transformation: From Predictive Models to Complex Chess Dynamics | Expert Analysis on ZDNet"
-date: 2024-09-17 20:12:46
-updated: 2024-09-20 11:21:43
+date: 2024-11-21T22:00:16.481Z
+updated: 2024-11-26T21:10:46.838Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-10-best-offline-android-games-to-pass-time-filmora-for-2024/"><u>[New] 10 Best Offline Android Games to Pass Time - Filmora for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-guide-to-lut-applications-in-photoshop-cs6/"><u>[New] The Essential Guide to LUT Applications in Photoshop CS6</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-gear-for-tempo-tinkering-in-stories/"><u>[New] The Ultimate Gear for Tempo Tinkering in Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-video-experience-on-youtube-with-slower-playback-48-chars/"><u>[Updated] 2024 Approved Enhancing Video Experience on YouTube with Slower Playback (48 Chars)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-perfect-your-iphones-selfie-experience-the-10-finest-free-apps/"><u>[Updated] 2024 Approved Perfect Your iPhone’s Selfie Experience The 10 Finest Free Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elevate-podcasting-quality-selecting-the-right-interface/"><u>[Updated] Elevate Podcasting Quality Selecting the Right Interface</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-real-time-reality-rally-does-digital-dethrone-device-dominance/"><u>[Updated] Real-Time Reality Rally Does Digital Dethrone Device Dominance?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-superior-gameplay-androids-leading-gba-emulators/"><u>[Updated] Superior Gameplay Android's Leading GBA Emulators</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-art-of-altering-photographic-contrast-for-2024/"><u>[Updated] The Art of Altering Photographic Contrast for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-evolution-of-hd-tech-a-look-at-hp-envy-27/"><u>[Updated] The Evolution of HD Tech - A Look at HP Envy 27</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-scenes-with-ease-your-gopro-time-lapse-guide/"><u>[Updated] Transforming Scenes with Ease Your GoPro Time-Lapse Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-efficient-media-management-turning-videos-into-dvds-with-mac/"><u>2024 Approved Efficient Media Management Turning Videos Into DVDs with Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-route-for-finding-visual-gold-on-pexels/"><u>2024 Approved The Essential Route for Finding Visual Gold on Pexels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-time-travel-regain-control-over-streams/"><u>2024 Approved Twitch Time Travel Regain Control Over Streams</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-wdf-violations-preventing-os-stability/"><u>Addressing WDF Violations Preventing OS Stability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-your-photos-into-timeless-slow-mo-artistry/"><u>In 2024, Transforming Your Photos Into Timeless Slow-Mo Artistry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-translating-megabits-to-seconds-a-20-video-challenge/"><u>In 2024, Translating Megabits to Seconds A 20-Video Challenge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-complexities-of-music-licensing-on-instagram/"><u>In 2024, Unraveling the Complexities of Music Licensing on Instagram</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Exploring AI and Rust with Linus Torvalds - The Linux Kernel's Unmatched Significance, According to ZDNet
-date: 2024-09-18 12:30:39
-updated: 2024-09-20 10:36:54
+date: 2024-11-23T16:57:11.671Z
+updated: 2024-11-26T17:39:55.473Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-windowsmac-tutorials-for-skype-audio-and-video-archive/"><u>[New] 2024 Approved Windows/Mac Tutorials for Skype Audio & Video Archive</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-5-must-know-elements-of-influential-titles/"><u>[New] 5 Must-Know Elements of Influential Titles</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-asmrs-good-side-benefits-revealed-now/"><u>[New] ASMR's Good Side Benefits Revealed Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-how-asmr-can-benefit-your-life/"><u>[New] Understanding How ASMR Can Benefit Your Life</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerate-document-creation-learning-ms-words-speech-feature/"><u>[Updated] Accelerate Document Creation Learning MS Word's Speech Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-video-upgrade-with-enhancer-22/"><u>2024 Approved The Ultimate Video Upgrade with Enhancer 2.2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-storytelling-into-cinematic-art/"><u>2024 Approved Transforming Storytelling Into Cinematic Art</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-video-editing-on-windows-11-for-professionals/"><u>2024 Approved Unlocking Video Editing on Windows 11 for Professionals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/elite-puzzles-unlocked-discovering-best-escape-halls-for-2024/"><u>Elite Puzzles Unlocked Discovering Best Escape Halls for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-s23-ultra-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy S23 Ultra? Try These Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/god-of-war-performance-issues-heres-how-to-lower-cpu-usage-effectively/"><u>God of War Performance Issues? Here's How to Lower CPU Usage Effectively!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essentials-for-building-compelling-canon-time-lapses/"><u>In 2024, The Essentials for Building Compelling Canon Time-Lapses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveil-clearer-visuals-essential-tips-for-zooming-on-snapchat/"><u>In 2024, Unveil Clearer Visuals Essential Tips for Zooming on Snapchat</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-stream-anything-to-chromecast-the-ultimate-video-format-guide-for-2024/"><u>New Stream Anything to Chromecast The Ultimate Video Format Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pioneering-mobile-tech-androids-role-in-vr360-videos-update-2023-for-2024/"><u>Pioneering Mobile Tech Android's Role in VR/360 Videos (Update 2023) for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/quick-guide-seamless-dat-file-compatibility-for-computers/"><u>Quick Guide: Seamless DAT File Compatibility for Computers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-battle-of-accessible-viewerships-google-vs-samsung-headsets-for-2024/"><u>The Battle of Accessible Viewerships Google Vs. Samsung Headsets for 2024</u></a></li>
+</ul></div>
+

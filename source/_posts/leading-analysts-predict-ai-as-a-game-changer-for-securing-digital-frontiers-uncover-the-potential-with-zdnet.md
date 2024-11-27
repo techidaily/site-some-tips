@@ -1,7 +1,7 @@
 ---
 title: Leading Analysts Predict AI as a Game-Changer for Securing Digital Frontiers - Uncover the Potential with ZDNET
-date: 2024-09-17 19:32:25
-updated: 2024-09-20 10:22:53
+date: 2024-11-19T21:58:38.402Z
+updated: 2024-11-26T21:58:11.422Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -73,6 +77,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +88,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-elevating-your-live-stream-with-periscope/"><u>[New] Elevating Your Live Stream with Periscope</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-cut-video-for-instagram-on-mac-for-2024/"><u>[New] How To Cut Video For Instagram On Mac for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-leading-transformation-software-spectrashift-series/"><u>[New] Leading Transformation Software SpectraShift Series</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-playbook-to-conquer-spotify-advertising/"><u>[New] The Complete Playbook to Conquer Spotify Advertising</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essentials-for-building-compelling-canon-time-lapses/"><u>[New] The Essentials for Building Compelling Canon Time-Lapses</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-crafting-perfect-youtube-music-sets-for-2024/"><u>[Updated] Crafting Perfect YouTube Music Sets for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unravel-the-power-of-live-streaming-with-obs-on-youtube-and-twitch-for-2024/"><u>[Updated] Unravel the Power of Live Streaming with OBS on YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-linuxs-best-pick-screen-capture-and-save-tools/"><u>2024 Approved Linux's Best Pick Screen Capture & Save Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-audio-finesse-advanced-editing-strategies-for-podcasters/"><u>2024 Approved The Art of Audio Finesse Advanced Editing Strategies for Podcasters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-immersive-roleplay-zooming-into-roblox-worlds/"><u>2024 Approved The Key to Immersive Roleplay Zooming Into Roblox Worlds</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avoiding-football-manager-2e21-pc-malfunctions-solutions-to-common-crashing-problems/"><u>Avoiding Football Manager 2E21 PC Malfunctions: Solutions to Common Crashing Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-webm-files-to-avi-for-free-on-the-internet-using-movavi/"><u>Convert WebM Files to AVI for Free on the Internet Using Movavi</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/detailed-analysis-of-youtubes-versus-dailymentions/"><u>Detailed Analysis of YouTubes Versus DailyMentions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-mp3-transformation-from-mov-files-for-desktop-and-portable-device-users/"><u>Effortless MP3 Transformation From MOV Files for Desktop and Portable Device Users</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/facile-trasloco-della-partizione-di-sistema-a-un-nuovo-disco-rigido/"><u>Facile Trasloco Della Partizione Di Sistema a Un Nuovo Disco Rigido</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-editing-upgrades-for-final-cut-pro-professionals/"><u>In 2024, Top 10 Editing Upgrades for Final Cut Pro Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-pcs-hd-color-videography-for-2024/"><u>Ultimate Guide PC's HD Color Videography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-selecting-6-premium-live-audio-devices-for-2024/"><u>Ultimate Guide to Selecting 6 Premium Live Audio Devices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbeatable-prices-for-top-6-action-cams-under-100-for-2024/"><u>Unbeatable Prices for Top 6 Action Cams Under $100 for 2024</u></a></li>
+</ul></div>
+

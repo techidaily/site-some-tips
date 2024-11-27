@@ -1,7 +1,7 @@
 ---
 title: "Ceremorphic: The Emerging AI Chip Innovator Unveils Its Tech Post-Stealth Phase - Insights on ZDNet"
-date: 2024-09-17 14:20:15
-updated: 2024-09-20 11:54:55
+date: 2024-11-22T00:23:07.978Z
+updated: 2024-11-26T16:39:14.389Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-streamlining-video-features-youtube-annotations-guide/"><u>[New] In 2024, Streamlining Video Features YouTube Annotations Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-seizing-photographic-segments-from-videos-in-windows-11/"><u>[New] Seizing Photographic Segments From Videos in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-vr-limitations/"><u>[New] Understanding VR Limitations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-leading-8-multimedia-apps-for-creative-phones-android-ios/"><u>[Updated] The Leading 8 Multimedia Apps for Creative Phones (Android, iOS)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unlocking-full-potential-the-laptop-recording-manual/"><u>[Updated] Unlocking Full Potential The Laptop Recording Manual</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-sharper-images-during-zoom-calls/"><u>2024 Approved Tips for Sharper Images During Zoom Calls</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-pedagogy-through-vr-innovation/"><u>2024 Approved Transforming Pedagogy Through VR Innovation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-twilight-tales-top-hdr-sky-captures-from-leading-portals/"><u>2024 Approved Twilight Tales - Top HDR Sky Captures From Leading Portals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-potential-of-wide-angle-360-photos/"><u>2024 Approved Unlocking the Potential of Wide Angle 360 Photos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-deals-revealed-save-up-to-900-on-high-performance-lenovo-workstations-pre-prime-day-exclusive-zdnet-report/"><u>Amazon Deals Revealed: Save Up to $900 on High-Performance Lenovo Workstations Pre-Prime Day | Exclusive ZDNET Report</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-how-amplifi-hd-wi-fi-mesh-system-bids-farewell-to-dead-zones-forever/"><u>Comprehensive Review: How Amplifi HD Wi-Fi Mesh System Bids Farewell to Dead Zones Forever</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/effective-techniques-for-equalizing-mp3-audio-levels/"><u>Effective Techniques for Equalizing MP3 Audio Levels</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-14-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 14</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-crafting-irresistible-titles/"><u>In 2024, The Ultimate Guide to Crafting Irresistible Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-online-portals-for-text-artistry/"><u>In 2024, Ultimate Guide to Online Portals for Text Artistry</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-brightness-overcoming-dark-screen-problems/"><u>Restoring Brightness: Overcoming Dark Screen Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-woes-alternatives-without-upgrading/"><u>Windows 11 Woes: Alternatives Without Upgrading</u></a></li>
+</ul></div>
+

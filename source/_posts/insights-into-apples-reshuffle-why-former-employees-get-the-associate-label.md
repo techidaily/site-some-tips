@@ -1,7 +1,7 @@
 ---
 title: Insights Into Apple’s Reshuffle – Why Former Employees Get the ‘Associate’ Label
-date: 2024-09-19 10:12:42
-updated: 2024-09-20 12:55:34
+date: 2024-11-22T22:14:58.034Z
+updated: 2024-11-26T16:56:43.064Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-premium-sound-to-text-converters/"><u>[New] Premium Sound to Text Converters</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-top-igtv-gurus-you-cant-miss/"><u>[New] Top IGTV Gurus You Can't Miss</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-prime-fb-extra-tools-enhanced-firefox-version-compatibility/"><u>[Updated] In 2024, Prime FB Extra Tools Enhanced Firefox Version Compatibility</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-maximizing-visual-clarity-on-kinemaster-projects-for-2024/"><u>[Updated] Maximizing Visual Clarity on Kinemaster Projects for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-kids-drones/"><u>[Updated] The Ultimate Guide to Kids' Drones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-efficiency-incorporating-zoom-into-your-gmail-routine/"><u>[Updated] Unlocking Efficiency Incorporating Zoom Into Your Gmail Routine</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-stabilizing-aerial-vision-a-comprehensive-guide-to-choosing-a-gimbal/"><u>2024 Approved Stabilizing Aerial Vision A Comprehensive Guide to Choosing a Gimbal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-the-experience-top-9-streams/"><u>2024 Approved Unleash the Experience Top 9 Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-most-enlightening-general-knowledge-trivia-channels-in-24/"><u>2024 Approved Unveiling the Most Enlightening General Knowledge Trivia Channels in '24</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advancing-photo-viewing-in-windows-11-merge-artistic-layers-and-soundtracks-for-2024/"><u>Advancing Photo Viewing in Windows 11 Merge Artistic Layers and Soundtracks for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/effortless-backup-moving-files-from-your-pc-to-an-exfat-formatted-drive-in-windows-versions-1187/"><u>Effortless Backup: Moving Files From Your PC to an ExFAT-Formatted Drive in Windows Versions (11/8/7)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-a15-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy A15 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hpad-gear-your-youtube-channels-first-steps/"><u>Launchpad Gear Your YouTube Channel's First Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/site-selection-involves-evaluating-factors-like-size-shape-topography-accessibility-and-proximity-to-amenities/"><u>Site Selection Involves Evaluating Factors Like Size, Shape, Topography, Accessibility, and Proximity to Amenities.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-wagering-vegas-pros-evolution-in-21-for-2024/"><u>The Future of Wagering Vegas Pro's Evolution in '21 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-closer-insight-in-roblox-games-for-2024/"><u>The Ultimate Guide to Closer Insight in Roblox Games for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-techniques-for-harmonious-crossfades-in-tracks-for-2024/"><u>Unveiling Techniques for Harmonious Crossfades in Tracks for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-an-ai-art-generator/"><u>What Is an AI Art Generator?</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Google Gemini AI Cloud Explained: Transform Your Project Building Process to Be Swifter, More Affordable, and Superior in Quality"
-date: 2024-09-18 13:35:44
-updated: 2024-09-20 11:22:44
+date: 2024-11-19T18:32:00.587Z
+updated: 2024-11-26T23:05:48.789Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-full-spectrum-analysis-of-lgs-high-definition-screen/"><u>[New] The Full Spectrum Analysis of LG’s High-Definition Screen</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-monetization-contest-dailymovement-vs-youtubes-earnings-battleground/"><u>[New] The Monetization Contest DailyMovement vs Youtube's Earnings Battleground</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-conduct-cost-effective-seminars-using-youtube-for-2024/"><u>[Updated] Conduct Cost-Effective Seminars Using YouTube for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-master-the-art-of-video-crafting-integrating-storyremix-with-windows-11-photos-for-2024/"><u>[Updated] Master the Art of Video Crafting Integrating StoryRemix with Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tools-that-enhance-your-travel-videos/"><u>[Updated] Tools That Enhance Your Travel Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-secrets-of-color-balance-in-gopro-videos/"><u>[Updated] Unlock the Secrets of Color Balance in GoPro Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>[Updated] Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-with-magix-video-pro-x/"><u>2024 Approved Unleashing Creativity with Magix Video Pro X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-dji-potential-two-devices-get-20-gratis-luts/"><u>2024 Approved Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-xs-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone XS Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-essential-iphones-podcast-tools-ranked-5/"><u>In 2024, Essential iPhones Podcast Tools Ranked #5</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-haul-video-production-and-editing-techniques/"><u>In 2024, The Art of Haul Video Production and Editing Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-itel-p55t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Itel P55T to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-v30-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo V30 Pro Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-tiktok-experience-with-new-user-numbers-for-2024/"><u>Transform Your TikTok Experience with New User Numbers for 2024</u></a></li>
+</ul></div>
+

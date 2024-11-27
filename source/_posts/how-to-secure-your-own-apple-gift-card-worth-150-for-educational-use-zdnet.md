@@ -1,7 +1,7 @@
 ---
 title: How To Secure Your Own Apple Gift Card Worth $150 For Educational Use | ZDNet
-date: 2024-11-12T17:26:30.978Z
-updated: 2024-11-17T01:48:43.850Z
+date: 2024-11-20T16:13:34.816Z
+updated: 2024-11-27T01:32:05.290Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A crushing upset
 
 Somehow, though, Apple managed to get many, many people negatively worked up about one aspect of its launch.
@@ -71,10 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -94,10 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -148,20 +146,20 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-capture-every-moment-premium-no-cost-windowsmac-tools/"><u>[Updated] Capture Every Moment Premium, No-Cost Windows/Mac Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tap-out-of-tiktok-clutter-editing-guide-for-massive-drafts/"><u>[Updated] Tap Out of TikTok Clutter Editing Guide for Massive Drafts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-hdr-enhancement-your-lightroom-journey/"><u>[Updated] The Art of HDR Enhancement Your Lightroom Journey</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-key-to-mastering-tiktok-a-user-friendly-manual-for-applewindows-computers/"><u>[Updated] The Key to Mastering TikTok A User-Friendly Manual for Apple/Windows Computers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-premier-game-recorder-picks-excluding-the-mainstream-one/"><u>2024 Approved Premier Game Recorder Picks Excluding the Mainstream One</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-crisp-clear-cinematography/"><u>2024 Approved The Key to Crisp, Clear Cinematography</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-path-to-richer-textual-design-in-ae/"><u>2024 Approved The Path to Richer Textual Design in AE</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-adobe-writes-on-shake-reduction-in-photos/"><u>2024 Approved Unraveling Adobe’ Writes on Shake Reduction in Photos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-299-laptop-the-ideal-choice-for-college-students-on-a-budget-insights/"><u>Affordable $299 Laptop: The Ideal Choice for College Students on a Budget - Insights</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-sculpting-the-digital-experience-through-zooming/"><u>In 2024, Sculpting the Digital Experience Through Zooming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-supercharge-your-pc-with-these-win-10-tricks/"><u>In 2024, Supercharge Your PC with These Win 10 Tricks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-potential-vr-innovations-for-fun-and-games/"><u>In 2024, Unleashing Potential VR Innovations for Fun & Games</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/lenovo-thinkpad-x220-drivers-download-now-for-seamless-experience/"><u>Lenovo ThinkPad X220 Drivers - Download Now For Seamless Experience</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unveiling-the-secrets-of-slow-motion-video-production-for-instagram-impact/"><u>Unveiling the Secrets of Slow Motion Video Production for Instagram Impact</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/visual-branding-on-youtubes-iconography-and-images/"><u>Visual Branding on YouTubes Iconography and Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-percussion-prospector-find-and-test-free-software/"><u>[New] The Percussion Prospector – Find & Test Free Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-fastest-route-for-srt-to-text-file-conversion/"><u>[Updated] 2024 Approved The Fastest Route for SRT to Text File Conversion</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-turning-youtube-sounds-into-text-an-in-depth-no-cost-course/"><u>[Updated] 2024 Approved Turning YouTube Sounds Into Text An In-Depth, No-Cost Course</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-propel-your-vlogs-forward-top-seo-tech-unveiled-for-2024/"><u>[Updated] Propel Your Vlogs Forward – Top SEO Tech Unveiled for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-sourcing-a-list-cinematography-experts/"><u>2024 Approved Strategies for Sourcing A-List Cinematography Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-instructions-for-establishing-your-ps-account/"><u>Comprehensive Instructions for Establishing Your PS Account</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-movavi-gratuiti-pro-il-migliore-strumento-di-montaggio-video/"><u>Download Movavi Gratuiti Pro - Il Migliore Strumento Di Montaggio Video</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-the-art-of-video-editing-with-w11s-movie-maker/"><u>In 2024, Master the Art of Video Editing with W11's Movie Maker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlined-accessibility-learning-iphoneipad-techniques-for-podcast-downloads/"><u>In 2024, Streamlined Accessibility Learning iPhone/iPad Techniques for Podcast Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-viewers-experience-with-top-mac-streamers/"><u>In 2024, Transform Your Viewers' Experience with Top Mac Streamers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-battlefield-a-comprehensive-guide-to-pokemon-unite-on-pc/"><u>Master the Battlefield: A Comprehensive Guide to Pokémon Unite on PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-method-to-personalize-iphone-ringtones/"><u>Step-By-Step Method to Personalize iPhone Ringtones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ae-titles-for-striking-visual-impact-for-2024/"><u>Top AE Titles for Striking Visual Impact for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-power-in-healthcare-through-vr-for-2024/"><u>Transformative Power in Healthcare Through VR for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Thermal Expansion Must Be Accommodated in the Design Through the Use of Flexible Connectors or Expansion Loops.
-date: 2024-11-10T11:58:17.530Z
-updated: 2024-11-16T17:13:05.071Z
+date: 2024-11-21T05:11:46.657Z
+updated: 2024-11-26T17:04:46.720Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ With my local sales tax, the 512GB model, with the $199 travel case, totaled jus
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Stick with MacOS apps, if you can
 
 In my day job, I serve as a professional naval architect, and at this stage in my 30-year career, I develop stability calculations, review design drawings, write reports and proposals, meet with clients on Teams, and manage other associates. We work in a Windows environment because many of our engineering programs are limited to the operating system.
@@ -55,10 +59,7 @@ However, the iPad version of the Horizon client available on the Vision Pro is n
 If Apple can add support for multiple virtual displays, much like how I use my MacBook Pro now with several monitors, then that would benefit my workflow immensely.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Native Microsoft apps are fairly limited
@@ -70,10 +71,7 @@ Besides the Horizon client covering my Windows software needs, I also use Outloo
 In addition to the limited feature set, an issue with collaborating on Teams (or any video conferencing service) is Apple's zombie-like Personas. The digital scan reminds me of characters from older gaming consoles, and I will never use it in client meetings or when FaceTiming my wife, who can't take my Persona seriously.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Traveling with the Vision Pro
@@ -87,10 +85,7 @@ Matthew Miller/ZDNET
 I also felt cramped sitting in one spot and trying to navigate through multiple applications. On a train, let alone on a plane, I was barely able to move my body around to multitask on Vision OS. One feature I'd love to see is the ability to stack or quickly switch between several open apps. That would be ideal for more confined situations like this.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Privacy and security are secretly fantastic
@@ -98,10 +93,7 @@ I also felt cramped sitting in one spot and trying to navigate through multiple 
 On the plus side, when I was sitting on the train with the Vision Pro on, I realized that I could work on all of my projects that have proprietary and sensitive information on big screens without worrying about the person next to me glancing over. The ability to have complete privacy and enhanced security, including the ability to set up eye scanning to unlock your Vision Pro, may be one of the most compelling reasons to use the headset for work. Sure, this argument applies to every other VR headset, but none come close to the audiovisual fidelity of the Vision Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,22 +130,20 @@ All that is to say the [Apple Vision Pro](https://apple.sjv.io/c/159047/435031/7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-maximizing-clarity-improve-iphoneandroid-video-quality/"><u>[New] 2024 Approved Maximizing Clarity Improve iPhone/Android Video Quality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-compilation-4-websites-for-ringtone-hunt/"><u>[New] The Ultimate Compilation 4 Websites for Ringtone Hunt</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-meme-design-collection/"><u>[New] The Ultimate Meme Design Collection</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-game-screens-for-ps5-and-xbox-series-x-revealed/"><u>[Updated] Top Game Screens for PS5 and Xbox Series X Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transform-your-snapshots-with-vsco-essentials/"><u>[Updated] Transform Your Snapshots with VSCO Essentials</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-of-performance-new-samsung-bdplus-review/"><u>2024 Approved Pinnacle of Performance - New Samsung BD+ Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-facetune-guide-elevating-your-image-quality/"><u>2024 Approved Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-yogic-vistas-top-10-inspirational-yoga-videos/"><u>2024 Approved Yogic Vistas Top 10 Inspirational Yoga Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-free-online-music-libraries-top-15/"><u>Discover the Best Free Online Music Libraries (Top 15)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-driver-setup-for-canon-pro-100-on-windows-systems-one-click-solution/"><u>Effortless Driver Setup for Canon PRO 100 on Windows Systems – One-Click Solution</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-techniques-for-straightening-aerial-video-stability/"><u>In 2024, Techniques for Straightening Aerial Video Stability</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-understanding-macos-big-sur-minimum-requirements/"><u>In 2024, Understanding MacOS Big Sur Minimum Requirements</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximizing-your-designs-with-free-clip-art-for-2024/"><u>Maximizing Your Designs with FREE Clip Art for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-eye-catching-text-in-media-for-2024/"><u>Top 10 Eye-Catching Text in Media for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transcode-videos-mkv-vers-wmv-enligne-sans-frais-avec-movavi-tutorials-complet/"><u>Transcode Vidéos MKV Vers WMV Enligne Sans Frais Avec Movavi - Tutorials Complet</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-navigating-through-various-audio-recorders-from-apowersoft-alternatives-to-best-practices/"><u>Updated 2024 Approved Navigating Through Various Audio Recorders From Apowersoft Alternatives to Best Practices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-integrating-podcast-magic-a-step-by-step-for-iphone-users/"><u>[New] Integrating Podcast Magic A Step-by-Step for iPhone Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superfast-windows-images-scaner/"><u>[New] Superfast Windows Images Scaner</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-perfect-blend-of-efficiency-and-artistry-in-apple-photography-apps/"><u>[New] The Perfect Blend of Efficiency and Artistry in Apple Photography Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-creating-impactful-youtube-thumbnails-and-ads-for-2024/"><u>[Updated] Creating Impactful YouTube Thumbnails & Ads for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-accessing-and-saving-fb-stories-made-simple-5-top-tactics-mobiledesktop/"><u>[Updated] In 2024, Accessing & Saving FB Stories Made Simple 5 Top Tactics (Mobile/Desktop)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-editors-guide-to-effective-lut-implementation/"><u>[Updated] The Editor's Guide to Effective LUT Implementation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-android-toolset-for-3d-video-players/"><u>[Updated] Ultimate Android Toolset for 3D Video Players</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-hidden-potential-of-instagrams-question-marker/"><u>2024 Approved Unlocking Hidden Potential of Instagram’s Question Marker</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/encodeur-video-h265-optimal-transmutez-vos-fichiers-hevc-sous-macos-et-windows-10/"><u>Encodeur Vidéo H.265 Optimal : Transmutez Vos Fichiers HEVC Sous macOS Et Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/giants-in-combat-google-palm-2-vs-openais-gpt-4/"><u>Giants in Combat: Google PaLM 2 Vs. OpenAI's GPT-4</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-ultra-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi 14 Ultra Phone without PIN</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-social-media-sphere-speaking-up-to-fans/"><u>In 2024, The Social Media Sphere Speaking Up to Fans</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-scripts-across-all-eight-film-categories/"><u>In 2024, Top Scripts Across All Eight Film Categories</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-misidentified-software-in-steam-system/"><u>Remedying Misidentified Software in Steam System</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-complete-manual-for-modifying-cover-images-for-2024/"><u>The Complete Manual for Modifying Cover Images for 2024</u></a></li>
 </ul></div>
 

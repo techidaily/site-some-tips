@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Projects: The Newly-Launched Raspberry Pi Zero Ebyte 2 W Delivers a Remarkable 5X Performance Increase at Only $15, According to ZDNET Analysis"
-date: 2024-09-19 23:16:46
-updated: 2024-09-20 11:12:42
+date: 2024-11-25T20:56:36.757Z
+updated: 2024-11-26T17:41:12.547Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,11 +45,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -73,6 +85,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +96,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-demystifying-whatsapp-voice-chat-functionality/"><u>[New] 2024 Approved Demystifying WhatsApp Voice Chat Functionality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-no-cost-joke-factory-making-laughter-easy-for-2024/"><u>[New] No Cost Joke Factory Making Laughter Easy for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-series-top-tier-webcam-grips/"><u>[New] Ultimate Series Top-Tier Webcam Grips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-comprerant-and-reviewed-the-ultimate-list-of-ios-video-edits/"><u>[Updated] In 2024, Compreran't & Reviewed The Ultimate List of iOS Video Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-mastering-audio-integration-in-canva-videos/"><u>[Updated] Mastering Audio Integration in Canva Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-grandest-gatherings-a-chronicle-of-the-most-voted-posts-top-10/"><u>2024 Approved The Grandest Gatherings A Chronicle of the Most Voted Posts (Top 10)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-photos-with-ease-using-basic-adobe-tools/"><u>2024 Approved Transform Photos with Ease Using Basic Adobe Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bridging-the-gap-from-rgb-to-standardized-srgb/"><u>Bridging the Gap From Rgb to Standardized Srgb</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-visuals-how-to-address-and-fix-blurry-graphics-while-playing-cod-warzone-on-your-pc/"><u>Enhancing Visuals - How to Address and Fix Blurry Graphics While Playing COD: Warzone on Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-color-grading-utilizing-luts-in-ae/"><u>In 2024, The Art of Color Grading Utilizing LUTs in AE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-facetune-walkthrough-for-stunning-photos/"><u>In 2024, The Essential Facetune Walkthrough for Stunning Photos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1925436-9781782794134-teen-spirit-guide-to-working-with-mediumship/"><u>Teen Spirit Guide to Working with Mediumship | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-perplexity-of-non-existent-drive-letters-in-windows-systems/"><u>The Perplexity of Non-Existent Drive Letters in Windows Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tracing-the-technological-path-how-laptops-became-mainstays-and-vpns-secured-them/"><u>Tracing the Technological Path: How Laptops Became Mainstays & VPNs Secured Them</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-techniques-decreasing-volume-gradually-in-pp-for-2024/"><u>Transition Techniques Decreasing Volume Gradually in PP for 2024</u></a></li>
+</ul></div>
+

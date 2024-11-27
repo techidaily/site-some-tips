@@ -1,7 +1,7 @@
 ---
 title: Celebrating Two Decades of Canonical's Impact on Ubuntu and Open-Source Innovation - A Tribute by ZDNet
-date: 2024-09-19 18:27:46
-updated: 2024-09-20 10:41:37
+date: 2024-11-22T01:25:49.057Z
+updated: 2024-11-26T22:19:32.436Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-stellarworkspace-unified-elite-full-hd-screens/"><u>[New] StellarWorkspace Unified, Elite Full HD Screens</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-seamlessly-blend-music-with-visuals-in-premiere-pro/"><u>[Updated] In 2024, Seamlessly Blend Music with Visuals in Premiere Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-social-interactions-on-xbox-mastering-zoom/"><u>[Updated] Transforming Social Interactions on Xbox Mastering Zoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-moment-in-vr-infinity/"><u>[Updated] Ultimate Moment in VR Infinity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-mastering-audio-transitions-in-premiere-pro/"><u>2024 Approved Mastering Audio Transitions in Premiere Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-of-quick-pace-audio-apps/"><u>2024 Approved Ultimate List of Quick-Pace Audio Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/iently-shifting-videos-youtube-to-dailymotion-strategy-for-2024/"><u>Efficiently Shifting Videos YouTube to Dailymotion Strategy for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-xiaomi-redmi-a2plus-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Xiaomi Redmi A2+.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-asus-rog-phone-7-ultimate-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Asus ROG Phone 7 Ultimate Data? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-virtualdub-review-still-a-relevant-video-editor-explore-the-best-alternatives-for-2024/"><u>New Virtualdub Review Still a Relevant Video Editor ? Explore the Best Alternatives for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-leading-virtual-realities-iphone-and-android-guide-for-2024/"><u>The Leading Virtual Realities IPhone & Android Guide for 2024</u></a></li>
+</ul></div>
+

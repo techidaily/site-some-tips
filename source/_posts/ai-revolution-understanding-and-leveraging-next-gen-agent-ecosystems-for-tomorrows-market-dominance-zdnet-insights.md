@@ -1,7 +1,7 @@
 ---
 title: "AI Revolution: Understanding and Leveraging Next-Gen 'Agent Ecosystems' For Tomorrow's Market Dominance | ZDNET Insights"
-date: 2024-09-19 16:39:19
-updated: 2024-09-20 12:47:24
+date: 2024-11-20T04:17:05.371Z
+updated: 2024-11-27T00:12:50.221Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ross-platform-comparison-iphone-vs-android-youtube-viewing-for-2024/"><u>[New] Cross-Platform Comparison IPhone vs Android YouTube Viewing for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-global-viewer-count-triumphs-play-button-honors-for-2024/"><u>[New] Global Viewer Count Triumphs Play Button Honors for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-swift-recovery-reviving-windows-photo-viewer-on-modern-os/"><u>[New] Swift Recovery Reviving Windows Photo Viewer on Modern OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-artisans-guide-to-creating-sound-alterations-without-cost/"><u>[New] The Artisan's Guide to Creating Sound Alterations Without Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-efficiency-boost-editing-on-magix-video-pro-x/"><u>[New] The Efficiency Boost Editing on Magix Video Pro X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-facetune-a-comprehensive-review/"><u>[New] Unveiling the Secrets of Facetune A Comprehensive Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-leading-10-video-editing-programs-for-instagram-reels-enthusiasts-for-2024/"><u>[Updated] Leading 10 Video Editing Programs for Instagram Reels Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-best-4k-monitors/"><u>[Updated] Top 10 Best 4K Monitors</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1-schutzen-sie-ihre-daten-mit-leichtigkeit-expertise-bei-der-sicherung-von-windows-server-201-dateien/"><u>1. Schützen Sie Ihre Daten Mit Leichtigkeit: Expertise Bei Der Sicherung Von Windows-Server-201#-Dateien</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/groundbreaking-release-the-premier-triple-camera-drone-takes-flight-unveiling-its-importance/"><u>Groundbreaking Release: The Premier Triple-Camera Drone Takes Flight - Unveiling Its Importance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-affordable-setups-tailored-obs-for-budget-computers/"><u>In 2024, Affordable Setups Tailored OBS for Budget Computers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-building-brand-authority-top-tips-for-novice-marketers-on-reddit/"><u>In 2024, Building Brand Authority Top Tips for Novice Marketers on Reddit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-prime-windows-10-photoviewing-suite/"><u>In 2024, Prime Windows 10 Photoviewing Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-quintessential-quest-for-quality-storytellers-top-8-institutions/"><u>In 2024, The Quintessential Quest for Quality Storytellers – Top 8 Institutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-fixing-your-pcs-fifa-21-issues-expert-guide-for-stable-play/"><u>Master Fixing Your PC's FIFA 21 Issues - Expert Guide for Stable Play</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sync-shutter-speed-blur-artistry-in-photoshop-for-2024/"><u>Sync Shutter Speed Blur Artistry in Photoshop for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uniting-realms-a-comparative-study-of-mr-ar-and-vr-technologies-for-2024/"><u>Uniting Realms A Comparative Study of MR, AR, and VR Technologies for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-in-editing-leveraging-storyremix-with-windows-11-photos-for-2024/"><u>Unleash Creativity in Editing Leveraging StoryRemix with Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-smart-homes-a-thorough-assessment-of-the-linksys-velop-mesh-network-capabilities/"><u>Unveiling the Potential of Smart Homes: A Thorough Assessment of the Linksys Velop Mesh Network Capabilities</u></a></li>
+</ul></div>
+

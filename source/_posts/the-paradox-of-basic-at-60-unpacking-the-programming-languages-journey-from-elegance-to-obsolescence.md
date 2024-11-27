@@ -1,7 +1,7 @@
 ---
 title: "The Paradox of BASIC at 60: Unpacking the Programming Language's Journey From Elegance to Obsolescence"
-date: 2024-09-19 18:21:25
-updated: 2024-09-20 10:59:33
+date: 2024-11-19T20:04:26.724Z
+updated: 2024-11-26T18:26:32.919Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,11 +75,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fixing-the-frustrating-missing-footage-in-fb-feed-for-2024/"><u>[New] Fixing the Frustrating Missing Footage in FB Feed for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-crafting-your-first-twitter-profile/"><u>[New] In 2024, Crafting Your First Twitter Profile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-cutting-edge-professional-cameras-a-360-overview-2023/"><u>[New] The Cutting-Edge Professional Cameras - A 360° Overview, 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-seamless-integration-combining-b-roll-and-main-scenes/"><u>[Updated] Seamless Integration Combining B-Roll and Main Scenes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-syncing-tiktok-content-with-twitter-for-2024/"><u>[Updated] Syncing TikTok Content with Twitter for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-editors-ally-smooth-operation-in-m1-with-top-tools/"><u>[Updated] The Editor's Ally Smooth Operation in M1 with Top Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unwrapping-utopia-creating-magical-unboxing-moments/"><u>[Updated] Unwrapping Utopia Creating Magical Unboxing Moments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/address-windows-1cvh-sounds-with-audio-drivers-reboot/"><u>Address Windows 1Cvh Sounds with Audio Drivers' Reboot</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/calibrate-display-colors-go-to-settings-)-system-)-display-and-use-the-built-in-calibration-tool-for-accurate-color-representation/"><u>Calibrate Display Colors: Go to 'Settings' > 'System' > 'Display' And Use the Built-In Calibration Tool for Accurate Color Representation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transforming-your-aiff-files-into-mov-format-with-ease/"><u>Free Online Converter: Transforming Your AIFF Files Into MOV Format with Ease</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-tecno-camon-30-pro-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Tecno Camon 30 Pro 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taking-your-photo-skills-to-new-heights-creating-timelapse-footage-with-gopro-studio-for-2024/"><u>Taking Your Photo Skills to New Heights Creating Timelapse Footage with GoPro Studio for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-essential-tips-for-shooting-talking-head-videos/"><u>Updated 2024 Approved Essential Tips for Shooting Talking Head Videos</u></a></li>
+</ul></div>
+

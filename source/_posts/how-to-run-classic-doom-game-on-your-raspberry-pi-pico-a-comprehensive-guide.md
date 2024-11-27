@@ -1,7 +1,7 @@
 ---
 title: "How to Run Classic Doom Game on Your Raspberry Pi Pico: A Comprehensive Guide"
-date: 2024-09-19 11:16:12
-updated: 2024-09-20 10:48:39
+date: 2024-11-20T23:17:43.770Z
+updated: 2024-11-27T03:03:22.525Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -46,6 +50,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -103,6 +111,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +122,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-21-edition-examination-the-gamblers-guide-to-vegas-pro/"><u>[New] '21 Edition Examination – The Gambler’s Guide to Vegas Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-famebits-secrets-to-thrive-with-key-channel-sponsors/"><u>[New] In 2024, Harnessing FameBit's Secrets to Thrive with Key Channel Sponsors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-battle-of-av1-and-vp9-outcomes-revealed/"><u>[New] The Battle of AV1 and VP9 Outcomes Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-top-8-online-places-for-free-3d-text-files/"><u>[New] The Ultimate Guide Top 8 Online Places for Free 3D Text Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-strategies-for-podcast-rankings-and-visibility/"><u>2024 Approved Transformative Strategies for Podcast Rankings and Visibility</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-get-your-sea-of-thieves-game-running-smoothly-again/"><u>Expert Advice: Get Your Sea of Thieves Game Running Smoothly Again</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-image-stabilization-action-recorders-for-2024/"><u>Premier Image Stabilization Action Recorders for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sennheisers-smart-uc-for-business-use/"><u>Sennheiser's Smart UC for Business Use</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-audio-problems-in-audacity-top-5-fixes-for-sound-device-issues/"><u>Solve Audio Problems in Audacity: Top 5 Fixes for Sound Device Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-audio-modification-software-with-enchanting-features-for-2024/"><u>Superior Audio Modification Software with Enchanting Features for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-video-hue-correction-11-steps-for-2024/"><u>The Essential Guide to Video Hue Correction (11 Steps) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-creating-flawless-passport-photos-for-free-for-2024/"><u>The Ultimate Guide to Creating Flawless Passport Photos for Free for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-gratis-lut-files-comprehensive-analysis-and-downloads-for-2024/"><u>Top 10 Gratis LUT Files - Comprehensive Analysis & Downloads for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-metaverse-content-creators-and-their-hilarity-for-2024/"><u>Top Metaverse Content Creators & Their Hilarity for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/setting-visualizations-for-the-year-ahead/"><u>Trendsetting Visualizations for the Year Ahead</u></a></li>
+</ul></div>
+

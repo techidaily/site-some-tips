@@ -1,7 +1,7 @@
 ---
 title: "Trends in Coding: A Look at the Peaks and Valleys of Programming Language Popularity From 2016 Onwards - Insights Revealed by ZDNet"
-date: 2024-09-17 20:59:41
-updated: 2024-09-20 12:37:15
+date: 2024-11-19T19:51:43.526Z
+updated: 2024-11-26T20:48:25.995Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-superior-visual-experience-ranking-the-best-12-html5-players/"><u>[New] 2024 Approved Superior Visual Experience Ranking the Best 12 HTML5 Players</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-comprehensive-look-at-editing-and-uploading-virtual-reality-videos-to-youtube-for-2024/"><u>[New] A Comprehensive Look at Editing and Uploading Virtual Reality Videos to YouTube for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-aggregating-the-top-5-mac-clipping-applications/"><u>[New] Aggregating the Top 5 Mac Clipping Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-style-meets-function-essential-sj4000-gear-selection/"><u>[New] Style Meets Function Essential SJ4000 Gear Selection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-your-path-to-perfect-captures-the-complete-guide-to-netflix-on-mac-for-2024/"><u>[New] Your Path to Perfect Captures The Complete Guide to Netflix on Mac for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-integrating-luts-into-film-colorwork/"><u>[Updated] Integrating Luts Into Film Colorwork</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-step-by-step-guide-to-boost-your-social-media-presence-with-instagram-hashtags/"><u>2024 Approved Step-by-Step Guide to Boost Your Social Media Presence with Instagram Hashtags</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-uncharted-top-free-speech-to-text-for-mac-users/"><u>2024 Approved Uncharted Top Free Speech-to-Text for Mac Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/canva-enthusiasts-reveal-their-top-10-editor-steps/"><u>Canva Enthusiasts Reveal Their Top 10 Editor Steps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/sing-correspondents-curtains/"><u>Composing Correspondents' Curtains</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-8-in-virtual-reality-gaming/"><u>In 2024, The Essential 8 in Virtual Reality Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-vr-game-engines/"><u>In 2024, Top VR Game Engines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-updated-list-top-frame-addition-services-for-images/"><u>In 2024, Updated List Top Frame Addition Services for Images</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-cinema-at-home-the-11-favorite-free-movies-downloader-sites/"><u>Unlock Cinema at Home: The 11 Favorite Free Movies Downloader Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-power-of-zoom-in-enhancing-your-youtube-experience-for-2024/"><u>Unveiling the Power of Zoom in Enhancing Your YouTube Experience for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-update-to-sonys-premium-blu-ray-player-for-2024/"><u>Unveiling the Update to Sony’s Premium Blu-Ray Player for 2024</u></a></li>
+</ul></div>
+

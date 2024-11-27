@@ -1,7 +1,7 @@
 ---
 title: "Top Trending Coding Languages: Understanding Their Popularity & Significance - The Insightful Guide by ZDNet"
-date: 2024-09-18 21:19:32
-updated: 2024-09-20 12:28:30
+date: 2024-11-25T02:02:15.502Z
+updated: 2024-11-27T03:58:08.730Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-sharpening-recording-quality-by-removing-borders/"><u>[New] In 2024, Sharpening Recording Quality by Removing Borders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-humor-pay-nothing-easymeme-tools-guide/"><u>[New] Unlock Humor, Pay Nothing EasyMeme Tools Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-leaders-list-of-gps-drones-with-precision-tracking/"><u>[Updated] In 2024, Leader's List of GPS Drones with Precision Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-scheduling-zoom-conferences-for-android-users/"><u>2024 Approved Scheduling Zoom Conferences for Android Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlined-steps-wearable-opens-mac-gadget/"><u>2024 Approved Streamlined Steps Wearable Opens Mac Gadget</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-20-tales-on-yt-where-to-find-the-best-storytelling/"><u>2024 Approved Top 20 Tales on YT Where to Find the Best Storytelling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>2024 Approved Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-cameo-review-video-editor-and-movie-maker-for-iphone/"><u>2024 Approved Vimeo Cameo Review-Video Editor & Movie Maker for iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725284503673-winxdvd/"><u>携手与WinXDVD解压缩：获得无限体验</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-apples-latest-innovation-with-the-redesigned-ios-1erlockunlock-interface/"><u>Discover Apple's Latest Innovation with the Redesigned iOS 1erLock/Unlock Interface</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-honor-magic-vs-2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Honor Magic Vs 2 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transformative-talk-20-words-to-bolster-marketing-success/"><u>In 2024, Transformative Talk 20 Words to Bolster Marketing Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-moment-in-vr-infinity/"><u>In 2024, Ultimate Moment in VR Infinity</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-safe-access-getting-back-to-normal-outlook/"><u>Overcoming Safe Access: Getting Back to Normal Outlook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-guide-to-precision-photo-backdrop-clean-up/"><u>Quick Guide to Precision Photo Backdrop Clean-Up</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-insiders-manual-to-upload-content-to-igtv/"><u>The Insider's Manual to Upload Content to IGTV</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-potential-of-text-with-photo-shading-psx-for-2024/"><u>Unlock the Potential of Text with Photo Shading PSX for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-aerial-precision-mavic-pro-analysis-for-2024/"><u>Unveiling Aerial Precision - Mavic Pro Analysis for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-to-aocs-e1659fwv-winos-compatibility/"><u>Upgrade to AOC's E1659FWV: WinOS Compatibility</u></a></li>
+</ul></div>
+

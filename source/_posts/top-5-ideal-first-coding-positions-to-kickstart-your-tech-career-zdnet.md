@@ -1,7 +1,7 @@
 ---
 title: Top 5 Ideal First Coding Positions to Kickstart Your Tech Career | ZDNet
-date: 2024-09-18 10:51:51
-updated: 2024-09-20 11:10:36
+date: 2024-11-25T23:57:29.227Z
+updated: 2024-11-26T17:01:46.342Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-edu-favorites-best-learning-yt-channels-for-2024/"><u>[New] Edu-Favorites Best Learning YT Channels for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-conversion-selecting-the-top-10-free-tools/"><u>[New] Streamline Conversion Selecting the Top 10 Free Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tilizing-youtubes-cc-to-enhance-your-videography-for-2024/"><u>[New] Utilizing YouTube's CC to Enhance Your Videography for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-what-is-public-domain-art-for-2024/"><u>[New] What Is Public Domain Art for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-broadcasting-showdown-deciding-between-obs-and-twitch-studio/"><u>[Updated] Broadcasting Showdown Deciding Between OBS and Twitch Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-humor-the-kapwing-meme-builder-way/"><u>[Updated] Unleashing Humor The Kapwing Meme Builder Way</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-with-aes-best-text-presets/"><u>2024 Approved Unleashing Creativity with AE's Best Text Presets</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-asus-rog-phone-8-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Asus ROG Phone 8 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-melody-in-motion-iphones-role-in-making-music-videos/"><u>In 2024, Melody in Motion IPhone's Role in Making Music Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-artisans-approach-integrating-typefaces-in-ae/"><u>In 2024, The Artisan's Approach Integrating Typefaces in AE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-user-friendly-budget-optimizing-passport-photo-creators/"><u>In 2024, Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tips-and-solutions-for-common-vlc-issues-on-mac/"><u>In 2024, Top Tips & Solutions for Common VLC Issues on Mac</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-se-2020-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone SE (2020)? How to Fix</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issue-with-siris-text-prediction-try-these-5-fixes-for-a-smooth-iphone-dictation-experience/"><u>Issue with Siri's Text Prediction? Try These 5 Fixes for a Smooth iPhone Dictation Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/threads-in-time-looms-guide-to-capturing-moments/"><u>Threads in Time Loom’s Guide to Capturing Moments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/three-key-strategies-for-acquiring-youtube-srt-files-for-2024/"><u>Three Key Strategies for Acquiring YouTube SRT Files for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-time-travel-simulators-for-modern-pcs-windows-11-10-8-and-7-compatible/"><u>Top Time Travel Simulators for Modern PCs: Windows 11, 10, 8 & 7 Compatible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-idevice-video-recording-guide-for-2024/"><u>Ultimate iDevice Video Recording Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-10-and-11-swift-remedies-for-the-hypervisor-blue-screen/"><u>Win 10 & 11: Swift Remedies for the Hypervisor Blue Screen</u></a></li>
+</ul></div>
+

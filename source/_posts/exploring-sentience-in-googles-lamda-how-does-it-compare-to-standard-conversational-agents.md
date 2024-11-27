@@ -1,7 +1,7 @@
 ---
 title: "Exploring Sentience in Google's LaMDA: How Does It Compare to Standard Conversational Agents?"
-date: 2024-09-17 15:21:43
-updated: 2024-09-20 11:14:19
+date: 2024-11-21T19:27:03.386Z
+updated: 2024-11-27T00:42:20.562Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-decoding-how-to-effectively-swap-photo-genders-online-a-comprehensive-approach-for-2024/"><u>[New] Decoding How to Effectively Swap Photo Genders Online A Comprehensive Approach for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tiny-feature-plot-outline/"><u>[New] Tiny Feature Plot Outline</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-rated-components-for-smooth-live-transmissions/"><u>[New] Top-Rated Components for Smooth Live Transmissions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/"><u>[New] Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails/"><u>[Updated] 2024 Approved Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-instant-srt-to-txt-efficient-conversion-methods-revealed/"><u>[Updated] Instant SRT to TXT Efficient Conversion Methods Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-windows-10-seamless-media-importation-techniques/"><u>[Updated] Unlocking Windows 10 Seamless Media Importation Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-tips-to-make-your-podcast-teasers-stand-out/"><u>2024 Approved Top 10 Tips to Make Your Podcast Teasers Stand Out</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-imaging-expertise-in-adobes-high-dynamic-range/"><u>2024 Approved Transform Imaging Expertise in Adobe's High Dynamic Range</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/amend-wrecked-ogg-gif-video-files/"><u>Amend Wrecked Ogg, GIF Video Files</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/crafting-virtual-laughter-the-metaverse-meme-journey-for-2024/"><u>Crafting Virtual Laughter The Metaverse Meme Journey for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhance-your-sports-viewing-experience-with-youtube-tvs-multiview-feature/"><u>Enhance Your Sports Viewing Experience with YouTube TV's MultiView Feature</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-transitioning-instagram-video-to-mp3-format/"><u>In 2024, Transitioning Instagram Video to Mp3 Format</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-reddit-potentials-stepwise-procedures-for-sharing/"><u>In 2024, Unlock Reddit Potentials Stepwise Procedures for Sharing</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-context-menu-captivity-in-windows-systems/"><u>Overcome Context Menu Captivity in Windows Systems</u></a></li>
+</ul></div>
+

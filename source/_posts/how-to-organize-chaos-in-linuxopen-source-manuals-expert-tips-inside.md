@@ -1,7 +1,7 @@
 ---
 title: How to Organize Chaos in Linux/Open-Source Manuals – Expert Tips Inside
-date: 2024-09-18 22:22:47
-updated: 2024-09-20 11:54:57
+date: 2024-11-25T18:45:26.731Z
+updated: 2024-11-27T00:37:21.010Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -67,11 +75,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-pro-powerpoint-hacks-flawless-incorporation-of-vimeo-media-in-decks-for-2024/"><u>[New] Pro PowerPoint Hacks Flawless Incorporation of Vimeo Media in Decks for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-stream-your-podcast-with-one-move-only/"><u>[New] Stream Your Podcast with One Move Only</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unite-chords-and-visuals-on-powerpoint/"><u>[New] Unite Chords and Visuals on PowerPoint</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-harnessing-the-power-of-hashtags-to-amplify-your-igtv-content/"><u>[Updated] 2024 Approved Harnessing the Power of Hashtags to Amplify Your IGTV Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-amazon-prime-series-most-liked-and-watched-on-twitter/"><u>[Updated] The Ultimate Amazon Prime Series Most Liked & Watched on Twitter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tinting-truths-crafting-perfect-imagery/"><u>[Updated] Tinting Truths Crafting Perfect Imagery</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-mastering-live-stream-capture-tv-show-recording-techniques/"><u>2024 Approved Mastering Live Stream Capture TV Show Recording Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-joining-the-metaverse-comedy-club-top-20plus-memes-and-techniques/"><u>In 2024, Joining the Metaverse Comedy Club Top 20+ Memes & Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-art-of-documenting-digital-entertainment/"><u>In 2024, The Art of Documenting Digital Entertainment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-dark-side-of-digital-escapism/"><u>In 2024, The Dark Side of Digital Escapism</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/photoshop-magic-master-the-art-of-background-elimination/"><u>Photoshop Magic Master the Art of Background Elimination</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tickler-toolkit-image-mashup-for-2024/"><u>Tickler Toolkit Image Mashup for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-devices-for-home-and-office-for-2024/"><u>Ultimate Devices for Home and Office for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-hue-harmonizer-software-for-2024/"><u>Ultimate Hue Harmonizer Software for 2024</u></a></li>
+</ul></div>
+

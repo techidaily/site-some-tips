@@ -1,7 +1,7 @@
 ---
 title: Rising Adoption of Ops Strategies Revolutionizes Tech Enterprises Amidst Emerging Challenges | ZDNet
-date: 2024-09-17 14:29:49
-updated: 2024-09-20 11:40:42
+date: 2024-11-22T03:25:09.341Z
+updated: 2024-11-26T16:46:00.881Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +80,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-twitchs-stage-to-youtube-writers-guide-to-cross-platform-content/"><u>[New] 2024 Approved From Twitch's Stage to YouTube’ Writers Guide to Cross-Platform Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-humor-image-creator/"><u>[New] Ultimate Humor Image Creator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-using-srt-audio-on-windows-and-macos-devices/"><u>[New] Using SRT Audio on Windows & macOS Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-upload-ubiquity-from-twitter-to-snapchat-videos-for-2024/"><u>[Updated] Upload Ubiquity From Twitter to Snapchat Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-learning-photography-on-the-go-the-lunapic-approach/"><u>2024 Approved Learning Photography on the Go The LunaPic Approach</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-of-the-best-high-res-gaming-displays-for-2024/"><u>Best of the Best High-Res Gaming Displays for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-downloading-and-installing-auto-gpt-a-stepwise-approach/"><u>Complete Guide: Downloading & Installing Auto-GPT - A Stepwise Approach</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-evaluation-of-the-latest-3rd-generation-apple-tv-4k/"><u>In-Depth Evaluation of the Latest 3Rd Generation Apple TV 4K</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/interactive-learning-zone-opens-for-youth-in-japan-build-your-own-computer-experience-with-actual-components/"><u>Interactive Learning Zone Opens for Youth in Japan - 'Build Your Own Computer' Experience with Actual Components</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-premier-rankings-best-general-knowledge-shows-for-2024/"><u>The Premier Rankings Best General Knowledge Shows for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-zoom-meetings-for-2024/"><u>Unlocking the Potential of Zoom Meetings for 2024</u></a></li>
+</ul></div>
+

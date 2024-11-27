@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secret: How You Can Safeguard Against the Daily 60+ Vulnerabilities Patched by the Linux Security Team - A Guide for Non-Technical Users"
-date: 2024-09-19 13:51:30
-updated: 2024-09-20 11:29:16
+date: 2024-11-26T02:44:53.153Z
+updated: 2024-11-26T17:55:44.308Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -66,6 +70,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +114,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-techniques-for-optimal-steam-gameplay-capture/"><u>[Updated] 2024 Approved Top Techniques for Optimal Steam Gameplay Capture</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-go-live-in-style-a-detailed-guide-to-youtubes-full-sphere-videos-for-2024/"><u>[Updated] Go Live in Style A Detailed Guide to YouTube's Full-Sphere Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-discover-the-best-free-subtitle-makers-srt-online/"><u>[Updated] In 2024, Discover the Best Free Subtitle Makers (Srt) Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-quick-guide-integrating-snap-camera-with-teams/"><u>[Updated] In 2024, Quick Guide Integrating Snap Camera with Teams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategizing-visibility-for-podcasts-through-design/"><u>[Updated] Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-best-iphone-selfie-devices-ranked-8/"><u>[Updated] The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-seamless-blend-of-images-into-majestic-collage-art/"><u>[Updated] The Seamless Blend of Images Into Majestic Collage Art</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/engage-in-confidential-chats-using-duckduckgos-ai-access-exclusive-private-sessions-like-chatgpt-plus/"><u>Engage in Confidential Chats Using DuckDuckGo's AI: Access Exclusive Private Sessions Like ChatGPT Plus!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-narratives-yt-channels-worth-watching-in-23/"><u>In 2024, Unparalleled Narratives YT Channels Worth Watching in '23</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-best-of-both-worlds-with-the-lg-24lh4830-smart-tv-on-a-budget/"><u>The Best of Both Worlds with the LG 24LH4830 Smart TV on a Budget</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-key-to-accumulating-a-huge-collection-of-tiktok-videos-for-2024/"><u>The Key to Accumulating a Huge Collection of TikTok Videos for 2024</u></a></li>
+</ul></div>
+

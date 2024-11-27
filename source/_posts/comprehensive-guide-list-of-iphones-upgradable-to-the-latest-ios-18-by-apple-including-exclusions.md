@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: List of iPhones Upgradable to the Latest iOS 18 by Apple, Including Exclusions"
-date: 2024-09-19 21:35:45
-updated: 2024-09-20 10:11:36
+date: 2024-11-25T05:03:22.964Z
+updated: 2024-11-26T18:26:07.275Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -40,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -67,6 +75,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-mastery-of-video-sharing-a-guide-to-utilizing-zoom-on-the-youtube-platform/"><u>[New] Mastery of Video Sharing A Guide to Utilizing Zoom on the YouTube Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-prime-strategies-in-zoom-video-to-zoom-outcomes/"><u>[New] The Prime Strategies in Zoom Video to Zoom Outcomes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uniting-sight-and-sound-perfecting-videography-voiceovers/"><u>[New] Uniting Sight & Sound Perfecting Videography Voiceovers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-vanguard-of-radio-theatre-composition/"><u>2024 Approved The Vanguard of Radio-Theatre Composition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-hits-amazon-grab-the-uncommon-200-off-deal-before-it-ends-insights/"><u>Apple Vision Pro Hits Amazon: Grab the Uncommon $200 Off Deal Before It Ends - Insights</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/convertisseurs-video-hevch265-optimises-pour-mac-evaluation-comparative-par-winxdvd/"><u>Convertisseurs Vidéo HEVC/H.265 Optimisés Pour Mac : Évaluation Comparative Par WinXDVD</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-solitary-voice-collective-applause-a-podcast-journey/"><u>In 2024, Solitary Voice, Collective Applause A Podcast Journey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-best-practices-in-cds-ripping-and-burning-with-win-media/"><u>In 2024, Unveiling the Best Practices in Cds Ripping & Burning with Win, Media</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/401379-9780446548960-messages-from-the-masters/"><u>Messages from the Masters | Free Book</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/optimized-conversion-tracking-using-the-powerful-features-of-cookiebot-technology/"><u>Optimized Conversion Tracking Using the Powerful Features of Cookiebot Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-fixing-error-code-0x0000003d/"><u>Step-by-Step Tutorial on Fixing Error Code 0X0000003D</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-not-found-gpeditmsc-in-windows-errors/"><u>Tackling the Not Found: Gpedit.msc in Windows Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-securing-clearer-digital-tv-broadcasts-with-an-antenna-inside-your-home/"><u>The Ultimate Trick to Securing Clearer Digital TV Broadcasts with an Antenna Inside Your Home</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unplug-and-replay-twitch-livestream-techniques-for-2024/"><u>Unplug and Replay Twitch Livestream Techniques for 2024</u></a></li>
+</ul></div>
+

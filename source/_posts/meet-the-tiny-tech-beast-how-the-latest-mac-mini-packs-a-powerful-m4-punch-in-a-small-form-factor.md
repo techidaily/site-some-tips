@@ -1,7 +1,7 @@
 ---
 title: "Meet the Tiny Tech Beast: How the Latest Mac Mini Packs a Powerful M4 Punch in a Small Form Factor"
-date: 2024-11-13T15:04:20.555Z
-updated: 2024-11-17T08:04:33.751Z
+date: 2024-11-25T05:33:25.407Z
+updated: 2024-11-27T01:41:57.738Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A crushing upset
 
 Somehow, though, Apple managed to get many, many people negatively worked up about one aspect of its launch.
@@ -71,10 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -94,10 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -148,24 +146,17 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastery-in-simulating-chrono-displacement/"><u>[New] In 2024, Mastery in Simulating Chrono-Displacement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-basics-of-electronic-story-craftsmanship/"><u>[Updated] The Basics of Electronic Story Craftsmanship</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleashing-win11s-potential-with-zoom-conferencing/"><u>[Updated] Unleashing Win11's Potential with Zoom Conferencing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-utilizing-tailored-volume-reduction-in-audacity/"><u>[Updated] Utilizing Tailored Volume Reduction in Audacity</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-the-secrets-of-internet-humor-with-a-guide-on-9gag/"><u>2024 Approved Unlock the Secrets of Internet Humor with a Guide on 9GAG</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/3-leading-tools-for-swiftly-downloading-videos-from-facebook-with-ease/"><u>3 Leading Tools for Swiftly Downloading Videos From Facebook with Ease</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerate-driver-updates-on-windows-a-guide-for-11817/"><u>Accelerate Driver Updates on Windows: A Guide for 11/8.1/7</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/basics-of-narrative-crafting/"><u>Basics of Narrative Crafting</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expertly-manipulating-colors-in-video-edits-for-2024/"><u>Expertly Manipulating Colors in Video Edits for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-superior-workplace-data-cloud-hubs/"><u>In 2024, Superior Workplace Data Cloud Hubs</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/sblocca-il-tuo-pc-senza-problemi-grazie-ad-aomei-onekey-restore-online-acquisto/"><u>Sblocca Il Tuo PC Senza Problemi Grazie Ad AOMEI OneKey Restore Online Acquisto</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steps-to-correct-missing-msvcrtdll-library-message/"><u>Steps to Correct 'Missing msvcrt.dll Library' Message</u></a></li>
-<li><a href="https://some-tips.techidaily.com/superior-supplements-for-superior-gopro-performance-for-2024/"><u>Superior Supplements for Superior Gopro Performance for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/superior-windows-8-podcast-apps-overview-for-2024/"><u>Superior Windows 8 Podcast Apps Overview for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-masterful-lunapic-photography-for-2024/"><u>The Complete Guide to Masterful LunaPic Photography for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-display-decoded-benqs-bl2711u-and-its-professional-impact-for-2024/"><u>The Ultimate Display Decoded BenQ’s BL2711U and Its Professional Impact for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-t2-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo T2 Pro 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/vectors-demystified-starting-point-and-software-selection-tips-for-2024/"><u>Vectors Demystified Starting Point & Software Selection Tips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-encyclopedia-of-motion-sensing-types-and-applications/"><u>[New] The Encyclopedia of Motion Sensing Types & Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-the-power-to-create-personalized-whatsapp-alerts/"><u>[New] Unlock the Power to Create Personalized WhatsApp Alerts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ultimate-rankings-of-top-free-cross-platform-video-calls-iphoneandroid/"><u>[Updated] In 2024, Ultimate Rankings of Top Free Cross-Platform Video Calls (iPhone/Android)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-gif-formats-decoded/"><u>2024 Approved Unleashing Creativity GIF Formats Decoded</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-there-set-rules-for-response-lengths-in-chatgpt-conversations/"><u>Are There Set Rules for Response Lengths in ChatGPT Conversations?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-words-to-wax-mastering-voice-note-techniques/"><u>From Words to Wax Mastering Voice Note Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-remote-play-ps4-on-android-3-steps-only/"><u>How to Remote Play PS4 on Android | 3 Steps Only</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-troubleshoot-and-fix-itunes-wi-fi-sync-problems-for-iphone-users-expert-tips-and-solutions/"><u>How To Troubleshoot and Fix iTunes Wi-Fi Sync Problems for iPhone Users: Expert Tips and Solutions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-audience-expansion-strategies-that-honor-youtube-standards/"><u>In 2024, Audience Expansion Strategies That Honor YouTube Standards</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-handbook-for-telegram-web-newbies/"><u>In 2024, The Complete Handbook for Telegram Web Newbies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-unmarked-manual-for-instagrams-livestream-privacy-for-2024/"><u>The Unmarked Manual for Instagram's Livestream Privacy for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/who-takes-the-crown-in-motorsport-camera-wars-for-2024/"><u>Who Takes the Crown in Motorsport Camera Wars for 2024</u></a></li>
 </ul></div>
 

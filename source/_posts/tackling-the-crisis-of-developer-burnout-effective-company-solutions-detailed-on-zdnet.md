@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Crisis of Developer Burnout: Effective Company Solutions Detailed on ZDNet"
-date: 2024-09-19 21:43:25
-updated: 2024-09-20 11:16:36
+date: 2024-11-19T19:25:50.136Z
+updated: 2024-11-26T18:13:04.717Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-inside-the-mindset-of-a-photographer-polarrs-editing-techniques/"><u>[New] Inside the Mindset of a Photographer Polarr’s Editing Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-vector-graphics-101-overview-of-varieties-and-tools/"><u>[New] Vector Graphics 101 Overview of Varieties & Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-blueprint-for-crafting-standout-podcast-titles-and-name-samples/"><u>[Updated] The Ultimate Blueprint for Crafting Standout Podcast Titles & Name Samples</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-powerful-titles/"><u>[Updated] Unveiling the Secrets of Powerful Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-and-leveraging-snapchat-spotlight/"><u>2024 Approved Understanding and Leveraging Snapchat Spotlight</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XR Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-s18e-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo S18e to New Android? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-unplugged-sound-dilemma-in-windows-1187-a-step-by-nstep-guide-for-fixing-audio-issues/"><u>Solving the Unplugged Sound Dilemma in Windows 11/8/7: A Step-by-nStep Guide for Fixing Audio Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streaming-success-easily-convert-srt-formats-for-2024/"><u>Streaming Success Easily Convert SRT Formats for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-editors-roadmap-to-perfection-in-fcp-for-2024/"><u>The Editor's Roadmap to Perfection in FCP for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-fn-keys-in-dell-laptops-effective-strategies-and-fixes/"><u>Troubleshooting Non-Responsive Fn Keys in Dell Laptops: Effective Strategies and Fixes</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/verlorene-zoom-meetings-finden-anleitung-zum-wiederaufbau-verschwundener-meetingverlaufe-und-dateien/"><u>Verlorene Zoom-Meetings Finden - Anleitung Zum Wiederaufbau Verschwundener Meetingverläufe Und Dateien</u></a></li>
+</ul></div>
+

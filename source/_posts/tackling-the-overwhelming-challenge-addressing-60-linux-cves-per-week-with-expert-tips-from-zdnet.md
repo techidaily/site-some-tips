@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Overwhelming Challenge: Addressing 60 Linux CVEs Per Week with Expert Tips From ZDNet"
-date: 2024-09-18 17:19:23
-updated: 2024-09-20 12:30:21
+date: 2024-11-25T19:55:02.908Z
+updated: 2024-11-26T16:43:09.808Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -73,6 +77,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +88,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-gif-odyssey-navigating-the-most-effective-9-tools-of-memetic-crafting/"><u>[New] 2024 Approved The GIF Odyssey Navigating the Most Effective 9 Tools of Memetic Crafting</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-harmonic-hues-infusing-your-social-media-content-with-tunes-for-2024/"><u>[New] Harmonic Hues Infusing Your Social Media Content with Tunes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-perfect-your-titling-skills-with-our-best-practices/"><u>[New] Perfect Your Titling Skills with Our Best Practices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-srt-manipulation-a-mac-users-ultimate-guidebook/"><u>[New] SRT Manipulation A Mac User's Ultimate Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-broadcasts-streamlabs-with-obs-on-mac/"><u>[New] Transform Your Broadcasts Streamlabs with OBS on Mac</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unveiling-the-top-10-live-streaming-hubs/"><u>[New] Unveiling the Top 10 Live Streaming Hubs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-subtlety-garagebands-audio-softening/"><u>[Updated] The Art of Subtlety Garageband's Audio Softening</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-remedies-for-iphone-unfocused-shots/"><u>2024 Approved Swift Remedies for iPhone Unfocused Shots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-drone-propellers-selecting-prime-quadcopter-engines/"><u>2024 Approved Top Drone Propellers Selecting Prime Quadcopter Engines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-strategies-to-tackle-vlc-challenges-on-macos/"><u>2024 Approved Top Strategies to Tackle VLC Challenges on macOS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-bugs-halting-halo-infinite-startup/"><u>DirectX12 Bugs Halting Halo Infinite Startup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-run-a-giveaway-facebook-post/"><u>How to Run a Giveaway Facebook Post</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-plating-on-camera-food-video-production-guide/"><u>In 2024, The Art of Plating on Camera Food Video Production Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-blueprint-for-lifelong-memories-storing-vintage-photos-digitally/"><u>In 2024, The Blueprint for Lifelong Memories Storing Vintage Photos Digitally</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unlocking-the-power-of-instagram-stories-with-this-essential-guide/"><u>In 2024, Unlocking the Power of Instagram Stories with This Essential Guide</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/master-the-art-of-multitasking-converting-bulk-ppt-files-to-interactive-flipbooks-in-minutes-using-flipbuilder/"><u>Master the Art of Multitasking: Converting Bulk PPT Files to Interactive Flipbooks in Minutes Using FlipBuilder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-easy-way-to-snap-spectacular-slow-mo-on-android-for-2024/"><u>The Easy Way to Snap Spectacular Slow Mo on Android for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/time-saving-techniques-from-complicated-srt-to-simplified-txt-for-2024/"><u>Time-Saving Techniques From Complicated SRT to Simplified TXT for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/yahoo-implements-new-dmarc-policies-in-depth-analysis-with-massmail-software/"><u>Yahoo Implements New DMARC Policies: In-Depth Analysis with MassMail Software</u></a></li>
+</ul></div>
+

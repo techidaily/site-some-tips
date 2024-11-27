@@ -1,7 +1,7 @@
 ---
 title: Exploring the New Camera Functionality in iPhone 1
-date: 2024-11-13T12:58:02.219Z
-updated: 2024-11-16T23:40:42.262Z
+date: 2024-11-25T19:02:12.883Z
+updated: 2024-11-27T04:02:35.129Z
 tags:
   - apple
 categories:
@@ -30,21 +30,16 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -71,6 +66,10 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. For work
 
 Okay, this one comes as no surprise. There was bound to be some of us upgrading because well, we do work in tech after all, and what better way to cover Apple's iPhones than actually owning the new model yourself? So while this may not be an applicable reason for some, for those in tech it is sometimes justifiable. 
@@ -93,22 +92,12 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -129,18 +118,15 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -182,18 +168,20 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-from-novice-to-pro-your-roadmap-to-crafting-engaging-fb-stories/"><u>[New] In 2024, From Novice to Pro Your Roadmap to Crafting Engaging FB Stories</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-masterpieces-unleashed-a-comprehensive-look-at-the-bestiary-of-8-iphone-drawing-apps/"><u>[New] Masterpieces Unleashed A Comprehensive Look at the Bestiary of 8 iPhone Drawing Apps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-why-does-my-photo-booth-videos-keep-freezing/"><u>2024 Approved Why Does My Photo Booth Videos Keep Freezing?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-success-enhancing-online-forms-and-data-collection-effortlessly/"><u>Cookiebot Driven Success: Enhancing Online Forms & Data Collection Effortlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-automation-enhance-your-websites-seo-effortlessly/"><u>Cookiebot-Driven Automation: Enhance Your Website's SEO Effortlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-solutions-enhancing-your-sites-performance/"><u>Cookiebot-Driven Solutions: Enhancing Your Site's Performance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-marketing-solutions/"><u>Cookiebot-Enabled Marketing Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-your-reliable-partner-for-enhanced-website-traffic-and-analytics/"><u>Cookiebot: Your Reliable Partner for Enhanced Website Traffic and Analytics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/corrective-strategies-for-hp-inkjet-pc-10/"><u>Corrective Strategies for HP InkJet PC 10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/die-top-vorteile-von-jobs-bei-abbyy-erfolgsgeschichte-aufsteigen/"><u>Die Top-Vorteile Von Jobs Bei ABBYY - Erfolgsgeschichte Aufsteigen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-eight-creative-applications-for-chatgpt-vision-technology/"><u>Discover Eight Creative Applications for ChatGPT Vision Technology</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y78-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>In 2024, Growth Hackers Guide The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolution-tackle-unseen-threat-to-your-pcs-performance-addressing-cpu-overloads-caused-by-shell-infrastructure/"><u>(Resolution) Tackle Unseen Threat to Your PC's Performance - Addressing CPU Overloads Caused by Shell Infrastructure</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eal-time-viewership-metering-devices/"><u>[New] Real-Time Viewership Metering Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-secure-whole-page-scene/"><u>[New] Secure Whole-Page Scene</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tailoring-your-headline-for-job-searches/"><u>[Updated] Tailoring Your Headline for Job Searches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-experts-roadmap-to-bulk-downloading-on-tiktok-platform/"><u>[Updated] The Expert's Roadmap to Bulk Downloading on TikTok Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-tips-for-iphones-hdr-images/"><u>[Updated] Ultimate Tips for iPhone's HDR Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-film-aesthetics-using-luts/"><u>2024 Approved Transforming Film Aesthetics Using Luts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/elevate-your-videography-on-tiktok-2-ways-for-2024/"><u>Elevate Your Videography on TikTok (2 Ways) for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/guia-paso-a-paso-para-corte-de-video-en-adobe-after-effects/"><u>Guía Paso a Paso Para Corte De Video en Adobe After Effects</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-s23-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy S23 Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-lava-blaze-curve-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Lava Blaze Curve 5G Unlock Without Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlined-browsing-navigating-multi-screen-views-in-chrome/"><u>In 2024, Streamlined Browsing Navigating Multi-Screen Views in Chrome</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/parachuting-operations/"><u>Parachuting Operations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-freevista-vistas-treasuring-the-visual-wealth-of-costless-tiktok-screens-for-2024/"><u>The FREEvista Vistas Treasuring the Visual Wealth of Costless TikTok Screens for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-36-unbeatable-amazon-prime-day-bargains-on-iphones-and-more-exclusive-list-by-zdnet/"><u>Top 36 Unbeatable Amazon Prime Day Bargains on iPhones & More - Exclusive List by ZDNet</u></a></li>
 </ul></div>
 

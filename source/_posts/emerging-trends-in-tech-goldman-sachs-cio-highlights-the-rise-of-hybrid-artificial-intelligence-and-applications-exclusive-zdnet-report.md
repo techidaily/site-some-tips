@@ -1,7 +1,7 @@
 ---
 title: "Emerging Trends in Tech: Goldman Sachs CIO Highlights the Rise of Hybrid Artificial Intelligence and Applications - Exclusive ZDNet Report"
-date: 2024-09-18 20:14:35
-updated: 2024-09-20 10:53:12
+date: 2024-11-21T01:42:40.838Z
+updated: 2024-11-26T17:50:59.115Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-magical-marketing-essential-terms-to-master/"><u>[Updated] Magical Marketing Essential Terms to Master</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-clearing-out-the-unwanted-space-around-images-with-affinity/"><u>[Updated] The Ultimate Guide Clearing Out the Unwanted Space Around Images with Affinity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-timeless-stop-motion-films-a-celebratory-15-list/"><u>[Updated] Timeless Stop-Motion Films - A Celebratory 15 List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-easy-path-to-great-audio-recordings-in-windows-11/"><u>2024 Approved The Easy Path to Great Audio Recordings in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-premium-free-srt-translation-websites-for-business-use/"><u>2024 Approved Unveiling Premium Free SRT Translation Websites for Business Use</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/free-red-eye-correction-for-iphone-users-tips-and-tricks-for-2024/"><u>Free Red-Eye Correction for iPhone Users - Tips and Tricks for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-simple-steps-to-install-or-update-your-amd-rx-580-graphics-drivers/"><u>Get the Latest: Simple Steps to Install or Update Your AMD RX 580 Graphics Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-permit-browser-network-access-via-windows-security-settings/"><u>How to Permit Browser Network Access via Windows Security Settings</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-lava-yuva-3-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Lava Yuva 3? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-12-pro-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 12 Pro? 5 Tips You Must Know</u></a></li>
+</ul></div>
+

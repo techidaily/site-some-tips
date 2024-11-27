@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tech Success: How Stack Overflow's CTO Scaled One of the Internet’s Largest Communities, Insights on ZDNet"
-date: 2024-09-18 12:12:45
-updated: 2024-09-20 10:55:35
+date: 2024-11-22T00:02:12.431Z
+updated: 2024-11-27T02:26:11.739Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/acking-the-process-instant-deletion-on-youtube-for-2024/"><u>[New] Hacking the Process Instant Deletion on Youtube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-future-of-gaming-at-your-fingertips-top-10-vr-headsets-for-pc/"><u>[New] The Future of Gaming at Your Fingertips Top 10 VR Headsets for PC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-reviving-past-joy-on-fb-the-look-back-video-editing-path/"><u>[Updated] Reviving Past Joy on FB The Look Back Video Editing Path</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tips-for-creating-instagrammable-unboxing-highlights/"><u>2024 Approved Top Tips for Creating Instagrammable Unboxing Highlights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-trimming-the-bends-correcting-gopro-fish-eye-effect/"><u>2024 Approved Trimming the Bends Correcting GoPro Fish Eye Effect</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-uncover-top-8-sites-offering-free-3d-text-psd-images-and-files/"><u>2024 Approved Uncover Top 8 Sites Offering FREE 3D Text PSD Images and Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/deep-dive-magix-video-pro-x-features-and-performance/"><u>Deep Dive Magix Video Pro X Features and Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-s17t-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from S17t</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-stream-side-stacking-pewdiepies-payday-portion/"><u>In 2024, Stream-Side Stacking PewDiePie’s Payday Portion</u></a></li>
+<li><a href="https://common-error.techidaily.com/preventing-mid-game-shutdowns-expert-tips-for-windows-users-version-11-10-7-81-and-8/"><u>Preventing Mid-Game Shutdowns: Expert Tips for Windows Users (Version 11, 10, 7, 8.1 & 8)</u></a></li>
+<li><a href="https://facebook.techidaily.com/profits-from-peoples-partnership-platforms/"><u>Profits From People's Partnership Platforms</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+</ul></div>
+

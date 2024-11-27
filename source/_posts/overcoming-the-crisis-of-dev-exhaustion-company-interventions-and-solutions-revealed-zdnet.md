@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Crisis of Dev Exhaustion: Company Interventions and Solutions Revealed | ZDNET"
-date: 2024-09-19 14:32:40
-updated: 2024-09-20 11:49:33
+date: 2024-11-24T00:31:37.523Z
+updated: 2024-11-27T04:51:24.220Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-novice-to-experienced-6-strategies-for-quick-verification-on-instagram/"><u>[New] In 2024, From Novice to Experienced 6 Strategies for Quick Verification on Instagram</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-goovision-pro-high-quality-chromecasting/"><u>[New] In 2024, GooVision Pro High-Quality Chromecasting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-solidify-iphone-hdr-quality-with-4-key-editing-steps-for-2024/"><u>[Ultimate Guide] Solidify iPhone HDR Quality with 4 Key Editing Steps for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-beginners-ultimate-list-of-must-have-video-tech/"><u>[Updated] 2024 Approved Beginner's Ultimate List of Must-Have Video Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-core-upgrades-of-windows-11/"><u>[Updated] The Core Upgrades of Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ifunny-meme-journey-downloading-made-easy/"><u>[Updated] The iFunny Meme Journey Downloading Made Easy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-viewers-into-active-participants/"><u>2024 Approved Transforming Viewers Into Active Participants</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-elite-free-srt-translation-websites-of-choice/"><u>2024 Approved Unveiling the Elite Free SRT Translation Websites of Choice</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-which-is-the-ultimate-ios-video-editor-cameo-vs-filmorago/"><u>2024 Approved Which Is the Ultimate iOS Video Editor? Cameo Vs. FilmoraGo</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x100-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X100 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy F15 5G?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-techniques-of-composing-persuasive-content-in-vlogging/"><u>In 2024, Techniques of Composing Persuasive Content in Vlogging</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-connectors-companion-instagram-to-tiktok-guide/"><u>In 2024, The Connector's Companion Instagram to TikTok Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/lenovo-thinkpad-z16-gen-2-with-amd-processor-comprehensive-expert-analysis/"><u>Lenovo ThinkPad Z16 Gen 2 with AMD Processor - Comprehensive Expert Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-overload-efficiently-editing-oversized-tiktok-drafts-for-2024/"><u>Streamline Overload Efficiently Editing Oversized TikTok Drafts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-tracking-mounts-for-cameras-phone-sensitive-for-2024/"><u>Superior Tracking Mounts for Cameras, Phone-Sensitive for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-gpts-inner-workings-the-code-decipherer-explained/"><u>Unveiling GPT's Inner Workings: The Code Decipherer Explained</u></a></li>
+</ul></div>
+

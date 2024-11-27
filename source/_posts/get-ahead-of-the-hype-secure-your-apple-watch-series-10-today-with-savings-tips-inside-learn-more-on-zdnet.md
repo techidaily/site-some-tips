@@ -1,7 +1,7 @@
 ---
 title: "Get Ahead of the Hype: Secure Your Apple Watch Series 10 Today with Savings Tips Inside - Learn More on ZDNet"
-date: 2024-11-15T15:10:12.269Z
-updated: 2024-11-17T13:24:00.595Z
+date: 2024-11-24T17:33:05.095Z
+updated: 2024-11-26T20:44:21.681Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
@@ -35,10 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,13 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -88,6 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,16 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -172,18 +158,24 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-elevate-your-gaming-experience-with-smart-use-of-xbox-zoom-for-2024/"><u>[New] Elevate Your Gaming Experience with Smart Use of Xbox Zoom for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-10-best-online-learning-sites-like-udemy/"><u>[New] In 2024, 10 Best Online Learning Sites Like Udemy</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-sims-4-filming-a-comprehensive-guide-for-2024/"><u>[New] Mastering Sims 4 Filming A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-tailored-obs-tweaks-for-affordable-systems-for-2024/"><u>[Updated] Tailored OBS Tweaks for Affordable Systems for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/essential-analysis-delving-into-adobe-lightroom-for-android/"><u>Essential Analysis Delving Into Adobe Lightroom for Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-minimize-insurance-scams-and-surpass-client-satisfaction/"><u>How to Minimize Insurance Scams & Surpass Client Satisfaction</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-6s-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone 6s Plus and iPad?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/join-us-for-an-exciting-showcase-of-abbyy-technologies-at-ai-pulse-developers-conference-2024/"><u>Join Us for an Exciting Showcase of ABBYY Technologies at AI Pulse Developers Conference 2024!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leverage-cookiebot-technology-for-superior-user-analytics-and-seo-performance/"><u>Leverage Cookiebot Technology for Superior User Analytics and SEO Performance</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/mastering-laptop-screen-recording-a-dell-guide/"><u>Mastering Laptop Screen Recording A Dell Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/no-more-footprints-purge-facebook-history-efficiently/"><u>No More Footprints: Purge Facebook History Efficiently</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimize-your-online-marketing-with-cookiebots-advanced-ad-management-technology/"><u>Optimize Your Online Marketing with Cookiebot's Advanced Ad Management Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stop-windows-from-prompting-for-updates/"><u>Stop Windows From Prompting for Updates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersive-stories-that-keep-you-watching-within-limit/"><u>[New] Immersive Stories That Keep You Watching (Within Limit)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-ajay-the-creative-content-creators-profitable-venture-on-youtube/"><u>[New] In 2024, AJay The Creative Content Creator's Profitable Venture on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-premier-pro-templates-of-the-year-free-version-for-2024/"><u>[New] Premier Pro Templates of the Year - Free Version for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-snapseed-simplified-photo-editing-made-accessible-for-2024/"><u>[New] Snapseed Simplified Photo Editing Made Accessible for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-crossfade-audio-seamless-integration-in-logic-x/"><u>[New] The Art of Crossfade Audio Seamless Integration in Logic X</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cultivating-confidence-for-captivating-your-youtube-audience/"><u>[Updated] In 2024, Cultivating Confidence for Captivating Your YouTube Audience</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-understanding-fbs-rules-for-immediate-video-removal/"><u>[Updated] In 2024, Understanding FB’s Rules for Immediate Video Removal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-insiders-srt-primer-must-know-elements/"><u>[Updated] The Insider's SRT Primer Must-Know Elements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-limitless-creativity-with-free-after-effects-samples/"><u>[Updated] Unlock Limitless Creativity with Free After Effects Samples</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-playbook-for-watching-live-world-class-cricket-games/"><u>2024 Approved The Ultimate Playbook for Watching Live, World-Class Cricket Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/brighten-up-video-on-iphone-five-practical-steps-for-2024/"><u>Brighten Up Video on iPhone Five Practical Steps for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-digital-dominance-the-top-global-youtube-creators/"><u>In 2024, Digital Dominance The Top Global YouTube Creators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essence-of-uavs-understanding-their-mechanics-and-use/"><u>In 2024, The Essence of UAVs Understanding Their Mechanics & Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-capturing-intimate-film-moments-for-2024/"><u>The Art of Capturing Intimate Film Moments for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-structuring-effective-audio-xml-for-2024/"><u>The Complete Guide to Structuring Effective Audio XML for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-choices-360-video-equipment-for-livestreaming-platforms-for-2024/"><u>Top Choices 360° Video Equipment for Livestreaming Platforms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secret-how-to-disable-youtube-snippet-playback-for-2024/"><u>Unveiling the Secret How to Disable YouTube Snippet Playback for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-transforming-videos-for-immersive-experiences-top-vr-converters/"><u>Updated In 2024, Transforming Videos for Immersive Experiences Top VR Converters</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-y78plus-t1-edition-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo Y78+ (T1) Edition</u></a></li>
 </ul></div>
 

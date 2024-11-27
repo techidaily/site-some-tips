@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Smart Homes with an Open-Source Alternative to Alexa and HomeKit | ZDNET
-date: 2024-09-17 23:42:38
-updated: 2024-09-20 11:12:58
+date: 2024-11-24T19:56:01.747Z
+updated: 2024-11-26T19:12:45.171Z
 tags:
   - developer
 categories:
@@ -67,11 +67,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +88,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-premium-8-cam-enhancers-for-clear-broadcasting/"><u>[Updated] 2024 Approved Premium 8 Cam Enhancers for Clear Broadcasting</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-reclaiming-iphone-hdr-footage-premiere-pros-fixes-for-overexposure/"><u>[Updated] 2024 Approved Reclaiming iPhone HDR Footage Premiere Pro's Fixes for Overexposure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-meme-magnate-monetization-pewdiepies-payday/"><u>[Updated] Meme Magnate Monetization PewDiePie’s Payday</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-converting-photographs-into-cinematic-videography-with-pixiz/"><u>[Updated] The Art of Converting Photographs Into Cinematic Videography with Pixiz</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-power-of-words-in-marketing-top-20-essentials/"><u>[Updated] The Power of Words in Marketing - Top 20 Essentials</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-superior-video-text-enhancements/"><u>10 Superior Video Text Enhancements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-potential-from-standard-sdr-to-high-end-hdr/"><u>2024 Approved Unleashing Potential From Standard SDR to High-End HDR</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-become-a-meme-wizard-with-these-9gag-strategies/"><u>In 2024, Become a Meme Wizard with These 9GAG Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-sound-on-your-hp-notebook/"><u>Solved! How to Restore Sound on Your HP Notebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/srt-simplified-a-practical-manual-for-xmlssattml-transformation-for-2024/"><u>SRT Simplified A Practical Manual for XML/SSA/TTML Transformation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use-for-2024/"><u>Top Tech Stream Cam Gear Reviewed for YouTube & Facebook Use for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/zoom-precision-fine-tuning-meeting-settings-for-success/"><u>Zoom Precision Fine-Tuning Meeting Settings for Success</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Streamlining IT Management with AI: Discover How Red Hat Is Revolutionizing Systems Admin Tasks"
-date: 2024-09-19 11:19:55
-updated: 2024-09-20 11:19:24
+date: 2024-11-22T18:02:39.849Z
+updated: 2024-11-26T23:18:25.049Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,24 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-5-display-choices-for-ps5/"><u>[New] Ultimate 5 Display Choices For PS5</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-swift-to-stillness-the-art-of-timelapse-with-a-galaxy/"><u>[Updated] In 2024, Swift to Stillness The Art of Timelapse with a Galaxy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-cinema-mastering-the-best-5-camera-tips/"><u>2024 Approved The Art of Cinema Mastering the Best 5 Camera Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artistic-alchemy-blending-imagination-with-dall-e-iii-prompts/"><u>Artistic Alchemy: Blending Imagination with DALL-E III Prompts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-s18-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from S18</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-xiaomi-mix-fold-3-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Xiaomi Mix Fold 3 using Video Repair Utility?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-energy-kits-for-hero5-official-and-alternative-products/"><u>In 2024, Ultimate Energy Kits for Hero5 - Official & Alternative Products</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-types-and-methods-for-hand-detection-systems/"><u>In 2024, Unveiling Types and Methods for Hand Detection Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-mechanical-keyboard-maintenance-and-sanitization/"><u>Mastering the Art of Mechanical Keyboard Maintenance and Sanitization</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solution-steps-for-iphone-users-struggling-with-unsuccessful-message-serversync/"><u>Solution Steps for iPhone Users Struggling with Unsuccessful Message Serversync</u></a></li>
+</ul></div>
+

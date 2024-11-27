@@ -1,7 +1,7 @@
 ---
 title: Top 10 Developer Highlights From Microsoft Build 2024 – Key Updates Revealed! [ZDNet Exclusive]
-date: 2024-09-19 23:44:25
-updated: 2024-09-20 11:51:24
+date: 2024-11-25T01:13:01.207Z
+updated: 2024-11-26T17:54:21.536Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -57,6 +65,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +78,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -92,6 +108,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos/"><u>[New] The Choreography of Audio and Visuals A Guide to Editing Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-personalized-video-setups-a-beginners-guide-to-selfies-on-youtube/"><u>2024 Approved Personalized Video Setups A Beginner's Guide to Selfies on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-replaying-twitch-live-streams/"><u>2024 Approved The Art of Replaying Twitch Live Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-users-manual-to-mac-dvd-burning/"><u>2024 Approved The Complete User's Manual to Mac DVD Burning</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-ultimate-guide-to-live-recording-best-15-video-resources/"><u>2024 Approved The Ultimate Guide to Live Recording - Best 15 Video Resources</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-zoomers-guide-to-enhancing-call-quality-with-filters/"><u>2024 Approved The Zoomer's Guide to Enhancing Call Quality with Filters</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-apple-iphone-8-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On Apple iPhone 8 - 4 Easy Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-se-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone SE to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cinematographic-savoir-faire-food-videographers-essentials-for-2024/"><u>Cinematographic Savoir-Faire Food Videographer's Essentials for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-samsungs-picture-editing-app/"><u>In 2024, The Ultimate Guide to Samsung's Picture Editing App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-honored-tricks-top-1980s-visual-effects-to-elevate-your-edits/"><u>In 2024, Time-Honored Tricks Top 1980S Visual Effects to Elevate Your Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tactics-for-flawless-solo-streaming-experiences/"><u>In 2024, Top Tactics for Flawless Solo Streaming Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-vibrance-grading-secrets-in-ps/"><u>In 2024, Unleashing Vibrance Grading Secrets in PS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210965927-9781684811960-show-up-as-her/"><u>Show Up as Her | Free Book</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-on-mastering-audio-editing-with-leading-cutters/"><u>Step-by-Step Tutorial on Mastering Audio Editing with Leading Cutters</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-12-optimal-picture-browsers-compatible-with-windows-10/"><u>Top 12 Optimal Picture Browsers Compatible with Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-twitch-engaging-with-video-content-online/"><u>Unveiling Twitch: Engaging with Video Content Online</u></a></li>
+</ul></div>
+

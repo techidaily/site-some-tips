@@ -1,7 +1,7 @@
 ---
 title: What’s New at Microsoft Build? Event Details, Live Coverage & Why It's a Big Deal - TechVibes Central
-date: 2024-09-17 11:15:31
-updated: 2024-09-20 12:32:43
+date: 2024-11-22T21:36:40.291Z
+updated: 2024-11-26T21:44:17.233Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-all-about-lightroom-a-comprehensive-android-study-for-2024/"><u>[New] All About Lightroom A Comprehensive Android Study for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-secretsunlocked-utilizingyoucamforrecording-for-2024/"><u>[New] SecretsUnlocked UtilizingYouCamForRecording for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-securing-elite-photos-online-with-no-expense-incurred/"><u>[New] Securing Elite Photos Online With No Expense Incurred</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-echo-chamber-of-creativity-crafting-compelling-podcast-stories/"><u>[New] The Echo Chamber of Creativity Crafting Compelling Podcast Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-most-engaging-ar-games-for-phones-revealed/"><u>[New] The Most Engaging AR Games for Phones Revealed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-windows-10-video-grabber-ultimate/"><u>[New] Windows 10 Video Grabber Ultimate</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-combat-profiles-hitbox-vs-streamer-supremacy/"><u>[Updated] 2024 Approved Combat Profiles Hitbox vs Streamer Supremacy</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-zoom-discussion-essential-tactics-for-virtual-conversations-for-2024/"><u>[Updated] Mastering Zoom Discussion Essential Tactics for Virtual Conversations for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essentials-of-writing-attractive-vlog-narratives/"><u>[Updated] The Essentials of Writing Attractive Vlog Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-sns-hdrs-strengths-and-comparative-software/"><u>[Updated] Unveiling SNS HDR's Strengths & Comparative Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-list-of-superior-real-time-streaming-networks/"><u>2024 Approved The Ultimate List of Superior Real-Time Streaming Networks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-iphone-photo-potential-the-art-of-reflection/"><u>2024 Approved Unlock iPhone Photo Potential The Art of Reflection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-secret-brilliance-behind-apple-vision-pros-success-insightful-list-of-10-reasons-gadgetgurus/"><u>Discover the Secret Brilliance Behind Apple Vision Pro's Success - Insightful List of 10 Reasons | GadgetGurus</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-smart-7-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Smart 7 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-prime-christian-live-streaming-services-a-list/"><u>In 2024, Prime Christian Live Streaming Services A List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-effective-content-promotion-on-youtube/"><u>In 2024, Strategies for Effective Content Promotion on YouTube</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010588544-overcoming-call-of-duty-wwiis-windows-black-screen-fault-expert-solutions-unlocked/"><u>Overcoming Call of Duty WWII's Windows Black Screen Fault - Expert Solutions Unlocked!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-mkv-player-pcandroid-experience-for-2024/"><u>Superior MKV Player PC/Android Experience for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-imagination-with-chatgpt-a-guide-to-crafting-engaging-video-game-narratives/"><u>Unleash Your Imagination with ChatGPT: A Guide to Crafting Engaging Video Game Narratives</u></a></li>
+</ul></div>
+

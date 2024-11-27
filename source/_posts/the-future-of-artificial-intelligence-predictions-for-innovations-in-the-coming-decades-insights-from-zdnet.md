@@ -1,7 +1,7 @@
 ---
 title: "The Future of Artificial Intelligence: Predictions for Innovations in the Coming Decades - Insights From ZDNet"
-date: 2024-09-18 17:41:14
-updated: 2024-09-20 12:13:25
+date: 2024-11-20T16:25:25.805Z
+updated: 2024-11-26T18:54:45.380Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-syma-x5c-review-best-drone-for-beginner/"><u>[New] Syma X5C Review Best Drone for Beginner</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-video-editors-aiding-in-app-dev-creation/"><u>[New] Top Video Editors Aiding in App Dev Creation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-excellent-replacements-to-top-rated-fbx-recorder-apps/"><u>[Updated] Excellent Replacements to Top-Rated FBX Recorder Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-horizon-capture-versus-focused-dimensionality/"><u>[Updated] Total Horizon Capture Versus Focused Dimensionality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-frugal-cloud-loft-economical-space-for-huge-file-stashes/"><u>2024 Approved Frugal Cloud Loft Economical Space for Huge File Stashes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-listings-photoplustune-recording-software-innovations/"><u>2024 Approved Prime Listings Photo+Tune Recording Software Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-allure-of-benq-sw320-4k-pro-display/"><u>2024 Approved The Allure of BenQ SW320 4K Pro Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-resource-efficient-online-photo-cropping/"><u>2024 Approved The Photographer's Resource Efficient Online Photo Cropping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-your-iphone-photo-mosaic-mastery/"><u>2024 Approved Unlock the Power of Your iPhone Photo Mosaic Mastery</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/compatibility-score-which-phones-work-with-gear-vr-for-2024/"><u>Compatibility Score Which Phones Work with Gear VR for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-corporate-strategies-through-chatgpt-applications/"><u>Elevating Corporate Strategies Through ChatGPT Applications</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enable-scanner-activation-after-updating-win10/"><u>Enable Scanner Activation After Updating Win10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-nubia-z50s-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Nubia Z50S Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-apple-iphone-14-pro-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From Apple iPhone 14 Pro Max without Password?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-m34-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy M34 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-full-potential-of-windows-11s-video-production-suite/"><u>In 2024, Unlocking the Full Potential of Windows 11'S Video Production Suite</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/start-broadcasting-now-instagram-live-guide-for-2024/"><u>Start Broadcasting Now Instagram Live Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-blueprint-to-elevate-your-flight-with-fpv-drone-blades-for-2024/"><u>The Ultimate Blueprint to Elevate Your Flight with FPV Drone Blades for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncovering-images-the-art-of-backdrop-removal-in-picsart-for-2024/"><u>Uncovering Images The Art of Backdrop Removal in Picsart for 2024</u></a></li>
+</ul></div>
+

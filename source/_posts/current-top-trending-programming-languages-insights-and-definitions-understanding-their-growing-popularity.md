@@ -1,7 +1,7 @@
 ---
 title: "Current Top Trending Programming Languages: Insights & Definitions - Understanding Their Growing Popularity"
-date: 2024-09-18 17:44:31
-updated: 2024-09-20 10:41:38
+date: 2024-11-22T20:17:59.234Z
+updated: 2024-11-27T04:33:07.891Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-forum.techidaily.com/que-hacer-si-tu-pc-borra-tus-archivos-despues-de-reiniciarlo-guia-completa-para-la-recuperacion/"><u>¿Qué Hacer Si Tu PC Borra Tus Archivos Después De Reiniciarlo: Guía Completa Para La Recuperación</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-bridge-between-platforms-sharing-facebook-videos-on-whatsapp-for-2024/"><u>[New] Bridge Between Platforms Sharing Facebook Videos on WhatsApp for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unlocking-the-full-potential-of-iphones-hdr-functions/"><u>[New] Unlocking the Full Potential of iPhone's HDR Functions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capturing-lessons-with-ease-top-screen-recorders/"><u>[Updated] 2024 Approved Capturing Lessons with Ease Top Screen Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-intensive-analysis-macos-screenflow-version-4/"><u>[Updated] 2024 Approved Intensive Analysis MacOS screenFlow Version 4</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-7-simple-methods-for-capturing-youtube-content/"><u>[Updated] In 2024, 7 Simple Methods for Capturing YouTube Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-editors-edge-boost-your-tiktok-impact/"><u>[Updated] The Editor's Edge Boost Your TikTok Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-key-to-accumulating-a-huge-collection-of-tiktok-videos/"><u>[Updated] The Key to Accumulating a Huge Collection of TikTok Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-radiowave-plays/"><u>[Updated] Ultimate Guide to Radiowave Plays</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tactical-steps-to-download-securely-free-vlc-media-on-mac/"><u>2024 Approved Tactical Steps to Download Securely Free VLC Media on MAC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-nights-reign-black-vs-the-dawns-duty-silver/"><u>2024 Approved The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-iphone-photo-blur-techniques-4-ways-explored/"><u>2024 Approved Unraveling iPhone Photo Blur Techniques - 4 Ways Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-uavs-the-basics-of-drone-operations/"><u>2024 Approved Unveiling UAVs The Basics of Drone Operations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-method-for-combining-gopro-footage-with-full-spherical-vids/"><u>In 2024, Advanced Method for Combining GoPro Footage with Full Spherical Vids</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-battlefield-solutions-to-stop-war-thunder-from-crashing-in-your-upcoming-matches/"><u>Master the Battlefield: Solutions to Stop War Thunder From Crashing in Your Upcoming Matches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/symphonic-selection-ideal-websites-for-ringtones-for-2024/"><u>Symphonic Selection Ideal Websites for Ringtones for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-handbook-for-instagram-reels-for-2024/"><u>The Essential Handbook for Instagram Reels for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-merge-videos-without-logos-best-7-software-options/"><u>Updated 2024 Approved Merge Videos Without Logos Best 7 Software Options</u></a></li>
+</ul></div>
+

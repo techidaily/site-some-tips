@@ -1,7 +1,7 @@
 ---
 title: "A Look Back at 10 Years with Kubernetes: Its Role in Shaping Modern Cloud Computing and Anticipated Trends | Featured on ZDNET"
-date: 2024-09-18 18:45:26
-updated: 2024-09-20 12:29:53
+date: 2024-11-23T04:41:46.005Z
+updated: 2024-11-26T22:43:48.022Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-grasp-the-art-of-steadiness-in-photography-for-2024/"><u>[New] Grasp the Art of Steadiness in Photography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-perfect-your-content-instagram-reel-best-practices/"><u>[New] Perfect Your Content Instagram Reel Best Practices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ensuring-accuracy-correcting-your-tiktok-profiles-age/"><u>[Updated] Ensuring Accuracy Correcting Your TikTok Profile's Age</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-access-your-favorites-anytime-the-leading-6-free-video-downloaders/"><u>[Updated] In 2024, Access Your Favorites Anytime The Leading 6 Free Video Downloaders</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enable-marvell-avstar-ax19-wireless-lan-support-on-pc/"><u>Enable Marvell AVSTAR AX19 Wireless LAN Support on PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/frame-reconfigurator-for-videos-for-2024/"><u>Frame Reconfigurator for Videos for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-f15-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy F15 5G FRP</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-scripts-that-reshape-cinematic-history/"><u>In 2024, Scripts that Reshape Cinematic History</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamstart-beginner-friendly-podcast-live-broadcast-guide/"><u>In 2024, StreamStart Beginner-Friendly Podcast Live Broadcast Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nubia-z50-ultra-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Z50 Ultra Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/supreme-reconciliation-of-vr-realms-for-2024/"><u>Supreme Reconciliation of VR Realms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-iphone-photography-shadow-techniques-for-2024/"><u>The Art of iPhone Photography Shadow Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-drone-equipment-collection-guide-for-2024/"><u>The Complete Drone Equipment Collection Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-iphone-xs-full-potential-for-2024/"><u>Unlock Your iPhone X's Full Potential for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unveiling-toms-device-diagnostics-and-performance-analysis/"><u>Unveiling Tom's Device Diagnostics & Performance Analysis</u></a></li>
+</ul></div>
+

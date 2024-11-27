@@ -1,7 +1,7 @@
 ---
 title: "1. Navigating the AI Revolution: Strategies for Tech Experts to Excel in Their Careers with ZDNet's Insights"
-date: 2024-09-17 20:16:43
-updated: 2024-09-20 10:53:22
+date: 2024-11-20T03:55:53.432Z
+updated: 2024-11-26T16:26:06.790Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,11 +45,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -81,6 +93,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-harmonious-hush-managing-music-on-pc-mac/"><u>[New] 2024 Approved Harmonious Hush Managing Music on PC, Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-imaging-why-hdr-sets-the-standard-over-sdr/"><u>[New] Superior Imaging Why HDR Sets the Standard Over SDR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-display-decoded-benqs-bl2711u-and-its-professional-impact/"><u>[New] The Ultimate Display Decoded BenQ’s BL2711U and Its Professional Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-picks-unleash-creativity-with-free-text-visualizers-online/"><u>[New] Top Picks Unleash Creativity with Free Text Visualizers Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-leading-edge-apps-the-ultimate-10-for-real-time-gymnastics-and-hockey-games/"><u>[Updated] 2024 Approved Leading Edge Apps The Ultimate 10 for Real-Time Gymnastics and Hockey Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-affordable-flight-masters-top-drone-selections-below-500/"><u>[Updated] Affordable Flight Masters Top Drone Selections Below $500</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-beginners-pathway-utilizing-fade-transitions/"><u>[Updated] Beginner's Pathway Utilizing Fade Transitions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-2024-general-facts-challenge-videos/"><u>[Updated] Top 2024 General Facts Challenge Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selections-premium-webcam-platforms/"><u>[Updated] Ultimate Selections Premium Webcam Platforms</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/current-open-positions-available-with-abbyy-apply-now/"><u>Current Open Positions Available with ABBYY - Apply Now!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hands-on-exploration-with-the-9-inch-lenovo-book-creator-tab/"><u>Hands-On Exploration with the 9-Inch Lenovo Book Creator Tab</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-zte-blade-a73-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of ZTE Blade A73 5G Without PUK Codes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>In 2024, The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-ultimate-playbook-for-a-thriving-youtube-gaming-platform/"><u>In 2024, The Ultimate Playbook for a Thriving YouTube Gaming Platform</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/quick-reference-how-to-record-videos-on-vimeo-for-2024/"><u>Quick Reference How to Record Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-noobs-manual-to-saving-streaming-radio-lines-for-2024/"><u>The Noob's Manual to Saving Streaming Radio Lines for 2024</u></a></li>
+</ul></div>
+

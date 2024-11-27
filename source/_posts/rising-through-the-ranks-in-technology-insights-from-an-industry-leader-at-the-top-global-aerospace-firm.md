@@ -1,7 +1,7 @@
 ---
 title: "Rising Through the Ranks in Technology: Insights From an Industry Leader at the Top Global Aerospace Firm"
-date: 2024-09-19 13:35:36
-updated: 2024-09-20 12:24:11
+date: 2024-11-21T20:19:25.818Z
+updated: 2024-11-27T02:35:02.486Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-transform-canvas-into-magic-the-best-mac-drawing-apps/"><u>[New] Transform Canvas Into Magic - The Best Mac Drawing Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-future-of-flying-games-mavic-air-vs-dji-spark-showdown/"><u>[Updated] The Future of Flying Games Mavic Air Vs. DJI Spark Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-visual-journey-of-iphone-photos-with-leading-lines/"><u>[Updated] The Visual Journey of iPhone Photos with Leading Lines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-inshot-cuts-for-professional-edge/"><u>2024 Approved Streamlining Inshot Cuts for Professional Edge</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-best-online-choice-for-quick-hassle-free-gif-conversion-to-video/"><u>2024 Approved The Best Online Choice for Quick, Hassle-Free GIF Conversion to Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-where-to-pull-off-ringtone-files/"><u>2024 Approved Ultimate List Where To Pull Off Ringtone Files</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unlocking-earnings-potential-essential-view-numbers/"><u>2024 Approved Unlocking Earnings Potential Essential View Numbers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oneplus-ace-2-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from OnePlus Ace 2 Pro Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-functionality-of-unmanned-aerial-vehicles-explored/"><u>In 2024, The Functionality of Unmanned Aerial Vehicles Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-path-to-larger-video-presentation-in-youtube/"><u>In 2024, The Path to Larger Video Presentation in YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/initiate-online-interactions-with-this-guide-to-facebook-registration-for-2024/"><u>Initiate Online Interactions with This Guide to Facebook Registration for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/active-slides-with-youtube-videos/"><u>Interactive Slides with YouTube Videos</u></a></li>
+<li><a href="https://win-premium.techidaily.com/les-meilleurs-outils-de-migration-sys-operatifs-solutions-pour-changer-encore-plus-facilement-de-windows-a-windows/"><u>Les Meilleurs Outils De Migration Sys Opératifs : Solutions Pour Changer Encore Plus Facilement De Windows À Windows</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-love-in-motion-how-to-craft-a-romantic-valentines-day-video-for-2024/"><u>New Love in Motion How to Craft a Romantic Valentines Day Video for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-of-the-best-yts-premier-unboxing-sites-for-2024/"><u>The Best of the Best YT's Premier Unboxing Sites for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-tutorial-on-using-snapchat-spotlight-for-2024/"><u>The Essential Tutorial on Using Snapchat Spotlight for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-collection-of-10-inspirational-movies-for-2024/"><u>The Ultimate Collection of 10 Inspirational Movies for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unwind-with-laughter-curating-15-hilarious-youtube-masterpieces/"><u>Unwind with Laughter Curating 15 Hilarious YouTube Masterpieces</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing the Tech World: How Red Hat's New Enterprise Linux with Built-In AI Sets a New Standard for Utility | ZDNet"
-date: 2024-09-18 22:10:27
-updated: 2024-09-20 11:19:33
+date: 2024-11-21T20:57:29.811Z
+updated: 2024-11-26T16:02:27.152Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-upgrade-your-sky-faring-with-these-11-essentials/"><u>[Updated] Upgrade Your Sky-Faring with These 11 Essentials</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-digital-frame-snatchers-top-video-tools/"><u>2024 Approved Digital Frame Snatchers Top Video Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-photography-fundamentals-tips-and-apps-for-android/"><u>2024 Approved Photography Fundamentals Tips & Apps for Android</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-self-created-soundtracks-for-your-instagram-alerts/"><u>2024 Approved Self-Created Soundtracks for Your Instagram Alerts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-thinkers-arena-premier-gk-quiz-vids/"><u>2024 Approved Thinkers’ Arena Premier GK Quiz Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-humor-potential-quickly-kapwings-app/"><u>2024 Approved Unlock Humor Potential Quickly - Kapwing's App</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-emoji-mastery-for-engaging-youtube-discussions/"><u>In 2024, Emoji Mastery for Engaging YouTube Discussions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-power-of-music-in-engaging-video-content/"><u>In 2024, Unlocking the Power of Music in Engaging Video Content</u></a></li>
+<li><a href="https://review-topics.techidaily.com/itel-p40plus-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Itel P40+ support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ocr-optical-character-recognition-vs-idp-image-based-document-processing-understanding-the-key-differences/"><u>OCR (Optical Character Recognition) Vs. IDP (Image-Based Document Processing): Understanding the Key Differences</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revealed-the-new-amd-epyc-5-128-core-processor-with-impressive-512mb-l3-caching-capabilities/"><u>Revealed: The New AMD EPYC 5 128-Core Processor with Impressive 512MB L3 Caching Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-android-gaming-on-win-11-via-play-store-linkup/"><u>Seamless Android Gaming on Win 11 via Play Store Linkup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-for-combining-the-best-of-zoom-and-skype-video-calls-for-2024/"><u>Strategies for Combining the Best of Zoom and Skype Video Calls for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-iphone-selfie-devices-ranked-8-for-2024/"><u>The Best Iphone Selfie Devices Ranked (#8) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-no-fuss-guide-for-exploring-loved-and-trending-youtube-comments-for-2024/"><u>The No-Fuss Guide for Exploring Loved and Trending YouTube Comments for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-apples-audio-world-a-download-guide-for-ios-users-for-2024/"><u>Unlocking Apple's Audio World A Download Guide for iOS Users for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiled-top-10-superior-gopro-housing-options-for-2024/"><u>Unveiled Top 10 Superior GoPro Housing Options for 2024</u></a></li>
+</ul></div>
+

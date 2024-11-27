@@ -1,7 +1,7 @@
 ---
 title: "Transforming Generative AI with LangChain Into a Reliable Helper: Exploring the Innovations on ZDNET"
-date: 2024-09-18 21:24:41
-updated: 2024-09-20 11:30:57
+date: 2024-11-23T05:19:25.592Z
+updated: 2024-11-27T05:28:22.980Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-enjoy-a-seamless-streaming-experience-unveiling-the-potential-of-pip-on-netflix/"><u>[New] In 2024, Enjoy a Seamless Streaming Experience Unveiling the Potential of PIP on Netflix</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-enticing-instagram-followers-a-puzzle-post-primer/"><u>[New] In 2024, The Art of Enticing Instagram Followers A Puzzle Post Primer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-podcast-titling-a-step-by-step-guide/"><u>[New] The Art of Podcast Titling A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unified-brand-presence-across-digital-platforms/"><u>[New] Unified Brand Presence Across Digital Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-picture-perfection-compreenhensive-facetune-review/"><u>[Updated] Unlock Picture Perfection Compreenhensive Facetune Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-importing-audio-steps-for-inshot-video-editing/"><u>2024 Approved Importing Audio Steps for InShot Video Editing</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-nokia-150-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Nokia 150 (2023) Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-x90s-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo X90S FRP Locks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-strategies-for-zoom-use-with-a-chrome-os-device/"><u>In 2024, Top Strategies for Zoom Use with a Chrome OS Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-creative-closure-ideas-with-our-template-service/"><u>In 2024, Unlock Creative Closure Ideas with Our Template Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-in-cross-device-input-sharing-with-barrier-technique/"><u>Precision in Cross-Device Input Sharing with Barrier Technique</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/synaptics-drivers-download-and-update-for-windows-easily/"><u>Synaptics Drivers Download & Update For Windows. EASILY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-resource-compendium-for-optimizing-on-screen-captioning-for-2024/"><u>The Ultimate Resource Compendium for Optimizing On-Screen Captioning for 2024</u></a></li>
+</ul></div>
+

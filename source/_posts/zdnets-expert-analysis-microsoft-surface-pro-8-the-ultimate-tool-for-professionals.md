@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Expert Analysis: Microsoft Surface Pro 8 - The Ultimate Tool for Professionals"
-date: 2024-11-15T07:34:35.713Z
-updated: 2024-11-16T21:23:28.215Z
+date: 2024-11-20T03:03:11.950Z
+updated: 2024-11-26T18:24:48.162Z
 tags:
   - apple
 categories:
@@ -49,10 +49,7 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -93,6 +90,10 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -102,10 +103,7 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -142,10 +140,7 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
@@ -175,10 +170,7 @@ At the end of the day, however, you're getting a full computer in the Surface Pr
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -218,18 +210,21 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-targeted-success-using-snapads-for-business-growth/"><u>[New] In 2024, Targeted Success Using SnapAds for Business Growth</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-supreme-song-synchronizer-app-android/"><u>[New] Supreme Song Synchronizer App (Android)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-docs-transcription-feature-a-beginners-guide/"><u>[Updated] Unlocking Docs' Transcription Feature A Beginner’s Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-30-tones-where-to-find-classical-callouts/"><u>2024 Approved Top 30 Tones Where to Find Classical Callouts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convertisseurs-gratuits-et-en-ligne-pour-transformer-mp3-en-fichiers-wma-avec-movavi/"><u>Convertisseurs Gratuits Et en Ligne Pour Transformer MP3 en Fichiers WMA Avec Movavi</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/expert-tips-on-basic-color-correction-in-photos-for-2024/"><u>Expert Tips on Basic Color Correction in Photos for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/find-out-which-free-updater-applications-are-ahead-in-the-pack-top-11/"><u>Find Out Which Free Updater Applications Are Ahead in the Pack (Top 11)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-digital-dialogues-comparing-the-impact-of-podcasts-and-youtube-platforms/"><u>In 2024, Digital Dialogues Comparing the Impact of Podcasts and YouTube Platforms</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/gious-earnings-with-youtube-studio-for-every-gadget-for-2024/"><u>Prodigious Earnings with YouTube Studio for Every Gadget for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-pinnacle-guide-to-uncomplicated-online-live-streams-for-2024/"><u>The Pinnacle Guide to Uncomplicated Online Live Streams for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-non-contact-sensing-for-2024/"><u>The Ultimate Guide to Non-Contact Sensing for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-utilisations-doutils-dimagerie-portable-sur-usb-pour-windows-11-8-et-7/"><u>Top Utilisations D'Outils D'Imagerie Portable Sur USB Pour Windows 11, 8 Et 7</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition-for-2024/"><u>Unlock High-End Visuals A Practical Guide for SDR to HDR Transition for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-video-cutting-edge-tools-devices/"><u>[New] Superior Video Cutting-Edge Tools (Devices)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-picks-professional-ringtone-designer-guide/"><u>[New] Top Picks Professional Ringtone Designer Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pivotal-moments-in-figure-skating-22-highlights/"><u>[Updated] 2024 Approved Pivotal Moments in Figure Skating '22 Highlights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-reflex-toolbox-bundle/"><u>[Updated] Reflex Toolbox Bundle</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-poco-m6-pro-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Poco M6 Pro 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-aoc-computer-screens-not-working-properly-with-the-latest-windows-operating-system/"><u>Diagnosing and Repairing AOC Computer Screens Not Working Properly with the Latest Windows Operating System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-code-31-errors-in-windows/"><u>How to Fix Code 31 Errors in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-infinix-smart-7-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Infinix Smart 7 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-total-motion-analysis-2023/"><u>In 2024, Total Motion Analysis 2023</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-hp-laserjet-p3015-printer-drivers-free-download-and-compatibility-guide-for-windows-users/"><u>Latest HP LaserJet P3015 Printer Drivers: Free Download and Compatibility Guide for Windows Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-nature-in-the-metropolis-a-new-paradigm-for-cities/"><u>Nurturing Nature in the Metropolis A New Paradigm for Cities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pro-vision-enhancement-top-ranked-4k-displays-for-editing/"><u>Pro Vision Enhancement Top-Ranked 4K Displays for Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-windows-10-bluetooth-connection-problems-fast-and-simple/"><u>Solve Your Windows 10 Bluetooth Connection Problems Fast and Simple</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships-for-2024/"><u>The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-science-behind-apples-m1-processor-unveiled-for-2024/"><u>The Science Behind Apple’s M1 Processor Unveiled for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-full-potential-of-fast-fb-videos-with-tools-for-2024/"><u>Unlocking the Full Potential of Fast FB Videos with Tools for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Averted Disaster for Linux World: The Detailed Breakdown of XZ Utils Security Scare | Exposed by ZDNet"
-date: 2024-09-19 21:54:34
-updated: 2024-09-20 11:30:13
+date: 2024-11-24T20:03:39.930Z
+updated: 2024-11-26T18:19:50.107Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -73,6 +77,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +88,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-spark-interest-everyones-free-with-our-youtube-banner-samples/"><u>[New] 2024 Approved Spark Interest - Everyone's Free With Our YouTube Banner Samples!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-mastering-personal-content-management-building-a-structured-watch-later-list/"><u>[New] In 2024, Mastering Personal Content Management Building a Structured 'Watch Later' List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-cinematic-zoom-effect-focus-on-film/"><u>[New] The Cinematic Zoom Effect Focus on Film</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-list-of-religious-ringing-sounds/"><u>[New] The Essential List of Religious Ringing Sounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac/"><u>[New] The Ultimate Guide to Leveraging Preview Capabilities on a Mac</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-navigating-the-net-top-tags-for-eye-catching-gamer-content/"><u>[Updated] In 2024, Navigating the Net Top Tags for Eye-Catching Gamer Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-threefold-stabilization-to-shine-your-iphone-videos/"><u>[Updated] Threefold Stabilization to Shine Your iPhone Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-creativity-in-photography-essential-pixlr-hacks/"><u>[Updated] Unleash Creativity in Photography Essential Pixlr Hacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-podcasters-guide-to-seamless-streaming-setup/"><u>2024 Approved The Podcaster’s Guide to Seamless Streaming Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-playtime-fixing-risk-of-rain-2-crash-errors-without-stress/"><u>Enhance Your Playtime - Fixing 'Risk of Rain 2' Crash Errors Without Stress.</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-gaming-specifications-unveiled/"><u>Essential Gaming Specifications Unveiled</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rhythm-revivers-10-androidios-audio-challengers/"><u>In 2024, Rhythm Revivers 10 Android/iOS Audio Challengers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-realme-gt-5-pro-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Realme GT 5 Pro has been deleted.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/style-meets-speed-in-depth-analysis-of-the-stylish-swift-swagtrn-swagger-electric-scooter/"><u>Style Meets Speed: In-Depth Analysis of the Stylish, Swift Swagtrn Swagger Electric Scooter</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/this-article-shows-the-detail-steps-to-add-titles-in-final-cut-pro-x/"><u>This Article Shows the Detail Steps to Add Titles in Final Cut Pro X</u></a></li>
+</ul></div>
+

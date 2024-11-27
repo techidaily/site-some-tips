@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Ebbs and Flows of Coding Language Trends Since 2016: Insights & Predictions for Developers | TechInsight"
-date: 2024-09-19 11:45:39
-updated: 2024-09-20 10:14:23
+date: 2024-11-24T16:02:02.155Z
+updated: 2024-11-26T18:51:32.655Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-essential-tips-for-ordering-photos-on-iphone-with-icloud-backup/"><u>[New] 2024 Approved Essential Tips for Ordering Photos on iPhone, With iCloud Backup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essentials-for-seamless-system-evolutions/"><u>[New] The Essentials for Seamless System Evolutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-best-10-online-background-variant-software/"><u>[New] Unveiling the Best 10 Online Background Variant Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-restore-windows-photo-viewer-quick-effective-ways-for-win10/"><u>[Updated] Restore Windows Photo Viewer Quick, Effective Ways for Win10</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-a-new-era-for-android-time-lapsing-trends-and-techniques/"><u>2024 Approved A New Era for Android Time-Lapsing Trends & Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-scripted-time-warps-a-cinematic-approach/"><u>2024 Approved Scripted Time Warps A Cinematic Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-professionals-guide-to-4k-monitors-spotlight-on-bl2711u-by-benq/"><u>2024 Approved The Professional's Guide to 4K Monitors - Spotlight on BL2711U by BenQ</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-basics-of-digital-imagery-sizes/"><u>2024 Approved Unveiling the Basics of Digital Imagery Sizes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-ricoh-mp-c3003-driver-software-here-free-download/"><u>Get Your Ricoh MP C3003 Driver Software Here - Free Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-optimal-sonic-selections-android-centric/"><u>In 2024, Optimal Sonic Selections, Android-Centric</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-most-compelling-free-vfx-alternatives-for-filmmakers/"><u>In 2024, Unveiling the Most Compelling Free VFX Alternatives for Filmmakers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-make-your-videos-pop-top-animated-text-apps-for-android-and-ios/"><u>New In 2024, Make Your Videos Pop Top Animated Text Apps for Android and iOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-from-tweet-vids-to-mp3-audio-files-for-2024/"><u>The Ultimate Guide From Tweet Vids to MP3 Audio Files for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-android-photo-fixes-for-2024/"><u>Ultimate Guide to Android Photo Fixes for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-resolving-cold-war-fps-issues-and-stutters-in-pc-games/"><u>Ultimate Guide to Resolving Cold War FPS Issues & Stutters in PC Games</u></a></li>
+<li><a href="https://fox-making.techidaily.com/unraveling-the-truth-about-https-does-it-always-guarantee-website-security/"><u>Unraveling the Truth About HTTPS - Does It Always Guarantee Website Security?</u></a></li>
+</ul></div>
+

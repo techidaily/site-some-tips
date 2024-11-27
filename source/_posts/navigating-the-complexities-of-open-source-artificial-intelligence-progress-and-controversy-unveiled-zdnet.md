@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Complexities of Open Source Artificial Intelligence: Progress and Controversy Unveiled | ZDNet"
-date: 2024-09-18 17:10:47
-updated: 2024-09-20 10:12:21
+date: 2024-11-21T04:00:43.099Z
+updated: 2024-11-26T22:50:05.053Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -73,6 +77,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +114,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-seeking-freebies-learn-instagrams-secret-for-additional-filters/"><u>[Updated] In 2024, Seeking Freebies? Learn Instagram’s Secret for Additional Filters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-stepwise-process-for-capturing-live-soundtracks-online/"><u>[Updated] In 2024, Stepwise Process for Capturing Live Soundtracks Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-non-competitive-front-row-fun-ranking-the-top-ten/"><u>[Updated] Non-Competitive Front Row Fun Ranking the Top Ten</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-softening-audio-levels-alives-approach/"><u>2024 Approved Softening Audio Levels Alive’s Approach</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-beauty-channels-your-step-by-step-blueprint/"><u>2024 Approved The Ultimate Guide to Beauty Channels Your Step-By-Step Blueprint</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-6-sustainable-mc-base-designs/"><u>2024 Approved Top 6 Sustainable MC Base Designs</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/beat-bsod-blues-with-these-pro-tips-for-handling-error-0xc00-on-win11-and-8-solved/"><u>Beat BSOD Blues with These Pro Tips for Handling Error 0xC0[^0] on Win11 & 8 [SOLVED]</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-spotlight-on-8-trusted-youtube-growth-services/"><u>In 2024, Spotlight on 8 Trusted Youtube Growth Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streaming-wars-the-digital-platform-showdown/"><u>In 2024, Streaming Wars The Digital Platform Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-podcasters-roadmap-to-seo-excellence-for-2024/"><u>The Podcaster’s Roadmap to SEO Excellence for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-toolkit-for-elevating-your-podcast-through-seo-for-2024/"><u>The Ultimate Toolkit for Elevating Your Podcast Through SEO for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-viral-potential-with-ai-driven-video-titles-for-2024/"><u>Unlocking Viral Potential with AI-Driven Video Titles for 2024</u></a></li>
+</ul></div>
+

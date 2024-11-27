@@ -1,7 +1,7 @@
 ---
 title: "Adjusting the Gears of Innovation: The Shifting Landscape in Data Science & AI"
-date: 2024-09-19 18:10:23
-updated: 2024-09-20 10:22:50
+date: 2024-11-26T04:51:11.551Z
+updated: 2024-11-26T23:48:46.089Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -67,11 +75,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -123,6 +139,10 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-biggest-fifa-visuals-youtube-insights-graphed/"><u>[New] 2024 Approved Biggest FIFA Visuals YouTube Insights Graphed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-techniques-for-outstanding-gopro-vlogs/"><u>[New] Top Techniques for Outstanding GoPro Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-intros-a-comprehensive-instructional-guide/"><u>[Updated] 2024 Approved Free YouTube Intros A Comprehensive Instructional Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-crafting-and-downloading-personalized-insta-ringtones/"><u>[Updated] Crafting & Downloading Personalized Insta Ringtones</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-optimal-free-tools-5-gif-to-video-conversion-websites-without-downloads/"><u>[Updated] In 2024, Optimal Free Tools 5 GIF-to-Video Conversion Websites Without Downloads</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-high-res-guide-best-and-worst-8k-televisions/"><u>[Updated] In 2024, The Ultimate High-Res Guide Best and Worst 8K Televisions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-android-fixes-for-time-lags-in-videos/"><u>2024 Approved Top 8 Android Fixes for Time-Lags in Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-video-guide-to-hairstyles/"><u>2024 Approved Ultimate Video Guide to Hairstyles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unmatched-technique-to-fuse-gopro-clips-into-immersive-360-movies/"><u>2024 Approved Unmatched Technique to Fuse GoPro Clips Into Immersive 360 Movies</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-apple-iphone-12-pro-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling Apple iPhone 12 Pro Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-cartoon-combo-merging-filters-and-snaps-seamlessly/"><u>In 2024, The Ultimate Cartoon Combo Merging Filters and Snaps Seamlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-3-ways-convert-pinner-vids-into-audios/"><u>In 2024, Top 3 Ways Convert Pinner Vids Into Audios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-artisans-approach-to-gathering-stock-visuals-for-use-for-2024/"><u>The Artisan's Approach to Gathering Stock Visuals for Use for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-ai-named-generators-for-podcasters-for-2024/"><u>The Ultimate List of AI Named Generators for Podcasters for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-dynamic-image-backdrops-viewer-for-2024/"><u>Top 10 Dynamic Image Backdrops Viewer for 2024</u></a></li>
+</ul></div>
+

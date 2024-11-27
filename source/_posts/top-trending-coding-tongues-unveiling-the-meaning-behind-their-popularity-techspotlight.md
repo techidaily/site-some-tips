@@ -1,7 +1,7 @@
 ---
 title: "Top Trending Coding Tongues: Unveiling the Meaning Behind Their Popularity | TechSpotlight"
-date: 2024-09-18 21:31:55
-updated: 2024-09-20 12:10:18
+date: 2024-11-24T02:27:41.984Z
+updated: 2024-11-26T17:31:42.556Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-inshot-cuts-for-professional-edge/"><u>[New] Streamlining Inshot Cuts for Professional Edge</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-get-the-perfect-slideshow-design-10-places-to-download-for-inspiration/"><u>[Updated] 2024 Approved Get the Perfect Slideshow Design 10 Places to Download for Inspiration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superior-style-for-text-mobility/"><u>[Updated] Superior Style for Text Mobility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-best-8-screenshot-and-video-editing-tools-for-phones/"><u>[Updated] The Best 8 Screenshot & Video Editing Tools for Phones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/from-zero-to-hero-achieving-perpetual-prosperity-in-the-world-of-like-a-dragon-for-windows-gamers/"><u>From Zero to Hero: Achieving Perpetual Prosperity in the World of 'Like a Dragon' For Windows Gamers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-the-persistent-problem-of-iphone-application-crashes-8-tips/"><u>How to Fix the Persistent Problem of iPhone Application Crashes (8 Tips)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-vision-into-visual-storytelling-with-windows-11-techniques/"><u>In 2024, Transforming Vision Into Visual Storytelling with Windows 11 Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-podcast-dialogue-tips-and-practical-script-examples-for-2024/"><u>Mastering Podcast Dialogue Tips & Practical Script Examples for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/obs-and-zoom-synchronization-techniques-for-2024/"><u>OBS & Zoom Synchronization Techniques for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamline-your-office-work-with-voice-to-text-in-ms-word/"><u>Streamline Your Office Work with Voice-to-Text in MS Word</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-list-of-affordable-iphone-collage-creation-apps-for-2024/"><u>The Ultimate List of Affordable, iPhone Collage Creation Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-android-games-funimate-pro-apk-deep-dive-for-2024/"><u>Unlock Android Games - Funimate Pro APK Deep Dive for 2024</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-tecno-spark-go-2024-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Tecno Spark Go (2024)</u></a></li>
+</ul></div>
+

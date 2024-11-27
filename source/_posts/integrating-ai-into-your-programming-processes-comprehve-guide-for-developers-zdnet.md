@@ -1,7 +1,7 @@
 ---
 title: "Integrating AI Into Your Programming Processes: Comprehve Guide for Developers | ZDNet"
-date: 2024-09-18 15:35:20
-updated: 2024-09-20 11:51:58
+date: 2024-11-20T04:14:50.320Z
+updated: 2024-11-26T23:59:46.388Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-audacitys-blueprint-for-high-fidelity-sound-recording/"><u>[New] Audacity's Blueprint for High-Fidelity Sound Recording</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-iphone-photo-excellence-simple-tips-and-tricks/"><u>[New] IPhone Photo Excellence Simple Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-exceptional-live-streamers/"><u>2024 Approved The Ultimate Guide to Exceptional Live Streamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transitioning-smoothly-the-technology-enhancers-handbook/"><u>2024 Approved Transitioning Smoothly The Technology Enhancer's Handbook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/anticipating-applen-updates-dive-into-the-latest-with-m4-mac-mini-and-enhanced-ipads-tech-analysis-by-zdnet/"><u>Anticipating Apple'n Updates? Dive Into the Latest with M4 Mac Mini and Enhanced iPads – Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-bluetooth-missing-from-windows-device-manager-solutions/"><u>Fix: Bluetooth Missing From Windows Device Manager - Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mememakerpro-share-your-giggles/"><u>In 2024, MemeMakerPro Share Your Giggles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-pick-drones-compatible-with-gopro-cameras/"><u>In 2024, Top Pick Drones Compatible with GoPro Cameras</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-top-video-to-audio-converters-for-mobile-devices/"><u>New In 2024, Top Video to Audio Converters for Mobile Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-80s-effects-compendium-for-professional-editors-for-2024/"><u>Top 80S Effects Compendium for Professional Editors for 2024</u></a></li>
+</ul></div>
+

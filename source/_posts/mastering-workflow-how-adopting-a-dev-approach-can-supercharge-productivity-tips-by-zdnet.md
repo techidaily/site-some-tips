@@ -1,7 +1,7 @@
 ---
 title: "Mastering Workflow: How Adopting a Dev Approach Can Supercharge Productivity - Tips by ZDNet"
-date: 2024-09-18 11:58:58
-updated: 2024-09-20 10:38:30
+date: 2024-11-22T20:00:33.277Z
+updated: 2024-11-26T19:03:34.956Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,11 +45,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -73,6 +85,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +96,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-power-of-perception-iconic-podcast-design-tips/"><u>[New] The Power of Perception Iconic Podcast Design Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-8-trending-vr-adventures-on-oculus/"><u>[Updated] Top 8 Trending VR Adventures on Oculus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-zooms-potential-learn-how-to-use-video-filters/"><u>[Updated] Unlocking Zoom's Potential Learn How to Use Video Filters</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtube-monetization-policy-updated-requirements-and-guidelines-for-2024/"><u>[Updated] YouTube Monetization Policy Updated Requirements and Guidelines for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ustream-overview-plus-similar-services/"><u>2024 Approved Ustream Overview + Similar Services</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-14-pro-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 14 Pro Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-best-ai-companion-an-analytical-look-at-gemini-vs-chabtgpt-plus/"><u>Choosing the Best AI Companion: An Analytical Look at Gemini Vs. ChabtgPT Plus</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-masters-designing-virtual-marvel-realms/"><u>In 2024, Masters Designing Virtual Marvel Realms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-talk-turned-type-essential-apps-for-offline-speech-recognition/"><u>In 2024, Talk Turned Type Essential Apps for Offline Speech Recognition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/masterful-descriptions-for-youtube-success-for-2024/"><u>Masterful Descriptions for YouTube Success for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-journey-across-devices-windows-launches-for-apples-tech-ecosystem/"><u>Seamless Journey Across Devices: Windows Launches for Apple's Tech Ecosystem</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/sound-recording-with-studio-mac-guide/"><u>Sound Recording with Studio Mac Guide</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/top-rated-programs-for-windows-server-backups-discover-aomei-backupper/"><u>Top Rated Programs for Windows Server Backups: Discover AOMEI Backupper</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unboxing-pureaudiofinder-a-look-into-the-latest-release-for-2024/"><u>Unboxing PureAudioFinder A Look Into the Latest Release for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-essential-trio-of-upgrades-to-preserve-your-iphone-13s-pristine-appearance/"><u>ZDNET's Essential Trio of Upgrades to Preserve Your iPhone 13'S Pristine Appearance</u></a></li>
+</ul></div>
+

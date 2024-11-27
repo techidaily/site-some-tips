@@ -1,7 +1,7 @@
 ---
 title: Linux Experts Consortium Endorses CIQ for Rocky Linux Initiative - A Deep Dive by ZDNet
-date: 2024-09-18 17:37:31
-updated: 2024-09-20 12:29:42
+date: 2024-11-20T01:28:17.516Z
+updated: 2024-11-26T22:16:08.674Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-10-unique-gaming-screen-capture-applications/"><u>[New] 2024 Approved Top 10 Unique Gaming Screen Capture Applications</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-turning-tides-in-photographic-history-retrieval-on-facebook/"><u>[New] 2024 Approved Turning Tides in Photographic History Retrieval on Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-huawei-p10-performance-metrics/"><u>[New] The Ultimate Guide to Huawei P10 Performance Metrics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe/"><u>[New] Tips and Tricks for Streamlining Color Grading with LUTs in Adobe</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-iphone-x-compatible-backdrop-change-tools/"><u>[New] Top 5 iPhone X-Compatible Backdrop Change Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-prime-image-hoarders-destination-list/"><u>[Updated] Prime Image Hoarders' Destination List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x/"><u>[Updated] Unveiling Mastery The Ultimate Animoji Guide for iPhone X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-finest-selection-of-economical-free-lut-tools/"><u>[Updated] Unveiling the Finest Selection of Economical, Free LUT Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-charting-a-course-budget-planning-for-youtube-growth/"><u>2024 Approved Charting a Course Budget Planning for YouTube Growth</u></a></li>
+<li><a href="https://facebook.techidaily.com/anonymous-advantages-avoid-privacy-popping-apps/"><u>Anonymous Advantages: Avoid Privacy-Popping Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-vidas-capabilities-in-digital-film-production/"><u>Exploring Vida's Capabilities in Digital Film Production</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-system-with-new-nvidia-940mx-gpu-drivers-free-download/"><u>How to Update Your System with New NVIDIA 940MX GPU Drivers - Free Download</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-f5-pro-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco F5 Pro 5GFRP Lock</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ios-snapshot-spectrum-your-quick-reference-for-2024/"><u>IO's Snapshot Spectrum Your Quick Reference for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/scoping-out-social-network-supporters/"><u>Scoping Out Social Network Supporters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-iphone-users-converting-standard-speed-to-slow-scenes-for-2024/"><u>Tips for iPhone Users Converting Standard Speed to Slow Scenes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-traffic-cams-for-superior-vehicle-tracking-for-2024/"><u>Top 10 Traffic Cams for Superior Vehicle Tracking for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-viewership-elevate-your-live-stream-game-with-just-a-few-supporters-for-2024/"><u>Transform Viewership Elevate Your Live Stream Game with Just a Few Supporters for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-poco-x6-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Poco X6 Pro? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
+

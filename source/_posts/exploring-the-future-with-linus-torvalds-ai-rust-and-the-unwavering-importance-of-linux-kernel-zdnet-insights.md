@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Future with Linus Torvalds: AI, Rust, and The Unwavering Importance of Linux Kernel | ZDNET Insights"
-date: 2024-09-17 18:24:49
-updated: 2024-09-20 12:15:49
+date: 2024-11-22T02:03:14.909Z
+updated: 2024-11-26T22:45:37.757Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -67,11 +75,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -92,6 +108,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-technology-showcase-highlights-of-the-5-best-slow-cams/"><u>[New] Technology Showcase Highlights of the 5 Best Slow Cams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-cheat-sheet-essentials-for-vlc-and-mac/"><u>[New] The Ultimate Cheat Sheet Essentials for VLC and Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-of-hdr-photo-on-iphone-camera/"><u>[New] The Ultimate Guide of HDR Photo on iPhone Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-iphone-audio-applications-ranked/"><u>[New] Top iPhone Audio Applications Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-potential-with-samsungs-latest-photo-editor/"><u>[New] Unlocking the Potential with Samsung's Latest Photo Editor</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-starting-points-on-youtube-top-16-opener-list-for-growth/"><u>[Updated] 2024 Approved Best Starting Points on YouTube Top 16 Opener List for Growth</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-from-3d-to-immersive-understanding-virtual-realitys-evolution/"><u>[Updated] 2024 Approved From 3D to Immersive Understanding Virtual Reality's Evolution</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-tiktok-mastery-on-chrome-android-iphone-platforms/"><u>[Updated] 2024 Approved TikTok Mastery on Chrome, Android, iPhone Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-immediate-cessation-of-recordings-in-qt-app/"><u>[Updated] In 2024, Immediate Cessation of Recordings in QT App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-best-motivational-films-to-fuel-your-ambition/"><u>[Updated] The Best Motivational Films to Fuel Your Ambition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uncovering-the-intricacies-of-lgs-top-tier-4k-display/"><u>[Updated] Uncovering the Intricacies of LG's Top-Tier 4K Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-syncing-zen-and-zeal-elevating-youtube-livestreams-on-zoom/"><u>2024 Approved Syncing Zen and Zeal Elevating YouTube Livestreams on Zoom</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-poco-f5-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Poco F5 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unseen-wonders-in-vlcs-arsenal-of-features/"><u>In 2024, Unseen Wonders in VLC's Arsenal of Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unearthed-30-window-11-insider-strategies-to-boost-performance/"><u>Unearthed 30 Window 11 Insider Strategies to Boost Performance</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-top-10-storyboarding-software/"><u>Updated In 2024, Top 10 Storyboarding Software</u></a></li>
+</ul></div>
+

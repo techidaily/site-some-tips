@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses AI Integration & Rust Language Influence on Linux Kernel - The Core of Modern Computing
-date: 2024-09-18 16:24:13
-updated: 2024-09-20 12:59:55
+date: 2024-11-22T00:04:38.793Z
+updated: 2024-11-26T22:03:31.068Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-secure-your-videos-top-5-fb-downloader-apps-ranked/"><u>[New] 2024 Approved Secure Your Videos Top 5 FB Downloader Apps Ranked</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-capturing-life-in-motion-ipad-timelapse-guide/"><u>[Updated] 2024 Approved Capturing Life in Motion IPad Timelapse Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-paint-your-posts-brightly-instagrams-triple-highlight-strategies/"><u>[Updated] 2024 Approved Paint Your Posts Brightly Instagram's Triple Highlight Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gear-up-for-greatness-choosing-webcams-for-youtube-excellence/"><u>[Updated] In 2024, Gear Up for Greatness Choosing Webcams for YouTube Excellence</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-perfect-your-presence-the-compreenas-guide-to-obs-youtube-and-twitch/"><u>[Updated] Perfect Your Presence The Compreenas Guide to OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-path-to-crafting-killer-podcast-names-plus-inspiration-sparks/"><u>[Updated] The Ultimate Path to Crafting Killer Podcast Names, Plus Inspiration Sparks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-toolwiz-analysis-revolutionizing-image-editing-on-the-go/"><u>[Updated] Toolwiz Analysis Revolutionizing Image Editing on the Go</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-sharpened-scene-during-google-meet-calls/"><u>2024 Approved Tips for Sharpened Scene During Google Meet Calls</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-digital-destinations-for-text-overlays/"><u>2024 Approved Ultimate Digital Destinations for Text Overlays</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/cartes-sd-et-cles-usb-prises-en-charge-offres-de-stock/"><u>Cartes SD Et Clés USB Prises en Charge - Offres De Stock</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/splitter-pro/"><u>ImageSplitter Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-hidden-potential-how-to-use-video-filters-on-zoom/"><u>In 2024, Unlocking Hidden Potential How To Use Video Filters on Zoom</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/overcoming-pc-setup-hurdles-installing-drivers-for-windows-1011-systems/"><u>Overcoming PC Setup Hurdles: Installing Drivers for Windows 10/11 Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-safari-problems-10-effective-strategies-for-iphones/"><u>Solve Your Safari Problems: 10 Effective Strategies for iPhones</u></a></li>
+</ul></div>
+
