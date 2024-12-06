@@ -1,7 +1,7 @@
 ---
 title: "ZDNET Explores AI & Emerging Technologies: Understanding the Implications of Gartner's 2"
-date: 2024-09-18 16:44:41
-updated: 2024-09-20 12:56:32
+date: 2024-12-05T16:23:27.651Z
+updated: 2024-12-06T16:45:06.286Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-herocam-pro-mastering-advanced-features/"><u>[New] HeroCam Pro Mastering Advanced Features</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-learn-the-art-of-skype-voice-recording-in-mp3-free-for-2024/"><u>[New] Learn the Art of Skype Voice Recording in MP3 (Free) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-steadicam-options-for-high-end-dslr-video-production/"><u>[New] The Best Steadicam Options for High-End DSLR Video Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-the-iphones-full-potential-with-10-composition-principles/"><u>[New] Unleashing the iPhone's Full Potential with 10 Composition Principles</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-unlocking-respectful-dialogue-a-strategy-guide-to-reporting-misconduct-in-online-communities/"><u>[Updated] 2024 Approved Unlocking Respectful Dialogue A Strategy Guide to Reporting Misconduct in Online Communities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-elevating-visual-communication-top-10-tools-for-vector-artists/"><u>[Updated] In 2024, Elevating Visual Communication Top 10 Tools for Vector Artists</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-navigate-hdri-windows-powered-editing-wonders/"><u>[Updated] Navigate HDRI Windows-Powered Editing Wonders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-17-best-apps-to-remove-image-background/"><u>2024 Approved 17 Best Apps to Remove Image Background</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-multitask-mastery-in-media-co-watching-channels-with-ease/"><u>2024 Approved Multitask Mastery in Media Co-Watching Channels with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-list-of-filmmaking-gear-for-newcomers/"><u>2024 Approved The Essential List of Filmmaking Gear for Newcomers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/charting-new-territories-leading-6-artists-in-nft-landscape-for-2024/"><u>Charting New Territories Leading 6 Artists in NFT Landscape for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-moto-g84-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-three-no-spend-ways-to-merge-movement-and-melodies-in-your-iphone-video-clips/"><u>In 2024, Three No-Spend Ways to Merge Movement and Melodies in Your iPhone Video Clips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-components-with-toms-hardware-guru-tips/"><u>Navigating the World of Components with Tom's Hardware Guru Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-world-of-srt-files-on-youtube-and-twitter-for-2024/"><u>Navigating the World of SRT Files on YouTube and Twitter for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streaming-perfection-best-practices-in-vr-gameplay-recording/"><u>Streaming Perfection Best Practices in VR Gameplay Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/synchronizing-airwaves-for-audience-gain-for-2024/"><u>Synchronizing Airwaves for Audience Gain for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/thank-you-in-motion-templates-for-every-budget-level-for-2024/"><u>Thank You in Motion Templates for Every Budget Level for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-checklist-for-internet-broadcast-preservation-for-2024/"><u>The Complete Checklist for Internet Broadcast Preservation for 2024</u></a></li>
+</ul></div>
+

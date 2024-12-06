@@ -1,7 +1,7 @@
 ---
 title: Mastering Hybrid Cloud Challenges with Red Hat's Enhanced Features in Latest Enterprise Linux Release | ZDNet
-date: 2024-09-17 23:24:19
-updated: 2024-09-20 11:51:44
+date: 2024-11-30T16:04:16.361Z
+updated: 2024-12-06T16:07:40.352Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-elevate-design-complimentary-cutting-edge-psd-texts/"><u>[New] 2024 Approved Elevate Design Complimentary, Cutting-Edge PSD Texts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-closing-with-panache-free-youtubes-1-six/"><u>[New] In 2024, Closing with Panache Free YouTube's #1 Six</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-walkthrough-for-movie-making-on-windows-8/"><u>[New] The Ultimate Walkthrough for Movie Making on Windows 8</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-transform-your-social-media-experience-livestream-fb-flawlessly-for-2024/"><u>[New] Transform Your Social Media Experience Livestream FB Flawlessly for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-turn-popular-tiktok-tracks-into-practical-personalized-ringtones/"><u>[New] Turn Popular TikTok Tracks Into Practical, Personalized Ringtones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-your-creativity-effective-techniques-for-crafting-podcast-scripts/"><u>[New] Unleash Your Creativity Effective Techniques for Crafting Podcast Scripts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uncover-the-secrets-of-your-off-facebook-life-with-us/"><u>[Updated] Uncover the Secrets of Your Off-Facebook Life with Us</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-guide-to-designing-personalized-instagram-ringtone/"><u>2024 Approved The Complete Guide to Designing Personalized Instagram Ringtone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/digiarty-pro-suite-discounts-elevate-your-artistic-skills-at-an-exclusive-price/"><u>DigiArty Pro Suite Discounts – Elevate Your Artistic Skills at an Exclusive Price!</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-correct-the-driver-power-state-malfunction-on-your-pc/"><u>Effective Solutions to Correct the Driver Power State Malfunction on Your PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-together-top-metaverse-multiplayer-joints/"><u>Exploring Together Top Metaverse Multiplayer Joints</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-13-pro-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 13 Pro to iPad? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-troubleshooting-iphone-x-regaining-access-via-facial-id/"><u>In 2024, Troubleshooting iPhone X Regaining Access via Facial ID</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-audio-interfaces-unveiled-the-podcasters-must-have-list-for-2024/"><u>Top Audio Interfaces Unveiled The Podcaster's Must-Have List for 2024</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-itel-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Itel</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-mastering-sound-essential-imovie-audio-enhancement-techniques-for-2024/"><u>Updated Mastering Sound Essential iMovie Audio Enhancement Techniques for 2024</u></a></li>
+</ul></div>
+

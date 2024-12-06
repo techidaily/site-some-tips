@@ -1,7 +1,7 @@
 ---
 title: "Securing Tomorrow's Tech: The Linux Foundations Initiative in Quantum-Resistant Cryptography"
-date: 2024-09-18 12:21:28
-updated: 2024-09-20 10:13:32
+date: 2024-12-03T19:03:37.211Z
+updated: 2024-12-06T16:10:24.271Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-professionals-insights-into-ios-recording/"><u>[New] 2024 Approved Professionals' Insights Into iOS Recording</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-8-step-formula-for-captivating-your-instagram-audience-with-reels/"><u>[New] In 2024, The 8-Step Formula for Captivating Your Instagram Audience with Reels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pros-cons-navigating-virtual-reality-worlds/"><u>[Updated] 2024 Approved Pros, Cons Navigating Virtual Reality Worlds</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-avoidance-techniques-no-more-fb-vlogs/"><u>[Updated] In 2024, Avoidance Techniques No More FB Vlogs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-sony-bdp-s3700-review-for-2024/"><u>[Updated] Sony BDP- S3700 Review for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-guide-to-video-editing-in-windows-8-movie-maker/"><u>2024 Approved The Complete Guide to Video Editing in Windows 8 Movie Maker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-strategies-for-impartiating-patient-narratives/"><u>2024 Approved Transformative Strategies for Impartiating Patient Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>2024 Approved Twitch vs YouTube An In-Depth Comparative Analysis</u></a></li>
+<li><a href="https://driver-error.techidaily.com/celebrating-connectivity-wacoms-win/"><u>Celebrating Connectivity: Wacom's Win</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-speech-to-text-processing-in-powerpoint/"><u>In 2024, Streamlining Speech-To-Text Processing in Powerpoint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-downsizing-pngjpeg-content-in-your-word-and-excel-docs/"><u>Step-by-Step Guide: Downsizing PNG/JPEG Content in Your Word and Excel Docs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-iphone-cinematography-transforming-fast-motion-into-sluggish-sequences-for-2024/"><u>The Art of iPhone Cinematography Transforming Fast Motion Into Sluggish Sequences for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-videos-with-the-right-dimension-proportions-for-2024/"><u>Transform Your Videos with the Right Dimension Proportions for 2024</u></a></li>
+</ul></div>
+

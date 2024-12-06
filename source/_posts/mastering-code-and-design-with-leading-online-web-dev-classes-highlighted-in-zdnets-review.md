@@ -1,7 +1,7 @@
 ---
 title: Mastering Code and Design with Leading Online Web Dev Classes, Highlighted in ZDNet's Review
-date: 2024-09-17 13:19:56
-updated: 2024-09-20 10:26:56
+date: 2024-11-29T18:42:42.311Z
+updated: 2024-12-06T16:34:11.488Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,23 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-civic-challenge-champions-premier-elections-videogames/"><u>[New] 2024 Approved Civic Challenge Champions Premier Elections Videogames</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-styling-secrets-with-a-diy-video-editing-guide/"><u>[New] Unlock Styling Secrets with a DIY Video Editing Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-the-potential-of-hero5-black-for-stunning-visuals/"><u>[New] Unlock the Potential of Hero5 Black for Stunning Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-threefold-way-to-extract-and-save-youtubes-subtitles-srt/"><u>2024 Approved The Threefold Way to Extract and Save YouTube's Subtitles (SRT)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-best-4k-monitors/"><u>2024 Approved Top 10 Best 4K Monitors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-y56-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo Y56 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-best-budget-friendly-amd-b550-motherboards-with-advanced-pci-express-40-performance/"><u>Discover the Best Budget-Friendly AMD B550 Motherboards with Advanced PCI Express 4.0 Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-amateur-vlogs-to-professional-gopro-cinematography-excellence/"><u>In 2024, From Amateur Vlogs to Professional GoPro Cinematography Excellence</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/livestream-excellence-unveiling-the-best-practices-for-facebook-recorders-for-2024/"><u>Livestream Excellence Unveiling the Best Practices for Facebook Recorders for 2024</u></a></li>
+</ul></div>
+

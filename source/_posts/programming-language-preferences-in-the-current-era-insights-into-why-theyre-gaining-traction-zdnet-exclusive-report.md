@@ -1,7 +1,7 @@
 ---
 title: "Programming Language Preferences in the Current Era: Insights Into Why They're Gaining Traction | ZDNet Exclusive Report"
-date: 2024-09-18 22:21:33
-updated: 2024-09-20 12:33:51
+date: 2024-12-03T17:53:08.524Z
+updated: 2024-12-06T17:36:46.243Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-amplify-audience-connection-best-creative-reacting-techniques/"><u>[New] 2024 Approved Amplify Audience Connection Best Creative Reacting Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-expert-director-sound-and-picture-synthesis/"><u>[New] Expert Director Sound & Picture Synthesis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ultimate-audio-harvesters-in-learning-spaces/"><u>2024 Approved Ultimate Audio Harvesters in Learning Spaces</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726218616272-wma-wav-movavi/"><u>網上無限制的 WMA 到 WAV 自動轉換 - 使用 Movavi 編譯器</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-recover-additional-soundtracks-from-videos-on-the-internet-efficiently/"><u>How to Recover Additional Soundtracks From Videos on the Internet Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-reduce-lag-and-boost-fps-in-genshin-impact-2024-tips/"><u>How to Reduce Lag & Boost FPS in Genshin Impact - 2024 Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-realme-12-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Realme 12 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-se-2022-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone SE (2022) and iPad</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tagging-and-title-strategies-for-youtube-success-stories/"><u>In 2024, Tagging and Title Strategies for YouTube Success Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4-to-aac-transformation-made-simple-convert-anytime-pay-nothing/"><u>MP4 to AAC Transformation Made Simple - Convert Anytime, Pay Nothing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-12-editing-tools-for-aspiring-vloggers-seeking-dynamic-visual-impact/"><u>Top 12 Editing Tools for Aspiring Vloggers Seeking Dynamic Visual Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-rapidamente-tus-videos-ogm-gratis-en-formatos-mov-mediante-el-servicio-en-linea-de-convertidor-de-videos-movavi/"><u>Transforma Rápidamente Tus Vídeos OGM Gratis en Formatos MOV Mediante El Servicio en Línea De Convertidor De Videos Movavi</u></a></li>
+</ul></div>
+

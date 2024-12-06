@@ -1,7 +1,7 @@
 ---
 title: "Uncovering the Ultimate AI Watermark Techniques: Insights From ZDNet"
-date: 2024-09-17 20:12:48
-updated: 2024-09-20 12:50:28
+date: 2024-11-30T19:23:38.416Z
+updated: 2024-12-06T18:11:57.562Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-optimal-gameplay-tools-on-the-big-screen/"><u>[New] Optimal Gameplay Tools on the Big Screen</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-stepwise-approach-to-designing-powerful-edu-vids-on-social-media-for-2024/"><u>[Updated] A Stepwise Approach to Designing Powerful Edu-Vids on Social Media for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-selecting-snug-winter-scenes-as-video-sets/"><u>[Updated] Selecting Snug Winter Scenes as Video Sets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-protect-your-privacy-why-you-should-avoid-sharing-your-personal-email-with-businesses/"><u>1. Protect Your Privacy: Why You Should Avoid Sharing Your Personal Email with Businesses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/august-9th-new-york-times-insight-decode-todays-424-connection-clues/"><u>August 9Th New York Times Insight: Decode Today’s #424 Connection Clues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avoid-these-5-mistakes-not-everything-should-be-stored-in-the-cloud/"><u>Avoid These 5 Mistakes - Not Everything Should Be Stored in the Cloud</u></a></li>
+<li><a href="https://some-tips.techidaily.com/chromes-new-feature-could-enable-direct-appreciation-payments-to-sites/"><u>Chrome's New Feature Could Enable Direct Appreciation Payments to Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/crack-the-puzzle-with-todays-nyt-july-11-connections-hints-and-answer-part-396/"><u>Crack the Puzzle with Today's NYT - July 11 Connections Hints and Answer, Part #396</u></a></li>
+<li><a href="https://some-tips.techidaily.com/defend-your-valuables-from-digital-intruders-safeguarding-automobiles-gadgets-key-security-and-payment-cards/"><u>Defend Your Valuables From Digital Intruders: Safeguarding Automobiles, Gadgets, Key Security, and Payment Cards</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/experiential-playground-vr-innovations/"><u>Experiential Playground VR Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fresh-take-on-video-ads-youtubes-latest-strategy-unveiled/"><u>Fresh Take on Video Ads: YouTube's Latest Strategy Unveiled</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-co-production-strategies-for-online-content-proliferation/"><u>In 2024, Co-Production Strategies for Online Content Proliferation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-amateur-to-expert-15-must-knows-in-tiktok-video-edits/"><u>In 2024, From Amateur to Expert 15 Must-Knows in TikTok Video Edits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-irresistible-article-announcer/"><u>In 2024, Irresistible Article Announcer</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/perfecting-your-shoot-selecting-quality-equipment/"><u>Perfecting Your Shoot Selecting Quality Equipment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-on-toms-tech-review/"><u>Top Picks on Tom's Tech Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-behind-the-google-pixel-tablets-impressive-performance/"><u>Unveiling the Secrets Behind the Google Pixel Tablet's Impressive Performance!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-free-wmv-video-editors-you-need-to-try-for-2024/"><u>Updated The Best Free WMV Video Editors You Need to Try for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-weekly-tech-update-unpacking-the-atandt-security-leak-and-exciting-releases-from-samsung/"><u>Your Weekly Tech Update: Unpacking the AT&T Security Leak & Exciting Releases From Samsung</u></a></li>
+</ul></div>
+

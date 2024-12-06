@@ -1,7 +1,7 @@
 ---
 title: "Explore Artificial Intelligence with Red Hat: Unveiling OpenShift Lightspeed for Enhanced Kubernetes Management | ZDNet"
-date: 2024-09-17 12:52:40
-updated: 2024-09-20 10:14:41
+date: 2024-12-05T19:58:20.322Z
+updated: 2024-12-06T19:54:23.015Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fast-tracking-social-scanning-mastering-fb-profiles-for-2024/"><u>[New] Fast-Tracking Social Scanning Mastering FB Profiles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-and-science-of-broadcasting-in-real-time/"><u>[New] The Art and Science of Broadcasting in Real Time</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-affordable-video-capture-maximum-potential-via-obs/"><u>[Updated] In 2024, Affordable Video Capture - Maximum Potential via OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-magic-behind-the-lens-iphone-xs-groundbreayer-camera-tech/"><u>[Updated] The Magic Behind the Lens IPhone X's Groundbreayer Camera Tech</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photo-perfection-seamless-text-integration-on-pc-and-mac-systems/"><u>2024 Approved Photo Perfection Seamless Text Integration on PC & Mac Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-ultimate-8-ranked-apps-mobile-video-tile-masters-freepaid/"><u>2024 Approved Unveiling the Ultimate #8 Ranked Apps Mobile Video Tile Masters (Free/Paid)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-vector-fundamentals-unpacked-for-novices-categories-and-software/"><u>2024 Approved Vector Fundamentals Unpacked for Novices, Categories & Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-pcs-wi-fi-up-and-running-download-the-latest-intel-wireless-drivers-for-windows/"><u>Get Your PC's Wi-Fi Up and Running: Download the Latest Intel Wireless Drivers for Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-make-a-video-from-photo-with-music/"><u>In 2024, Make a Video From Photo with Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-techniques-for-finding-no-cost-image-frame-films/"><u>In 2024, Techniques for Finding No-Cost Image Frame Films</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-motion-tracking-software-the-ultimate-2023-roundup-for-2024/"><u>New Motion Tracking Software The Ultimate 2023 Roundup for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-analysis-unveil-the-power-of-chatgpt/"><u>Revolutionizing Analysis: Unveil the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncovering-the-secret-code-how-to-find-a-macbooks-exact-model-and-serial-numbers/"><u>Uncovering the Secret Code: How to Find a MacBook's Exact Model and Serial Numbers</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Rethinking AI Development: Moving Beyond Traditional Language Models with Expert Insights From ZDNet"
-date: 2024-09-18 12:57:49
-updated: 2024-09-20 11:29:37
+date: 2024-12-02T18:41:28.374Z
+updated: 2024-12-06T19:57:51.132Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-art-of-changing-meeting-screens-on-microsoft-teams-for-2024/"><u>[Updated] The Art of Changing Meeting Screens on Microsoft Teams for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-spinning-indie-podcast-hits/"><u>[Updated] The Art of Spinning Indie Podcast Hits</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-post-mortem-punchlines-pro/"><u>2024 Approved Post-Mortem Punchlines Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-viewer-payouts-for-video-engagement/"><u>In 2024, Viewer Payouts for Video Engagement</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastering-live-streams-logitech-webcam-tips/"><u>Mastering Live Streams Logitech Webcam Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/power-protection-reviewed-cyberpowers-cp685avrg-a-no-fuss-basic-uninterruptible-power-supply-ups-that-delivers-results/"><u>Power Protection Reviewed: Cyberpower's CP685AVRG - A No-Fuss Basic Uninterruptible Power Supply (UPS) That Delivers Results</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamless-sync-solutions-how-to-transfer-songs-from-your-ipod-to-itunes-and-windows-11/"><u>Seamless Sync Solutions: How to Transfer Songs From Your iPod to iTunes & Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-digital-management-with-windows-automatic-file-disposal/"><u>Simplify Digital Management with Windows' Automatic File Disposal</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-free-dvd-ripping-tools-of-the-year-how-to-safely-rip-your-dvds-without-spending-a-penny/"><u>Top 10 Free DVD Ripping Tools of the Year: How to Safely Rip Your DVDs Without Spending a Penny</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tier-pdf-visual-improvements-for-2024/"><u>Top-Tier PDF Visual Improvements for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-closure-in-cyberspace-quest-for-2024/"><u>Unmatched Closure in Cyberspace Quest for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-snapchats-prominent-personalities-highlight-for-2024/"><u>Utilizing Snapchat's Prominent Personalities Highlight for 2024</u></a></li>
+</ul></div>
+

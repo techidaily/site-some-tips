@@ -1,7 +1,7 @@
 ---
 title: My Initial Test Leads to a Breakdown in the Latest Version of Google's AI Platform, Gemini
-date: 2024-09-18 18:24:50
-updated: 2024-09-20 12:30:21
+date: 2024-11-29T16:34:46.677Z
+updated: 2024-12-06T20:17:43.553Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-ensuring-authenticity-as-you-aspire-for-one-million-video-watches/"><u>[New] 2024 Approved Ensuring Authenticity as You Aspire for One Million Video Watches</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bring-out-the-splendor-in-your-iphone-reflections/"><u>[New] Bring Out the Splendor in Your iPhone Reflections</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-enhance-creative-freedom-the-ultimate-list-of-after-effects-plugins/"><u>[Updated] 2024 Approved Enhance Creative Freedom The Ultimate List of After Effects Plugins</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-a-natural-sound-curve-dimming-audio-smoothly/"><u>Achieving a Natural Sound Curve Dimming Audio Smoothly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprendre-le-fichier-wav-guide-complet-pour-les-amateurs-de-sons/"><u>Comprendre Le Fichier WAV: Guide Complet Pour Les Amateurs De Sons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-movavis-web-based-media-transformation-tool-for-hassle-free-mp3-audio-from-3gp-files-completely-gratis/"><u>Download Movavi's Web-Based Media Transformation Tool for Hassle-Free MP3 Audio From 3GP Files, Completely Gratis!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/formatos-gratuitos-para-la-conversion-de-archivos-mjpeg-en-linea-por-movavi/"><u>Formatos Gratuitos Para La Conversión De Archivos Mjpeg en Línea Por Movavi</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/raphic-top-insights-into-fifa-football-videos-on-youtube-for-2024/"><u>Infographic - Top Insights Into FIFA Football Videos On YouTube for 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/leveraging-cookiebot-technology-for-targeted-engagement-and-growth/"><u>Leveraging Cookiebot Technology for Targeted Engagement and Growth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-mxf-to-mp3-konvertor-vrije-online-herfiltering-veel-verschillende-formaten/"><u>Movavi MXF-to-MP3 Konvertor: Vrije Online Herfiltering - Veel Verschillende Formaten</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-authors-recommended-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>New Authors Recommended The Best Text Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/opus-ogg/"><u>모바일 가능, 무료: 웹 시청자를 위해 Opus Ogg 파일을 원근 보충하는 방법</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Expanding Horizons: Meta and AWS Strengthen Alliance to Boost PyTorch Usage - Insights From ZDNet"
-date: 2024-09-17 10:51:36
-updated: 2024-09-20 11:56:56
+date: 2024-12-03T17:45:22.058Z
+updated: 2024-12-06T16:22:33.148Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-key-approaches-to-enhance-vhs-photos-digitally-for-2024/"><u>[New] Key Approaches to Enhance VHS Photos Digitally for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-kids-and-newbies-the-best-10-drones-out-there/"><u>[New] Kids and Newbies The Best 10 Drones Out There</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-choices-premier-mac-video-capture-apps/"><u>[Updated] Top Choices Premier Mac Video Capture Apps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/counter-strike-2-launcher-and-game-freeze-problems-solutions/"><u>Counter Strike 2 Launcher & Game Freeze Problems - Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-reestablish-imessage-services-when-your-iphone-keeps-saying-youre-signed-out/"><u>How to Reestablish iMessage Services When Your iPhone Keeps Saying You're Signed Out</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-romer-rechargeable-flashlight-for-enhanced-outdoor-illumination/"><u>In-Depth Analysis: Romer Rechargeable Flashlight for Enhanced Outdoor Illumination</u></a></li>
+<li><a href="https://extra-support.techidaily.com/intensive-analysis-sonys-high-def-action-cam-for-2024/"><u>Intensive Analysis Sony's High-Def Action Cam for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-driver-download-for-samsung-m2070fw-easy-steps-inside/"><u>Speedy Driver Download for Samsung M2070FW – Easy Steps Inside</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-restoring-headphone-functionality-on-windows-11-systems/"><u>Step-by-Step Guide: Restoring Headphone Functionality on Windows 11 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-reasons-behind-my-choice-avoiding-iphone-and-ipad-applications-on-my-mac/"><u>The Reasons Behind My Choice: Avoiding iPhone and iPad Applications on My Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-essential-steps-for-optimizing-your-new-windows-pc/"><u>Top 8 Essential Steps for Optimizing Your New Windows PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-9-methods-for-accessing-powershell-on-windows-10/"><u>Top 9 Methods for Accessing PowerShell on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transitioning-kodi-the-shift-from-debian-packages-to-flatpak-on-linux-systems/"><u>Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-premium-mac-screens-and-monitors/"><u>Ultimate Selection: Premium Mac Screens and Monitors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-hidden-gems-essential-yet-overlooked-windows-shortcuts/"><u>Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-batch-files-a-comprehensive-guide-on-what-they-are-and-how-to-access-them/"><u>Understanding Batch Files: A Comprehensive Guide on What They Are & How To Access Them</u></a></li>
+</ul></div>
+

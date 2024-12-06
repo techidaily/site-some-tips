@@ -1,7 +1,7 @@
 ---
 title: Jim Zemlin of The Linux Foundation Reveals Insider Secrets on Successful Open-Source Strategies - Exclusive Interview
-date: 2024-09-17 20:34:26
-updated: 2024-09-20 10:28:51
+date: 2024-12-01T18:49:30.915Z
+updated: 2024-12-06T19:15:51.263Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-top-virtual-reality-vr-bikes-to-check-out/"><u>[New] Top Virtual Reality (VR) Bikes to Check Out</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-comprezyme-of-creativity-and-technique-dominating-instagram-interactions/"><u>A Comprezyme of Creativity and Technique Dominating Instagram Interactions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-dominates-the-2023-everest-group-id-5-assessment-peaking-with-excellence/"><u>ABBYY Dominates the 2023 Everest Group ID-5 Assessment, Peaking with Excellence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-welcomes-chip-vonburg-as-their-new-cco/"><u>ABBYY Welcomes Chip VonBurg as Their New CCO</u></a></li>
+<li><a href="https://some-tips.techidaily.com/augmenting-performance-by-70-deutsche-post-dhl-leverages-rpa-and-abbyys-intelligent-document-processor-for-enhanced-productivity/"><u>Augmenting Performance by 70%, Deutsche Post DHL Leverages RPA & ABBYY's Intelligent Document Processor for Enhanced Productivity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automation-and-the-future-redefining-repetitive-work-at-abbyy/"><u>Automation and the Future - Redefining Repetitive Work at ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-site-engagement-through-cookiebot-technology-the-secret-behind-customized-content-delivery/"><u>Boost Site Engagement Through Cookiebot Technology: The Secret Behind Customized Content Delivery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-traffic-with-our-cookiebot-enabled-optimization-tools/"><u>Boost Traffic with Our Cookiebot-Enabled Optimization Tools!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-pova-5-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Pova 5 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-13c-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi 13C 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-tips.techidaily.com/la-participation-dabbyy-a-la-conference-documation-2016-une-partenariat-strategique-avec-xerox-et-abildoc/"><u>La Participation D'ABBYY À La Conférence Documation 2016: Une Partenariat Stratégique Avec Xerox Et AbilDoc</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/master-the-art-of-upgrading-dvd-quality-a-complete-tutorial-on-achieving-1080p-hd-perfection/"><u>Master the Art of Upgrading DVD Quality: A Complete Tutorial on Achieving 1080P HD Perfection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-performance-in-policy-oversight-key-strategies-and-benefits-with-abbyy-automation-solutions/"><u>Maximizing Performance in Policy Oversight: Key Strategies and Benefits with ABBYY Automation Solutions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/pioneering-techniques-to-enhance-fb-video-ads-for-2024/"><u>Pioneering Techniques to Enhance Fb Video Ads for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-5-solutions-to-resolve-your-windows-10-audio-problems/"><u>Top 5 Solutions to Resolve Your Windows 10 Audio Problems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-nonfunctional-hardware-in-windows-11-8-or-7-driver-solutions-fixed/"><u>Troubleshoot Nonfunctional Hardware in Windows 11, 8 or 7: Driver Solutions [FIXED]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/viewing-the-dragons-discover-the-ideal-progression-of-how-to-train-your-dragon-films/"><u>Viewing the Dragons: Discover the Ideal Progression of How To Train Your Dragon Films</u></a></li>
+</ul></div>
+

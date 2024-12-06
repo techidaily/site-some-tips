@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Python Skills with LinkedIn's Complimentary AI Program – Transformative Results Unveiled on ZDNet
-date: 2024-09-19 17:10:20
-updated: 2024-09-20 12:35:23
+date: 2024-12-05T19:47:35.764Z
+updated: 2024-12-06T17:19:47.715Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-elite-selection-of-10-websites-offering-free-photos/"><u>[New] The Elite Selection of 10 Websites Offering FREE Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-finest-10-online-spots-to-download-pristine-photos/"><u>[New] The Finest 10 Online Spots to Download Pristine Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-cinematic-tales-in-documentary-scripts/"><u>[Updated] Crafting Cinematic Tales in Documentary Scripts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-run-a-sports-youtube-chain-on-macos/"><u>[Updated] How to Run a Sports YouTube Chain on MacOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-mastery-in-captioning-a-youtube-creators-handbook/"><u>[Updated] Mastery in Captioning A YouTube Creator's Handbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swap-periscopes-lens-innovative-video-platforms-for-smartphones/"><u>[Updated] Swap Periscope's Lens Innovative Video Platforms for Smartphones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-role-of-supplemental-imagery-in-storytelling/"><u>[Updated] The Role of Supplemental Imagery in Storytelling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-rated-traffic-cameras-for-automobiles-2023/"><u>2024 Approved Top-Rated Traffic Cameras for Automobiles 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beginners-guide-to-windows-11-audible-recording-for-2024/"><u>Beginner's Guide to Windows 11 Audible Recording for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/brilliant-strategies-for-instant-signature-cleanup/"><u>Brilliant Strategies for Instant Signature Cleanup</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/for-free-how-to-convert-twitter-videos-to-gifs-in-2024/"><u>For Free! How to Convert Twitter Videos to GIFS, In 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-joyfuljourney-sign-up-share-and-create-fun-videos/"><u>In 2024, JoyfulJourney Sign Up, Share and Create Fun Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-secrets-of-writing-impressive-podcast-summaries/"><u>In 2024, The Secrets of Writing Impressive Podcast Summaries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-converting-speech-to-text-with-google-docs-for-2024/"><u>Mastering the Art of Converting Speech to Text with Google Docs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/moto-cams-best-top-5-hats-for-riders-for-2024/"><u>Moto Cam's Best Top 5 Hats for Riders for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/egic-content-creation-unleashing-ideas-through-google-trends/"><u>Strategic Content Creation Unleashing Ideas Through Google Trends</u></a></li>
+<li><a href="https://windows11.techidaily.com/timely-troubleshooting-your-chrome-clock-glitch/"><u>Timely Troubleshooting: Your Chrome Clock Glitch</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1728464554689-windows-11-5/"><u>Windows 11文件恢復入门指南 - 5種無需費用錢的方法從删除中把握到你的文件</u></a></li>
+</ul></div>
+

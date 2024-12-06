@@ -1,7 +1,7 @@
 ---
 title: Introducing Copilot by Microsoft - Revolutionizing AI in Finance Chatbots | Discover Preview on ZDNet
-date: 2024-09-18 22:44:48
-updated: 2024-09-20 12:43:37
+date: 2024-12-02T18:06:13.012Z
+updated: 2024-12-06T16:53:49.243Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-prime-steadicam-devices-for-drones-in-filmmaking/"><u>[New] Prime Steadicam Devices for Drones in Filmmaking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-and-tricks-for-effortless-finding-exceptional-pexel-images/"><u>[Updated] Tips and Tricks for Effortless Finding Exceptional Pexel Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-your-tiktok-profile-altering-account-numbers/"><u>[Updated] Transforming Your TikTok Profile Altering Account Numbers</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1-efficient-strategies-for-selective-onedrive-folder-backups/"><u>1. Efficient Strategies for Selective OneDrive Folder Backups</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transitioning-smoothly-the-technology-enhancers-handbook/"><u>2024 Approved Transitioning Smoothly The Technology Enhancer's Handbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-sites-for-stylish-metallic-3d-text-artistry/"><u>2024 Approved Ultimate Sites for Stylish, Metallic 3D Text Artistry</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/28-top-10-ai-tools-for-professional-email-writing-and-management/"><u>28 Top 10 AI Tools for Professional Email Writing and Management</u></a></li>
+<li><a href="https://win-forum.techidaily.com/crear-tu-propia-animacion-de-navidad-guia-del-herramienta-creadora-de-diaporamas-para-festividades/"><u>Crear Tu Propia Animación De Navidad: Guía Del Herramienta Creadora De Diaporamas Para Festividades</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-y100i-phone-by-drfone-android/"><u>How to Reset a Locked Vivo Y100i Phone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-seamlessly-move-pictures-from-an-iphone-to-your-mac-10-tips-and-tricks/"><u>How to Seamlessly Move Pictures From an iPhone to Your Mac: 10 Tips and Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-investigating-diverse-google-ar-adornments/"><u>In 2024, Investigating Diverse Google AR Adornments</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-why-does-imovie-crop-my-videos/"><u>In 2024, Why Does iMovie Crop My Videos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209974030-9781612834542-super-tarot/"><u>Super Tarot | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-stream-reversal-manual-an-18-step-guide-to-control-your-broadcast-for-2024/"><u>The Stream Reversal Manual An 18-Step Guide to Control Your Broadcast for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-free-video-players-vlc-or-mpc-winner-in-2024/"><u>Top 5 Free Video Players VLC or MPC Winner, In 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-80s-effects-compendium-for-professional-editors-for-2024/"><u>Top 80S Effects Compendium for Professional Editors for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-spectrum-simple-fixes-for-perfect-photoshop-palette-adjustments-for-2024/"><u>Unveiling the Spectrum Simple Fixes for Perfect Photoshop Palette Adjustments for 2024</u></a></li>
+</ul></div>
+

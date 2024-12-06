@@ -1,7 +1,7 @@
 ---
 title: "Outdated Manual Methods Vs. Advanced AI Techniques: The Future of Intelligent Software Development Unveiled on ZDNET"
-date: 2024-09-17 11:42:54
-updated: 2024-09-20 10:43:14
+date: 2024-12-03T20:36:03.512Z
+updated: 2024-12-06T18:03:03.228Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-spark-interest-with-style-mixing-tiktoks-genius-techniques-for-insta/"><u>[New] In 2024, Spark Interest with Style Mixing TikTok's Genius Techniques for Insta</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-walkthrough-for-movie-making-on-windows-8/"><u>[Updated] In 2024, The Ultimate Walkthrough for Movie Making on Windows 8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-turn-your-iphone-vids-clockwise/"><u>[Updated] Turn Your iPhone Vids Clockwise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-high-def-dynamics-yi-hero-camera-review/"><u>[Updated] Unveiling High-Def Dynamics Yi Hero Camera Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expedite-your-content-with-smart-title-tools/"><u>2024 Approved Expedite Your Content With Smart Title Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-rated-budget-friendly-asmr-gear-for-superior-sound-quality/"><u>2024 Approved Top-Rated Budget-Friendly ASMR Gear for Superior Sound Quality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-tips-for-navigating-zoom-on-windows-11/"><u>Essential Tips for Navigating Zoom on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-metaverse-vr-gear-list-top-8-choices/"><u>In 2024, Ultimate Metaverse VR Gear List Top 8 Choices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722960271567-latest-rtx-2080-graphic-cards-drivers-available-download-now-for-all-windows-platforms/"><u>Latest RTX 2080 Graphic Cards Drivers Available: Download Now for All Windows Platforms!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/precision-leaders-best-7-shooting-adventures/"><u>Precision Leaders Best 7 Shooting Adventures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-e-learning-presentation-palette-for-2024/"><u>Top-Ranked E-Learning Presentation Palette for 2024</u></a></li>
+</ul></div>
+

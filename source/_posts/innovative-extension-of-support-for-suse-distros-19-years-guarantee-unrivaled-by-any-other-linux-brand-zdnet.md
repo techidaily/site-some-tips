@@ -1,7 +1,7 @@
 ---
 title: "Innovative Extension of Support for SUSE Distros: 19 Years Guarantee - Unrivaled by Any Other Linux Brand | ZDNet"
-date: 2024-09-17 11:47:35
-updated: 2024-09-20 10:56:19
+date: 2024-11-29T16:53:42.127Z
+updated: 2024-12-06T19:58:47.870Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-selecting-holy-songs-for-ringtone-amplification/"><u>[New] Selecting Holy Songs for Ringtone Amplification</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-transforming-ideas-into-visuals-the-template-method-for-impressive-tiktoks/"><u>[Updated] 2024 Approved Transforming Ideas Into Visuals The Template Method for Impressive TikToks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-deep-dive-into-sns-hdr-does-it-justify-its-cost/"><u>[Updated] A Deep Dive Into SNS HDR Does It Justify Its Cost?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ethical-implications-recording-whatsapp-calls-responsibly/"><u>[Updated] In 2024, Ethical Implications Recording WhatsApp Calls Responsibly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-premier-pc-companies-of-2/"><u>Discover the Premier PC Companies of 2</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/fast-tracking-tiktok-filming-the-ultimate-playbook-for-2024/"><u>Fast-Tracking TikTok Filming The Ultimate Playbook for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illustrate-with-precision-prime-ipados-design-apps/"><u>In 2024, Illustrate with Precision Prime iPadOS Design Apps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-x8b-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor X8b Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-oncology-center-enhances-treatment-outcomes-using-advanced-abbyy-idp-solutions/"><u>Innovative Oncology Center Enhances Treatment Outcomes Using Advanced ABBYY IDP Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-ways-to-enhance-your-websites-visibility-mastering-page-optimization/"><u>Innovative Ways to Enhance Your Website's Visibility: Mastering Page Optimization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-power-boosting-traffic-and-engagement/"><u>Optimize with Cookiebot Power: Boosting Traffic and Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/previsions-pour-lessor-de-la-main-doeuvre-numerique-dans-les-entreprises-plus-de-50-daugmentation-en-2021-etude-detaillee-par-abbyy/"><u>Prévisions Pour L'essor De La Main-D'oeuvre Numérique Dans Les Entreprises (Plus De 50% D'augmentation en 2021) – Étude Détaillée Par ABBYY</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/rapid-growth-on-youtube-harnessing-the-potential-of-outros-for-2024/"><u>Rapid Growth on YouTube Harnessing the Potential of Outros for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rapidez-au-detriment-de-la-souplesse-comment-lacceleration-du-processus-douanier-a-la-frontiere-royaume-uniue-affecte-le-commerce/"><u>Rapidez Au Détriment De La Souplesse : Comment L'accélération Du Processus Douanier À La Frontière Royaume-Uni/UE Affecte Le Commerce</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-dadoption-des-technologies-dans-lindustrie-de-lassurance-un-plan-detaille/"><u>Stratégies D'Adoption Des Technologies Dans L'Industrie De L'Assurance : Un Plan Détaillé</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-success-your-ultimate-roadmap-for-synchronizing-human-resources-procedures-and-information-in-automation/"><u>Streamlining Success: Your Ultimate Roadmap for Synchronizing Human Resources, Procedures & Information in Automation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/valider-les-pieces-didentite-a-distance-grace-a-la-technologie-de-reconnaissance-optique-de-caracteres-ocr-de-abbyy-avec-le-systeme-trustid-en-nuage/"><u>Valider Les Pièces D'identité À Distance Grâce À La Technologie De Reconnaissance Optique De Caractères (OCR) De ABBYY Avec Le Système TrustID en Nuage</u></a></li>
+</ul></div>
+

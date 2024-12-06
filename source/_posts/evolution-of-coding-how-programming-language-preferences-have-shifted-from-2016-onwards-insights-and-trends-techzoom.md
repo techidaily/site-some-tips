@@ -1,7 +1,7 @@
 ---
 title: "Evolution of Coding: How Programming Language Preferences Have Shifted From 2016 Onwards, Insights & Trends | TechZoom"
-date: 2024-09-18 16:59:45
-updated: 2024-09-20 11:22:13
+date: 2024-12-05T18:33:54.443Z
+updated: 2024-12-06T18:36:18.592Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-whatsapp-voice-chat-features/"><u>[New] Exploring WhatsApp Voice Chat Features</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-demystifying-the-mechanics-of-youtube-studio/"><u>[New] In 2024, Demystifying the Mechanics of YouTube Studio</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-video-monitors-face-off/"><u>[New] In 2024, Ultimate Video Monitors Face-Off</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-harness-free-fb-link-downloaders-for-2024/"><u>[Updated] Harness Free FB Link Downloaders for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-premium-roundup-best-3ds-on-pc-simulator-tools/"><u>[Updated] Premium Roundup Best 3Ds on PC Simulator Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movaviwtvmpgmp4/"><u>「Movaviプログラムを使用したオンデマンドWTVファイルからMPG/MP4への自由解放変換ガイド」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-f4v-avi/"><u>逐步指南：如何利用 Movavi 轉換器無限制地將 F4V 圖像翻轉成 AVI</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-avi-a-m2ts-gratuit-une-solution-simple-et-efficace-avec-convertim2ts-online/"><u>Conversion AVI À M2TS Gratuit - Une Solution Simple Et Efficace Avec ConvertiM2Ts Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuitas-conversor-de-mp4-para-wmv-online-utilizar-o-moviemaker-pelo-movavi/"><u>Gratuitas Conversor De MP4 Para WMV Online - Utilizar O MovieMaker Pelo Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/het-beste-software-voor-het-behandelen-van-stamppuntsproblemen-eenlijst/"><u>Het Beste Software Voor Het Behandelen Van Stamppuntsproblemen: Eenlijst!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/obs-security-overview-how-to-ensure-privacy-while-using-online-screen-recorder-movievi/"><u>OBS Security Overview: How to Ensure Privacy While Using Online Screen Recorder | Movievi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/score-free-beats-with-spotify-for-students-learn-how-here/"><u>Score Free Beats with Spotify for Students - Learn How Here!</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-disconnect-untrusted-users-from-windows-11/"><u>Techniques to Disconnect Untrusted Users From Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210279741-9781788600361-the-foundations-of-mastery/"><u>The Foundations of Mastery | Free Book</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-google-pixel-7a-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Google Pixel 7a</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-14-most-effective-slideshow-creators-for-windows-11-premium-presentation-tools-of-2024/"><u>Top 14 Most Effective Slideshow Creators for Windows 11 - Premium Presentation Tools of 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-free-sites-for-downloading-anime-without-spending-a-penny/"><u>Top 8 Free Sites for Downloading Anime Without Spending a Penny</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225349542-gsm-mp3-movavi/"><u>온라인 GSM MP3 프로세스를 간단한 방식으로 무료 변환 - Movavi</u></a></li>
+</ul></div>
+

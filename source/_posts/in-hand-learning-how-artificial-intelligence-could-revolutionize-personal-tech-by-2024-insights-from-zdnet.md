@@ -1,7 +1,7 @@
 ---
 title: "In-Hand Learning: How Artificial Intelligence Could Revolutionize Personal Tech by 2024 - Insights From ZDNet"
-date: 2024-09-19 23:38:52
-updated: 2024-09-20 10:41:43
+date: 2024-12-03T18:04:53.006Z
+updated: 2024-12-06T16:30:02.754Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-essential-blueprint-for-inspiring-valorant-video-thumbnails/"><u>[New] 2024 Approved The Essential Blueprint for Inspiring Valorant Video Thumbnails</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-broadcasting-vimeo-content-efficiently/"><u>[New] Broadcasting Vimeo Content Efficiently</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-timing-analysis-of-a-20mb-film/"><u>[New] In 2024, Timing Analysis of a 20MB Film</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-macpc-vmix-bridge-software/"><u>[New] MacPC VMix Bridge Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-compelling-vlog-dialogue-crafting/"><u>[Updated] The Art of Compelling Vlog Dialogue Crafting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-the-power-of-subtitling-an-online-tool-compendium/"><u>[Updated] Unleash the Power of Subtitling An Online Tool Compendium</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-dive-deep-into-the-world-of-timelapses-with-your-ipad/"><u>2024 Approved Dive Deep Into the World of Timelapses with Your iPad</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-episode-excellence-optimal-launch-windows/"><u>2024 Approved Episode Excellence Optimal Launch Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-first-steps-in-learning-av1-compression/"><u>2024 Approved First Steps in Learning AV1 Compression</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-time-honored-tricks-top-1980s-visual-effects-to-elevate-your-edits/"><u>2024 Approved Time-Honored Tricks Top 1980S Visual Effects to Elevate Your Edits</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-12-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 12 to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-y78-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo Y78 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-blueprint-for-transferring-large-videos-between-apple-devices/"><u>In 2024, The Ultimate Blueprint for Transferring Large Videos Between Apple Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-shooting-guide-to-immersive-video-top-9-techniques/"><u>In 2024, The Ultimate Shooting Guide to Immersive Video (Top 9 Techniques)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-professional-360-degree-cameras-2023-update/"><u>In 2024, Top 10 Professional 360 Degree Cameras -2023 Update</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-for-optimal-cloud-space-solutions/"><u>In 2024, Top Picks for Optimal Cloud Space Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-guide-to-integrating-music-and-editing-in-canva-vids-for-2024/"><u>The Guide to Integrating Music & Editing in Canva Vids for 2024</u></a></li>
+</ul></div>
+

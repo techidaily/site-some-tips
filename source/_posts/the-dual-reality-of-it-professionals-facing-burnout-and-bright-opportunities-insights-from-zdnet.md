@@ -1,7 +1,7 @@
 ---
 title: "The Dual Reality of IT Professionals: Facing Burnout and Bright Opportunities | Insights From ZDNet"
-date: 2024-09-19 23:57:20
-updated: 2024-09-20 11:32:35
+date: 2024-12-01T18:08:58.442Z
+updated: 2024-12-06T18:48:53.463Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>[New] Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-potential-of-zoom-meetings/"><u>[New] Unlocking the Potential of Zoom Meetings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unraveling-vrs-impact-on-digital-cinema/"><u>[New] Unraveling VR's Impact on Digital Cinema</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-step-by-step-guide-to-navigating-io-screener/"><u>2024 Approved Step-by-Step Guide to Navigating IO Screener</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-choice-of-steadicams-for-drone-video-shootings/"><u>2024 Approved Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/claim-your-exclusive-gift-of-xbox-dvd-player-limited-holiday-promotion/"><u>Claim Your Exclusive Gift of Xbox DVD Player - Limited Holiday Promotion!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-the-smart-innovations-of-dells-best-value-laptop-an-insightful-analysis-on-zdnet/"><u>Experience the Smart Innovations of Dell's Best-Value Laptop – An Insightful Analysis on ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-and-easy-download-ripit-software-seamless-dvd-ripping-for-windows-7810-users/"><u>Free & Easy: Download RipIt Software - Seamless DVD Ripping for Windows 7/8/10 Users</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-7-plus-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 7 Plus Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-internet-connection-speed-update-windows-driver-for-fast-usb-30-ethernet-adapter/"><u>Improve Internet Connection Speed - Update Windows Driver for Fast USB 3.0 Ethernet Adapter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-metaverse-and-multi-meva-split-an-exploratory-analysis/"><u>In 2024, The Metaverse & Multi-Meva Split An Exploratory Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-advanced-photo-tools-review/"><u>In 2024, Unveiling Advanced Photo Tools Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/real-time-broadcasting-excellence-connecting-via-wirecast-to-facebook-for-2024/"><u>Real-Time Broadcasting Excellence Connecting via Wirecast to Facebook for 2024</u></a></li>
+</ul></div>
+

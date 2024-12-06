@@ -1,7 +1,7 @@
 ---
 title: "Scaling Success Stories with Stack Overflow CTO: Navigating the Shift From Bootstrapping to Managing Web Giants – A ZDNet Feature"
-date: 2024-09-17 18:25:15
-updated: 2024-09-20 11:18:37
+date: 2024-12-05T18:21:24.957Z
+updated: 2024-12-06T16:52:54.741Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-how-to-record-screen-with-ezvid-video-maker/"><u>[New] In 2024, How to Record Screen with Ezvid Video Maker</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-silent-steppes-righteous-quests-games-like-the-samurai-odyssey-for-2024/"><u>[New] Silent Steppes, Righteous Quests Games Like the Samurai Odyssey for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-turbocharged-titans-compile-the-finest-srt-enhancements-for-pcs-and-macs/"><u>[New] Turbocharged Titans Compile the Finest SRT Enhancements for PCs & Macs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-brand-potential-top-terminology-for-impactful-campaigns/"><u>2024 Approved Unlock Brand Potential Top Terminology for Impactful Campaigns</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/clear-sight-tech-the-leading-10-mobile-phone-cameras-in-4k/"><u>Clear Sight Tech The Leading 10 Mobile Phone Cameras in 4K</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/curate-engaging-content-with-top-igtv-editor-tools-for-2024/"><u>Curate Engaging Content with Top IGTV Editor Tools for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/destiny-2-pc-edition-launch-fixed-no-more-trouble-starting-the-game/"><u>Destiny 2 PC Edition Launch Fixed - No More Trouble Starting the Game</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-is-here-high-resolution-video-on-nikon-j5/"><u>In 2024, The Future Is Here High-Resolution Video on Nikon J5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tone-and-pitch-control-on-chrome-os-select-the-best-online-speech-converters-for-2024/"><u>Tone and Pitch Control on Chrome OS Select the Best Online Speech Converters for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlimited-choice-in-free-personalized-outro-sounds-for-2024/"><u>Unlimited Choice in Free, Personalized Outro Sounds for 2024</u></a></li>
+</ul></div>
+

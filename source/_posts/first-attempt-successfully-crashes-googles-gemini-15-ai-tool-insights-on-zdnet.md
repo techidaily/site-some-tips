@@ -1,7 +1,7 @@
 ---
 title: First Attempt Successfully Crashes Google's Gemini 1.5 AI Tool | Insights on ZDNet
-date: 2024-09-17 16:17:43
-updated: 2024-09-20 10:56:54
+date: 2024-12-03T19:45:46.902Z
+updated: 2024-12-06T20:21:58.802Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-reviewing-tech-trends-the-vlle-method/"><u>[New] 2024 Approved Reviewing Tech Trends The VLLE Method</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unleashing-full-potential-nikon-1j5-in-4k-videography/"><u>[New] 2024 Approved Unleashing Full Potential Nikon 1J5 in 4K Videography</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-engaging-vlogger-subjects-each-day/"><u>[New] In 2024, Engaging Vlogger Subjects Each Day</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-perfect-snap-infusing-dynamic-blur-into-faces-through-picsart-editing/"><u>[New] The Perfect Snap Infusing Dynamic Blur Into Faces Through Picsart Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncover-the-full-potential-of-vitas-video-editor-comprehensive-guide-2024/"><u>[New] Uncover the Full Potential of Vita's Video Editor - Comprehensive Guide 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-leverage-editing-to-boost-youtube-profile-impact/"><u>[Updated] Leverage Editing to Boost YouTube Profile Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-obscured-oath-black-vs-the-illuminated-edict-silver/"><u>[Updated] The Obscured Oath (Black) VS The Illuminated Edict (Silver)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-screen-shot-ease-premium-free-software-for-desktop-recording-on-pcmac/"><u>2024 Approved Screen Shot Ease Premium FREE Software for Desktop Recording on PC/Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-potential-essential-windows-10-skills-review/"><u>2024 Approved Unleash Potential Essential Windows 10 Skills Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-earnings-go-up-with-500-subs/"><u>2024 Approved YouTube's Earnings Go Up With 500 Subs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcpx-audio-editing-essentials-l-cuts-j-cuts-and-more/"><u>New In 2024, FCPX Audio Editing Essentials L-Cuts, J-Cuts, and More</u></a></li>
+</ul></div>
+

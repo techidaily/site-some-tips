@@ -1,7 +1,7 @@
 ---
 title: "Cheap and Efficient: OpenAI Enhances Accessibility of Affordable GPT-4 Minimalist Version for Custom Tuning – Insights From ZDNet"
-date: 2024-09-19 13:50:32
-updated: 2024-09-20 11:21:35
+date: 2024-12-02T19:54:33.765Z
+updated: 2024-12-06T19:10:56.570Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-easy-to-implement-strategies-to-stand-out-with-sound-in-pubg-for-2024/"><u>[New] Easy-to-Implement Strategies to Stand Out with Sound in PUBG for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-videotwit-grabber-capture-tweets-visuals-for-ios/"><u>[New] In 2024, VideoTwit Grabber Capture Tweets' Visuals for iOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-computing-choices-the-finest-selection/"><u>[New] Premier Computing Choices The Finest Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-artistic-eye-with-toolwiz-an-in-depth-look-at-the-photosapp-2023-edition/"><u>[New] The Artistic Eye with Toolwiz An In-Depth Look at the PhotosApp, 2023 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-to-enhance-stability-of-win-11s-photo-viewer/"><u>[Updated] Strategies to Enhance Stability of Win 11'S Photo Viewer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-prodigy-strategies-for-enthusiasts-in-seo/"><u>2024 Approved Unveiling Prodigy Strategies for Enthusiasts in SEO</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-1603-deciphered-a-step-by-step-guide-to-solving-fatal-setup-issues/"><u>Error 1603 Deciphered: A Step-by-Step Guide to Solving Fatal Setup Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-redmi-a2plus-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Redmi A2+ Phone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-chromes-picture-in-picture-feature/"><u>In 2024, The Ultimate Guide to Chrome's Picture In Picture Feature</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-flawless-audio-performance-in-powerpoint-a-step-by-step-troubleshooting-guide/"><u>Unlock Flawless Audio Performance in PowerPoint: A Step-By-Step Troubleshooting Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Famous - Renowned
-date: 2024-09-17 10:10:51
-updated: 2024-09-20 11:37:45
+date: 2024-11-29T17:34:43.225Z
+updated: 2024-12-06T20:14:59.280Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-obs-settings-for-low-end-pcs/"><u>[New] Best OBS Settings for Low-End PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-savvy-editors-guide-to-3d-lut-innovation-in-photoshop/"><u>[New] The Savvy Editor's Guide to 3D LUT Innovation in Photoshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-film-transitions-and-sequences/"><u>[New] Top 10 Film Transitions and Sequences</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-step-by-step-guide-for-pcmac-movie-recording/"><u>[Updated] 2024 Approved Step-by-Step Guide for PC/Mac Movie Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-phones-that-seamlessly-integrate-with-the-latest-gear-vr/"><u>[Updated] Top Phones That Seamlessly Integrate with the Latest Gear VR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-vanguard-headgear-companies-for-vr/"><u>2024 Approved Vanguard Headgear Companies for VR</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-14-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 14 Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-cs-go-running-again-expert-strategies-for-fixing-startup-issues/"><u>Getting CS: Go Running Again - Expert Strategies for Fixing Startup Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-guide-to-creating-unique-tiktok-cover-art/"><u>In 2024, Guide to Creating Unique TikTok Cover Art</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-master-the-art-of-photo-purity-with-picart/"><u>In 2024, Master the Art of Photo Purity with PicArt</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-piecing-together-digital-images/"><u>In 2024, The Art of Piecing Together Digital Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-30-apps-for-audio-lovers/"><u>In 2024, Top 30 Apps for Audio Lovers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-ultimate-editor-sets-for-macos-sierra-users/"><u>In 2024, Unveiling the Ultimate Editor Sets for macOS Sierra Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726223090345-mov-gif-movavi/"><u>MOV 파일에서 무료 GIF화: 온라인 Movavi 도구</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-navigation-for-windows-iscsi-initiator-mastery/"><u>Step-by-Step Navigation for Windows iSCSI Initiator Mastery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-your-canon-shots-access-to-unlimited-free-and-purchasable-luts/"><u>Transform Your Canon Shots Access to Unlimited Free & Purchasable LUTs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-hp-omnibook-x-powerful-efficiency-and-a-remarkable-16-hour-battery-life-achievement/"><u>Unveiling the HP OmniBook X: Powerful Efficiency and a Remarkable 16-Hour Battery Life Achievement</u></a></li>
+</ul></div>
+

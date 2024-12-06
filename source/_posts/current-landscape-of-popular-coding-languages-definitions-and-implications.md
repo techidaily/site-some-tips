@@ -1,7 +1,7 @@
 ---
 title: "Current Landscape of Popular Coding Languages: Definitions and Implications."
-date: 2024-09-19 13:49:59
-updated: 2024-09-20 11:43:31
+date: 2024-11-30T17:58:19.181Z
+updated: 2024-12-06T17:09:18.286Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-premiere-pros-finest-10-text-plans/"><u>[New] 2024 Approved Premiere Pro's Finest 10 Text Plans</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tickletech-instant-creation-of-laughter-graphics/"><u>[New] TickleTech Instant Creation of Laughter Graphics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-6-digital-backdrop-eradicators-boosting-image-clarity/"><u>[New] Ultimate 6 Digital Backdrop Eradicators Boosting Image Clarity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-path-to-captivating-photographic-alliances/"><u>[New] Unveiling the Path to Captivating Photographic Alliances</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mastering-the-art-of-insta-top-gadgets-for-success/"><u>[Updated] In 2024, Mastering the Art of Insta Top Gadgets for Success</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-upgrade-to-high-quality-video-streaming-on-facebook/"><u>[Updated] In 2024, Upgrade to High-Quality Video Streaming on Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-insight-navigating-through-googles-podcast-app/"><u>[Updated] Total Insight Navigating Through Google's Podcast App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-amp-up-your-pixel-with-top-download-links/"><u>2024 Approved Amp Up Your Pixel with Top Download Links</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-12-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 12 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-system-calls-failure-on-windows-os/"><u>Eliminating System Calls Failure on Windows OS</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/explore-rbuk-felicity-themed-wallpapers-and-backgrounds-with-high-quality-visuals-by-yl-computing/"><u>Explore RBUK Felicity Themed Wallpapers & Backgrounds with High-Quality Visuals by YL Computing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-from-basic-to-brilliant-mastering-video-editing-effects-for-beginners-for-2024/"><u>New From Basic to Brilliant Mastering Video Editing Effects for Beginners for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-podcasts-for-apple-podcasts-for-2024/"><u>Streamline Your Podcasts for Apple Podcasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-podcasts-identity-with-ai-name-makers-for-2024/"><u>Transform Your Podcast's Identity with AI Name Makers for 2024</u></a></li>
+</ul></div>
+

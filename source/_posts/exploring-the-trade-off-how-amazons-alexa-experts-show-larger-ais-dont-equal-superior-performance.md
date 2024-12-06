@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Trade-Off: How Amazon's Alexa Experts Show Larger AIs Don't Equal Superior Performance"
-date: 2024-09-17 13:26:59
-updated: 2024-09-20 12:23:22
+date: 2024-11-29T19:07:01.761Z
+updated: 2024-12-06T20:27:45.554Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diving-deep-the-intricacies-of-the-mukbang-phenomenon/"><u>[Updated] 2024 Approved Diving Deep The Intricacies of the Mukbang Phenomenon</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-harmony-and-law-instagrams-music-codex/"><u>[Updated] Harmony & Law Instagram's Music Codex</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-overcoming-the-2023-facebook-security-breach/"><u>[Updated] Overcoming the 2023 Facebook Security Breach</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pixelhalve-critique/"><u>[Updated] PixelHalve Critique</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cambiar-formatos-de-video-f4v-a-avi-online-sin-costo-con-convertidor-de-movavi/"><u>Cambiar Formatos De Video F4V a AVI Online Sin Costo Con Convertidor De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-convertir-archivo-aac-en-mp3-sin-coste-gracias-a-la-herramienta-online-de-alta-calidad/"><u>Cómo Convertir Archivo AAC en MP3 Sin Coste Gracias a La Herramienta Online De Alta Calidad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-change-webm-files-into-mkv-format-with-ease/"><u>Free Online Converter: Change WebM Files Into MKV Format with Ease</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-lava-agni-2-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Lava Agni 2 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/incredible-drone-photoshoot-contenders-10/"><u>Incredible Drone Photoshoot Contenders #10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/innovation-hub-for-youtube-gurus/"><u>Innovation Hub for YouTube Gurus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-converter-online-free-convert-mov-files-to-ogg-format/"><u>Movavi - Converter Online FREE: Convert MOV Files to Ogg Format</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavirawjpeg/"><u>Movavi網站提供免費RAW格式到JPEG的直讀解析工具</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcodage-gratuit-en-ligne-de-fichiers-wmv-en-format-aac-avec-movavi-guide-complet/"><u>Transcodage Gratuit en Ligne De Fichiers WMV en Format AAC Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-tus-videos-mov-directamente-a-aac-sin-costo-con-el-servicio-online-de-movavi/"><u>Transforma Tus Videos MOV Directamente a AAC Sin Costo Con El Servicio Online De MOVavi</u></a></li>
+</ul></div>
+

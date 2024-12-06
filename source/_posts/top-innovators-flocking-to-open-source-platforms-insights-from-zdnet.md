@@ -1,7 +1,7 @@
 ---
 title: Top Innovators Flocking to Open Source Platforms - Insights From ZDNet
-date: 2024-09-18 20:39:10
-updated: 2024-09-20 10:20:23
+date: 2024-12-01T19:15:14.736Z
+updated: 2024-12-06T18:47:31.298Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boost-your-channels-top-5-youtube-tricks-for-increased-visibility-for-2024/"><u>[New] Boost Your Channels Top 5 YouTube Tricks for Increased Visibility for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-elevate-your-gopro-videos-with-simple-edits/"><u>[New] Elevate Your GoPro Videos with Simple Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-overcoming-iphone-camera-focusing-glitches/"><u>[New] Tips for Overcoming iPhone Camera Focusing Glitches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-youtube-potential-implementing-chapter-sections/"><u>[New] Unlocking YouTube Potential Implementing Chapter Sections</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quick-tips-capturing-overwatch-matches/"><u>[Updated] 2024 Approved Quick Tips Capturing Overwatch Matches</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-flying-selecting-the-best-drone-gimbals-today/"><u>[Updated] Innovative Flying Selecting the Best Drone Gimbals Today</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-premier-choices-for-accessible-screen-recorders-for-2024/"><u>[Updated] Premier Choices for Accessible Screen Recorders for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-image-transformation-with-3d-lut-in-photoshop/"><u>2024 Approved The Art of Image Transformation with 3D LUT in Photoshop</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oneplus-nord-ce-3-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your OnePlus Nord CE 3 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722902197732-how-to-fix-a-bad-gateway-or-503-error-on-your-site-quickly/"><u>How to Fix a 'Bad Gateway' Or 503 Error on Your Site Quickly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/top-10-drones-for-dynamic-cinematic-creations/"><u>Top 10 Drones for Dynamic Cinematic Creations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-mac-videography-tools-unleashed-in-sierra-os-for-2024/"><u>Top 5 Mac Videography Tools Unleashed in Sierra OS for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-secrets-to-craft-impeccable-timelapse-shots-with-gopro-for-2024/"><u>Unveiling Secrets to Craft Impeccable Timelapse Shots with GoPro for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/windows-11-user-guide-for-professional-audio-recording/"><u>Windows 11 User Guide for Professional Audio Recording</u></a></li>
+</ul></div>
+

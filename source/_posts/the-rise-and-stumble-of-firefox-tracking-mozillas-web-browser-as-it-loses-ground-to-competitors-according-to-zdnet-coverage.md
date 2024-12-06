@@ -1,7 +1,7 @@
 ---
 title: "The Rise and Stumble of Firefox: Tracking Mozilla's Web Browser as It Loses Ground to Competitors, According to ZDNet Coverage"
-date: 2024-09-19 19:12:54
-updated: 2024-09-20 12:10:55
+date: 2024-11-29T19:30:38.082Z
+updated: 2024-12-06T16:54:18.807Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-navigating-through-instagrams-new-trends/"><u>[New] In 2024, Navigating Through Instagram's New Trends</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unveiling-top-techniques-for-vhs-image-transformation/"><u>[New] In 2024, Unveiling Top Techniques for VHS Image Transformation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-superior-streaming-technologies-for-youtube-starters/"><u>[Updated] 2024 Approved Superior Streaming Technologies for YouTube Starters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-12-mp4-media-players-compatible-with-windows-11-8-7-and-macos-top-picks/"><u>Best 12 MP4 Media Players Compatible with Windows 11, 8, 7 & macOS: Top Picks!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bringing-advanced-language-models-to-apple-ecosystem-openais-technology-now-available-on-mac-ipad-and-iphone-zdnet/"><u>Bringing Advanced Language Models to Apple Ecosystem: OpenAI's Technology Now Available on Mac, iPad, and iPhone - ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertir-imagenes-de-formato-raf-a-jpeg-sin-coste-con-movavi/"><u>Convertir Imágenes De Formato RAF a JPEG Sin Coste Con Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dells-affordable-24-inch-freesync-display-now-only-99-shop-today/"><u>Dell's Affordable 24-Inch FreeSync Display Now Only $99 - Shop Today!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/easy-steps-transforming-your-old-vhs-tapes-into-digital-files-with-top-conversion-tools/"><u>Easy Steps: Transforming Your Old VHS Tapes Into Digital Files with Top Conversion Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-zte-nubia-z60-ultra-by-fonelab-android-recover-data/"><u>How to retrieve lost files from ZTE Nubia Z60 Ultra?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-untrustworthy-is-chatgpt-for-secrets/"><u>How Untrustworthy Is ChatGPT for Secrets?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-moto-g24-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-spark-10-4g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Spark 10 4G Device</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-real-time-broadcasting-excellence-connecting-via-wirecast-to-facebook/"><u>In 2024, Real-Time Broadcasting Excellence Connecting via Wirecast to Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-ferramenta-segura-e-facil-de-uso-para-converte-las-do-formato-bmp-para-png-sem-custo/"><u>Movavi: Ferramenta Segura E Fácil De Uso Para Convertê-Las Do Formato BMP Para PNG Sem Custo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-12-player-apps-com-suporte-a-formato-avi-descubra-o-que-e-xvid/"><u>Top 12 Player Apps Com Suporte a Formato AVI - Descubra O Que É XVID</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcode-avi-a-laide-de-wmv-gratuite-sur-internet-movavi/"><u>Transcode AVI À L'aide De WMV Gratuite Sur Internet - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforme-seus-videos-em-gifs-gratuitamente-on-line-usando-a-ferramenta-de-conversao-do-movavi/"><u>Transforme Seus Vídeos Em GIFs Gratuitamente On-Line Usando a Ferramenta De Conversão Do Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasforma-facilmente-i-tuoi-file-amr-in-mp3-con-questi-passaggi-semplici/"><u>Trasforma Facilmente I Tuoi File AMR in MP3 Con Questi Passaggi Semplici!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-premium-features-with-a-complimentary-videoeditorplus-access-claim-yours-now/"><u>Unlock Premium Features with a Complimentary VideoEditorPlus Access - Claim Yours Now!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "IOS 18.1 Preview: Apple's Enhanced AI Capabilities Unveiled - Discover the Latest Features for Your iPhone"
-date: 2024-09-18 20:26:37
-updated: 2024-09-20 11:17:52
+date: 2024-11-30T17:44:45.308Z
+updated: 2024-12-06T16:10:29.915Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-navigating-vector-editing-beyond-magixs-domain/"><u>[New] In 2024, Navigating Vector Editing Beyond Magix's Domain</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-swift-tweeting-solutions-with-video-conversion/"><u>[New] Swift Tweeting Solutions with Video Conversion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-the-lg-bp350-visual-experience/"><u>[New] Ultimate Guide to the LG BP350 Visual Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-inferno-captures-best-slow-motion-cameras/"><u>[Updated] In 2024, Inferno Captures Best Slow-Motion Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-macs-gif-mastery-top-10-recorder-guide-for-2024/"><u>[Updated] Mac's GIF Mastery Top 10 Recorder Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-hidden-techniques-for-private-anonymous-instagram-live-participation/"><u>[Updated] The Hidden Techniques for Private, Anonymous Instagram Live Participation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-insiders-guide-to-excellent-ppt-video-creation-for-2024/"><u>[Updated] The Insider's Guide to Excellent PPT Video Creation for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-erase-live-video-on-facebook-windows-android-tactics/"><u>2024 Approved Erase Live Video on Facebook Windows, Android Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-4-sites-for-free-skype-tones/"><u>2024 Approved Top 4 Sites for Free Skype Tones</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-premiere-ups-battery-backup-options-available/"><u>Comprehensive Review: Premiere UPS Battery Backup Options Available</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings/"><u>In 2024, The Ultimate Guide to Selecting Android and iOS Clocks for Weddings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-newbies-guide-to-understanding-core-filming-techniques-for-2024/"><u>The Newbie's Guide to Understanding Core Filming Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-techniques-to-run-imessage-on-your-windows-laptop-or-desktop/"><u>Unveiling Techniques to Run iMessage on Your Windows Laptop or Desktop</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unveiling-the-secrets-of-gopro-chrono-photography-for-2024/"><u>Unveiling the Secrets of GoPro Chrono Photography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/venture-into-virtual-reality-with-top-mobile-headsets-for-2024/"><u>Venture Into Virtual Reality with Top Mobile Headsets for 2024</u></a></li>
+</ul></div>
+

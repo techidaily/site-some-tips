@@ -1,7 +1,7 @@
 ---
 title: 1. Experience Classic Doom on the Modern Raspberry Pi Pico - A Comprehensive Guide
-date: 2024-09-19 17:37:33
-updated: 2024-09-20 10:22:21
+date: 2024-11-29T16:25:48.960Z
+updated: 2024-12-06T19:07:16.142Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tiktok-unboxing-hacks-spin-your-video-into-a-viral-hit/"><u>[New] TikTok Unboxing Hacks Spin Your Video Into a Viral Hit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unparalleled-8-visual-augmentations-for-live-cams/"><u>[New] Unparalleled 8 Visual Augmentations for Live Cams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieving-realistic-blur-on-images-using-photoshop-techniques/"><u>[Updated] Achieving Realistic Blur on Images Using Photoshop Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transformative-youtube-title-genesis-tools/"><u>[Updated] Transformative YouTube Title Genesis Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-preeminent-audience-alteration-tools-for-content-casters/"><u>2024 Approved Preeminent Audience Alteration Tools for Content Casters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unpacking-the-performance-a-complete-guide-to-lg-bp350-monitors/"><u>2024 Approved Unpacking the Performance A Complete Guide to LG BP350 Monitors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-advanced-vision-systems-with-green-promise/"><u>In 2024, Advanced Vision Systems with Green Promise</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-novice-to-expert-mastering-video-identity-on-youtube/"><u>In 2024, From Novice to Expert Mastering Video Identity on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-googles-ar-sticker-innovation/"><u>In 2024, Understanding Google's AR Sticker Innovation</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/no-pictures-on-your-card-discover-why-with-yl-softwares-guide/"><u>No Pictures on Your Card? Discover Why with YL Software's Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-an-unresponsive-iphone-control-center-try-these-8-proven-fixes/"><u>Struggling with an Unresponsive iPhone Control Center? Try These 8 Proven Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-power-to-create-personalized-whatsapp-alerts-for-2024/"><u>Unlock the Power to Create Personalized WhatsApp Alerts for 2024</u></a></li>
+</ul></div>
+

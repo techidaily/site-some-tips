@@ -1,7 +1,7 @@
 ---
 title: "Exploring AI, Rust Integration with Linux: Linus Torvalds Reveals Why He Believes It's the Heart of Computing | SiliconInnovations"
-date: 2024-09-19 10:20:56
-updated: 2024-09-20 11:11:27
+date: 2024-12-01T18:08:30.565Z
+updated: 2024-12-06T19:27:58.986Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-view-all-sharing-media-in-messenger-conversations/"><u>[New] View All Sharing Media in Messenger Conversations</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-discover-6-premier-nft-services-boosting-artist-imagination-for-2024/"><u>[Updated] Discover 6 Premier NFT Services Boosting Artist Imagination for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thinkers-arena-premier-gk-quiz-vids/"><u>[Updated] Thinkers’ Arena Premier GK Quiz Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-future-of-audio-extraction-with-pazera-tools-analysis/"><u>2024 Approved The Future of Audio Extraction with Pazera Tools Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-efficiently-using-look-up-tables-luts/"><u>2024 Approved The Ultimate Guide to Efficiently Using Look-Up Tables (LUTs)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-sound-in-windows-11-explained-for-2024/"><u>Capturing Sound in Windows 11 Explained for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-online-tool-transform-ts-files-into-gifs-with-ease-by-using-movavi-converter/"><u>Free Online Tool: Transform TS Files Into GIFs with Ease by Using Movavi Converter</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-g42-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia G42 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-f23-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo F23 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-driven-patient-recovery-paths-for-2024/"><u>Tech-Driven Patient Recovery Paths for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/viewership-victory-surpassing-500-subscriber-mark/"><u>Viewership Victory Surpassing 500 Subscriber Mark</u></a></li>
+</ul></div>
+

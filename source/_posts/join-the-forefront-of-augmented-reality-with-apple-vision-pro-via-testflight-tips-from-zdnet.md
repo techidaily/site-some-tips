@@ -1,7 +1,7 @@
 ---
 title: Join the Forefront of Augmented Reality with Apple Vision Pro via TestFlight – Tips From ZDNet
-date: 2024-09-19 23:25:49
-updated: 2024-09-20 10:34:20
+date: 2024-12-01T17:38:48.056Z
+updated: 2024-12-06T17:22:05.873Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-fundamentals-of-color-grading-using-luts-in-ae/"><u>[New] The Fundamentals of Color Grading Using LUTs in AE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-potential-advanced-tiktok-visual-enhancements/"><u>[New] Unleashing Potential Advanced TikTok Visual Enhancements</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-deleted-and-found-again-streaming-yts-forgotten-videos/"><u>[Updated] 2024 Approved Deleted and Found Again Streaming YT’s Forgotten Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-christian-ringtone-guide-selection-tips/"><u>[Updated] Christian Ringtone Guide – Selection Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-past-perspectives-unencumbered-visual-splendors/"><u>[Updated] Past Perspectives Unencumbered Visual Splendors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-srts-potential-in-subtitle-format-sub/"><u>[Updated] Unveiling SRT's Potential in Subtitle Format (SUB)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-visual-vibrancy-motion-blur-magic-in-adobe-illustrators/"><u>[Updated] Visual Vibrancy Motion Blur Magic in Adobe Illustrators</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-12-pro-max-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-f25-pro-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo F25 Pro 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-efficiency-boost-editing-on-magix-video-pro-x/"><u>In 2024, The Efficiency Boost Editing on Magix Video Pro X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-ios-auditory-options/"><u>In 2024, Top 10 iOS Auditory Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-online-platforms-for-youtube-media-growth/"><u>In 2024, Top Online Platforms for YouTube Media Growth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-virtual-reality-making-spherical-videos-on-iphone/"><u>In 2024, Unleashing Virtual Reality Making Spherical Videos on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-immersive-journeys-vr-tours-explained/"><u>In 2024, Unlocking Immersive Journeys VR Tours Explained</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-lava-storm-5g-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Lava Storm 5G.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-to-navigate-and-thrive-with-product-sponsors-on-youtube/"><u>Strategies to Navigate and Thrive with Product Sponsors on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fundamentals-of-human-interface-recognition-for-2024/"><u>The Fundamentals of Human Interface Recognition for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-loss-in-windows-11-effortless-resolution-steps/"><u>Troubleshooting Sound Loss in Windows 11 – Effortless Resolution Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-might-you-encounter-problems-with-video-playback-on-youtube/"><u>Why Might You Encounter Problems with Video Playback on YouTube?</u></a></li>
+</ul></div>
+

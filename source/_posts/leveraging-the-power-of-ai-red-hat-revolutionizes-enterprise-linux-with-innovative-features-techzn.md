@@ -1,7 +1,7 @@
 ---
 title: "Leveraging the Power of AI: Red Hat Revolutionizes Enterprise Linux with Innovative Features | TechZN"
-date: 2024-09-17 14:16:16
-updated: 2024-09-20 12:34:53
+date: 2024-12-01T17:10:37.040Z
+updated: 2024-12-06T20:16:21.758Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-flip-your-video-collection-in-a-flash/"><u>[New] 2024 Approved How to Flip Your Video Collection in a Flash</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-enhancing-gaming-experience-tools-beyond-microsofts-recorder-for-2024/"><u>[New] Enhancing Gaming Experience Tools Beyond Microsoft's Recorder for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-question-collection-for-lively-podcast-discussions/"><u>[New] Innovative Question Collection for Lively Podcast Discussions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-tomorrows-art-today-the-finest-9-resources-for-3d-typographic-exploration/"><u>[Updated] Crafting Tomorrow's Art Today The Finest 9 Resources for 3D Typographic Exploration</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-photo-editing-the-eraser-guide-in-psx/"><u>[Updated] Mastering Photo Editing The Eraser Guide in PSX</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tailoring-sound-fades-within-logic-pro-settings/"><u>[Updated] Tailoring Sound Fades Within Logic Pro Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-hidden-details-the-ultimate-guide-to-minecraft-zooming/"><u>[Updated] Unlock Hidden Details The Ultimate Guide to Minecraft Zooming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-inside-out-top-tips-for-windows-11-pros/"><u>2024 Approved Inside Out Top Tips for Windows 11 Pros</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tailored-techniques-for-dynamic-gifs/"><u>2024 Approved Tailored Techniques for Dynamic GIFs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-walkthrough-for-android-audio-personalization/"><u>2024 Approved The Complete Walkthrough for Android Audio Personalization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-professional-video-quality-with-obs-studios-lut-functionalities/"><u>2024 Approved Unlock Professional Video Quality with OBS Studio's LUT Functionalities</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/doubling-up-your-pdf-content-space-with-flipbuilder-easy-guide/"><u>Doubling Up Your PDF Content Space with FlipBuilder - Easy Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-iphone-utility-the-impact-of-integrating-googles-gemini-into-ios-insights-from-zdnet/"><u>Enhancing iPhone Utility: The Impact of Integrating Google's Gemini Into iOS - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-progressive-array-of-chat-initiators-for-attracting-podcast-audience/"><u>In 2024, Progressive Array of Chat-Initiators for Attracting Podcast Audience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-transferring-tunes-across-platforms/"><u>In 2024, The Essential Guide to Transferring Tunes Across Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-pathway-to-seamless-system-enhancement-in-macos-11-big-sur/"><u>In 2024, The Pathway to Seamless System Enhancement in macOS 11 Big Sur</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/monthly-earnings-from-youtube-for-creators/"><u>Monthly Earnings From YouTube for Creators</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-compatibility-problems-eliminating-fallout-3-hiccups-on-windows-11-operating-system/"><u>Overcoming Compatibility Problems: Eliminating Fallout 3 Hiccups on Windows 11 Operating System</u></a></li>
+</ul></div>
+

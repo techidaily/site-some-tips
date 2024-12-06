@@ -1,7 +1,7 @@
 ---
 title: "Uncovering the Extent of Political Deepfakes: Insights From a Leading AI Specialist - Featuring ZDNet Report"
-date: 2024-09-18 12:36:20
-updated: 2024-09-20 10:34:56
+date: 2024-12-01T19:37:35.753Z
+updated: 2024-12-06T18:37:32.726Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-start-with-crypto-and-nfts-your-simple-creation-plan/"><u>[New] Start with Crypto & NFTs Your Simple Creation Plan</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-podcast-scriptwriting-with-10plus-free-examples/"><u>[New] The Ultimate Guide to Podcast Scriptwriting (With 10+ Free Examples)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-to-download-youtubes-subtitles/"><u>[New] Unveiling the Secrets to Download YouTube's Subtitles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-complete-guide-to-morphvox-voice-changer/"><u>[Updated] In 2024, Complete Guide to MorphVOX Voice Changer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-video-conferencing-zooming-towards-youtube-streaming-excellence/"><u>[Updated] Mastering Video Conferencing Zooming Towards YouTube Streaming Excellence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-kid-friendly-drone-models-for-first-flights/"><u>[Updated] Top Kid-Friendly Drone Models for First Flights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-8-filter-trios-for-broadcast-excellence/"><u>2024 Approved Superior 8 Filter Trios for Broadcast Excellence</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-lava-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Lava</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-transforming-your-ifo-media-into-high-quality-mp4-using-windows-or-macos-systems/"><u>Easy Tutorial: Transforming Your IFO Media Into High-Quality MP4 Using Windows or macOS Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-advanced-computer-systems-through-toms-detailed-hardware-analysis/"><u>Explore Advanced Computer Systems Through Tom's Detailed Hardware Analysis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-reroutes-to-text-what-does-it-mean-for-your-contact-status/"><u>IMessage Reroutes to Text: What Does It Mean for Your Contact Status?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-how-to-for-ifunnys-meme-app/"><u>In 2024, The Ultimate How-To for iFunny's Meme App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-resource-list-of-3d-fonts-online/"><u>In 2024, Ultimate Resource List of 3D Fonts Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-professional-graphics-custom-templates-on-the-house/"><u>In 2024, Unlock Professional Graphics - Custom Templates on the House</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-utilizing-picture-in-picture-feature-across-all-chrome-devices/"><u>In 2024, Utilizing Picture In Picture Feature Across All Chrome Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-looking-for-a-change-top-10-adobe-premiere-elements-alternatives-to-consider/"><u>New Looking for a Change? Top 10 Adobe Premiere Elements Alternatives to Consider</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-rated-movie-trailer-apps-for-ios-devices-this-year-for-2024/"><u>New Top-Rated Movie Trailer Apps for iOS Devices This Year for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/top-6-complimentary-avi-video-splitter-tools-compatible-with-windows-macos-and-online-services/"><u>Top 6 Complimentary AVI Video Splitter Tools Compatible with Windows, macOS & Online Services</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unlockingfullpotentialwithyourcamrecorder-for-2024/"><u>UnlockingFullPotentialWithYourCamRecorder for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Top Trending Coding Languages and Their Impact on the Tech World – Insights From ZDNet
-date: 2024-09-18 18:44:44
-updated: 2024-09-20 12:11:19
+date: 2024-12-05T16:07:42.330Z
+updated: 2024-12-06T16:06:55.401Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-transform-your-fb-advertising-simplify-with-a-free-toolkit/"><u>[New] In 2024, Transform Your FB Advertising Simplify with a Free Toolkit</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-enhanced-clarity-clear-background-in-cam-recordings-for-2024/"><u>[Updated] Enhanced Clarity Clear Background in Cam Recordings for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-premier-6-platforms-for-video-localization/"><u>[Updated] In 2024, Premier 6 Platforms for Video Localization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-webmswf/"><u>網路上自由下載MOVAVI WebM到SWF的轉換工具</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726222800570-movavi/"><u>与 Movavi 精心设计的联锁营销 - 量身定制深度链接生成</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decouvrez-les-meilleures-versions-gratuites-de-convertisseur-mov-mac-oswindowsen-ligne-classement-des-experts/"><u>Découvrez Les Meilleures Versions Gratuites De Convertisseur MOV [Mac OS/Windows/En Ligne] : Classement Des Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/entendendo-o-formato-de-video-mov-tecnicas-para-abertura-e-conversao/"><u>Entendendo O Formato De Vídeo MOV: Técnicas Para Abertura E Conversão</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-avi-to-mp4-effortless-video-format-changing-with-movavi/"><u>Free Online Converter: AVI to MP4 - Effortless Video Format Changing with Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-camcorder-brands-for-clear-footage/"><u>In 2024, Premium Camcorder Brands for Clear Footage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-persuasion-in-marketing-for-2024/"><u>Mastering the Art of Persuasion in Marketing for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-clicks-big-grins-the-kinemaster-way-for-2024/"><u>Quick Clicks, Big Grins The KineMaster Way for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-libexec32dll-file-cannot-be-found-a-step-by-step-guide/"><u>Resolving the 'libexec32.dll' File Cannot Be Found: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/turning-off-talkback-a-users-manual-for-samsung-tv-voice-support/"><u>Turning Off Talkback: A User's Manual for Samsung TV Voice Support</u></a></li>
+</ul></div>
+

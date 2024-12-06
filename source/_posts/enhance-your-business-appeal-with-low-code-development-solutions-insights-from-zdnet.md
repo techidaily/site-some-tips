@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Business Appeal with Low-Code Development Solutions - Insights From ZDNet
-date: 2024-09-18 20:45:43
-updated: 2024-09-20 11:49:36
+date: 2024-12-04T19:24:54.639Z
+updated: 2024-12-06T16:38:03.559Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-googles-ar-sticker-innovation-an-inside-look-and-alternatives/"><u>[New] 2024 Approved Google's AR Sticker Innovation An Inside Look & Alternatives</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rafting-compelling-youtube-profile-definitions-for-2024/"><u>[New] Crafting Compelling YouTube Profile Definitions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-no-internet-full-fun-best-offline-gaming-on-mobile-devices-for-2024/"><u>[New] No Internet, Full Fun Best Offline Gaming on Mobile Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-past-facebook-feed-exploration-for-laptops-and-phones-for-2024/"><u>[Updated] Mastering Past Facebook Feed Exploration for Laptops and Phones for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-drone-captured-imagery-a-gimbal-journey/"><u>[Updated] Perfecting Drone-Captured Imagery A Gimbal Journey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-straightening-aerial-video-stability/"><u>[Updated] Techniques for Straightening Aerial Video Stability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-monitor-match-up-recommendations-for-top-tier-xbox-sx-experience/"><u>[Updated] Ultimate Monitor Match-Up Recommendations for Top-Tier Xbox SX Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-quick-windows-data-evaluation-guide/"><u>2024 Approved Quick Windows Data Evaluation Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-best-places-to-explore-vector-artwork-at-no-cost/"><u>2024 Approved Unlock the Best Places to Explore Vector Artwork at No Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-windows-11s-visual-capabilities-with-auto-hdr-mode-activation/"><u>2024 Approved Unlocking Windows 11'S Visual Capabilities with Auto HDR Mode Activation</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effortlessly-design-and-share-your-own-digital-flipbooks-as-ebooks-via-flipbuildercoms-user-friendly-platform/"><u>Effortlessly Design and Share Your Own Digital Flipbooks as eBooks via FlipBuilder.com's User-Friendly Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-key-to-smooth-auditory-transitions/"><u>In 2024, The Key to Smooth Auditory Transitions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-inshot-a-thorough-editor-investigation/"><u>In 2024, Unveiling InShot A Thorough Editor Investigation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-mastering-wax-a-step-by-step-guide-to-free-video-editing/"><u>New Mastering Wax A Step-by-Step Guide to Free Video Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-filmmaking-install-xps-media-tools-for-2024/"><u>Streamline Filmmaking Install XP's Media Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/studio-masterclass-journey-extended-xvideoexplore-for-2024/"><u>Studio Masterclass Journey Extended XVideoExplore for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-fabulous-best-video-special-effects-apps-for-iphone-and-android/"><u>Updated Free and Fabulous Best Video Special Effects Apps for iPhone and Android</u></a></li>
+</ul></div>
+

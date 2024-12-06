@@ -1,7 +1,7 @@
 ---
 title: "Boosting Enterprise AI Capabilities with Microsoft Azure's Latest Offerings: Models as a Service and Enhanced RAG Solutions"
-date: 2024-09-17 17:47:39
-updated: 2024-09-20 11:59:19
+date: 2024-12-04T19:10:06.970Z
+updated: 2024-12-06T16:32:16.107Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-2023s-leading-social-media-film-downloads-no-8/"><u>[New] 2024 Approved 2023'S Leading Social Media Film Downloads - No. 8</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-vlogger-professional-video-making-on-mobile-devices/"><u>[New] In 2024, From Novice to Vlogger Professional Video Making on Mobile Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-ai-photo-cutting-master/"><u>[New] Superior AI Photo Cutting Master</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-dynamic-duo-combining-multiple-photos-for-impactful-stories-for-2024/"><u>[Updated] Dynamic Duo Combining Multiple Photos for Impactful Stories for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-virtual-producer-duel/"><u>[Updated] In 2024, Virtual Producer Duel</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigating-away-from-youtube-penalties/"><u>[Updated] Navigating Away From YouTube Penalties</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-mastering-funimate/"><u>[Updated] The Art of Mastering Funimate</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unlocking-the-potential-of-minecraft-recording-with-macos-for-2024/"><u>[Updated] Unlocking the Potential of Minecraft Recording with MacOS for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveil-clarity-the-finest-10-online-editing-utilities-ranked/"><u>[Updated] Unveil Clarity The Finest 10 Online Editing Utilities Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-truth-apples-face-id-against-samsung-writers-face-matching/"><u>[Updated] Unveiling the Truth Apple's Face ID Against Samsung’ Writers' Face-Matching</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essence-of-color-in-photography-top-11-tutorials/"><u>2024 Approved The Essence of Color in Photography (Top 11 Tutorials)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-best-brain-teasers-selecting-prime-trivia-channels/"><u>In 2024, The Best Brain Teasers - Selecting Prime Trivia Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-next-chapter-of-cinema-vr-revolution/"><u>In 2024, The Next Chapter of Cinema VR Revolution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-fast-fixes-for-lost-reddit-content/"><u>In 2024, Unveiling Fast Fixes for Lost Reddit Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hots-of-success-jake-pauls-youtube-milestones/"><u>Snapshots of Success Jake Paul’s YouTube Milestones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-tecno-spark-20-proplus-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Tecno Spark 20 Pro+ Android SIM Unlock APK</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-guide-vmware-crashes-bsod-on-win11/"><u>Troubleshooting Guide: VMware Crashes, BSOD on Win11</u></a></li>
+</ul></div>
+

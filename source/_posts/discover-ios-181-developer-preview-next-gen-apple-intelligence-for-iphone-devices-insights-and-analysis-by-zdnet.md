@@ -1,7 +1,7 @@
 ---
 title: "Discover iOS 18.1 Developer Preview: Next-Gen Apple Intelligence for iPhone Devices | Insights & Analysis by ZDNet"
-date: 2024-09-19 18:21:12
-updated: 2024-09-20 11:50:23
+date: 2024-12-02T17:58:01.536Z
+updated: 2024-12-06T19:10:37.259Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ain-money-on-youtube-understanding-required-number-of-views/"><u>[New] Gain Money on YouTube Understanding Required Number of Views</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-samsungs-picture-editing-app/"><u>[New] The Ultimate Guide to Samsung's Picture Editing App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-workflow-harnessing-the-power-of-luts-in-adobe-suite/"><u>[New] Transform Your Workflow Harnessing the Power of LUTs in Adobe Suite</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-rogue-realms-decades-best-representation-for-2024/"><u>[Updated] Rogue Realms Decade’s Best Representation for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-shoppers-ultimate-list-of-top-rated-webcams/"><u>[Updated] Shopper’s Ultimate List of Top-Rated Webcams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-5-best-non-samsung-camera-picks-for-gear-enthusiasts/"><u>[Updated] Unveiling 5 Best Non-Samsung Camera Picks for Gear Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-showdown-gopro-max-360-vs-hero-11-analysis/"><u>2024 Approved The Ultimate Showdown GoPro Max 360 VS Hero 11 Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-and-tricks-for-effective-cd-handling-with-wmp/"><u>2024 Approved Tips & Tricks for Effective CD Handling with WMP</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-ultimate-rankings-top-11-streaming-audio-gear/"><u>2024 Approved Ultimate Rankings Top 11 Streaming Audio Gear</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-the-power-of-behavioral-tracking-with-cookiebot/"><u>Experience the Power of Behavioral Tracking with Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-iphone-snaps-into-stunning-hdr-photos/"><u>In 2024, Transform Your iPhone Snaps Into Stunning HDR Photos</u></a></li>
+<li><a href="https://win-able.techidaily.com/persistent-player-how-to-fix-launching-failures-in-persona-3-fes/"><u>Persistent Player? How to Fix Launching Failures in Persona 3 FES</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-updated-macbook-air-apple-introduces-13-and-15-models-featuring-the-powerful-m3-processor-key-updates-detailed-by-zdnet/"><u>Unveiling the Updated MacBook Air: Apple Introduces 13 & 15 Models Featuring the Powerful M3 Processor - Key Updates Detailed by ZDNet!</u></a></li>
+</ul></div>
+

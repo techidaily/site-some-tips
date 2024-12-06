@@ -1,7 +1,7 @@
 ---
 title: Gemini Vs. GPT-4 in a Battle of Expertise on Deep Learning AI - The Unexpected Victor!
-date: 2024-09-17 21:10:47
-updated: 2024-09-20 11:17:16
+date: 2024-12-04T20:31:16.985Z
+updated: 2024-12-06T17:55:25.203Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -56,6 +64,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -73,6 +85,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +96,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-streamlining-creation-youtube-video-editor-insights/"><u>[New] Streamlining Creation YouTube Video Editor Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unlocking-the-power-of-zoom-with-your-chrome-os-device-for-2024/"><u>[New] Unlocking the Power of Zoom with Your Chrome OS Device for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skyline-pixel-boost-pro-windowsmac-suite/"><u>[Updated] Skyline Pixel Boost Pro Windows/Mac Suite</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-watching-social-media-videos-on-appletv/"><u>[Updated] Watching Social Media Videos on AppleTV</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-top-5-tools-for-viewing-insta-stories-unseen/"><u>2024 Approved Top 5 Tools for Viewing Insta Stories Unseen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aac-in-mp4-omzetten-via-webservice-gratis-movavi-converter/"><u>AAC in MP4 Omzetten via Webservice - Gratis Movavi Converter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amv-vers-mp4-convertir-videos-en-ligne-gratuitement-avec-movevi/"><u>AMV Vers MP4 : Convertir Vidéos en Ligne Gratuitement Avec MoveVI!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cambiar-archivo-de-formato-mpe-a-imagen-animada-gif-sin-coste-convertidor-en-linea-por-converter/"><u>Cambiar Archivo De Formato MPE a Imagen Animada GIF Sin Coste - Convertidor en Línea Por Converter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-videos-to-mp3-for-free-with-movavis-mp4-to-mp3-online-tool/"><u>Convert Videos to MP3 for Free with Movavi's MP4 to MP3 Online Tool</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-backup-and-restore-for-display-configurations/"><u>Enabling Backup and Restore for Display Configurations</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-technique-of-cutting-out-images-without-backgrounds-using-excel-tools/"><u>Mastering the Technique of Cutting Out Images Without Backgrounds Using Excel Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/move-magic-mp3-transcoder-facili-trasformatori-multimediale-per-i-tuoi-file-audio/"><u>Move Magic MP3 Transcoder - Facili Trasformatori Multimediale per I Tuoi File Audio</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-6-tips-to-prevent-and-repair-mw2-game-crashes-on-windows-computers/"><u>Top 6 Tips to Prevent and Repair MW2 Game Crashes on Windows Computers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-video-editing-software-of-2024-how-to-pick-the-perfect-app/"><u>Top Rated Video Editing Software of 2024: How to Pick the Perfect App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp3-m4b-online/"><u>속도가 빨라진 MP3, M4B 바인드 강화 – 무료 Online 전환 기술</u></a></li>
+</ul></div>
+

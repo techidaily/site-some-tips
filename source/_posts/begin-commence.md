@@ -1,7 +1,7 @@
 ---
 title: Begin - Commence
-date: 2024-09-17 17:39:46
-updated: 2024-09-20 12:15:47
+date: 2024-11-30T18:25:48.530Z
+updated: 2024-12-06T20:05:19.148Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-streaming-powerhouses-face-off-streamlabs-versus-obs-analysis-for-2024/"><u>[New] Streaming Powerhouses Face-Off Streamlabs versus OBS Analysis for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-6-video-formats-for-captivated-audiences/"><u>[New] Top 6 Video Formats for Captivated Audiences</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-assessing-the-m1s-role-in-creative-media-editing/"><u>2024 Approved Assessing the M1's Role in Creative Media Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bast-gratis-video-konverterer-i-windows-utvalna-20-alternativ-for-1187/"><u>Bäst Gratis Video-Konverterer I Windows - Utvalna 20 Alternativ För 11/8/7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-free-on-line-da-wmv-a-ts-tramite-il-software-di-movavi-prova-ora-gratuitamente/"><u>Conversione Free On-Line Da WMV a TS Tramite Il Software Di Movavi - Prova Ora Gratuitamente</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/fa-tipsar-for-att-genomfora-gamen-skarmar-pa-windows-11-4-effektiva-strategier/"><u>Få Tipsar För Att Genomföra Gamen 'Skärmar' På Windows 11: 4 Effektiva Strategier</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-konverteren-van-mkv-naar-avi-professioneel-onlinetool-moveave/"><u>Gratis Konverteren Van MKV Naar AVI: Professioneel Onlinetool - Moveave</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/laugh-out-loud-meme-making-techniques-for-2024/"><u>Laugh Out Loud Meme-Making Techniques for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211107564-9781667462295-megan-et-la-vielle-dame/"><u>Megan et la Vielle Dame | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/png-tiff/"><u>PNG 및 TIFF 파일을 무료로 바꾸는 - 컴퓨터 화상 라이브리스</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamlessly-change-mka-audio-to-mp3-for-no-cost-online-with-moveavi/"><u>Seamlessly Change MKA Audio to MP3 for No Cost Online with MoveAVI</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1221629-9781780995601-shaman-pathways-elen-of-the-ways/"><u>Shaman Pathways - Elen of the Ways | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/syncing-files-across-mobile-platforms-to-windows/"><u>Syncing Files Across Mobile Platforms to Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformez-votre-video-flv-au-format-mp4-sans-frais-tutoriel-avant-premiere-avec-movavi/"><u>Transformez Votre Vidéo FLV Au Format MP4 Sans Frais - Tutoriel Avant-Première Avec Movavi</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/whole-world-capture-vs-increased-depth-perception/"><u>Whole World Capture Vs Increased Depth Perception</u></a></li>
+</ul></div>
+

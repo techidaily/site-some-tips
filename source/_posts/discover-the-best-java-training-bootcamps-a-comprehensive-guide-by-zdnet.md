@@ -1,7 +1,7 @@
 ---
 title: "Discover the Best Java Training Bootcamps : A Comprehensive Guide by ZDNet"
-date: 2024-09-18 12:37:43
-updated: 2024-09-20 12:49:10
+date: 2024-12-04T17:35:43.063Z
+updated: 2024-12-06T20:14:29.715Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-achieving-high-definition-zoom-calls-with-filter-skills/"><u>[New] 2024 Approved Achieving High-Definition Zoom Calls with Filter Skills</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-top-11-list-excellent-audio-devices/"><u>[New] Ultimate Top 11 List Excellent Audio Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-compreranstive-approach-to-high-fidelity-recording-no-mic-necessary/"><u>[Updated] A Compreranstive Approach to High-Fidelity Recording, No Mic Necessary</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-digital-artisans-exclusive-summit/"><u>[Updated] In 2024, Digital Artisans' Exclusive Summit</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-titans-the-most-shared-tweets/"><u>[Updated] Twitter Titans The Most Shared Tweets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4mkvavimp3/"><u>無限 MP4/MKV/AVI直接轉為MP3 - 移馳自由版音訊格式切換器</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227008786-pgmtiff-movavi/"><u>自由版移動網站：直接將PGM格式改為TIFF - Movavi提供解決方案</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-wav-files-to-au-format-free-online-movavi-converter/"><u>Convert WAV Files to AU Format Free Online - Movavi Converter</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-muted-mystery-resolving-sound-problems-on-iphones/"><u>Fixing the Muted Mystery: Resolving Sound Problems on iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/het-achteraf-het-beste-de-top-10-mp4-to-mp3-converters-voor-gemakkelijk-uitspraak/"><u>Het Achteraf Het Beste: De Top 10 MP4-to-MP3 Converters Voor Gemakkelijk Uitspraak</u></a></li>
+<li><a href="https://article-tips.techidaily.com/leading-external-hdds-and-dvd-drives-2024-edition/"><u>Leading External HDDs and DVD Drives: 2024 Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/lightweight-travel-bags-with-camera-integration-for-2024/"><u>Lightweight Travel Bags with Camera Integration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-photo-viewer-apps-para-usar-en-windows-10/"><u>Top Rated Photo Viewer Apps Para Usar en Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-archivo-nef-a-foto-jpeg-directamente-en-la-web-servicio-gratis-de-conversion-por-movavi/"><u>Transformar Archivo NEF a Foto JPEG Directamente en La Web - Servicio Gratis De Conversión Por Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/wim-file-unpacking-guide-free-methods-to-access-and-extract-contents/"><u>WIM File Unpacking Guide: Free Methods to Access and Extract Contents</u></a></li>
+</ul></div>
+

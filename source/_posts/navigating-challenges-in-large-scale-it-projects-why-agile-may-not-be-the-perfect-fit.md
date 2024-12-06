@@ -1,7 +1,7 @@
 ---
 title: "Navigating Challenges in Large-Scale IT Projects: Why Agile May Not Be the Perfect Fit"
-date: 2024-09-18 17:32:56
-updated: 2024-09-20 12:27:30
+date: 2024-12-01T17:37:08.443Z
+updated: 2024-12-06T19:24:17.966Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-arctic-athleticism-winter-olympics-spotlight-on-snowboard-cross-stars/"><u>[New] 2024 Approved Arctic Athleticism Winter Olympics Spotlight on Snowboard Cross Stars</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-transformation-of-windows-10-landscape/"><u>[New] The Transformation of Windows 10 Landscape</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-10-stabilized-video-makers/"><u>[New] Ultimate Guide to 10 Stabilized Video Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-color-grading-with-luts-in-pscc/"><u>[New] Unlocking Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-from-good-to-great-elevating-your-ads-facebook-impact/"><u>[Updated] From Good to Great Elevating Your Ads' Facebook Impact</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-gameplay-in-focus-scrutinizing-screen-recorders/"><u>[Updated] Gameplay in Focus Scrutinizing Screen Recorders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-grab-tailor-made-cost-free-outro-videos/"><u>[Updated] Grab Tailor-Made, Cost-Free Outro Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-real-time-collage-wizardry-tips-and-tricks/"><u>[Updated] Real-Time Collage Wizardry Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-elite-circle-of-online-av-masters/"><u>[Updated] The Elite Circle of Online AV Masters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tickle-tycoon-picture-builder/"><u>[Updated] Tickle Tycoon Picture Builder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-action-on-slow-footage-with-best-apps/"><u>2024 Approved Swift Action on Slow Footage with Best Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unparalleled-background-music-compilation/"><u>2024 Approved Unparalleled Background Music Compilation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-powerhouses-of-vr-engine-technology/"><u>2024 Approved Unveiling the Powerhouses of VR Engine Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-xbox-gameplay-to-discord-audiences/"><u>Connecting Xbox Gameplay to Discord Audiences</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-potential-for-videos-amassing-1-million-views/"><u>Earning Potential for Videos Amassing 1 Million Views</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-the-canon-mf743cdw-driver-for-optimal-windows-compatibility/"><u>How to Download and Install the Canon MF743CDW Driver for Optimal Windows Compatibility</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-honor-magic5-ultimate-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Honor Magic5 Ultimate Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-poco-m6-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Poco M6 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-glamour-videos-for-2024/"><u>The Art of Glamour Videos for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Potentials for Apple Enthusiasts: Complimentary AI Integration in Programming Tools | Insights by ZDNET!"
-date: 2024-09-19 17:56:19
-updated: 2024-09-20 11:14:51
+date: 2024-12-03T19:27:42.285Z
+updated: 2024-12-06T19:09:53.895Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-superior-imaging-why-hdr-sets-the-standard-over-sdr/"><u>[New] Superior Imaging Why HDR Sets the Standard Over SDR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-display-decoded-benqs-bl2711u-and-its-professional-impact/"><u>[New] The Ultimate Display Decoded BenQ’s BL2711U and Its Professional Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-picks-unleash-creativity-with-free-text-visualizers-online/"><u>[New] Top Picks Unleash Creativity with Free Text Visualizers Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-2024-general-facts-challenge-videos/"><u>[Updated] Top 2024 General Facts Challenge Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-transformative-videography-revolutionary-mac-edits-to-elevate-tiktok-videos-for-2024/"><u>[Updated] Transformative Videography Revolutionary Mac Edits to Elevate TikTok Videos for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/5raw/"><u>5効果的な手順でRAWドライブの復元方法</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/decoding-the-samsung-galaxy-s21-experience-is-it-a-simplified-masterpiece/"><u>Decoding the Samsung Galaxy S21 Experience: Is It a Simplified Masterpiece?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-experts-take-on-vivacut-full-video-editing-review-24/"><u>In 2024, Expert's Take on VivaCut Full Video Editing Review '24</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>In 2024, The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-depth-look-at-voice-memo-features-on-your-ios-device/"><u>In-Depth Look at Voice Memo Features on Your iOS Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-noobs-manual-to-saving-streaming-radio-lines-for-2024/"><u>The Noob's Manual to Saving Streaming Radio Lines for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windows-server-201n-r2/"><u>Windows Server 201N R2 - 失われたデータの回復手順</u></a></li>
+</ul></div>
+

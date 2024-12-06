@@ -1,7 +1,7 @@
 ---
 title: Open Source AI Definition Progresses Significantly, Yet Faces Opposition | ZDNet
-date: 2024-09-19 23:51:27
-updated: 2024-09-20 10:58:52
+date: 2024-12-02T20:15:36.914Z
+updated: 2024-12-06T16:57:31.497Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-peak-performance-frames-per-second-slow-motion/"><u>[Updated] In 2024, Peak Performance Frames Per Second Slow Motion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-seamless-screen-capture-software-w10-edition/"><u>[Updated] In 2024, Seamless Screen Capture Software, W10 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-androids-premium-music-video-watching-apps/"><u>[Updated] The Ultimate Guide to Android's Premium Music Video Watching Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-best-apps-to-master-sound-transformation/"><u>[Updated] Unveiling the Best Apps to Master Sound Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-rapid-windows-photo-examiner-for-enhanced-efficiency/"><u>2024 Approved Rapid Windows Photo Examiner for Enhanced Efficiency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-shining-up-your-android-videos-effortlessly/"><u>2024 Approved Shining Up Your Android Videos Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-gopro-studio-steps-for-time-lapse-magic/"><u>2024 Approved Ultimate GoPro Studio Steps for Time Lapse Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-meme-design-masterpieces/"><u>2024 Approved Ultimate List Meme Design Masterpieces</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/hastening-social-media-sharing-between-fb-and-tiktok/"><u>Hastening Social Media Sharing Between FB and TikTok</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-essential-tablets-for-enhancing-photos-move-past-filmora/"><u>In 2024, Essential Tablets for Enhancing Photos Move Past Filmora</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-definitive-guide-to-iphone-photomosaic-creation-collage/"><u>In 2024, The Definitive Guide to iPhone Photomosaic Creation (Collage)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-memory-support-for-sony-alpha-7sii/"><u>Optimal Memory Support for Sony Alpha 7SII</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y77t-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y77t Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-fixing-a-loud-computer-fan-easy-diy-solutions/"><u>Troubleshooting and Fixing a Loud Computer Fan - Easy DIY Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-y200-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo Y200 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
+

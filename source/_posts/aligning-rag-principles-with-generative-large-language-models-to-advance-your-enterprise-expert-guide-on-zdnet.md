@@ -1,7 +1,7 @@
 ---
 title: Aligning RAG Principles with Generative Large Language Models to Advance Your Enterprise - Expert Guide on ZDNET
-date: 2024-09-19 22:55:27
-updated: 2024-09-20 10:13:46
+date: 2024-12-03T19:00:04.777Z
+updated: 2024-12-06T17:41:32.066Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-maximizing-tv-viewership-for-facebook-live-events/"><u>[New] 2024 Approved Maximizing TV Viewership for Facebook Live Events</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ecoding-youtubes-intricate-view-count-mechanics-for-2024/"><u>[New] Decoding YouTube's Intricate View Count Mechanics for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-effective-social-crossposting-from-twitch-to-fb-for-2024/"><u>[New] Effective Social Crossposting From Twitch to FB for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-artisans-guide-to-creating-sound-alterations-without-cost/"><u>[New] The Artisan's Guide to Creating Sound Alterations Without Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-images-into-textbooks-photo-text-editor-hacks/"><u>[Updated] Transform Images Into Textbooks Photo Text Editor Hacks</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comparing-sound-quality-google-nest-audio-vs-nest-mini/"><u>Comparing Sound Quality: Google Nest Audio Vs. Nest Mini</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-installing-corsair-void-pro-drivers-seamlessly-with-windows-os/"><u>Guide to Installing Corsair Void Pro Drivers Seamlessly with Windows OS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/highpoint-artist-suite-evaluation-for-2024/"><u>Highpoint Artist Suite Evaluation for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-finding-the-ultimate-video-solution-vlc-and-mx-showdown/"><u>In 2024, Finding the Ultimate Video Solution VLC and MX Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-prime-windows-10-photoviewing-suite/"><u>In 2024, Prime Windows 10 Photoviewing Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-quintessential-quest-for-quality-storytellers-top-8-institutions/"><u>In 2024, The Quintessential Quest for Quality Storytellers – Top 8 Institutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sync-shutter-speed-blur-artistry-in-photoshop-for-2024/"><u>Sync Shutter Speed Blur Artistry in Photoshop for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/taking-control-with-microsoft-how-experiencing-surface-pro-and-laptop-made-me-say-goodbye-to-my-apple-devices/"><u>Taking Control with Microsoft: How Experiencing Surface Pro and Laptop Made Me Say Goodbye to My Apple Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uniting-realms-a-comparative-study-of-mr-ar-and-vr-technologies-for-2024/"><u>Uniting Realms A Comparative Study of MR, AR, and VR Technologies for 2024</u></a></li>
+</ul></div>
+

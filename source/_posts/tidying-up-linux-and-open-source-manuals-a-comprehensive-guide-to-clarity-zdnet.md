@@ -1,7 +1,7 @@
 ---
 title: "Tidying Up Linux & Open Source Manuals: A Comprehensive Guide to Clarity | ZDNet"
-date: 2024-09-17 11:48:56
-updated: 2024-09-20 12:17:18
+date: 2024-12-03T17:53:51.193Z
+updated: 2024-12-06T17:38:55.026Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-amplify-volume-for-twitters-silent-videos-for-2024/"><u>[New] Amplify Volume for Twitter's Silent Videos for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bring-life-into-your-photos-with-these-top-11-tutorials/"><u>[New] Bring Life Into Your Photos with These Top 11 Tutorials</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-enriched-browsing-experience-with-these-top-5-chrome-tools/"><u>[Updated] Enriched Browsing Experience with These Top 5 Chrome Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-premier-hashtag-analysis-apps-on-popular-platforms-like-fb-twt-and-ig/"><u>[Updated] In 2024, Premier Hashtag Analysis Apps on Popular Platforms Like FB, Twt & IG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amo/"><u>/Amo</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-graphics-cards-beyond-nvidias-rtx-4060-ti/"><u>Best Graphics Cards: Beyond Nvidia's RTX 4060 Ti</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertir-jpeg-a-png-de-forma-gratuita-en-linea-con-herramientas-de-conversion-rapidas/"><u>Convertir JPEG a PNG De Forma Gratuita en Línea Con Herramientas De Conversión Rápidas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convierte-tus-archivos-de-pelicula-mp4-al-formato-ogg-sin-gastar-soluciones-de-conversion-en-linea/"><u>Convierte Tus Archivos De Película MP4 Al Formato Ogg Sin Gastar: Soluciones De Conversión en Línea</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convierte-tus-documentos-caf-sin-coste-uso-libre-y-facil-con-movavi-solutions/"><u>Convierte Tus Documentos CAF Sin Coste: Uso Libre Y Fácil Con Movavi Solutions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/efficient-methods-for-restoring-data-on-large-2tb-external-hdds/"><u>Efficient Methods for Restoring Data on Large (2TB) External HDDs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-6-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone 6 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-silence-fixing-the-voice-chat-glitches-on-call-of-dutys-latest-game/"><u>No More Silence: Fixing the Voice Chat Glitches on Call of Duty's Latest Game</u></a></li>
+<li><a href="https://some-tips.techidaily.com/troubleshoot-immediately-why-isnt-your-audacity-session-picking-up-sound/"><u>Troubleshoot Immediately: Why Isn't Your Audacity Session Picking Up Sound?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/visionaryvideoeditor-thorough-breakdown-and-opinions-for-2024/"><u>VisionaryVideoEditor Thorough Breakdown & Opinions for 2024</u></a></li>
+</ul></div>
+

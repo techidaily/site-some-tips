@@ -1,7 +1,7 @@
 ---
 title: Exploring the Top Trending Programming Languages of Today and Their Significance
-date: 2024-09-18 11:23:42
-updated: 2024-09-20 11:56:48
+date: 2024-12-01T18:57:54.832Z
+updated: 2024-12-06T19:54:01.292Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-adapt-images-to-any-size-on-your-iphone-instantly/"><u>[New] Adapt Images to Any Size on Your iPhone Instantly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-groundbre-folio-of-gaming-loggers-alternatives-to-fbx/"><u>[New] In 2024, Groundbre Folio of Gaming Loggers Alternatives to FBX</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-behind-the-drone-a-close-look-at-dji-phantom-3-pros-features/"><u>[Updated] Behind the Drone A Close Look at DJI Phantom 3 Pro's Features</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-cheap-yet-good-quality-cameras-reviewed-here/"><u>[Updated] Cheap Yet Good Quality Cameras Reviewed Here</u></a></li>
+<li><a href="https://some-tips.techidaily.com/100-turk-denetin-altinda-movavi-video-suiteyi-satin-al-boyle-kazancli-teknik-sistemler/"><u>100% Türk Denetin Altında Movavi Video Suite'yi Satın Al - Böyle Kazançlı Teknik Sistemler</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726222718774-3g-2-movavi/"><u>免費在線3G-2規格影片切換服務 - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-convertir-facilmente-tus-videos-mp4-por-el-internet-sin-costo-paso-a-paso-con-movavi/"><u>Cómo Convertir Fácilmente Tus Vídeos MP4 Por El Internet Sin Costo, Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-frames-top-online-resources-for-picture-edits/"><u>Discover Frames Top Online Resources for Picture Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-mp3-to-mpg-conversion-easy-and-fast-by-movavi/"><u>Free Online MP3-to-MPG Conversion - Easy and Fast by Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-iconic-imagery-stories-a-deep-dive/"><u>In 2024, Iconic Imagery Stories A Deep Dive</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-high-performance-hardware-by-toms-tech-experts/"><u>In-Depth Analysis of High-Performance Hardware by Tom's Tech Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/insight-into-visual-learning-personalities-recognizing-their-unique-qualities/"><u>Insight Into Visual Learning Personalities: Recognizing Their Unique Qualities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-jp2-informatie-in-png-formaat-verzamelen-gratis-expertise-en-oplossingen-met-movavi/"><u>Online JP2-Informatie in PNG-Formaat Verzamelen Gratis: Expertise en Oplossingen Met Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-a2-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Xiaomi Redmi A2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-rigeneratori-di-downloads-anime-gratuiti-piu-popolari-nel-2024/"><u>Top 8 Rigeneratori Di Downloads Anime Gratuiti Più Popolari Nel 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-pef-images-into-jpg-for-free-using-moveas-online-tool/"><u>Transform PEF Images Into JPG for Free Using Movea's Online Tool</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unleashing-your-contents-potential-viral-short-tags-for-2024/"><u>Unleashing Your Content’s Potential Viral Short Tags for 2024</u></a></li>
+</ul></div>
+

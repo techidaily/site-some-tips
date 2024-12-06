@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of RAG: Seamlessly Merging Generative AI Large Language Models Into Your Company's Expertise - Insights From ZDNet"
-date: 2024-09-17 10:49:33
-updated: 2024-09-20 12:20:24
+date: 2024-12-03T20:28:16.258Z
+updated: 2024-12-06T19:32:06.219Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-jump-cut-strategies-for-compelling-vlogs/"><u>[Updated] In 2024, Jump Cut Strategies for Compelling Vlogs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-wildlife-documentary-showdown-gopro-hero5-vs-sjcam-star/"><u>[Updated] In 2024, Wildlife Documentary Showdown GoPro Hero5 vs SJCAM Star</u></a></li>
+<li><a href="https://fox-access.techidaily.com/essential-free-web-converters-top-10-jpeg-to-gif-changers-for-2024/"><u>Essential Free Web Converters Top 10 JPEG-to-GIF Changers for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/highlight-strategy-guide-10-must-try-tips-for-your-business-for-2024/"><u>Highlight Strategy Guide 10 Must-Try Tips for Your Business for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-x9a-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor X9a Phone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y100t-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y100t?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-saving-on-cloud-space-expenses-detailed-analysis-and-tips/"><u>In 2024, Saving on Cloud Space Expenses Detailed Analysis & Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/line-of-business-insights-overcoming-logistics-hurdles-by-mirroring-staff-knowledge/"><u>Line-of-Business Insights: Overcoming Logistics Hurdles by Mirroring Staff Knowledge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-the-api-agreement-for-abbyys-flexicapture-cloud-your-comprehensive-guide-to-data-archive-services/"><u>Navigating Through the API Agreement for ABBYY's FlexiCapture Cloud - Your Comprehensive Guide to Data Archive Services</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-video-editing-solutions-for-32-bit-windows-users/"><u>New 2024 Approved Free Video Editing Solutions for 32-Bit Windows Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-premier-free-mp3-harmonizer-software/"><u>New In 2024, Premier Free MP3 Harmonizer Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protecting-your-site-content-how-to-deter-openais-data-harvesting-bots/"><u>Protecting Your Site Content: How to Deter OpenAI's Data Harvesting Bots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/robiquity-secures-strategic-alliance-with-abbyy-enhancing-rpa-and-content-solutions/"><u>Robiquity Secures Strategic Alliance with ABBYY, Enhancing RPA and Content Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplifying-energy-supply-changes-butagaz-teams-up-with-abbyys-cutting-edge-tech-solutions/"><u>Simplifying Energy Supply Changes – Butagaz Teams Up with ABBYY's Cutting-Edge Tech Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/steering-innovation-meet-ulf-persson-ceo-of-abbyy/"><u>Steering Innovation - Meet Ulf Persson, CEO of ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-order-management-how-dot-foods-empowers-sales-team-with-automated-po-systems/"><u>Streamlining Order Management: How Dot Foods Empowers Sales Team with Automated PO Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uipath-go-marketplace-launches-new-abbyy-icc-solution-powerful-ocr-integration/"><u>UiPath Go! Marketplace Launches New ABBYY ICC Solution: Powerful OCR Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-anatomy-of-a-web-page-essentials-for-optimization/"><u>Understanding the Anatomy of a Web Page: Essentials for Optimization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-insights-with-updated-data-management-protocols/"><u>Unlocking Insights with Updated Data Management Protocols</u></a></li>
+</ul></div>
+

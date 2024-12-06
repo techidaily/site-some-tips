@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: IPhone Models Supporting iOS 18 and Others That Don't - Insights From ZDNet"
-date: 2024-11-22T21:49:51.245Z
-updated: 2024-11-27T04:01:05.816Z
+date: 2024-12-04T19:55:24.735Z
+updated: 2024-12-06T20:24:58.465Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone models will get iOS 18?
@@ -81,7 +81,7 @@ According to Apple, these iPhone models can get iOS 18 now that it's become wide
 Notably, the once-popular iPhone X model is not on the list. Older devices like the iPhone 8 series also didn't make the cut this year. As for what's to come, Apple's new [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/) lineup will launch with iOS 18 out of the box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18 beta vs full release: What's the difference?
@@ -96,6 +96,10 @@ The general release will have ironed out most of these bugs and problems using t
 
 One example of this process is when Apple released the iOS 17 beta version in 2023\. The early beta version featured the "End" button during a call that had moved from the center to the right, which was a big change for iPhone users. Disapproving feedback from beta testers resulted in [Apple moving the "End" button back to the center of the screen](https://www.zdnet.com/article/apple-moved-iphones-end-call-button-again-is-this-spot-less-weird/), where users had been accustomed to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When was iOS 18 released?
 
 Apple typically releases its new operating systems for public beta access a few weeks after WWDC. iOS 18 was released in public beta in mid-July. The public beta program lets users test developing software to pinpoint bugs and performance issues. This process lets software teams make any necessary fixes and releases before the new system reaches general availability.
@@ -105,7 +109,7 @@ Apple typically releases its new operating systems for public beta access a few 
 Apple released iOS 18 out of beta on September 16, a week after its ["Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). The Apple Intelligence features will be available in stages for qualifying devices and are expected to roll out gradually over the coming months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a software beta?
@@ -116,10 +120,6 @@ A software beta is a version of a program or operating system initially released
 
 The beta phase follows alpha testing, where software is developed and tested internally within the company. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which iPhone models will get Apple Intelligence?
 
 While many iPhone models support iOS 18, very few will support Apple Intelligence, Apple's AI features. Apple Intelligence is now available in a beta version for the iPhone 15 Pro series and iPhone 16 series, as well as iPads and Macs with an M1 chip or later. 
@@ -129,7 +129,7 @@ While many iPhone models support iOS 18, very few will support Apple Intelligenc
 Apple Intelligence will be part of iOS 18, iPadOS18, and macOS Sequoia, but will be released over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone models will no longer be supported?
@@ -176,20 +176,15 @@ If you're looking to maintain or obtain a service provider, you can check your i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-step-by-step-instructions-for-activating-high-dynamic-range-in-windows-11/"><u>[New] 2024 Approved Step-by-Step Instructions for Activating High Dynamic Range in Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-premium-vr-headset-picks-for-uavs/"><u>[New] Premium VR Headset Picks for UAVs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streamlining-video-conferencing-on-chrome-os/"><u>[New] Streamlining Video Conferencing on Chrome OS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-science-of-perfectly-timed-episodes/"><u>[New] The Science of Perfectly Timed Episodes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-trailblazers-top-intro-list-for-zooids/"><u>[New] Trailblazers Top Intro List for Zooids</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-fb-cover-video-guide-key-information-for-success/"><u>[Updated] 2024 Approved FB Cover Video Guide Key Information for Success</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-crafting-compelling-online-presentations-using-zoom-for-youtube-broadcasts-for-2024/"><u>[Updated] Crafting Compelling Online Presentations Using Zoom for YouTube Broadcasts for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-switching-on-windows-11-for-automatic-hdr-mode/"><u>[Updated] Switching On Windows 11 for Automatic HDR Mode</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-cheat-sheet-essentials-for-vlc-and-mac/"><u>2024 Approved The Ultimate Cheat Sheet Essentials for VLC and Mac</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-top-sierra-dvd-makers/"><u>In 2024, Ultimate Guide to Top Sierra DVD Makers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/showtime-media-centre-all-media-in-one-app-for-2024/"><u>SHOWTIME Media Centre All Media in One App for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unraveling-tales-the-top-storytelling-channels-on-yt-this-year-for-2024/"><u>Unraveling Tales The Top Storytelling Channels on YT This Year for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-over-overwatch-lags-and-hitches-effective-methods-for-a-smooth-playthrough/"><u>Winning Over Overwatch Lags & Hitches: Effective Methods for a Smooth Playthrough</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-edge-2023-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-full-spectrum-analysis-the-logitech-4k-pro-webcam/"><u>[New] 2024 Approved Full Spectrum Analysis The Logitech 4K Pro Webcam</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-spark-creativity-get-to-know-windows-11s-movie-maker-app-for-2024/"><u>[New] Spark Creativity Get to Know Windows 11'S Movie Maker App for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-full-potential-of-apods-downloads/"><u>[Updated] Unlocking the Full Potential of APods Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fading-audio-tips-for-better-mixes-in-ableton/"><u>2024 Approved Fading Audio Tips for Better Mixes in Ableton</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-gateway-guide-entering-the-world-of-photo-video-with-pixiz/"><u>2024 Approved The Gateway Guide Entering the World of Photo-Video with Pixiz</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-gt-neo-5-se-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme GT Neo 5 SE Phone that is Locked?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-test-your-microphone-on-windows-10-a-comprehensive-easy-to-follow-guide/"><u>How to Test Your Microphone on Windows 10: A Comprehensive, Easy-to-Follow Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tricks-to-turn-off-youtube-videos-without-compromise/"><u>In 2024, Tricks to Turn Off YouTube Videos Without Compromise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-creativity-essential-green-screen-techniques/"><u>In 2024, Unlock Creativity Essential Green Screen Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-xp-an-irreplaceable-icon-in-computing-history/"><u>Windows XP: An Irreplaceable Icon in Computing History</u></a></li>
 </ul></div>
 

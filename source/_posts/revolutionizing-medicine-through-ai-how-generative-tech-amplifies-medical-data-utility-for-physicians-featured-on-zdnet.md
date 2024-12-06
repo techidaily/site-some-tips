@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Medicine Through AI: How Generative Tech Amplifies Medical Data Utility for Physicians | Featured on ZDNET"
-date: 2024-09-18 17:13:14
-updated: 2024-09-20 11:58:42
+date: 2024-12-01T19:38:53.882Z
+updated: 2024-12-06T16:15:22.035Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-zoom-mastery-creating-seamless-virtual-sessions/"><u>[New] In 2024, Zoom Mastery Creating Seamless Virtual Sessions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-a-primer-to-navigating-the-world-of-tiktok-on-computers/"><u>[Updated] In 2024, A Primer to Navigating the World of TikTok on Computers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-landmarks-of-virtual-reality-showcases/"><u>[Updated] In 2024, Landmarks of Virtual Reality Showcases</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ultimate-guide-to-find-youtube-templates-vids/"><u>[Updated] Ultimate Guide to Find Youtube Templates Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-free-online-conversion-transforming-ogm-files-to-avi-format-with-ease/"><u>1. Free Online Conversion: Transforming OGM Files to AVI Format with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-obten-la-ultima-version-de-obs-studio-para-windows-mac-y-linux-descargar-e-instalar-facilmente/"><u>1. Obtén La Última Versión De OBS Studio Para Windows, Mac Y Linux: Descargar E Instalar Fácilmente</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-cpu-overload-with-wmi-service-tweaks/"><u>Addressing Cpu Overload with WMI Service Tweaks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-sans-frais-transformer-des-fichiers-wtv-en-mp4-via-internet-logiciel-video-movavi/"><u>Conversion Sans Frais: Transformer Des Fichiers WTV en MP4 via Internet - Logiciel Vidéo Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-leading-edge-of-editing-software-for-your-computer-exceptional-alternatives-to-desktop-inshot/"><u>Discover the Leading Edge of Editing Software for Your Computer: Exceptional Alternatives to Desktop InShot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-convertiren-van-flac-naar-avi-avi-moveave/"><u>Gratuit Online - Convertiren Van Flac Naar Avi Avi - Moveave</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-asus-ac68u-speed-and-security-in-a-5g-wireless-network/"><u>In-Depth Analysis of Asus AC68U: Speed and Security in a 5G Wireless Network</u></a></li>
+<li><a href="https://some-tips.techidaily.com/scambia-tiff-con-png-senza-costi-trasforma-file-gratuitamente-con-movavi/"><u>Scambia TIFF Con PNG Senza Costi - Trasforma File Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/selecting-ideal-fpv-propellers-a-comprehensive-guide-for-2024/"><u>Selecting Ideal FPV Propellers A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-troubleshooting-steps-for-an-unresponsive-xbox-one-on-xbox-live-networks/"><u>Solved! Troubleshooting Steps for an Unresponsive Xbox One on Xbox Live Networks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-archivos-qt-directamente-en-gifs-gratis-y-faciles-el-mejor-herramienta-online-de-movavi/"><u>Transformar Archivos QT Directamente en GIFs Gratis Y Fáciles: El Mejor Herramienta Online De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-imagens-webp-em-gifs-ferramentas-e-dicas-especializadas/"><u>Transformar Imagens WebP Em GIFs: Ferramentas E Dicas Especializadas</u></a></li>
+</ul></div>
+

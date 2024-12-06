@@ -1,7 +1,7 @@
 ---
 title: "Enterprise-Ready: Enhancing Google's Vector with Custom Training Features in Genshin AI"
-date: 2024-09-17 21:23:37
-updated: 2024-09-20 10:56:14
+date: 2024-12-05T19:28:10.249Z
+updated: 2024-12-06T19:57:20.685Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-conquer-mixer-broadcasting-on-macos-systems-for-2024/"><u>[Updated] Conquer Mixer Broadcasting on macOS Systems for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-on-how-skip-edgenuity-videos-easily/"><u>[Updated] Tips on How Skip Edgenuity Videos Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-best-unlimited-cloud-storage-service-recommendations/"><u>2024 Approved Best Unlimited Cloud Storage Service Recommendations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-master-image-tweaks-with-snapseed-for-newbies/"><u>2024 Approved Master Image Tweaks with Snapseed for Newbies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-performance-low-price-excellent-asmr-mics-for-2024/"><u>High Performance, Low Price Excellent ASMR Mics for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-variants-of-moviemaker-pro-on-windows/"><u>In 2024, Variants of MovieMaker Pro on WIndows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kicking-off-with-keyframe-quality-controls-for-2024/"><u>Kicking Off with Keyframe Quality Controls for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210502359-9781942125983-the-laws-of-messiah/"><u>The Laws Of Messiah | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-leading-ultrawide-screens-dominating-gamers-picks/"><u>The Leading Ultrawide Screens Dominating Gamers' Picks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-list-legal-game-music-sources/"><u>The Ultimate List Legal Game Music Sources</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-no-fee-community-driven-dns-options/"><u>Ultimate Selection of No-Fee, Community-Driven DNS Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-topmate-c302-an-economical-and-efficient-laptop-cooler-assessment/"><u>Unveiling the TopMate C302 - An Economical and Efficient Laptop Cooler Assessment</u></a></li>
+</ul></div>
+

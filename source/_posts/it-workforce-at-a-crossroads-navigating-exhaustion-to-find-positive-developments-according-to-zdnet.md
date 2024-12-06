@@ -1,7 +1,7 @@
 ---
 title: "IT Workforce at a Crossroads: Navigating Exhaustion to Find Positive Developments, According to ZDNET"
-date: 2024-09-17 11:21:49
-updated: 2024-09-20 10:13:37
+date: 2024-11-30T19:29:49.941Z
+updated: 2024-12-06T20:08:47.890Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-art-of-amplification-masterful-youtube-tagging-tips/"><u>[New] 2024 Approved The Art of Amplification Masterful YouTube Tagging Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-high-res-webcam-videos-in-minutes-a-step-guide/"><u>[Updated] 2024 Approved High-Res Webcam Videos in Minutes A Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-key-strategies-in-livestreaming-major-sporting-contests/"><u>[Updated] 2024 Approved Key Strategies in Livestreaming Major Sporting Contests</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-your-channels-free-tips-for-youtube-video-popularity-for-2024/"><u>Boosting Your Channels Free Tips for YouTube Video Popularity for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/buy-a-professional-video-editing-software-today/"><u>Buy a Professional Video Editing Software Today!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-and-solution-troubleshooting-steam-games-that-wont-open-in-windows-10/"><u>Fix & Solution: Troubleshooting Steam Games That Won't Open in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-omzetten-voor-online-zeeuwsheid-beveiligde-tod-bestandbeherberging-met-movavi/"><u>Gratis Omzetten Voor Online Zeeuwsheid: Beveiligde TOD-Bestandbeherberging Met Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-f04-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy F04 Phone Screen?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/imoviewindowspc/"><u>IMovie免费Windows版：如何在PC上安装并使用</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/learn-to-trim-and-edit-footage-with-vlc-media-player-expert-advice/"><u>Learn to Trim and Edit Footage with VLC Media Player - Expert Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-k/"><u>Movavi ครับ เล่นแบบ สังเk�์</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-tiff-jpg-web/"><u>Movavi 제공 : TIFF 형식을 JPG로 자원 비용 없이 바꾸기 - Web 인터페이스 기법</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revisiting-demons-souls-enhanced-visual-experience-and-timeless-challenge/"><u>Revisiting Demon's Souls: Enhanced Visual Experience and Timeless Challenge</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-windows-data-with-tips-max-156/"><u>Streamline Your Windows Data with Tips (Max 156)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-the-8-most-reliable-audio-extension-utilities-for-your-browser/"><u>The Ultimate List of the 8 Most Reliable Audio Extension Utilities for Your Browser</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-methods-to-resolve-iphone-voicemail-malfunctions-quickly/"><u>Top 9 Methods to Resolve iPhone Voicemail Malfunctions Quickly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-tu-video-nsv-en-mpeg-sin-costo-con-la-herramienta-online-de-movavi/"><u>Transforma Tu Video NSV en MPEG Sin Costo Con La Herramienta Online De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726220731483-10/"><u>ベストマック動画変換ツール トップ10 - 無料で最適化された選び方</u></a></li>
+</ul></div>
+

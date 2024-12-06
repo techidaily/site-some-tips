@@ -1,7 +1,7 @@
 ---
 title: Get Started on DevOps for Less! Discover the Linux Foundation's Cost-Friendly Bootcamp | Tech Insights From ZDNet
-date: 2024-09-19 23:11:51
-updated: 2024-09-20 10:12:11
+date: 2024-11-30T18:33:24.913Z
+updated: 2024-12-06T20:31:41.269Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-chuckle-trail-your-guide-to-hilarious-online-stars/"><u>[New] 2024 Approved Chuckle Trail Your Guide to Hilarious Online Stars</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aptivating-content-the-basics-of-removing-background-from-videos-for-2024/"><u>[New] Captivating Content The Basics of Removing Background From Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-online-rhythm-analysis-boost-your-dj-skills-efficiently/"><u>[New] Free Online Rhythm Analysis Boost Your DJ Skills Efficiently</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prestigious-directory-free-visuals-hubs-galore-online/"><u>[New] Prestigious Directory FREE Visuals Hubs Galore Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streaming-stardom-and-salary-the-pewdiepie-profit-piece/"><u>[New] Streaming Stardom and Salary – The PewDiePie Profit Piece</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-canvas-into-magic-the-best-mac-drawing-apps/"><u>[New] Transform Canvas Into Magic - The Best Mac Drawing Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unparalleled-top-5-agile-camcorders-guide/"><u>[New] Unparalleled Top 5 Agile Camcorders Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-client-visionaries-shaping-brand-narratives-through-video/"><u>[Updated] Client Visionaries Shaping Brand Narratives Through Video</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-converting-insta-videos-to-mp3-a-comprehensive-overview-for-2024/"><u>[Updated] Converting Insta Videos to MP3 - A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-picks-excellent-4k-displays-for-playing-games/"><u>[Updated] Top Picks Excellent 4K Displays for Playing Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-and-mastering-google-chromes-pip-functionality/"><u>[Updated] Understanding and Mastering Google Chrome’s PIP Functionality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44cm44ov44kh44kk44or44ot44o844oj5lit44gr44ko44op44o844oh44od44k744o844k444ks5yplusx44gr5yplusw44gj44gf5ac05zci44cb44gd44gu5y6f5zug44go6kej5rg6562w44cn/"><u>「ファイルロード中にエラーメッセージを受け取った場合、その原因と解決策」</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g04-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G04 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-a38-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo A38 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-tiktok-creation-process-with-zoom/"><u>In 2024, Streamline Your TikTok Creation Process with Zoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-the-power-of-words-how-to-enchant-tinder-users-with-a-bio/"><u>In 2024, Unleash the Power of Words How to Enchant Tinder Users with a Bio</u></a></li>
+</ul></div>
+

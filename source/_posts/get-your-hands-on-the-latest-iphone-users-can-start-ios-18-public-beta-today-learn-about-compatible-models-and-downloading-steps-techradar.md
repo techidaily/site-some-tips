@@ -1,7 +1,7 @@
 ---
 title: "Get Your Hands on the Latest: IPhone Users Can Start iOS 18 Public Beta Today! Learn About Compatible Models and Downloading Steps | TechRadar"
-date: 2024-09-19 22:30:21
-updated: 2024-09-20 12:27:49
+date: 2024-12-01T17:51:58.669Z
+updated: 2024-12-06T19:42:48.467Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/10-superior-choices-high-end-video-conferencing-software-for-2024/"><u>10 Superior Choices High-End Video Conferencing Software for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-librement-aac-en-aiff-avec-le-service-en-ligne-gratuit-de-movavi-guide-complet-et-professionnel/"><u>Convertissez Librement AAC en AIFF Avec Le Service en Ligne Gratuit De Movavi – Guide Complet Et Professionnel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-list-of-13-leading-ai-art-software-picked-by-movavi/"><u>Discover the Ultimate List of 13 Leading AI Art Software Picked by Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-e-instalacao-do-capcut-para-windows-guia-passo-a-passo/"><u>Download E Instalação Do CapCut Para Windows - Guia Passo a Passo</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-techniques-for-duplicating-disk-partitions-between-drives-on-the-latest-version-of-windows-11/"><u>Effective Techniques for Duplicating Disk Partitions Between Drives on the Latest Version of Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-collage-creation-discover-the-ultimate-5-methods-from-experts-at-movavi/"><u>Effortless Collage Creation: Discover the Ultimate 5 Methods From Experts at Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-new-upgrades-of-lenovos-thinkpad-x1-a-detailed-review/"><u>Explore the New Upgrades of Lenovo's ThinkPad X1: A Detailed Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-xr-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone XR Face ID?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-sonys-new-powerhouse-a-comprehensive-review-of-the-ps5/"><u>Inside Sony's New Powerhouse: A Comprehensive Review of the PS5</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-aerial-photography-with-dji-mavic-air-2s-a-detailed-expert-assessment/"><u>Mastering Aerial Photography with DJI Mavic Air 2S: A Detailed Expert Assessment</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/mline-your-viewing-experience-with-accelerated-or-slowed-videos-for-2024/"><u>Streamline Your Viewing Experience with Accelerated or Slowed Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wma-avi-movavi/"><u>무료 WMA-AVI 변환 서비스: 온라인 장치로 Movavi 프로그램 사용</u></a></li>
+<li><a href="https://some-tips.techidaily.com/png-movivi/"><u>ウェブ上で自由に利用可能なPNG変換サービス - MoviVi</u></a></li>
+</ul></div>
+

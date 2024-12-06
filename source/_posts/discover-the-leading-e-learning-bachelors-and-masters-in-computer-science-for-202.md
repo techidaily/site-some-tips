@@ -1,7 +1,7 @@
 ---
 title: Discover the Leading E-Learning Bachelor's and Masters in Computer Science for 202
-date: 2024-09-18 14:37:17
-updated: 2024-09-20 10:43:21
+date: 2024-12-01T18:20:28.128Z
+updated: 2024-12-06T17:03:25.035Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-ideal-obs-preset-for-economical-machines-for-2024/"><u>[New] Ideal OBS Preset for Economical Machines for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-step-by-step-guide-to-removing-youtube-ads-across-platforms/"><u>[New] In 2024, A Step-by-Step Guide to Removing YouTube Ads Across Platforms</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-beginning-vlog-essential-gear-and-initial-editing-tools/"><u>[New] In 2024, Beginning Vlog Essential Gear & Initial Editing Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-leveraging-budget-friendly-visual-elements/"><u>[Updated] 2024 Approved Leveraging Budget-Friendly Visual Elements</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-best-webp-converter-how-to-convert-webp-to-jpg-for-2024/"><u>[Updated] Best WebP Converter How to Convert WebP to JPG for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-t5s-thievery-review-where-action-meets-technology/"><u>[Updated] T5's Thievery Review – Where Action Meets Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tiny-screenplay-scheme/"><u>[Updated] Tiny Screenplay Scheme</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-top-5-cost-free-pinterest-videos-download/"><u>[Updated] Ultimate Top 5 Cost-Free Pinterest Videos Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-the-power-of-visuals-with-top-free-slideshow-designs/"><u>[Updated] Unleash the Power of Visuals with Top Free Slideshow Designs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-tutorial-for-posting-pics-on-ig/"><u>2024 Approved The Ultimate Tutorial for Posting Pics on IG</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-6s-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 6s? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Poco M6 Pro 4G</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/kostenlose-wmv-nach-mp4-konversion-unter-macos-verwenden-sie-den-effizienten-free-mp4-converter/"><u>Kostenlose WMV Nach MP4 Konversion Unter macOS - Verwenden Sie Den Effizienten Free MP4 Converter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-hidden-details-roblox-closeup-secrets-for-2024/"><u>Unlocking Hidden Details Roblox Closeup Secrets for 2024</u></a></li>
+</ul></div>
+

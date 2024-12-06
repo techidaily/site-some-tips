@@ -1,7 +1,7 @@
 ---
 title: "Advancing with Agility: Exploring Skill Growth & Enhanced Security in Cloud-Native Solutions - ZDNet"
-date: 2024-09-18 20:56:35
-updated: 2024-09-20 12:22:32
+date: 2024-11-30T20:14:28.427Z
+updated: 2024-12-06T17:32:08.699Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-access-and-organize-fb-pages-easily-with-top-8-tools/"><u>[New] 2024 Approved Access and Organize FB Pages Easily with Top 8 Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-discover-luminous-brilliance-for-your-android-videos/"><u>[Updated] 2024 Approved Discover Luminous Brilliance for Your Android Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebook-copyright-what-if-my-videos-removed-immediately-due-to-copyright/"><u>[Updated] In 2024, Facebook Copyright | What If My Videos Removed Immediately Due to Copyright?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-selecting-premium-microphones-for-mac-users-reviewed-for-2024/"><u>[Updated] Selecting Premium Microphones for Mac Users (Reviewed) for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-tailor-your-space-the-best-apps-to-create-engaging-youtube-themes/"><u>2024 Approved Tailor Your Space The Best Apps to Create Engaging YouTube Themes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-website-analytics-through-the-innovative-use-of-cookiebot-technology/"><u>Enhanced Website Analytics Through the Innovative Use of CookieBot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-rise-of-textual-analytics-abbyy-q3-report-highlights-growing-trends-in-content-intelligence/"><u>Exploring the Rise of Textual Analytics: ABBYY Q3 Report Highlights Growing Trends in Content Intelligence</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-thrustmaster-t300-racing-controller-drivers-compatible-with-win10win11-systems/"><u>Get Your Hands on ThrustMaster T300 Racing Controller Drivers Compatible with Win10/Win11 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-hyperautomation-through-abbyy-unifying-computer-vision-and-large-language-models-with-idp-integration/"><u>Harnessing Hyperautomation Through ABBYY: Unifying Computer Vision and Large Language Models with IDP Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-abbyy-and-uipath-are-pioneering-automation-insights-from-the-future-of-finance-summit/"><u>How ABBYY and UiPath Are Pioneering Automation: Insights From the Future of Finance Summit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-rpa-is-dominating-the-thoughts-of-top-executives-insights-from-abbyy/"><u>How RPA Is Dominating the Thoughts of Top Executives: Insights From ABBYY</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-x-flip-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo X Flip To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-the-art-of-tagging-instas-top-25-must-use-tags/"><u>In 2024, Mastering the Art of Tagging Insta's Top 25 Must-Use Tags</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-cookiebot-technology-for-superior-user-tracking-on-your-website/"><u>Leverage Cookiebot Technology for Superior User Tracking on Your Website</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-cookiebots-powerful-tracking-solutions-for-superior-user-insights/"><u>Leverage Cookiebot's Powerful Tracking Solutions for Superior User Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-mobile-ocr-for-streamlined-customer-onboarding-processes/"><u>Leverage Mobile OCR for Streamlined Customer Onboarding Processes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-optimized-site-personalization-and-analytics/"><u>Leveraging Cookiebot Technology for Optimized Site Personalization and Analytics</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-content-sharing-on-youtube-without-breaching-copyright/"><u>Mastering Content Sharing on YouTube Without Breaching Copyright</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-civi-3-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi Civi 3 Location | Dr.fone</u></a></li>
+</ul></div>
+

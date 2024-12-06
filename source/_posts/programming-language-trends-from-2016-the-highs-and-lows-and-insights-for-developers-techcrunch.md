@@ -1,7 +1,7 @@
 ---
 title: "Programming Language Trends From 2016: The Highs and Lows & Insights for Developers | TechCrunch"
-date: 2024-09-17 14:43:20
-updated: 2024-09-20 11:32:53
+date: 2024-12-01T18:00:27.221Z
+updated: 2024-12-06T18:12:56.496Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-critical-review-of-best-screen-capture-tools-in-linux/"><u>[New] 2024 Approved Critical Review of Best Screen Capture Tools in Linux</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-fixing-rtmp-streams-in-premiere/"><u>[New] The Ultimate Guide to Fixing RTMP Streams in Premiere</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audiophiles-guide-to-selecting-premium-podcast-mics/"><u>[Updated] Audiophile's Guide to Selecting Premium Podcast Mics</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-ipados-paint-the-creme-de-la-creation-apps/"><u>[Updated] In 2024, IPadOS Paint The Crème De La Création Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-secure-your-contents-signature-adding-watermarks-and-logo-to-youtube-videos/"><u>[Updated] In 2024, Secure Your Content's Signature Adding Watermarks & Logo to Youtube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-live-streaming-mic-guide-choosing-from-the-best-6/"><u>[Updated] The Ultimate Live-Streaming Mic Guide Choosing From the Best 6</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-zoom-tricks-for-chromebook-users/"><u>[Updated] Ultimate Zoom Tricks for Chromebook Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-ps-simple-grading-techniques-for-perfection/"><u>[Updated] Unlocking PS Simple Grading Techniques for Perfection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-moments-made-perfect-expert-techniques-for-iphone-photo-editing/"><u>2024 Approved Moments Made Perfect Expert Techniques for iPhone Photo Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-eyeball-enticer-author/"><u>2024 Approved Top-Tier Eyeball Enticer Author</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mac-os-video-editor-turn-photos-into-beautiful-slideshows-for-2024/"><u>Mac OS Video Editor Turn Photos Into Beautiful Slideshows for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-best-of-the-best-nine-premium-portable-microphones-for-high-quality-podcasts-level-9/"><u>New The Best of the Best Nine Premium Portable Microphones for High-Quality Podcasts (Level 9)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-glitches-how-to-repair-spotify-functionality-in-android-auto/"><u>Overcoming Glitches: How to Repair Spotify Functionality in Android Auto</u></a></li>
+<li><a href="https://some-tips.techidaily.com/perfecting-onscreen-image-clarity-and-detail-for-2024/"><u>Perfecting Onscreen Image Clarity and Detail for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-itel-a60s-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Itel A60s to Gmail | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-vectors-first-steps-and-essential-apps-for-2024/"><u>Understanding Vectors First Steps and Essential Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/universal-vmix-adapter-for-2024/"><u>Universal VMix Adapter for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-your-creativity-innovative-online-crop-strategies-for-2024/"><u>Unleash Your Creativity - Innovative Online Crop Strategies for 2024</u></a></li>
+</ul></div>
+

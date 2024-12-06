@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Cybersecurity Maze: Your Essential Guide Beyond the Startling Statistics of Open-Source Vulnerabilities"
-date: 2024-09-19 12:16:35
-updated: 2024-09-20 12:43:54
+date: 2024-11-30T18:26:21.750Z
+updated: 2024-12-06T20:25:35.678Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,24 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-easy-access-guide-skype-audio-to-mp3-free/"><u>[Updated] In 2024, Easy-Access Guide Skype Audio to Mp3, Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-where-to-pull-off-ringtone-files/"><u>2024 Approved Ultimate List Where To Pull Off Ringtone Files</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210567260-9781788179201-21-days-to-understand-qabalah/"><u>21 Days to Understand Qabalah | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-watch-power-secrets-exposed-discover-if-your-battery-is-underperforming/"><u>Apple Watch Power Secrets Exposed - Discover if Your Battery Is Underperforming!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-12-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 12 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-functionality-of-unmanned-aerial-vehicles-explored/"><u>In 2024, The Functionality of Unmanned Aerial Vehicles Explored</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-gifs-your-step-by-step-meme-making-journey/"><u>Mastering GIFs Your Step-by-Step Meme Making Journey</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/newest-hp-pagewide-pro-amoji-477dw-driver-software-for-windows-11108-download-now/"><u>Newest HP PageWide Pro Amoji 477DW Driver Software for Windows 11/10/8 - Download Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-of-the-best-yts-premier-unboxing-sites-for-2024/"><u>The Best of the Best YT's Premier Unboxing Sites for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-collection-of-10-inspirational-movies-for-2024/"><u>The Ultimate Collection of 10 Inspirational Movies for 2024</u></a></li>
+</ul></div>
+

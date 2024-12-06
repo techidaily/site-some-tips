@@ -1,7 +1,7 @@
 ---
 title: "AI Revolution in the Workplace: How All Employees Will Become Creators & Users | ZDNET Perspectives"
-date: 2024-09-19 13:14:17
-updated: 2024-09-20 12:55:24
+date: 2024-11-30T18:19:38.123Z
+updated: 2024-12-06T18:05:40.533Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-techniques-saving-and-recording-ps4-gaming-escapades-for-2024/"><u>[New] Top Techniques Saving and Recording PS4 Gaming Escapades for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-real-time-collaboration-via-xbox-zoom/"><u>[New] Unlocking Real-Time Collaboration via Xbox Zoom</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-design-mastery-creating-flawless-3d-structures-in-mc/"><u>[Updated] 2024 Approved Design Mastery Creating Flawless 3D Structures in MC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-professional-guidelines-for-text-overlays-vimeo/"><u>[Updated] 2024 Approved Professional Guidelines for Text Overlays (Vimeo)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-boosting-business-top-10-highlight-optimization-hacks-for-2024/"><u>[Updated] Boosting Business Top 10 Highlight Optimization Hacks for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-the-art-of-screenshot-with-zd-software/"><u>[Updated] Mastering the Art of Screenshot with ZD Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>[Updated] Transform Your Mac with the Latest MacOS 11 Big Sur Overview</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastery-guide-on-the-world-of-voice-recordings/"><u>2024 Approved Mastery Guide on the World of Voice Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-3-step-guide-to-exceptional-gopro-videos/"><u>2024 Approved The 3-Step Guide to Exceptional GoPro Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-this-years-premier-trivia-broadcasting-titles/"><u>2024 Approved Unveiling This Year's Premier Trivia Broadcasting Titles</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/empowering-innovation-microsofts-new-strategy-to-energize-staff-through-improved-teams-collaboration-tools/"><u>Empowering Innovation: Microsoft's New Strategy to Energize Staff Through Improved Teams Collaboration Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-grow-your-channelnode-through-joint-videography-endeavors/"><u>In 2024, Grow Your Channelnode Through Joint Videography Endeavors</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-basics-of-picture-in-picture-in-ff-for-2024/"><u>The Basics of Picture-in-Picture in FF for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites-for-2024/"><u>The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-newest-lg-bp550-specs-for-2024/"><u>Ultimate Guide Newest LG BP550 Specs for 2024</u></a></li>
+</ul></div>
+

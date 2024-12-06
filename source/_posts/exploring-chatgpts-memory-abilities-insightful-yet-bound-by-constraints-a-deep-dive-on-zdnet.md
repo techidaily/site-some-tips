@@ -1,7 +1,7 @@
 ---
 title: "Exploring ChatGPT's Memory Abilities: Insightful Yet Bound by Constraints - A Deep Dive on ZDNet"
-date: 2024-09-17 19:28:23
-updated: 2024-09-20 12:38:39
+date: 2024-12-04T19:11:35.878Z
+updated: 2024-12-06T18:09:55.916Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,23 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tackling-text-transformations-converting-xmlttml-for-voice-outputs/"><u>[New] Tackling Text Transformations Converting XML/TTML for Voice Outputs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tapping-humors-potential-with-a-comprehensive-9gag-meme-creation-guide/"><u>[New] Tapping Humor's Potential with a Comprehensive 9GAG Meme Creation Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/op-software-for-game-recordings/"><u>[New] Top Software for Game Recordings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-marketing-havens-for-youtube-videos/"><u>[Updated] Ideal Marketing Havens for YouTube Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-step-by-step-guide-for-easy-macbook-air-recordings/"><u>[Updated] In 2024, Step-by-Step Guide for Easy Macbook Air Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-top-10-techniques-live-cricket-broadcasting/"><u>[Updated] Unveiling Top 10 Techniques Live Cricket Broadcasting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-stepwise-approach-to-voice-recognition-integration-in-powerpoint-presentations/"><u>2024 Approved The Stepwise Approach to Voice Recognition Integration in PowerPoint Presentations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screen-recording-innovations-a-comparative-look-for-2024/"><u>Screen Recording Innovations A Comparative Look for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-world-of-artific/"><u>Unveiling the World of Artific</u></a></li>
+</ul></div>
+

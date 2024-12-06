@@ -1,7 +1,7 @@
 ---
 title: Rising Ops Strategies Revolutionize Enterprise Tech Environments Amidst Emerging Challenges - Insights for ZDNet Readers
-date: 2024-09-19 18:55:41
-updated: 2024-09-20 12:16:51
+date: 2024-12-04T19:05:05.138Z
+updated: 2024-12-06T16:25:27.475Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-aligning-content-quality-with-instagrams-user-base/"><u>[New] 2024 Approved Aligning Content Quality with Instagram's User Base</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-edge-of-gaming-technology-samsung-ue590-monitor/"><u>[New] The Edge of Gaming Technology Samsung UE590 Monitor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essence-of-color-in-photography-top-11-tutorials/"><u>[New] The Essence of Color in Photography (Top 11 Tutorials)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-choosing-top-8-free-srt-services/"><u>[New] The Ultimate Guide to Choosing Top 8 Free SRT Services</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-reliable-steps-toward-attaining-safe-and-ethical-one-million-follower-status-for-2024/"><u>[Updated] Reliable Steps Toward Attaining Safe and Ethical One-Million Follower Status for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-real-time-screen-aspects-management-guide/"><u>2024 Approved Real-Time Screen Aspects Management Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-potential-of-todays-drones-for-tomorrow/"><u>2024 Approved Unveiling the Potential of Today's Drones for Tomorrow</u></a></li>
+<li><a href="https://win-special.techidaily.com/best-freepaid-screenshot-and-video-capture-software-top-apps-beyond-apowersoft/"><u>Best Free/Paid Screenshot & Video Capture Software: Top Apps Beyond Apowersoft</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ae-titles-for-striking-visual-impact/"><u>In 2024, Top AE Titles for Striking Visual Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-basics-of-vlogging-gear-and-software/"><u>In 2024, Unveiling the Basics of Vlogging Gear & Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/shape-shifting-pics-with-top-editors-help/"><u>Shape-Shifting Pics with Top Editors' Help</u></a></li>
+<li><a href="https://win-forum.techidaily.com/shield-your-android-from-threats-a-step-by-step-guide-to-finding-risky-apps/"><u>Shield Your Android From Threats: A Step-by-Step Guide to Finding Risky Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sketch-whimsical-graphics-on-giphy-for-2024/"><u>Sketch Whimsical Graphics on Giphy for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210320806-9781667402727-women-i-love-you/"><u>Women... I Love You | Free Book</u></a></li>
+</ul></div>
+

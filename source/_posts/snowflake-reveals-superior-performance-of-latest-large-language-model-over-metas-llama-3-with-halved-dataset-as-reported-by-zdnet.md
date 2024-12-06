@@ -1,7 +1,7 @@
 ---
 title: Snowflake Reveals Superior Performance of Latest Large Language Model Over Meta's LLaMA 3 with Halved Dataset, As Reported by ZDNet
-date: 2024-09-18 23:39:59
-updated: 2024-09-20 12:21:58
+date: 2024-11-30T17:38:19.745Z
+updated: 2024-12-06T18:01:21.329Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,24 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-final-cut-pro-demystified-a-complete-primer/"><u>[New] Final Cut Pro Demystified A Complete Primer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-zoom-expertise-for-improved-google-meet-visibility/"><u>[New] The Ultimate Zoom Expertise for Improved Google Meet Visibility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thrifty-tech-finds-best-cameras-on-a-dime/"><u>[Updated] Thrifty Tech Finds Best Cameras on a Dime</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-potential-an-in-depth-look-at-vivocut-editing/"><u>[Updated] Unlocking Potential An In-Depth Look at VivoCut Editing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-ipad-pro-and-macbook-air-finding-the-perfect-match-based-on-user-requirements-featured-by-zdnet/"><u>Comparing iPad Pro and MacBook Air: Finding the Perfect Match Based on User Requirements | Featured by ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discovering-mobile-virtual-realitys-elite-selection/"><u>Discovering Mobile Virtual Reality's Elite Selection</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-samsung-galaxy-m34-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Samsung Galaxy M34</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-swift-periscope-broadcasts/"><u>Mastering the Art of Swift Periscope Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-filmmakers-guide-to-enhancing-close-ups-using-kinemaster-for-2024/"><u>The Filmmaker’s Guide to Enhancing Close-Ups Using Kinemaster for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Navigating Through The Inequality of Today's Instantaneous Technology Era – Insights From ZDNet
-date: 2024-09-18 19:54:33
-updated: 2024-09-20 11:31:12
+date: 2024-12-05T20:16:34.093Z
+updated: 2024-12-06T20:05:27.198Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tale-bearers-school-distinguished-dothee/"><u>[New] Tale Bearers School - Distinguished Dothee</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-2022-winter-games-zenith-of-snowboard-cross/"><u>[New] The 2022 Winter Games Zenith of Snowboard Cross</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enable-quiet-youtube-bgplay-for-iphone-and-android-for-2024/"><u>[Updated] Enable Quiet YouTube BGPlay for iPhone & Android for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-evaluating-the-top-video-streaming-apps-for-phones/"><u>[Updated] Evaluating the Top Video Streaming Apps for Phones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-affordable-techniques-to-enhance-written-content-with-media/"><u>[Updated] In 2024, Affordable Techniques to Enhance Written Content with Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-make-your-comments-pop-with-emojis-in-youtube/"><u>[Updated] Make Your Comments Pop with Emojis in YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-visual-journey-of-iphone-photos-with-leading-lines/"><u>[Updated] The Visual Journey of iPhone Photos with Leading Lines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transcription-and-task-execution-on-the-go-fee-free/"><u>[Updated] Transcription and Task Execution on the Go – Fee-Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-inshot-cuts-for-professional-edge/"><u>2024 Approved Streamlining Inshot Cuts for Professional Edge</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/comprehensive-guide-record-webcam-in-hd-via-vlc-for-2024/"><u>Comprehensive Guide Record Webcam in HD via VLC for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-techniques-how-can-you-save-linking-in-video-content/"><u>Effortless Techniques: How Can You Save Linking In Video Content?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-meizu-21-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Meizu 21 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-path-to-larger-video-presentation-in-youtube/"><u>In 2024, The Path to Larger Video Presentation in YouTube</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revamp-and-organize-your-audio-files-with-mp3tag-version-327/"><u>Revamp and Organize Your Audio Files with Mp3tag Version 3.27</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-tutorial-on-using-snapchat-spotlight-for-2024/"><u>The Essential Tutorial on Using Snapchat Spotlight for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-value-dome-cams-affordable-360-filmmaking-tools-for-2024/"><u>Top Value Dome Cams Affordable 360° Filmmaking Tools for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-go-to-source-for-micromobility-intelligence-event-schedules-fresh-stories-and-inside-talk/"><u>Your Go-To Source for Micromobility Intelligence: Event Schedules, Fresh Stories, and Inside Talk</u></a></li>
+</ul></div>
+

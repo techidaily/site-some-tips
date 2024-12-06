@@ -1,7 +1,7 @@
 ---
 title: "The Rising Popularity of OpenStack and Kata Containers: Unveiling Their Resurgence in Modern IT Solutions | ZDNet"
-date: 2024-09-19 11:56:39
-updated: 2024-09-20 10:38:25
+date: 2024-12-03T17:53:57.277Z
+updated: 2024-12-06T17:58:27.641Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-5-iphone-x-compatible-backdrop-change-tools/"><u>[New] Top 5 iPhone X-Compatible Backdrop Change Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-titles-best-ai-powered-podcast-name-makers/"><u>[New] Transforming Titles Best AI-Powered Podcast Name Makers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-a-filmmakers-guide-seamless-editing-and-uploading-360-degree-footage-for-youtube-for-2024/"><u>[Updated] A Filmmaker's Guide Seamless Editing & Uploading 360-Degree Footage for YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-insights-into-audio-memos/"><u>[Updated] The Ultimate Insights Into Audio Memos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-8-free-screen-recorder-for-android/"><u>[Updated] Top 8 Free Screen Recorder for Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-finest-selection-of-economical-free-lut-tools/"><u>[Updated] Unveiling the Finest Selection of Economical, Free LUT Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-hd-live-stream-gear-list/"><u>2024 Approved Ultimate HD Live Stream Gear List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/aws-graviton4-cpu-shows-superiority-over-traditional-processors-offering-enhanced-speed-and-value-for-money/"><u>AWS Graviton4 CPU Shows Superiority Over Traditional Processors, Offering Enhanced Speed and Value for Money</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synergistic-campaigns-brands-and-youtube-hand-in-hand/"><u>In 2024, Synergistic Campaigns Brands & YouTube Hand in Hand</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-10-best-blurred-background-tools/"><u>In 2024, The 10 Best Blurred Background Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-enigmatic-functionality-of-the-blue-indicator-in-fb-messaging/"><u>In 2024, The Enigmatic Functionality of the Blue Indicator in FB Messaging</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>In 2024, Twilight Crusaders The Darkened Knight vs the Shining One</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-potential-in-ar-applying-lut-techniques/"><u>In 2024, Unleashing Potential in AR Applying LUT Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spectacular-screenwriting-revealed-for-2024/"><u>Spectacular Screenwriting Revealed for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-journey-of-apples-ios-tracing-its-path-from-version-10-to-180/"><u>The Journey of Apple's iOS: Tracing Its Path From Version 1.0 to 18.0</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-new-lexicon-revolutionizing-how-we-learn-language/"><u>The New Lexicon: Revolutionizing How We Learn Language</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209924205-9780486846002-the-power-of-crystals/"><u>The Power of Crystals | Free Book</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-youtube-live-selling-boost-your-sales-with-these-tips/"><u>Updated In 2024, YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-your-video-call-game-why-switching-from-a-webcam-to-an-android-smartphone-camera-makes-you-shine/"><u>Upgrade Your Video Call Game: Why Switching From a Webcam to an Android Smartphone Camera Makes You Shine</u></a></li>
+</ul></div>
+

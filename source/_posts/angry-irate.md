@@ -1,7 +1,7 @@
 ---
 title: Angry - Irate
-date: 2024-09-19 21:26:57
-updated: 2024-09-20 10:26:13
+date: 2024-12-04T17:42:16.305Z
+updated: 2024-12-06T19:21:39.193Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +80,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/nhancing-content-discovery-via-thumbnails-for-2024/"><u>[New] Enhancing Content Discovery via Thumbnails for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-democracy-dive-top-5-political-gamified-experiences/"><u>[Updated] Democracy Dive Top 5 Political Gamified Experiences</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-how-to-safely-procure-pure-photography-collections/"><u>[Updated] How to Safely Procure Pure Photography Collections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-facil-y-gratuita-al-aire-libre-haga-el-cambio-de-m4a-a-vob-utilizando-movavi/"><u>Conversión Fácil Y Gratuita Al Aire Libre: Haga El Cambio De M4A a VOB Utilizando Movavi</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/fast-track-your-system-boot-up-expert-tips-for-quicker-starts-by-yl-computing-solutions/"><u>Fast Track Your System Boot-Up: Expert Tips for Quicker Starts by YL Computing Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-3gpp-inpakket-naar-3gp-online-vervangen-movavi/"><u>Gratis 3GPP-Inpakket Naar 3GP Online Vervangen - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratitude-for-using-movavi-slideshow-creator-download-complete/"><u>Gratitude for Using Movavi Slideshow Creator – Download Complete</u></a></li>
+<li><a href="https://some-tips.techidaily.com/los-mejores-programas-libres-de-corte-de-videos-que-debes-usar-en-el-ano-2024/"><u>Los Mejores Programas Libres De Corte De Vídeos Que Debes Usar en El Año 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/meet-the-enhanced-revo-uninstaller-pro-5-the-ultimate-software-removal-tool/"><u>Meet the Enhanced Revo Uninstaller Pro 5: The Ultimate Software Removal Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-forgotten-passwords-a-step-by-step-guide-to-restore-access-to-your-ipad/"><u>Resolving Forgotten Passwords: A Step-by-Step Guide to Restore Access to Your iPad</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/spyros-grand-adventure-redux-is-it-worth-your-time-our-detailed-review/"><u>Spyro's Grand Adventure Redux - Is It Worth Your Time? Our Detailed Review!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-tu-video-mp4-en-formato-mov-por-internet-gratuito-manteniendo-pura-calidad-pasos-faciles/"><u>Transforma Tu Vídeo MP4 en Formato MOV Por Internet Gratuito, Manteniendo Pura Calidad - Pasos Fáciles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-shorts-music-things-you-need-to-know-for-2024/"><u>YouTube Shorts Music - Things You Need to Know for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rw2-png-movavi/"><u>무료 RW2 PNG 그림을 직접 인터넷으로 변환하는 단계별 지침 – Movavi 이용</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726228178437-aviogv-movavi/"><u>オンラインでの無料AVIからOGVへの変換 - Movavi</u></a></li>
+</ul></div>
+

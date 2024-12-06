@@ -1,7 +1,7 @@
 ---
 title: "Medical Data Revolutionized by Generative AI for Clinicians: The ZDNet Perspective"
-date: 2024-09-17 22:53:35
-updated: 2024-09-20 10:17:17
+date: 2024-11-30T20:23:49.254Z
+updated: 2024-12-06T17:52:40.015Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-boutonniere-bookmarks-casino-critique/"><u>[New] 2024 Approved BOUTONNIERE BOOKMARKS Casino Critique</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-innovative-youtube-channel-titles-the-key-to-successful-blogging-and-filmmaking-no-more-than-156-characters/"><u>[New] 2024 Approved Innovative YouTube Channel Titles The Key to Successful Blogging & Filmmaking (No More than 156 Characters)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-principled-steps-in-logging-live-youtube-videos/"><u>[Updated] In 2024, Principled Steps in Logging Live YouTube Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-game-console-deals-under-100/"><u>[Updated] Ultimate Game Console Deals Under 100$</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-come-digitalizzare-le-tue-migliori-memorie-dai-vhs-al-dvd-in-pochi-e-facili-passaggi/"><u>1. Come Digitalizzare Le Tue Migliori Memorie: Dai VHS Al DVD in Pochi E Facili Passaggi</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-7-artificial-intelligence-powered-voice-synthesizers-compatible-with-pcs-iphones-and-android-devices/"><u>Best 7 Artificial Intelligence-Powered Voice Synthesizers Compatible with PCs, iPhones & Android Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/keyboard-troubles-fix-your-pathfinder-wrath-of-the-righteous-controller-problems-and-solutions/"><u>Keyboard Troubles? Fix Your Pathfinder: Wrath of the Righteous Controller Problems and Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-ppm/"><u>Movavi의 무료 사용기 PPM 애플리케이션: 인터넷을 통해 다양한 형식으로 원활하게 변환 - 안내서</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movaviflacaiff/"><u>MovaviでのオンラインFLAC/AIFFコンバーター: 使いやすさと安全性を兼ね備えた無料サービス!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-free-tool-convert-your-videos-from-flv-format-to-wma-with-ease-using-movavi/"><u>Online FREE Tool: Convert Your Videos From FLV Format to WMA with Ease Using Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ripristina-file-mpeg-in-formato-mov-online-gratuito-software-convertitore/"><u>Ripristina File MPEG in Formato MOV OnLine Gratuito - Software Convertitore</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasforma-i-tuoi-file-video-facilmente-e-gratuitamente-mp4-a-formato-avi-su-e-movaviconvertitoreonline/"><u>Trasforma I Tuoi File Video Facilmente E Gratuitamente: MP4 a Formato AVI Su E-MovaviConvertitoreOnline.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-choosing-the-right-camera-for-professional-music-video-production/"><u>Ultimate Guide: Choosing the Right Camera for Professional Music Video Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vrije-websmerk-flv-naar-mjpeg-konvertor-online-movavi/"><u>Vrije Websmerk FLV Naar MJPEG Konvertor Online - Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/zany-and-exciting-gaming-experience-in-plants-vs-zombies-battle-for-neighborville-reviewed/"><u>Zany and Exciting Gaming Experience in 'Plants Vs. Zombies: Battle for Neighborville' Reviewed</u></a></li>
+</ul></div>
+

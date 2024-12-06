@@ -1,7 +1,7 @@
 ---
 title: Analyzing the Upsurge & Decline of Programming Languages From 2016 - Key Takeaways for Developers | ZDNet
-date: 2024-09-19 19:47:26
-updated: 2024-09-20 10:34:39
+date: 2024-12-05T20:05:18.029Z
+updated: 2024-12-06T19:58:45.355Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-learners-handbook-of-av1-technology/"><u>[New] 2024 Approved The Learner's Handbook of AV1 Technology</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-excel-at-ppt-delivery-google-meet-tactics-for-any-device-for-2024/"><u>[Updated] How to Excel at PPT Delivery Google Meet Tactics for Any Device for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-basics-of-electronic-story-craftsmanship/"><u>[Updated] The Basics of Electronic Story Craftsmanship</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-win11s-potential-with-zoom-conferencing/"><u>[Updated] Unleashing Win11's Potential with Zoom Conferencing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-utilizing-tailored-volume-reduction-in-audacity/"><u>[Updated] Utilizing Tailored Volume Reduction in Audacity</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/dive-into-tech-with-toms-hardware-the-ultimate-guide-for-enthusiasts/"><u>Dive Into Tech with Tom's Hardware - The Ultimate Guide for Enthusiasts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-zte-nubia-z60-ultra-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On ZTE Nubia Z60 Ultra Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://techtrends.techidaily.com/speed-up-your-media-transform-videos-and-audio-in-a-flash-using-winxvideo-ais-gpu-acceleration/"><u>Speed Up Your Media: Transform Videos & Audio in a Flash Using Winxvideo AI's GPU Acceleration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-youtube-video-transformations-into-mpegs-for-2024/"><u>Streamlining YouTube Video Transformations Into MPEGs for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sunbrites-55-inch-veranda-tv-engineered-for-durability-and-brilliant-4k-hd-display-in-any-weather/"><u>SunBrite's 55-Inch Veranda TV: Engineered for Durability & Brilliant 4K HD Display in Any Weather</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-masterful-lunapic-photography-for-2024/"><u>The Complete Guide to Masterful LunaPic Photography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-mobile-vr-experiences-the-leading-10-headsets-for-2024/"><u>Top Mobile VR Experiences - The Leading 10 Headsets for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/what-sets-triller-aside-from-traditional-video-platforms-like-tiktok/"><u>What Sets Triller Aside From Traditional Video Platforms Like TikTok</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Study Indicates Challenges Merging Artificial Intelligence Growth with Agile Practices - Insights From ZDNet
-date: 2024-09-19 20:53:45
-updated: 2024-09-20 11:45:39
+date: 2024-12-05T16:40:19.684Z
+updated: 2024-12-06T18:20:46.266Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-strategies-for-retrieving-private-chat-photos/"><u>[Updated] 2024 Approved Strategies for Retrieving Private Chat Photos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-expert-advice-on-embedding-vimeo-content-in-ms-powerpoint/"><u>[Updated] In 2024, Expert Advice on Embedding Vimeo Content in MS PowerPoint</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-keep-and-store-your-linkedin-videos-with-these-high-quality-downloader-apps/"><u>[Updated] In 2024, Keep and Store Your LinkedIn Videos with These High-Quality Downloader Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/captivate-audiences-gain-views-boosting-engagement-in-tiktok-unboxing-videos-for-2024/"><u>Captivate Audiences, Gain Views Boosting Engagement in TikTok Unboxing Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/capturing-desktop-activity-a-guide-to-screen-recording-with-audio-on-windows-systems/"><u>Capturing Desktop Activity: A Guide to Screen Recording With Audio on Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/combine-multiple-videos-into-one-with-our-no-cost-online-video-editor/"><u>Combine Multiple Videos Into One with Our No-Cost Online Video Editor</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/get-your-favorite-cmt-hits-easy-mp3-and-mp4-file-options-for-online-listening/"><u>Get Your Favorite CMT Hits - Easy MP3 & MP4 File Options for Online Listening</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-y78plus-phone-by-drfone-android/"><u>How to Reset a Locked Vivo Y78+ Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-gif-to-webm-upgrade-convert-your-animations-cost-free-using-top-seo-optimized-solutions/"><u>Online GIF to WebM Upgrade: Convert Your Animations Cost-Free Using Top SEO-Optimized Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-15-melhores-conceitos-geniais-para-colagens-artisticas-descubra-as-tecnicas-mais-populares-com-a-guia-de-movevi/"><u>Os 15 Melhores Conceitos Geniais Para Colagens Artísticas: Descubra as Técnicas Mais Populares Com a Guia De Movevi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasforma-i-file-rmvb-in-mp4-online-e-gratuitamente-con-movavi/"><u>Trasforma I File RMVB in MP4 Online E Gratuitamente Con Movavi</u></a></li>
+</ul></div>
+

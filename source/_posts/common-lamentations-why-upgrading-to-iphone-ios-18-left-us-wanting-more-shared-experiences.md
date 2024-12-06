@@ -1,7 +1,7 @@
 ---
 title: "Common Lamentations: Why Upgrading to iPhone iOS 18 Left Us Wanting More - Shared Experiences"
-date: 2024-11-14T04:08:03.923Z
-updated: 2024-11-17T02:54:47.497Z
+date: 2024-11-30T17:06:34.777Z
+updated: 2024-12-06T17:24:49.152Z
 tags:
   - apple
 categories:
@@ -59,6 +59,10 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -105,27 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-panoramic-power-play-gear-vs-lgcam-showdown/"><u>[New] In 2024, Panoramic Power Play Gear vs LGCam Showdown</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-samsung-ubd-k8500-refreshed-2023-overview/"><u>[New] Samsung UBD-K8500 Refreshed - 2023 Overview</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-supercharge-your-design-with-these-canva-insider-tips/"><u>[Updated] Supercharge Your Design with These Canva Insider Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-9-essential-360-degree-recording-techniques/"><u>[Updated] Ultimate Guide 9 Essential 360-Degree Recording Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-9-premier-video-translators-for-accurate-global-communication/"><u>[Updated] Ultimate Guide 9 Premier Video Translators for Accurate Global Communication</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-and-applying-auto-hdr-a-windows-11-tutorial/"><u>[Updated] Understanding and Applying Auto HDR A Windows 11 Tutorial</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-fine-tuning-minecrafts-ram-for-better-gaming-results/"><u>2024 Approved Fine-Tuning Minecraft's RAM for Better Gaming Results</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-perfect-portrait-retouching-conceal-dont-deceive/"><u>2024 Approved Perfect Portrait Retouching Conceal, Don't Deceive</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-5-ps2-simulators-to-transform-your-ios-gaming/"><u>2024 Approved Top 5 PS2 Simulators to Transform Your iOS Gaming</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-tecno-camon-20-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Tecno Camon 20 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-free-computing-eliminate-cannot-access-device-path-in-windows/"><u>Error-Free Computing: Eliminate 'Cannot Access Device Path' In Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streaming-success-implementing-green-screen-innovations/"><u>In 2024, Streaming Success Implementing Green Screen Innovations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-evolution-of-dynamic-range-control-in-digital-photography-for-2024/"><u>The Evolution of Dynamic Range Control in Digital Photography for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-of-the-best-12-top-online-animation-makers-for-professionals-for-2024/"><u>Updated The Best of the Best 12 Top Online Animation Makers for Professionals for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-elite-camera-tech-review-for-2024/"><u>[New] Elite Camera Tech Review for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-reclaiming-snaps-secret-images/"><u>[New] In 2024, Reclaiming Snap's Secret Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-summit-of-synergy-for-vr-sensations/"><u>[New] Summit of Synergy for VR Sensations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-markets-top-picks-premier-drone-gimbals/"><u>[Updated] In 2024, Market's Top Picks Premier Drone Gimbals</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ps4-gameplay-to-video-an-in-depth-obs-recording-guide-for-2024/"><u>[Updated] PS4 Gameplay to Video - An In-Depth OBS Recording Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-googles-ar-sticker-innovation/"><u>[Updated] Understanding Google's AR Sticker Innovation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-text-boosting-techniques-in-videos/"><u>2024 Approved Top 10 Text Boosting Techniques in Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/digital-image-detail-enhancement-with-top-frameer-tools/"><u>Digital Image Detail Enhancement with Top Frameer Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-mobvoi-ticwatch-pro-3s-dual-screens-and-advanced-gps-boosting-battery-efficiency/"><u>Expert Analysis: Mobvoi TicWatch Pro 3'S Dual Screens & Advanced GPS - Boosting Battery Efficiency</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/stirring-interest-and-emotions-the-ultimate-guide-to-engaging-tiktok-captions/"><u>Stirring Interest & Emotions The Ultimate Guide to Engaging TikTok Captions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-of-outstanding-storytelling-youtubers-this-year/"><u>The Ultimate List of Outstanding Storytelling YouTubers This Year</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-vanguard-of-radio-theatre-composition-for-2024/"><u>The Vanguard of Radio-Theatre Composition for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-secrets-of-movie-maker-for-windows-11-with-our-guide-for-2024/"><u>Unlock the Secrets of Movie Maker for Windows 11 with Our Guide for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

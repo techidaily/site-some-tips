@@ -1,7 +1,7 @@
 ---
 title: "Top 7 Essential Cybersecurity Certs : Expert Picks From ZDNet"
-date: 2024-09-18 19:22:52
-updated: 2024-09-20 11:33:23
+date: 2024-12-01T19:15:02.435Z
+updated: 2024-12-06T16:34:34.263Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-fcp-tutorial-for-new-users/"><u>[Updated] Ultimate FCP Tutorial for New Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-logitech-4k-pro-webcam-complete-review/"><u>2024 Approved Logitech 4K Pro Webcam Complete Review</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-speed-up-secrets-eliminating-unwanted-sound-waves/"><u>2024 Approved Speed-Up Secrets Eliminating Unwanted Sound Waves</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-starter-gear-for-gopro-cameras/"><u>2024 Approved Top Starter Gear for GoPro Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-funny-photo-editor/"><u>2024 Approved Ultimate Funny Photo Editor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-clarity-the-ultimate-video-enhancer-22-techniques/"><u>2024 Approved Unleashing Clarity The Ultimate Video Enhancer 2.2 Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-cinematic-magic-top-5-filmmaking-insights/"><u>2024 Approved Unlocking Cinematic Magic Top 5 Filmmaking Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-top-quality-hdr-camera-brands-and-models/"><u>2024 Approved Unveiling Top-Quality HDR Camera Brands and Models</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-redmi-note-12r-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Redmi Note 12R?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-key-to-captivation-a-guide-to-more-likes-on-your-tiktok-unboxing-videos-for-2024/"><u>The Key to Captivation A Guide to More Likes on Your TikTok Unboxing Videos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/trasforma-i-video-mpe-into-mp4-online-e-gratis-movavi/"><u>Trasforma I Video MPE Into MP4 Online E Gratis - Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862847771-ultimate-connectivity-with-the-new-asrock-z890-taichi-ten-usb-c-ports-including-two-thunderbolt/"><u>Ultimate Connectivity with the New ASRock Z890 Taichi: Ten USB C Ports, Including Two Thunderbolt!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Tecno Spark 20C | Dr.fone</u></a></li>
+</ul></div>
+

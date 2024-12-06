@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Code: A Deep Dive Into Today's Leading Programming Languages, According to ZDNet"
-date: 2024-09-19 15:45:52
-updated: 2024-09-20 11:53:47
+date: 2024-12-02T18:01:37.826Z
+updated: 2024-12-06T16:11:40.079Z
 tags:
   - developer
 categories:
@@ -41,11 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -56,6 +64,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -72,6 +84,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-2-ways-to-add-a-letterbox-for-facebook-videos/"><u>[New] In 2024, 2 Ways to Add a Letterbox for Facebook Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-zoom-skills-for-exceptional-audio-capture-in-podcasting/"><u>[Updated] Essential Zoom Skills for Exceptional Audio Capture in Podcasting</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-most-admired-iphone-based-podcast-platforms/"><u>[Updated] Most Admired iPhone-Based Podcast Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-csata-megallo-az-on-mikroszamara-top-20-kiktatasokkal-gyujtott-el-pc-programokba-es-telefonokba-2024/"><u>A Csata Megálló Az Ön Mikroszámára: Top 20 Kiktatásokkal Gyújtott El PC-Programokba És Telefonokba, 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-avi-gratuit-sur-ligne-changer-des-fichiers-wav-a-laide-de-movavi/"><u>Conversion AVI Gratuit Sur Ligne - Changer Des Fichiers WAV À L'aide De Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-windows-11-techniques-building-hotkeys-for-text-snapping/"><u>Cutting Edge Windows 11 Techniques: Building Hotkeys for Text Snapping</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-generative-ai-essential-information-everyone-should-know/"><u>Demystifying Generative AI: Essential Information Everyone Should Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-conversion-easily-change-ppm-documents-with-movavi/"><u>Free Online Conversion: Easily Change PPM Documents with Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-conversor-de-videos-online-da-movavi-convertendo-seus-arquivos-de-forma-rapida-e-facil/"><u>Gratuito: Conversor De Vídeos Online Da MOVAVI - Convertendo Seus Arquivos De Forma Rápida E Fácil</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guia-de-edicion-vob-con-movavi-unirlos-cortarlos-y-dividirlos-para-mejorar-la-calidad-del-video/"><u>Guía De Edición VOB Con Movavi: Unirlos, Cortarlos Y Dividirlos Para Mejorar La Calidad Del Video</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/how-to-eliminate-audio-glitches-in-windows-10-and-11-essential-tips/"><u>How to Eliminate Audio Glitches in Windows 10 & 11 - Essential Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavii-tod-mov/"><u>MOVAvii 無限制網路上的還原服務 - 免費 TOD 到 MOV 格式轉換</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-leads-the-charge-redefining-ai-in-games/"><u>Steam Leads the Charge: Redefining AI in Games</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/step-by-step-guide-overcoming-challenges-in-installing-your-printers-drivers-by-yl-software-experts/"><u>Step-by-Step Guide: Overcoming Challenges in Installing Your Printer's Drivers by YL Software Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-att-andra-storleken-pa-videofilmer-i-windows-och-mac-os-en-lattlastande-resa-till-guide/"><u>Tips För Att Ändra Storleken På Videofilmer I Windows Och Mac OS - en Lättlästande Resa Till Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcode-your-audio-transform-flac-tracks-into-ringtone-ready-m4rs-at-no-cost-using-our-tool/"><u>Transcode Your Audio - Transform FLAC Tracks Into Ringtone-Ready M4Rs at No Cost Using Our Tool!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-livekernelevent-mishap-with-error-117/"><u>Troubleshooting Tips for Fixing LiveKernelEvent Mishap with Error #117</u></a></li>
+</ul></div>
+

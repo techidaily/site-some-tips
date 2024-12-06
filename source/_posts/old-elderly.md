@@ -1,7 +1,7 @@
 ---
 title: Old - Elderly
-date: 2024-09-17 20:22:43
-updated: 2024-09-20 12:37:36
+date: 2024-11-30T18:54:08.033Z
+updated: 2024-12-06T16:48:56.430Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-voice-customization-leaders-beyond-echo-magic/"><u>[New] 2024 Approved Voice Customization Leaders Beyond Echo Magic</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-tune-tracker-next-gen-audio/"><u>[Updated] In 2024, Tune Tracker Next-Gen Audio</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-windows-10-capture-apps-ultimate-guide-for-2024/"><u>[Updated] Top Windows 10 Capture Apps Ultimate Guide for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/die-top-4-techniken-zur-sicherung-von-yahoo-emails-auf-dem-desktop-eine-umfassende-anleitung/"><u>Die Top 4 Techniken Zur Sicherung Von Yahoo Emails Auf Dem Desktop: Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-your-new-favorite-powerhouse-the-hp-victus-15-for-only-515-on-best-buys-antidote-to-prime-day-featured/"><u>Discover Your New Favorite Powerhouse: The HP Victus 15 for Only $515 on Best Buy's Antidote to Prime Day – Featured</u></a></li>
+<li><a href="https://games-able.techidaily.com/first-foray-of-keychron-lemokey-l3-unleashed/"><u>First Foray of Keychron: Lemokey L3 Unleashed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-configure-remote-desktop-on-windows-11-a-step-by-step-guide/"><u>How to Configure Remote Desktop on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-enable-and-create-restore-points-in-windows-10/"><u>How to Enable and Create Restore Points in Windows 10?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-open-command-prompt-as-administrator-in-windows-11-8-and-81/"><u>How to Open Command Prompt as Administrator in Windows 11, 8 & 8.1</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-stop-avg-free-edition-2015-temporarily/"><u>How to Stop AVG Free Edition 2015 Temporarily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f54-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F54 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-digital-sticky-notes-a-comprehensive-tutorial-for-microsoft-edge-users/"><u>Mastering Digital Sticky Notes: A Comprehensive Tutorial for Microsoft Edge Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/powershot-sx70-hs-a-camera-for-every-adventure/"><u>PowerShot SX70 HS: A Camera for Every Adventure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/set-up-remote-desktop-connection-rdc-in-windows-11/"><u>Set up Remote Desktop Connection (RDC) in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-clearing-browsing-data-and-cookies-on-chrome/"><u>Step-by-Step Guide: Clearing Browsing Data and Cookies on Chrome</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877119-9781601636690-the-real-men-in-black/"><u>The Real Men In Black | Free Book</u></a></li>
+</ul></div>
+

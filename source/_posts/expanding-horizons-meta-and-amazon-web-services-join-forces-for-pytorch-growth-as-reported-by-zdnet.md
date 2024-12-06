@@ -1,7 +1,7 @@
 ---
 title: "Expanding Horizons: Meta and Amazon Web Services Join Forces for PyTorch Growth, as Reported by ZDNet"
-date: 2024-09-18 14:22:34
-updated: 2024-09-20 12:35:50
+date: 2024-12-01T19:35:19.102Z
+updated: 2024-12-06T19:54:20.720Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-building-a-cohesive-setup-synergizing-obs-with-zoom-services/"><u>[New] In 2024, Building a Cohesive Setup Synergizing OBS with Zoom Services</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-waterproof-gopro-filters-for-undersea-film/"><u>[Updated] Best Waterproof GoPro Filters for Undersea Film</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-minds-on-fire-best-gk-quiz-videos-online/"><u>[Updated] Minds on Fire Best GK Quiz Videos Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4-m4r-movavi/"><u>線上免費 MP4 到 M4R 轉換 – Movavi 音效調整工具簡介</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-immagine-tga-a-png-fatto-da-te-metodo-gratuito-su-movavi/"><u>Conversione Immagine TGA a PNG Fatto Da Te: Metodo Gratuito Su Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-optics-the-fundamentals-and-features-of-six-common-photography-lenses/"><u>Exploring Optics: The Fundamentals and Features of Six Common Photography Lenses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-mp3-conversion-mov-to-mp3-with-moveavis-reliable-online-tool/"><u>Free MP3 Conversion: MOV to MP3 with Moveavi's Reliable Online Tool</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728492869561-hdd/"><u>HDDのクリーンアップ：確実にデータ削除の手順を学ぶ</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/quantum-megadesk-pure-4k-multi-touch/"><u>Quantum MegaDesk Pure 4K Multi-Touch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformez-vos-fichiers-mp3-en-ligne-gratuitement-avec-movavi-conversion-facile-et-rapide/"><u>Transformez Vos Fichiers MP3 en Ligne Gratuitement Avec Movavi - Conversion Facile Et Rapide</u></a></li>
+</ul></div>
+

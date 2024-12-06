@@ -1,7 +1,7 @@
 ---
 title: "Six Keys to Successful Agility in Software Design: Insights From the Industry Experts | TechSpot"
-date: 2024-09-17 16:20:50
-updated: 2024-09-20 10:17:52
+date: 2024-12-03T16:13:31.139Z
+updated: 2024-12-06T17:39:59.256Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-freelance-filmmaker-to-full-time-financier-snapchat-storytelling-for-2024/"><u>[New] From Freelance Filmmaker to Full-Time Financier Snapchat Storytelling for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-resolve-chromebooks-video-issue-for-2024/"><u>[New] Resolve Chromebook's Video Issue for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-world-of-google-ar-accessories-and-beyond/"><u>[New] The World of Google AR Accessories, and Beyond</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/"><u>[New] Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncovering-hidden-wellsprings-of-free-graphic-designs/"><u>[New] Uncovering Hidden Wellsprings of Free Graphic Designs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/20plus-artistic-assembly-ideas-for-a-brighter-yard-for-2024/"><u>20+ Artistic Assembly Ideas for a Brighter Yard for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-final-word-on-powerdirector-a-complete-review/"><u>2024 Approved The Final Word on PowerDirector A Complete Review</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-zte-nubia-z60-ultra-unlock-without-password-by-drfone-android/"><u>5 Solutions For ZTE Nubia Z60 Ultra Unlock Without Password</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-step-by-step-journey-through-the-landscape-of-instagram-reels-for-2024/"><u>A Step-by-Step Journey Through the Landscape of Instagram Reels for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/advanced-argon-elite-bootstrap-5-admin-framework-by-creative-tim/"><u>Advanced Argon: Elite Bootstrap 5 Admin Framework by Creative Tim</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ifinds-top-picks-ultimate-list-of-5-leading-programs-to-recover-unrecognized-allocated-and-deleted-sectors-in-windowsmacos-systems/"><u>IFind's Top Picks: Ultimate List of 5 Leading Programs to Recover Unrecognized, Allocated and Deleted Sectors in Windows/macOS Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/moto-g-stylus-phone-review-where-quality-meets-affordability-in-your-pocket/"><u>Moto G Stylus Phone Review: Where Quality Meets Affordability in Your Pocket</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/score-big-dont-miss-out-on-lowest-ever-prices-of-samsung-electronics-on-prime-day/"><u>Score Big – Don't Miss Out on Lowest-Ever Prices of Samsung Electronics on Prime Day</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-handbook-of-gopro-time-lapse-photography-excellence-for-2024/"><u>The Complete Handbook of GoPro Time-Lapse Photography Excellence for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ustream-overview-plus-similar-services-for-2024/"><u>Ustream Overview + Similar Services for 2024</u></a></li>
+</ul></div>
+

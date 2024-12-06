@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Containers Forever: The Game-Changing Impact of Rust and Edera on Container Security | ZDNet"
-date: 2024-09-19 15:19:56
-updated: 2024-09-20 12:59:44
+date: 2024-11-30T20:31:43.212Z
+updated: 2024-12-06T20:33:13.293Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-editing-engine-room/"><u>[New] In 2024, Editing Engine Room</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-what-are-your-rights-exploring-legalities-of-video-sharing-on-fb/"><u>[New] In 2024, What Are Your Rights? Exploring Legalities of Video Sharing on FB</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-cinematic-zoom-effect-focus-on-film/"><u>[New] The Cinematic Zoom Effect Focus on Film</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-mememolding-cutter/"><u>[Updated] MemeMolding Cutter</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-transition-timings-in-premiere-audio/"><u>[Updated] Perfecting Transition Timings in Premiere Audio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-8-selections-of-subtitle-editors-making-srt-on-windowsmac-a-breeze/"><u>[Updated] Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-creativity-in-photography-essential-pixlr-hacks/"><u>[Updated] Unleash Creativity in Photography Essential Pixlr Hacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-angular-video-compilation-android/"><u>2024 Approved The Essential Guide to Angular Video Compilation (Android)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>2024 Approved Top Picks Explore the Best New Windows 10 Apps and Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-under-100-investments-in-action-cameras-top-selections/"><u>2024 Approved Under $100 Investments in Action Cameras – Top Selections</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726027508633-iso/"><u>専用最適化:無料のISOファイル再生ソフトウェアとプレイヤーを見つける - おすすめ</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210720504-9781958313541-a-short-beginners-guide-on-how-to-pray-salah/"><u>A Short Beginners Guide on How to Pray Salah | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guida-al-migliore-software-italiano-per-la-riduzione-delle-dimensioni-dei-video-opzioni-e-consigli/"><u>Guida Al Migliore Software Italiano per La Riduzione Delle Dimensioni Dei Video: Opzioni E Consigli</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-set-up-a-vpn-on-your-apple-vision-pro-and-the-benefits-youll-enjoy-a-detailed-guide-tech-hub/"><u>How To Set Up A VPN On Your Apple Vision Pro And The Benefits You'll Enjoy – A Detailed Guide Tech Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inquiry-and-response-hub-find-answers-on-page-four/"><u>Inquiry & Response Hub - Find Answers on Page Four</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nvestment-tips-from-youtube-experts-for-2024/"><u>Top Investment Tips From YouTube Experts for 2024</u></a></li>
+</ul></div>
+

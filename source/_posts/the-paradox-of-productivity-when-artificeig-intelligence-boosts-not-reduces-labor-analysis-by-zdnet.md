@@ -1,7 +1,7 @@
 ---
 title: "The Paradox of Productivity: When ArtificeIg Intelligence Boosts, Not Reduces Labor - Analysis by ZDNet"
-date: 2024-09-19 10:26:28
-updated: 2024-09-20 10:12:54
+date: 2024-12-05T16:16:20.117Z
+updated: 2024-12-06T16:04:58.350Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-the-art-of-drone-video-recording/"><u>[New] The Art of Drone Video Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-av1-an-entry-point-to-encoding/"><u>[New] Unlocking AV1 An Entry Point to Encoding</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-upcoming-assessment-varied-perspectives/"><u>[New] Upcoming Assessment Varied Perspectives</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-intriguing-stories-flourishing-channels-top-3-techniques/"><u>[Updated] 2024 Approved Intriguing Stories, Flourishing Channels Top 3 Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-comic-strip-editor/"><u>[Updated] Ultimate Comic Strip Editor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unmatched-performance-and-price-select-top-asmr-microphone-picks/"><u>[Updated] Unmatched Performance & Price - Select Top ASMR Microphone Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-funimate-the-ultimate-video-guide/"><u>[Updated] Unveiling Funimate The Ultimate Video Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-an-in-depth-look-at-wirecast-and-what-it-offers/"><u>2024 Approved An In-Depth Look at WireCast and What It Offers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-newcomers-guide-to-youtube-channel-setup-and-money-making-tips/"><u>2024 Approved The Newcomer’s Guide to YouTube Channel Setup & Money-Making Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-15-tips-for-accessing-nba-games-online/"><u>2024 Approved Top 15 Tips for Accessing NBA Games Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unifying-online-collaboration-tools-skype-and-zoom/"><u>2024 Approved Unifying Online Collaboration Tools Skype & Zoom</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-7-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 7 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Infinix Zero 5G 2023 Turbo?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-poco-c55-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Poco C55</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-stopping-discord-startup-and-updates/"><u>Troubleshooting: Stopping Discord Startup and Updates</u></a></li>
+</ul></div>
+

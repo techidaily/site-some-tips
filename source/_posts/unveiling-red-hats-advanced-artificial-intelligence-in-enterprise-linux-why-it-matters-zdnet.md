@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Red Hat's Advanced Artificial Intelligence in Enterprise Linux: Why It Matters [ZDNet]"
-date: 2024-09-18 21:26:46
-updated: 2024-09-20 10:45:11
+date: 2024-12-03T19:47:43.304Z
+updated: 2024-12-06T20:19:00.044Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-broadcast-battlegrounds-where-does-streaming-technology-stand-strongest/"><u>[New] Broadcast Battlegrounds Where Does Streaming Technology Stand Strongest?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-direct-pathway-iphone-files-on-your-desktop-for-2024/"><u>[New] Direct Pathway IPhone Files on Your Desktop for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-beyond-basics-advanced-imaging-and-video-with-hero5-black/"><u>[Updated] Beyond Basics Advanced Imaging & Video with Hero5 Black</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-master-your-media-on-vimeo-with-top-ranked-editors-for-2024/"><u>[Updated] Master Your Media on Vimeo with Top-Ranked Editors for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-hidden-strategies-in-canvas-image-design-toolkit/"><u>[Updated] Top 10 Hidden Strategies in Canva's Image Design Toolkit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227573560-tsmpeg-movavi/"><u>網路直接免費轉換TS到MPEG影片-Movavi 轉檔器</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726222746499-movavi/"><u>網路直通無需付錢，改變音源格式：MOVAVI 自由型編排</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/focusrite-scarlett-18i20-direct-link-to-latest-sound-card-driver-download-for-windows-users/"><u>Focusrite Scarlett 18I20 - Direct Link to Latest Sound Card Driver Download for Windows Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-change-opus-files-to-mp4-format-with-ease/"><u>Free Online Converter: Change Opus Files to MP4 Format with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/google-meet-2024-6/"><u>Google Meet 錄影詳解 2024: 6 種高效錄影方法的深度比較分析</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-conversor-imagenes-en-formato-jpeg-online-herramienta-de-alta-calidad-movavi/"><u>Gratuito Conversor Imagenes en Formato JPEG Online: Herramienta De Alta Calidad - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-free-web-service-convert-your-3gp-files-to-swf-format-instantly/"><u>Movavi's Free Web Service: Convert Your 3GP Files to Swf Format Instantly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-guide-to-designing-captivating-podcast-logos/"><u>The Ultimate Guide to Designing Captivating Podcast Logos</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722987396216-ultimate-guide-resolving-the-new-world-connection-issue/"><u>Ultimate Guide: Resolving the 'New World Connection Issue'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wmvmp3-movavi/"><u>제공된 온라인 WMV/MP3 크리에이션 - Movavi의 무료 기회</u></a></li>
+</ul></div>
+

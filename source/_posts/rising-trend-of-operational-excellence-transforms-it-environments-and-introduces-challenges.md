@@ -1,7 +1,7 @@
 ---
 title: Rising Trend of Operational Excellence Transforms IT Environments and Introduces Challenges
-date: 2024-09-19 20:13:31
-updated: 2024-09-20 11:52:19
+date: 2024-11-29T17:51:23.465Z
+updated: 2024-12-06T17:57:15.925Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-techniques-for-downloading-converting-and-saving-vids-on-twitter-as-mp3s/"><u>[New] Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unparalleled-window-watchers-top-video-player-picks/"><u>[New] Unparalleled Window Watchers Top Video Player Picks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-pixels-to-popularity-crafting-engaging-youtube-thumbnails/"><u>[Updated] From Pixels to Popularity Crafting Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-satirical-genius-in-the-metaverse-how-to-meme-creation/"><u>2024 Approved Unleashing Satirical Genius in the Metaverse – How-To Meme Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-pathway-to-high-quality-images-on-deal/"><u>2024 Approved Unveiling the Pathway to High-Quality Images on Deal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-netflixs-floating-window-feature-effectively/"><u>2024 Approved Utilizing Netflix's Floating Window Feature Effectively</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elite-selections-8-excellent-tripods-for-high-quality-4k-video/"><u>Elite Selections 8 Excellent Tripods for High-Quality 4K Video</u></a></li>
+<li><a href="https://win-blog.techidaily.com/helldivers-2-launch-problems-a-step-by-step-guide-to-fix-the-black-screen-error/"><u>Helldivers 2 Launch Problems: A Step-by-Step Guide to Fix the Black Screen Error</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-audio-equipment-matched-with-4k-cameras/"><u>In 2024, Best Audio Equipment Matched with 4K Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-thorough-review-easy-approach-to-hdr-enhancement/"><u>In 2024, Thorough Review Easy Approach to HDR Enhancement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-to-perfect-green-screen-in-kinemaster/"><u>In 2024, Unveiling the Secrets to Perfect Green Screen in Kinemaster</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/quick-printing-guide-extract-and-print-specific-pages-from-e-books-with-flipbuilders-tools/"><u>Quick Printing Guide: Extract & Print Specific Pages From E-Books with FlipBuilder's Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/six-pioneering-steps-for-moving-mov-files-to-win-11-for-2024/"><u>Six Pioneering Steps for Moving MOV Files to Win 11 for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-16-top-rated-free-avi-video-rotation-tools-for-all-devices/"><u>Updated 16 Top-Rated Free AVI Video Rotation Tools for All Devices</u></a></li>
+</ul></div>
+

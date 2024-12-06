@@ -1,7 +1,7 @@
 ---
 title: "How IBM's Generative AI Innovation Speeds Up Corporate Task Automation: Perspectives on ZDNet"
-date: 2024-09-19 16:56:49
-updated: 2024-09-20 11:59:43
+date: 2024-11-29T19:58:35.617Z
+updated: 2024-12-06T17:06:19.830Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-explore-the-difference-basic-plus-and-pro-in-vimeo-services-for-2024/"><u>[New] Explore The Difference Basic, Plus & Pro in Vimeo Services for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-highlighting-the-best-ios-psp-emulators-1-5-for-2024/"><u>[New] Highlighting the Best iOS PSP Emulators #1-5 for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/irrorless-vs-dslr-cameras-which-is-better-for-videos-for-2024/"><u>[New] Mirrorless Vs. DSLR Cameras Which Is Better for Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227204664-movavijpgpng/"><u>「Movaviで簡単！無料のJPGとPNG画像交換ツール」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/affordable-refurbished-apple-tv-and-siri-remote-setup-at-just-75-insider-look-from-zdnet-ahead-of-festive-rush/"><u>Affordable Refurbished Apple TV and Siri Remote Setup at Just $75 – Insider Look From ZDNET Ahead of Festive Rush</u></a></li>
+<li><a href="https://some-tips.techidaily.com/complimentary-image-and-video-assets-explore-the-creative-library-at-movavi/"><u>Complimentary Image & Video Assets - Explore the Creative Library at Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-void-microphone-problems-a-step-by-step-guide-to-repair/"><u>Corsair Void Microphone Problems - A Step-by-Step Guide to Repair</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-el-mejor-convertidor-wmv-a-wma-gratuito-en-linea-con-movavi/"><u>Descargar El Mejor Convertidor WMV a WMA Gratuito en Línea Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-8-torrent-sites-for-fan-favorite-tv-shows-exploring-with-movavi/"><u>Discover the Ultimate 8 Torrent Sites for Fan-Favorite TV Shows – Exploring with Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-avi-to-wav-transformation-online-effortless-audio-converting-by-movavi/"><u>Free AVI to WAV Transformation Online - Effortless Audio Converting by Movavi!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mejora-la-compresion-de-videos-en-linea-y-sin-coste-trucos-para-mantener-la-alta-calidad-visual/"><u>Mejora La Compresión De Videos en Línea Y Sin Coste: Trucos Para Mantener La Alta Calidad Visual</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reviewing-the-rotibox-beanies-top-notch-audio-and-ultimate-comfort-the-best-of-both-worlds-in-a-hat/"><u>Reviewing the Rotibox Beanies: Top-Notch Audio and Ultimate Comfort - The Best of Both Worlds in a Hat!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-arquivos-ogv-em-webm-livremente-online-com-o-movavi/"><u>Transformar Arquivos OGV Em WEBM Livremente Online Com O Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-glitches-in-fortnite-reactive-measures-to-mend-mic-malfunctions/"><u>Troubleshooting Audio Glitches in Fortnite: Reactive Measures to Mend Mic Malfunctions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-development-power-with-chinas-latest-risc-v-laptop-for-techies-and-engineers-starting-at-just-300/"><u>Unleash Development Power with China's Latest RISC-V Laptop for Techies and Engineers, Starting at Just $300</u></a></li>
+</ul></div>
+

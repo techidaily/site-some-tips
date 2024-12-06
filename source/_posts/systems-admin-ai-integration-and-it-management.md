@@ -1,7 +1,7 @@
 ---
 title: Systems Admin, AI Integration, and IT Management.
-date: 2024-09-18 14:46:29
-updated: 2024-09-20 10:13:24
+date: 2024-12-05T19:55:13.067Z
+updated: 2024-12-06T18:07:07.784Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-freelance-filmmaker-to-full-time-financier-snapchat-storytelling-for-2024/"><u>[New] From Freelance Filmmaker to Full-Time Financier Snapchat Storytelling for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-master-the-art-of-listening-and-viewing-with-best-android-music-vids-for-2024/"><u>[New] Master the Art of Listening and Viewing with Best Android Music Vids for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-perfect-the-cinematic-ig-look-invest-in-slowing-down/"><u>[New] Perfect the Cinematic IG Look Invest in Slowing Down</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-best-5-remote-recorders-online/"><u>[Updated] Best 5 Remote Recorders Online</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-easy-steps-for-exporting-videos-from-youtube-to-dailymotion/"><u>[Updated] In 2024, Easy Steps for Exporting Videos From YouTube to Dailymotion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-solvido-aprenda-como-executar-arquivos-mp4-no-windows-11-um-guia-passo-a-passo/"><u>1. [SOLVIDO] Aprenda Como Executar Arquivos MP4 No Windows 11: Um Guia Passo a Passo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-gratuite-apng-vers-gif-sur-le-web-utilisez-movavi/"><u>Conversion Gratuite APNG Vers GIF Sur Le Web - Utilisez Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/converte-tecas-vob-para-formatos-acessiveis-o-utilitario-on-line-gratis-da-movavi/"><u>Convertê Tecas VOB Para Formatos Acessíveis: O Utilitário On-Line Grátis Da Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-film-projects-with-new-releases-from-movavi-top-video-editor-programs-for-free/"><u>Elevate Your Film Projects with New Releases From Movavi - Top Video Editor Programs for FREE!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/het-aanbod-van-de-grootste-video-editors-voor-windows-los-op-het-vergeleken-met-imovie/"><u>Het Aanbod Van De Grootste Video Editors Voor Windows, Los Op Het Vergeleken Met iMovie!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-oppo-f25-pro-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Oppo F25 Pro 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-unlimited-the-ultimate-video-editing-suite-from-movavi-software/"><u>Movavi Unlimited: The Ultimate Video Editing Suite From Movavi Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techniques-simples-pour-transformer-un-fichier-m4v-en-format-3gp-gratuitement-a-laide-de-logiciels-en-ligne-guide-decortigue/"><u>Techniques Simples Pour Transformer Un Fichier M4V en Format 3GP Gratuitement À L'Aide De Logiciels en Ligne - Guide Décortigué</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-5-fast-solutions-world-of-warships-keeps-freezing-and-crashing-on-pc/"><u>Top 5 Fast Solutions: World of Warships Keeps Freezing & Crashing on PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-jpeg-em-gif-sem-custo-com-o-conversor-da-movavi-versao-web-livre-e-gratuita/"><u>Transformar JPEG Em GIF Sem Custo Com O Conversor Da Movavi - Versão Web Livre E Gratuita</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-guide-frequently-asked-technical-issues-with-winxdvd-winx-hd-video-converter-by-digiarty/"><u>Troubleshooting Guide: Frequently Asked Technical Issues with WinXDVD-WinX HD Video Converter by Digiarty</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-v-purse-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Honor V Purse Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726226290935-mp3-3g2-movavi/"><u>오픈 소스의 MP3를 원격용 3G2 형식으로 자유성 변환 - Movavi 도구</u></a></li>
+</ul></div>
+

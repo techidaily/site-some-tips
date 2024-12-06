@@ -1,7 +1,7 @@
 ---
 title: Unlock the Door to Successful Programming Careers with These Three Key Languages - Advice From ZDNet Experts
-date: 2024-09-17 15:17:47
-updated: 2024-09-20 11:52:26
+date: 2024-12-01T16:07:50.790Z
+updated: 2024-12-06T16:32:21.887Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-enjoy-the-full-range-of-sharing-on-messenger-for-2024/"><u>[New] How to Enjoy the Full Range of Sharing on Messenger for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-innovating-advertising-on-facebook-the-most-effective-videography/"><u>[New] Innovating Advertising on Facebook The Most Effective Videography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfect-pixels-with-pro-android-tips/"><u>[New] Perfect Pixels with Pro Android Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transformative-visuals-the-pixiz-process-for-photo-video-fusion/"><u>[New] Transformative Visuals The Pixiz Process for Photo-Video Fusion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thankful-tailings-templates-for-every-dollar-plan/"><u>[Updated] Thankful Tailings Templates for Every Dollar Plan</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-most-shared-stock-photos-and-their-tales/"><u>[Updated] Top 10 Most Shared Stock Photos and Their Tales</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1728488752669-404-web/"><u>「404遭遇: Webサイト上のページ検索失敗」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-seamless-integration-turning-audio-into-written-format-in-ms-word/"><u>2024 Approved Seamless Integration Turning Audio Into Written Format in MS Word</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-affordable-asmr-experience-awaits/"><u>2024 Approved The Ultimate Affordable ASMR Experience Awaits</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-latency-issues-a-comprehensive-walkthrough-of-the-tracert-command-for-windows-users/"><u>Demystifying Latency Issues: A Comprehensive Walkthrough of the 'Tracert' Command for Windows Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-8-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 8 to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-quick-fix-learn-easily-to-reset-a-stuck-or-broken-keyboard/"><u>Master the Quick Fix: Learn Easily to Reset a Stuck or Broken Keyboard</u></a></li>
+<li><a href="https://win-superb.techidaily.com/simple-methods-for-transferring-contacts-from-pc-to-iphone/"><u>Simple Methods for Transferring Contacts From PC to iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-discover-these-12-free-movie-streaming-platforms/"><u>Ultimate Guide: Discover These 12 Free Movie Streaming Platforms</u></a></li>
+</ul></div>
+

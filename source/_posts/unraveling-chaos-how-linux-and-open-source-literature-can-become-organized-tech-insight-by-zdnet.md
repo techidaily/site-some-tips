@@ -1,7 +1,7 @@
 ---
 title: "Unraveling Chaos: How Linux & Open Source Literature Can Become Organized | Tech Insight by ZDNet"
-date: 2024-09-18 17:31:43
-updated: 2024-09-20 10:20:23
+date: 2024-12-05T19:09:58.553Z
+updated: 2024-12-06T19:52:46.988Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-fine-tuning-soundtracks-with-garageband-expertise/"><u>[New] In 2024, Fine-Tuning Soundtracks with GarageBand Expertise</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nside-the-worlds-most-successful-business-youtube-sites/"><u>[New] Inside the World's Most Successful Business YouTube Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-in-class-karaoke-instruments-ranked-for-ultimate-singing-experience/"><u>Best-in-Class Karaoke Instruments Ranked for Ultimate Singing Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/caixun-4k-ultra-hd-smart-tv-75-inch-review-affordable-quality-unveiled/"><u>Caixun 4K Ultra HD Smart TV - 75 Inch Review: Affordable Quality Unveiled</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/comparing-essentials-bx50-versus-mx500-which-device-wins/"><u>Comparing Essentials: BX50# Versus MX500 - Which Device Wins?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-elite-selection-premier-17-inch-laptops-for-253/"><u>Discover the Elite Selection: Premier 17-Inch Laptops for 2^53</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211341649-9781667469607-ecrire-pour-etre-heureux/"><u>Écrire pour être heureux | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-social-gaming-by-live-streaming-your-xbox-games/"><u>Enhance Social Gaming by Live Streaming Your Xbox Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evaluating-the-mohu-blade-antenna-exceptional-aesthetics-with-strong-indoor-digital-reception-capability/"><u>Evaluating the Mohu Blade Antenna: Exceptional Aesthetics with Strong Indoor Digital Reception Capability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-analysis-the-ultimate-test-of-the-razer-portal-for-online-play/"><u>Expert Analysis: The Ultimate Test of the Razer Portal for Online Play</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-d3dxtoolsdll-missing-error-on-windows-7/"><u>Fixing d3dxtools.dll Missing Error on Windows 7</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-xerox-printer-connectivity-on-win11/"><u>Improve Xerox Printer Connectivity on Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-the-huawei-p30-pro-top-reasons-it-remains-my-favorite/"><u>In-Depth Analysis of the Huawei P30 Pro - Top Reasons It Remains My Favorite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-class-review-on-byb-e430-the-superior-swing-arm-led-illumination-solution/"><u>Master Class Review on BYB E430: The Superior Swing Arm LED Illumination Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/precision-portions-with-petsafe-an-insiders-look-at-their-automatic-feeder-for-health-conscious-pet-owners/"><u>Precision Portions with PetSafe: An Insider's Look at Their Automatic Feeder for Health-Conscious Pet Owners</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210232215-9780753734797-the-crystal-healer/"><u>The Crystal Healer | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-selection-of-best-apple-band-straps-thoroughly-tested-and-reviewed-zdnet/"><u>Ultimate Selection of Best Apple Band Straps - Thoroughly Tested & Reviewed | ZDNET</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Major Milestone Reached in Open Source AI Specification Amidst Disagreement | ZDNet
-date: 2024-09-17 21:32:29
-updated: 2024-09-20 11:20:47
+date: 2024-12-04T18:17:41.520Z
+updated: 2024-12-06T17:34:05.330Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-art-of-internet-laughter-10-ultimate-memes/"><u>[New] 2024 Approved The Art of Internet Laughter - 10 Ultimate Memes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-techniques-to-perfectly-transcribe-ppts-for-2024/"><u>[New] Techniques to Perfectly Transcribe PPTs for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-demystifying-instagrams-videography-restrictions/"><u>[Updated] Demystifying Instagram's Videography Restrictions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/webmmp4-movavi/"><u>自由搜尋線上從WEBM到MP4格式切換 - 採用Movavi解答方案</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descubriendo-el-concepto-del-codec-explicacion-y-significado-detallado/"><u>Descubriendo El Concepto Del Códec: Explicación Y Significado Detallado</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-realme-c33-2023-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Realme C33 2023 Through Google Earth?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/image-weaving-the-art-of-photomontages-for-2024/"><u>Image Weaving The Art of Photomontages for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-12-pro-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 12 Pro with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/melhor-editor-de-fotos-para-apple-mac-introducao-ao-melodious-magix-photo-director/"><u>Melhor Editor De Fotos Para Apple MAc: Introdução Ao Melodious Magix Photo Director</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mka-flac-on-line/"><u>MKA FLAC 오디오 파일을 원근금지적으로 변환하는 방법: On-Line 가이드</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227676149-mp4-mov/"><u>MP4 형식으로 MOV 비디오를 원활하게 전환하기 위한 단계별 가이드</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pbm/"><u>PBM 이미지를 원격으로 무료 바이트 스트림으로 전환하는 방법 - 모비아비</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/stay-connected-seamlessly-a-detailed-analysis-of-the-4g-enabled-mobvoi-ticwatch-pro-smartwatch/"><u>Stay Connected Seamlessly: A Detailed Analysis of the 4G-Enabled Mobvoi Ticwatch Pro Smartwatch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcodificar-video-de-avi-a-wmv-online-sin-coste-guia-paso-a-paso-con-movavi/"><u>Transcodificar Video De AVI a WMV Online Sin Coste: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformez-sans-frais-votre-audio-m4r-en-ogg-grace-a-movavi-online/"><u>Transformez Sans Frais Votre Audio M4R en Ogg Grâce À Movavi Online</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mastering-color-grading-in-final-cut-pro-2023/"><u>Updated Mastering Color Grading in Final Cut Pro 2023</u></a></li>
+</ul></div>
+

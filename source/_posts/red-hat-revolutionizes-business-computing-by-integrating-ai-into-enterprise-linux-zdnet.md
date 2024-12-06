@@ -1,7 +1,7 @@
 ---
 title: Red Hat Revolutionizes Business Computing by Integrating AI Into Enterprise Linux | ZDNet
-date: 2024-09-19 15:26:38
-updated: 2024-09-20 10:26:30
+date: 2024-11-29T18:59:46.847Z
+updated: 2024-12-06T19:04:03.769Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-bandicam-revisited-a-deep-dive-into-screen-recording-for-2024/"><u>[New] Bandicam Revisited A Deep Dive Into Screen Recording for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-8-windows-11-video-snatchers-unveiled/"><u>2024 Approved Top 8 Windows 11 Video Snatchers Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/audacitys-guide-to-complimentary-audio-file-upgrade-from-au-to-high-quality-flac-streaming/"><u>Audacity's Guide to Complimentary Audio File Upgrade From AU to High-Quality FLAC Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprendre-les-conditions-du-contrat-de-license-dutilisation-finale-avec-la-logiciel-movavi/"><u>Comprendre Les Conditions Du Contrat De License D'Utilisation Finale Avec La Logiciel Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-convertidor-de-audio-libre-gratuito-para-archivo-aiff-a-mp3-con-movavi/"><u>Descargar Convertidor De Audio Libre Gratuito Para Archivo AIFF a MP3 Con Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-locked-iphone-screens-unlock-portrait-mode/"><u>Fixing Locked iPhone Screens: Unlock Portrait Mode</u></a></li>
+<li><a href="https://some-tips.techidaily.com/formateo-libre-de-archivos-aac-a-aiff-por-movavi-metodo-facil-y-sin-coste/"><u>Formateo Libre De Archivos AAC a AIFF Por Movavi: Método Fácil Y Sin Coste</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guia-paso-a-paso-para-convertir-videos-flv-en-formatos-de-audio-mp3-gratuitamente-mediante-movavi/"><u>Guía Paso a Paso Para Convertir Videos FLV en Formatos De Audio MP3 Gratuitamente Mediante Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-crafting-a-viral-path-best-hashtags-for-youtube-riches/"><u>In 2024, Crafting a Viral Path Best Hashtags for YouTube Riches</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-mastering-virtual-space-insights-into-vr-cinema/"><u>In 2024, Mastering Virtual Space Insights Into VR Cinema</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726221377678-jpeg-movavi/"><u>JPEGファイルの無料オンライン変換 - Movaviで簡単行う方法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-convertitore-video-gratuito-per-mod-ottenere-il-tuo-ora/"><u>Movavi Convertitore Video Gratuito per Mod: Ottenere Il Tuo Ora!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-melhores-gravadores-inalambricos-para-audio-interno-selecao-do-movavi-em-2024-todas-as-opcoes-livres/"><u>Os Melhores Gravadores Inalámbricos Para Áudio Interno: Seleção Do Movavi Em 2024 – Todas as Opções Livres</u></a></li>
+<li><a href="https://os-tips.techidaily.com/superior-alternative-styluses-to-the-apple-pencil-boost-creativity-and-productivity/"><u>Superior Alternative Styluses to the Apple Pencil: Boost Creativity and Productivity</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-free-photo-editing-apps-for-macos-your-complete-guide/"><u>Top Free Photo Editing Apps for macOS : Your Complete Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-vision-ventures-a-complete-cms-selection-journey/"><u>Unified Vision Ventures A Complete CMS Selection Journey</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-chromebooks-best-android-video-editors-you-need-to-try/"><u>Updated 2024 Approved Chromebooks Best Android Video Editors You Need to Try</u></a></li>
+</ul></div>
+

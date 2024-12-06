@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Jim Zemlin's Insights: The Linux Foundation's Expertise in Open Source Strategies - Featured on ZDNet"
-date: 2024-09-19 21:51:46
-updated: 2024-09-20 12:42:43
+date: 2024-12-04T16:07:08.271Z
+updated: 2024-12-06T20:25:43.441Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-complete-guide-timer-addition-to-video-broadcast-platforms/"><u>[New] 2024 Approved Complete Guide Timer Addition to Video Broadcast Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-silencing-background-noise-in-obs-feeds/"><u>[New] 2024 Approved Silencing Background Noise in OBS Feeds</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-seamlessly-post-vimeo-to-instagram/"><u>[New] Seamlessly Post Vimeo to Instagram</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-macs-image-file-transformation/"><u>[Updated] 2024 Approved The Ultimate Guide to Mac's Image File Transformation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/authoritative-ranking-the-elite-choices-of-bodycams-for-security-forces/"><u>Authoritative Ranking: The Elite Choices of Bodycams for Security Forces</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-facilement-vos-fichiers-mka-vers-format-avi-sur-internet-gratuitement-via-le-service-de-movavi/"><u>Convertissez Facilement Vos Fichiers MKA Vers Format AVI Sur Internet Gratuitement via Le Service De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-flv-naar-ogv-converter-vrije-diensten-professioneel-techniek-movavi/"><u>Online FLV Naar OGV Converter Vrije Diensten - Professioneel Techniek Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-challenge-of-poor-framerate-in-dying-light-proven-fixes-revealed/"><u>Overcoming the Challenge of Poor Framerate in Dying Light: Proven Fixes Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-and-simple-rmvb-to-wmv-file-transformation-no-cost/"><u>Quick and Simple RMVB to WMV File Transformation - No Cost!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-flvs-a-formatos-de-video-movil-como-3gp-sin-coste-con-conversor-de-videollamas/"><u>Transforma FLVs a Formatos De Video Móvil Como 3GP Sin Coste Con Conversor De Videollamas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformez-votre-contenu-audio-aif-en-format-ogg-sans-frais-a-laide-de-movavi-une-solution-facile-et-rapide/"><u>Transformez Votre Contenu Audio AIF en Format OGG Sans Frais À L'aide De Movavi : Une Solution Facile Et Rapide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-11-budget-friendly-creativity-for-youtube-names-for-2024/"><u>Unlock 11 Budget-Friendly Creativity for YouTube Names for 2024</u></a></li>
+</ul></div>
+

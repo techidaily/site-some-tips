@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Revival: Why Enterprises Are Turning Back to OpenStack and Embracing Kata Containers Again"
-date: 2024-09-18 11:54:20
-updated: 2024-09-20 11:48:38
+date: 2024-12-01T18:47:39.052Z
+updated: 2024-12-06T20:32:46.366Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-cognitive-conclave-selective-general-knowledge-channels/"><u>[New] Cognitive Conclave Selective General Knowledge Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-supreme-song-synchronizer-app-android/"><u>[New] Supreme Song Synchronizer App (Android)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ultimate-list-top-18-high-def-camcorders/"><u>[New] Ultimate List Top 18 High-Def Camcorders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-ensuring-total-sound-from-partially-muted-fb-media/"><u>[Updated] Ensuring Total Sound From Partially Muted FB Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-archivists-guide-reviving-yesteryears-vhs-artistry-in-todays-editing-space/"><u>2024 Approved The Archivist's Guide Reviving Yesteryear’s VHS Artistry in Today's Editing Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-30-tones-where-to-find-classical-callouts/"><u>2024 Approved Top 30 Tones Where to Find Classical Callouts</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-data-initiatives-elevate-web-metrics-today/"><u>Cookiebot Driven Data Initiatives - Elevate Web Metrics Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-methods-for-converting-mmm-soundtracks-to-mp3-and-various-audio-types/"><u>Easy Methods for Converting MMM Soundtracks to MP3 and Various Audio Types</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-photos-mastering-time-lapse-with-samsung-mobile/"><u>In 2024, Transform Your Photos Mastering Time Lapse with Samsung Mobile</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971338131-quick-download-microsoft-ergo-desktop-4000-drivers-get-started-now/"><u>Quick Download: Microsoft Ergo Desktop 4000 Drivers - Get Started Now</u></a></li>
+<li><a href="https://fox-search.techidaily.com/sichere-drei-methoden-zum-speichern-von-windows-11-auf-einer-externen-festplatte-eine-genaue-anleitung/"><u>Sichere Drei Methoden Zum Speichern Von Windows 11 Auf Einer Externen Festplatte - Eine Genaue Anleitung</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/solving-the-issue-of-your-ipads-inability-to-display-videos/"><u>Solving the Issue of Your iPad's Inability to Display Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-soundwaves-compreeved-websites-for-skype-audio-for-2024/"><u>The Soundwaves Compreeved Websites for Skype Audio for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-unseen-factors-in-determining-a-videos-view-count-on-youtube/"><u>The Unseen Factors in Determining a Video’s View Count on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tutorial-turning-on-hdr-for-windows-11-users-for-2024/"><u>Tutorial Turning on HDR for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-live-soundscape-websites-for-2024/"><u>Ultimate Live Soundscape Websites for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition-for-2024/"><u>Unlock High-End Visuals A Practical Guide for SDR to HDR Transition for 2024</u></a></li>
+</ul></div>
+

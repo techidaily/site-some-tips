@@ -1,7 +1,7 @@
 ---
 title: "AI Development Surges as Concerns Over Insufficient Openness Persist: Insights From ZDNet"
-date: 2024-09-18 21:16:33
-updated: 2024-09-20 10:41:25
+date: 2024-12-02T20:22:38.736Z
+updated: 2024-12-06T17:57:15.219Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-boosting-your-instagram-game-with-collage-tips/"><u>[New] Boosting Your Instagram Game with Collage Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-do-creators-profit-from-product-evaluations-on-youtube/"><u>[New] Do Creators Profit From Product Evaluations on YouTube?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-your-guide-to-affordable-android-recording-with-top-8-free-apps/"><u>[New] In 2024, Your Guide to Affordable Android Recording with Top 8 Free Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-stream-control-tactics-10-ways-to-unwind-live-play/"><u>[New] Stream Control Tactics 10 Ways to Unwind Live Play</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-online-presence-with-cookiebots-advanced-analytics-and-personalization-tools/"><u>Boost Your Online Presence with Cookiebot's Advanced Analytics and Personalization Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-online-engagement-with-cookiebot-technology-integration/"><u>Boosting Online Engagement with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-automation-enhance-your-digital-presence/"><u>Cookiebot-Driven Automation: Enhance Your Digital Presence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-digital-marketing-success/"><u>Cookiebot-Driven Digital Marketing Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-website-optimization-solutions/"><u>Cookiebot-Enabled Website Optimization Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/customized-marketing-with-automated-cookiebot-solutions/"><u>Customized Marketing with Automated Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-abbyys-lance-vantage-2-is-revolutionizing-digital-change-with-its-innovative-ai-driven-marketplace/"><u>Discover How ABBYY's Lance Vantage 2 Is Revolutionizing Digital Change with Its Innovative AI-Driven Marketplace</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-razer-manowar-microphone-failure/"><u>Expert Advice on Resolving Razer ManO'War Microphone Failure</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-15-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 15 iCloud Bypass</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-14-pro-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 14 Pro Passcode Easily Video Inside</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-v30-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on V30</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/vocabulary-victory-why-learning-languages-at-40plus-boosts-your-brainpower/"><u>Vocabulary Victory: Why Learning Languages at 40+ Boosts Your Brainpower</u></a></li>
+</ul></div>
+

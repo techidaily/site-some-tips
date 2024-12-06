@@ -1,7 +1,7 @@
 ---
 title: "How Canonical Revolutionized Computing: 20 Years of Pioneering the Ubuntu Linux Experience | Insights From ZDNET"
-date: 2024-09-17 14:15:16
-updated: 2024-09-20 11:24:48
+date: 2024-12-04T20:11:40.114Z
+updated: 2024-12-06T16:09:23.787Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-art-of-freezing-out-the-backdrop-in-your-design/"><u>[New] Master the Art of Freezing Out the Backdrop in Your Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-basics-of-dynamic-media-artistry/"><u>[New] The Basics of Dynamic Media Artistry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-asus-proart-pa-329q-professionals-features/"><u>[New] The Complete Guide to Asus ProArt PA 329Q Professional's Features</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-a-quick-guide-to-moving-videos-from-youtube-to-dailymotion/"><u>[Updated] 2024 Approved A Quick Guide to Moving Videos From YouTube to Dailymotion</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-bambuser-intro-video-summary-width-x-height-encoding-seconds-for-2024/"><u>[Updated] Bambuser Intro Video Summary Width X Height, Encoding, Seconds for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-key-to-combining-linktree-and-tiktok-biographies/"><u>[Updated] The Key to Combining Linktree and TikTok Biographies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-tier-eighth-edition-of-image-blender-tool/"><u>[Updated] Top Tier Eighth Edition of Image Blender Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unparalleled-pc-sound-control/"><u>[Updated] Unparalleled PC Sound Control</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-uav-picks-to-elevate-gopro-cinematography/"><u>2024 Approved Superior UAV Picks to Elevate GoPro Cinematography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-epitome-of-visual-perfection-top-10-monitors-for-mac-users/"><u>2024 Approved The Epitome of Visual Perfection - Top 10 Monitors for Mac Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-meme-artisans-guide-to-shaping-social-interaction-gifs/"><u>2024 Approved The Meme Artisan's Guide to Shaping Social Interaction (GIFs)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-selection-choosing-excellent-free-srt-translators/"><u>2024 Approved Ultimate Selection Choosing Excellent FREE SRT Translators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilization-of-unused-film-clips-tips-and-tricks/"><u>2024 Approved Utilization of Unused Film Clips Tips and Tricks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/beginners-booklet-on-backdrops-and-blending-for-2024/"><u>Beginner's Booklet on Backdrops & Blending for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/experience-unlimited-recording-review-of-free-screen-tools-for-cameras-for-2024/"><u>Experience Unlimited Recording – Review of Free Screen Tools for Cameras for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-mp4-to-gif-converter-movavi-guide/"><u>Free Online MP4 to GIF Converter - Movavi Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-8-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95608376-9781449460808-prudent-advice-for-every-woman/"><u>Prudent Advice for Every Woman | Free Book</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-the-samsung-galaxy-note-9-reigns-supreme-as-the-premier-big-screen-mobile/"><u>Why the Samsung Galaxy Note 9 Reigns Supreme as the Premier Big-Screen Mobile</u></a></li>
+</ul></div>
+

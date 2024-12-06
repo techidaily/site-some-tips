@@ -1,7 +1,7 @@
 ---
 title: Top Software Engineering Careers & Popular Coding Languages of Tomorrow | ZDNet
-date: 2024-09-18 22:33:55
-updated: 2024-09-20 10:55:51
+date: 2024-12-05T19:58:45.920Z
+updated: 2024-12-06T18:34:17.757Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-step-by-step-guide-to-creating-virtual-space-with-iphone/"><u>[New] Step-by-Step Guide to Creating Virtual Space with iPhone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-making-history-a-present-using-camera-roll-in-snaps/"><u>[Updated] 2024 Approved Making History a Present - Using Camera Roll in Snaps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/adjusting-video-aspect-ratios-easily-guides-for-converting-from-169-43-and-more/"><u>Adjusting Video Aspect Ratios Easily – Guides for Converting From 16:9, 4:3, and More</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-realme-gt-neo-5-se-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Realme GT Neo 5 SE is off? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-libre-de-mp3-a-m4b-online-con-movavi/"><u>Conversión Libre De MP3 a M4B Online Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-swf-files-effortlessly-with-movavis-no-cost-mp4-encoder-tool/"><u>Convert SWF Files Effortlessly with Movavi's No-Cost MP4 Encoder Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertidores-webm-libres-e-instantaneos-para-cambiar-tu-animacion-gif-herramientas-por-movavi/"><u>Convertidores WebM Libres E Instantáneos Para Cambiar Tu Animación GIF - Herramientas Por Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhance-in-built-soundscape-resolving-windows-1n-11s-muted-sound-dilemma/"><u>Enhance In-Built Soundscape: Resolving Windows 1N 11'S Muted Sound Dilemma</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-meizu-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Meizu</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-upload-videos-from-a-computer-pc-or-mac-to-your-instagram-profile/"><u>How to Upload Videos From a Computer (PC or Mac) to Your Instagram Profile</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-complete-examination-the-video-show-app/"><u>In 2024, Complete Examination The Video Show App</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-mastery-top-manycam-features-and-virtual-cam-tech/"><u>Live Streaming Mastery: Top ManyCam Features and Virtual Cam Tech</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/maximize-productivity-use-an-external-screen-for-touch-control-on-any-macbook-find-out-more-here/"><u>Maximize Productivity: Use an External Screen for Touch Control on Any MacBook - Find Out More Here</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mejor-editor-de-video-para-mac-herramienta-profesional-de-edicion-digital-con-soluciones-inteligentes/"><u>Mejor Editor De Video Para Mac - Herramienta Profesional De Edición Digital Con Soluciones Inteligentes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-mislabelled-faces-a-guide-to-correcting-apple-photos-identifications/"><u>Resolving Mislabelled Faces: A Guide to Correcting Apple Photos Identifications</u></a></li>
+</ul></div>
+

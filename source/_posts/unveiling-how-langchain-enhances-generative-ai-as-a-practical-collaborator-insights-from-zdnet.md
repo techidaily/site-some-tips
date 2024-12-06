@@ -1,7 +1,7 @@
 ---
 title: Unveiling How LangChain Enhances Generative AI as a Practical Collaborator - Insights From ZDNet
-date: 2024-09-17 15:33:37
-updated: 2024-09-20 10:18:59
+date: 2024-12-02T18:20:26.807Z
+updated: 2024-12-06T18:55:03.030Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-capture-creativity-best-plugins-and-websites-for-photoshopping-with-frames/"><u>[New] Capture Creativity Best Plugins and Websites for Photoshopping with Frames</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-correcting-mute-issue-during-obs-recording/"><u>[New] In 2024, Correcting Mute Issue During OBS Recording</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-rethinking-tiktok-a-2023-guide-to-alternative-networks/"><u>[New] In 2024, Rethinking TikTok A 2023 Guide to Alternative Networks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-impact-uploading-srt-subtitles-to-popular-networks-seamlessly/"><u>[New] Maximizing Impact Uploading SRT Subtitles to Popular Networks Seamlessly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-free-hd-video-capture-tools-the-complete-review/"><u>[Updated] 2024 Approved Free HD Video Capture Tools The Complete Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-every-angle-not-just-a-single-plane/"><u>[Updated] Capturing Every Angle, Not Just a Single Plane</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-master-the-skill-of-learning-behind-screen-scenes/"><u>[Updated] In 2024, Master the Skill of Learning Behind Screen Scenes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-driver-safety-and-productivity-learn-about-mobile-gps-tools-in-car-task-management-and-avoiding-distractions-on-the-road-tips-from-abbyy-experts.m13/"><u>Enhancing Driver Safety & Productivity: Learn About Mobile GPS Tools, In-Car Task Management, and Avoiding Distractions on the Road | Tips From ABBYY Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-medical-efficiency-streamlining-referrals-and-boosting-patient-outcomes/"><u>Enhancing Medical Efficiency: Streamlining Referrals and Boosting Patient Outcomes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/establishing-strong-roots-key-steps-towards-achieving-innovative-change-in-ap-operations/"><u>Establishing Strong Roots: Key Steps Towards Achieving Innovative Change in AP Operations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harness-the-power-of-cookiebot-for-optimized-website-traffic/"><u>Harness the Power of Cookiebot for Optimized Website Traffic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/healthcare-organizations-trust-abbyys-powerful-ocr-technology-for-automated-classification-of-critical-documents-latest-update-from-abbyy-newsroom/"><u>Healthcare Organizations Trust ABBYY's Powerful OCR Technology for Automated Classification of Critical Documents - Latest Update From ABBYY Newsroom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-psa-securitys-transition-to-paperless-ap-revolutionizes-corporate-efficiency/"><u>How PSA Security's Transition to Paperless AP Revolutionizes Corporate Efficiency</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-epson-xp-310-driver-version-get-it-here-for-free/"><u>Latest Epson XP 310 Driver Version – Get It Here for Free!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-abbyys-power-streamlining-eucon-workflows-with-smart-ocr-solutions/"><u>Leveraging ABBYY's Power: Streamlining Eucon Workflows with Smart OCR Solutions</u></a></li>
+</ul></div>
+

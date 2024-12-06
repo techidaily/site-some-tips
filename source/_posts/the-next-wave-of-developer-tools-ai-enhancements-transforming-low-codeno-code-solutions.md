@@ -1,7 +1,7 @@
 ---
 title: "The Next Wave of Developer Tools: AI Enhancements Transforming Low-Code/No-Code Solutions"
-date: 2024-09-19 14:28:39
-updated: 2024-09-20 12:41:11
+date: 2024-12-02T16:59:43.211Z
+updated: 2024-12-06T17:20:41.993Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-inside-vidma-a-new-chapter-in-video-capture-tech/"><u>[Updated] 2024 Approved Inside Vidma A New Chapter in Video Capture Tech</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-3-step-formula-how-to-check-youtube-income/"><u>[Updated] In 2024, [3-Step Formula] How To Check YouTube Income</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-the-price-of-youtube-marketing/"><u>2024 Approved Mastering the Price of YouTube Marketing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pngjpeg-movavi/"><u>免費網站移動PNG成JPEG - 用Movavi進行無損格式轉換</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wepbjpeg-movavi/"><u>無償で簡単WepbJpegファイルを移行 - Movaviのガイド</u></a></li>
+<li><a href="https://some-tips.techidaily.com/converti-file-mp4-in-formato-m4v-free-su-internet-con-movavi/"><u>Converti File MP4 in Formato M4V Free Su Internet Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-votre-animation-gif-en-video-m4v-pour-rien-effortless-video-converter/"><u>Convertissez Votre Animation GIF en Vidéo M4V Pour Rien - Effortless Video Converter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effective-strategies-for-earning-revenue-from-your-online-videos/"><u>Effective Strategies for Earning Revenue From Your Online Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-mp4-vers-jpeg-en-ligne-convertisseur-video-rapide/"><u>Gratuit MP4 Vers JPEG en Ligne - Convertisseur Vidéo Rapide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/iphone-voice-memo-recording-guide/"><u>IPhone Voice Memo Recording Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/jpg-image-te-een-gif-vervangen-gratis-met-de-kloknemers-van-movavi-online/"><u>JPG-Image Te Een Gif Vervangen Gratis Met De Kloknemers Van Movavi Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-platforms-for-youtube-video-exposure/"><u>Optimal Platforms for YouTube Video Exposure</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-and-effective-methods-for-screen-video-capture-on-mac-devices-through-internal-software/"><u>Quick and Effective Methods for Screen Video Capture on Mac Devices Through Internal Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/silent-symphony-a-compendium-of-top-speech-to-text-tools-for-2024/"><u>Silent Symphony A Compendium of Top Speech-to-Text Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-converting-imovie-projects-into-hd-quality-mp4-format/"><u>Ultimate Guide: Converting iMovie Projects Into HD-Quality MP4 Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-full-potential-of-wsl-2-in-windows-oses/"><u>Unlock Full Potential of WSL 2 in Windows OSes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726226976704-mp3-wma/"><u>무료 MP3, WMA 제공 - 최고의 오디오 변환 도구로 다양한 오디오 파일을 전환하기</u></a></li>
+</ul></div>
+

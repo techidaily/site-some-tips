@@ -1,7 +1,7 @@
 ---
 title: Master SQL with Premier Online Course Selection – Find the Ultimate Guide to Database Mastery
-date: 2024-09-17 11:55:50
-updated: 2024-09-20 12:50:33
+date: 2024-12-05T17:13:08.382Z
+updated: 2024-12-06T16:38:35.158Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-dissecting-the-income-from-a-million-on-youtube-for-2024/"><u>[Updated] Dissecting the Income From a Million on YouTube for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-sonys-masterpiece-in-motion-graphics-xperia-xz-premium-unboxed/"><u>[Updated] In 2024, Sony's Masterpiece in Motion Graphics Xperia XZ Premium Unboxed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cambiar-archivos-de-video-de-quicktime-qt-a-avi-sin-costo-alguno-servicio-en-linea-rapido-con-movavi/"><u>Cambiar Archivos De Video De QuickTime (QT) a AVI Sin Costo Alguno - Servicio en Línea Rápido Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-videos-free-mkv-to-mov-format-with-movavis-web-service/"><u>Convert Videos FREE - MKV to MOV Format with Movavi's Web Service</u></a></li>
+<li><a href="https://some-tips.techidaily.com/entendiendo-los-archivos-mov-una-guia-completa-para-abrir-y-utilizar-este-formato/"><u>Entendiendo Los Archivos .MOV: Una Guía Completa Para Abrir Y Utilizar Este Formato</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oppo-reno-10-proplus-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Oppo Reno 10 Pro+ 5G online without jailbreak</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-sculpt-the-subject-mastering-the-art-of-background-takedown/"><u>In 2024, Sculpt the Subject Mastering the Art of Background Takedown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/invest-i-movavi-multimedia-forstehjelpen-for-dvs-med-media/"><u>Invest I Movavi Multimedia - Førstehjelpen for Dvs Med Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/la-formule-facile-pour-conserver-vos-videos-de-tiktok-sous-toutes-formes-et-sur-tous-les-appareils/"><u>La Formule Facile Pour Conserver Vos Vidéos De TikTok Sous Toutes Formes Et Sur Tous Les Appareils !</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-vrijetijdspositie-ga-gratis-door-de-konverteren-van-opus-naar-flac-met-movavi/"><u>Online Vrijetijdspositie - Ga Gratis Door De Konverteren Van OPUS Naar FLAC Met Movavi</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/oundational-steps-to-your-distinctive-marketing-voice-for-2024/"><u>The Foundational Steps to Your Distinctive Marketing Voice for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-asus-rog-phone-7-ultimate-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Asus ROG Phone 7 Ultimate Phone Network-Ready</u></a></li>
+</ul></div>
+

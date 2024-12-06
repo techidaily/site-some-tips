@@ -1,7 +1,7 @@
 ---
 title: "DevOps Engineer: Unveiling the Pros, Cons, and Challenges - Insightful Guide for Aspiring Professionals"
-date: 2024-09-18 16:46:22
-updated: 2024-09-20 12:17:57
+date: 2024-11-29T16:11:35.628Z
+updated: 2024-12-06T17:08:11.095Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-20-action-recording-solutions-summary/"><u>[New] Top 20 Action Recording Solutions Summary</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-next-gen-gaming-the-best-oculus-players-uncovered/"><u>[Updated] 2024 Approved Next-Gen Gaming The Best Oculus Players Uncovered</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-best-15-programs-to-edit-gopro-footage-for-2024/"><u>[Updated] Best 15 Programs to Edit GoPro Footage for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-honor-100-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Honor 100? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-poco-f5-pro-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Poco F5 Pro 5G Easily?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pause-non-selected-youtube-video-suggestions/"><u>In 2024, Pause Non-Selected YouTube Video Suggestions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamstart-beginner-friendly-podcast-live-broadcast-guide/"><u>In 2024, StreamStart Beginner-Friendly Podcast Live Broadcast Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-checking-website-reachability/"><u>Mastering the Art of Checking Website Reachability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/supreme-reconciliation-of-vr-realms-for-2024/"><u>Supreme Reconciliation of VR Realms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-drone-equipment-collection-guide-for-2024/"><u>The Complete Drone Equipment Collection Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-iphone-xs-full-potential-for-2024/"><u>Unlock Your iPhone X's Full Potential for 2024</u></a></li>
+</ul></div>
+

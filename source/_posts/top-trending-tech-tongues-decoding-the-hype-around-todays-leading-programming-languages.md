@@ -1,7 +1,7 @@
 ---
 title: "Top Trending Tech Tongues: Decoding the Hype Around Today's Leading Programming Languages"
-date: 2024-09-19 10:23:28
-updated: 2024-09-20 10:42:48
+date: 2024-12-02T19:07:51.009Z
+updated: 2024-12-06T19:38:38.911Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-superior-applications-for-image-driven-video-creation/"><u>[New] Superior Applications for Image-Driven Video Creation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-gigglegenius-funniest-memes-await/"><u>[Updated] GiggleGenius Funniest Memes Await</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-joining-live-shows-a-tiktok-perspective/"><u>2024 Approved Joining Live Shows A TikTok Perspective</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-blueprint-to-surge-in-youtubers-popularity/"><u>2024 Approved The Blueprint to Surge in Youtubers' Popularity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-for-seamless-system-evolutions/"><u>2024 Approved The Essentials for Seamless System Evolutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-invalid-folder-name-dilemeba-expert-tips-and-techniques/"><u>Bypassing the 'Invalid Folder Name' Dilemeba: Expert Tips & Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-laughing-photo-editing-tools-iosandroid/"><u>In 2024, Ultimate Guide to Laughing Photo Editing Tools (iOS/Android)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/netgear-nighthawk-x6-wi-fi-mesh-extender-review-feature-packed/"><u>Netgear Nighthawk X6 Wi-Fi Mesh Extender Review: Feature Packed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-ratio-reference-for-youtube-videos-and-ads/"><u>The Ultimate Ratio Reference for YouTube Videos & Ads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-platforms-for-amplifying-youtube-content-for-2024/"><u>Top Platforms for Amplifying YouTube Content for 2024</u></a></li>
+</ul></div>
+

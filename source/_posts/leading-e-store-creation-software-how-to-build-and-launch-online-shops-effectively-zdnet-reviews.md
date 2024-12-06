@@ -1,7 +1,7 @@
 ---
 title: "Leading E-Store Creation Software : How to Build and Launch Online Shops Effectively | ZDNET Reviews"
-date: 2024-09-17 12:38:11
-updated: 2024-09-20 10:55:24
+date: 2024-11-29T20:27:32.362Z
+updated: 2024-12-06T16:57:26.060Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-video-editing-simplified-the-best-hacks-for-new-creators/"><u>[New] 2024 Approved Video Editing Simplified The Best Hacks for New Creators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-creativity-top-20-vlogger-themes/"><u>[New] Unlocking Creativity Top 20 Vlogger Themes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-best-youtube-video-reverser-online-plushowtos/"><u>[Updated] Best YouTube Video Reverser Online [+Howtos]</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-smart-strategies-achieving-advertising-excellence-for-2024/"><u>[Updated] Smart Strategies Achieving Advertising Excellence for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-crafting-irresistible-titles/"><u>[Updated] The Ultimate Guide to Crafting Irresistible Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-virtual-reality-games-oculus-vs-htc-vive-vs-playstation-vr-showdown/"><u>[Updated] Top Virtual Reality Games Oculus vs HTC Vive vs PlayStation VR Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-potential-of-your-phone-individual-ringtone-creation-on-android/"><u>[Updated] Unlock the Potential of Your Phone Individual Ringtone Creation on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-world-of-haptic-navigation-systems/"><u>[Updated] Unveiling the World of Haptic Navigation Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-creative-edge-advanced-tips-for-shooting-with-gopro-hero5-black/"><u>2024 Approved The Creative Edge Advanced Tips for Shooting with GoPro Hero5 Black</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/flavorful-futures-ai-driven-gourmet-journey/"><u>Flavorful Futures: AI-Driven Gourmet Journey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-optimal-sites-for-snagging-snapchat-alert-tunes/"><u>In 2024, Top Picks Optimal Sites for Snagging Snapchat Alert Tunes</u></a></li>
+<li><a href="https://win11.techidaily.com/nix-the-need-for-speedy-pointers-on-windows-11/"><u>Nix the Need for Speedy Pointers on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restarting-the-difficulty-of-launching-photoshop-in-modern-oses/"><u>Restarting the Difficulty of Launching Photoshop in Modern OSes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/taking-flight-in-video-editing-a-drone-perspective/"><u>Taking Flight in Video Editing A Drone Perspective</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-writers-guide-to-responsible-technological-assistance/"><u>The Writer's Guide to Responsible Technological Assistance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-resolving-the-red-dead-redemption-groblems-of-errgfxstate-error/"><u>Troubleshooting and Resolving the Red Dead Redemption Groblems of ERR_GFX_STATE Error</u></a></li>
+</ul></div>
+

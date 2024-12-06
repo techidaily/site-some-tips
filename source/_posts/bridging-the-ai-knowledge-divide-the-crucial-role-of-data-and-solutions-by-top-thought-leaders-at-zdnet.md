@@ -1,7 +1,7 @@
 ---
 title: "Bridging the AI Knowledge Divide: The Crucial Role of Data and Solutions by Top Thought Leaders at ZDNET"
-date: 2024-09-17 16:36:15
-updated: 2024-09-20 11:39:49
+date: 2024-11-30T20:21:13.696Z
+updated: 2024-12-06T16:02:36.908Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/1726224657063-x-plus-y-plus-z-(-21/"><u> [ X + Y + Z < 21 </u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlocking-youtube-secrets-sharing-videos-in-google-wallet/"><u>[Updated] In 2024, Unlocking YouTube Secrets Sharing Videos in Google Wallet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722056614329-best-artificnial-intelligence-assistants-deciding-between-microsofts-bing-chat-or-googles-chatgpt/"><u>Best Artificnial Intelligence Assistants? Deciding Between Microsoft's Bing Chat or Google's ChatGPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boosting-collaboration-mastery-of-zoom-capabilities-in-win10-for-2024/"><u>Boosting Collaboration Mastery of Zoom Capabilities in Win10 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-libre-dun-fichier-aac-au-format-mp3-via-internet-avec-movavi/"><u>Conversion Libre D'un Fichier AAC Au Format MP3 via Internet Avec Movavi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-peekcapture-review-of-low-res-screen-grabs/"><u>In 2024, PeekCapture Review of Low-Res Screen Grabs</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/instantly-convert-your-pef-images-to-pngs-for-free-using-the-moveavi-tool/"><u>Instantly Convert Your PEF Images to PNGs for Free Using the Moveavi Tool</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-pc-restart-overcoming-trouble-with-windows-10-power-down/"><u>Mastering PC Restart: Overcoming Trouble with Windows 10 Power Down</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-opus/"><u>Movavi 오픈소스를 쉽고 무료로 OPUS 형식으로 변환: 비용과 시간을 모두 절침하는 전문가 기법</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/spark-imagination-with-the-top-drawing-apps-on-android-devices/"><u>Spark Imagination with the Top Drawing Apps on Android Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformation-de-fichiers-avi-en-aac-sans-frais-sur-le-site-web-movavi/"><u>Transformation De Fichiers AVI en AAC Sans Frais Sur Le Site Web Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/verslindende-videoformaten-voor-youtube-expertise-van-movavi-verhelpt-het-beste-formatscoaching/"><u>Verslindende Videoformaten Voor YouTube - Expertise Van Movavi Verhelpt Het Beste Formatscoaching</u></a></li>
+</ul></div>
+

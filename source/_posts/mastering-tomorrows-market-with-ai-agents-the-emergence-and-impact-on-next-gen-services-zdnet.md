@@ -1,7 +1,7 @@
 ---
 title: "Mastering Tomorrow's Market with AI Agents: The Emergence and Impact on Next-Gen Services | ZDNet"
-date: 2024-09-17 20:57:58
-updated: 2024-09-20 11:18:24
+date: 2024-12-01T17:22:33.655Z
+updated: 2024-12-06T16:31:07.162Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-advanced-zoom-strategies-for-clarity-in-web-meetings/"><u>[New] Advanced Zoom Strategies for Clarity in Web Meetings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-editmaster-app/"><u>[New] EditMaster App</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-perfecting-movie-recording-your-multiplatform-strategy-for-2024/"><u>[New] Perfecting Movie Recording Your Multiplatform Strategy for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-about-pixel-fold-2-projected-pricing-expected-arrival-and-tech-specs-rumor-rundown/"><u>All About Pixel Fold 2: Projected Pricing, Expected Arrival, and Tech Specs - Rumor Rundown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-optimizing-site-engagement/"><u>Cookiebot-Enhanced User Experience: Optimizing Site Engagement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-immersion-selecting-the-top-10-vr-headsets-on-pc/"><u>Cutting-Edge Immersion Selecting the Top 10 VR Headsets on PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/elite-video-editing-tools-tailored-to-windows-platforms/"><u>Elite Video Editing Tools Tailored to Windows Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-personalization-through-innovative-cookiebot-solutions/"><u>Enhanced Personalization Through Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-personalization-with-cookiebot-technology/"><u>Enhanced Personalization with Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-client-trust-in-financial-institutions-with-abbyy-id-proofing-and-confirmation-services/"><u>Enhancing Client Trust in Financial Institutions with ABBYY ID Proofing and Confirmation Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-site-analytics-through-innovative-cookiebot-technology/"><u>Experience Enhanced Site Analytics Through Innovative Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-user-engagement-website-performance-boosted-using-innovative-solution-cookiebot-integration/"><u>Experience Enhanced User Engagement: Website Performance Boosted Using Innovative Solution - Cookiebot Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-comprehensive-worldwide-idp-report-by-abbyy-insights-and-findings/"><u>Exploring the Comprehensive Worldwide IDP Report by ABBYY: Insights and Findings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-world-of-process-intelligence-insights-and-applications/"><u>Exploring the World of Process Intelligence: Insights and Applications</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/get-in-touch-discover-everything-you-need-to-know-about-aomei-data-recovery/"><u>Get in Touch: Discover Everything You Need to Know About AOMEI Data Recovery!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-abbyy-leads-digital-evolution-for-modern-insurers-strategic-transformation-tactics/"><u>How ABBYY Leads Digital Evolution for Modern Insurers: Strategic Transformation Tactics</u></a></li>
+<li><a href="https://os-tips.techidaily.com/identifying-a-blocked-caller-id-via-imessage-a-step-by-step-guide/"><u>Identifying a Blocked Caller ID via iMessage – A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-xcover-7-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy XCover 7 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fixes-for-your-logitech-c615-mouse-solving-common-driver-problems/"><u>Quick Fixes for Your Logitech C615 Mouse: Solving Common Driver Problems</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Gartner's 2024 Predictions: The Evolution of AI and Emerging Technologies - Insights for Tomorrow"
-date: 2024-09-18 14:49:50
-updated: 2024-09-20 12:40:10
+date: 2024-12-03T18:19:59.568Z
+updated: 2024-12-06T19:02:03.607Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-interconnected-digital-universes-meta-and-omni/"><u>[New] Exploring Interconnected Digital Universes Meta & Omni</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-finding-storylines-with-google-trends-analysis-techniques/"><u>[Updated] Finding Storylines with Google Trends Analysis Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-master-the-art-of-superior-image-quality-enable-youtubes-av1/"><u>[Updated] Master the Art of Superior Image Quality Enable YouTube's AV1</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-tailored-approach-software-free-vs-softwares-for-vimeo-download-for-2024/"><u>[Updated] Tailored Approach Software-Free Vs. Softwares For Vimeo Download for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/5-effektive-massnahmen-zur-optimierung-von-papierbasierten-ablaufen-durch-intelligente-automatisierung-losungen-mit-abbyy/"><u>5 Effektive Maßnahmen Zur Optimierung Von Papierbasierten Abläufen Durch Intelligente Automatisierung – Lösungen Mit ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/94-der-firmen-verlieren-potenzielle-kunden-wahrend-des-onboarding-prozesses-wie-kann-das-vermieden-werden/"><u>94% Der Firmen Verlieren Potenzielle Kunden Während Des Onboarding-Prozesses - Wie Kann Das Vermieden Werden?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyys-content-intelligence-revolutionizing-the-financial-sector-and-accounting-practices/"><u>ABBYY's Content Intelligence: Revolutionizing the Financial Sector and Accounting Practices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alteryx-and-abbyy/"><u>Alteryx & ABBYYの新しい提携で最先端の処理洞察が革新される</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-ai-video-editors-top-picks-for-mac-and-windows-platforms/"><u>Best Free AI Video Editors – Top Picks for Mac and Windows Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-site-engagement-with-cookiebots-advanced-data-tracking-technology/"><u>Boost Site Engagement with Cookiebot's Advanced Data Tracking Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-traffic-with-cookiebots-advanced-analytics-and-conversion-solutions/"><u>Boost Your Traffic with Cookiebot's Advanced Analytics and Conversion Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-marketing-unleashing-the-full-potential-of-your-digital-strategy/"><u>Cookiebot-Driven Marketing: Unleashing the Full Potential of Your Digital Strategy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience-with-smart-analytics/"><u>Cookiebot-Driven Personalization: Enhancing User Experience with Smart Analytics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-how-ai-fuses-fantasy-with-fact-through-eight-innovative-strategies/"><u>Exploring How AI Fuses Fantasy with Fact Through Eight Innovative Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-a-check-for-updates-context-menu-option-in-windows-10-and-11/"><u>How to Add a Check for Updates Context Menu Option in Windows 10 and 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-gifts-from-abroad-to-eng/"><u>Linguistic Gifts From Abroad to Eng</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/thermal-conductivity-detector-tcd/"><u>Thermal Conductivity Detector (TCD):</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-of-the-next-gen-google-pixel-fold-2-expected-costs-and-release-schedule/"><u>Unlocking the Secrets of the Next-Gen Google Pixel Fold 2 - Expected Costs and Release Schedule</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1724312968539-abbyy-timeline/"><u>デジタル化時代の革命: ABBYY Timelineで強化されたプロセスデジタルツイン</u></a></li>
+</ul></div>
+

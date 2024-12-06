@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Skills at The Edge - Beyond Artificial Intelligence with ZDNet
-date: 2024-09-17 10:20:24
-updated: 2024-09-20 11:51:54
+date: 2024-12-04T19:08:58.836Z
+updated: 2024-12-06T17:46:06.747Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-giggle-gallery-exploring-the-best-15-hilarious-video-picks/"><u>[Updated] 2024 Approved Giggle Gallery Exploring the Best 15 Hilarious Video Picks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-personalize-facebook-page-with-video-for-2024/"><u>[Updated] Personalize Facebook Page with Video for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavimxfwmv/"><u>如何使用Movavi将MXF免费转换为WMV格式：在线快速、高效转换服务</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-access-to-advanced-image-creation-mastering-dall-e-3-with-microsofts-search-engine/"><u>Free Access to Advanced Image Creation: Mastering DALL-E 3 with Microsoft's Search Engine</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-your-tunes-in-mp3m4r-by-changing-aif-files-for-free-with-our-easy-online-tool/"><u>Get Your Tunes in MP3/M4R by Changing AIF Files for Free with Our Easy Online Tool!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-update-nvidia-geforce-980-ti-video-card-drivers/"><u>How to Download & Update NVIDIA GeForce 980 Ti Video Card Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-transformation-from-m4a-to-mkv-without-costs-discover-the-power-of-movavi/"><u>Online Transformation From M4A to MKV without Costs: Discover the Power of Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pure-windows-performing-a-clean-reinstallation/"><u>Pure Windows: Performing a Clean Reinstallation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sichere-und-schnelle-feststellung-durch-intelligenten-datendurchlauf/"><u>Sichere Und Schnelle Feststellung Durch Intelligenten Datendurchlauf</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/tailoring-drop-dates-to-maximize-listener-interest/"><u>Tailoring Drop Dates to Maximize Listener Interest</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-art-of-professionalising-a-roadmap-in-graphic-design-for-2024/"><u>The Art of Professionalising A Roadmap in Graphic Design for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-methods-to-create-a-screen-recording-on-your-iphone-11-a-comprehensive-guide/"><u>Top 4 Methods to Create a Screen Recording on Your iPhone 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-archivo-mxf-a-formato-mp4-gratis-en-linea-con-convertidor-de-movavi/"><u>Transformar Archivo MXF a Formato MP4 Gratis en Línea Con Convertidor De Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-maximum-message-length-strategies-to-exceed-the-characters-allowed/"><u>Understanding ChatGPT's Maximum Message Length: Strategies to Exceed the Characters Allowed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/web-opus-ogg-movavi/"><u>Web에서 무료 OPUS OGG 제공 모드 – Movavi용 사전 처리 기술</u></a></li>
+</ul></div>
+

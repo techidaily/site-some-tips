@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Open Source on Advancing Artificial Intelligence: An In-Depth Analysis"
-date: 2024-09-17 21:49:58
-updated: 2024-09-20 11:18:30
+date: 2024-11-29T17:30:17.265Z
+updated: 2024-12-06T18:37:58.720Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/the-goofy-adventure-a-critical-appraisal-videotape-edition-for-2024/"><u>'The Goofy Adventure' - A Critical Appraisal Videotape Edition for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-shadowy-time-lapse-recording-methods/"><u>[New] In 2024, Shadowy Time-Lapse Recording Methods</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-importance-of-secondary-footage-in-engaging-editors/"><u>[New] The Importance of Secondary Footage in Engaging Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-creative-expressions-building-stories-from-photos-in-pixiz/"><u>[New] Unlock Creative Expressions Building Stories From Photos in Pixiz</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-reddit-presence-with-these-tactics/"><u>[Updated] Transform Your Reddit Presence with These Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-the-potential-of-iphone-photos-through-motion-blur/"><u>[Updated] Unleashing the Potential of iPhone Photos Through Motion Blur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unparalleled-harmony-collector-android-based/"><u>[Updated] Unparalleled Harmony Collector, Android-Based</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-plating-palette-techniques-for-food-cinematography/"><u>2024 Approved The Plating Palette Techniques for Food Cinematography</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-ultimate-tutorial-on-precise-audioshifting/"><u>2024 Approved Ultimate Tutorial on Precise Audioshifting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-and-steam-a-comprehensive-guide-to-resolving-download-issues/"><u>Cyberpunk 2077 and Steam: A Comprehensive Guide to Resolving Download Issues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-windows-11-camcorders-and-webcams-guide-for-2024/"><u>Essential Windows 11 Camcorders & Webcams Guide for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-navigating-to-safe-mode-and-disabling-graphics-card-software-in-windows-8-systems/"><u>Expert Advice: Navigating to Safe Mode and Disabling Graphics Card Software in Windows 8 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-shoppers-quick-guide-to-choosing-top-notch-360cams/"><u>In 2024, The Shopper’s Quick Guide to Choosing Top-Notch 360Cams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-microscopic-views-on-ms-teams-chat-for-2024/"><u>Mastering Microscopic Views on MS Teams Chat for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/topline-numbers-pewdiepies-yearly-income-for-2024/"><u>Topline Numbers PewDiePie's Yearly Income for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-mysterious-fluid-found-in-charger-port-of-iphone-issue-choose-wisely-insights-from-tech-guru/"><u>Troubleshooting the Mysterious 'Fluid Found in Charger Port of iPhone' Issue: Choose Wisely! - Insights From Tech Guru</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-countdown-magic-in-fcpx-a-3-step-tutorial-for-beginners/"><u>Updated In 2024, Countdown Magic in FCPX A 3-Step Tutorial for Beginners</u></a></li>
+</ul></div>
+

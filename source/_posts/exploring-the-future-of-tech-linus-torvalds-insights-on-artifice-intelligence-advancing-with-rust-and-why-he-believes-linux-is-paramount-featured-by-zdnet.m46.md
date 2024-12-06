@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Future of Tech: Linus Torvalds Insights on Artifice Intelligence, Advancing with Rust, and Why He Believes Linux Is Paramount - Featured by ZDNET"
-date: 2024-09-18 10:16:12
-updated: 2024-09-20 11:58:30
+date: 2024-12-03T16:24:52.853Z
+updated: 2024-12-06T20:15:54.152Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-techniques-of-composing-persuasive-content-in-vlogging-for-2024/"><u>[New] Techniques of Composing Persuasive Content in Vlogging for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-free-capture-precision-best-apps-for-windows-desktop-recording/"><u>[Updated] 2024 Approved Free Capture Precision Best Apps for Windows Desktop Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-generar-una-imagen-animada-gif-a-partir-de-un-video-en-internet-sin-coste/"><u>Cómo Generar Una Imagen Animada (GIF) a Partir De Un Video en Internet Sin Coste</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-kinetic-study-2023/"><u>Comprehensive Kinetic Study 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/een-beginnersguide-voor-png-bestandstypen-waarom-het-bevinden-van-pngs-voor-jouw-webproject-nodig-kan-zijn/"><u>Een Beginnersguide Voor PNG-Bestandstypen: Waarom Het Bevinden Van PNGs Voor Jouw Webproject Nodig Kan Zijn</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977020863-find-your-dell-wd19-driver-here-safe-download-and-step-by-step-install-instructions/"><u>Find Your Dell WD19 Driver Here! Safe Download and Step-by-Step Install Instructions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-convertisseur-video-avi-en-ogv-par-movavi/"><u>Gratuit Online : Convertisseur Vidéo AVI en OGV Par Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Oppo Reno 11 5G</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-discover-fresh-windows-10-gaming-and-application-delights/"><u>In 2024, Discover Fresh Windows 10 Gaming & Application Delights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-f5-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco F5 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mov-to-mkv-transformation-hassle-free-online-and-at-zero-cost/"><u>MOV to MKV Transformation - Hassle-Free, Online and at Zero Cost!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4-to-mpg-file-changer-downloadable-app-offers-fast-no-cost-upgrades-with-movavis-help/"><u>MP4 to MPG File Changer: Downloadable App Offers Fast, No-Cost Upgrades with Movavi's Help</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-tecnicas-para-combinar-duas-fotografias-com-fotoeditor-e-alternativas-em-2024/"><u>Top 5 Técnicas Para Combinar Duas Fotografias Com FotoEditor E Alternativas Em 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-8-enhancement-packs-for-live-video-feeds-for-2024/"><u>Ultimate 8 Enhancement Packs for Live Video Feeds for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-gameplay-best-4k-hdmi-21-display-for-players/"><u>Ultimate Gameplay Best 4K (HDMI 2.1) Display for Players</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-flvogv-movavi/"><u>무료 Online FLV/OGV 변환 소프트웨어 - Movavi의 최신 방법을 배우세요!</u></a></li>
+</ul></div>
+

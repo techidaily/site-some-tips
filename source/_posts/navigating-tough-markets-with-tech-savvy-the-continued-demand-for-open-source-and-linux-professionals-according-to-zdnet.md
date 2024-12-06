@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tough Markets with Tech Savvy: The Continued Demand for Open Source and Linux Professionals, According to ZDNet"
-date: 2024-09-19 23:25:23
-updated: 2024-09-20 11:55:56
+date: 2024-11-30T19:38:56.244Z
+updated: 2024-12-06T19:20:19.256Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-perfect-your-content-instagram-reel-best-practices/"><u>[New] Perfect Your Content Instagram Reel Best Practices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-list-of-religious-ringing-sounds/"><u>[New] The Essential List of Religious Ringing Sounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac/"><u>[New] The Ultimate Guide to Leveraging Preview Capabilities on a Mac</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-guide-on-turning-dynamic-hdr-on-in-windows-11/"><u>[Updated] 2024 Approved Guide on Turning Dynamic HDR on in Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unveiling-the-strengths-and-weaknesses-of-presenter-8/"><u>[Updated] In 2024, Unveiling the Strengths and Weaknesses of Presenter 8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-threefold-stabilization-to-shine-your-iphone-videos/"><u>[Updated] Threefold Stabilization to Shine Your iPhone Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-podcasters-guide-to-seamless-streaming-setup/"><u>2024 Approved The Podcaster’s Guide to Seamless Streaming Setup</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-scripts-that-reshape-cinematic-history/"><u>In 2024, Scripts that Reshape Cinematic History</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-16-from-motorola-moto-g73-5g-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 16 from Motorola Moto G73 5G to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-huawei-p20-pros-stunning-camera-features-and-solid-performance/"><u>In-Depth Look at the Huawei P20 Pro's Stunning Camera Features and Solid Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/m3-macbook-pro-info-hub-unveiling-date-price-range-and-full-tech-specs-breakdown/"><u>M3 MacBook Pro Info Hub: Unveiling Date, Price Range & Full Tech Specs Breakdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-image-creation-with-chatgpt-expert-tips-and-strategies/"><u>Mastering AI Image Creation with ChatGPT: Expert Tips and Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-iphone-photography-shadow-techniques-for-2024/"><u>The Art of iPhone Photography Shadow Techniques for 2024</u></a></li>
+</ul></div>
+

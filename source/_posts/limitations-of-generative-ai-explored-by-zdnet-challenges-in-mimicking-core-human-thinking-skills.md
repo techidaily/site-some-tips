@@ -1,7 +1,7 @@
 ---
 title: "Limitations of Generative AI Explored by ZDNet: Challenges in Mimicking Core Human Thinking Skills"
-date: 2024-09-18 10:33:41
-updated: 2024-09-20 10:26:10
+date: 2024-11-30T18:29:33.190Z
+updated: 2024-12-06T16:37:10.489Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-breaking-down-instagrams-per-video-ceiling-for-2024/"><u>[New] Breaking Down Instagram's Per-Video Ceiling for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-navigate-video-settings-ideal-size-and-aspect-ratio-for-youtube/"><u>[Updated] 2024 Approved Navigate Video Settings Ideal Size & Aspect Ratio for YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-talking-heads-visual-techniques-to-engage-audiences/"><u>[Updated] 2024 Approved Talking Heads Visual Techniques to Engage Audiences</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1597081-9781782794400-aphrodites-magic/"><u>Aphrodite's Magic | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-swf-animations-to-gif-format-at-no-cost-using-an-online-tool-movavis-solution/"><u>Convert SWF Animations to GIF Format at No Cost Using an Online Tool: Movavi's Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertir-archivo-swf-a-formato-de-video-mpeg-online-sin-coste/"><u>Convertir Archivo SWF a Formato De Video MPEG Online Sin Coste</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-business-efficiency-with-movavis-customer-service-platform/"><u>Enhance Your Business Efficiency with Movavis Customer Service Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/facil-conversao-de-arquivos-raw-para-dng-gratuita-on-line-pela-inteira-com-suporte-tecnico-pelo-movavi/"><u>Fácil Conversão De Arquivos RAW Para DNG Gratuita On-Line Pela Inteira Com Suporte Técnico Pelo Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-infinix-smart-7-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Infinix Smart 7 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-nokia-c32-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Nokia C32 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kunt-u-wma-files-vrije-en-gratis-in-mov-omzetten-onlinemovavi/"><u>Kunt U WMA-Files Vrije en Gratis in MOV Omzetten - Onlinemovavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-product-distribution-and-returns-policy-comprehensive-guide/"><u>Movavi Product Distribution & Returns Policy - Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-fraktoppsett-og-tilbakevendende-vilje-mastering-your-pension-rights/"><u>Movavis Fraktoppsett Og Tilbakevendende Vilje - Mastering Your Pension Rights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-archiving-made-easy-and-free-convert-arw-images-to-png-with-movavis-conversion-tools/"><u>Online Archiving Made Easy & Free: Convert ARW Images to PNG with Movavi's Conversion Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/passaggio-rapido-e-gratuito-da-webm-a-mp4-il-processo-di-conversione-facile-con-onlineconvmp4/"><u>Passaggio Rapido E Gratuito Da WebM a MP4: Il Processo Di Conversione Facile Con OnlineConvMP4</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformez-vos-fichiers-videos-wtv-en-versions-en-ligne-gratuites-avec-movavi/"><u>Transformez Vos Fichiers Vidéos WTV en Versions en Ligne Gratuites Avec Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-mobile-gamifying-on-netflix-is-a-blast/"><u>Why Mobile Gamifying on Netflix Is a Blast</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "OpenAI's Revolutionary GPT-4 Mini: Cutting Application Expenses, as Featured by ZDNet"
-date: 2024-09-19 19:17:53
-updated: 2024-09-20 10:27:41
+date: 2024-12-03T16:00:59.132Z
+updated: 2024-12-06T20:29:20.328Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-high-quality-web-resources-for-glossy-3d-letters/"><u>[New] In 2024, High-Quality Web Resources for Glossy 3D Letters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-crypto-potential-the-ultimate-list-of-nft-engines/"><u>[New] Unlocking Crypto Potential The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-focussnap-recorder-for-screen-masters/"><u>[Updated] FocusSnap Recorder for Screen Masters</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-master-your-sketches-with-the-ultimate-mac-apps/"><u>[Updated] Master Your Sketches with the Ultimate Mac Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-a-symphony-of-shades-applying-complementary-colors/"><u>2024 Approved A Symphony of Shades Applying Complementary Colors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-intelligence-in-automation-the-synergy-of-abbyy-and-uipath/"><u>Enhancing Intelligence in Automation: The Synergy of ABBYY and UiPath</u></a></li>
+<li><a href="https://some-tips.techidaily.com/environmental-commitment-by-abbyy-over-2000-new-trees-set-for-yearly-planting-press-disclosure/"><u>Environmental Commitment by ABBYY: Over 2,000 New Trees Set for Yearly Planting - Press Disclosure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/federal-tech-innovations-automating-government-with-intelligence-official-podcast/"><u>Federal Tech Innovations: Automating Government with Intelligence - Official Podcast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/going-digital-with-abbyys-advanced-data-capture-tech-revolutionizing-healthcare-management/"><u>Going Digital with ABBYY's Advanced Data Capture Tech: Revolutionizing Healthcare Management</u></a></li>
+<li><a href="https://win-superb.techidaily.com/guia-completa-4-estrategias-faciles-para-rescatar-una-unidad-extraible-desaparecida-en-windows-11/"><u>Guía Completa: 4 Estrategias Fáciles Para Rescatar Una Unidad Extraíble Desaparecida en Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/high-water-pressure/"><u>High Water Pressure:</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-artificial-intelligence-is-revolutionizing-the-landscape-of-banking-and-insurance/"><u>How Artificial Intelligence Is Revolutionizing the Landscape of Banking & Insurance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-smart-seo-tools-tailored-for-success/"><u>Optimize with Cookiebot: Smart SEO Tools Tailored for Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-websites-user-experience-using-advanced-cookieless-tracking-technology/"><u>Revolutionize Your Website's User Experience Using Advanced Cookieless Tracking Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-paperwork-next-generation-smart-document-handling-transforms-efficiency/"><u>Revolutionizing Paperwork: Next-Generation Smart Document Handling Transforms Efficiency</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-tutorial-how-to-wipe-out-user-profile-from-windows-11-pcs/"><u>Ultimate Tutorial: How to Wipe Out User Profile From Windows 11 PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726026973484-zoom/"><u>Zoomセミナーを記録し、永続的に保存する方法を学ぶ！</u></a></li>
+</ul></div>
+

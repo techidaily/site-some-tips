@@ -1,7 +1,7 @@
 ---
 title: "The Present Surge in Instantaneous Innovations: Exploring Uneven Distribution Across Industries"
-date: 2024-09-19 17:58:56
-updated: 2024-09-20 11:53:26
+date: 2024-11-30T17:38:08.640Z
+updated: 2024-12-06T16:00:19.663Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-seamless-browsing-try-these-7-android-adblockers/"><u>2024 Approved Seamless Browsing? Try These 7 Android AdBlockers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/20244k/"><u>2024年度頂級免費4K影片播放解碼器 - 最佳選用清單</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225735608-movavi/"><u>今なりたけ！Movavi 割引キャンペーン - 安価で質の高い動画変換ソフトをお見せします。</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726221246263-oggwebm-movavi/"><u>在線無成本將OGG改造為WEBM格式，利用 Movavi 視頻工具進行轉換</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-close-look-at-the-nixplay-w15a-frame-features/"><u>A Close Look at the Nixplay W15A Frame Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-best-12-device-specific-4k-recording-solutions-with-movavi-technology/"><u>Discover the Best 12 Device-Specific 4K Recording Solutions with Movavi Technology</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-zte-nubia-z60-ultra-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked ZTE Nubia Z60 Ultra Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quiet-quick-clean-auditory-connections/"><u>In 2024, Quiet, Quick, Clean Auditory Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/investigating-post-blue-screen-events-on-windows-7/"><u>Investigating Post-Blue Screen Events on Windows 7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp3-2024-7/"><u>MP3 통합 기술에 대한 모든것: 2024 선보이기, 7가지 고장차를 해결하는 초승 - 음악 합성의 혁명!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-revolutionizing-virtual-conferences-the-top-5-voice-altering-apps-for-google-meet-users/"><u>New In 2024, Revolutionizing Virtual Conferences The Top 5 Voice Altering Apps for Google Meet Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/overcome-dimness-with-easy-iphone-editing/"><u>Overcome Dimness with Easy iPhone Editing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-fifa-19-from-disappearing-expert-tips-to-prevent-game-crashes-on-personal-computers/"><u>Stop FIFA 19 From Disappearing: Expert Tips to Prevent Game Crashes on Personal Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-ultimate-tutorial-for-starting-fresh-with-x-previously-twitter/"><u>Your Ultimate Tutorial For Starting Fresh With X (Previously Twitter)</u></a></li>
+</ul></div>
+

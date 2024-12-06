@@ -1,7 +1,7 @@
 ---
 title: "Organizing Chaos: Taming Linux & Open Source Documentation Woes with Effective Strategies"
-date: 2024-09-18 17:33:45
-updated: 2024-09-20 12:39:31
+date: 2024-12-03T17:54:01.274Z
+updated: 2024-12-06T17:38:10.699Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-of-androids-best-music-video-apps/"><u>[New] The Ultimate List of Android's Best Music Video Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-turn-your-iphone-images-upside-down-with-precision/"><u>[New] Turn Your iPhone Images Upside Down with Precision</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-hidden-videos-no-more-discover-these-12-efficient-methods-for-visible-vids-on-fb/"><u>[Updated] 2024 Approved Hidden Videos No More Discover These 12 Efficient Methods for Visible Vids on FB</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-prime-monitors-ranked-for-ps5-gameplay-for-2024/"><u>[Updated] Prime Monitors Ranked for PS5 Gameplay for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-rating-does-aurora-deliver-quality/"><u>2024 Approved HDR Rating Does Aurora Deliver Quality?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-notch-drones-for-professionals-our-curated-list/"><u>2024 Approved Top-Notch Drones for Professionals – Our Curated List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-storytelling-into-cinematic-art/"><u>2024 Approved Transforming Storytelling Into Cinematic Art</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976143555-adjustment-of-corticosteroid-therapy-with-careful-assessment-to-reduce-their-use-balancing-anti-inflammatory-needs-and-minimizing-immunosuppression/"><u>Adjustment of Corticosteroid Therapy with Careful Assessment to Reduce Their Use, Balancing Anti-Inflammatory Needs and Minimizing Immunosuppression</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essentials-for-building-compelling-canon-time-lapses/"><u>In 2024, The Essentials for Building Compelling Canon Time-Lapses</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-huawei-p60-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Huawei P60 Location | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/winpc2/"><u>フリーで簡単復元！イメージが消えてしまったらWinPCで2つの方法で完全に回収</u></a></li>
+</ul></div>
+

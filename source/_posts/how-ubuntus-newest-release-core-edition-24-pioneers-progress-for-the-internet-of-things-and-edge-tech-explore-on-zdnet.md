@@ -1,7 +1,7 @@
 ---
 title: How Ubuntu's Newest Release, Core Edition 24, Pioneers Progress for the Internet of Things and Edge Tech | Explore on ZDNET
-date: 2024-09-18 23:10:58
-updated: 2024-09-20 10:48:23
+date: 2024-12-01T19:23:22.711Z
+updated: 2024-12-06T17:36:36.871Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-obs-for-android-streaming/"><u>[New] In 2024, Mastering OBS for Android Streaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-value-shooters-with-full-spherical-capture/"><u>[Updated] Best Value Shooters with Full Spherical Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-cutting-edge-of-vid-extraction-top-5-free-fast-pinterest-tools/"><u>[Updated] The Cutting Edge of Vid Extraction Top 5 Free, Fast Pinterest Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-fine-tuning-snapchat-video-velocity/"><u>[Updated] The Ultimate Guide Fine-Tuning Snapchat Video Velocity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pros-choice-of-top-slo-mo-mobile-photography-apps-on-ios-and-android/"><u>2024 Approved Pro's Choice of Top Slo-Mo Mobile Photography Apps on iOS & Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-to-amplify-gopro-battery-duration/"><u>2024 Approved Techniques to Amplify GoPro Battery Duration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-technicalities-of-podcast-rss-file-design/"><u>2024 Approved The Technicalities of Podcast RSS File Design</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-thorough-analysis-of-kensuns-innovative-and-easy-to-carry-tire-inflator/"><u>A Thorough Analysis of Kensun's Innovative & Easy-to-Carry Tire Inflator</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/how-to-fix-your-computers-system-instability-insights-from-yl-computing/"><u>How to Fix Your Computer's System Instability: Insights From YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-infinix-smart-8-plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Infinix Smart 8 Plus without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-online-tips-creating-title-magic/"><u>In 2024, Top Online Tips Creating Title Magic</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unlock-advanced-techniques-to-record-and-edit-videos-on-adobe-connect/"><u>In 2024, Unlock Advanced Techniques to Record & Edit Videos on Adobe Connect</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-exploring-youtube-comments-for-2024/"><u>The Essential Guide to Exploring YouTube Comments for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unveiling-hidden-potential-edit-wonders-on-snapchat-app-for-2024/"><u>Unveiling Hidden Potential Edit Wonders on Snapchat App for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-ustreams-offerings-and-opponents-for-2024/"><u>Unveiling Ustream's Offerings and Opponents for 2024</u></a></li>
+</ul></div>
+

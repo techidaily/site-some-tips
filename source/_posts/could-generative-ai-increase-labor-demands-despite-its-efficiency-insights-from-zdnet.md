@@ -1,7 +1,7 @@
 ---
 title: Could Generative AI Increase Labor Demands Despite Its Efficiency? Insights From ZDNet
-date: 2024-09-19 11:54:13
-updated: 2024-09-20 11:10:56
+date: 2024-12-01T18:56:26.915Z
+updated: 2024-12-06T18:35:56.864Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-harmonious-photographic-overlays-guide/"><u>[New] In 2024, Harmonious Photographic Overlays Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-harness-the-power-of-hashtags-in-instagram-marketing-strategies/"><u>[New] In 2024, Harness the Power of Hashtags in Instagram Marketing Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-comprehensive-guide-to-legally-sharing-music-on-instagram/"><u>[New] The Comprehensive Guide to Legally Sharing Music on Instagram</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ultimate-palette-of-creative-ideas-from-6-graphic-websites/"><u>[Updated] In 2024, The Ultimate Palette of Creative Ideas From 6 Graphic Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-lgs-monitor-revolution-the-complete-examination-of-a-4k-screen/"><u>[Updated] LG's Monitor Revolution The Complete Examination of a 4K Screen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-mastering-pip-a-complete-overview-on-edge-browser/"><u>[Updated] Mastering PIP A Complete Overview on Edge Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-recurrence-installer-collection/"><u>[Updated] Recurrence Installer Collection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-smudge-free-sequence-eliminating-gopro-fog/"><u>[Updated] The Smudge-Free Sequence Eliminating GoPro Fog</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-swiftness-in-fb-video-transfers-with-top-tools-and-extensions/"><u>2024 Approved Unlocking Swiftness in FB Video Transfers with Top Tools and Extensions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-vegas-pro-21-a-comprehenive-examination-for-gamblers-and-techies-alike/"><u>2024 Approved Vegas Pro '21 A Comprehenive Examination for Gamblers and Techies Alike</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/youtube-audio-extractors-free-easy-download-and-convert-for-2024/"><u>Best YouTube Audio Extractors Free, Easy Download & Convert for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/high-performance-computing-redefined-in-depth-analysis-of-the-hp-omen-obelisk/"><u>High-Performance Computing Redefined: In-Depth Analysis of the HP Omen Obelisk</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-comprehensive-blueprint-to-powerdirectors-full-potential/"><u>In 2024, The Comprehensive Blueprint to PowerDirector's Full Potential</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-creative-potential-installing-windows-movie-maker-on-w11/"><u>In 2024, Unlocking Creative Potential Installing Windows Movie Maker on W11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-your-browsers-ai-dialogues-our-picks/"><u>Streamline Your Browser's AI Dialogues: Our Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-prime-collection-of-gopro-complements-for-2024/"><u>The Prime Collection of GoPro Complements for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/top-ranking-hard-drive-backup-solutions-ensuring-data-safety-on-your-pc/"><u>Top-Ranking Hard Drive Backup Solutions: Ensuring Data Safety on Your PC</u></a></li>
+</ul></div>
+

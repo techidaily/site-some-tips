@@ -1,7 +1,7 @@
 ---
 title: Is Google's LaMDA Truly Sentient or Just Another Advanced AI Bot?
-date: 2024-09-19 12:20:18
-updated: 2024-09-20 11:17:25
+date: 2024-12-05T16:05:55.761Z
+updated: 2024-12-06T18:54:47.313Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-x-recorder-for-pc-audio-logger-at-no-cost-for-2024/"><u>[Updated] X-Recorder for Pc Audio Logger at No Cost for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-dialing-up-engagement-youtube-thumbnails-that-convert/"><u>2024 Approved Dialing Up Engagement YouTube Thumbnails That Convert</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266861853-advanced-mobile-recovery-software-for-iphones-recover-deleted-pics-fast/"><u>Advanced Mobile Recovery Software for iPhones - Recover Deleted Pics Fast!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/conquering-flashing-windows-display/"><u>Conquering Flashing Windows Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-e-importar-videos-desde-youtube-sin-costo-alguno-con-la-herramienta-de-conversion-movavi/"><u>Descargar E Importar Videos Desde YouTube Sin Costo Alguno Con La Herramienta De Conversión MOVAVI</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-converting-web-files-with-movavi-omzetten-online/"><u>Gratis Converting Web Files with Movavi - Omzetten Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-omzetting-mp3-files-online-professioneel-werkstattdoek-van-movavi/"><u>Gratis Omzetting MP3-Files Online - Professioneel Werkstattdoek Van Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-most-out-of-your-logitech-hd-webcam-c270-with-updated-drivers-for-windows-pcs/"><u>How to Get the Most Out of Your Logitech HD Webcam C270 with Updated Drivers for Windows PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oppo-a1-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Oppo A1 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-spectacle-of-speed-simulators-top-5/"><u>In 2024, Spectacle of Speed Simulators (Top 5)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/instant-slideshow-creator-download-now/"><u>Instant Slideshow Creator - Download Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-melhores-12-programas-de-videochamada-para-pcs-no-ano-de-202/"><u>Os Melhores 12 Programas De Videochamada Para PCs No Ano De 202</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience-for-2024/"><u>The Ultimate Monitor List for an Immersive Xbox Series X Experience for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-programas-mais-populares-de-gravador-de-dvd-para-sistemas-windows-10-8-e-7-versoes-gratuitas/"><u>Top 6 Programas Mais Populares De Gravador De DVD Para Sistemas Windows 10, 8 E 7 - Versões Gratuitas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-videokomprimere-gratis-online-beste-video-kompresser/"><u>Top Rated Videokomprimere Gratis Online - Beste Video Kompresser</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-vpns-in-depth-comparison-and-reviews-by-industry-experts-zdnet/"><u>Top-Rated iPhone VPNs: In-Depth Comparison & Reviews by Industry Experts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wav-wma-movavi/"><u>온라인 제공: WAV-WMA 변환은 세금 지불 없이 가능하며, Movavi로!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: IOS 18'S First Look Is Here - Beginning with the Public Beta for Certain iPhones Now | How to Download & Eligible Device Specifications | Macworld
-date: 2024-09-18 10:29:58
-updated: 2024-09-20 12:52:47
+date: 2024-11-29T19:07:11.940Z
+updated: 2024-12-06T17:02:33.289Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-chucklecraft-constructor-for-2024/"><u>[New] ChuckleCraft Constructor for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-camera-to-feed-ig-photo-tutorial/"><u>[New] From Camera to Feed IG Photo Tutorial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-expertise-in-app-performance-review/"><u>[New] In 2024, Expertise in App Performance Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-reinvent-storytelling-the-path-to-better-narratives-starts-here/"><u>[New] In 2024, Reinvent Storytelling – The Path to Better Narratives Starts Here</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-key-to-combining-linktree-and-tiktok-biographies/"><u>[New] The Key to Combining Linktree and TikTok Biographies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-total-command-mastery-powerdirector-review-and-guide/"><u>[New] Total Command Mastery PowerDirector Review & Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-free-viewer-cam-parties-for-2024/"><u>[New] Ultimate Free Viewer Cam Parties for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-edits-with-smart-use-of-luts-in-premiere-pro/"><u>[Updated] Transform Your Edits with Smart Use of LUTs in Premiere Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-newest-compatible-cameras-to-match-samsung-gear-360/"><u>2024 Approved Newest Compatible Cameras to Match Samsung Gear 360</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-selecting-premium-text-tools-for-ae/"><u>2024 Approved The Ultimate Guide to Selecting Premium Text Tools for AE</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y100-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723000751969-eliminate-black-screen-glitch-from-your-fallout-n4-gameplay/"><u>Eliminate Black Screen Glitch From Your Fallout N4 Gameplay!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-prime-catchy-headline-creator/"><u>In 2024, Prime Catchy Headline Creator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-sound-connection-a-podcasters-guide/"><u>In 2024, Ultimate Sound Connection A Podcaster's Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unique-14-motion-graphics-showcasing-text/"><u>In 2024, Unique 14 Motion Graphics Showcasing Text</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-8-most-advanced-open-video-call-systems-for-the-workplace/"><u>The 8 Most Advanced Open Video Call Systems for the Workplace</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/windows-quick-glance-a-review-hack/"><u>Windows Quick Glance A Review Hack</u></a></li>
+</ul></div>
+

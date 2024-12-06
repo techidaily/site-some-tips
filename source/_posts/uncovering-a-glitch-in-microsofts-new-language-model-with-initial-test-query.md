@@ -1,7 +1,7 @@
 ---
 title: Uncovering a Glitch in Microsoft's New Language Model with Initial Test Query
-date: 2024-09-19 20:14:59
-updated: 2024-09-20 10:26:12
+date: 2024-12-03T17:09:55.894Z
+updated: 2024-12-06T17:27:54.960Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-launchpad-to-success-the-youtube-entrepreneurs-guide/"><u>[New] 2024 Approved Launchpad to Success The YouTube Entrepreneur's Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-core-elements-in-asmr-visual-media/"><u>[New] The Core Elements in ASMR Visual Media</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-tailored-titles-for-your-youtube-success/"><u>[Updated] Tailored Titles for Your YouTube Success</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1-effizientester-ansatz-zum-kopieren-von-ps3-oder-ps4-festplatten-auf-grossere-hdds-oder-ssds-ein-umfassender-leitfaden/"><u>1. Effizientester Ansatz Zum Kopieren Von PS3- Oder PS4-Festplatten Auf Größere HDDs Oder SSDs: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-swift-tweeting-solutions-with-video-conversion/"><u>2024 Approved Swift Tweeting Solutions with Video Conversion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comment-choisir-le-meilleur-outil-de-reduction-de-taille-video-solutions-pratiques-et-comparaisons/"><u>Comment Choisir Le Meilleur Outil De Réduction De Taille Vidéo : Solutions Pratiques Et Comparaisons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-convertir-tu-musica-en-linea-de-wma-a-mkv-sin-costo-alguno-usando-el-potente-software-movavi/"><u>Cómo Convertir Tu Música en Línea De WMA a MKV Sin Costo Alguno Usando El Potente Software Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-gratuitement-des-fichiers-raw-en-videos-avi-sur-le-web-avec-movavi/"><u>Convertissez Gratuitement Des Fichiers RAW en Vidéos AVI Sur Le Web Avec Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-online-konverter-voc-naar-wmv-mit-movavi-geavanceerd-video-conversieprogramma/"><u>Gratis Online Konverter VOC Naar WMV Mit Movavi - Geavanceerd Video Conversieprogramma</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-convertisseur-en-ligne-movavi-des-fichiers-mxf-en-animations-gif-rapides-et-faciles/"><u>Gratuit Convertisseur en Ligne Movavi : Des Fichiers MXF en Animations GIF Rapides Et Faciles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-expert-techniques-pour-une-segmentation-video-impeccable/"><u>Guide Expert: Techniques Pour Une Segmentation Vidéo Impeccable</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-writers-workshop-for-podcast-creators-examples-included/"><u>In 2024, The Writers' Workshop for Podcast Creators (Examples Included)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-modern-guide-to-mkv-audio-removal-update-users-for-2024/"><u>New Modern Guide to MKV Audio Removal Update Users for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ranking-royales-the-ultimate-10-royale-battles-for-2024/"><u>Ranking Royales The Ultimate 10 Royale Battles for 2024</u></a></li>
+</ul></div>
+

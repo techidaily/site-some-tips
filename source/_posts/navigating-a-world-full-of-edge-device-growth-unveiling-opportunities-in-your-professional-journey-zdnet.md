@@ -1,7 +1,7 @@
 ---
 title: "Navigating a World Full of Edge Device Growth: Unveiling Opportunities in Your Professional Journey | ZDNet"
-date: 2024-09-19 21:38:26
-updated: 2024-09-20 11:50:47
+date: 2024-12-01T20:00:18.965Z
+updated: 2024-12-06T16:46:50.516Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-mememirror-app-mirror-the-worlds-laughter/"><u>[New] In 2024, MemeMirror App - Mirror the World's Laughter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-power-of-voice-notes-masterclass/"><u>[New] Unlocking the Power of Voice Notes Masterclass</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-fierce-fortifications-top-laptops-crafting-4k-videos/"><u>[Updated] In 2024, Fierce Fortifications Top Laptops Crafting 4K Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-docs-transcription-feature-a-beginners-guide/"><u>[Updated] Unlocking Docs' Transcription Feature A Beginner’s Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-resolving-connection-issues-on-skype-with-these-10-tips/"><u>Expert Advice: Resolving Connection Issues on Skype With These 10 Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-devices-unplugged-but-wont-charge-on-windows-710/"><u>Fixes for Devices Unplugged but Won't Charge on Windows 7/10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-moto-g14-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Moto G14 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-10-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 10 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-handbook-for-swapping-music-libraries/"><u>In 2024, The Ultimate Handbook for Swapping Music Libraries</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-comparison-facts-for-cdrive-and-ddrive/"><u>Key Comparison Facts for C:Drive & D:Drive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pinnacle-guide-to-uncomplicated-online-live-streams-for-2024/"><u>The Pinnacle Guide to Uncomplicated Online Live Streams for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-non-contact-sensing-for-2024/"><u>The Ultimate Guide to Non-Contact Sensing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-places-to-find-background-music-for-videos-for-2024/"><u>Top Places to Find Background Music for Videos for 2024</u></a></li>
+</ul></div>
+

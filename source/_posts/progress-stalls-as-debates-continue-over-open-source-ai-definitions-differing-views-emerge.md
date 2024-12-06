@@ -1,7 +1,7 @@
 ---
 title: "Progress Stalls as Debates Continue Over Open Source AI Definitions: Differing Views Emerge"
-date: 2024-09-19 13:49:18
-updated: 2024-09-20 12:16:37
+date: 2024-12-01T19:03:25.520Z
+updated: 2024-12-06T16:05:41.872Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -73,6 +77,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -103,6 +111,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +122,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-3d-software-for-dynamic-youtube-intros/"><u>[New] 2024 Approved Best 3D Software for Dynamic YouTube Intros</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-elite-aerial-assistants-tailored-for-gopro-cinematographers/"><u>[Updated] 2024 Approved Elite Aerial Assistants Tailored For GoPro Cinematographers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-8-cost-free-android-video-recording-software/"><u>[Updated] Top 8 Cost-Free Android Video Recording Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai/"><u>AI 데이터에서 원통스픽셀을 만들기 위한 무료 인터넷-기반 전환 도구</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-comparison-7-zip-vs-winrar-vs-winzip-determining-the-best-archive-tool/"><u>Comprehensive Comparison: 7-Zip vs WinRAR vs WinZip - Determining the Best Archive Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-the-most-out-of-your-apple-vision-pro-experience-insider-tips-on-landing-exclusive-in-store-demos-tech-today/"><u>Get the Most Out of Your Apple Vision Pro Experience - Insider Tips on Landing Exclusive In-Store Demos | Tech Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-avi-files-naar-wma-omzetten-korting-movavi/"><u>Gratuit Online AVI-Files Naar WMA Omzetten - Korting Movavi</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-streamlining-media-with-apple-music-and-video-mixes/"><u>In 2024, Streamlining Media with Apple Music & Video Mixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/m2ts-para-mkv-conversao-online-gratuita-com-a-ferramenta-de-software-movavi/"><u>M2TS Para MKV: Conversão Online Gratuita Com a Ferramenta De Software Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-oferece-uma-ferramenta-de-conversao-gratuita-flac-to-ogg-online-faca-o-upgrade/"><u>Movavi Oferece Uma Ferramenta De Conversão Gratuita FLAC to OGG Online - Faça O Upgrade!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-gratuite-jpg-to-tiff-conversie-met-movavi-beste-praktiken-ervaren/"><u>Online Gratuite JPG-to-TIFF-Conversie Met Movavi - Beste Praktiken Ervaren!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-data-handling-fixing-windows-and-samsung-drive-issues/"><u>Seamless Data Handling: Fixing Windows & Samsung Drive Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcoding-made-easy-convert-ogv-videos-to-wmv-for-free-using-movavis-web-service/"><u>Transcoding Made Easy: Convert OGV Videos to WMV for Free Using Movavi's Web Service</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/uncovering-a-potential-hack-for-your-airtags-and-more-devices-due-to-flawed-battery-safety-feature-zdnet/"><u>Uncovering a Potential Hack for Your AirTags and More Devices Due to Flawed Battery Safety Feature | ZDNET</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-13-pro-max-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 13 Pro Max screen lock without passcode</u></a></li>
+</ul></div>
+

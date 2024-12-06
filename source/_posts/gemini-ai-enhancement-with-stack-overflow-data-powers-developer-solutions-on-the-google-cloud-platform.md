@@ -1,7 +1,7 @@
 ---
 title: Gemini AI Enhancement with Stack Overflow Data Powers Developer Solutions on the Google Cloud Platform
-date: 2024-09-17 10:28:31
-updated: 2024-09-20 12:50:30
+date: 2024-12-03T16:07:26.314Z
+updated: 2024-12-06T17:27:49.684Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-convert-your-social-feeds-videos-into-listenable-audio/"><u>[New] Convert Your Social Feed's Videos Into Listenable Audio</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-seamless-upload-routine-from-imovie-to-youtube-video-sharing/"><u>[New] In 2024, Seamless Upload Routine From iMovie to YouTube Video Sharing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-pinnacle-sound-selections-android-based/"><u>[New] Pinnacle Sound Selections, Android-Based</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-pro-photographys-selections-the-creme-de-la-4k-dslrs/"><u>[New] Pro Photography's Selections The Crème De La 4K DSLRs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tech-savvy-guide-from-digital-to-physical-dvds-on-mac/"><u>[New] Tech Savvy Guide From Digital to Physical - DVDs on Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamline-your-screens-the-essential-online-record-guide/"><u>[Updated] Streamline Your Screens The Essential Online Record Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-narratives-the-science-and-art-of-crafting-memorable-fb-stories/"><u>2024 Approved Mastering Narratives The Science and Art of Crafting Memorable FB Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-future-at-your-fingertips-testing-the-latest-in-virtual-reality-by-lg/"><u>2024 Approved The Future at Your Fingertips Testing the Latest in Virtual Reality by LG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-power-of-pause-effectively-responding-to-comments/"><u>2024 Approved The Power of Pause Effectively Responding to Comments</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-lava-blaze-2-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Lava Blaze 2 5G</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/enhancing-playback-speed-in-tiktok-videos-for-2024/"><u>Enhancing Playback Speed in TikTok Videos for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-11-pro-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 11 Pro Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-rapid-revision-windows-protocol-uncovered/"><u>In 2024, Rapid Revision Windows Protocol Uncovered</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-android-auditory-guide-adding-personalized-sounds-and-ringtones/"><u>In 2024, The Complete Android Auditory Guide Adding Personalized Sounds and Ringtones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-picks-for-excellent-free-srt-translation-tools/"><u>In 2024, Top 8 Picks for Excellent Free SRT Translation Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-like-never-before-essential-ps5-enhancements/"><u>Play Like Never Before: Essential PS5 Enhancements</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplified-avatar-design-in-the-metaverse-explained-for-2024/"><u>Simplified Avatar Design in the Metaverse Explained for 2024</u></a></li>
+</ul></div>
+

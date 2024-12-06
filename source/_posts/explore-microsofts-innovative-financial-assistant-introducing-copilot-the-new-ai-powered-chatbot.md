@@ -1,7 +1,7 @@
 ---
 title: "Explore Microsoft's Innovative Financial Assistant: Introducing Copilot the New AI-Powered Chatbot"
-date: 2024-09-17 17:30:54
-updated: 2024-09-20 12:58:22
+date: 2024-11-29T17:12:23.176Z
+updated: 2024-12-06T17:49:11.496Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-5-effective-tricks-for-youtube-subscriber-surges-for-2024/"><u>[New] 5 Effective Tricks for YouTube Subscriber Surges for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-concealed-chorus-capturers-6-discreet-audio-recorders-for-devices/"><u>[New] Concealed Chorus Capturers 6 Discreet Audio Recorders for Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategies-for-effortless-insertion-of-videos-into-youtube-compilations/"><u>[New] Strategies for Effortless Insertion of Videos Into YouTube Compilations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategizing-superior-screen-snatchers/"><u>[New] Strategizing Superior Screen-Snatchers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-metaverse-masterpieces-top-ten-films-that-reimagine-realities/"><u>[Updated] Metaverse Masterpieces Top Ten Films That Reimagine Realities</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-tips-for-efficient-zoom-meeting-arrangements-on-android/"><u>[Updated] Tips for Efficient Zoom Meeting Arrangements on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-smooth-srt-exports-post-premiere/"><u>2024 Approved Strategies for Smooth SRT Exports Post-Premiere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-role-of-asmr-in-improving-mental-clarity/"><u>2024 Approved The Role of ASMR in Improving Mental Clarity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/business-grade-movavi-video-editing-and-screen-recording-tool-comprehensive-media-production-suite/"><u>Business-Grade Movavi Video Editing & Screen Recording Tool - Comprehensive Media Production Suite</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparing-echo-pop-and-echo-dot-key-features-and-distinctions/"><u>Comparing Echo Pop and Echo Dot: Key Features & Distinctions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-razer-device-detection-issues-in-windows-1011/"><u>Fixing Razer Device Detection Issues in WIndows 10/11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-y77t-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo Y77t Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-ignite-engagement-on-twitch-alive-tweeting-techniques/"><u>In 2024, Ignite Engagement on Twitch Alive Tweeting Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-qanda-on-quantum-hdr-technology/"><u>In 2024, The Essential Q&A on Quantum HDR Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creativity-learning-snapseeds-power-tools/"><u>In 2024, Unleash Creativity Learning Snapseed's Power Tools</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/unveiling-the-factors-influencing-crypto-asset-pricing-insights-from-yl-computing/"><u>Unveiling the Factors Influencing Crypto Asset Pricing: Insights From YL Computing</u></a></li>
+</ul></div>
+
