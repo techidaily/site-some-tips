@@ -1,7 +1,7 @@
 ---
 title: Top 10 Developer Highlights From Microsoft Build 2024 – Key Updates Revealed![ZDNet Exclusive]
-date: 2024-09-17 11:13:14
-updated: 2024-09-20 10:46:14
+date: 2024-12-07T18:18:36.951Z
+updated: 2024-12-12T19:49:02.190Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +64,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -67,11 +79,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-vivid-skies-highlighted-hdr-web-platforms/"><u>[New] Explore Vivid Skies Highlighted HDR Web Platforms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-free-online-image-perfection-at-your-fingertips/"><u>[New] In 2024, Free Online Image Perfection at Your Fingertips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-selections-for-speedy-facebook-video-transfers-and-streams/"><u>[New] Top Selections for Speedy Facebook Video Transfers and Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-utilizing-alternate-shots-to-elevate-film-quality/"><u>[Updated] Utilizing Alternate Shots to Elevate Film Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultra-fast-windows-view-for-pictures/"><u>2024 Approved Ultra-Fast Windows View for Pictures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016386267-battlefield-4-sound-issues-find-relief-in-our-detailed-fixes/"><u>Battlefield 4 Sound Issues? Find Relief in Our Detailed Fixes!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cant-get-accurate-sleep-data-from-apple-watch-discover-my-successful-fix/"><u>Can't Get Accurate Sleep Data From Apple Watch? Discover My Successful Fix!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/diy-conversion-transforming-old-vhs-home-movies-into-digital-dvds-on-windows-or-mac/"><u>DIY Conversion: Transforming Old VHS Home Movies Into Digital DVDs on Windows or Mac</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-sony-xperia-1-v-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Sony Xperia 1 V</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-xs-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone XS Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tips-for-obtaining-pristine-images-at-no-cost/"><u>In 2024, Top Tips for Obtaining Pristine Images at No Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-in-game-audio-identity-for-a-unique-competitive-advantage-no-charge-for-2024/"><u>Transforming In-Game Audio Identity for a Unique Competitive Advantage (No Charge!) For 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turning-tiktok-hits-into-mobile-ringtones-with-ease-for-2024/"><u>Turning TikTok Hits Into Mobile Ringtones with Ease for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winx-dvd-authoring-pack/"><u>オンラインで簡単にWinX DVD Authoring Packを手に入れる: ステップバイステップガイド</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Tech & Business Synergy Through Agile Artificial Intelligence - Insights From ZDNet
-date: 2024-09-17 20:36:37
-updated: 2024-09-20 12:19:50
+date: 2024-12-06T17:46:58.587Z
+updated: 2024-12-12T18:31:45.641Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-upgrading-your-playlists-for-seamless-integration-from-spotify-to-youtube-music/"><u>[New] In 2024, Upgrading Your Playlists for Seamless Integration From Spotify to YouTube Music</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-smart-shelfings-leading-frame-apps-of-the-future/"><u>[New] Smart Shelfings Leading Frame Apps of the Future</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultraview-app-functionality-survey/"><u>[New] UltraView App Functionality Survey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-how-to-use-green-screen-for-streaming/"><u>[Updated] How to Use Green Screen for Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-foundations-of-vsco-photo-manipulation/"><u>[Updated] The Foundations of VSCO Photo Manipulation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-resolve-these-top-5-iphone-faults-via-dfu-methodology/"><u>Expert Tips: Resolve These Top 5 iPhone Faults via DFU Methodology</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-accessible-and-quality-the-best-10-online-passport-photo-tools-revealed/"><u>In 2024, Accessible & Quality The Best 10 Online Passport Photo Tools Revealed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-xs-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone XS Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-nokia-xr21-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Nokia XR21 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-your-typing-quick-fixes-to-reduce-lag-in-win-1011/"><u>Jumpstart Your Typing: Quick Fixes to Reduce Lag in WIN 10/11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-high-cpu-usage-by-dwmexe-in-the-desktop-window-manager-on-windows-10-a-comprehensive-guide/"><u>Resolving High CPU Usage by dwm.exe in the Desktop Window Manager on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-ai-desired-advancements-in-chatgpts-plugin-ecosystem/"><u>Revolutionizing AI: Desired Advancements in ChatGPT's Plugin Ecosystem</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-speed-loading-windows-photo-displayer-for-2024/"><u>Ultimate Speed-Loading Windows Photo Displayer for 2024</u></a></li>
+</ul></div>
+

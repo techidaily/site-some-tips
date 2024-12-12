@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Innovative Test Pits Timeless Art Against Modern Tech: ChatGPT Fails to Match the Sonnet’s Creativity"
-date: 2024-09-17 19:58:31
-updated: 2024-09-20 10:45:50
+date: 2024-12-10T17:24:55.777Z
+updated: 2024-12-12T17:41:18.441Z
 tags:
   - developer
 categories:
@@ -57,6 +57,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -73,6 +77,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +88,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unboxing-mastery-the-soundtrack-selection-guidebook/"><u>[New] Unboxing Mastery The Soundtrack Selection Guidebook</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unlock-creative-potential-the-ultimate-list-of-10-free-tiktok-edits-on-macos-for-2024/"><u>[New] Unlock Creative Potential The Ultimate List of 10 Free TikTok Edits on MacOS for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-gopros-full-potential/"><u>[New] Unlocking GoPro's Full Potential</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-in-depth-review-of-manycams-game-changing-recorder-tech/"><u>[Updated] 2024 Approved In-Depth Review of ManyCam's Game-Changing Recorder Tech</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-culinary-craftsmanship-innovative-naming-for-food-shows/"><u>[Updated] Culinary Craftsmanship Innovative Naming for Food Shows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-strategies-for-viewing-your-subscribers-for-2024/"><u>[Updated] Essential Strategies for Viewing Your Subscribers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-apowersoft-unpacked-in-depth-review-and-comparisons-required/"><u>[Updated] In 2024, Apowersoft Unpacked In-Depth Review & Comparisons Required</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-playbook-for-procuring-partners-on-youtube/"><u>[Updated] The Ultimate Playbook for Procuring Partners on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-childrens-drone-choices/"><u>[Updated] Ultimate Selection Children's Drone Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-ms-edges-picture-in-picture-magic/"><u>[Updated] Unveiling MS Edge's Picture-in-Picture Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-virtual-background-magic-a-streamers-guide-to-chroma-key/"><u>[Updated] Unveiling Virtual Background Magic A Streamer's Guide to Chroma Key</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/airpods-pro-new-feature-alert-hearing-aid-compatibility-coming-soon-with-ios-15-update/"><u>AirPods Pro New Feature Alert: Hearing Aid Compatibility Coming Soon with iOS 15 Update!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-saving-web-radio-broadcasts/"><u>In 2024, The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-crafting-impressive-android-time-lapses-2enas-for-2024/"><u>The Ultimate Guide to Crafting Impressive Android Time-Lapses (2Enas) for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlock-insta-money-potential-with-our-top-7-list/"><u>Unlock Insta Money Potential with Our Top 7 List</u></a></li>
+</ul></div>
+

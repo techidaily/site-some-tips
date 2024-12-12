@@ -1,7 +1,7 @@
 ---
 title: Is Google's LaMDA Truly Sentient or Just Another Advanced Chatbot? - Insights From ZDNet
-date: 2024-09-17 17:21:37
-updated: 2024-09-20 10:49:22
+date: 2024-12-06T17:23:45.399Z
+updated: 2024-12-12T18:19:15.675Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-enhancing-team-dynamics-through-effective-video-calls/"><u>[New] 2024 Approved Enhancing Team Dynamics Through Effective Video Calls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mixer-connectivity-seamless-live-broadcast-on-macos/"><u>[New] Mixer Connectivity Seamless Live Broadcast on macOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-end-scenes-unlocked-tutorials-to-enhance-viewing-experience/"><u>[Updated] In 2024, End Scenes Unlocked Tutorials to Enhance Viewing Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-navigating-youtubes-queue-with-precision-a-comprehensive-tutorial/"><u>[Updated] In 2024, Navigating YouTube's Queue with Precision A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-budget-friendly-pinterest-video-grabs/"><u>[Updated] Top 5 Budget-Friendly Pinterest Video Grabs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-top-20-cost-free-video-editing-websites/"><u>2024 Approved Ultimate Guide Top 20 Cost-Free Video Editing Websites</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/comprehensive-snapshot-service-azs-app-testing-for-2024/"><u>Comprehensive Snapshot Service - AZ's App Testing for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/former-microsoft-leader-steve-ballmer-reveals-personal-reflections-on-bravery-techcrunch/"><u>Former Microsoft Leader Steve Ballmer Reveals Personal Reflections on Bravery | TechCrunch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-beginners-guide-to-converting-spoken-words-to-written-form-ms-word/"><u>In 2024, The Beginner’s Guide to Converting Spoken Words to Written Form (MS Word)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photos-with-a-musical-edge-online-for-2024/"><u>Photos with a Musical Edge Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-methods-syncing-ios-images-and-movies-to-windows-for-2024/"><u>Quick Methods Syncing iOS Images & Movies to Windows for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stream-wars-evaluating-streamers-top-contenders-obs-and-wirecast-for-2024/"><u>Stream Wars Evaluating Streamers' Top Contenders, OBS & Wirecast for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-riders-eye-view-unveiling-23s-finest-action-camera-hats-for-bike-enthusiasts-for-2024/"><u>The Rider's Eye View – Unveiling '23’S Finest Action Camera Hats for Bike Enthusiasts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-enhanced-visuals-xbox-series-x/"><u>The Ultimate Guide to Enhanced Visuals - Xbox Series X</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-powerful-overclocking-cooler-masters-advanced-aio-and-air-coolers-surpass-300w-heat-dissipation/"><u>Unleash Powerful Overclocking: Cooler Master's Advanced AIO & Air Coolers Surpass 300W Heat Dissipation</u></a></li>
+</ul></div>
+

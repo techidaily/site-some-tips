@@ -1,7 +1,7 @@
 ---
 title: Decoding Programming Languages' Popularity Fluctuations Since 2016 - Lessons and Predictions | CodeDigest
-date: 2024-09-19 21:18:28
-updated: 2024-09-20 12:29:24
+date: 2024-12-06T18:47:16.994Z
+updated: 2024-12-12T20:09:49.400Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ranking-the-ultimate-in-mac-gif-recorders/"><u>[New] 2024 Approved Ranking the Ultimate in Mac GIF Recorders</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-youtubes-entry-level-manual-for-effective-channel-creation/"><u>[New] In 2024, Youtube's Entry-Level Manual for Effective Channel Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-specs-hp-envy-27s-4k-capabilities/"><u>[New] Unveiling the Specs HP Envy 27'S 4K Capabilities</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-visualize-and-create-with-top-7-innovative-animation-suites/"><u>[Updated] 2024 Approved Visualize & Create with Top 7 Innovative Animation Suites</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-explore-template-treasures-to-craft-unique-corporate-emblems-for-2024/"><u>[Updated] Explore Template Treasures to Craft Unique Corporate Emblems for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-highlighting-the-top-video-creation-apps-iphone-android/"><u>[Updated] In 2024, Highlighting the Top Video Creation Apps (iPhone, Android)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-inshots-ecosystem-a-detailed-editor-app-study/"><u>[Updated] InShot’s Ecosystem A Detailed Editor App Study</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-bundle-6-powerful-apps-to-remove-signature-borders/"><u>[Updated] The Ultimate Bundle – 6 Powerful Apps to Remove Signature Borders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-15-nba-live-stream-techniques/"><u>[Updated] Top 15 NBA LIVE STREAM Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-facetune-guide-elevating-your-image-quality/"><u>[Updated] Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-perfect-your-content-with-tiktoks-number-manipulation-tricks/"><u>2024 Approved Perfect Your Content with TikTok's Number Manipulation Tricks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlocking-rokus-potential-with-facebook-live-streaming/"><u>2024 Approved Unlocking Roku's Potential with Facebook Live Streaming</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/enhance-projects-no-cost-templates-for-pp-prodigies-for-2024/"><u>Enhance Projects No-Cost Templates for PP Prodigies for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategic-steps-to-elevate-your-podcast-imagery/"><u>In 2024, Strategic Steps to Elevate Your Podcast Imagery</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-modern-techniques-for-gesture-interpretation/"><u>In 2024, Unveiling Modern Techniques for Gesture Interpretation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-lenovo-screenshots-in-minutes-for-2024/"><u>Mastering Lenovo Screenshots in Minutes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-next-level-of-immersion-top-10-vr-gear-for-2024/"><u>The Next Level of Immersion (Top 10 VR Gear) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-our-selection-of-top-4-free-web-calendars-for-efficient-planning/"><u>Unveiling Our Selection of Top 4 Free Web Calendars for Efficient Planning</u></a></li>
+</ul></div>
+

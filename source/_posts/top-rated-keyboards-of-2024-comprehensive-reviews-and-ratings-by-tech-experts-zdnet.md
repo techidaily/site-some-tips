@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Keyboards of 2024: Comprehensive Reviews and Ratings by Tech Experts | ZDNet"
-date: 2024-12-04T17:54:07.656Z
-updated: 2024-12-06T19:01:57.356Z
+date: 2024-12-06T18:27:46.587Z
+updated: 2024-12-12T16:16:35.231Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ After hands-on testing the Logitech MX Keys S Wireless Keyboard and being blown 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best keyboards of 2024
 
 Show less 
@@ -48,7 +44,7 @@ Cons
 ## Logitech MX Keys S Wireless Keyboard
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best keyboard overall
@@ -82,6 +78,10 @@ Cons
 * Lacks number pad
 * Restricted compatibility
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Magic Keyboard
 
 ### Best keyboard for Mac users
@@ -111,11 +111,11 @@ Cons
 * Pricey
 * Oversized
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Corsair K100 RGB Keyboard
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best gaming keyboard
 
@@ -142,11 +142,11 @@ Cons
 * Can feel awkward
 * Lacks backlighting
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Sculpt Ergonomic Desktop Keyboard
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best ergonomic keyboard
 
@@ -178,7 +178,7 @@ Cons
 ## Razer Pro Type Ultra Keyboard
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best quiet keyboard
@@ -194,10 +194,6 @@ You can connect up to four devices at once through Bluetooth with the keyboard, 
 **Review** **:** [**Razer Pro Type Ultra Keyboard**](https://www.zdnet.com/home-and-office/home-entertainment/razer-pro-type-ultra-click-mini-and-glide-xxl-review/)
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best keyboard?
 
@@ -245,10 +241,6 @@ There are a few different types of keyboard sizes from which to choose.
 
 Buzzetta agrees, saying it's up to user preference, "You want to take into consideration the size of your hands, the size of your desk space, and what you're comfortable with. It's like a car," he explains, "You really gotta test drive it to get the complete feel."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should I buy a wired or wireless keyboard?
 
 Rosenfeld offers his advice, saying, "Wireless keyboards give you more freedom and help keep your desk clutter-free. But some folks might like the stability and reliability of a wired connection better."
@@ -261,11 +253,19 @@ When picking between a wired or wireless keyboard, it's really up to you, says R
 
 The cost of keyboards can really run the gamut based on factors like manufacturer, size, type, and features. However, we found that the best keyboards that you can buy range in cost from $83 to $185, depending on the brand and model that you choose. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are there alternative best keyboards worth considering?
 
 Logitech is one of the best keyboard manufacturers that you can choose from for your new keyboard. We found many top-rated models that users love, including these models, that may also be a great fit for you.
 
 [Best wireless keyboard alternative Logitech G915 TKL Save yourself a headache by skipping the fuss of wires. This best wireless keyboard keeps things neat. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC%2Fdp%2FB085RLZ1C4%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9038beb8-7026-425b-bdfa-e6d6a2964bc5%7Cdtp&dtb=1)[Best compact alternative Logitech MX Keys Mini If space is an issue, this best keyboard won't take up a lot of room. Users love its easy, compact design. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Minimalist-Illuminated-Bluetooth-Compatible%2Fdp%2FB098JPSVKY%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9038beb8-7026-425b-bdfa-e6d6a2964bc5%7Cdtp&dtb=1)[Best mechanical alternative Logitech MX Mechanical Keyboard If you are looking for a mechanical keyboard, Logitech makes that, too. This best mechanical keyboard comes highly recommended. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Mechanical-Illuminated-Performance-Bluetooth%2Fdp%2FB09LJWWX4Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9038beb8-7026-425b-bdfa-e6d6a2964bc5%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Meet the experts
 
@@ -318,18 +318,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-legal-aspects-and-ethical-considerations-of-recording-whatsapp-for-2024/"><u>[New] Legal Aspects and Ethical Considerations of Recording WhatsApp for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-mobile-experiences-ios-and-androids-vr-hits/"><u>[New] Top Mobile Experiences IOS & Android's VR Hits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-the-art-of-photo-editing-workflow/"><u>[Updated] In-Depth The Art of Photo Editing Workflow</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-state-of-the-art-devices-for-online-live-shows/"><u>[Updated] State-of-the-Art Devices for Online Live Shows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-new-tech-horizon-with-microsofts-hololens-review/"><u>2024 Approved The New Tech Horizon with Microsoft's HoloLens Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-the-basics-of-motion-design/"><u>2024 Approved Understanding the Basics of Motion Design</u></a></li>
-<li><a href="https://win-able.techidaily.com/deciphering-and-correcting-the-palworld-error-a-step-by-step-approach/"><u>Deciphering and Correcting the 'Palworld' Error: A Step-by-Step Approach</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-echoes-of-sound-how-to-enhance-tweeted-visuals/"><u>In 2024, Echoes of Sound How to Enhance Tweeted Visuals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultrawide-vs-uhd-4k-monitor-showdown-top-picks/"><u>In 2024, UltraWide VS UHD 4K Monitor Showdown Top Picks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-art-of-superior-images-for-free/"><u>In 2024, Unlocking the Art of Superior Images for Free</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-4-common-misconceptions-about-macos-among-windows-users-insights-from-zdnet/"><u>Top 4 Common Misconceptions About macOS Among Windows Users: Insights From ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tricks-to-faster-periscope-live-feeds-for-2024/"><u>Tricks to Faster Periscope Live Feeds for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-know-about-some-efficient-slow-motion-video-editors-read-this-article-to-find-out-the-best-slow-motion-video-editing-tools-that/"><u>Updated 2024 Approved Do You Know About some Efficient Slow-Motion Video Editors? Read This Article to Find Out the Best Slow-Motion Video Editing Tools that You Can Try</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-achieve-unprecedented-image-quality-via-av1-on-youtube/"><u>[New] 2024 Approved Achieve Unprecedented Image Quality via AV1 on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-10-top-ios-players-elevating-video-watching-on-devices/"><u>[New] In 2024, 10 Top iOS Players Elevating Video Watching on Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-visualverve-tips-for-resizing-images-in-instagram/"><u>[New] In 2024, VisualVerve Tips for Resizing Images in Instagram</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-keep-the-best-of-facebook-in-super-hd-quality/"><u>[Updated] In 2024, Keep the Best of Facebook in Super HD Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-video-editors-for-macos-sierra/"><u>[Updated] Top 5 Video Editors for macOS Sierra</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-definitive-list-of-video-stabilizer-brands-for-content-makers/"><u>2024 Approved The Definitive List of Video Stabilizer Brands for Content Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors/"><u>2024 Approved The Photo Keeper’s Companion Unlimited Free Options & Elite Subscription Saviors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tweaking-sound-on-ps5ps4-games/"><u>2024 Approved Tweaking Sound on PS5/PS4 Games</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-honor-x7b-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Honor X7b to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-12-pro-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 12 Pro - 4 Easy Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/como-fazer-a-transformacao-on-line-de-formatos-video-mp4-em-mov-ou-quicktime-sem-custo-algum/"><u>Como Fazer a Transformação On-Line De Formatos Video MP4 Em MOV Ou QuickTime Sem Custo Algum</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-hdri-magic-compreranial-sdr-to-high-dynamic-range-upgrade/"><u>In 2024, Unlock HDRI Magic Compreranial SDR to High Dynamic Range Upgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-using-compressed-windows-archive-cab-files/"><u>Mastering the Art of Using Compressed Windows Archive (CAB) Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rise-of-autofocus-aided-hdr-photography-for-2024/"><u>The Rise of Autofocus Aided HDR Photography for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/the-ultimate-hd-multifunctional-video-capture-device/"><u>The Ultimate HD Multifunctional Video Capture Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-storytelling-potential-for-2024/"><u>Unlock Your Storytelling Potential for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Roadmap for Windows Redefined: An Innovative Strategy for Expanding Cloud Capabilities, Enhancing Ad Revenue, and Streamlining Device Connectivity"
-date: 2024-09-17 10:50:57
-updated: 2024-09-20 12:27:54
+date: 2024-12-08T18:29:49.984Z
+updated: 2024-12-12T20:18:32.407Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Credit: Microsoft
 In April this year, Windows officials talked about [plans to more tightly integrate Windows 365 and Windows](https://www.zdnet.com/article/microsoft-provides-a-glimpse-of-future-windows-11-and-cloud-pc-integrations/). So far, they've delivered on one of their promises: A preview of the Windows 365 app that Windows 11 users can pin to their taskbars and Start menus to more easily access their cloud PCs. But Microsoft officials have much bigger plans for Windows 365 and seemingly are counting on it keep Windows relevant, even if the [PC industry declines](https://www.zdnet.com/article/pc-sales-are-falling-what-does-that-mean-for-the-price-of-your-new-computer/) in the coming months and years.   
   
  As many users have noticed, Microsoft increasingly has been squeezing ads into everything from the new Windows 11 search box to the Edge browser (and its other apps). So perhaps it's not too surprising that Microsoft management is pitching Windows as a vehicle for delivering ads -- both first-party Microsoft "house" ads and third-party ads, as CEO Satya Nadella himself acknowledged during [Microsoft's Q1 FY'23 earnings call](https://view.officeapps.live.com/op/view.aspx?src=https://c.s-microsoft.com/en-us/CMSFiles/TranscriptFY23Q1.docx?version=133e9c66-ae13-63c3-aad8-1bcfd5c6f0d4). (Thanks to Paul Thurrott for pointing this out on [Windows Weekly](https://twit.tv/shows/windows-weekly/episodes/800) last week.) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Windows
 
@@ -70,11 +74,28 @@ Microsoft made its [Windows 365/Cloud PC service (codenamed Deschutes) generally
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-achieving-gradual-sound-boosts-with-lumafusion/"><u>2024 Approved Achieving Gradual Sound Boosts with Lumafusion</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-digital-dollars-earn-from-youtubers-in-8-ways/"><u>2024 Approved Digital Dollars Earn From YouTubers in 8 Ways</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mov-to-ogg-movavi/"><u>無料のオンライン MOV to OGG コンバータ - Movavi で使いやすく改良</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-convertir-un-archivo-gif-al-formato-de-video-m4v-en-internet-sin-coste-movavi/"><u>Cómo Convertir Un Archivo GIF Al Formato De Vídeo M4V en Internet Sin Coste - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertir-archivos-vob-a-mkv-online-gratuito-con-movavi/"><u>Convertir Archivos VOB a MKV Online Gratuito Con Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-plus-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 Plus to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-your-pcs-graphics-with-amd-ryzen-3-2200g-latest-drivers-download/"><u>Improve Your PC's Graphics with AMD RYZEN 3 2200G Latest Drivers Download</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-luts-in-photoshop-a-step-by-step-guide-for-2024/"><u>Mastering LUTs in Photoshop A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-professional-communication-leveraging-chatgpt-for-crafting-complex-business-emails/"><u>Mastering Professional Communication: Leveraging ChatGPT for Crafting Complex Business Emails</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-full-image-display-on-instagram-a-step-by-step-guide/"><u>Mastering the Art of Full Image Display on Instagram: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-gratis-conversion-de-archivos-swf-y-wmv-a-formatos-mas-recientes/"><u>Online Gratis Conversión De Archivos SWF Y WMV a Formatos Más Recientes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasformare-immagini-webp-in-gif-a-bordo-servizio-di-conversione-on-line-gratuito-da-movavi/"><u>Trasformare Immagini Webp in Gif a Bordo: Servizio Di Conversione On-Line Gratuito Da Movavi</u></a></li>
+</ul></div>
+

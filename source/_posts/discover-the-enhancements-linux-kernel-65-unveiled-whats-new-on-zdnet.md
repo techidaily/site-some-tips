@@ -1,7 +1,7 @@
 ---
 title: "Discover the Enhancements: Linux Kernel 6.5 Unveiled - What's New on ZDNet!"
-date: 2024-09-17 16:45:41
-updated: 2024-09-20 11:23:24
+date: 2024-12-10T17:01:32.695Z
+updated: 2024-12-12T18:39:46.176Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-elevate-your-content-a-compreranial-guide-to-template-driven-tiktok-videos/"><u>[New] 2024 Approved Elevate Your Content A Compreranial Guide to Template-Driven TikTok Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-techniques-for-securing-ps4-gameplay-moments-for-2024/"><u>[New] Essential Techniques for Securing PS4 Gameplay Moments for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-online-guide-converting-fb-videos-to-mp4-at-hd-resolutions-for-free/"><u>[New] In 2024, Online Guide Converting FB Videos to MP4 at HD Resolutions for Free</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-unique-channel-branding-how-to-personalize-your-youtube-url/"><u>[New] In 2024, Unique Channel Branding How to Personalize Your YouTube Url</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-with-these-free-web-photo-editors/"><u>[New] Unleash Creativity with These Free Web Photo Editors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-logitechs-4k-webcam-masterclass-a-complete-review/"><u>[Updated] Logitech’s 4K Webcam Masterclass - A Complete Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streaming-wars-the-top-10-platforms-ranked-and-compared/"><u>[Updated] Streaming Wars The Top 10 Platforms Ranked and Compared</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-achieve-a-millennium-of-subscriber-milestones/"><u>2024 Approved Achieve a Millennium of Subscriber Milestones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-and-science-of-writing-smart-slug-lines/"><u>2024 Approved The Art and Science of Writing Smart Slug Lines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-methods-of-acquiring-ipodcasts-for-your-iphone/"><u>2024 Approved The Ultimate Methods of Acquiring IPodcasts for Your iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/dashboard-deluge-oc-induced-chaos/"><u>Dashboard Deluge: OC-Induced Chaos</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-a05s-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-of-movie-maker-on-windows-8-for-2024/"><u>Unveiling the Secrets of Movie Maker on Windows 8 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-top-rated-srt-translators-for-zero-cost-for-2024/"><u>Unveiling the Top-Rated SRT Translators for Zero Cost for 2024</u></a></li>
+</ul></div>
+

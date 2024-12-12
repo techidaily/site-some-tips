@@ -1,7 +1,7 @@
 ---
 title: Jim Zemlin Discusses the Hidden Ingredients to Successful Open-Source Initiatives with The Linux Foundation | Spotlight by ZDNET
-date: 2024-09-18 15:39:29
-updated: 2024-09-20 10:52:21
+date: 2024-12-10T17:24:23.390Z
+updated: 2024-12-12T18:42:11.803Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-conquer-video-lengths-your-ultimate-guide-to-auto-resizing-on-mac/"><u>[New] Conquer Video Lengths Your Ultimate Guide to Auto-Resizing on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-voice-manipulation-in-ps-console-titles/"><u>[New] The Art of Voice Manipulation in PS Console Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-anti-shake-gimblers-reviewed-by-vloggers/"><u>[New] The Best Anti-Shake Gimblers Reviewed by Vloggers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-quiet-guide-to-livestreaming-yourself-on-instagram/"><u>[New] The Quiet Guide to Livestreaming Yourself on Instagram</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-8-tips-to-prevent-htc-vive-motion-sickness-for-2024/"><u>[Updated] 8 Tips to Prevent HTC Vive Motion Sickness for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-techniques-for-gradual-volume-change/"><u>[Updated] Advanced Techniques for Gradual Volume Change</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-snapedit-story-complete-video-editor-features/"><u>[Updated] SnapEdit Story – Complete Video Editor Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>2024 Approved Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-manual-for-using-speech-recognition-in-google-documents/"><u>2024 Approved The Complete Manual for Using Speech Recognition in Google Documents</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-tango-app-evaluation-enjoy-free-messaging-and-call-features/"><u>Comprehensive Tango App Evaluation: Enjoy FREE Messaging & Call Features</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-xr-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone XR in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-syma-x8c-performance-breakdown/"><u>In 2024, Syma X8C Performance Breakdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-low-volume-playback-system-guide/"><u>In 2024, The Art of Low-Volume Playback System Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-insights-into-netgears-top-of-the-line-c7000-modem-a-superior-choice-for-seamless-connectivity/"><u>In-Depth Insights Into Netgear's Top-of-the-Line C7000 Modem: A Superior Choice for Seamless Connectivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-sale-how-the-ring-spotlight-cam-pro-surprisingly-exceeded-my-expectations-full-review-by-zdnet/"><u>Labor Day Sale: How the Ring Spotlight Cam Pro Surprisingly Exceeded My Expectations - Full Review by ZDNet</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/screencasting-simplified-adopting-the-ezvide-method/"><u>Screencasting Simplified Adopting the EZvide Method</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-the-ultimate-android-mp3-downloader-collection-for-2024/"><u>Top Picks The Ultimate Android MP3 Downloader Collection for 2024</u></a></li>
+</ul></div>
+

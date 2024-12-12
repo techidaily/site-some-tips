@@ -1,7 +1,7 @@
 ---
 title: "How Businesses Grapple with Hybrid Cloud Challenges and Solutions: A Comprehveiw by ZDNet"
-date: 2024-09-17 11:24:30
-updated: 2024-09-20 11:44:11
+date: 2024-12-05T20:03:30.951Z
+updated: 2024-12-12T20:07:41.493Z
 tags:
   - cloud
 categories:
@@ -21,6 +21,10 @@ However, these are largely proprietary, making it difficult to navigate applicat
 
 "When customers think about hybrid, it's about being able to move their workloads between on-premises and public cloud as well as between \[different\] cloud platforms," Yang said in an interview with ZDNET. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cloud
 
 * [​What is digital transformation? Everything you need to know](https://www.zdnet.com/article/what-is-digital-transformation-everything-you-need-to-know-about-how-technology-is-reshaping/)
@@ -37,6 +41,10 @@ He said HPE is looking to plug the gaps and offer a "unified" experience through
 **Also:** [**How edge-to-cloud is driving the next stage of digital transformation**](https://www.zdnet.com/article/how-edge-to-cloud-is-driving-the-next-stage-of-digital-transformation/)
 
 The tech vendor is pitching its [GreenLake](https://www.zdnet.com/article/hpe-expands-greenlake-with-new-cloud-services-silicon-on-demand-and-more/) as a cloud management platform that enables businesses to manage their workloads and data across multiple public clouds, data centers, and edge networks. Its GreenLake Central provides a single, integrated control plane and self-service portal, from which customers get a unified view of their IT operations across the hybrid environments as well as monitor various metrics, including usage, security, cost, and compliance. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Private 5G networks can offer businesses more autonomy
 
@@ -59,6 +67,10 @@ For now, Yang said HPE's Singapore strategy centers around GreenLake alongside d
 When asked about the potential of generative AI such as ChatGPT, he underscored the need to look past the hype and assess its ability to scale. He noted that the compute and storage power that backs ChatGPT is significant, so there is work to be done around sustainability and optimization before it can be scaled. 
 
 There also should be focus on how the data and content that powers ChatGPT can be kept secured, he added. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### RELATED COVERAGE
 
@@ -94,11 +106,29 @@ There also should be focus on how the data and content that powers ChatGPT can b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-best-action-cameras-outside-the-realm-of-gopro/"><u>[New] Best Action Cameras Outside the Realm of GoPro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-digital-image-manipulation-inserting-text-in-photos-on-windowsmacs/"><u>[Updated] In 2024, Digital Image Manipulation Inserting Text in Photos on Windows/Macs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-ppt-presentations-with-verbal-narration-guide/"><u>2024 Approved PPT Presentations with Verbal Narration Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-motorola-moto-g73-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Motorola Moto G73 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mac/"><u>移动碟中文：移視影片編輯器(Mac版) - 對應多种影片和音频格式</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726221222630-mkvwma-movavi/"><u>在線無成本MKV變更為WMA - 利用 Movavi的編輯器</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acer-xfa240-the-perfect-blend-of-design-and-function-for-enhanced-user-experience/"><u>Acer XFA240 - The Perfect Blend of Design and Function for Enhanced User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-gratuite-de-fichiers-aiff-en-m4a-sur-internet-avec-movavi-guide-complet/"><u>Conversion Gratuite De Fichiers AIFF en M4A Sur Internet Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-swf-files-into-mkv-format-for-free-with-movavi-online-tool/"><u>Convert SWF Files Into MKV Format for Free with Movavi Online Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-for-mp3-to-aac-with-opus-support-moveave/"><u>Free Online Converter for MP3 to AAC with Opus Support - Moveave</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-darkroom-to-digital-mastering-modern-grading-techniques-for-2024/"><u>From Darkroom to Digital Mastering Modern Grading Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-facile-pour-convertir-des-videos-m2p-en-mp4-sans-frais-utilisez-movavi-maintenant/"><u>Guide Facile Pour Convertir Des Vidéos M2P en MP4 Sans Frais - Utilisez Movavi Maintenant !</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-how-to-restrict-viewership-of-your-youtube-content/"><u>In 2024, How to Restrict Viewership of Your YouTube Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-imessage-game-selection-of-2024-unveiling-our-top-seven-favorites/"><u>Leading iMessage Game Selection of 2024: Unveiling Our Top Seven Favorites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mpg-wav-movavi/"><u>MPG 동메모리 WAV로 전환 - 무료 Movavi 서비스</u></a></li>
+</ul></div>
+

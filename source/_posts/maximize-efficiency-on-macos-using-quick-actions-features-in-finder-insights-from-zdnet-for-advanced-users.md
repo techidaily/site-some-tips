@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Quick Actions Features in Finder - Insights From ZDNET for Advanced Users
-date: 2024-11-30T20:07:02.663Z
-updated: 2024-12-06T16:42:23.739Z
+date: 2024-12-05T16:04:25.799Z
+updated: 2024-12-12T19:31:09.328Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ The MacOS file manager, Finder, has a lot of handy tricks up its sleeve, many of
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple
@@ -37,10 +37,6 @@ Of course, not every file type has an associated Quick Action but you can add ne
 
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What files offer Quick Actions?
 
 By default, the following file types offer Quick Actions from within the Finder context menu:
@@ -52,17 +48,21 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
 
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
@@ -92,7 +92,7 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -145,15 +145,24 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-tips-for-remotely-recording-your-podcasts/"><u>[New] Top 10 Tips for Remotely Recording Your Podcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-the-power-to-create-personalized-whatsapp-alerts/"><u>[New] Unlock the Power to Create Personalized WhatsApp Alerts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-3-proven-methods-to-enhance-your-music-archives-for-2024/"><u>[Updated] 3 Proven Methods to Enhance Your Music Archives for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-best-websites-for-downloading-youtube-intro-templates/"><u>[Updated] In 2024, Best Websites for Downloading YouTube Intro Templates</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-navigating-the-nuances-of-streaming-and-saving-on-facebook-for-2024/"><u>[Updated] Navigating the Nuances of Streaming and Saving on Facebook for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-gif-formats-decoded/"><u>2024 Approved Unleashing Creativity GIF Formats Decoded</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/aesthetic-assembly-android-and-ios-video-sets-for-insta/"><u>Aesthetic Assembly Android & iOS Video Sets for Insta</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tap-into-the-rhythm-web-free-and-comprehensive/"><u>In 2024, Tap Into the Rhythm Web (FREE & Comprehensive)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-handbook-for-telegram-web-newbies/"><u>In 2024, The Complete Handbook for Telegram Web Newbies</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-windows-compatible-options-to-replace-sony-vegas-pro/"><u>New 2024 Approved Windows-Compatible Options to Replace Sony Vegas Pro</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-adding-depth-to-narratives-through-b-clips/"><u>[New] 2024 Approved Adding Depth to Narratives Through B-Clips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-reddits-most-adored-and-upvoted-stories/"><u>[Updated] The Ultimate List Reddit's Most Adored and Upvoted Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-8-headsets-for-an-immersive-virtual-world-adventure/"><u>[Updated] Top 8 Headsets for an Immersive Virtual World Adventure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-impact-of-aurora-hdr-on-photography/"><u>[Updated] Understanding the Impact of Aurora HDR on Photography</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-whip-up-witty-cartoons/"><u>[Updated] Whip Up Witty Cartoons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-instagram-guide-for-curating-and-sharing-podcasts/"><u>2024 Approved The Instagram Guide for Curating and Sharing Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-transformation-of-windows-10-landscape/"><u>2024 Approved The Transformation of Windows 10 Landscape</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-6-pro-rated-gopro-head-straps-and-mastering-usage/"><u>2024 Approved Top 6 Pro-Rated GoPro Head Straps & Mastering Usage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-driver-setup-lenovo-x1-carbon-compatible-with-windows-10-and-7-systems/"><u>Effortless Driver Setup: Lenovo X1 Carbon Compatible with Windows 10 & 7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-interruptions-and-warping-sounds-on-your-windows-pc-windows-117-solutions/"><u>Fixing Audio Interruptions and Warping Sounds on Your Windows PC (Windows 11/7 Solutions)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/high-quality-video-capture-for-tech-enthusiasts-for-2024/"><u>High-Quality Video Capture for Tech Enthusiasts for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-prime-filters-for-smooth-streaming-sessions/"><u>In 2024, Prime Filters for Smooth Streaming Sessions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-voice-modification-tools-essential-choices-for-vtuber-creators/"><u>In 2024, Top Voice Modification Tools Essential Choices for VTuber Creators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-energy-efficiency-in-windows-11-with-the-essential-battery-report-tutorial/"><u>Mastering Energy Efficiency in Windows 11 with the Essential Battery Report Tutorial</u></a></li>
+<li><a href="https://video-capture.techidaily.com/navigating-the-technicalities-recording-and-saving-your-role-play-experieninas-on-apple-devices-for-2024/"><u>Navigating the Technicalities Recording & Saving Your Role-Play Experieninas on Apple Devices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streaming-royalty-ranking-the-top-10-platforms-for-real-time-content-for-2024/"><u>Streaming Royalty Ranking the Top 10 Platforms for Real-Time Content for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-archivists-collection-essential-retro-visual-hacks-for-video-editors-for-2024/"><u>The Archivist's Collection Essential Retro Visual Hacks for Video Editors for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essential-audio-interface-for-your-podcaster/"><u>The Essential Audio Interface for Your Podcaster</u></a></li>
 </ul></div>
 

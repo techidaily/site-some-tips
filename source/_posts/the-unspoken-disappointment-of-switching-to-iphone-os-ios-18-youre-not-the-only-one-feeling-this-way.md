@@ -1,7 +1,7 @@
 ---
 title: The Unspoken Disappointment of Switching to iPhone OS iOS 18 - You're Not the Only One Feeling This Way!
-date: 2024-11-30T16:45:27.760Z
-updated: 2024-12-06T19:10:40.617Z
+date: 2024-12-10T19:09:54.564Z
+updated: 2024-12-12T16:17:00.053Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,15 +109,19 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-elevate-video-quality-mastering-aspect-ratio-and-size-settings-on-youtube/"><u>[Updated] 2024 Approved Elevate Video Quality Mastering Aspect Ratio and Size Settings on YouTube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-infusing-watermarks-in-youtube-content-for-trademarks/"><u>[Updated] Infusing Watermarks in YouTube Content for Trademarks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-leading-audio-editing-software-in-shaping-your-vtuber-image/"><u>[Updated] Leading Audio Editing Software in Shaping Your VTuber Image</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-utilize-snapchats-star-trail-effectively/"><u>[Updated] Utilize Snapchat's Star Trail Effectively</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-emulate-video-success-gaining-youtube-confidence-skills/"><u>2024 Approved Emulate Video Success Gaining YouTube Confidence Skills</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-turning-tiktok-hits-into-mobile-ringtones-with-ease/"><u>2024 Approved Turning TikTok Hits Into Mobile Ringtones with Ease</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facebooks-approach-for-automatic-youtube-video-playback/"><u>Facebook's Approach for Automatic YouTube Video Playback</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/husqvarnas-high-flyers-the-2023-drone-review-series/"><u>Husqvarna's High Flyers The 2023 Drone Review Series</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-toolwiz-photosapp-insights-the-full-2023-perspective-on-photography-tools/"><u>In 2024, Toolwiz PhotosApp Insights - The Full 2023 Perspective on Photography Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-potential-of-ios-albums-ordering-and-cloud-syncing-essentials/"><u>In 2024, Unlocking the Potential of iOS Albums Ordering & Cloud Syncing Essentials</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-easily-erase-identity-blurring-techniques-in-videos/"><u>[New] In 2024, Easily Erase Identity Blurring Techniques in Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-professional-tips-sharpen-and-brighten-your-iphones-hdri-in-adobe-premiere-pro-for-2024/"><u>[Updated] [Professional Tips] Sharpen and Brighten Your iPhone's HDRI in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-download-twitters-livestreams-and-save-as-mp3-for-2024/"><u>[Updated] Download Twitter's Livestreams and Save as MP3 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigating-the-best-airdate-strategy/"><u>[Updated] In 2024, Navigating the Best Airdate Strategy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-authoritative-periscope-users-bible/"><u>2024 Approved The Authoritative Periscope User's Bible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fade-to-black-in-premiere-pro-for-2024/"><u>Fade To Black In Premiere Pro for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/grab-speech-file-and-review/"><u>Grab Speech File & Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-htc-u23-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from HTC U23 to Another | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-scope-of-motion-tracking-from-simple-to-complex/"><u>In 2024, The Scope of Motion Tracking From Simple to Complex</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>In 2024, The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/sonic-sleuths-den-acquire-and-scrutinize-audio-files-for-2024/"><u>Sonic Sleuths' Den Acquire & Scrutinize Audio Files for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/streamline-your-library-spiegel-to-video-converter-for-mp4-mov-avi-formats/"><u>Streamline Your Library: Spiegel-to-Video Converter for MP4, MOV, AVI Formats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-tutorial-adding-whimsy-with-snapchat-cartoons-for-2024/"><u>The Ultimate Tutorial Adding Whimsy with Snapchat Cartoons for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-compendium-of-selecting-premium-audio-formats-for-2024/"><u>Updated The Ultimate Compendium of Selecting Premium Audio Formats for 2024</u></a></li>
 </ul></div>
 

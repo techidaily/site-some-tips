@@ -1,7 +1,7 @@
 ---
 title: "Navigating Notion: Overcoming Frustrations with the Evernote Import Feature - A Step-by-Step Guide"
-date: 2024-09-19 11:22:51
-updated: 2024-09-20 11:13:48
+date: 2024-12-10T16:47:30.398Z
+updated: 2024-12-12T16:06:43.439Z
 tags:
   - cloud
 categories:
@@ -19,6 +19,10 @@ I started writing my blog posts for ZDNET in Evernote back in 2012\. With a few 
 
 I quite like [Evernote](https://evernote.com/) and pay for a professional plan. One of the key benefits of Evernote was (note the past tense) that I could sync between computers. I usually write my articles on my MacBook Air. Once the article is done, my wife (who has years of experience as a managing editor) does an editing pass with me from the couch, using a Mac mini that is connected to a big screen in our family room. I then submit the edited article to ZDNET's editors for review. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Sync failures 
 
 But then Evernote's sync started to regularly fail. Sometimes it wouldn't sync at all. Sometimes, the edited version would be reported as a conflict, and Evernote would create two copies of the article. 
@@ -30,6 +34,10 @@ I reached out to [Evernote's support team](https://help.evernote.com/hc/en-us/re
 Not encouraging, that. Then, when Evernote decided to create three separate copies of an article, I realized it was time to find a different solution. 
 
 This kind of thing gets old after awhile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The need to import Evernote notes 
 
@@ -44,6 +52,10 @@ A whole bunch of programs import Evernote, including Apple Notes, [Obsidian](htt
 **Review:** [**Notion app: Why (and how) I rely on this powerful productivity tool**](https://www.zdnet.com/article/notion-app-review/)
 
 This did not go smoothly. Part of it was Evernote's fault. Part of it was Notion's fault. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Notion conundrum 
 
@@ -69,6 +81,10 @@ It's here we start going down the rabbit hole. It starts with the problem of spl
 
 But, as we've established, Evernote has sync reliability issues. So the idea of flinging thousands of mission-critical notes around and hoping they sync properly and don't break was a deal-breaker. But that's the only way Notion can get notes out of Evernote. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How I eventually solved the problem 
 
 Let's recap. 
@@ -90,6 +106,10 @@ Once I verified all seven parts were properly in the cloud, I went back into Not
 On each of those occasions, there was a note with graphics in it, and it was that note that killed the import. Depending on how important the note was for my records or work, I either deleted the full failing note, or removed the graphics from the failing note. In any case, after dealing with the failing notes, I was able to complete the imports into Notion. 
 
 I followed the same process with my Blogs-in-Progress notebook, but because there were fewer notes, it went faster. All told, it took about six hours of tweaking, fiddling, and waiting for syncs to complete to move the data from Evernote to Notion, but it did, eventually, work. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Some obvious conclusions 
 
@@ -130,11 +150,27 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-premium-audio-visual-leading-blu-ray-devices/"><u>[New] Premium Audio, Visual Leading Blu-Ray Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-intersection-of-brain-research-and-strategic-business-management-for-2024/"><u>[New] The Intersection of Brain Research and Strategic Business Management for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-finest-6-video-snaggers-for-mac-users-now-for-2024/"><u>[Updated] The Finest 6 Video Snaggers for Mac Users Now for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-convert-fb-footage-fast-free-720p-1080p-to-mp4-conversion/"><u>2024 Approved Convert FB Footage Fast - Free 720P, 1080P to MP4 Conversion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellence-index-photoplustune-recording-software/"><u>2024 Approved Excellence Index Photo+Tune Recording Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-e-importar-videos-desde-youtube-sin-costo-alguno-con-la-herramienta-de-conversion-movavi/"><u>Descargar E Importar Videos Desde YouTube Sin Costo Alguno Con La Herramienta De Conversión MOVAVI</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722960973439-get-your-elgato-hd60-up-and-running-easy-fixes-for-drivers/"><u>Get Your Elgato HD60 Up and Running: Easy Fixes for Drivers!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-converting-web-files-with-movavi-omzetten-online/"><u>Gratis Converting Web Files with Movavi - Omzetten Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-recent-microsoft-downtimes-underline-the-critical-need-for-government-systems-to-reduce-big-tech-reliance/"><u>How Recent Microsoft Downtimes Underline the Critical Need for Government Systems to Reduce Big Tech Reliance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oneplus-nord-3-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/instant-slideshow-creator-download-now/"><u>Instant Slideshow Creator - Download Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-melhores-12-programas-de-videochamada-para-pcs-no-ano-de-202/"><u>Os Melhores 12 Programas De Videochamada Para PCs No Ano De 202</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-best-of-ice-artistry-2022-edition-for-2024/"><u>The Best of Ice Artistry 2022 Edition for 2024</u></a></li>
+</ul></div>
+

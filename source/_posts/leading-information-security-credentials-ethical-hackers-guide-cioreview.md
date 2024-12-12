@@ -1,7 +1,7 @@
 ---
 title: Leading Information Security Credentials - Ethical Hacker's Guide | CIOReview
-date: 2024-09-19 11:22:18
-updated: 2024-09-20 10:31:32
+date: 2024-12-07T20:17:18.082Z
+updated: 2024-12-12T17:00:29.421Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +60,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unlocking-the-secrets-of-instagrams-trending-reels/"><u>[New] In 2024, Unlocking the Secrets of Instagram's Trending Reels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-the-power-of-social-proof-tips-to-amplify-brand-visibility/"><u>[New] Unleashing the Power of Social Proof Tips to Amplify Brand Visibility</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-compilation-worlds-leading-youtube-mp3-downloaders-for-2024/"><u>[Updated] Compilation World's Leading YouTube Mp3 Downloaders for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-masterful-methods-for-adding-melodies-to-ig-media/"><u>[Updated] In 2024, Masterful Methods for Adding Melodies to IG Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-loop-maker-assembly/"><u>[Updated] Loop Maker Assembly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-converting-photographs-into-cinematic-videography-with-pixiz/"><u>2024 Approved The Art of Converting Photographs Into Cinematic Videography with Pixiz</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-building-blocks-of-graphic-animation/"><u>2024 Approved The Building Blocks of Graphic Animation</u></a></li>
+<li><a href="https://win-net.techidaily.com/easy-how-to-setting-up-and-executing-continuous-automated-cloud-backups-on-your-pc/"><u>Easy How-To: Setting Up and Executing Continuous Automated Cloud Backups on Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-strategic-approach-to-advertising-on-spotify/"><u>In 2024, The Strategic Approach to Advertising on Spotify</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-elite-lineup-of-audio-reverse-applications-discovering-your-ideal-choices-for-mobile-and-computing-for-2024/"><u>New The Elite Lineup of Audio Reverse Applications Discovering Your Ideal Choices for Mobile & Computing for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-restore-functionality-of-your-unresponsive-blue-yeti-microphone/"><u>Quick Fixes To Restore Functionality Of Your Unresponsive Blue Yeti Microphone</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-solve-error-0x80370102-during-windows-subsystem-for-linux-installation/"><u>Steps to Solve Error 0X80370102 During Windows Subsystem for Linux Installation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-handbook-ios-photo-alignment-and-cloud-synchronization-for-2024/"><u>The Ultimate Handbook IOS Photo Alignment & Cloud Synchronization for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-troubleshooting-guide-stop-final-cut-pro-x-from-crashing/"><u>Updated 2024 Approved Troubleshooting Guide Stop Final Cut Pro X From Crashing</u></a></li>
+</ul></div>
+

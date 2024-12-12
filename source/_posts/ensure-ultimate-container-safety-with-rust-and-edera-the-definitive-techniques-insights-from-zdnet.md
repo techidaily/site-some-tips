@@ -1,7 +1,7 @@
 ---
 title: "Ensure Ultimate Container Safety with Rust and Edera: The Definitive Techniques | Insights From ZDNET"
-date: 2024-09-19 16:57:10
-updated: 2024-09-20 10:16:23
+date: 2024-12-10T16:50:56.055Z
+updated: 2024-12-12T19:20:08.066Z
 tags:
   - cloud
 categories:
@@ -26,6 +26,10 @@ If you're a techie, you may think that's true, but aren't hypervisors of both ty
 The foundation of the new program is [Krata](https://github.com/edera-dev/krata). This is a Xen-based, single-host hypervisor built for [Open Container Initiative (OCI)](https://opencontainers.org/)\-compliant containers. It isolates containers with a fully memory-safe Rust control plane to bring Xen tooling into a new, secure era. In addition, Edera uses Lukko, an open-source memory safety runtime library. This library detects memory safety violations at runtime and cleanly terminates programs before they can be exploited.
 
 Edera is secure by design. It's the only independent solution that offers isolation at the container level, making container escapes impossible, no matter where you run your infrastructure: a hyper cloud, a local cloud, or your own servers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Edera's key features
 
@@ -90,11 +94,24 @@ I'm excited to see what they do going forward. This really is a new, innovative 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-leading-ps2-emulators-unveiled-for-iphone-and-ipad/"><u>[New] In 2024, Leading PS2 Emulators Unveiled for iPhone and iPad</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-of-the-best-10-leading-video-call-apps-for-iphones-and-android/"><u>Best of the Best 10 Leading Video Call Apps for iPhones & Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-libera-aiff-a-wmv-su-internet-utilizzando-movavi-il-processo-facile/"><u>Conversione Libera AIFF a WMV Su Internet Utilizzando Movavi - Il Processo Facile!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-un-fichier-mp2-au-format-mp4-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Un Fichier MP2 Au Format MP4 Gratuitement en Ligne Avec Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-selection-of-no-cost-audio-converters-for-windows-and-macos-including-web-apps-a-review-by-movavi/"><u>Discover the Ultimate Selection of No-Cost Audio Converters for Windows and macOS, Including Web Apps - A Review by Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-converter-online-de-midia-do-caf-para-mp3-pelo-movavi/"><u>Gratuito Converter Online De Mídia Do CAF Para MP3 Pelo Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-moto-g-stylus-5g-2023-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Motorola Moto G Stylus 5G (2023) to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/psvr-2-unveiled-latest-updates-on-features-launch-date-and-pricing-details/"><u>PSVR 2 Unveiled: Latest Updates on Features, Launch Date & Pricing Details</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-5-best-free-video-trimmers-you-need-to-try-for-2024/"><u>Updated The 5 Best Free Video Trimmers You Need to Try for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo X Flip? | Dr.fone</u></a></li>
+</ul></div>
+

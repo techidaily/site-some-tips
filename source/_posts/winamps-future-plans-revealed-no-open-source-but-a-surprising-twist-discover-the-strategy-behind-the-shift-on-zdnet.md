@@ -1,7 +1,7 @@
 ---
 title: "Winamp's Future Plans Revealed: No Open Source, But A Surprising Twist! Discover the Strategy Behind the Shift on ZDNet"
-date: 2024-09-17 22:20:29
-updated: 2024-09-20 10:59:28
+date: 2024-12-07T17:50:56.470Z
+updated: 2024-12-12T19:08:23.819Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,11 +45,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -56,6 +68,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-camcraze-evaluation-excellence-beyond-one-brand/"><u>[New] CamCraze Evaluation Excellence Beyond One Brand</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-comprehensive-guide-to-downloading-standardized-youtube-images/"><u>[New] In 2024, Comprehensive Guide to Downloading Standardized YouTube Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-tricks-to-control-music-paceplay-in-spotify/"><u>[New] Top Tricks to Control Music Paceplay in Spotify</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-strategic-sharing-of-tiktok-content-on-twitter/"><u>[Updated] In 2024, Strategic Sharing of TikTok Content on Twitter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-process-for-crafting-your-own-ringtone-from-tiktok-music/"><u>[Updated] The Complete Process for Crafting Your Own Ringtone From TikTok Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-premier-pro-essentials-accessible-for-all-editors/"><u>[Updated] The Premier Pro Essentials - Accessible for All Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-creativity-the-best-collection-of-free-slide-show-patterns/"><u>[Updated] Unlock Creativity The Best Collection of Free Slide Show Patterns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-exciting-photography-aspects-of-ios-11/"><u>[Updated] Unveiling Exciting Photography Aspects of iOS 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-poco-x6-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Poco X6 Pro FRP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-errors-when-d3dx933dll-is-missing/"><u>Diagnosing and Repairing Errors When d3dx9_33.dll Is Missing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-video-storage-daylong-total-in-gbs/"><u>In 2024, Understanding Video Storage Daylong Total in GBs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/supreme-storytelling-through-soundscape-for-2024/"><u>Supreme Storytelling Through Soundscape for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/titre-conversion-video-gratuit-de-fichier-rmvb-vers-mp3-movavi/"><u>Titre: Conversion Vidéo Gratuit De Fichier RMVB Vers MP3 - Movavi</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-chromecast-without-limits-how-to-play-all-video-formats-2023-edition/"><u>Updated In 2024, Chromecast Without Limits How to Play All Video Formats (2023 Edition)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winxdvd-official-site-comprehensive-dvd-ripper-and-video-converter-tools/"><u>WINXDVD Official Site - Comprehensive DVD Ripper & Video Converter Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/youtube-integration-in-instagram-narratives/"><u>YouTube Integration in Instagram Narratives</u></a></li>
+</ul></div>
+

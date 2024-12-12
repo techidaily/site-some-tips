@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the iPhone 16: A Remarkable Feat of Engineering with Few Compelling Reasons to Buy - Insights From ZDNet"
-date: 2024-09-18 18:12:15
-updated: 2024-09-20 10:14:48
+date: 2024-12-09T16:56:22.285Z
+updated: 2024-12-12T16:53:21.383Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Every year, iPhone enthusiasts eagerly await Apple's latest release. But this ye
 **Also: [Everything Apple announced at its 'Glowtime' event](https://www.zdnet.com/article/everything-apple-announced-at-its-glowtime-event-ai-features-airpods-apple-watch-series-10-more/)**
 
 Despite promises of AI advancements, the iPhone 16 seems more like a stepping stone than a game-changer. Even in my household, the decision to upgrade has divided us -- while I'm upgrading for work because I cover the technology, my wife has made it clear: she's skipping this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Great hardware, but a transitional Apple Intelligence product
 
@@ -61,6 +65,10 @@ On the Pro models, you'll find a 5X optical zoom lens, and the new 48-MP "Fusion
 
 But are these improvements enough to justify an upgrade? Probably not if you already own an iPhone 14 or 15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Developer involvement and AI maturity
 
 While the hardware is impressive, the AI features -- centered around Apple Intelligence -- leave something to be desired, especially for those expecting a more mature experience.
@@ -70,6 +78,10 @@ Apple Intelligence is tied to Apple's own 3-billion-parameter foundation model. 
 **Also: [Every iPhone model that will be updated to Apple's iOS 18 (and which ones won't)](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/)**
 
 Apple has given [developers access to its AI APIs](https://developer.apple.com/apple-intelligence/), but we're still in the early stages of what Apple Intelligence can do. Most of the exciting features - like Genmoji and App Intents -- won't be available until iOS 18.2\. Even iOS 18.1, which unlocks some of the AI functions, won't arrive until at least October.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don't like Apple's apps? No Apple Intelligence for you.
 
@@ -89,6 +101,10 @@ Google's AI writing tools are currently available on iOS and Android through Gma
 
 Microsoft's [SwiftKey](https://apps.apple.com/us/app/microsoft-swiftkey-ai-keyboard/id911813648) iOS keyboard also brings Copilot AI-powered text generation and rewriting to the platform, making these tools accessible across all iPhone models -- not just the iPhone 16.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smart erase and privacy: Apple vs. Google
 
 I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in iOS 18\. It's been difficult to adjust to, and the [Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) \-- Apple's smart erase feature -- while intriguing, hasn't been the game changer I expected. The tool leaves artifacts in many of the photos I've tried it with on my iPhone 15 Pro Max, which detracts from the experience. 
@@ -96,6 +112,10 @@ I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in i
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Google's Magic Eraser, available in Google Photos for iOS, performs similarly without requiring on-device AI processing. That said, Apple's on-device AI processing offers a privacy advantage -- your data stays on the device and doesn't require additional bandwidth. This is particularly useful if you rely on 5G data instead of Wi-Fi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you upgrade?
 
@@ -128,11 +148,33 @@ Unless you desperately need a new phone, don't rush into buying the iPhone 16\. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-decoding-youtubes-top-mp3-conversion-apps/"><u>[New] 2024 Approved Decoding YouTube's Top MP3 Conversion Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cutting-edge-streaming-top-5-tools-for-capturing-every-meeting/"><u>[Updated] Cutting-Edge Streaming Top 5 Tools for Capturing Every Meeting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4-m4r-movavi/"><u>線上免費 MP4 到 M4R 轉換 – Movavi 音效調整工具簡介</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comparing-flagships-to-value-picks-in-depth-look-at-the-samsung-galaxy-a71-5g/"><u>Comparing Flagships to Value Picks: In-Depth Look at the Samsung Galaxy A71 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-immagine-tga-a-png-fatto-da-te-metodo-gratuito-su-movavi/"><u>Conversione Immagine TGA a PNG Fatto Da Te: Metodo Gratuito Su Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-methods-for-installing-the-latest-motherboard-driver-software-in-windows/"><u>Easy Methods for Installing the Latest Motherboard Driver Software in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-optics-the-fundamentals-and-features-of-six-common-photography-lenses/"><u>Exploring Optics: The Fundamentals and Features of Six Common Photography Lenses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-mp3-conversion-mov-to-mp3-with-moveavis-reliable-online-tool/"><u>Free MP3 Conversion: MOV to MP3 with Moveavi's Reliable Online Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-change-webm-files-into-mkv-format-with-ease/"><u>Free Online Converter: Change WebM Files Into MKV Format with Ease</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-htc-u23-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-v30-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo V30 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-selecting-superior-free-online-srt-translation-services-tips-and-tricks/"><u>In 2024, Selecting Superior Free Online SRT Translation Services Tips & Tricks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-download-amd-ryzen-5-2600-graphics-drivers-simple-steps/"><u>Instant Download: AMD Ryzen 5 2600 Graphics Drivers - Simple Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavirawjpeg/"><u>Movavi網站提供免費RAW格式到JPEG的直讀解析工具</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ify-creating-youtube-thumbnails-now/"><u>Simplify Creating YouTube Thumbnails Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-gaming-awaits-how-to-successfully-address-fortnites-lag-issues/"><u>Smooth Gaming Awaits: How to Successfully Address Fortnite's Lag Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-12-reproductores-de-pantalla-para-sistemas-operativos-basados-en-linux-opciones-elegidas-por-expertos-en-2024/"><u>Top 12 Reproductores De Pantalla Para Sistemas Operativos Basados en Linux - Opciones Elegidas Por Expertos en 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-tu-formato-m2p-directamente-en-mpeg-sin-costo-con-el-programa-en-linea-de-conversion-de-video-gratis/"><u>Transforma Tu Formato M2P Directamente en MPEG Sin Costo Con El Programa en Línea De Conversión De Video - Gratis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformez-vos-fichiers-mp3-en-ligne-gratuitement-avec-movavi-conversion-facile-et-rapide/"><u>Transformez Vos Fichiers MP3 en Ligne Gratuitement Avec Movavi - Conversion Facile Et Rapide</u></a></li>
+</ul></div>
+

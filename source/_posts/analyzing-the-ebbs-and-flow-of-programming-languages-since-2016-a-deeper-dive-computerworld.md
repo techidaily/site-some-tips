@@ -1,7 +1,7 @@
 ---
 title: Analyzing the Ebbs & Flow of Programming Languages Since 2016 - A Deeper Dive | ComputerWorld
-date: 2024-09-18 23:54:30
-updated: 2024-09-20 11:37:11
+date: 2024-12-09T18:09:37.239Z
+updated: 2024-12-12T18:54:54.667Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-best-action-cameras-with-a-front-facing-screen/"><u>[New] Best Action Cameras with A Front Facing Screen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings/"><u>[New] The Ultimate Guide to Selecting Android and iOS Clocks for Weddings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-lives-10-cinematic-inspirations/"><u>[New] Transform Lives 10 Cinematic Inspirations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-your-creativity-with-top-title-methods/"><u>[New] Unlock Your Creativity with Top Title Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-restoring-macos-sierra-to-os-x-10101-environment/"><u>[Updated] In 2024, Restoring MacOS Sierra to OS X 10.10.1 Environment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-accessory-hits-for-sj-series-drivers/"><u>[Updated] Top 10 Accessory Hits for SJ-Series Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-upload-apples-end-to-end-process-guide/"><u>2024 Approved Streamlining Upload Apple’s End-to-End Process Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-software-guide-for-tempo-alteration/"><u>2024 Approved Ultimate Software Guide for Tempo Alteration</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-a56s-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo A56s 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/gopro-datei-recovery-guide-wie-geloschte-bilder-und-videos-wiederhergestellt-werden/"><u>GoPro Datei Recovery Guide: Wie Gelöschte Bilder Und Videos Wiederhergestellt Werden</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-13-pro-max-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-linkedin-profile-video-introduction-scope-dimensions-minutes/"><u>In 2024, LinkedIn Profile Video Introduction Scope, Dimensions, Minutes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-installing-ie-management-drivers/"><u>Step-by-Step: Installing IE Management Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-to-find-the-perfect-power-source-for-drones-for-2024/"><u>Strategies to Find the Perfect Power Source for Drones for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721844329053-surpassing-chatgpt-discover-the-top-4-advantages-of-claude-3/"><u>Surpassing ChatGPT? Discover the Top 4 Advantages of Claude 3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-review-the-definitive-guide-to-tech-gear/"><u>Tom's Computer Review: The Definitive Guide to Tech Gear</u></a></li>
+</ul></div>
+

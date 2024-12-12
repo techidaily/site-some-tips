@@ -1,7 +1,7 @@
 ---
 title: "Elevating Public Sector Operations with AI in the Cloud: Singapore's Innovative Approach Explained by ZDNet"
-date: 2024-09-18 20:59:23
-updated: 2024-09-20 11:16:37
+date: 2024-12-10T16:20:20.929Z
+updated: 2024-12-12T18:37:38.017Z
 tags:
   - cloud
 categories:
@@ -62,6 +62,10 @@ In addition, the Monetary Authority of Singapore (MAS) is working with Google to
 Noting that competition remained tough and the global landscape is constantly evolving, he added that AI will play a key role for Singapore moving forward. 
 
 He said MAS will use the collaboration with Google to identify generative AI use cases that will allow it to work more efficiently and provide foundational models that prioritise data security and AI governance. "Through this, we hope to inspire greater adoption of [responsible generative AI in the financial](https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/) sector," Loy said.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Doing things differently with AI
 
@@ -134,11 +138,27 @@ Commenting on the vendor's collaboration with the Singapore government, Ng said:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-how-much-do-you-really-make-as-a-podcaster-for-2024/"><u>[New] How Much Do You Really Make as a Podcaster for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-smartest-podcast-renaming-options-through-ai-technology/"><u>[Updated] In 2024, The Smartest Podcast Renaming Options Through AI Technology</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-loom-downloader-how-to-loom-screen-record/"><u>[Updated] Loom Downloader - How to Loom Screen Record</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-5-prime-photo-tools-ultimate-editing-companion-for-2024/"><u>Android's 5 Prime Photo Tools Ultimate Editing Companion for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-social-savvy-top-5-tips-for-a-more-effective-facebook-experience/"><u>Boost Your Social Savvy: Top 5 Tips for a More Effective Facebook Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/creating-and-activating-system-restore-points-on-windows-11-a-comprehensive-guide/"><u>Creating & Activating System Restore Points on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/customizing-windows-11-with-tailored-themes-and-styles/"><u>Customizing Windows 11 with Tailored Themes and Styles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-windows-11-insider-build-15031-resolve-initializing-issue-for-smooth-installation/"><u>Download Windows 11 Insider Build 15031? Resolve 'Initializing' Issue for Smooth Installation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enabling-rdc-access-for-windows-11-comprehensive-tutorial-to-connect-remotely/"><u>Enabling RDC Access for Windows 11: Comprehensive Tutorial to Connect Remotely</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-pcs-safety-with-easy-restore-point-setup-in-windows-11/"><u>Enhance Your PC's Safety with Easy Restore Point Setup in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 15</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-tp-link-re50/"><u>In-Depth Analysis of the TP-Link RE50</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/perfecting-the-audio-element-in-instagram-storytelling/"><u>Perfecting the Audio Element in Instagram Storytelling</u></a></li>
+</ul></div>
+

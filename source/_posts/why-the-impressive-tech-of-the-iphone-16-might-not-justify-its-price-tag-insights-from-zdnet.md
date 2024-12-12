@@ -1,7 +1,7 @@
 ---
 title: "Why the Impressive Tech of the iPhone 16 Might Not Justify Its Price Tag: Insights From ZDNet"
-date: 2024-09-18 22:19:56
-updated: 2024-09-20 12:29:35
+date: 2024-12-08T18:45:13.348Z
+updated: 2024-12-12T17:09:53.573Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Every year, iPhone enthusiasts eagerly await Apple's latest release. But this ye
 **Also: [Everything Apple announced at its 'Glowtime' event](https://www.zdnet.com/article/everything-apple-announced-at-its-glowtime-event-ai-features-airpods-apple-watch-series-10-more/)**
 
 Despite promises of AI advancements, the iPhone 16 seems more like a stepping stone than a game-changer. Even in my household, the decision to upgrade has divided us -- while I'm upgrading for work because I cover the technology, my wife has made it clear: she's skipping this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Great hardware, but a transitional Apple Intelligence product
 
@@ -71,11 +75,19 @@ Apple Intelligence is tied to Apple's own 3-billion-parameter foundation model. 
 
 Apple has given [developers access to its AI APIs](https://developer.apple.com/apple-intelligence/), but we're still in the early stages of what Apple Intelligence can do. Most of the exciting features - like Genmoji and App Intents -- won't be available until iOS 18.2\. Even iOS 18.1, which unlocks some of the AI functions, won't arrive until at least October.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Don't like Apple's apps? No Apple Intelligence for you.
 
 The biggest problem -- other than the fact that you need new iPhone hardware to exploit it -- is that Apple Intelligence is deeply tied to Apple's own apps, limiting its usefulness for users who rely on third-party apps like Gmail, Google Docs, or Microsoft 365\. 
 
 Apple hasn't given developers the ability to integrate their own AI models on the device, so unless third-party apps adopt Apple's APIs, you won't benefit from Apple Intelligence's features if you're not entirely locked into Apple's ecosystem. Google and Microsoft, which both have robust cloud-based AI solutions -- [Gemma 2](https://ai.google.dev/gemma) for Google's [Gemini](https://ai.google.dev/gemini-api) and GPT-4 for Microsoft's [Copilot](https://www.microsoft.com/en-us/microsoft-copilot/meet-copilot) \-- are unlikely to switch to Apple's APIs anytime soon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cloud-based AI writing tools: No need for new hardware
 
@@ -89,6 +101,10 @@ Google's AI writing tools are currently available on iOS and Android through Gma
 
 Microsoft's [SwiftKey](https://apps.apple.com/us/app/microsoft-swiftkey-ai-keyboard/id911813648) iOS keyboard also brings Copilot AI-powered text generation and rewriting to the platform, making these tools accessible across all iPhone models -- not just the iPhone 16.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smart erase and privacy: Apple vs. Google
 
 I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in iOS 18\. It's been difficult to adjust to, and the [Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) \-- Apple's smart erase feature -- while intriguing, hasn't been the game changer I expected. The tool leaves artifacts in many of the photos I've tried it with on my iPhone 15 Pro Max, which detracts from the experience. 
@@ -96,6 +112,10 @@ I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in i
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Google's Magic Eraser, available in Google Photos for iOS, performs similarly without requiring on-device AI processing. That said, Apple's on-device AI processing offers a privacy advantage -- your data stays on the device and doesn't require additional bandwidth. This is particularly useful if you rely on 5G data instead of Wi-Fi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you upgrade?
 
@@ -128,11 +148,31 @@ Unless you desperately need a new phone, don't rush into buying the iPhone 16\. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-10-essential-tips-for-achieving-wealth-through-youtube-video-views-for-2024/"><u>[New] 10 Essential Tips for Achieving Wealth Through YouTube Video Views for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-blueprints-for-the-ultimate-home-studio-a-4k-editing-powerhouse/"><u>[New] Blueprints for the Ultimate Home Studio A 4K Editing Powerhouse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-multi-task-experience-safe-area-and-pip-settings/"><u>[New] Tailoring Your Multi-Task Experience Safe Area & PIP Settings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-guide-to-seamlessly-replace-backgrounds-on-instagram-for-2024/"><u>[Updated] Step-by-Step Guide to Seamlessly Replace Backgrounds on Instagram for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-handbook-for-swapping-music-libraries/"><u>[Updated] The Ultimate Handbook for Swapping Music Libraries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-for-smoothing-out-quake-in-captured-movement/"><u>[Updated] Tips for Smoothing Out Quake in Captured Movement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-visual-treasures-a-pexels-search-guide/"><u>[Updated] Unleashing Visual Treasures A Pexels Search Guide</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1-updating-your-nvidiaamd-graphics-card-drivers-on-windows-a-step-by-step-guide-yl-computing/"><u>1. Updating Your NVIDIA/AMD Graphics Card Drivers on Windows: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-explore-the-top-10-websites-for-no-fee-images/"><u>2024 Approved Explore the Top 10 Websites for No-Fee Images</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-primes-premier-pieces-the-watched-and-tweeted-superstars/"><u>2024 Approved Prime’s Premier Pieces The #Watched & Tweeted Superstars</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-learning-snapseeds-power-tools/"><u>2024 Approved Unleash Creativity Learning Snapseed's Power Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-a24-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy A24 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-best-performance-latest-intel-iris-xe-drivers-for-modern-windows-os/"><u>Ensure Best Performance: Latest Intel Iris Xe Drivers for Modern Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unpacking-xmedia-suite-review-all-you-need-to-know/"><u>In 2024, Unpacking XMedia Suite Review All You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-like-a-pro-with-telegram-web-for-2024/"><u>Navigating Like a Pro with Telegram Web for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-poco-x6-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Poco X6 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-hd-tech-a-look-at-hp-envy-27-for-2024/"><u>The Evolution of HD Tech - A Look at HP Envy 27 for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Mastering Cost Management in the Era of Generative AI - Expert Perspectives by ZDNet
-date: 2024-09-19 17:37:12
-updated: 2024-09-20 11:18:34
+date: 2024-12-05T18:51:53.147Z
+updated: 2024-12-12T18:01:59.694Z
 tags:
   - cloud
 categories:
@@ -65,6 +65,10 @@ This is an issue that companies will need to be cautious about or costs can esca
 
 It also means organizations have to map out the processes, including data availability, needed to run a query and achieve the desired outcome, so they can measure the cost of applying generative AI to the use case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Letting customers create their own prompts
 
 Salesforce this week previewed new generative AI offerings that its executives said would enable enterprise customers to more easily customize these tools to support their operations. 
@@ -126,11 +130,26 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Dreamforce 2023 in San Fr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-learn-vfx-for-free-mastering-the-art-of-background-substitution-through-4-innovative-video-tutorials/"><u>[Updated] 2024 Approved Learn VFX for Free Mastering the Art of Background Substitution Through 4 Innovative Video Tutorials</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unlocking-optimal-flight-the-lipo-selection-saga/"><u>[Updated] 2024 Approved Unlocking Optimal Flight The LiPo Selection Saga</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-compreranciales-en-fb-tecnicas-para-la-registro-de-llamadas-y-conversaciones-for-2024/"><u>[Updated] Compreranciales en FB Técnicas Para La Registro De Llamadas Y Conversaciones for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-televising-streamed-social-media-vids-in-households/"><u>2024 Approved Televising Streamed Social Media Vids in Households</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversor-gratuitos-en-linea-ts-para-mp4-mediante-movavi-descargue-hoy/"><u>Conversor Gratuitos en Línea TS Para MP4 Mediante Movavi - Descargue Hoy!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-your-rmvb-videos-to-avi-format-for-free-using-movavis-services/"><u>Convert Your RMVB Videos to AVI Format for Free Using Movavi's Services</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/level-up-gameplay-get-ready-for-a-seamless-experience-with-improved-fps-on-the-division-2/"><u>Level Up Gameplay: Get Ready for a Seamless Experience with Improved FPS on 'The Division 2'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-w64/"><u>Movavi W64 フリーオンラインコンバータ - 使い勝手の良さを堪能せよ</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-wi-fi-wav-m4a-online/"><u>Movavi: 무료 제공 Wi-Fi를 통해 WAV을 M4A 암호화로 전환 - Online 모바일</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-best-powerdirector-substitutes-for-mobile-video-editing/"><u>New 2024 Approved The Best PowerDirector Substitutes for Mobile Video Editing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722869509298-untangling-bootmgr-missing-problems-on-your-pc-fixes-revealed/"><u>Untangling 'BOOTMGR Missing' Problems on Your PC - Fixes Revealed!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726223490741-pgm-movavi/"><u>무료 온라인 PGM 교체를 위한 Movavi의 도우미 방법</u></a></li>
+</ul></div>
+

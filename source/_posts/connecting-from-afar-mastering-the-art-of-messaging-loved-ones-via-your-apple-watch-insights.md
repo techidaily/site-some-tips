@@ -1,7 +1,7 @@
 ---
 title: "Connecting From Afar: Mastering the Art of Messaging Loved Ones via Your Apple Watch Insights"
-date: 2024-12-02T19:38:19.401Z
-updated: 2024-12-06T16:01:00.233Z
+date: 2024-12-09T17:53:39.205Z
+updated: 2024-12-12T18:41:38.526Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to know if an AirTag is tracking you
 
 **What you'll need:** To get help locating an unwanted AirTag, you'll need an [iPhone](https://www.zdnet.com/article/best-iphone/) or an [Android phone](https://www.zdnet.com/article/best-android-phone/). We detail below what it looks like on an iPhone when an AirTag tracks you.
@@ -47,10 +43,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 If you suspect someone is tracking your movements using an AirTag, your iOS or Android phone [may alert you](https://www.zdnet.com/article/androids-new-unknown-tracker-alerts-can-help-warn-users-of-rogue-apple-airtags/) before you have to do anything. If someone is tracking you without permission, and you feel you may be in danger, contact law enforcement to get more [information on the AirTag's owner from Apple](https://www.apple.com/legal/privacy/law-enforcement-guidelines-us.pdf).
 
 **Also: [How to clear the cache on your iPhone](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. You may receive an alert on your iPhone
 
@@ -64,6 +56,10 @@ This can also happen with other Find My Network accessories, like [AirPods](http
 This is the notification you get when your iPhone notices an AirTag is moving with you.
 
 Apple
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check that your Tracking Notifications are on
 
@@ -84,7 +80,7 @@ In System Services, we're going to enable Tracking Notifications.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check the Find My app
@@ -113,10 +109,6 @@ If an AirTag is moving with you, you should be able to check the Find My app _(M
 
 Screenshot: Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. If you find an AirTag that doesn't belong to you, check its information
 
 Once you have eyes on the AirTag that doesn't belong to you, you can use your iPhone or any other NFC-enabled smartphone to see the AirTag's information. Just hold the top of your phone near the white side of the found AirTag.
@@ -141,10 +133,6 @@ Maria Diaz/ZDNET
 
 If you're concerned about unwanted tracking or fear for your safety, take screenshots throughout this process, including the device's serial number and owner's information, contact local law enforcement, and give the disabled AirTag to authorities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ## How to find out if an AirTag is tracking me on Android?
@@ -157,6 +145,10 @@ If you are an Android user, [Google offers "unknown tracker alerts"](https://www
 
 If your Android smartphone detects an AirTag moving with you that has been separated from its owner, it will let you scan for the tracker and play a sound to find it -- all without ever letting the owner know it's been found.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do AirTags have GPS?
 
 AirTags don't have [GPS](https://www.zdnet.com/article/best-gps-trackers-and-devices-for-kids/). Instead, they use the Find My network of almost 2 billion [iPhones, iPads, Apple Watches, and Macs](https://www.zdnet.com/article/the-apple-products-you-shouldnt-buy-this-month-april-2023-edition/). AirTag tracking works by sending anonymous Bluetooth signals that can be picked up by any of these devices within 30 feet. Then, these devices send the AirTag's location to iCloud, allowing you to see it in your own Find My app. 
@@ -168,6 +160,10 @@ With so many Apple devices worldwide, Apple's Find My network has become very re
 ## How long does an AirTag battery last?
 
 AirTag batteries are designed to last over a year. These trackers use a CR2032 lithium 3V coin battery that is easily replaceable by twisting open the AirTag. If you're the AirTag's owner, your iPhone will alert you when the battery needs to be replaced.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can someone use another tracker to track me?
 
@@ -188,6 +184,10 @@ Removing the AirTag's battery is the easiest way to stop it from tracking you. T
 **Also:** [**This accessory lets you add an AirTag to your Apple TV remote**](https://www.zdnet.com/home-and-office/home-entertainment/this-accessory-lets-you-add-an-airtag-to-your-apple-tv-remote/)
 
 The Find My network connects different iPhones and Apple devices to AirTags, to track their location. An AirTag can continue tracking you unless you disable it by removing its battery or if you permanently stay outside the Find My network, a difficult task with as many iPhone users as there are in the world. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
@@ -229,21 +229,17 @@ Although someone else won't be able to track your AirTag, they can hear it if it
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-ignite-user-interaction-via-thoughtfully-crafted-insta-lives/"><u>[New] 2024 Approved Ignite User Interaction via Thoughtfully-Crafted Insta Lives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-techniques-for-incremental-volume-reduction-in-pro-video-editing/"><u>[New] Techniques for Incremental Volume Reduction in Pro Video Editing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-filmmakers-ally-expert-advice-for-video-creation-in-windows-10/"><u>[New] The Filmmaker's Ally Expert Advice for Video Creation in Windows 10</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-todays-drone-usage-tomorrows-revolutionary-pathways/"><u>[Updated] 2024 Approved Today's Drone Usage, Tomorrow's Revolutionary Pathways</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-precise-age-settings-the-essential-guide-for-tiktok-profiles/"><u>[Updated] Precise Age Settings The Essential Guide for TikTok Profiles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-techniques-for-finding-no-cost-image-frame-films/"><u>[Updated] Techniques for Finding No-Cost Image Frame Films</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-uncovering-non-google-ar-accessories-and-tools/"><u>[Updated] Uncovering Non-Google AR Accessories and Tools</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-accelerate-your-audience-size-the-best-apps-on-androidiphone/"><u>2024 Approved Accelerate Your Audience Size The Best Apps on Android/iPhone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-optimize-chromes-voice-the-best-web-based-vocal-modification-apps/"><u>2024 Approved Optimize Chrome's Voice The Best Web-Based Vocal Modification Apps</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-y36-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo Y36 Phone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversao-livre-e-online-transformar-dpx-em-tiff-com-o-movavi/"><u>Conversão Livre E Online: Transformar DPX Em TIFF Com O Movavi</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovations-in-ai-discovering-the-distinctive-aspects-of-bert-versus-traditional-gpt-methodologies/"><u>Innovations in AI: Discovering the Distinctive Aspects of BERT Versus Traditional GPT Methodologies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-combining-zoom-and-fb-live-for-2024/"><u>The Ultimate Guide to Combining ZOOM & FB Live for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/twister-timber-titmice-for-2024/"><u>Twister Timber Titmice for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/whatsapps-sonic-status-boost/"><u>WhatsApp's Sonic Status Boost</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-discovering-your-customized-youtube-playlist/"><u>[New] Discovering Your Customized YouTube Playlist</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-determining-data-usage-in-a-full-24-hour-video/"><u>[New] In 2024, Determining Data Usage in a Full 24-Hour Video</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-pivot-past-moments-an-android-video-reversal-tutorial/"><u>[New] Pivot Past Moments An Android Video Reversal Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-flip-side-when-vr-becomes-a-stumbling-block/"><u>[New] The Flip Side When VR Becomes a Stumbling Block</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-iphone-photography-top-angles-for-stunning-images/"><u>[Updated] Unlock iPhone Photography Top Angles for Stunning Images</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-delight-in-motion-capturing-irresistible-culinary-shots/"><u>2024 Approved Delight in Motion Capturing Irresistible Culinary Shots</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-8-authentic-youtube-growth-tools/"><u>2024 Approved Top 8 Authentic YouTube Growth Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-free-hilarious-memetic-art/"><u>In 2024, The Ultimate Guide to Free, Hilarious Memetic Art</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mastering-person-recognition-resolving-identity-errors-in-your-icloud-albums/"><u>Mastering Person Recognition: Resolving Identity Errors in Your iCloud Albums</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/er-asmr-software-for-iphone-and-android-for-2024/"><u>Premier ASMR Software for iPhone & Android for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/egic-branding-techniques-for-higher-youtube-followings-for-2024/"><u>Strategic Branding Techniques for Higher YouTube Followings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-phone-into-a-funimate-portal-via-apk-for-2024/"><u>Transform Your Phone Into a Funimate Portal via APK for 2024</u></a></li>
 </ul></div>
 

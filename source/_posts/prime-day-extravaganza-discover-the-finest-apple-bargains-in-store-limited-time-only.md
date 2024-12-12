@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Extravaganza: Discover the Finest Apple Bargains in Store – Limited Time Only!"
-date: 2024-11-30T20:20:45.841Z
-updated: 2024-12-06T19:52:43.318Z
+date: 2024-12-07T19:37:36.963Z
+updated: 2024-12-12T20:01:27.913Z
 tags:
   - apple
 categories:
@@ -83,6 +83,10 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfb6dbe9c-f65d-4c69-bd4c-e8fe75eb3cf4%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfb6dbe9c-f65d-4c69-bd4c-e8fe75eb3cf4%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -90,6 +94,10 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M2) for $799 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfb6dbe9c-f65d-4c69-bd4c-e8fe75eb3cf4%7Cdtp&dtb=1): [The MacBook Air (M2)](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) combines performance and portability. It's one of our favorite laptops at ZDNET and our Product of the Year -- and it's on sale for just $799, the lowest price we've ever seen.
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfb6dbe9c-f65d-4c69-bd4c-e8fe75eb3cf4%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfb6dbe9c-f65d-4c69-bd4c-e8fe75eb3cf4%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
 
@@ -116,7 +124,7 @@ Kyle Kucharski/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Prime Day 2024 laptop deals
@@ -127,19 +135,15 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfb6dbe9c-f65d-4c69-bd4c-e8fe75eb3cf4%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfb6dbe9c-f65d-4c69-bd4c-e8fe75eb3cf4%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
@@ -149,23 +153,19 @@ There are a lot of great gaming laptops on sale right now, but in our opinion, [
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How did we choose these Prime Day deals?
 
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -230,22 +230,24 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-how-many-gb-is-a-24-hour-video/"><u>[New] How Many GB Is a 24 Hour Video?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-comic-strip-editor/"><u>[New] Ultimate Comic Strip Editor</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-seamless-ocean-footage-with-these-7-hacks/"><u>[New] Unlocking Seamless Ocean Footage with These 7 Hacks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unseen-battles-umbraheroes-black-versus-luminaryheroes-silver/"><u>[New] Unseen Battles Umbraheroes (Black) Versus Luminaryheroes (Silver)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-clearer-photos-a-guide-to-picsarts-bg-eraser/"><u>[New] Unveiling Clearer Photos A Guide to Picsart's Bg Eraser</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-best-fast-photo-viewer-for-windows-10/"><u>[Updated] Top Best Fast Photo Viewer for Windows 10?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transforming-photographs-into-stunning-collaborative-art/"><u>[Updated] Transforming Photographs Into Stunning Collaborative Art</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-venn-of-virtuality-metaverse-and-multiverse-analysis/"><u>2024 Approved The Venn of Virtuality Metaverse & Multiverse Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-upgrade-clips-adding-effects-to-videos-pcmobile/"><u>2024 Approved Upgrade Clips Adding Effects to Videos (PC/Mobile)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/command-the-stage-of-youtube-with-studio-skills-for-2024/"><u>Command the Stage of YouTube with Studio Skills for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-guide-downloading-your-favorite-shows-from-netflix-onto-your-laptop/"><u>Easy Guide: Downloading Your Favorite Shows From Netflix Onto Your Laptop</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-x7b-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor X7b to Roku | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/live-stream-and-webcam-integration-on-tumblr-with-manycam-the-ultimate-guide/"><u>Live Stream & Webcam Integration on Tumblr with ManyCam - The Ultimate Guide</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/should-i-switch-from-iphone-to-google-pixel-drfone-by-drfone-transfer-from-ios/"><u>Should I Switch From iPhone To Google Pixel? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-july-2024-laptop-bargains-you-cant-miss-zdnet-reviews/"><u>Top July 2024 Laptop Bargains You Can't Miss - ZDNet Reviews</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-guide-to-hd-live-streaming-equipment/"><u>Ultimate Guide to HD Live-Streaming Equipment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-pro-photographys-selections-the-creme-de-la-4k-dslrs/"><u>[New] Pro Photography's Selections The Crème De La 4K DSLRs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tech-savvy-guide-from-digital-to-physical-dvds-on-mac/"><u>[New] Tech Savvy Guide From Digital to Physical - DVDs on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-post-production-with-after-effects-and-luts/"><u>2024 Approved Streamlining Post Production with After Effects and LUTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-future-at-your-fingertips-testing-the-latest-in-virtual-reality-by-lg/"><u>2024 Approved The Future at Your Fingertips Testing the Latest in Virtual Reality by LG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-power-of-pause-effectively-responding-to-comments/"><u>2024 Approved The Power of Pause Effectively Responding to Comments</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebook-hack-get-your-account-back-for-2024/"><u>Facebook Hack? Get Your Account Back for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-7-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 7 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-rapid-revision-windows-protocol-uncovered/"><u>In 2024, Rapid Revision Windows Protocol Uncovered</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-android-auditory-guide-adding-personalized-sounds-and-ringtones/"><u>In 2024, The Complete Android Auditory Guide Adding Personalized Sounds and Ringtones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-understanding-and-using-instagrams-music-features/"><u>In 2024, The Essential Guide to Understanding and Using Instagram's Music Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-picks-for-excellent-free-srt-translation-tools/"><u>In 2024, Top 8 Picks for Excellent Free SRT Translation Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/manage-your-default-podcast-adds-on-spotify-playlist/"><u>Manage Your Default Podcast Adds on Spotify Playlist</u></a></li>
+<li><a href="https://win11.techidaily.com/reverting-back-to-original-touch-key-settings-on-windows/"><u>Reverting Back to Original Touch Key Settings on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-making-taskmanager-top-priority-window/"><u>Techniques for Making TaskManager Top-Priority Window</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-12-mini-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-work-smarter-not-harder-top-adobe-premiere-shortcuts-and-tricks-for-2024/"><u>Updated Work Smarter, Not Harder Top Adobe Premiere Shortcuts and Tricks for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wmv-a-hd-senza-costi-trasforma-i-tuoi-file-con-leditor-video-di-movavi-gratuitamente-online/"><u>WMV a HD Senza Costi: Trasforma I Tuoi File Con L'editor Video Di Movavi Gratuitamente Online</u></a></li>
 </ul></div>
 

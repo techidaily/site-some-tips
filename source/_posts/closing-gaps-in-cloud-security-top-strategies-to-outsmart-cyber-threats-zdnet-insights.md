@@ -1,7 +1,7 @@
 ---
 title: "Closing Gaps in Cloud Security: Top Strategies to Outsmart Cyber Threats | ZDNet Insights"
-date: 2024-09-19 13:49:58
-updated: 2024-09-20 10:35:49
+date: 2024-12-06T20:22:22.605Z
+updated: 2024-12-12T16:24:31.732Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 Image: Getty Images
 
 Cloud applications and services provide access to business tools, information and software from anywhere, allowing employees to be productive whether they are [working in the office, remotely or a combination of the two](https://www.zdnet.com/article/remote-work-or-back-to-the-office-the-calculation-just-shifted-again/). Location doesn't matter; everything they need is[just in 'the cloud](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)'.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -46,6 +50,10 @@ And because the cyber criminals are using legitimate usernames and passwords to 
 
 For example, criminals could use access to a [legitimate account to take control of the user's emails and send malicious links to their contacts](https://www.zdnet.com/article/watch-out-for-this-phishing-attack-that-hijacks-your-email-chats-to-spread-malware/), which are designed to steal sensitive information, or plant malware or even ransomware. The target may not question the link because it comes from someone they know and trust. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Security
 
 * [The best VPN services of 2024: Expert tested](https://www.zdnet.com/article/best-vpn/)
@@ -66,9 +74,17 @@ Meanwhile, ransomware campaigns have also been known to [exploit exposed or impr
 
 And it isn't just common cyber criminals who've taken advantage of the rise of remote working and the increase in use of cloud applications: [state-backed hacking and cyber-espionage groups are also exploiting vulnerabilities in cloud](https://www.zdnet.com/article/microsoft-office-365-is-becoming-the-core-of-many-businesses-and-hackers-have-noticed/) as a launchpad for campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Closing the door
 
 But it doesn't have to be this way, and there are several steps that businesses can take to boost the cybersecurity of their cloud applications and software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -91,6 +107,10 @@ And it's imperative for information security teams to have a [good grasp of what
 
 Cloud services can provide significant benefits for both businesses and their employees, but it's vital that the right choices are made to ensure on-demand IT is used in a productive and secure way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -105,11 +125,30 @@ Cloud services can provide significant benefits for both businesses and their em
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-your-sierra-cloud-storage-effortlessly/"><u>[New] Navigating Your Sierra Cloud Storage Effortlessly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-download-facebook-links-for-free-online-for-2024/"><u>[Updated] Download Facebook Links for FREE Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-conversion-tracking-optimized-with-the-power-of-cookiebot/"><u>Enhanced Conversion Tracking: Optimized with the Power of Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-performance-through-advanced-cookiebot-integration/"><u>Enhanced Performance Through Advanced Cookiebot Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-traffic-via-cutting-edge-cookiebot-solutions/"><u>Enhanced Traffic via Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-user-engagement-with-dynamic-cookiebot-analytics/"><u>Enhanced User Engagement with Dynamic Cookiebot Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-user-experience-through-advanced-analytics-backed-by-cookiebots-expertise/"><u>Enhanced User Experience Through Advanced Analytics - Backed by Cookiebot's Expertise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-website-analytics-through-the-innovative-use-of-cookiebot-technology/"><u>Enhanced Website Analytics Through the Innovative Use of CookieBot Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-detail-in-warped-internet-media-content/"><u>Enhancing Detail in Warped Internet Media Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-rise-of-textual-analytics-abbyy-q3-report-highlights-growing-trends-in-content-intelligence/"><u>Exploring the Rise of Textual Analytics: ABBYY Q3 Report Highlights Growing Trends in Content Intelligence</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-vivo-s18e-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo S18e Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bringing-history-forward-digitizing-old-photographs-into-video/"><u>In 2024, Bringing History Forward Digitizing Old Photographs Into Video</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lg-watch-style-assessment-unveiling-the-timeless-elegance-of-wearos-20-timepieces/"><u>LG Watch Style Assessment: Unveiling the Timeless Elegance of WearOS 2.0 Timepieces</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tales-from-arise-solving-the-common-ue4-critical-bug/"><u>Tales From Arise: Solving the Common UE4 Critical Bug</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-evolution-of-design-and-features-on-the-new-samsung-s21/"><u>The Evolution of Design and Features on the New Samsung S21</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-mastering-color-correction-and-grading-for-2024/"><u>Ultimate Guide Mastering Color Correction & Grading for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Tides of Change: Key Takeawives From Latest Tech Workforce Transformations | Perspectives by ZDNET"
-date: 2024-09-17 14:19:23
-updated: 2024-09-20 10:56:25
+date: 2024-12-08T16:57:37.360Z
+updated: 2024-12-12T17:12:38.352Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Photo: Joe McKendrick
 As information technology staff dispersed to remote or work-at-home locations, what was the impact on initiatives such as DevOps and development? There are technology tasks that are well-suited for remote work. Still, there are other aspects of the job that still work better face to face. 
 
 That's the word from [Andy Nallappan](https://www.linkedin.com/in/nallappan/), chief technology officer and head of software business operations at Broadcom Software, one of the world's largest tech employers. I had the chance to chat with Nallappan while at Infosys' recent [Cobalt event](https://www.infosys.com/infosys-cobalt-world-tour-nyc.html), where he shared his experiences with managing a large workforce of technologists and the challenges faced over the past two years. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### executive guide
 
@@ -60,11 +64,31 @@ The important thing about corporate culture, he adds, is that it "should have cl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-step-by-step-guide-to-the-ultimate-photo-editing-with-facetune-2e/"><u>[New] 2024 Approved Step-by-Step Guide to the Ultimate Photo Editing with Facetune (2E)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-art-of-applying-skin-secrets-establishing-an-online-beauty-platform/"><u>[New] The Art of Applying Skin Secrets Establishing an Online Beauty Platform</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unlocking-earnings-potential-dm-and-yo-showdown/"><u>[Updated] In 2024, Unlocking Earnings Potential Dm & Yo Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-evolution-from-rgb-to-srgb-in-graphic-media/"><u>[Updated] The Evolution From RGB to Srgb in Graphic Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-manual-how-to-crop-images-seamlessly-online/"><u>2024 Approved The Photographer's Manual How To Crop Images Seamlessly Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-power-of-video-enhancement-sdr-to-dynamic-range-upconversion/"><u>2024 Approved Unveiling the Power of Video Enhancement SDR to Dynamic Range Upconversion</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/efficient-encoding-showdown-how-h2-64-vs-mpeg-4-affects-iphone-x8-videos-in-terms-of-file-size-quality-and-processing-time/"><u>Efficient Encoding Showdown: How H.2 64 vs MPEG-4 Affects iPhone X/8 Videos in Terms of File Size, Quality, and Processing Time</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-realme-gt-neo-5-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme GT Neo 5 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-checklist-for-using-firefoxs-popup-window/"><u>In 2024, The Ultimate Checklist for Using Firefox's Popup Window</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-your-macs-capabilities-in-big-sur/"><u>In 2024, Understanding Your Mac's Capabilities in Big Sur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-videos-potential-with-dynamic-titles/"><u>In 2024, Unleash Your Video's Potential with Dynamic Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-document-creation-with-microsoft-word-speech-recognition-for-2024/"><u>Streamline Document Creation with Microsoft Word Speech Recognition for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-docu-script-writers-guide-for-2024/"><u>The Docu-Script Writer's Guide for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/troubleshooting-windows-effective-strategies-to-fix-your-sound-card-issues-with-guidance-from-yl-software/"><u>Troubleshooting Windows: Effective Strategies to Fix Your Sound Card Issues with Guidance From YL Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-creative-vision-with-lunapics-tutorial-for-2024/"><u>Unlock Creative Vision with LunaPic's Tutorial for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/weaving-tech-guide-mastering-screen-recording-on-loom/"><u>Weaving Tech Guide Mastering Screen Recording on Loom</u></a></li>
+</ul></div>
+

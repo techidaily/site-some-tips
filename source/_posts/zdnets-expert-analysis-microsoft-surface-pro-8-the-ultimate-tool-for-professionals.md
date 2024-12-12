@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Expert Analysis: Microsoft Surface Pro 8 - The Ultimate Tool for Professionals"
-date: 2024-12-04T19:04:01.927Z
-updated: 2024-12-06T18:40:19.577Z
+date: 2024-12-07T19:21:32.560Z
+updated: 2024-12-12T19:10:45.771Z
 tags:
   - apple
 categories:
@@ -42,15 +42,15 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -75,7 +75,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -95,7 +95,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -129,10 +129,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -142,10 +138,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -158,6 +150,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -172,6 +168,10 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -210,21 +210,14 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-best-worth-steadicams-for-high-end-aerial-film-production/"><u>[New] 2024 Approved Best-Worth Steadicams for High-End Aerial Film Production</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>[New] Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-iphone-video-editing-shorten-crop-and-resize-basics/"><u>[Updated] 2024 Approved IPhone Video Editing Shorten, Crop & Resize Basics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-strategizing-visibility-for-podcasts-through-design/"><u>[Updated] Strategizing Visibility for Podcasts Through Design</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-best-iphone-selfie-devices-ranked-8/"><u>[Updated] The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-newbies-roadmap-to-understanding-av1/"><u>[Updated] The Newbie’s Roadmap to Understanding AV1</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-10-movie-gems-to-spark-inspiration/"><u>2024 Approved Ultimate List 10 Movie Gems to Spark Inspiration</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cambiar-audio-mka-a-wav-facilmente-y-gratuitamente-con-la-herramienta-en-linea-de-movavi-guia-paso-a-paso/"><u>Cambiar Audio MKA a WAV Fácilmente Y Gratuitamente Con La Herramienta en Línea De Movavi: Guía Paso a Paso</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-infinix-gt-10-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Infinix GT 10 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-restore-and-replace-a-lost-wmvcoredll-file-easily/"><u>How to Restore and Replace a Lost Wmvcore.dll File Easily</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-effective-techniques-to-prevent-photos-app-crashes-on-windows-11/"><u>In 2024, Effective Techniques to Prevent Photos App Crashes on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-notch-tricks-to-nail-every-green-screen-shot/"><u>In 2024, Top-Notch Tricks to Nail Every Green Screen Shot</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-narratives-yt-channels-worth-watching-in-23/"><u>In 2024, Unparalleled Narratives YT Channels Worth Watching in '23</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/optimizing-your-android-panel-a-guide-on-customizing-the-quick-settings-menu/"><u>Optimizing Your Android Panel: A Guide on Customizing the Quick Settings Menu</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-key-to-accumulating-a-huge-collection-of-tiktok-videos-for-2024/"><u>The Key to Accumulating a Huge Collection of TikTok Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-image-adaptation-techniques-for-iphone-users/"><u>[Updated] Swift Image Adaptation Techniques for iPhone Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977362393-download-and-setup-microsofts-comfort-optimized-keyboard-4000-driver-pack-fast-track-guide/"><u>Download & Setup Microsoft's Comfort-Optimized Keyboard 4000 Driver Pack – Fast Track Guide!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-distinctions-unveiling-5-major-contrasts-between-gpt-4-and-gpt/"><u>Exploring the Distinctions: Unveiling 5 Major Contrasts Between GPT-4 and GPT-</u></a></li>
+<li><a href="https://fox-that.techidaily.com/face-id-malfunction-on-iphone-find-relief-through-this-comprehensive-guide-of-14-fixes/"><u>Face ID Malfunction on iPhone: Find Relief Through This Comprehensive Guide of 14 Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-0x8024a105-windows-update-error/"><u>How to Fix 0X8024a105 Windows Update Error</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>In 2024, The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-secrets-of-your-lost-iphone-x/"><u>In 2024, Unlock the Secrets of Your Lost iPhone X</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/methoden-zum-wiederherstellen-von-daten-auf-einem-defekten-usb-stick-schritt-fur-schritt-anleitung/"><u>Methoden Zum Wiederherstellen Von Daten Auf Einem Defekten USB-Stick - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-methods-to-record-high-quality-audio-on-windows-for-2024/"><u>Top 5 Methods to Record High-Quality Audio on Windows for 2024</u></a></li>
 </ul></div>
 

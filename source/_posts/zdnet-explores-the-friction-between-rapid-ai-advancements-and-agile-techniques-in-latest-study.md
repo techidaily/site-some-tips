@@ -1,7 +1,7 @@
 ---
 title: ZDnet Explores the Friction Between Rapid AI Advancements and Agile Techniques in Latest Study
-date: 2024-09-17 19:42:53
-updated: 2024-09-20 10:26:46
+date: 2024-12-07T19:56:15.942Z
+updated: 2024-12-12T17:15:57.348Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-elite-psd-text-flourishes/"><u>[New] 2024 Approved Elite PSD Text Flourishes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-basic-vimeo-plus-or-vimeo-pro-which-is-right-for-you/"><u>[New] In 2024, Vimeo Basic, Vimeo Plus or Vimeo Pro Which Is Right for You?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-right-time-to-invest-in-your-next-4k-lens/"><u>[New] The Right Time to Invest in Your Next 4K Lens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-9-free-android-mp3-extractors/"><u>[New] Top 9 FREE Android MP3 Extractors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-copyright-compliance-and-photovideo-sharing/"><u>[Updated] 2024 Approved Copyright Compliance & Photo/Video Sharing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-banishing-the-darkness-tips-for-a-bright-screen-on-obs-for-2024/"><u>[Updated] Banishing the Darkness Tips for a Bright Screen on OBS for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-15-revolutionary-metaverse-ventures-explored/"><u>[Updated] In 2024, 15 Revolutionary Metaverse Ventures Explored</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-the-world-of-youtube-where-are-my-comments/"><u>[Updated] In 2024, Exploring the World of YouTube Where Are My Comments?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-premiere-pro-planning-and-templates/"><u>[Updated] The Ultimate Guide to Premiere Pro Planning & Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-essentials-an-in-depth-review-of-lightroom-for-android/"><u>[Updated] Unveiling the Essentials An In-Depth Review of Lightroom for Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-top-8-excellent-free-online-srt-translators-for-efficiency/"><u>[Updated] Unveiling Top 8 Excellent Free Online SRT Translators for Efficiency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tap-into-the-funny-kapwing-for-meme-makers/"><u>2024 Approved Tap Into the Funny Kapwing for Meme Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-enhanced-audio-visual-sync-subtitle-addition-to-wmp/"><u>2024 Approved Unlock Enhanced Audio-Visual Sync Subtitle Addition to WMP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photographic-power-up-grid-software-of-the-decade/"><u>In 2024, Photographic Power-Up Grid Software of the Decade</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-secrets-of-getting-up-close-in-roblox-environments/"><u>In 2024, The Secrets of Getting Up Close in Roblox Environments</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-ultimate-checklist-for-crafting-dynamic-vimeo-conclusions/"><u>In 2024, The Ultimate Checklist for Crafting Dynamic Vimeo Conclusions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-x-5-ways-to-get-into-a-locked-iphone-x-by-drfone-ios/"><u>Locked Out of iPhone X? 5 Ways to get into a Locked iPhone X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-photographers-list-of-top-10-lenses-for-2024/"><u>The Photographer's List of Top 10 Lenses for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-picsart-analysis-and-tutorial-for-2024/"><u>Ultimate PicsArt Analysis & Tutorial for 2024</u></a></li>
+</ul></div>
+

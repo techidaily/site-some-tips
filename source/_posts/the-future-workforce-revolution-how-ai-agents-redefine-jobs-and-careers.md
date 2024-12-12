@@ -1,7 +1,7 @@
 ---
 title: "The Future Workforce Revolution: How AI Agents Redefine Jobs and Careers"
-date: 2024-09-19 15:51:19
-updated: 2024-09-20 11:53:12
+date: 2024-12-09T19:56:24.464Z
+updated: 2024-12-12T18:10:39.829Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,24 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-obscured-oath-black-vs-the-illuminated-edict-silver/"><u>[New] The Obscured Oath (Black) VS The Illuminated Edict (Silver)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-timeless-1980s-filters-and-techniques-in-editing/"><u>[New] Timeless 1980S Filters & Techniques in Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-ars-capabilities-and-limits/"><u>[Updated] Understanding AR's Capabilities and Limits</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-a-dual-device-expedition-in-virtual-frontiers/"><u>2024 Approved A Dual-Device Expedition in Virtual Frontiers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-cinematographers-playbook-top-5-creative-strategies/"><u>2024 Approved The Cinematographer's Playbook Top 5 Creative Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Oppo Reno 11 Pro 5G.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-y36-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo Y36 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-transferring-directories-on-windows-systems-insights-from-yl-computing/"><u>Step-by-Step Guide: Transferring Directories on Windows Systems - Insights From YL Computing</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Core 24: Revolutionizing IoT and Edge Devices - A Look Into the Future of Distributed Computing with Canonical"
-date: 2024-09-19 13:31:49
-updated: 2024-09-20 11:57:22
+date: 2024-12-08T20:36:48.066Z
+updated: 2024-12-12T17:57:43.457Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-mastering-the-art-of-creating-an-original-tiktok-hashtag/"><u>[New] 2024 Approved Mastering the Art of Creating an Original TikTok Hashtag</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-iphone-lens-magic-the-ultimate-10-composition-techniques/"><u>[New] IPhone Lens Magic The Ultimate 10 Composition Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sprint-through-photo-composition-googles-easy-way/"><u>[New] Sprint Through Photo Composition - Google's Easy Way</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-logitech-webcam-filming-tips-for-clear-visuals-and-smooth-sessions-for-2024/"><u>[Updated] Logitech Webcam Filming Tips for Clear Visuals and Smooth Sessions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-hdr-techniques-in-modern-photoshoots/"><u>[Updated] Understanding HDR Techniques in Modern Photoshoots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-10-plugins-to-enhance-fcp/"><u>2024 Approved Ultimate 10 Plugins to Enhance FCP</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accelerated-learning-for-background-deletion-using-affinitys-toolkit-for-2024/"><u>Accelerated Learning for Background Deletion Using Affinity's Toolkit for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-process-find-and-install-new-drivers-for-your-dell-display-unit/"><u>Hassle-Free Process: Find and Install New Drivers for Your Dell Display Unit</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ideal-ict-equipment-educators-top-10-lecture-capturers/"><u>Ideal ICT Equipment Educators' Top 10 Lecture Capturers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail/"><u>In 2024, Cutting-Edge Techniques for Private YT Content Dissemination in Gmail</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-definitive-guide-to-uploading-podcasts-on-google/"><u>In 2024, The Definitive Guide to Uploading Podcasts on Google</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-end-to-end-guide-to-picsart/"><u>In 2024, The End-to-End Guide to PicsArt</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unwinding-upside-down-asmr-to-support-zzzs/"><u>In 2024, Unwinding Upside-Down ASMR to Support Zzz's</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-influential-force-of-endorsements-for-2024/"><u>The Influential Force of Endorsements for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-imagery-with-ar-and-accessible-luts-for-2024/"><u>Transform Your Imagery with AR & Accessible LUTs for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-xr-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone XR</u></a></li>
+</ul></div>
+

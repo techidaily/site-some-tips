@@ -1,7 +1,7 @@
 ---
 title: "Evolution of Developer Responsibilities: Insights From Atlassian’s Agnes Ro Featured in ZDNet"
-date: 2024-09-17 19:20:59
-updated: 2024-09-20 11:36:54
+date: 2024-12-05T17:06:00.641Z
+updated: 2024-12-12T19:50:59.018Z
 tags:
   - cloud
 categories:
@@ -17,11 +17,19 @@ Image: Atlassian
 
 The last decade has seen the role of software developers evolve at a rapid pace as more and more organisations aimed to deliver new iterations of applications faster and more frequently than ever before.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Software development: Emerging trends and changing roles ZDNet takes an in-depth look at key trends in software development and how developers are changing the tech industry.  Read now](https://www.zdnet.com/topic/software-development-emerging-trends-and-changing-roles/)
 
 Atlassian's head of engineering Agnes Ro has experienced this first-hand. Ro has spent the last 15 years working at the software company -- initially as a graduate developer, before rising up the ranks to oversee a team of 100 engineers for a department called Foundational Collaboration that sits within Atlassian's cloud platform. Some of her key responsibilities include delivering common experiences and backend services for Atlassian products, such as rich text editors in JIRA and Confluence, as well as file and storage experiences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The need for speed
 
@@ -46,6 +54,10 @@ Frameworks to support the language that developers write, especially in the fron
 * [The future of the web will need a different sort of software developer](https://www.zdnet.com/article/the-future-of-the-web-will-need-a-different-sort-of-software-developer/)
 * [The best Linux laptops for consumers and developers](https://www.zdnet.com/article/best-linux-laptop/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Teamwork makes the dream work
 
 During the early days of software development, Ro admitted that an inward-looking approach was favoured as applications were built according to what software developers thought to be important, rather than what customers needed. 
@@ -58,6 +70,10 @@ She pointed out, for instance, how security is now top of mind during any develo
 
 "Security has become much more ingrained," Ro said. "I would say to all of our engineering teams it's the number-one priority for Atlassian. We've come to understand that it's not just the responsibility within a separate security department; it's everyone's responsibility, and so we do a lot to ensure we're constantly testing and trying to ship the best and secure products for our customers."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A seat at the table
 
 Ro believes software developers are no longer outliers within an organisation, but are increasingly playing more crucial roles. 
@@ -65,6 +81,10 @@ Ro believes software developers are no longer outliers within an organisation, b
 "Engineers now feel much more responsible for all parts of the development lifecycle, so they're not just writing code anymore," she said.
 
 "They really do have to follow all the way through to shipping and the operational side of things, and making sure that it is reliable, stable, and not just about writing and shipping the code, and so I definitely feel that that's been a huge change and shift."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Related Coverage
 
@@ -80,11 +100,29 @@ Ro believes software developers are no longer outliers within an organisation, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-strategic-insightfulness-comparing-your-channel-to-competitors-crafts/"><u>[New] In 2024, Strategic Insightfulness Comparing Your Channel to Competitors' Crafts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-tap-into-thriving-youtube-threads/"><u>[New] In 2024, Tap Into Thriving YouTube Threads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-inexpensive-pcs-optimized-video-settings-guide-for-2024/"><u>[New] Inexpensive PCs Optimized Video Settings Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-gopro-hero5-black-journey-elevating-your-visual-storytelling/"><u>[Updated] The GoPro Hero5 Black Journey Elevating Your Visual Storytelling</u></a></li>
+<li><a href="https://windows11.techidaily.com/decode-and-resolve-uninitialized-disk-message-on-pc/"><u>Decode and Resolve Uninitialized Disk Message on PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descarga-gratuita-convertir-archivos-flv-a-vob-sin-problemas/"><u>Descarga Gratuita: Convertir Archivos FLV a VOB Sin Problemas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descarga-imprescindible-movavi-soluciones-de-multimedia-para-su-negocio/"><u>Descarga Imprescindible - Movavi Soluciones De Multimedia Para Su Negocio</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-cinematic-brilliance-on-a-budget-with-the-hisense-50h8f-4k-smart-led-tv-review/"><u>Experience Cinematic Brilliance on a Budget with the Hisense 50H8F 4K Smart LED TV Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-avi-to-mjpeg-movavi/"><u>Free Online Converter: AVI to MJPEG - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-mp4-to-avi-and-jpg-to-png-with-movavi/"><u>Free Online Converter: MP4 to AVI & JPG to PNG with Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-movavi-converseren-van-mp3-naar-aac-en-andere-audiodateien-efficient-en-gemakkelijk/"><u>Gratuit Movavi - Converseren Van MP3 Naar AAC en Andere Audiodateien Efficiënt en Gemakkelijk</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-typing-slowdowns-solutions-for-keyboard-latency-in-win-10/"><u>Resolving Typing Slowdowns: Solutions for Keyboard Latency in Win 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sedis-doma-a-chces-nahradit-schuzi-bez-povoleni-pokus-se-zoom-na-movavi-navrhovaci-prukladky/"><u>Sedíš Doma a Chceš Nahradit Schůzi Bez Povolení? Pokus Se Zoom Na Movavi - Návrhovací Průkladky</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-charging-companion-a-closer-look-at-the-anker-powercoreplus-26800-portable-charger-bundle/"><u>The Ultimate Charging Companion: A Closer Look at the Anker PowerCore+ 26800 Portable Charger Bundle</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/top-10-high-quality-tikfilters-transforming-feeds-for-2024/"><u>Top 10 High-Quality TikFilters Transforming Feeds for 2024</u></a></li>
+</ul></div>
+

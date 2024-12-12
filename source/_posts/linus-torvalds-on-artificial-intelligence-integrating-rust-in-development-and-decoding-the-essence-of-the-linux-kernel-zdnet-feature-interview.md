@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds on Artificial Intelligence, Integrating Rust in Development, and Decoding the Essence of the Linux Kernel | ZDNET Feature Interview
-date: 2024-09-17 11:48:56
-updated: 2024-09-20 12:24:44
+date: 2024-12-09T16:03:44.311Z
+updated: 2024-12-12T18:17:47.031Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-elevate-viewer-connection-mastering-the-art-of-square-footage-in-videos/"><u>[New] 2024 Approved Elevate Viewer Connection Mastering the Art of Square Footage in Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-the-loop-a-comprehensive-guide-for-instagram-videographers/"><u>[New] 2024 Approved Mastering the Loop A Comprehensive Guide for Instagram Videographers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-photography-gurus-guide-to-date-stamping/"><u>[New] The Photography Guru's Guide to Date Stamping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tailored-visual-representation-free-logo-base-for-personal-touches/"><u>[Updated] Tailored Visual Representation Free Logo Base for Personal Touches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-picks-youtube-to-hd-mastering-quality-conversions/"><u>2024 Approved Top Picks YouTube to HD - Mastering Quality Conversions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/comment-bloquer-une-video-sur-pc-mac-android-et-iphone/"><u>Comment Bloquer Une Vidéo Sur PC, Mac, Android Et iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-top-7-ai-integrations-inside-the-functionality-of-gpt-4-powered-apps/"><u>Exploring the Top 7 AI Integrations: Inside the Functionality of GPT-4 Powered Apps</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-camon-20-premier-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Camon 20 Premier 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y17s-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y17s to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-newly-eligible-users-see-revenue-uplift/"><u>In 2024, Newly Eligible Users See Revenue Uplift</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tuxera-nero-reader-comprehensive-multimedia-tool/"><u>In 2024, Tuxera Nero Reader Comprehensive Multimedia Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-secrets-of-swelling-youtube-supporters/"><u>In 2024, Unlocking the Secrets of Swelling YouTube Supporters</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/lose-no-more-swift-iphone-data-rescue-without-backup-on-ios-versions-15-14-and-13/"><u>Lose No More - Swift iPhone Data Rescue Without Backup on iOS Versions 15, 14 & 13</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ating-through-numbers-a-full-guide-for-measuring-youtube-success-for-2024/"><u>Navigating Through Numbers A Full Guide for Measuring YouTube Success for 2024</u></a></li>
+</ul></div>
+

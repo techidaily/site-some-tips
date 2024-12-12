@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Taking Charge of Your Cloud Security Risks | Cyber Defense Today
-date: 2024-09-17 11:52:51
-updated: 2024-09-20 11:41:49
+date: 2024-12-08T16:18:20.510Z
+updated: 2024-12-12T19:35:11.748Z
 tags:
   - cloud
 categories:
@@ -96,6 +96,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fcloud-security-is-too-important-to-leave-to-cloud-providers%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fcloud-security-is-too-important-to-leave-to-cloud-providers%2F "Twitter") 
@@ -105,6 +109,10 @@ Direct LinkEmbed Code
 Close Modal Dialog
 
 As cloud rises to encompass to more corporate applications, data and processes, there's potential for end-users to outsource their security to providers as well. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -164,11 +172,29 @@ The latest CSA report highlights this year's leading concerns:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-the-art-of-shortening-videos-for-instagram-mac/"><u>[New] 2024 Approved Mastering the Art of Shortening Videos for Instagram (Mac)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-top-10-tiktok-gamers/"><u>[New] 2024 Approved The Ultimate Guide to Top 10 TikTok Gamers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-swiftly-restore-working-airdrop-between-apple-gadgets-and-macs/"><u>[New] In 2024, Swiftly Restore Working AirDrop Between Apple Gadgets & Macs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-rhythm-reviews-sound-innovations/"><u>[Updated] 2024 Approved Rhythm Reviews Sound Innovations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-film-enthusiasts-guide-to-mastery-with-gopro/"><u>2024 Approved A Film Enthusiast's Guide to Mastery with GoPro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-yearly-selection-of-top-free-pc-graphic-artists-in-czechia-your-ultimate-guide-by-movavi/"><u>2024 Yearly Selection of Top Free PC Graphic Artists in Czechia: Your Ultimate Guide by Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225420916-m1vmp4-movavi/"><u>安心してM1VをMP4に変換: お手頃価格無料オンラインツール集 - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/54sh5paz44gn5l244gi44kl57eo6zug44ox44ot44kw44op44og44cq5yaz55yf44cr44oa44km44oz44ot44o844oj5oml6acg/"><u>無料で使える編集プログラム【写真】ダウンロード手順</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-subir-videos-a-instagram-usando-tu-pc-tutorial-para-sistemas-windows-and-macos/"><u>Cómo Subir Vídeos a Instagram Usando Tu PC (Tutorial Para Sistemas Windows & macOS)</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-windows-default-battery-usage-protocol/"><u>Restoring Window's Default Battery Usage Protocol</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-x100-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo X100 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trailblazing-truth-in-an-age-of-ai-imaginary-reality/"><u>Trailblazing Truth in an Age of AI Imaginary Reality</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96393664-9781620557617-witchcraft-and-secret-societies-of-rural-england/"><u>Witchcraft and Secret Societies of Rural England | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wma-and-aiff-online-movavi/"><u>WMA & AIFF 형식을 제공하는 무료 Online 스위칭 - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/raw-bmp-online-conversion/"><u>이메일 및 화면에 자신의 RAW BMP 이미지를 쉽게 바인드: 무료 Online Conversion - 모바이비</u></a></li>
+</ul></div>
+

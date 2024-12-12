@@ -1,7 +1,7 @@
 ---
 title: "Securing the Clouds: Key Strategies Every Organization Must Implement, According to ZDNet Experts"
-date: 2024-09-18 15:47:47
-updated: 2024-09-20 12:33:55
+date: 2024-12-07T19:46:39.534Z
+updated: 2024-12-12T17:12:52.591Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/fe4b0191212c8e41c031bf23c61d1f9123e35ac3b
 Image: Getty
 
 The popularity of cloud applications and software [has risen significantly in recent years](https://www.zdnet.com/article/cloud-computing-is-evolving-heres-where-its-going-next/). But while using cloud services can be beneficial for businesses and employees, [it also carries new cybersecurity risks](https://www.zdnet.com/article/terrible-cloud-security-is-leaving-the-door-open-for-hackers-heres-what-youre-doing-wrong/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -48,6 +52,10 @@ It's vital that any cloud accounts are secured properly, using a complex, unique
 
 Organisations should also consider providing staff with [password manager software](https://www.zdnet.com/article/best-password-manager/), so users don't need to remember passwords, leaving them free to create longer, more complex passwords that are less likely to be breached.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **2\. Don't give every user the keys to the kingdom**
 
 Cloud applications and services are convenient, providing users with a variety of tools they need to be productive, all in one place. But different users have different needs and most users don't need high-level privileges – particularly when that access [could easily be abused by an unauthorized user](https://www.zdnet.com/article/admin-rights-key-to-mitigating-vulnerabilities-study-shows/) who has hacked or otherwise taken control of an account with admin rights. 
@@ -74,9 +82,17 @@ It's also important to ensure that cloud applications aren't [misconfigured](htt
 
 In the worst-case scenario, a misconfigured cloud application facing the open internet may not require login details at all, meaning anyone can gain access. It's vital that organisations are aware of how their cloud services interact with the open web and that only those who need these services can access them. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **4\. Don't ignore security updates and patches – cloud software needs them, too**
 
 One of the most important things you can do to improve the cybersecurity of your network is to [apply security updates and patches as soon as possible](https://www.zdnet.com/article/this-one-change-could-protect-your-systems-from-attack-so-why-dont-more-companies-do-it/). Cyber criminals regularly look to exploit known vulnerabilities in applications to breach networks and lay the foundation for cyberattacks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -101,6 +117,10 @@ No matter how strong your cybersecurity controls are, protecting cloud accounts 
 
 Not only is it important to regularly save backups – so the restore point is as recent as possible, meaning everything is as close to being up-to-date as it can be – those backups should also be tested regularly. After all, there's no point keeping backups if it turns out that they don't work when they're actually needed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -115,11 +135,27 @@ Not only is it important to regularly save backups – so the restore point is a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-artistic-eye-with-toolwiz-an-in-depth-look-at-the-photosapp-2023-edition/"><u>[New] The Artistic Eye with Toolwiz An In-Depth Look at the PhotosApp, 2023 Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-creative-reactors-the-10-premier-video-responses-for-2024/"><u>[Updated] Creative Reactors The 10 Premier Video Responses for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-metaverse-passage-premier-vr-equipment-showcase/"><u>[Updated] Metaverse Passage Premier VR Equipment Showcase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-to-enhance-stability-of-win-11s-photo-viewer/"><u>[Updated] Strategies to Enhance Stability of Win 11'S Photo Viewer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-complete-manual-on-valheim-planting/"><u>2024 Approved The Complete Manual on Valheim Planting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-prodigy-strategies-for-enthusiasts-in-seo/"><u>2024 Approved Unveiling Prodigy Strategies for Enthusiasts in SEO</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-the-endless-possibilities-in-minecraft-best-game-for-all-generations/"><u>Explore the Endless Possibilities in Minecraft - Best Game for All Generations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-frame-to-script-innovative-ways-of-integrating-text-in-images/"><u>From Frame to Script Innovative Ways of Integrating Text in Images</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-creators-uniting-for-marvels-digital-future/"><u>In 2024, Creators Uniting for Marvel's Digital Future</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-chromes-picture-in-picture-feature/"><u>In 2024, The Ultimate Guide to Chrome's Picture In Picture Feature</u></a></li>
+<li><a href="https://win-news.techidaily.com/tailor-your-windows-10-start-menu-for-enhanced-usability-with-tips-from-yl-software-experts/"><u>Tailor Your Windows 10 Start Menu for Enhanced Usability with Tips From YL Software Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unparalleled-8-webcams-elevate-your-livestream-experience-for-2024/"><u>Unparalleled 8 Webcams Elevate Your Livestream Experience for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Partnerships: AI's Impact on Coders and Corporate Leaders, as Explored by ZDNET"
-date: 2024-09-18 12:36:41
-updated: 2024-09-20 11:58:15
+date: 2024-12-09T20:02:12.376Z
+updated: 2024-12-12T16:50:02.728Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-driving-audience-growth-with-smart-fb-video-tactics/"><u>[New] 2024 Approved Driving Audience Growth with Smart FB Video Tactics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-premier-nintendo-switch-brawlers-list-max-156-for-2024/"><u>[New] Premier Nintendo Switch Brawlers List (Max 156) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tidy-up-your-pictures-top-10-online-unblur-tools/"><u>[New] Tidy Up Your Pictures Top 10 Online Unblur Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unleashing-the-power-of-free-copyright-free-image-repositories/"><u>[Updated] 2024 Approved Unleashing the Power of Free, Copyright-Free Image Repositories</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-sparks-limits-explored-by-djis-new-contender-mavic-air/"><u>[Updated] In 2024, Spark's Limits Explored by DJI's New Contender, Mavic Air</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-toolwiz-revolutionizes-camera-use-a-comprehensive-review-for-photographers/"><u>2024 Approved Toolwiz Revolutionizes Camera Use - A Comprehensive Review for Photographers</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-poco-c51-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Poco C51 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-neo-5-se-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme GT Neo 5 SE Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-eyevid-fb-content-grabber/"><u>In 2024, EyeVid FB Content Grabber</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-virtual-reality-vr-bikes-to-check-out/"><u>In 2024, Top Virtual Reality (VR) Bikes to Check Out</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unpacking-the-enhancements-in-sony-s6500-bdp-for-2024/"><u>Unpacking the Enhancements in Sony S6500 BDP for 2024</u></a></li>
+</ul></div>
+

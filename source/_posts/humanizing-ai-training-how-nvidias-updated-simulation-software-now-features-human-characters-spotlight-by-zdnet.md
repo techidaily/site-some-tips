@@ -1,7 +1,7 @@
 ---
 title: "Humanizing AI Training: How Nvidia's Updated Simulation Software Now Features Human Characters | Spotlight by ZDNET"
-date: 2024-09-17 15:25:54
-updated: 2024-09-20 12:50:59
+date: 2024-12-05T16:23:29.095Z
+updated: 2024-12-12T20:02:09.061Z
 tags:
   - cloud
 categories:
@@ -57,11 +57,27 @@ Built on [Nvidia Omniverse](https://www.zdnet.com/article/nvidias-omniverse-the-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-blissful-bites-best-stress-busting-gaming/"><u>2024 Approved Blissful Bites Best Stress-Busting Gaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gentle-volume-reduction-methods-in-ableton-live/"><u>2024 Approved Gentle Volume Reduction Methods in Ableton Live</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-steps-for-altering-windows-pin/"><u>Efficient Steps for Altering Windows PIN</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-infinix-smart-8-plus-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Infinix Smart 8 Plus to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/significant-upgrade-unveiled-icloud-now-fully-functional-with-windows-os/"><u>Significant Upgrade Unveiled: ICloud Now Fully Functional with Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-concealing-your-taskbar-in-windows-10/"><u>Step-by-Step Guide: Concealing Your Taskbar in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-optimal-key-binding-tools-on-windows-systems/"><u>Ultimate Guide to Optimal Key Binding Tools on Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-mandatory-windows-11-update-23h2-what-you-need-to-know/"><u>Upcoming Mandatory Windows 11 Update 23H2: What You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-guide-to-the-best-anker-chargers-and-accessories-for-your-freshly-bought-iphone-next-week/"><u>ZDNet's Guide to the Best Anker Chargers & Accessories for Your Freshly Bought iPhone Next Week!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

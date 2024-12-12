@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Take on WP Engine: Top-Tier Hosting Solution for Your WordPress Site"
-date: 2024-09-17 21:11:22
-updated: 2024-09-20 12:23:26
+date: 2024-12-08T17:48:54.481Z
+updated: 2024-12-12T16:23:55.519Z
 tags:
   - cloud
 categories:
@@ -37,6 +37,10 @@ As such, [WP Engine's basic plan](https://shareasale.com/r.cfm?b=394686&u=433802
 As you transition from a site with a few pages to [a site like mine with a lot of complexity](https://www.zdnet.com/article/anatomy-of-a-wordpress-site/) but that's still relatively small, to huge sites like ZDNET, the cost of hosting goes up considerably. WP Engine targets small businesses up through enterprise needs, so its pricing reflects the resources those customers need to be able to use. 
 
 For our review, I've chosen the $20 per month Startup Plan. Keep in mind that when you sign up for this plan, you're not paying $20 each month, doled out over the course of the year. You're expected to pay $240 when you sign up. Also note that when you renew, the price will jump. You'll be paying $360 per year thereafter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to install WordPress with WP Engine  
 
@@ -106,6 +110,10 @@ This might also be a good place to mention that WP Engine produces the [Local Wo
 
 I can personally attest to the quality of the Local implementation. As I mentioned in [my development tools article](https://www.zdnet.com/article/one-developers-favorite-mac-coding-tools-for-php-and-web-development/), I use Local every day for coding and maintenance of the WordPress plugins I manage. It's a very helpful tool. And, it's free. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Quick security checks with WP Engine
 
 Security is one of the biggest issues when it comes to operating a website. You want to make sure your site is safe from hackers, doesn't flag Google, and can connect securely to payment engines if you're running an e-commerce site of any kind. 
@@ -143,6 +151,10 @@ Also, Brent Stackhouse, VP of Security and IT at WP Engine, tells us:
 
 The bottom line is that WP Engine is on track for the core WordPress components and a little behind on supporting encryption and data transfer, but testing shows it's not far enough behind to cause a security threat. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Performance testing WP Engine
 
 Next, I wanted to see how the site performed using some online performance testing tools. It's important not to take these tests too seriously. These are just quick tests on a site with no traffic.
@@ -167,11 +179,19 @@ Now, here's the gotcha. Basic performance is fine, but we don't have data for ho
 
 I say this a lot in my reviews, but take advantage of the money-back time period to fully test out results for yourself. You have 60 days with WP Engine. Make sure to use them. And if you run into performance issues, reach out to the company. Managed hosting services are supposed to provide better hands-on support, so use it. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WP Engine support and money-back guarantee
 
 WP Engine does have 24/7/365 live chat support. I tried it out at 1 a.m. on a Sunday morning (what? I'm a night person) and found the support representative to be both knowledgeable and friendly.
 
 WP Engine offers a 60-day money-back guarantee. Here's a [blog post that explains how to cancel](https://wpengine.com/support/cancel/) the various types of service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Overall conclusion: No complaints
 
@@ -227,11 +247,26 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-streaming-stardom-versus-punch-driven-legends/"><u>[New] In 2024, Streaming Stardom Versus Punch-Driven Legends</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-9-zero-price-editors-for-youtube-content/"><u>2024 Approved Exploring 9 Zero Price Editors for YouTube Content</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-oneplus-12r-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked OnePlus 12R Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726228084954-apeoggmovavi/"><u>簡便省事的線上無成本解決方案，升級APE到OGG格式：以Movavi 為主要工具進行音頻轉換</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/digital-heroes-choice-top-10-astonishing-adventure-games-for-2024/"><u>Digital Heroes' Choice Top 10 Astonishing Adventure Games for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-movavi-slideshow-maker-gratis-version-202/"><u>Download Movavi Slideshow Maker Gratis Version 202</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficient-weg-hijven-van-hintergrondgerais-in-beeld-en-geluidsopnamen-twee-fascineerde-methodes/"><u>Efficiënt Weg Hijven Van Hintergrondgerais in Beeld- en Geluidsopnamen - Twee Fascineerde Methodes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enabling-advanced-system-configuration-using-gpeditmsc-on-windows-home-versions/"><u>Enabling Advanced System Configuration: Using gpedit.msc on Windows Home Versions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-syma-x5c-the-ideal-drone-to-elevate-your-aerial-introduction/"><u>In 2024, Syma X5C The Ideal Drone to Elevate Your Aerial Introduction</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/integrate-sound-and-sight-web-studio/"><u>Integrate Sound & Sight Web Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-15-melhores-conceitos-geniais-para-colagens-artisticas-descubra-as-tecnicas-mais-populares-com-a-guia-de-movevi/"><u>Os 15 Melhores Conceitos Geniais Para Colagens Artísticas: Descubra as Técnicas Mais Populares Com a Guia De Movevi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-free-legal-websites-for-downloading-pc-games-discover-the-best/"><u>Top Free Legal Websites for Downloading PC Games - Discover the Best</u></a></li>
+</ul></div>
+

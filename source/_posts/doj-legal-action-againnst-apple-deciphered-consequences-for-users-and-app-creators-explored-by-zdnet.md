@@ -1,7 +1,7 @@
 ---
 title: "DOJ Legal Action Againnst Apple Deciphered: Consequences for Users & App Creators | Explored by ZDNET"
-date: 2024-12-02T16:36:55.321Z
-updated: 2024-12-06T18:28:13.441Z
+date: 2024-12-11T19:14:53.683Z
+updated: 2024-12-12T20:38:38.270Z
 tags:
   - apple
 categories:
@@ -54,10 +54,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Security and privacy implications
 
   
@@ -76,7 +72,7 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## App Store changes
@@ -88,6 +84,10 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Reduction in App Store fees:** Antitrust rulings may require Apple to reduce its upfront commission and yearly subscription fee, which could negatively impact its revenue. However, this may lead to lower app prices for consumers and increased developer earnings.
 * **Competitive app marketplace:** If iOS is opened to third-party app stores, it could break Apple's monopoly on app distribution and create a more competitive environment where different app marketplaces fight for developer and consumer attention.
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple ecosystem transformation
 
@@ -104,7 +104,7 @@ The changes could also lead to increased innovation and competition in markets s
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open standards and protocols and the increase of open-source software on Apple platforms
@@ -117,7 +117,7 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
@@ -131,7 +131,7 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Previous coverage
@@ -170,24 +170,18 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-expert-insights-maximizing-engagement-with-hashtags-on-instagram-for-2024/"><u>[New] Expert Insights Maximizing Engagement with Hashtags on Instagram for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-music-integration-in-canva-video-projects/"><u>[New] Mastering Music Integration in Canva Video Projects</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-10-budget-friendly-jpeg-to-gif-conversion-tools-online/"><u>[New] Top 10 Budget-Friendly JPEG to GIF Conversion Tools Online</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-ultimate-2024-camcorder-guide-ranked-and-reviewed/"><u>[New] Ultimate 2024 Camcorder Guide Ranked & Reviewed</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-engaging-your-audience-with-optimal-video-concepts-for-2024/"><u>[Updated] Engaging Your Audience with Optimal Video Concepts for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-elite-list-15-high-quality-unboxing-vids-of-2024/"><u>[Updated] The Elite List 15 High-Quality Unboxing Vids of 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-tv-streaming-guide-international-and-regional-channels/"><u>[Updated] Ultimate TV Streaming Guide International & Regional Channels</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-android-dominance-top-10-moba-games-showcase/"><u>2024 Approved Android Dominance Top 10 MOBA Games Showcase</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-smooth-scene-transitions-with-premieres-fades/"><u>2024 Approved Smooth Scene Transitions with Premiere's Fades</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-ringtones-roundup-elite-download-hubs/"><u>2024 Approved Superior Ringtones Roundup Elite Download Hubs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tailoring-recording-techniques-in-audacity-for-professionals/"><u>2024 Approved Tailoring Recording Techniques in Audacity for Professionals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-art-of-encompassing-vision/"><u>2024 Approved Unveiling the Art of Encompassing Vision</u></a></li>
-<li><a href="https://media-tips.techidaily.com/beginners-guide-crafting-memes-with-your-iphone-top-5-latest-tools-and-apps/"><u>Beginner's Guide: Crafting Memes with Your iPhone - Top 5 Latest Tools and Apps</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/identifying-and-utilizing-specific-keywords-for-personalized-pages-in-flipbuilt-software/"><u>Identifying and Utilizing Specific Keywords for Personalized Pages in FlipBuilt Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-of-jaunt-vr/"><u>In 2024, Unveiling the Secrets of Jaunt VR</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ipad-unlock-hacks-how-to-gain-entry-without-a-known-password/"><u>IPad Unlock Hacks: How to Gain Entry without a Known Password</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/quick-fix-guide-removing-stubborn-discs-from-apples-superdrive-units/"><u>Quick Fix Guide: Removing Stubborn Discs From Apple's SuperDrive Units</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-audio-skills-using-audacity-professionally-for-2024/"><u>Transforming Audio Skills Using Audacity Professionally for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-iphones-guide-to-night-photography-excellence/"><u>[New] IPhone's Guide to Night Photography Excellence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-latest-lg-360-camera-features-and-review/"><u>[New] Latest LG 360 Camera Features and Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-of-top-tier-cameras/"><u>[New] The Ultimate List of Top-Tier Cameras</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-from-chaos-to-clarity-mastering-xiaomis-screen-recording/"><u>[Updated] 2024 Approved From Chaos to Clarity Mastering Xiaomi's Screen Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-high-income-content-makers-for-2024/"><u>[Updated] High-Income Content Makers for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-budget-friendly-pc-screen-capture-software/"><u>[Updated] In 2024, Budget-Friendly PC Screen Capture Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-psd-text-direction/"><u>2024 Approved Superior PSD Text Direction</u></a></li>
+<li><a href="https://media-tips.techidaily.com/best-free-hd-movie-streaming-apps-top-picks-without-registration/"><u>Best Free HD Movie Streaming Apps: Top Picks Without Registration</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-redmi-13c-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi Redmi 13C to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1121443--las-claves-del-espiritismo/"><u>Las claves del espiritismo | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-power-of-vlc-from-mp4-to-a-multitude-of-formats-for-2024/"><u>Transformative Power of VLC From MP4 to a Multitude of Formats for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-hidden-insights-how-newgenone-maximizes-business-data-potential-on-zdnet/"><u>Unlocking Hidden Insights: How NewgenOne Maximizes Business Data Potential on ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-the-ultimate-guide-to-animated-text-in-mobile-videos/"><u>Updated The Ultimate Guide to Animated Text in Mobile Videos</u></a></li>
 </ul></div>
 

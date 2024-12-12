@@ -1,7 +1,7 @@
 ---
 title: Rocky Linux Champions Rally Support for CIQ as Primary Benefactor | Tech Insights
-date: 2024-09-19 23:41:56
-updated: 2024-09-20 11:42:21
+date: 2024-12-07T19:38:39.341Z
+updated: 2024-12-12T19:50:02.076Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,27 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-ideal-choices-our-exclusive-top-10-gopro-case-picks-for-2024/"><u>[New] Ideal Choices Our Exclusive Top 10 GoPro Case Picks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-creme-de-la-cream-of-online-tv-services/"><u>[New] The Crème De La Cream of Online TV Services</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-effective-strategies-for-google-voice-call-saves/"><u>[Updated] 2024 Approved Effective Strategies for Google Voice Call Saves</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-best-practice-video-placement-on-facebook-vh/"><u>[Updated] In 2024, Best Practice Video Placement on Facebook (V/H)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-televisions-as-a-window-to-facebook-world-vids/"><u>[Updated] In 2024, Televisions as a Window to Facebook World Vids</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revise-and-reshape-using-the-eraser-tool-in-photoshop-guide/"><u>2024 Approved Revise & Reshape Using the Eraser Tool in Photoshop Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-deep-dive-into-how-dts-play-fi-works-for-your-audio-needs/"><u>A Deep Dive Into How DTS Play-Fi Works for Your Audio Needs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-quest-for-perfection-topiary-angles-in-mobile-photography/"><u>In 2024, The Quest for Perfection Topiary Angles in Mobile Photography</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/mts-video-editing-software-review-top-5-contenders-for-2024/"><u>MTS Video Editing Software Review Top 5 Contenders for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-for-effective-b-roll-application-for-2024/"><u>Strategies for Effective B-Roll Application for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-role-of-authenticity-in-client-generated-marketing-for-2024/"><u>The Role of Authenticity in Client-Generated Marketing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/time-saving-tips-regaining-archived-reddit-posts-for-2024/"><u>Time-Saving Tips Regaining Archived Reddit Posts for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-reverse-your-videos-with-the-best-online-tools/"><u>Updated In 2024, Reverse Your Videos with the Best Online Tools</u></a></li>
+</ul></div>
+

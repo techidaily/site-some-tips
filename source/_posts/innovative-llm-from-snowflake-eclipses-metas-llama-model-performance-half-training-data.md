@@ -1,7 +1,7 @@
 ---
 title: Innovative LLM From Snowflake Eclipses Meta's Llama Model Performance, Half Training Data
-date: 2024-09-19 17:19:40
-updated: 2024-09-20 10:10:37
+date: 2024-12-11T19:14:27.050Z
+updated: 2024-12-12T20:30:20.698Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -40,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -103,6 +111,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +122,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-speech-to-text-googles-pathway-for-precision/"><u>[Updated] 2024 Approved Cutting-Edge Speech-to-Text Google’s Pathway for Precision</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-discover-the-best-open-worlds-today-for-2024/"><u>[Updated] Discover the Best Open Worlds Today for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-snap-worthy-success-logging-galaxy-gaming-stories/"><u>[Updated] Snap-Worthy Success Logging Galaxy Gaming Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-easy-way-to-snap-spectacular-slow-mo-on-android/"><u>2024 Approved The Easy Way to Snap Spectacular Slow Mo on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tune-sharing-compliance-instagram-ip-codex/"><u>2024 Approved Tune-Sharing Compliance Instagram IP Codex</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/discover-which-prebuilt-desktop-for-gamers-matches-your-needs-best/"><u>Discover Which Prebuilt Desktop for Gamers Matches Your Needs Best</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-and-update-intel-optane-control-software-in-windows-without-hitches/"><u>How to Get & Update Intel Optane Control Software in Windows Without Hitches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-media-player-replacements-for-vlc/"><u>In 2024, The Ultimate Guide to Media Player Replacements for VLC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-9-live-stream-enhancers-ultimate-filter-guide/"><u>In 2024, Top 9 Live-Stream Enhancers Ultimate Filter Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-text-enhancers-for-after-effects/"><u>In 2024, Top-Ranked Text Enhancers for After Effects</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-sleep-hibernate-or-shutdown-best-for-your-windows-computer/"><u>Is Sleep, Hibernate, or Shutdown Best for Your Windows Computer?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/lumafusion-guide-balancing-auditory-levels-for-2024/"><u>Lumafusion Guide Balancing Auditory Levels for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-cutting-edge-techniques-for-pitch-modification-in-audacity-keeping-the-sound-crisp/"><u>New 2024 Approved Cutting-Edge Techniques for Pitch Modification in Audacity Keeping the Sound Crisp</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-flawless-faces-in-fcpx-a-plugin-free-approach-to-skin-smoothing/"><u>New Flawless Faces in FCPX A Plugin-Free Approach to Skin Smoothing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/simplifying-cinematics-in-filmora-answering-the-core-questions-for-2024/"><u>Simplifying Cinematics in Filmora Answering the Core Questions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-picture-narrative-craft-pro-edition-for-2024/"><u>Ultimate Picture Narrative Craft - Pro Edition for 2024</u></a></li>
+</ul></div>
+

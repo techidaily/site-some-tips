@@ -1,7 +1,7 @@
 ---
 title: "Shifting Enterprise Workloads to Edge Computing: Is It Fully Prepared?"
-date: 2024-09-19 17:43:43
-updated: 2024-09-20 12:49:47
+date: 2024-12-07T16:31:50.363Z
+updated: 2024-12-12T17:09:20.638Z
 tags:
   - cloud
 categories:
@@ -72,11 +72,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expert-tips-for-saving-your-favorite-screened-events/"><u>[Updated] In 2024, Expert Tips for Saving Your Favorite Screened Events</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essentials-of-making-engaging-youtube-shorts/"><u>[Updated] The Essentials of Making Engaging YouTube Shorts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unveiling-secrets-phantoms-slow-motion-techniques/"><u>2024 Approved Unveiling Secrets Phantom's Slow Motion Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-omzetting-mp3-files-online-professioneel-werkstattdoek-van-movavi/"><u>Gratis Omzetting MP3-Files Online - Professioneel Werkstattdoek Van Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-expert-techniques-pour-une-segmentation-video-impeccable/"><u>Guide Expert: Techniques Pour Une Segmentation Vidéo Impeccable</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-social-storytelling-revolutionized-for-no-charge/"><u>In 2024, Social Storytelling Revolutionized for No Charge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-identifying-faulty-hardware-in-windows-1011/"><u>Techniques for Identifying Faulty Hardware in Windows 10/11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-programas-mais-populares-de-gravador-de-dvd-para-sistemas-windows-10-8-e-7-versoes-gratuitas/"><u>Top 6 Programas Mais Populares De Gravador De DVD Para Sistemas Windows 10, 8 E 7 - Versões Gratuitas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-videokomprimere-gratis-online-beste-video-kompresser/"><u>Top Rated Videokomprimere Gratis Online - Beste Video Kompresser</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1728509847083-pc/"><u>ハードウェア切り替え時PCクローン作成：方法二つ解説</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

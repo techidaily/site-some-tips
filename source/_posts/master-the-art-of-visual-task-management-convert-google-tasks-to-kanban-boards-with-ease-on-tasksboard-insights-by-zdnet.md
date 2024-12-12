@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Visual Task Management: Convert Google Tasks to Kanban Boards With Ease on TasksBoard | Insights by ZDNet"
-date: 2024-09-19 14:15:49
-updated: 2024-09-20 11:57:51
+date: 2024-12-05T20:03:40.481Z
+updated: 2024-12-12T17:01:22.044Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-entryway-investments-cost-effective-channels-for-newbies/"><u>[New] In 2024, Entryway Investments Cost-Effective Channels for Newbies</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-one-youtube-feed-how-to-merge-multiple-videos/"><u>[Updated] 2024 Approved One YouTube Feed How to Merge Multiple Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-microscopic-views-in-microsoft-teams-chat/"><u>[Updated] Mastering the Microscopic Views in Microsoft Teams Chat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/budget-friendly-syma-107g-rc-helicopter-comprehensive-user-guide-and-reviews/"><u>Budget-Friendly Syma 107G RC Helicopter - Comprehensive User Guide & Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cost-effective-yet-questionable-accuracy-a-comprehensive-review-of-the-thermopro-tp67/"><u>Cost-Effective Yet Questionable Accuracy: A Comprehensive Review of the ThermoPro TP67</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-elite-selection-premier-17-inch-laptops-for-253/"><u>Discover the Elite Selection: Premier 17-Inch Laptops for 2^53</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-recover-deleted-screenshots-on-windows-11/"><u>How to Recover Deleted Screenshots on Windows 11</u></a></li>
+<li><a href="https://win-premium.techidaily.com/optimizing-your-pc-essential-configurations-for-enhanced-system-speed-and-efficiency-tips-by-yl-computing/"><u>Optimizing Your PC: Essential Configurations for Enhanced System Speed and Efficiency - Tips by YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-comprehensive-guide-to-ai-innovation-discovering-claude-ns-functionalities/"><u>The Comprehensive Guide to AI Innovation: Discovering Claude N's Functionalities</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-11-pro-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 11 Pro from iCloud</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tp-links-av130-query/"><u>TP-Link's AV130 # Query</u></a></li>
+<li><a href="https://some-tips.techidaily.com/troubleshooting-your-chatgpt-sign-in-woes-efficiently/"><u>Troubleshooting Your ChatGPT Sign-In Woes Efficiently</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-videopad-review-pros-cons-and-alternatives-for-2024/"><u>Updated The Ultimate Videopad Review Pros, Cons, and Alternatives for 2024</u></a></li>
+</ul></div>
+

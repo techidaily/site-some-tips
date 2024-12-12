@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Ultimate Container Safety: How Rust's Edera Revolutionizes Security in the Digital Realm (ZDNet Exclusive)"
-date: 2024-09-17 18:36:11
-updated: 2024-09-20 12:10:10
+date: 2024-12-11T19:19:41.279Z
+updated: 2024-12-12T19:09:38.482Z
 tags:
   - cloud
 categories:
@@ -26,6 +26,10 @@ If you're a techie, you may think that's true, but aren't hypervisors of both ty
 The foundation of the new program is [Krata](https://github.com/edera-dev/krata). This is a Xen-based, single-host hypervisor built for [Open Container Initiative (OCI)](https://opencontainers.org/)\-compliant containers. It isolates containers with a fully memory-safe Rust control plane to bring Xen tooling into a new, secure era. In addition, Edera uses Lukko, an open-source memory safety runtime library. This library detects memory safety violations at runtime and cleanly terminates programs before they can be exploited.
 
 Edera is secure by design. It's the only independent solution that offers isolation at the container level, making container escapes impossible, no matter where you run your infrastructure: a hyper cloud, a local cloud, or your own servers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Edera's key features
 
@@ -90,11 +94,27 @@ I'm excited to see what they do going forward. This really is a new, innovative 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-secrets-behind-successful-hd-videos-on-social-networks/"><u>[New] In 2024, The Secrets Behind Successful HD Videos on Social Networks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-class-on-top-digital-solutions-to-perfect-media-captions/"><u>[New] Master Class on Top Digital Solutions to Perfect Media Captions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-improve-your-work-efficiency-leveraging-snap-photography-techniques-for-2024/"><u>[Updated] Improve Your Work Efficiency Leveraging Snap Photography Techniques for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-guide-youtube-videos-for-your-instagram-story/"><u>[Updated] Quick Guide YouTube Videos for Your Instagram Story</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-wavram/"><u>網路直接無償轉框音效-MOVAVI 壓縮模式 WAV到RAM</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/convertissez-votre-video-mpeg-en-audio-wma-gratuite-en-ligne-avec-movavi-guide-facile-dutilisation/"><u>Convertissez Votre Vidéo MPEG en Audio WMA Gratuite en Ligne Avec Movavi - Guide Facile D'utilisation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-selection-3d-animation-software-for-free-in-2/"><u>Discover the Ultimate Selection: 3D Animation Software for Free in 2</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-x7b-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor X7b to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-xiaomi-redmi-13c-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Xiaomi Redmi 13C 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/les-6-cartes-graphiques-superieures-pour-un-montage-video-optimal-en-2024-top-picks/"><u>Les 6 Cartes Graphiques Supérieures Pour Un Montage Vidéo Optimal en 2024 : Top Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-3gpp-wav/"><u>Movaviですばやく変換! 無料オンライン3GPP WAVファイル - 最適化ガイド付き</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-hands-turning-photos-into-compelling-youtube-thumbnails/"><u>Quick Hands Turning Photos Into Compelling YouTube Thumbnails</u></a></li>
+<li><a href="https://some-tips.techidaily.com/saga-tusentals-vidunderliga-video-sammanslutningar-pa-windows-10-den-basta-7/"><u>Såga Tusentals Vidunderliga Video Sammanslutningar På Windows 10 - Den Bästa 7!</u></a></li>
+</ul></div>
+

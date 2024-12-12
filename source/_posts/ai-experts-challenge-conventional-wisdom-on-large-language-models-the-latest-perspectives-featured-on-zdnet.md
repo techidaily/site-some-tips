@@ -1,7 +1,7 @@
 ---
 title: AI Experts Challenge Conventional Wisdom on Large Language Models - The Latest Perspectives Featured on ZDNET
-date: 2024-09-19 21:30:54
-updated: 2024-09-20 11:13:41
+date: 2024-12-10T18:05:57.515Z
+updated: 2024-12-12T19:32:23.952Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-insiders-guide-to-perfected-picture-hues/"><u>[New] The Insider's Guide to Perfected Picture Hues</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-exploring-the-purpose-of-instagram-story-sections/"><u>[Updated] Exploring the Purpose of Instagram Story Sections</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonic-hits-top-rated-dj-template-downloads-for-2024/"><u>[Updated] Harmonic Hits Top-Rated DJ Template Downloads for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-orchestrate-your-pixels-with-offline-harmony/"><u>[Updated] In 2024, Orchestrate Your Pixels With Offline Harmony</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-smooth-sound-dissipation-a-pro-editors-manual/"><u>2024 Approved Smooth Sound Dissipation A Pro Editor's Manual</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-quickly-uncover-lately-watched-facebook-videos/"><u>In 2024, Quickly Uncover Lately Watched Facebook Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578416188-jumpstart-your-slovak-journey-with-daily-micro-lessons/"><u>Jumpstart Your Slovak Journey with Daily Micro-Lessons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/speeding-up-periscope-live-broadcasting-tips-for-2024/"><u>Speeding Up Periscope Live Broadcasting Tips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/symphony-of-sights-picture-plus-sound-videography-for-2024/"><u>Symphony of Sights Picture + Sound Videography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-words-on-the-screen-crafting-clear-concise-dialogue-for-2024/"><u>The Art of Words on the Screen Crafting Clear, Concise Dialogue for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-gaming-escape-lgs-virtual-reality-journey-for-2024/"><u>The Ultimate Gaming Escape LG's Virtual Reality Journey for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-picks-in-the-market-for-cheap-but-high-quality-screens-for-2024/"><u>Top Picks in the Market for Cheap but High-Quality Screens for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-14-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from 14 Pro.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-a-deep-dive-into-metaverse-meme-culture-for-2024/"><u>Unleash Creativity A Deep Dive Into Metaverse Meme Culture for 2024</u></a></li>
+</ul></div>
+

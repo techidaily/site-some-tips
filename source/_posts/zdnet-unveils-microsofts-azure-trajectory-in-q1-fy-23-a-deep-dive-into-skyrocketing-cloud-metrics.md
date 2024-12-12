@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Unveils Microsoft's Azure Trajectory in Q1 FY '23: A Deep Dive Into Skyrocketing Cloud Metrics"
-date: 2024-09-19 12:16:17
-updated: 2024-09-20 11:38:14
+date: 2024-12-08T18:48:42.835Z
+updated: 2024-12-12T16:58:21.327Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 Credit: ZDNET
 
 More than half of [Microsoft's $50.1 billion in revenues ($25.7 billion) for Q1 FY'23 came from the "Microsoft Cloud."](https://www.microsoft.com/en-us/investor/earnings/fy-2023-q1/press-release-webcast)But Wall Street wasn't happy with Azure's 35 percent growth, year-over-year for the quarter, nor for projections that Azure revenues will be down five points sequentially in Q2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Innovation
 
@@ -67,11 +71,26 @@ Microsoft made [some adjustments to the way it reports revenue in September](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-master-the-art-of-editing-story-remix-and-windows-photos-synergy/"><u>[New] Master the Art of Editing Story Remix & Windows Photos Synergy</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-apples-m1-pro-versus-the-powerhouse-m1-max-what-to-note-in-2024/"><u>[Updated] Apple's M1 Pro Versus the Powerhouse M1 Max - What to Note, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-win-10s-best-webcam-recording-software-guide-for-2024/"><u>[Updated] Win 10'S Best Webcam Recording Software Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/webm4a-aiff-mova/"><u>無償でWeb上のM4A, AIFF形式を自動変換可能 - Movaビジュアル</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversao-webm-em-gif-livre-on-line-com-o-movavi-guia-simples-e-eficiente-para-todos-os-usuarios/"><u>Conversão WebM Em GIF Livre On-Line Com O Movavi: Guia Simples E Eficiente Para Todos Os Usuários</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-8-plus-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-best-vocal-effect-modifications-to-enhance-your-audio-experience/"><u>Discover the Best Vocal Effect Modifications to Enhance Your Audio Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-activating-universal-dark-mode-feature-on-any-site-with-google-chrome/"><u>Guide: Activating Universal Dark Mode Feature on Any Site with Google Chrome</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-v29-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo V29 PC | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionizing-your-digital-presence-through-strategic-social-media-mastery-for-2024/"><u>Revolutionizing Your Digital Presence Through Strategic Social Media Mastery for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-lowering-cpu-consumption/"><u>Strategies for Lowering CPU Consumption</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-tu-musica-facilmente-convertir-m4a-en-flac-sin-costo-usando-movavi/"><u>Transforma Tu Música Fácilmente: Convertir M4A en FLAC Sin Costo Usando Movavi</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Advancing Interaction Quality with AI: Unveiling Adobe's Strategy in Customer Experience Enhancement via Generative Technologies | Featured on ZDNet"
-date: 2024-09-19 19:19:55
-updated: 2024-09-20 11:29:22
+date: 2024-12-09T20:11:59.928Z
+updated: 2024-12-12T16:29:14.650Z
 tags:
   - cloud
 categories:
@@ -21,6 +21,10 @@ If you think [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-doe
 
 We're looking at an enormous increase in the ability of businesses to meet the unique needs of individual customers, as well as an enormous increase in the capability for businesses to target those customers with psychological and demographic precision. The application of AI to marketing and sales gives a whole new meaning to the phrase "buyer beware."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [How AI is Transforming Organizations Everywhere Some of the world's most effective organizations are putting the latest AI innovations to work in smart -- and sometimes startling -- new ways. We put the spotlight on a diverse range of organizations across different parts of the economy to see how they are automating, streamlining, and transforming the ways things are done.  Read now](https://www.zdnet.com/topic/how-ai-is-transforming-organizations-everywhere/)
@@ -30,6 +34,10 @@ Rather than [general-purpose AI tools](https://www.zdnet.com/article/best-ai-cha
 **Also:** [**The 5 best AI art generators**](https://www.zdnet.com/article/best-ai-art-generator/)
 
 We'll explore what Adobe's doing with [generative AI-driven marketing](http://news.adobe.com/news/news-details/2023/Adobe-Announces-New-Sensei-GenAI-Services-to-Reimagine-End-to-End-Marketing-Workflows/default.aspx) \-- and it's big.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Customer experience management and the buyer's brain 
 
@@ -58,6 +66,10 @@ When customers interact with your company, a lot goes on inside their heads. The
 Companies that maximize the perceived pre-benefit bring in more fresh opportunities. Companies that maximize the actual value benefit reduce support costs and create potential repeat customers. And companies that maximize the post-game engagement create champions, generate word of mouth, and turn customers into fans and enthusiasts. 
 
 That end-to-end experience -- pre, purchase, and post -- constitutes the customer experience. And, all of that brings us back to Adobe's set of announcements. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Tapping the collective zeitgeist with the customer data platform 
 
@@ -100,6 +112,10 @@ Adobe is also pushing its game forward in healthcare, financial services, B2B, a
 **Prospecting, enriching, and activating with partners:** Adobe improves Real-Time CDP with partner enrichments, Amazon Ads, TikTok, and LiveRamp integrations to solve cookieless prospecting challenges for brands. 
 
 This collection of initiatives is how the customer experience and the customer data come together. Customer interactions generate more data. Real-time analytics changes the customer experience dynamically. Wash. Rinse. Repeat. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Adobe's image and text generative AI services 
 
@@ -148,11 +164,31 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-glacial-glory-spectacous-moments-from-2022s-olympic-snowboard-races/"><u>[New] In 2024, Glacial Glory Spectacous Moments From 2022'S Olympic Snowboard Races</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-tips-for-remotely-recording-your-podcasts/"><u>[New] Top 10 Tips for Remotely Recording Your Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/additional-provisions-for-effective-data-management-strategy-a-comprehensive-guide/"><u>Additional Provisions for Effective Data Management Strategy: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advanced-site-personalization-via-ai-based-analytics-developed-using-coqui-bot/"><u>Advanced Site Personalization via AI-Based Analytics – Developed Using Coqui Bot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-with-cookiebot-enhancing-website-personalization-and-tracking/"><u>Automated with Cookiebot: Enhancing Website Personalization and Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-sites-traffic-with-cutting-edge-cookiebot-technology/"><u>Boost Your Site's Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-optimize-your-site-with-leading-analytics-integration/"><u>Cookiebot-Enabled: Optimize Your Site with Leading Analytics Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-optimizing-site-engagement/"><u>Cookiebot-Enhanced User Experience: Optimizing Site Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-powering-your-website-with-cutting-edge-automation/"><u>Cookiebot-Enhanced: Powering Your Website with Cutting-Edge Automation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-personalization-through-innovative-cookiebot-solutions/"><u>Enhanced Personalization Through Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hands-on-experience-with-top-notch-dell-monitor-premium-anc-earphones-and-high-definition-camera/"><u>Hands-On Experience with Top-Notch Dell Monitor, Premium ANC Earphones, & High Definition Camera</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-iphone-11-pro-max-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On iPhone 11 Pro Max Online</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-perfect-sequence-watching-every-indiana-jones-adventure-together/"><u>The Perfect Sequence: Watching Every Indiana Jones Adventure Together</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-mastering-powerdirector/"><u>The Ultimate Guide to Mastering PowerDirector</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/first-step-to-successful-streaming-for-2024/"><u>Your First Step to Successful Streaming for 2024</u></a></li>
+</ul></div>
+

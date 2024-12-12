@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Linux Kernel with Linus Torvalds: Delving Into AI, Embracing Rust, and Unveiling Core Priorities | ZDNET Deep Dive"
-date: 2024-09-19 23:22:48
-updated: 2024-09-20 10:47:44
+date: 2024-12-05T20:16:49.756Z
+updated: 2024-12-12T17:52:12.953Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-gradual-sound-escalation-auditions-guide-to-fades/"><u>[New] The Gradual Sound Escalation Audition’s Guide to Fades</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-binge-on-christmas-classics-enjoy-9-whole-film-flicks-no-charge/"><u>[Updated] Binge on Christmas Classics Enjoy 9 Whole-Film Flicks No Charge</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-execute-a-budget-friendly-youtube-seminar/"><u>[Updated] How to Execute a Budget-Friendly Youtube Seminar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-fundamentals-of-creating-breathtaking-canon-time-lapses/"><u>[Updated] The Fundamentals of Creating Breathtaking Canon Time-Lapses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-best-5-book-promo-videos-for-authors/"><u>2024 Approved Exploring the Best 5 Book Promo Videos for Authors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/demystifying-macos-capture-feature-for-professional-use-for-2024/"><u>Demystifying macOS Capture Feature for Professional Use for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/instagrams-hottest-trending-hashtags-for-a-viral-reach/"><u>Instagram's Hottest Trending Hashtags for a Viral Reach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/time-honored-tech-selfies-with-iphone-x-for-2024/"><u>Time-Honored Tech Selfies with iPhone X for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ae-titles-for-striking-visual-impact-for-2024/"><u>Top AE Titles for Striking Visual Impact for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unleash-creativity-10-top-rated-free-mac-art-software/"><u>Unleash Creativity 10 Top-Rated, FREE Mac Art Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-power-of-time-markings-in-your-youtube-content-for-2024/"><u>Unlock the Power of Time Markings in Your YouTube Content for 2024</u></a></li>
+</ul></div>
+

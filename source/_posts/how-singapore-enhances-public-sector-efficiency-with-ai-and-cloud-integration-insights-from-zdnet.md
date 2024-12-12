@@ -1,7 +1,7 @@
 ---
 title: "How Singapore Enhances Public Sector Efficiency with AI & Cloud Integration: Insights From ZDNet"
-date: 2024-09-17 13:58:54
-updated: 2024-09-20 12:32:32
+date: 2024-12-07T19:19:31.155Z
+updated: 2024-12-12T16:18:31.345Z
 tags:
   - cloud
 categories:
@@ -62,6 +62,10 @@ In addition, the Monetary Authority of Singapore (MAS) is working with Google to
 Noting that competition remained tough and the global landscape is constantly evolving, he added that AI will play a key role for Singapore moving forward. 
 
 He said MAS will use the collaboration with Google to identify generative AI use cases that will allow it to work more efficiently and provide foundational models that prioritise data security and AI governance. "Through this, we hope to inspire greater adoption of [responsible generative AI in the financial](https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/) sector," Loy said.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Doing things differently with AI
 
@@ -134,11 +138,26 @@ Commenting on the vendor's collaboration with the Singapore government, Ng said:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-effortlessly-engage-with-an-array-of-available-youtube-content/"><u>[New] Effortlessly Engage with an Array of Available YouTube Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-snapchat-savants-handbook-perfecting-every-boomerang/"><u>[New] In 2024, The Snapchat Savant's Handbook Perfecting Every Boomerang</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-streamers-choice-does-virusmix-or-wirecast-rule-the-game/"><u>[New] Top Streamers Choice Does VirusMix or WireCast Rule the Game?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-efficacy-of-social-media-authenticity-validation/"><u>[Updated] 2024 Approved The Efficacy of Social Media Authenticity Validation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-hacks-listen-deep-to-your-podcasts/"><u>[Updated] IPhone Hacks Listen Deep to Your Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-simultaneous-iphone-shots-and-videos/"><u>[Updated] Unveiling the Secrets of Simultaneous iPhone Shots & Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-s17e-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo S17e</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-moto-g24-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Motorola Moto G24?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-flawless-inshot-edit-transitions/"><u>In 2024, The Art of Flawless Inshot Edit Transitions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-shopping-microsoft-store-error-0x80072f30-cure/"><u>Simplify Your Shopping: Microsoft Store Error 0X80072F30 Cure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlined-creativity-the-most-popular-8-mobile-apps-for-edits-for-2024/"><u>Streamlined Creativity The Most Popular 8 Mobile Apps for Edits for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-color-grading-incorenasive-guide-to-lut-integration-in-obs-for-2024/"><u>Streamlining Color Grading Incorenasive Guide to LUT Integration in OBS for 2024</u></a></li>
+</ul></div>
+

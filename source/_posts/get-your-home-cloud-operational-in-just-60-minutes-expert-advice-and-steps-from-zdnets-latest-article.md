@@ -1,7 +1,7 @@
 ---
 title: "Get Your Home Cloud Operational in Just 60 Minutes: Expert Advice & Steps From ZDNet's Latest Article"
-date: 2024-09-17 13:11:56
-updated: 2024-09-20 10:25:27
+date: 2024-12-10T16:11:11.964Z
+updated: 2024-12-12T16:34:18.181Z
 tags:
   - cloud
 categories:
@@ -47,11 +47,19 @@ In this series on making use of Linux at home, I now want to show you how to ins
 
 It should come as no surprise given the title of this piece that there's a very easy way to install this cloud platform -- and I'm going to show you how it's done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install a cloud service at home: It's easy
 
 **What you'll need:** As mentioned above, you'll need an instance of Ubuntu Server up and running on your home network to successfully install Nextcloud. Fear not, as I've already explained [how you can install this system in under 30 minutes](https://www.zdnet.com/article/how-to-install-ubuntu-server-in-less-than-30-minutes/). With that server running, you'll need a user with sudo privileges (which you create during the operating system installation).
 
 That's it. Let's do this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Log in to Ubuntu Server
 
@@ -63,6 +71,10 @@ To install Nextcloud, issue the command:
 
 sudo snap install nextcloud
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Find the IP address of your server
 
 The Nextcloud command line installation should go off without a hitch and finish in less than a minute. 
@@ -72,6 +84,10 @@ The Nextcloud command line installation should go off without a hitch and finish
 When that finishes, you'll need to first know the IP address of your server with the command:
 
 ip a
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Access the web installer
 
@@ -96,6 +112,10 @@ Allow the installation to complete and you'll be presented with the Nextcloud Hu
 I would go with the recommendations.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Next steps with Nextcloud
 
@@ -145,11 +165,31 @@ Even with the installation of Ubuntu Server, you should be able to complete this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-secrets-unveiled-successful-podcast-on-apple-store/"><u>[New] 2024 Approved Secrets Unveiled Successful Podcast on Apple Store</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unleash-power-in-social-media-10-advanced-tactics-for-fb-optimization/"><u>[New] 2024 Approved Unleash Power in Social Media 10 Advanced Tactics for FB Optimization</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unravel-your-pcs-potential-with-windows-10s-latest-games/"><u>[New] 2024 Approved Unravel Your PC's Potential with Windows 10'S Latest Games</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-strategies-for-deleting-watch-later-items-on-youtube/"><u>[New] In 2024, Strategies for Deleting Watch Later Items on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-overcome-artificial-watches-for-natural-views-for-2024/"><u>[Updated] Overcome Artificial Watches for Natural Views for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4ogvmovavi/"><u>無料で使えるMP4に簡単変換!動画形式OGVをMovaviでオンライン変更する方法</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210174967-9781646546282-archangel-michael-breathes/"><u>Archangel Michael Breathes | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertir-videos-3gp-a-formatos-avanzados-online-sin-coste-soluciones-de-movavi/"><u>Convertir Videos 3GP a Formatos Avanzados Online Sin Coste: Soluciones De Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/crafting-engaging-podcasts-step-by-step-guide-with-free-examples/"><u>Crafting Engaging Podcasts Step-by-Step Guide with Free Examples</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-poco-x5-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Poco X5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/misez-vous-sur-loption-de-conversion-wma-a-ogg-en-ligne-gratuit-chez-movavi-une-solution-simple-et-rapide/"><u>Misez-Vous Sur L'option De Conversion WMA À Ogg en Ligne Gratuit Chez Movavi : Une Solution Simple Et Rapide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-video-editeur-dachat-transactions-protegees-en-gros-et-soldes-inedits/"><u>Movavi Vidéo Éditeur D'Achat - Transactions Protegées en Gros Et Soldes Inédits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-14-melhores-tradutores-de-audiomensagem-livres-que-voce-precisa-conhecer-hoje/"><u>Os 14 Melhores Tradutores De Audiomensagem Livres Que Você Precisa Conhecer Hoje</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-and-easy-guide-to-crafting-beautiful-iphone-collages-discover-the-most-effective-methods/"><u>Quick & Easy Guide to Crafting Beautiful iPhone Collages: Discover the Most Effective Methods!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/switch-your-videos-from-mp4-to-asf-seamlessly-get-started-now-no-cost-involved/"><u>Switch Your Videos From MP4 to ASF Seamlessly - Get Started Now, No Cost Involved!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wav-wma-movavi/"><u>온라인 제공: WAV-WMA 변환은 세금 지불 없이 가능하며, Movavi로!</u></a></li>
+</ul></div>
+

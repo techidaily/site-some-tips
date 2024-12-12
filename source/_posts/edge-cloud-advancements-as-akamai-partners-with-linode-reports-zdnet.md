@@ -1,7 +1,7 @@
 ---
 title: Edge Cloud Advancements as Akamai Partners with Linode, Reports ZDNet
-date: 2024-09-17 12:51:17
-updated: 2024-09-20 11:30:49
+date: 2024-12-09T16:54:45.639Z
+updated: 2024-12-12T16:32:26.739Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/d79beeb4abcfd05636355f94742171c61e
 Akamai
 
 Earlier this year, when [Akamai bought infrastructure-as-a-service (IaaS) cloud platform provider Linode](https://www.zdnet.com/article/akamai-acquires-infrastructure-as-a-service-provider-linode-for-900-million/) for about $900 million, it wasn't clear how Akamai's content delivery network (CDN) and security services would work well with Linode's developer-friendly, Linux-based, Infrastructure-as-a-Service (IaaS) cloud. Now, we know Akamai wasn't just adding a cloud; it was working on edge computing and cloud development synergies. The company is [adding more than a dozen new Linode data centers](https://www.akamai.com/blog/cloud/akamai-turns-up-linode-past-11) around the world by the end of 2023.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -56,11 +60,31 @@ While I don't expect Akamai to appear in a Marvel movie anytime soon, it does ap
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-tackle-typical-youtube-short-challenges/"><u>[New] 2024 Approved Tackle Typical YouTube Short Challenges</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-explore-android-written-by-dr-jane-smith-a-renowned-psychologist-specializing-in-cognitive-development-and-learning-styles/"><u>[New] In 2024, Explore Android' Written By Dr. Jane Smith, a Renowned Psychologist Specializing in Cognitive Development and Learning Styles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-achieving-seamless-smoothness-blurring-conference-borders-for-2024/"><u>[Updated] Achieving Seamless Smoothness Blurring Conference Borders for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decouvrez-les-17-meilleures-utilitaires-gratuit-pour-capturer-des-ecrans-en-2n24-guide-complet-avec-movavi/"><u>Découvrez Les 17 Meilleures Utilitaires Gratuit Pour Capturer Des Écrans en 2N24 - Guide Complet Avec Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/easy-steps-transferring-video-content-into-imovie-with-a-reliable-converter/"><u>Easy Steps: Transferring Video Content Into iMovie with a Reliable Converter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/hatosagos-movavi-videkedzser-gyujtani-online/"><u>Hatóságos Movavi Vidékedzser - Gyújtani Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/hoelang-zijn-de-eps-bestedingen-open-de-geschiedenis-van-het-eps-formaat-in-kaart-brengen/"><u>Hoelang Zijn De EPS-Bestedingen Open: De Geschiedenis Van Het EPS-Formaat in Kaart Brengen</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-essentials-how-to-create-engaging-videos-with-the-ken-burns-effect/"><u>In 2024, Final Cut Pro Essentials How to Create Engaging Videos with the Ken Burns Effect</u></a></li>
+<li><a href="https://some-tips.techidaily.com/section-3c-qandas-on-carpal-tunnel-syndrome/"><u>Section 3C: Q&As on Carpal Tunnel Syndrome</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-method-to-share-subtitle-text-online-for-2024/"><u>Step-by-Step Method to Share Subtitle Text Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-avi-files-into-wmv-format-at-no-cost-with-movavi-video-editor/"><u>Transform AVI Files Into WMV Format at No Cost with Movavi Video Editor</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-setting-up-your-triple-monitor-display/"><u>Ultimate Guide: Setting Up Your Triple-Monitor Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-sizing-your-videos-perfectly-for-tiktok-on-any-device/"><u>Ultimate Guide: Sizing Your Videos Perfectly for TikTok on Any Device</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/ultimate-tutorial-mastering-twitter-video-responses-for-2024/"><u>Ultimate Tutorial Mastering Twitter Video Responses for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlock-hidden-potentials-top-5-underutilized-features-of-chatgpt/"><u>Unlock Hidden Potentials: Top 5 Underutilized Features of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-pay-transparency-understanding-its-impact-on-your-career-zdnet-insights/"><u>Upcoming Pay Transparency: Understanding Its Impact on Your Career | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726222751600-12/"><u>각인 아카이돔 등급: 12가지 무료 쇼바 드라마 모음 - 저녁 시즌 훌륭한 재미를 만나세요!</u></a></li>
+</ul></div>
+

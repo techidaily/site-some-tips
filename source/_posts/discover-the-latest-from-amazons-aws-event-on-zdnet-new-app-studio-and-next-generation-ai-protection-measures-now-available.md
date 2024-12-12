@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest From Amazon's AWS Event on ZDNet: New App Studio and Next-Generation AI Protection Measures Now Available"
-date: 2024-09-18 17:50:50
-updated: 2024-09-20 12:55:14
+date: 2024-12-11T16:18:09.051Z
+updated: 2024-12-12T18:50:54.746Z
 tags:
   - cloud
 categories:
@@ -25,6 +25,10 @@ During the Summit keynote address, Dr. Matt Wood, vice president for AI Products
 
 Here are the biggest highlights from AWS Summit 2024\. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  AWS App Studio 
 
 Radhika Rajkumar/ZDNET
@@ -36,6 +40,10 @@ In a demo at AWS Summit, Amazon showed ZDNET how App Studio can take a request f
 App Studio also integrates with third-party services and AWS through connectors. Adam Seligman, vice president of developer experience at AWS, told ZDNET at the summit that the company anticipates App Studio will evolve to feature more integrations based on customer feedback. 
 
 **Also:** [**Make room for RAG: How GenAI's balance of power is shifting**](https://www.zdnet.com/article/make-room-for-rag-how-gen-ais-balance-of-power-is-shifting/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Amazon Q updates 
 
@@ -54,6 +62,10 @@ Developers can ask Q how to fine-tune their LLM and Q will return a set of instr
 Another reveal was that Amazon Q Apps, a feature of Amazon Q Business, is now [generally available](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Faws.amazon.com%2Fblogs%2Faws%2Famazon-q-apps-now-generally-available-enables-users-to-build-their-own-generative-ai-apps%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C58245a2b-6ccf-423e-b23a-8f2910b03d0d%7Cdtp&dtb=1). The Amazon Q Business feature lets employees create apps using their company data by sending Q a descriptive prompt in natural language. Employees can also generate a reusable app from a conversation with the assistant for tasks like "summarizing feedback, creating onboarding plans, writing copy, drafting memos, and more," Sivasubramanian continued in the release. 
 
 The release follows the trend of implementing AI assistants across industries and skill levels to offload work from all kinds of employees. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Amazon Bedrock updates 
 
@@ -77,6 +89,10 @@ Wood noted in the keynote that AWS customers are interested in having agents per
 
 Code interpretation is limited to a sandboxed environment to avoid potential chaos from agents creating and executing unvetted code. Amazon also noted that users can directly upload documents, making instructing agents more straightforward. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Updates to Guardrails 
 
 Radhika Rajkumar/ZDNET
@@ -98,6 +114,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Other AI announcements 
 
@@ -124,11 +144,27 @@ As part of [AI Ready](https://www.zdnet.com/article/amazon-just-rolled-out-more-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-controlling-who-sees-your-youtube-productions/"><u>[New] In 2024, Controlling Who Sees Your Youtube Productions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-guide-to-preserving-screen-chats/"><u>[Updated] 2024 Approved Essential Guide to Preserving Screen Chats</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-power-of-collaborations-youtube-shorts-edition/"><u>[Updated] 2024 Approved The Power of Collaborations YouTube Shorts Edition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-drone-vfx-essentials-free-luts-for-dji-drones-available-for-2024/"><u>[Updated] Drone VFX Essentials - Free LUTS for DJI Drones Available for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/m4a3gp-movavi/"><u>線上免費轉換M4A音頻至3GP格式：如何利用 Movavi 方便簡單的解決方案</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/auf-dvd-kopieren-auf-computer-unter-windows-10-and-macos-schritt-fur-schritt-anleitung/"><u>Auf DVD Kopieren Auf Computer Unter Windows 10 & macOS: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-capabilities-of-function-keys-in-microsoft-excel-a-comprehensive-guide/"><u>Exploring the Capabilities of Function Keys in Microsoft Excel: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-conversion-transforming-voc-files-into-wmv-format-with-movavi/"><u>Free Conversion: Transforming VOC Files Into WMV Format with Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-conversor-de-video-m4v-a-formato-3g2-online-movavi/"><u>Gratuito Conversor De Vídeo M4V a Formato 3G2 Online - Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-realme-v30-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme V30 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oppo-a78-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Oppo A78? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transferer-mp3-a-un-format-iphone-aac-sans-frais-guide-complet-sur-line/"><u>Transférer MP3 À Un Format IPhone AAC Sans Frais : Guide Complet Sur Line</u></a></li>
+</ul></div>
+

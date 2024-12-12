@@ -1,7 +1,7 @@
 ---
 title: "Charting New Horizons in Tech: The Synergy Between Edge-to-Cloud Strategies Sparking Digital Revolution | Perspectives by ZDNET"
-date: 2024-09-17 12:46:33
-updated: 2024-09-20 12:13:13
+date: 2024-12-09T18:20:55.025Z
+updated: 2024-12-12T16:29:06.051Z
 tags:
   - cloud
 categories:
@@ -115,6 +115,10 @@ Worse, have you noticed that the world is changing at warp speed? According to t
 
 Marketing, operations and HR are all begging for new, custom applications to help them keep up. But it's hard enough just to keep the existing systems from melting down. How are you and your fellow IT team members supposed to find the time to implement new solutions, too?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Digital transformation and cloud operations
 
 ### Special Feature
@@ -131,6 +135,10 @@ And this is where the time savings starts to really scale up. Using a single-pan
 
 For those companies who don't want to build all these systems themselves, there are platforms like HPE GreenLake – who is also the sponsor of this ZDNET editorial series – designed to help sort out the complexity. We'll get back to GreenLake in a bit, but first let's talk about where edge computing fits into this new paradigm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The rise of edge computing
 
 If the data center is that building with all your servers, and the cloud is that building that someone else owns with all the servers you rent, the edge is everything else – where it all happens. It's the sensors in smart cities. It's the medical instrumentation in hospitals. It's the fabrication and material transport systems in factories and warehouses. It's the individual retail store in your chain of thousands of stores.
@@ -138,6 +146,10 @@ If the data center is that building with all your servers, and the cloud is that
 **Also:** [**What is edge computing? Here's why the edge matters and where it's headed**](https://www.zdnet.com/article/where-the-edge-is-in-edge-computing-why-it-matters-and-how-we-use-it/)
 
 The thing about computing at the edge is that it needs to run at the speed of life. A self-driving car can't take the time to send off a query and await a response when a truck swerves in front of it. It has to have all the necessary intelligence in the vehicle to decide what action to take. While this is an extreme example, the same is true of factory processes and even retail sales. Intelligence, data analysis, and decision making must be available without a propagation delay, and therefore must live at the edge.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -151,9 +163,17 @@ It's not just about ease of use. It's about preventing mistakes and being able t
 
 The key to managing all this is a comprehensive edge-to-cloud platform that provides all the services necessary to maintain, grow, and defend your infrastructure over the long haul.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Understanding the benefits of an edge-to-cloud platform
 
 So what characteristics make up a comprehensive edge-to-cloud platform? If you start looking to vendors for a solution, you'll want to explore four key features: self-service, rapid scaling, pay-as-you-go, and managed infrastructure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -198,11 +218,31 @@ But we live in a time where rapid change means "by next week" not "by next quart
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-10-best-inspirational-movies-that-will-bring-you-hope-and-power/"><u>[Updated] 10 Best Inspirational Movies That Will Bring You Hope and Power</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-legitimate-protocols-for-achieving-over-a-million-viewership/"><u>2024 Approved Legitimate Protocols for Achieving Over a Million Viewership</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-quick-guide-embedding-time-markers-on-youtube-videos-desktopmobile/"><u>2024 Approved Quick Guide Embedding Time Markers on YouTube Videos (Desktop/Mobile)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-simplified-guide-to-saving-instagrams-dynamic-content/"><u>2024 Approved Simplified Guide to Saving Instagram's Dynamic Content</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-realme-v30t-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Realme V30T Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-world-of-process-intelligence-insights-and-applications/"><u>Exploring the World of Process Intelligence: Insights and Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-and-successfully-deploying-the-battleye-cheating-detection-system/"><u>Guide to Fixing and Successfully Deploying the BattlEye Cheating Detection System</u></a></li>
+<li><a href="https://win11.techidaily.com/harmonizing-your-device-ecosystem-with-win11-notes/"><u>Harmonizing Your Device Ecosystem with Win11 Notes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-abbyy-leads-digital-evolution-for-modern-insurers-strategic-transformation-tactics/"><u>How ABBYY Leads Digital Evolution for Modern Insurers: Strategic Transformation Tactics</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oneplus-nord-n30-se-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On OnePlus Nord N30 SE Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-best-gif-recorders-for-capturing-animated-gifs-on-windows/"><u>In 2024, Best GIF Recorders for Capturing Animated GIFs on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-your-site-performance-using-cookiebots-advanced-analytics-tools/"><u>Optimize Your Site Performance Using Cookiebot's Advanced Analytics Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-your-sites-performance-using-cookiebot-technology/"><u>Optimize Your Site's Performance Using Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-website-analytics-using-the-latest-cookiebot-solutions/"><u>Revolutionize Your Website Analytics Using the Latest Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-accounts-payable-with-abbyy-solutions-the-key-to-streamlining-adactus-housing-groups-bills/"><u>Transform Your Accounts Payable with ABBYY Solutions - The Key to Streamlining Adactus Housing Group's Bills</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-advanced-traffic-insights-with-our-cookiebot-technology-integration/"><u>Unlocking Advanced Traffic Insights with Our Cookiebot Technology Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-web-insights-with-cookiebot-the-key-to-advanced-data-tracking-and-conversion-optimization/"><u>Unlocking Web Insights with Cookiebot: The Key to Advanced Data Tracking and Conversion Optimization</u></a></li>
+</ul></div>
+

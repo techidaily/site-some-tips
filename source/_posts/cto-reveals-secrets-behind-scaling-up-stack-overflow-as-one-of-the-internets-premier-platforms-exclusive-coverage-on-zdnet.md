@@ -1,7 +1,7 @@
 ---
 title: CTO Reveals Secrets Behind Scaling Up Stack Overflow as One of the Internet's Premier Platforms | Exclusive Coverage on ZDNET
-date: 2024-09-19 19:22:52
-updated: 2024-09-20 10:41:24
+date: 2024-12-06T19:44:49.672Z
+updated: 2024-12-12T19:56:30.501Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -72,6 +80,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-in-depth-look-at-instagrams-video-time-restrictions/"><u>[New] In 2024, In-Depth Look at Instagram's Video Time Restrictions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/avigating-through-youtubes-adsense-revenue-understanding-payments-per-thousand-views-for-2024/"><u>[New] Navigating Through Youtube’s AdSense Revenue Understanding Payments per Thousand Views for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-8-essential-laptop-skins-for-dynamic-screens/"><u>[New] Top 8 Essential Laptop Skins for Dynamic Screens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transformative-audio-techniques-for-media-professionals/"><u>[New] Transformative Audio Techniques for Media Professionals</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-17-transformative-metaverse-trials-explained/"><u>[Updated] 17 Transformative Metaverse Trials Explained</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-create-a-personalized-broadcasting-experience-record-webcam-with-vlc/"><u>[Updated] 2024 Approved Create a Personalized Broadcasting Experience Record Webcam with VLC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-originality-in-virtual-meme-worlds/"><u>[Updated] Unleashing Originality in Virtual Meme Worlds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-media-manipulation-from-text-formats-to-srts/"><u>2024 Approved The Art of Media Manipulation From Text Formats to SRTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-vegaspro-2019-update-changes-and-impacts/"><u>2024 Approved VegasPro 2019 Update Changes & Impacts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-web-development-hacks-embedding-youtubes-playlists-effortlessly/"><u>2024 Approved Web Development Hacks Embedding YouTube's Playlists Effortlessly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-lava-yuva-3-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Lava Yuva 3?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-windows-server-slips-fixing-microsoft-store-issues/"><u>Eradicating Windows Server Slips: Fixing Microsoft Store Issues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-quickly-transforming-mxf-files-into-mov-on-various-platforms/"><u>Guide to Quickly Transforming MXF Files Into MOV on Various Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-swift-listening-on-spotify-how-to-accelerate-audio-safely/"><u>In 2024, Swift Listening on Spotify How to Accelerate Audio Safely</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-artisans-guide-mastering-gopro-video-editing/"><u>In 2024, The Artisan's Guide Mastering GoPro Video Editing</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-why-your-laptops-touch-pad-isnt-working-on-windows-os-versions-win-11-win-8-and-win-eb/"><u>Solved: Why Your Laptop's Touch Pad Isn't Working on Windows OS Versions (Win 11, Win 8 & Win Eb)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/successful-saving-of-visual-preferences/"><u>Successful Saving of Visual Preferences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailoring-humor-personalize-with-kinemaster-for-2024/"><u>Tailoring Humor Personalize with KineMaster for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-compreayer-guide-to-iphone-hdr-mastery-for-2024/"><u>The Compreayer Guide to iPhone HDR Mastery for 2024</u></a></li>
+</ul></div>
+

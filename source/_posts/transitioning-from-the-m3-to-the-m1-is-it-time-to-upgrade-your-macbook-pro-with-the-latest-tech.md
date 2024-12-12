@@ -1,7 +1,7 @@
 ---
 title: "Transitioning From the M3 to the M1: Is It Time to Upgrade Your MacBook Pro with the Latest Tech"
-date: 2024-11-29T20:40:04.719Z
-updated: 2024-12-06T18:32:47.175Z
+date: 2024-12-07T16:05:44.842Z
+updated: 2024-12-12T18:48:29.564Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,24 +146,24 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-lol-meme-creator-tool/"><u>[New] LOL Meme Creator Tool</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-approach-to-uncovering-favorite-youtube-remarks/"><u>[New] Step-by-Step Approach to Uncovering Favorite YouTube Remarks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-toolwiz-in-pictures-complete-review-unveiled/"><u>[New] Toolwiz in Pictures Complete Review Unveiled</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-stepwise-steps-to-install-windows-movie-maker-6/"><u>[Updated] Stepwise Steps to Install Windows Movie Maker 6</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-solo-artists-roadmap-to-auditory-fame/"><u>[Updated] The Solo Artist's Roadmap to Auditory Fame</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tips-to-effortlessly-insert-music-into-video-editing-sessions/"><u>[Updated] Tips to Effortlessly Insert Music Into Video Editing Sessions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-seal-on-cyberspace-expeditions/"><u>[Updated] Ultimate Seal on Cyberspace Expeditions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essence-of-sound-diminishment-a-lumafusion-insight/"><u>2024 Approved The Essence of Sound Diminishment A Lumafusion Insight</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-playbook-for-procuring-partners-on-youtube/"><u>2024 Approved The Ultimate Playbook for Procuring Partners on YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-visual-vaulting-services/"><u>2024 Approved Top-Tier Visual Vaulting Services</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-strategies-to-repair-your-device-from-code-43-errors-effectively/"><u>Comprehensive Strategies to Repair Your Device From Code 43 Errors Effectively</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-downgrade-or-rollback-the-macos-sierra-to-os-x-el-capitan-for-2024/"><u>How To Downgrade Or Rollback The macOs Sierra To Os X El Capitan for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-strategic-vr-marketing-manifesto/"><u>In 2024, Strategic VR Marketing Manifesto</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy A23 5G Device</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ize-video-discoverability-key-youtube-seo-techniques/"><u>Maximize Video Discoverability Key YouTube SEO Techniques</u></a></li>
-<li><a href="https://network-issues.techidaily.com/putting-an-end-to-windows-screen-glimmer/"><u>Putting an End to Windows Screen Glimmer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-is-metro-exodus-pc-enhanced-edition-experiencing-crashes/"><u>Troubleshooting Guide: Why Is Metro Exodus (PC) Enhanced Edition Experiencing Crashes?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-huge-advancements-a-comprehensive-look-at-the-elegoo-saturn-4-ultra-resin-printer/"><u>Unveiling Huge Advancements: A Comprehensive Look at the Elegoo Saturn 4 Ultra Resin Printer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-top-5-ios-apps-revolutionizing-podcasts-for-2024/"><u>Unveiling the Top 5 iOS Apps Revolutionizing Podcasts for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-15-must-see-investment-channels-online-for-2024/"><u>[New] 15 Must-See Investment Channels Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-editors-edge-adding-sleek-fades-to-your-work/"><u>[New] The Editor's Edge Adding Sleek Fades to Your Work</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-8-free-online-havens-for-3d-text-psdfiles/"><u>[New] Top 8 FREE Online Havens for 3D Text PSDFiles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-creative-potential-image-curve-magic-in-ps/"><u>[New] Unlock Creative Potential Image Curve Magic in PS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-potential-in-spotifys-ad-ecosystem/"><u>[New] Unlocking Potential in Spotify's Ad Ecosystem</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unmatched-clarity-in-filming-top-rated-camera-stabilizers-guide/"><u>[New] Unmatched Clarity in Filming Top-Rated Camera Stabilizers Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-maximizing-gopro-battery-life/"><u>[Updated] Techniques for Maximizing GoPro Battery Life</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-mystery-of-sideways-instagram-videography/"><u>[Updated] The Mystery of Sideways Instagram Videography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-budget-friendly-apps-revolutionizing-smartphone-imagery/"><u>[Updated] Top 10 Budget-Friendly Apps Revolutionizing Smartphone Imagery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tune-up-the-mundane-how-to-add-custom-ringtones-and-sounds-for-a-unique-auditory-experience-on-android/"><u>[Updated] Tune Up the Mundane How to Add Custom Ringtones & Sounds for a Unique Auditory Experience on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-full-potential-of-your-iphone-photos/"><u>[Updated] Unlock the Full Potential of Your iPhone Photos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-2-step-plan-to-a-viral-youtube-video/"><u>2024 Approved The 2-Step Plan to a Viral YouTube Video</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-xmlssa-conversion-manual-for-professional-srt-production/"><u>2024 Approved XML/SSA Conversion Manual for Professional SRT Production</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/all-systems-green-issue-with-response-detected/"><u>All Systems Green: Issue with Response Detected</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-extents-of-mobile-roaming-with-t-mobiles-metro-service/"><u>Exploring the Extents of Mobile Roaming with T-Mobile's Metro Service</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-earning-mastery-youtube-short-video-tips/"><u>In 2024, Earning Mastery Youtube Short Video Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-hot-40-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix Hot 40 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-poco-c50-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Poco C50? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-podcast-spotlight-listen-and-like-instantly/"><u>In 2024, Podcast Spotlight Listen and Like Instantly</u></a></li>
 </ul></div>
 

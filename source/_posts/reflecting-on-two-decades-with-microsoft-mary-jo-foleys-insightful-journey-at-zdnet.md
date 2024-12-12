@@ -1,7 +1,7 @@
 ---
 title: Reflecting on Two Decades with Microsoft - Mary Jo Foley's Insightful Journey at ZDNet
-date: 2024-09-18 21:44:24
-updated: 2024-09-20 10:51:56
+date: 2024-12-06T16:58:37.550Z
+updated: 2024-12-12T19:54:31.256Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://www.zdnet.com/topic/cloud/    https://www.zdnet.com/a/img/res
 ## Reflecting on Two Decades with Microsoft - Mary Jo Foley's Insightful Journey at ZDNet
 
 When [Mary Jo Foley](https://www.zdnet.com/meet-the-team/mary-jo-foley/) started writing for ZDNET in 2006, Bill Gates was still the CEO of Microsoft, Windows and Office software were the nexus of the company, and Microsoft was the fourth largest business in the world by market cap – chasing giants like Exxon, General Electric, and Walmart. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -67,11 +71,28 @@ Mary Jo Foley on Instagram
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/udiovisual-perfection-leading-audio-enhancement-apps/"><u>[New] Audiovisual Perfection Leading Audio Enhancement Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rafting-visual-wonders-home-made-effects-demystified-for-2024/"><u>[New] Crafting Visual Wonders Home-Made Effects Demystified for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-obten-la-ultima-version-de-obs-studio-para-windows-mac-y-linux-descargar-e-instalar-facilmente/"><u>1. Obtén La Última Versión De OBS Studio Para Windows, Mac Y Linux: Descargar E Instalar Fácilmente</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-tecno-spark-10-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Tecno Spark 10 4G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-y28-5g-frp-bypass-by-drfone-android/"><u>About Vivo Y28 5G FRP Bypass</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/advanced-techniques-in-itunes-video-saving/"><u>Advanced Techniques in iTunes Video Saving</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comment-accelerer-lencodage-hevch265-pour-de-meilleures-performances-video/"><u>Comment Accélérer L'Encodage HEVC/H.265 Pour De Meilleures Performances Vidéo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-leading-edge-of-editing-software-for-your-computer-exceptional-alternatives-to-desktop-inshot/"><u>Discover the Leading Edge of Editing Software for Your Computer: Exceptional Alternatives to Desktop InShot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-convertiren-van-flac-naar-avi-avi-moveave/"><u>Gratuit Online - Convertiren Van Flac Naar Avi Avi - Moveave</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eliminate-obs-studio-error-windows-edition-strategy/"><u>How to Eliminate OBS Studio Error: Windows Edition Strategy</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-motorola-razr-40-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Motorola Razr 40 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-archivos-qt-directamente-en-gifs-gratis-y-faciles-el-mejor-herramienta-online-de-movavi/"><u>Transformar Archivos QT Directamente en GIFs Gratis Y Fáciles: El Mejor Herramienta Online De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-imagens-webp-em-gifs-ferramentas-e-dicas-especializadas/"><u>Transformar Imagens WebP Em GIFs: Ferramentas E Dicas Especializadas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-jpeg-em-gif-sem-custo-com-o-conversor-da-movavi-versao-web-livre-e-gratuita/"><u>Transformar JPEG Em GIF Sem Custo Com O Conversor Da Movavi - Versão Web Livre E Gratuita</u></a></li>
+</ul></div>
+

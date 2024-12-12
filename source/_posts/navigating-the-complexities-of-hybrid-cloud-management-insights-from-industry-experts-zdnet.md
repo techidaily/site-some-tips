@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Complexities of Hybrid Cloud Management: Insights From Industry Experts - ZDNet"
-date: 2024-09-19 22:14:43
-updated: 2024-09-20 12:13:42
+date: 2024-12-07T20:43:26.988Z
+updated: 2024-12-12T16:30:11.147Z
 tags:
   - cloud
 categories:
@@ -21,6 +21,10 @@ However, these are largely proprietary, making it difficult to navigate applicat
 
 "When customers think about hybrid, it's about being able to move their workloads between on-premises and public cloud as well as between \[different\] cloud platforms," Yang said in an interview with ZDNET. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cloud
 
 * [​What is digital transformation? Everything you need to know](https://www.zdnet.com/article/what-is-digital-transformation-everything-you-need-to-know-about-how-technology-is-reshaping/)
@@ -37,6 +41,10 @@ He said HPE is looking to plug the gaps and offer a "unified" experience through
 **Also:** [**How edge-to-cloud is driving the next stage of digital transformation**](https://www.zdnet.com/article/how-edge-to-cloud-is-driving-the-next-stage-of-digital-transformation/)
 
 The tech vendor is pitching its [GreenLake](https://www.zdnet.com/article/hpe-expands-greenlake-with-new-cloud-services-silicon-on-demand-and-more/) as a cloud management platform that enables businesses to manage their workloads and data across multiple public clouds, data centers, and edge networks. Its GreenLake Central provides a single, integrated control plane and self-service portal, from which customers get a unified view of their IT operations across the hybrid environments as well as monitor various metrics, including usage, security, cost, and compliance. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Private 5G networks can offer businesses more autonomy
 
@@ -59,6 +67,10 @@ For now, Yang said HPE's Singapore strategy centers around GreenLake alongside d
 When asked about the potential of generative AI such as ChatGPT, he underscored the need to look past the hype and assess its ability to scale. He noted that the compute and storage power that backs ChatGPT is significant, so there is work to be done around sustainability and optimization before it can be scaled. 
 
 There also should be focus on how the data and content that powers ChatGPT can be kept secured, he added. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### RELATED COVERAGE
 
@@ -94,11 +106,29 @@ There also should be focus on how the data and content that powers ChatGPT can b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>[New] 2024 Approved From Video Views to Vault Closure Income Insights for Youtubers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-beginners-blueprint-achieving-superior-image-clarity-in-videos/"><u>[New] The Beginner’s Blueprint Achieving Superior Image Clarity in Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-boost-your-gaming-presence-with-easy-and-cost-effective-character-voice-alteration-in-free-fire/"><u>[Updated] 2024 Approved Boost Your Gaming Presence with Easy and Cost-Effective Character Voice Alteration in Free Fire</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-best-5-high-end-drones-for-professionals/"><u>[Updated] Best 5 High-End Drones for Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-screen-experience-pip-mastery-for-mac-enthusiasts/"><u>[Updated] Streamline Your Screen Experience PIP Mastery for Mac Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-live-streaming-technologies-for-broadcinas/"><u>[Updated] Top Live Streaming Technologies for Broadcinas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-turn-up-the-volume-a-guide-to-personalizing-ringtone-and-sound-settings-on-android-devices/"><u>[Updated] Turn Up the Volume A Guide to Personalizing Ringtone & Sound Settings on Android Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-power-of-srt-in-broadcasting/"><u>[Updated] Unveiling the Power of SRT in Broadcasting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-gopro-tips-shooting-underwater-video-with-gopro/"><u>2024 Approved GoPro Tips Shooting Underwater Video with GoPro</u></a></li>
+<li><a href="https://win-guides.techidaily.com/5lij44gk44gu5oml6acg44gn44ob44kn44od44kv44oh44kj44k544kv44ov44kh44kk44or44ks5lplusu5q2j44gx55u044gz6kmz57sw44ks44kk44oj/"><u>三つの手順でチェックディスクファイルを修正し直す詳細ガイド</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-overcome-samsung-solid-state-drive-driver-errors-in-microsoft-windows-systems/"><u>How to Overcome Samsung Solid State Drive Driver Errors in Microsoft Windows Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-14-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 14 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-handbook-to-metaverse-promotion-for-2024/"><u>The Ultimate Handbook to Metaverse Promotion for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcending-visual-limits-with-hdr-technology-for-2024/"><u>Transcending Visual Limits with HDR Technology for 2024</u></a></li>
+</ul></div>
+

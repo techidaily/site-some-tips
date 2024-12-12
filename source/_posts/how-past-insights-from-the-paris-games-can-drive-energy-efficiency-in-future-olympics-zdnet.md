@@ -1,7 +1,7 @@
 ---
 title: How Past Insights From the Paris Games Can Drive Energy Efficiency in Future Olympics - ZDNet
-date: 2024-09-19 12:35:10
-updated: 2024-09-20 11:36:25
+date: 2024-12-08T17:04:20.704Z
+updated: 2024-12-12T20:41:52.799Z
 tags:
   - cloud
 categories:
@@ -88,11 +88,32 @@ Alibaba added that Content+ offers features that allow media rights-holders to g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-explore-our-curated-top-12-click-based-pc-titles/"><u>[New] In 2024, Explore Our Curated Top 12 Click-Based PC Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-noble-nine-top-dvd-creation-tools-sierra-edition/"><u>[Updated] Noble Nine Top DVD Creation Tools, Sierra Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-checklist-for-smooth-transitions/"><u>[Updated] The Ultimate Checklist for Smooth Transitions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-turn-your-iphone-vids-clockwise/"><u>[Updated] Turn Your iPhone Vids Clockwise</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-your-complete-guide-to-understanding-srt-fundamentals/"><u>[Updated] Your Complete Guide to Understanding SRT Fundamentals</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtubes-payment-cycle-a-detailed-look-for-2024/"><u>[Updated] YouTube’s Payment Cycle A Detailed Look for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversione-rapida-cr2-a-jpeg-senza-costi-servizi-online-migliori-fotografiamovavi/"><u>Conversione Rapida CR2 a JPEG Senza Costi: Servizi Online Migliori - FotografiaMovavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-your-account-from-a-vac-error-on-dota-2/"><u>How to Prevent Your Account From a VAC Error on Dota 2</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-dissecting-the-importance-of-using-itop-for-capture/"><u>In 2024, Dissecting the Importance of Using ITop for Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-virtual-meetings-in-google-mail/"><u>In 2024, Streamlining Virtual Meetings in Google Mail</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/up-visibility-strategies-for-engaging-shorts-on-youtub/"><u>Ramp Up Visibility Strategies for Engaging Shorts on YouTub</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-e-learning-presentation-palette-for-2024/"><u>Top-Ranked E-Learning Presentation Palette for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999059091-ultimate-guide-to-resolve-terraria-game-crashes-top-techniques-for-a-smooth-play-in-2/"><u>Ultimate Guide to Resolve Terraria Game Crashes - Top Techniques for a Smooth Play in 2 #</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-3d-lut-magic-a-deep-dive-into-photoshop-for-2024/"><u>Unveiling 3D LUT Magic A Deep Dive Into Photoshop for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

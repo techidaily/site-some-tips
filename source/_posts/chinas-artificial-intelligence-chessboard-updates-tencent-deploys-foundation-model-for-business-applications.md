@@ -1,7 +1,7 @@
 ---
 title: "China’s Artificial Intelligence Chessboard Updates: Tencent Deploys Foundation Model for Business Applications"
-date: 2024-09-18 18:58:13
-updated: 2024-09-20 12:35:11
+date: 2024-12-05T16:12:02.746Z
+updated: 2024-12-12T17:16:07.427Z
 tags:
   - cloud
 categories:
@@ -80,11 +80,30 @@ Generative AI service providers also assume legal responsibility for the informa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-comprehensive-look-at-vlc-recorder/"><u>[New] In 2024, A Comprehensive Look at VLC Recorder</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-step-by-step-guide-through-youtubes-aspect-ratio-landscapes/"><u>[New] In 2024, A Step-by-Step Guide Through YouTube's Aspect Ratio Landscapes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-9-live-stream-networks-revealed-secrets/"><u>[New] Top 9 Live Stream Networks - Revealed Secrets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-phone-pics-to-professional-videos-selecting-the-top-9-enhancers/"><u>[Updated] From Phone Pics to Professional Videos Selecting the Top 9 Enhancers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-superior-live-media-transmission-tools/"><u>[Updated] Superior Live Media Transmission Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-window-to-world-class-video-playback/"><u>2024 Approved Ultimate Window to World-Class Video Playback</u></a></li>
+<li><a href="https://fox-place.techidaily.com/activate-your-mirillis-account-with-ease-key-reminders-and-tips/"><u>Activate Your Mirillis Account with Ease: Key Reminders & Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-do-ipads-stand-out-from-other-tablet-devices/"><u>How Do iPads Stand Out From Other Tablet Devices?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209557410-9781578597031-the-alien-book/"><u>The Alien Book | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-closer-look-approach-to-team-collaboration-for-2024/"><u>The Closer Look Approach to Team Collaboration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-adding-video-filter-magic-to-zoom-meetings-for-2024/"><u>The Complete Guide to Adding Video Filter Magic to Zoom Meetings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-experts-manual-for-fusing-linktree-and-tiktok-biographies-for-2024/"><u>The Expert's Manual for Fusing Linktree and TikTok Biographies for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Transforming Google Tasks Into an Organized Kanban Workflow: A Guide Using TaskBoard - Insights From ZDNet"
-date: 2024-09-18 14:41:16
-updated: 2024-09-20 10:26:56
+date: 2024-12-06T18:36:51.074Z
+updated: 2024-12-12T19:07:41.196Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ideal-web-microphone-solutions/"><u>[New] In 2024, Ideal Web Microphone Solutions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-maximizing-impact-the-20-key-principles-of-fb-video-marketing/"><u>[Updated] In 2024, Maximizing Impact The 20 Key Principles of FB Video Marketing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-varied-ideas-for-daily-vlogging-talks/"><u>[Updated] Varied Ideas for Daily Vlogging Talks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-simplify-your-screen-with-smart-edits-on-heavy-duty-tiktoks/"><u>2024 Approved Simplify Your Screen with Smart Edits on Heavy-Duty TikToks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mx492-driver-update-and-download-enhance-your-printers-performance-on-windows-systems/"><u>Canon MX492 Driver Update & Download: Enhance Your Printer's Performance on Windows Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-f04-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy F04 Phone? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fully-functional-printers-every-page-included/"><u>Fully Functional Printers, Every Page Included</u></a></li>
+<li><a href="https://win-news.techidaily.com/identifying-windows-os-versions-that-feature-built-in-windows-defender-security-expertise-from-yl-software/"><u>Identifying Windows OS Versions that Feature Built-In Windows Defender Security - Expertise From YL Software</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/lose-the-limits-learn-how-to-change-bios-password-with-yls-easy-steps/"><u>Lose the Limits: Learn How to Change BIOS Password with YL's Easy Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-gaming-how-ai-innovations-are-transforming-the-future-of-game-design/"><u>Revolutionizing Gaming: How AI Innovations Are Transforming the Future of Game Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-tech-apples-entry-into-the-future-with-vision-pro-a-comprehensive-analysis/"><u>Revolutionizing Tech: Apple's Entry Into the Future with Vision Pro - A Comprehensive Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rufus-amazons-persuasive-ai-companion-encouraging-increased-sales/"><u>Rufus: Amazon's Persuasive AI Companion Encouraging Increased Sales</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taco-bell-introduces-artificial-intelligence-for-drive-thru-orders/"><u>Taco Bell Introduces Artificial Intelligence for Drive-Thru Orders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-news-recap-what-to-expect-from-the-latest-phone-launches-by-google-and-samsung-this-week/"><u>Tech News Recap: What to Expect From the Latest Phone Launches by Google and Samsung This Week</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-advantages-of-choosing-a-smartphone-with-e-ink-technology-a-personal-perspective/"><u>The Advantages of Choosing a Smartphone with E-Ink Technology: A Personal Perspective</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-concept-of-ai-singularity-explained-reality-check/"><u>The Concept of AI Singularity Explained: Reality Check.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-hidden-costs-of-mining-bitcoin-on-your-personal-computer/"><u>The Hidden Costs of Mining Bitcoin on Your Personal Computer</u></a></li>
+</ul></div>
+

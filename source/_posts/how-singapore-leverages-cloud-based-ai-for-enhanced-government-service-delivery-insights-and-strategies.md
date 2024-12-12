@@ -1,7 +1,7 @@
 ---
 title: "How Singapore Leverages Cloud-Based AI for Enhanced Government Service Delivery: Insights and Strategies"
-date: 2024-09-18 15:55:33
-updated: 2024-09-20 10:51:40
+date: 2024-12-11T20:11:10.366Z
+updated: 2024-12-12T19:56:51.123Z
 tags:
   - cloud
 categories:
@@ -62,6 +62,10 @@ In addition, the Monetary Authority of Singapore (MAS) is working with Google to
 Noting that competition remained tough and the global landscape is constantly evolving, he added that AI will play a key role for Singapore moving forward. 
 
 He said MAS will use the collaboration with Google to identify generative AI use cases that will allow it to work more efficiently and provide foundational models that prioritise data security and AI governance. "Through this, we hope to inspire greater adoption of [responsible generative AI in the financial](https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/) sector," Loy said.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Doing things differently with AI
 
@@ -134,11 +138,27 @@ Commenting on the vendor's collaboration with the Singapore government, Ng said:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-editing-made-easy-youtube-editiontop-10-tips-for-newbies/"><u>[New] 2024 Approved Editing Made Easy YouTube Edition—Top 10 Tips for Newbies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/omedy-chorus-satirical-song-selections-for-2024/"><u>[New] Comedy Chorus Satirical Song Selections for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-intelligent-digital-diary-with-mematic-services/"><u>[New] Intelligent Digital Diary with Mematic Services</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-mastering-the-art-of-incorporating-film-into-lessons-for-2024/"><u>[New] Mastering the Art of Incorporating Film Into Lessons for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhance-entertainment-experience-navigating-netflixs-picture-in-picture-functionality/"><u>[Updated] 2024 Approved Enhance Entertainment Experience Navigating Netflix's Picture-in-Picture Functionality</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-chromeos-direct-screens-capture-tool/"><u>[Updated] In 2024, ChromeOS Direct Screens Capture Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-soundwaves-moving-playlists-across-networks/"><u>[Updated] Streamline Your Soundwaves Moving Playlists Across Networks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essential-funimate-guidebook/"><u>[Updated] The Essential Funimate Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-innovative-cloud-storage-options-in-2s024/"><u>[Updated] Unveiling Innovative Cloud Storage Options in 2S024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-to-applying-vhs-filters-on-computers/"><u>2024 Approved Ultimate Guide to Applying VHS Filters on Computers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unboxing-titans-of-youtube-the-most-popular/"><u>2024 Approved Unboxing Titans of YouTube - The Most Popular</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dreaming-of-cosmic-adornments-why-my-galactic-rendezvous-with-accessories-was-vetoed-by-samsung/"><u>Dreaming of Cosmic Adornments: Why My Galactic Rendezvous with Accessories Was Vetoed by Samsung</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-magic-6-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor Magic 6 Pro</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Automattic Expands Footprint by Acquiring Beeper: A Glimpse Into Their Grand Vision for Enhanced Messaging"
-date: 2024-12-01T17:36:07.974Z
-updated: 2024-12-06T18:14:24.121Z
+date: 2024-12-09T18:18:01.087Z
+updated: 2024-12-12T17:17:15.620Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ In this article, I'll talk about that use case -- and why VPNs are so important 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The killer app for XR (2024 edition)
@@ -63,7 +63,7 @@ Sure, there are many other uses for XR. ZDNET editor-in-chief [Jason Hiner loves
 I would argue that using XR while traveling or living in a small space is, however, the first killer app for these types of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The obvious necessity of a VPN
@@ -81,7 +81,7 @@ Worse, those connections are often shared, and there's a fair chance someone mig
 The primary protection for those who need to travel and go online is using a VPN to encrypt traffic as it leaves your computing device. Some companies require employees to connect to their corporate networks over a VPN for similar reasons. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use a VPN with an XR headset
@@ -109,7 +109,7 @@ Virtual Dude also recommends sideloading an app that lets you sideload Android a
 That said, Virtual Dude's video is a proof of concept that VPNs can work on XR devices like the Quest. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Give it some time
@@ -161,22 +161,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-from-clicks-to-coins-mastering-the-art-of-earnings-through-fb-videos/"><u>[New] From Clicks to Coins Mastering the Art of Earnings Through FB Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-swift-remedies-to-rescue-your-windows-10-photos-app/"><u>[New] Swift Remedies to Rescue Your Windows 10 Photos App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-synergy-of-style-and-functionality-in-ae-plugins/"><u>[New] Synergy of Style and Functionality in AE Plugins</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-talent-passes-for-independent-film-viewing/"><u>[New] Talent Passes for Independent Film Viewing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-color-theory-and-practical-application-techniques/"><u>[New] The Ultimate Guide to Color Theory and Practical Application Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-twilight-tones-adobe-premiere-blackouts/"><u>[New] Twilight Tones Adobe Premiere Blackouts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-jaunt-vr-odyssey-revisited/"><u>[Updated] The Jaunt VR Odyssey Revisited</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transforming-simple-videos-text-addition-in-windows-10s-photos-software/"><u>[Updated] Transforming Simple Videos Text Addition in Windows 10'S Photos Software</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-beyond-the-screen-advanced-techniques-in-logging-virtual-reality-games/"><u>2024 Approved Beyond the Screen Advanced Techniques in Logging Virtual Reality Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/android-play-reviving-sega-dreamcast-classics/"><u>Android Play: Reviving Sega Dreamcast Classics</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-s17e-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo S17e to iPod | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-turn-daily-life-into-a-comedy-meme/"><u>In 2024, Turn Daily Life Into a Comedy Meme</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/e-your-youtube-identity-with-efficient-descriptions-for-2024/"><u>Refine Your YouTube Identity with Efficient Descriptions for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-asus-rog-phone-8-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Asus ROG Phone 8</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-windows-11-updates-efficiently/"><u>Step-by-Step Guide: Removing Windows 11 Updates Efficiently</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlined-high-quality-hdr-experience-for-your-computer-for-2024/"><u>Streamlined High-Quality HDR Experience for Your Computer for 2024</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/troubleshooting-image-sync-issues-easily-adding-pictures-from-iphone-to-windows-operating-systems/"><u>Troubleshooting Image Sync Issues: Easily Adding Pictures From iPhone to Windows Operating Systems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-iosplusandroid-guide-to-invisible-youtube-viewing/"><u>[New] 2024 Approved IOS+Android Guide to Invisible YouTube Viewing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-content-reach-keeping-creative-commons-engagement-high-for-2024/"><u>[New] Enhancing Content Reach Keeping Creative Commons Engagement High for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-record-screen-on-huawei-mate-10-20-p20-and-p10-using-a-built-in-recorder/"><u>[New] Record Screen On Huawei Mate 10, 20, P20 and P10 Using a Built-In Recorder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-techniques-for-ensuring-unbiased-decision-making/"><u>[New] Techniques For Ensuring Unbiased Decision-Making</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-tiktok-and-snapchat-face-off-a-users-perspective-guide-for-2024/"><u>[New] TikTok & Snapchat Face-Off A User's Perspective Guide for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rick-automated-audiences-into-authentic-engagement/"><u>[New] Trick Automated Audiences Into Authentic Engagement</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-innovations-enhancers-that-excite/"><u>[Updated] Instagram Innovations Enhancers that Excite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlined-processes-for-exporting-video-assets-as-mp3-on-pinterest/"><u>[Updated] Streamlined Processes for Exporting Video Assets as MP3 on Pinterest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-triple-tier-phones-the-best-choice-for-high-quality-videos/"><u>[Updated] Triple-Tier Phones The Best Choice for High-Quality Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-quick-guide-embedding-time-markers-on-youtube-videos-desktopmobile/"><u>2024 Approved Quick Guide Embedding Time Markers on YouTube Videos (Desktop/Mobile)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-at-memes-app-version/"><u>2024 Approved The Best at Memes (App Version)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-legally-sharing-tunes-on-instagram/"><u>2024 Approved The Ultimate Guide to Legally Sharing Tunes on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-with-these-top-free-slideshow-templates/"><u>2024 Approved Unleash Creativity with These Top Free Slideshow Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-practices-to-personalize-snapchat-video-playback/"><u>In 2024, Top Practices to Personalize Snapchat Video Playback</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-mi-drone-4k-review-drones-vs-landscape-photography-for-2024/"><u>The Mi Drone 4K Review Drones vs Landscape Photography for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/transforming-photo-bgs-into-clear-canvas-a-simple-how-to-tutorial/"><u>Transforming Photo Bg's Into Clear Canvas: A Simple How-To Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-responsive-ring-and-silent-mode-on-iphones-effective-solutions/"><u>Troubleshooting a Non-Responsive Ring and Silent Mode on iPhones: Effective Solutions</u></a></li>
 </ul></div>
 

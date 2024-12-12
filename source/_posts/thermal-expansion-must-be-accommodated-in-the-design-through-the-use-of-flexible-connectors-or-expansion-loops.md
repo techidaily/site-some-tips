@@ -1,7 +1,7 @@
 ---
 title: Thermal Expansion Must Be Accommodated in the Design Through the Use of Flexible Connectors or Expansion Loops.
-date: 2024-11-29T20:26:30.541Z
-updated: 2024-12-06T19:18:47.601Z
+date: 2024-12-05T19:31:13.148Z
+updated: 2024-12-12T18:52:02.422Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ With my local sales tax, the 512GB model, with the $199 travel case, totaled jus
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Stick with MacOS apps, if you can
@@ -59,7 +59,7 @@ However, the iPad version of the Horizon client available on the Vision Pro is n
 If Apple can add support for multiple virtual displays, much like how I use my MacBook Pro now with several monitors, then that would benefit my workflow immensely.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Native Microsoft apps are fairly limited
@@ -71,7 +71,7 @@ Besides the Horizon client covering my Windows software needs, I also use Outloo
 In addition to the limited feature set, an issue with collaborating on Teams (or any video conferencing service) is Apple's zombie-like Personas. The digital scan reminds me of characters from older gaming consoles, and I will never use it in client meetings or when FaceTiming my wife, who can't take my Persona seriously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Traveling with the Vision Pro
@@ -85,7 +85,7 @@ Matthew Miller/ZDNET
 I also felt cramped sitting in one spot and trying to navigate through multiple applications. On a train, let alone on a plane, I was barely able to move my body around to multitask on Vision OS. One feature I'd love to see is the ability to stack or quickly switch between several open apps. That would be ideal for more confined situations like this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Privacy and security are secretly fantastic
@@ -93,7 +93,7 @@ I also felt cramped sitting in one spot and trying to navigate through multiple 
 On the plus side, when I was sitting on the train with the Vision Pro on, I realized that I could work on all of my projects that have proprietary and sensitive information on big screens without worrying about the person next to me glancing over. The ability to have complete privacy and enhanced security, including the ability to set up eye scanning to unlock your Vision Pro, may be one of the most compelling reasons to use the headset for work. Sure, this argument applies to every other VR headset, but none come close to the audiovisual fidelity of the Vision Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -130,19 +130,20 @@ All that is to say the [Apple Vision Pro](https://apple.sjv.io/c/159047/435031/7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-leading-srs-tuning-methods-for-macwin-users/"><u>[New] Leading SRS Tuning Methods for Mac/Win Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-basics-of-electronic-story-craftsmanship/"><u>[New] The Basics of Electronic Story Craftsmanship</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-achieve-cinematic-gaming-with-advanced-steam-recordings/"><u>[Updated] Achieve Cinematic Gaming with Advanced Steam Recordings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-downloading-the-latest-tracks-a-guide-to-free-extractors-for-pc-users-for-2024/"><u>[Updated] Downloading the Latest Tracks A Guide to Free Extractors for PC Users for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-hidden-secrets-for-advanced-win10-users/"><u>[Updated] Unveiling Hidden Secrets for Advanced Win10 Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-win10-video-capture-pro-professional-edition-for-2024/"><u>[Updated] Win10 Video Capture Pro - Professional Edition for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-user-interface-of-the-syma-x8c-drone/"><u>2024 Approved The User Interface of the Syma X8C Drone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-greatest-anime-opener-tunes/"><u>2024 Approved Ultimate List Greatest Anime Opener Tunes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-google-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Google ?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-honor-90-gt-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Honor 90 GT Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ring-backward-play-innovative-youtube-video-tricks-for-2024/"><u>Mastering Backward Play Innovative YouTube Video Tricks for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revamping-boot-speed-on-windows-10-and-11-operating-systems/"><u>Revamping Boot Speed on Windows 10 & 11 Operating Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-smart-way-to-shop-for-drones-must-know-information-for-2024/"><u>The Smart Way to Shop for Drones Must-Know Information for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-creativity-into-a-sustainable-livelihood-for-2024/"><u>Transforming Creativity Into a Sustainable Livelihood for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-beat-matching-visuals-and-audio-on-facebook-platform/"><u>[New] In 2024, Beat-Matching Visuals & Audio on Facebook Platform</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-inside-window-11s-power-saving-secrets-for-2024/"><u>[New] Inside Window 11'S Power-Saving Secrets for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-keep-it-hot-ideas-for-uninterrupted-snapchat-connections/"><u>[New] Keep It Hot - Ideas for Uninterrupted Snapchat Connections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-vr-game-creators-to-watch/"><u>[New] Top VR Game Creators To Watch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-insider-guide-to-intensified-minecraft-views/"><u>[Updated] The Insider Guide to Intensified Minecraft Views</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-tricks-for-achieving-high-quality-slow-motion-videos-on-android/"><u>[Updated] Top Tricks for Achieving High-Quality Slow Motion Videos on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-footage-techniques-for-outstanding-gopro-edits/"><u>2024 Approved Transform Your Footage Techniques for Outstanding GoPro Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unravel-the-mysteries-of-morphvox-the-ultimate-guide-to-voice-modification/"><u>2024 Approved Unravel the Mysteries of MorphVOX The Ultimate Guide to Voice Modification</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-finest-unveiling-the-best-reaction-tricks/"><u>2024 Approved YouTube's Finest Unveiling the Best Reaction Tricks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-record-powerpoint-presentation-with-webcam-for-2024/"><u>How to Record PowerPoint Presentation with Webcam for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-your-mp3-audio-into-mp4-video-for-free-using-web-tools-windows-and-mac-compatible/"><u>How to Transform Your MP3 Audio Into MP4 Video for Free Using Web Tools: Windows and Mac Compatible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-premier-selection-of-vr-cycling-options/"><u>In 2024, The Premier Selection of VR Cycling Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/integrating-timestamps-in-youtube-content-for-2024/"><u>Integrating Timestamps in YouTube Content for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969546314-revamp-your-sound-fast-fix-with-updated-acer-audio-drivers/"><u>Revamp Your Sound: Fast Fix with Updated Acer Audio Drivers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/techniques-for-ignoring-home-based-educational-media/"><u>Techniques for Ignoring Home-Based Educational Media</u></a></li>
 </ul></div>
 

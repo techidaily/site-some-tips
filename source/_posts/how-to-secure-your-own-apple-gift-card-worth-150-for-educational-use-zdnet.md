@@ -1,7 +1,7 @@
 ---
 title: How To Secure Your Own Apple Gift Card Worth $150 For Educational Use | ZDNet
-date: 2024-12-02T18:14:14.552Z
-updated: 2024-12-06T19:03:03.766Z
+date: 2024-12-09T17:17:51.628Z
+updated: 2024-12-12T20:54:42.138Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -146,22 +146,24 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-10-affordable-game-recording-solutions/"><u>[New] In 2024, Top 10 Affordable Game Recording Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>[New] The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-gamers-guide-to-boosting-pc-speed-controls/"><u>[New] The Gamer's Guide to Boosting PC Speed Controls</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-10-budget-friendly-cloud-service-providers/"><u>[New] Top 10 Budget-Friendly Cloud Service Providers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-avoid-high-costs-buying-budget-friendly-gopros/"><u>[Updated] Avoid High Costs Buying Budget-Friendly GoPros</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-use-a-whiteboard-in-google-meet-on-laptopiphoneandroid/"><u>[Updated] In 2024, How to Use a Whiteboard in Google Meet on Laptop/iPhone/Android</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-most-memorable-2022-ice-sculpture-moves/"><u>[Updated] In 2024, The Most Memorable 2022 Ice Sculpture Moves</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-uncovering-key-pace-requirements-for-exceptional-slow-motion-videos/"><u>[Updated] Uncovering Key Pace Requirements for Exceptional Slow-Motion Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-10-online-subtitle-editors/"><u>2024 Approved The Best 10 Online Subtitle Editors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-iphone-video-potential-mastering-8-essential-filmmaking-skills/"><u>2024 Approved Unlock iPhone Video Potential Mastering 8 Essential Filmmaking Skills</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-foundations-of-virtual-storytelling/"><u>2024 Approved Unveiling the Foundations of Virtual Storytelling</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/effortlessly-spread-youtube-videos-on-fb-for-2024/"><u>Effortlessly Spread YouTube Videos on FB for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-device-currently-in-use-error-on-hdmi-connections/"><u>How to Fix the 'Device Currently In Use' Error on HDMI Connections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ram-wmv/"><u>RAM WMV 영상을 쉽게 구조화하고 해제하는 방법: 비용 효율적인 온라인 도구</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/cket-views-mastery-of-title-and-tag-optimization-for-2024/"><u>Skyrocket Views Mastery of Title and Tag Optimization for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-secrets-to-compelling-instagram-video-descriptions/"><u>The Secrets to Compelling Instagram Video Descriptions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/utilizing-netflixs-floating-window-feature-effectively-for-2024/"><u>Utilizing Netflix's Floating Window Feature Effectively for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-essential-5-platforms-beyond-twitter-for-2024/"><u>[New] Essential 5 Platforms Beyond Twitter for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-recording-titans-collide/"><u>[New] In 2024, Recording Titans Collide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ranking-9-premier-video-call-and-meeting-apps-ios-vs-android-reviewed/"><u>[New] Ranking 9 Premier Video Call & Meeting Apps iOS vs Android Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-choice-of-steadicams-for-drone-video-shootings/"><u>[New] Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-breakdown-xstudio-video-production-mastery/"><u>[New] The Ultimate Breakdown XStudio Video Production Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-realistic-movement-motion-blur-in-facial-images-with-picsart/"><u>[New] Unlocking Realistic Movement Motion Blur in Facial Images with Picsart</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-anglers-guide-to-premium-fishing-cameras/"><u>[Updated] In 2024, Angler’s Guide to Premium Fishing Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-lg-360-degree-headset-review-next-gen-immersion/"><u>[Updated] LG 360-Degree Headset Review - Next-Gen Immersion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-how-to-turn-your-smartphone-into-a-virtual-reality-vr-headset/"><u>2024 Approved How to Turn Your Smartphone Into a Virtual Reality (VR) Headset</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-viral-click-title-genie/"><u>2024 Approved Ultimate Viral Click Title Genie</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/breakdown-of-steps-perfecting-idevice-video-features-on-youtube-for-2024/"><u>Breakdown of Steps Perfecting iDevice Video Features on YouTube for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dive-into-sony-playstation-5s-unique-and-stunning-exclusive-games/"><u>Dive Into Sony PlayStation 5'S Unique and Stunning Exclusive Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-methods-to-revive-windows-desktop-icons/"><u>Efficient Methods to Revive Windows Desktop Icons</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-components-to-creativity-designing-your-own-4k-editor-pc/"><u>In 2024, From Components to Creativity Designing Your Own 4K Editor PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-shooting-canons-time-lapse-techniques/"><u>In 2024, Streamline Your Shooting Canon's Time-Lapse Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-swift-transition-the-ultimate-guide-to-sierra-on-macs/"><u>In 2024, Swift Transition The Ultimate Guide to Sierra on Macs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-potential-of-audience-feedback-on-youtube/"><u>In 2024, Unlock the Potential of Audience Feedback on YouTube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo Find N3? | Dr.fone</u></a></li>
 </ul></div>
 

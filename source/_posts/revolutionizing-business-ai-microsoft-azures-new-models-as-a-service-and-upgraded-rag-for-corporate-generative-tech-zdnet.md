@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Business AI: Microsoft Azure's New 'Models as a Service' And Upgraded RAG for Corporate Generative Tech | ZDNET"
-date: 2024-09-17 13:58:26
-updated: 2024-09-20 11:43:21
+date: 2024-12-10T16:32:44.469Z
+updated: 2024-12-12T17:24:10.905Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-10-preferred-top-free-image-editing-and-overlay-apps-for-phones/"><u>[New] 10 Preferred Top-Free Image Editing & Overlay Apps for Phones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-audience-allure-powerful-hashtags-that-transform-youtube-shorts/"><u>[New] 2024 Approved Audience Allure Powerful Hashtags That Transform YouTube Shorts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-how-to-set-up-zoom-video-meeting/"><u>[Updated] 2024 Approved How to Set up Zoom Video Meeting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-full-breakdown-of-facetunes-updated-features/"><u>[Updated] The Full Breakdown of Facetune's Updated Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tomorrows-digital-playground-a-comparative-study-of-metaverse-and-omniverse/"><u>[Updated] Tomorrow's Digital Playground A Comparative Study of Metaverse & Omniverse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-basics-an-approachable-hdr-review/"><u>[Updated] Unveiling the Basics An Approachable HDR Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-mystery-maneuvers-effortless-enhancement-techniques/"><u>2024 Approved Mystery Maneuvers Effortless Enhancement Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-30-pro-windows-10-mastery-hacks/"><u>2024 Approved Top 30 Pro Windows 10 Mastery Hacks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-webcam-setup-for-quick-recordings-on-chromebooks/"><u>2024 Approved Webcam Setup for Quick Recordings on Chromebooks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-13ipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone 13/iPad/iPod</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-contribute-positively-or-negatively-to-mental-health-care-advancements/"><u>Can AI Contribute Positively or Negatively to Mental Health Care Advancements?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-elite-guide-to-gopro-side-by-side-shopping/"><u>In 2024, The Elite Guide to GoPro Side-By-Side Shopping</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/peeking-at-perfection-a-compreayer-look-at-lgs-27ud68-display/"><u>Peeking at Perfection A Compreayer Look at LG’s 27UD68 Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-foundation-defining-electronic-storytelling-for-2024/"><u>The Foundation Defining Electronic Storytelling for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-nba-experience-top-15-ways-to-watch-games-online-for-2024/"><u>The Ultimate NBA Experience - Top 15 Ways to Watch Games Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-top-voice-change-programs-for-2024/"><u>Ultimate List of Top Voice-Change Programs for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Agnes Ro: Unveiling the Changing Landscape of Developer Roles at Atlassian - Insights From ZDNet"
-date: 2024-09-17 11:45:29
-updated: 2024-09-20 10:25:41
+date: 2024-12-09T18:05:18.477Z
+updated: 2024-12-12T20:01:11.703Z
 tags:
   - cloud
 categories:
@@ -17,11 +17,19 @@ Image: Atlassian
 
 The last decade has seen the role of software developers evolve at a rapid pace as more and more organisations aimed to deliver new iterations of applications faster and more frequently than ever before.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Software development: Emerging trends and changing roles ZDNet takes an in-depth look at key trends in software development and how developers are changing the tech industry.  Read now](https://www.zdnet.com/topic/software-development-emerging-trends-and-changing-roles/)
 
 Atlassian's head of engineering Agnes Ro has experienced this first-hand. Ro has spent the last 15 years working at the software company -- initially as a graduate developer, before rising up the ranks to oversee a team of 100 engineers for a department called Foundational Collaboration that sits within Atlassian's cloud platform. Some of her key responsibilities include delivering common experiences and backend services for Atlassian products, such as rich text editors in JIRA and Confluence, as well as file and storage experiences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The need for speed
 
@@ -38,6 +46,10 @@ Ro attributed the shortened turnaround time to customers shifting from on-premis
 Frameworks to support the language that developers write, especially in the front-end, have also matured, said Ro, recalling how when she first started her team were still charged with supporting IE6\. 
 
 "Browser standards are very standardised today, so engineers today deal with more different challenges."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Developer
 
@@ -58,6 +70,10 @@ She pointed out, for instance, how security is now top of mind during any develo
 
 "Security has become much more ingrained," Ro said. "I would say to all of our engineering teams it's the number-one priority for Atlassian. We've come to understand that it's not just the responsibility within a separate security department; it's everyone's responsibility, and so we do a lot to ensure we're constantly testing and trying to ship the best and secure products for our customers."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A seat at the table
 
 Ro believes software developers are no longer outliers within an organisation, but are increasingly playing more crucial roles. 
@@ -65,6 +81,10 @@ Ro believes software developers are no longer outliers within an organisation, b
 "Engineers now feel much more responsible for all parts of the development lifecycle, so they're not just writing code anymore," she said.
 
 "They really do have to follow all the way through to shipping and the operational side of things, and making sure that it is reliable, stable, and not just about writing and shipping the code, and so I definitely feel that that's been a huge change and shift."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Related Coverage
 
@@ -80,11 +100,33 @@ Ro believes software developers are no longer outliers within an organisation, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-syncing-with-symphonies-music-on-whatsapp-status/"><u>[New] Syncing with Symphonies Music on WhatsApp Status</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-import-photos-and-videos-into-windows-10/"><u>[New] The Ultimate Guide to Import Photos & Videos Into Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-movie-journey-for-inspiration-seekers/"><u>[New] The Ultimate Movie Journey for Inspiration Seekers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-selection-affordable-hd-cams-for-sports/"><u>[New] Ultimate Selection Affordable HD Cams for Sports</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-full-evaluation-what-makes-theta-s-special/"><u>[Updated] 2024 Approved Full Evaluation What Makes Theta S Special</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-carryminati-unmasked-the-monetary-milestones-for-2024/"><u>[Updated] CarryMinati Unmasked The Monetary Milestones for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tap-out-of-tiktok-clutter-editing-guide-for-massive-drafts/"><u>[Updated] Tap Out of TikTok Clutter Editing Guide for Massive Drafts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-hdr-enhancement-your-lightroom-journey/"><u>[Updated] The Art of HDR Enhancement Your Lightroom Journey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uniting-social-spheres-from-instagram-to-tiktok-triumphs/"><u>[Updated] Uniting Social Spheres From Instagram to TikTok Triumphs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-crisp-clear-cinematography/"><u>2024 Approved The Key to Crisp, Clear Cinematography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-path-to-richer-textual-design-in-ae/"><u>2024 Approved The Path to Richer Textual Design in AE</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comment-transformer-votre-dvd-en-fichier-video-mp4-sans-cout-sur-pc-et-mac-avec-winxdvd/"><u>Comment Transformer Votre DVD en Fichier Video MP4 Sans Coût Sur PC Et Mac Avec WinXDVD</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/essential-underwater-videography-best-action-cameras-for-snorkelers-for-2024/"><u>Essential Underwater Videography Best Action Cameras for Snorkelers for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supercharge-your-pc-with-these-win-10-tricks/"><u>In 2024, Supercharge Your PC with These Win 10 Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/motorcycles-viewfinder-gems-top-5-helmets-with-hats-for-the-modern-rider/"><u>Motorcycle's Viewfinder Gems – Top 5 Helmets with Hats for the Modern Rider</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/online-livre-convertendo-flv-para-gifs-com-o-movavi-ferramenta-gratuita-e-direta-no-seu-browser/"><u>Online Livre: Convertendo FLV Para GIFs Com O Movavi - Ferramenta Gratuita E Direta No Seu Browser</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-addressing-upgrade-issues-windows-11s-0x80246007/"><u>Swiftly Addressing Upgrade Issues: Windows 11'S 0X80246007</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-smooth-audio-transitions-2-methods-to-fade-in-and-out-in-fcp-for-2024/"><u>Updated Smooth Audio Transitions 2 Methods to Fade In and Out in FCP for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Linux's Patent Shield Grows with OIN; Artificial Intelligence Left Unprotected | Tech Analysis by ZDNet
-date: 2024-09-17 20:13:30
-updated: 2024-09-20 10:55:43
+date: 2024-12-08T17:03:55.623Z
+updated: 2024-12-12T18:36:10.499Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-deepdelete-masterful-background-erasure/"><u>[New] DeepDelete Masterful Background Erasure</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-mastering-livestran-interactions-with-these-ten-backtrack-techniques/"><u>[New] In 2024, Mastering Livestran Interactions with These Ten Backtrack Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-artisans-path-to-precision-zooming-on-kinemaster/"><u>[New] The Artisan’s Path to Precision Zooming on Kinemaster</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-best-tvs-for-ps5xbox-series-x-games/"><u>[New] The Ultimate List Best TVs for PS5/Xbox Series X Games</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-zipping-down-peaks-top-moments-from-olympic-snowboard-cross-event/"><u>[Updated] In 2024, Zipping Down Peaks Top Moments From Olympic Snowboard Cross Event</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-audiophiles-companion-to-top-tier-audio-equipment/"><u>[Updated] The Audiophile's Companion to Top-Tier Audio Equipment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-time-stamped-photography/"><u>2024 Approved The Essentials of Time-Stamped Photography</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-directx-errors-in-fifa-20-a-comprehensive-guide-to-uninterrupted-gaming-fun/"><u>Bypassing DirectX Errors in FIFA 20: A Comprehensive Guide to Uninterrupted Gaming Fun</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-removing-unwanted-programs-from-your-samsung-smart-tv/"><u>Complete Guide: Removing Unwanted Programs From Your Samsung Smart TV</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/schritt-fur-schritt-anleitung-zum-beheben-des-windows-10-boot-managers-mit-myrecover/"><u>Schritt-Für-Schritt-Anleitung Zum Beheben Des Windows 10 Boot Managers Mit MyRecover</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-playbook-a-guide-to-efficiently-posting-srt-files-online-for-2024/"><u>The Ultimate Playbook A Guide to Efficiently Posting SRT Files Online for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-g310-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia G310 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
+

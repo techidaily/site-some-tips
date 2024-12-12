@@ -1,7 +1,7 @@
 ---
 title: "Ignoring Cloud Security Is Not an Option: Key Reasons for Prioritizing Protection | TechCrunch"
-date: 2024-09-19 14:16:13
-updated: 2024-09-20 12:41:56
+date: 2024-12-08T20:24:44.093Z
+updated: 2024-12-12T18:37:29.326Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 Image: Getty
 
 As convenient as [cloud computing has become](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/), it isn't without problems. Poor cybersecurity planning for cloud applications, such as allowing users to rely on simple passwords, [failing to use multi-factor authentication](https://www.zdnet.com/article/multi-factor-authentication-use-it-for-all-the-people-that-access-your-network-all-the-time/) or [not applying patches and updates](https://www.zdnet.com/article/youve-still-not-patched-it-hackers-are-using-these-old-software-flaws-to-deliver-ransomware/), can leave you vulnerable to attacks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -46,6 +50,10 @@ The lack of understanding around configuring and securing cloud services can lea
 
 This isn't just a theoretical problem, as cases of misconfigured cloud environments exposing sensitive information are regularly uncovered. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 * [Best VPN services](https://www.zdnet.com/article/best-vpn/)
@@ -56,6 +64,10 @@ This isn't just a theoretical problem, as cases of misconfigured cloud environme
 "Organisations do not completely understand the cloud environment and a lack of expertise and skill set makes it difficult for businesses to identify and implement the right set of security controls to protect their cloud operations," says Prakash Venkata, principal within PwC's cybersecurity, risk and regulatory practice. 
 
 "Companies that seem to be ignoring cloud security altogether may be doing so due to a lack of understanding, a lack of skills and expertise, limited time due to competing corporate initiatives, or limited budget to invest in leading tools," he adds. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Security
 
@@ -76,6 +88,10 @@ If your organisation isn't on top of its cloud security strategy, it could be ea
 There are also additional steps that information security teams can take to bolster cybersecurity defences of cloud services, such as [rolling out multi-factor authentication to all users](https://www.zdnet.com/article/better-than-the-best-password-how-to-use-2fa-to-improve-your-security/). This provides an opportunity to stop and detect malicious intrusions before they happen, because even if the attacker has the correct password, the user has to confirm that it's a legitimate login attempt.
 
 "Identity access management, the ability to ensure that networks' data system services can only be accessed by by authorized parties, that's really the essential bit," says Nurse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -98,6 +114,10 @@ However, your choice of cloud service provider could make a significant differen
 
 Even when you have a cybersecurity strategy around cloud in place, that's not the end of the journey – and much like when you first start using cloud services, you can't just ignore it and hope for the best. Cybersecurity is always evolving, new threats emerge, and new strategies need to be applied to help keep networks and users as safe and secure as possible. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -112,11 +132,29 @@ Even when you have a cybersecurity strategy around cloud in place, that's not th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-minipic-snapshot-scrutiny-plus-diverse-apps-for-2024/"><u>[Updated] MiniPic Snapshot Scrutiny + Diverse Apps for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-loudness-issues-in-playstation-4-systems-tips-and-fixes/"><u>Diagnosing Loudness Issues in PlayStation 4 Systems – Tips & Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-cookiebots-powerful-tracking-solutions-for-superior-user-insights/"><u>Leverage Cookiebot's Powerful Tracking Solutions for Superior User Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-mobile-ocr-for-streamlined-customer-onboarding-processes/"><u>Leverage Mobile OCR for Streamlined Customer Onboarding Processes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-optimized-site-personalization-and-analytics/"><u>Leveraging Cookiebot Technology for Optimized Site Personalization and Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-elevate-website-performance-and-tracking/"><u>Optimize with Cookiebot: Elevate Website Performance & Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimized-with-cookiebot-technology-boost-your-sites-engagement-and-conversions/"><u>Optimized With Cookiebot Technology - Boost Your Site's Engagement and Conversions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimized-with-crawlbot-enhancing-site-traffic/"><u>Optimized with CrawlBot: Enhancing Site Traffic</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purge-the-pasts-3-methods-to-clean-windows/"><u>Purge the Pasts: 3 Methods to Clean Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/senior-software-engineer-mihajlo-mulic-joins-abbyy-team/"><u>Senior Software Engineer Mihajlo Mulic Joins ABBYY Team</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/storytellers-sanctum-summit-selections/"><u>Storytellers Sanctum – Summit Selections</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/streamlined-techniques-for-efficient-apple-screenshots/"><u>Streamlined Techniques for Efficient Apple Screenshots</u></a></li>
+<li><a href="https://fox-place.techidaily.com/understanding-hp-error-code-0xc000021a-identifying-causes-and-effective-solutions/"><u>Understanding HP Error Code 0xC000021A: Identifying Causes & Effective Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-gemini-15-how-a-billion-words-change-the-game-for-ai-technology/"><u>Unveiling Gemini 1.5 – How a Billion Words Change the Game for AI Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/up-to-date-hp-printing-software-for-windows-users-latest-versions-now-available/"><u>Up-to-Date HP Printing Software for Windows Users – Latest Versions Now Available!</u></a></li>
+</ul></div>
+

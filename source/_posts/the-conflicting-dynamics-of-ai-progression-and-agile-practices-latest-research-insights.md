@@ -1,7 +1,7 @@
 ---
 title: The Conflicting Dynamics of AI Progression & Agile Practices – Latest Research Insights
-date: 2024-09-17 20:10:22
-updated: 2024-09-20 10:50:30
+date: 2024-12-09T17:32:39.149Z
+updated: 2024-12-12T17:37:08.628Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-thumbnail-design-for-engagement-a-youtube-resizing-guide/"><u>[New] In 2024, Thumbnail Design for Engagement A YouTube Resizing Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-iphone-7-perfect-screen-recording-setup/"><u>[Updated] 2024 Approved IPhone 7 Perfect Screen Recording Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-iphone-guide-to-water-reflected-imagery/"><u>[Updated] The Ultimate iPhone Guide to Water-Reflected Imagery</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-drone-color-spectrum-20-initial-free-luts-on-dji-mini-and-air/"><u>2024 Approved Drone Color Spectrum - 20 Initial FREE LUTS on DJI Mini & Air</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>2024 Approved Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-archive-slideshow-in-high-quality-video/"><u>In 2024, Archive Slideshow in High-Quality Video</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-comparison-of-gif-creators/"><u>In 2024, The Ultimate Comparison of GIF Creators</u></a></li>
+<li><a href="https://os-tips.techidaily.com/is-imyfone-fixppo-effective-comprehensive-guide-and-insights-into-this-iphone-unlocking-solution/"><u>Is iMyFone Fixppo Effective? Comprehensive Guide and Insights Into This iPhone Unlocking Solution</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-video-editing-with-quicktime-on-mac-for-2024/"><u>New The Ultimate Guide to Video Editing with QuickTime on Mac for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streaming-success-implementing-green-screen-innovations-for-2024/"><u>Streaming Success Implementing Green Screen Innovations for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techniques-for-smooth-audio-transitions-for-2024/"><u>Techniques for Smooth Audio Transitions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices-for-2024/"><u>The Ultimate Blueprint Creating Exceptional Podcast Content on iDevices for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/troubleshooting-scanner-issues-why-does-it-jam-and-stop-working-insights-by-yl-computing-specialists/"><u>Troubleshooting Scanner Issues: Why Does It Jam and Stop Working? Insights by YL Computing Specialists</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-lenovo-ideapad-130s-exploring-its-modest-battery-life-and-impressive-functionality/"><u>Unveiling the Lenovo IdeaPad 130S: Exploring Its Modest Battery Life and Impressive Functionality</u></a></li>
+</ul></div>
+

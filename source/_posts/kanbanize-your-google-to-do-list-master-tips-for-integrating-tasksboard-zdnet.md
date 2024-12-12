@@ -1,7 +1,7 @@
 ---
 title: "Kanbanize Your Google To-Do List: Master Tips for Integrating TasksBoard (ZDNet)"
-date: 2024-09-17 10:20:30
-updated: 2024-09-20 11:42:45
+date: 2024-12-09T19:49:47.514Z
+updated: 2024-12-12T19:37:14.454Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-windows-10-gamers-guide-to-effective-video-capture-for-2024/"><u>[New] Windows 10 Gamers' Guide to Effective Video Capture for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solved-auto-unloading-issue/"><u>[Solved] Auto Unloading Issue</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-elevate-your-youtube-presence-with-masterful-editing-skills/"><u>[Updated] In 2024, Elevate Your YouTube Presence with Masterful Editing Skills</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-insights-augmented-reality-and-virtual-wisdom/"><u>2024 Approved Innovative Insights Augmented Reality & Virtual Wisdom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-the-cold-with-confidence-the-definitive-shoppers-handbook-to-picking-a-top-notch-snow-blower-zdnet-insights/"><u>Conquer the Cold with Confidence: The Definitive Shopper's Handbook to Picking a Top-Notch Snow Blower | ZDNET Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-y28-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo Y28 5G Phone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-kobo-clarity-colour-ebook-reader/"><u>In-Depth Analysis of the Kobo Clarity Colour eBook Reader</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-worlds-of-gigantic-intelligent-language-models/"><u>Inside Worlds of Gigantic, Intelligent Language Models</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-looking-for-virtualdub-alternatives-here-are-the-best-options-for-2024/"><u>New Looking for VirtualDub Alternatives? Here Are the Best Options for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professional-data-annihilation-explained-bitraser-enterprise-edition-video-tutorial/"><u>Professional Data Annihilation Explained – BitRaser Enterprise Edition Video Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-video-format-transformer-convert-dvds-to-avi-and-more-on-windows-1011/"><u>Top-Rated Video Format Transformer: Convert DVDs to Avi & More on Windows 10/11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/total-horizon-capture-versus-focused-dimensionality-for-2024/"><u>Total Horizon Capture Versus Focused Dimensionality for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-6s-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 6s Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-imessage-block-notifications-and-indicators/"><u>Understanding iMessage Block Notifications & Indicators</u></a></li>
+</ul></div>
+

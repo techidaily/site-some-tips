@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Guide to WP Engine: Top Choice in Managed Hosting for WordPress Sites"
-date: 2024-09-18 10:42:35
-updated: 2024-09-20 11:50:33
+date: 2024-12-08T18:38:07.748Z
+updated: 2024-12-12T17:38:38.230Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-swiftly-piece-together-a-stunning-google-photo-collage/"><u>[New] Swiftly Piece Together a Stunning Google Photo Collage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>[New] The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-soloists-guide-to-captivating-audiences/"><u>[New] The Soloist's Guide to Captivating Audiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supercharge-your-gaming-experience-the-best-free-voice-transformer-awaits/"><u>[Updated] Supercharge Your Gaming Experience - The Best Free Voice Transformer Awaits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-setup-and-evaluate-facebook-instream-ads/"><u>2024 Approved How to Setup and Evaluate Facebook Instream Ads?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortless-automatic-data-sanitization-using-stellar-erase-5-on-windows-pcs/"><u>Effortless Automatic Data Sanitization Using Stellar Erase 5 on Windows PCs</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-spark-20-proplus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-zero-30-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Zero 30 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-poco-x5-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-text-to-laughter-kapwings-toolkit/"><u>In 2024, Transform Text to Laughter - Kapwing's Toolkit</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-securely-through-windows-8s-safe-mode-for-graphics-cleanup/"><u>Navigating Securely Through Windows 8’S Safe Mode for Graphics Cleanup</u></a></li>
+<li><a href="https://games-able.techidaily.com/unique-curve-design-balancing-thermal-management-and-performance/"><u>Unique Curve Design: Balancing Thermal Management and Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-new-dimensions-in-physical-interaction-tech-for-2024/"><u>Unlocking New Dimensions in Physical Interaction Tech for 2024</u></a></li>
+</ul></div>
+

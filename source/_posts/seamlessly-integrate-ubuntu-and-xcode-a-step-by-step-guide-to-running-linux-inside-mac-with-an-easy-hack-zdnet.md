@@ -1,7 +1,7 @@
 ---
 title: "Seamlessly Integrate Ubuntu & Xcode: A Step-by-Step Guide to Running Linux Inside Mac with an Easy Hack | ZDNet"
-date: 2024-11-30T18:35:45.972Z
-updated: 2024-12-06T19:48:25.316Z
+date: 2024-12-10T16:23:00.194Z
+updated: 2024-12-12T18:36:28.574Z
 tags:
   - apple
 categories:
@@ -31,10 +31,6 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -66,6 +62,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -73,10 +73,6 @@ Double-clicking, or, rather, double-pressing, the button on the right side of yo
 Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
@@ -87,7 +83,7 @@ Enter your passcode to confirm Apple Pay payment.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
@@ -115,10 +111,6 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
@@ -126,6 +118,10 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -138,7 +134,7 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Apple Cash?
@@ -162,6 +158,10 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,24 +197,20 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-benq-bl2711u-where-art-meets-science-in-professional-4k-monitoring/"><u>[New] BenQ BL2711U - Where Art Meets Science in Professional 4K Monitoring</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/uilding-a-strong-foundation-for-advertising-deals-using-famebit-methods-for-2024/"><u>[New] Building a Strong Foundation for Advertising Deals Using FameBit Methods for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos/"><u>[New] The Choreography of Audio and Visuals A Guide to Editing Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-experience-nba-like-a-pro-master-these-top-15-livestream-methods/"><u>[Updated] 2024 Approved Experience NBA Like a Pro - Master These Top 15 Livestream Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleashing-humor-the-kapwing-meme-builder-way/"><u>[Updated] Unleashing Humor The Kapwing Meme Builder Way</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-with-aes-best-text-presets/"><u>2024 Approved Unleashing Creativity with AE's Best Text Presets</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-video-stability-essentials-for-youtube-creators/"><u>2024 Approved Video Stability Essentials for YouTube Creators</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-nubia-red-magic-9-proplus-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Nubia Red Magic 9 Pro+ to Roku | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/expert-tips-and-solutions-to-resolve-realtek-universal-chip-drivers-complications/"><u>Expert Tips and Solutions to Resolve Realtek Universal Chip Drivers Complications</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-motorola-moto-g84-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Motorola Moto G84 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-60-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo 60 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-melody-in-motion-iphones-role-in-making-music-videos/"><u>In 2024, Melody in Motion IPhone's Role in Making Music Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-artisans-approach-integrating-typefaces-in-ae/"><u>In 2024, The Artisan's Approach Integrating Typefaces in AE</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-10-user-friendly-budget-optimizing-passport-photo-creators/"><u>In 2024, Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-tips-and-solutions-for-common-vlc-issues-on-mac/"><u>In 2024, Top Tips & Solutions for Common VLC Issues on Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-vibrance-grading-secrets-in-ps/"><u>In 2024, Unleashing Vibrance Grading Secrets in PS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/three-key-strategies-for-acquiring-youtube-srt-files-for-2024/"><u>Three Key Strategies for Acquiring YouTube SRT Files for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-cut-trim-and-split-the-best-free-mpeg-video-splitters/"><u>Updated 2024 Approved Cut, Trim, and Split The Best Free MPEG Video Splitters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-vector-graphics-101-overview-of-varieties-and-tools/"><u>[New] Vector Graphics 101 Overview of Varieties & Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-erase-imposter-photo-mishaps-in-platform-interactions/"><u>[Updated] 2024 Approved Erase Imposter Photo Mishaps in Platform Interactions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-blueprint-for-crafting-standout-podcast-titles-and-name-samples/"><u>[Updated] The Ultimate Blueprint for Crafting Standout Podcast Titles & Name Samples</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-powerful-titles/"><u>[Updated] Unveiling the Secrets of Powerful Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-and-leveraging-snapchat-spotlight/"><u>2024 Approved Understanding and Leveraging Snapchat Spotlight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-cinematic-magic-top-5-filmmaking-insights/"><u>2024 Approved Unlocking Cinematic Magic Top 5 Filmmaking Insights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/earn-free-football-fun-learn-to-livestream-legends/"><u>Earn-Free Football Fun Learn to Livestream Legends</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-record-a-video-presentation-using-adobe-captivate/"><u>How to Record a Video Presentation Using Adobe Captivate</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/identifying-ideal-release-moments-for-podcasts/"><u>Identifying Ideal Release Moments for Podcasts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-poco-x5-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Poco X5 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/laughing-fingers-the-hottest-tiktok-game-sensations/"><u>Laughing Fingers The Hottest TikTok Game Sensations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shine-bright-easy-brightening-for-iphones-visual-content/"><u>Shine Bright Easy Brightening for iPhone's Visual Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streaming-success-easily-convert-srt-formats-for-2024/"><u>Streaming Success Easily Convert SRT Formats for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-editors-roadmap-to-perfection-in-fcp-for-2024/"><u>The Editor's Roadmap to Perfection in FCP for 2024</u></a></li>
 </ul></div>
 

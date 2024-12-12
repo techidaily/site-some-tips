@@ -1,7 +1,7 @@
 ---
 title: Enhancing Online Protection with Two-Step Verification - A Comprehensive Guide by ZDNet
-date: 2024-09-17 14:48:23
-updated: 2024-09-20 10:44:48
+date: 2024-12-05T17:06:30.524Z
+updated: 2024-12-12T18:58:46.426Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/18dc1fd52ced4a77c2549457ab1f5c5e19
 Diki Prayogo/Getty Images
 
 You are one data breach away from having your entire online life turned upside down. [The problem is passwords](https://www.zdnet.com/article/why-you-can-still-trust-other-password-managers-even-after-that-lastpass-mess/), which are hopelessly fragile ways to secure valuable resources.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -77,6 +81,10 @@ When you set up this form of 2FA on an account for the first time, you're typica
 
 Some services allow you to set up a trusted email address to receive authentication codes. The process is identical to the one for using text messages. Enter your preferred email address, wait for a code to arrive in your email app, and enter the code to confirm that this method works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I set up 2FA with an authenticator app?
 
 To set up an authenticator app as a trusted device, you have to first prove that you can sign into the service using your password, then prove that you are who you say you are on the trusted device, using biometrics or a PIN.
@@ -114,6 +122,10 @@ Some 2FA settings include an option to generate special app passwords for use wi
 
 As part of the 2FA setup process, you should also generate one or more recovery codes, which you can print out and store in a safe place. In the event your smartphone is lost or damaged, you can use those codes to regain access to your account. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I transfer 2FA accounts to a new smartphone?
 
 If you use SMS text messages as a second factor for authentication, transferring your number to the new phone will seamlessly transfer your 2FA setup too.
@@ -130,6 +142,10 @@ Turning on 2FA for a service changes the security requirements, forcing you to p
 
 Most (but not all) services that support 2FA offer a choice of authentication methods. Google and Microsoft, for example, can both push notifications to a trusted device; you tap the notification to approve the sign-in. An increasing number of services support the use of hardware security keys (see: ["YubiKey hands-on: Hardware-based 2FA is more secure, but watch out for these gotchas."](https://www.zdnet.com/article/yubikey-hands-on-hardware-based-2fa-is-more-secure-but-watch-out-for-these-gotchas/))
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which authentication method is best?
 
 The best authentication method is the one you're most comfortable with, assuming you have a choice at all. Whenever possible, you should set up at least two verification options, to avoid the risk of being locked out of your account.
@@ -143,6 +159,10 @@ The most popular 2FA app is Google Authenticator, which is available on iOS and 
 Or maybe you don't need a dedicated authenticator app at all. Increasingly, password managers like [Bitwarden](https://bitwarden.com/help/authenticator-keys/) and [1Password](https://support.1password.com/one-time-passwords/) include the ability to generate 2FA codes and sync them along with the password repository.
 
 If you prefer, you can also mix and match authenticator apps on a trusted device. I use 1Password to save both passwords and 2FA codes for most sites and services, making sign-in even more seamless. However, I use the separate [Microsoft Authenticator](https://www.microsoft.com/en-us/account/authenticator) app for high-value accounts, including verification codes for setting up 1Password on a new device. I go into more detail about your authenticator app options here: ["Protect yourself: How to choose the right two-factor authenticator app."](https://www.zdnet.com/article/protect-yourself-how-to-choose-the-right-two-factor-authenticator-app/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I know which services support 2FA?
 
@@ -203,11 +223,24 @@ You probably have login credentials at dozens of online services that support 2F
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-incorporating-keywords-for-seo/"><u>[New] In 2024, Incorporating Keywords for SEO</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/evolutionize-your-content-with-innovative-tagging-approaches/"><u>[New] Revolutionize Your Content with Innovative Tagging Approaches</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-imagination-a-practical-guide-to-professional-gifs/"><u>[Updated] Harnessing Imagination A Practical Guide to Professional GIFs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-secrets-revealed-skyrocketing-your-insta-video-audience/"><u>[Updated] In 2024, Secrets Revealed Skyrocketing Your Insta Video Audience</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-hyperautomation-through-abbyy-unifying-computer-vision-and-large-language-models-with-idp-integration/"><u>Harnessing Hyperautomation Through ABBYY: Unifying Computer Vision and Large Language Models with IDP Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-abbyy-and-uipath-are-pioneering-automation-insights-from-the-future-of-finance-summit/"><u>How ABBYY and UiPath Are Pioneering Automation: Insights From the Future of Finance Summit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-rpa-is-dominating-the-thoughts-of-top-executives-insights-from-abbyy/"><u>How RPA Is Dominating the Thoughts of Top Executives: Insights From ABBYY</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-reno-9a-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo Reno 9A Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-cookiebot-technology-for-superior-user-tracking-on-your-website/"><u>Leverage Cookiebot Technology for Superior User Tracking on Your Website</u></a></li>
+</ul></div>
+

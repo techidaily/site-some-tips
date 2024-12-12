@@ -1,7 +1,7 @@
 ---
 title: "HPE & Nvidia Collaborate on Ready-to-Go GenAI Solutions: Transforming AI Integration for Enterprises | ZDNet"
-date: 2024-09-17 21:46:47
-updated: 2024-09-20 10:59:45
+date: 2024-12-09T17:39:07.598Z
+updated: 2024-12-12T16:52:08.707Z
 tags:
   - cloud
 categories:
@@ -50,6 +50,10 @@ AI requires a hybrid cloud by design to deliver GenAI effectively and through th
 With the integrated HPE-Nvidia offering, Neri is pitching that users can get set up on their AI deployment in just three clicks and 24 seconds. 
 
 Huang said: "GenAI and accelerated computing are fueling a fundamental transformation as every industry races to join the industrial revolution. Never before have Nvidia and HPE integrated our technologies so deeply -- combining the entire Nvidia AI computing stack along with HPE's private cloud technology."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Removing the complexities and disconnect
 
@@ -106,11 +110,31 @@ _Eileen Yu reported for ZDNET from HPE Discover 2024 in Las Vegas, at the invita
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/tep-by-step-editing-and-uploading-360-videos-on-youtube/"><u>[New] Step-by-Step Editing & Uploading 360 Videos on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-8-trendsetting-tools-that-every-startup-should-prioritize-today/"><u>[Updated] 8 Trendsetting Tools That Every Startup Should Prioritize Today</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-art-of-audio-amalgamation-in-vimeo-videos/"><u>[Updated] In 2024, The Art of Audio Amalgamation in Vimeo Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/20-anker-charger-revolutionizes-portable-power-the-ultimate-solution-featured/"><u>$20 Anker Charger Revolutionizes Portable Power: The Ultimate Solution Featured</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-whispering-winds-down-best-voices-for-sleep/"><u>2024 Approved Whispering Winds Down Best Voices for Sleep</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-guide-to-establishing-a-vlog-centered-on-merchandise-assessments/"><u>A Guide to Establishing a Vlog Centered on Merchandise Assessments</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-x50iplus-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X50i+ Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-efficient-user-tracking-and-conversion-optimization/"><u>Leveraging Cookiebot Technology for Efficient User Tracking and Conversion Optimization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mobile-scanning-and-converting-documents-to-text-with-finereader-iphones-compatible/"><u>Mobile Scanning & Converting Documents to Text with FineReader - iPhones Compatible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-future-with-siemens-gbs-mastering-document-automation-through-abbyys-expert-insights/"><u>Navigating the Future with Siemens GBS: Mastering Document Automation Through ABBYY's Expert Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimisez-votre-tresorerie-avec-notre-checklist-des-opportunites-financeuses-abbyy/"><u>Optimisez Votre Trésorerie Avec Notre Checklist Des Opportunités Financeuses - ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-elevate-your-websites-seo-performance/"><u>Optimize with Cookiebot: Elevate Your Website's SEO Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pionierarbeit-von-dsgf-fur-digitalisierung-der-finanzen-partnerschaft-mit-abbyy-macht-wirkung/"><u>Pionierarbeit Von DSGF Für Digitalisierung Der Finanzen: Partnerschaft Mit ABBYY Macht Wirkung</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-overcoming-challenges-in-reaching-dhcp-services/"><u>Resolved! Overcoming Challenges in Reaching DHCP Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-marketing-analytics-with-our-cutting-edge-cookiebot-solutions/"><u>Revolutionize Your Marketing Analytics with Our Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamless-integration-abbyy-connects-with-automation-anywhere/"><u>Seamless Integration: ABBYY Connects with Automation Anywhere</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steps-to-successfully-install-new-printer-drivers-on-win-systems/"><u>Steps to Successfully Install New Printer Drivers on WIN Systems</u></a></li>
+</ul></div>
+

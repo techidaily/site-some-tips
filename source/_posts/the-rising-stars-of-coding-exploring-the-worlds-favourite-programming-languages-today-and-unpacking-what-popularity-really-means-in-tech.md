@@ -1,7 +1,7 @@
 ---
 title: "The Rising Stars of Coding: Exploring the World's Favourite Programming Languages Today and Unpacking What 'Popularity' Really Means in Tech"
-date: 2024-09-19 16:44:13
-updated: 2024-09-20 11:27:54
+date: 2024-12-08T17:49:09.698Z
+updated: 2024-12-12T17:24:57.167Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/nstant-understanding-of-keying-concepts-for-2024/"><u>[New] Instant Understanding of Keying Concepts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-your-podcast-for-apple-platform-access/"><u>[New] Streamlining Your Podcast for Apple Platform Access</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-premier-audio-broadcasts-networks/"><u>[Updated] 2024 Approved Premier Audio Broadcasts Networks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-deciphering-your-social-media-shadows-privacy-on-facebook/"><u>[Updated] In 2024, Deciphering Your Social Media Shadows Privacy on Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-taking-the-plunge-a-beginners-guide-to-metaverse-memes-and-gags/"><u>[Updated] Taking the Plunge A Beginner's Guide to Metaverse Memes and Gags</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-photographers-manual-how-to-crop-images-seamlessly-online/"><u>[Updated] The Photographer's Manual How To Crop Images Seamlessly Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vegas-pro-19-review/"><u>[Updated] VEGAS Pro 19 Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-illuminating-ideas-the-basics-of-video-setup/"><u>2024 Approved Illuminating Ideas The Basics of Video Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-vegaspro-the-19-edition/"><u>2024 Approved Unveiling VegasPro The '19 Edition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-color-command-center-expert-transformation-techniques/"><u>In 2024, Color Command Center Expert Transformation Techniques</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 13 Pro Max</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-vanguard-audio-visual-makers-virtual-showcase/"><u>In 2024, The Vanguard Audio-Visual Makers' Virtual Showcase</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/text-to-pdf-conversion-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Text-to-PDF Conversion on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-f54-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-gadgets-unveiled-ifa-2023-edition/"><u>Top Gadgets Unveiled - IFA 2023 Edition</u></a></li>
+</ul></div>
+

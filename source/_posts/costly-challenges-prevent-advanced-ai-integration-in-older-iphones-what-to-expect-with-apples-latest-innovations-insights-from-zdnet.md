@@ -1,7 +1,7 @@
 ---
 title: "Costly Challenges Prevent Advanced AI Integration in Older iPhones: What to Expect with Apple’s Latest Innovations – Insights From ZDNet"
-date: 2024-12-05T18:44:22.421Z
-updated: 2024-12-06T18:13:08.333Z
+date: 2024-12-09T18:00:30.361Z
+updated: 2024-12-12T19:10:35.176Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,18 +120,21 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/updated-the-secrets-to-discreetly-fading-out-sounds-using-audacity/"><u>[Updated] The Secrets to Discreetly Fading Out Sounds Using Audacity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-affordable-hd-cams-for-sports/"><u>[Updated] Ultimate Selection Affordable HD Cams for Sports</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-shots-and-their-tales-the-most-shared-stock-memes/"><u>2024 Approved Top Shots and Their Tales The Most Shared Stock Memes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-a15-4g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy A15 4G Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-making-life-easier-watching-fb-videos-on-your-tv/"><u>In 2024, Making Life Easier Watching FB Videos on Your TV</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>In 2024, The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-pathway-best-7-platforms-turning-art-into-nfts/"><u>In 2024, The Ultimate Pathway Best 7 Platforms Turning Art Into NFTs</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/navigating-phones-and-samsung-gear-vr-interaction/"><u>Navigating Phones & Samsung Gear VR Interaction</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/rise-above-the-tech-wave-six-essential-skills-for-flourishing-in-an-age-dominated-by-ai/"><u>Rise Above the Tech Wave: Six Essential Skills for Flourishing in an Age Dominated by AI</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-problem-when-discord-voice-communication-is-not-working/"><u>Solving the Problem When Discord Voice Communication Is Not Working</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-guide-on-computer-gear/"><u>Tom's Tech Reviews: Comprehensive Guide on Computer Gear</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-your-podcast-potential-advanced-techniques-for-idevice-audio-recording-for-2024/"><u>Unlock Your Podcast Potential Advanced Techniques for iDevice Audio Recording for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-note-12-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Xiaomi Redmi Note 12 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-strategies-softwares-versus-hardware-harmony/"><u>[New] Streamline Strategies Softwares Versus Hardware Harmony?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-ranking-humor-image-editor/"><u>[New] Top-Ranking Humor Image Editor</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-simple-steps-for-turning-your-smartphone-into-an-effective-camera/"><u>[Updated] In 2024, Simple Steps for Turning Your Smartphone Into an Effective Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-capturing-imagination-best-shot-tips/"><u>[Updated] The Art of Capturing Imagination Best Shot Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-cloud-storage-cost-breakdown-2024-edition/"><u>[Updated] The Ultimate Cloud Storage Cost Breakdown, 2024 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-20-essential-gopro-extras/"><u>[Updated] Top 20 Essential Gopro Extras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-ringtones-for-game-of-thrones-enthusiasts-online-listings/"><u>[Updated] Top Ringtones for Game of Thrones Enthusiasts - Online Listings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-free-viewer-cam-parties-for-2024/"><u>[Updated] Ultimate Free Viewer Cam Parties for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-masterful-ways-of-scrolling-through-appreciated-youtube-feedback/"><u>2024 Approved Masterful Ways of Scrolling Through Appreciated YouTube Feedback</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/delving-into-youtubes-functionality-after-upload-for-2024/"><u>Delving Into YouTube's Functionality After Upload for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-seed-to-story-innovative-writing-techniques-from-gpt/"><u>From Seed to Story: Innovative Writing Techniques From GPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-easy-way-to-progressively-reduce-sound-levels-in-lumafusion/"><u>In 2024, The Easy Way to Progressively Reduce Sound Levels in Lumafusion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/outperforming-combustion-engines-the-top-benefits-of-choosing-an-ev/"><u>Outperforming Combustion Engines: The Top Benefits of Choosing an EV</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/setting-up-a-smart-home-theater-connecting-and-enjoying-online-content/"><u>Setting Up a Smart Home Theater: Connecting and Enjoying Online Content</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-itel-p55-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Itel P55 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-guide-to-planning-and-recording-meetings-in-slack-plus-filmora-for-2024/"><u>The Ultimate Guide to Planning & Recording Meetings in Slack + Filmora for 2024</u></a></li>
 </ul></div>
 

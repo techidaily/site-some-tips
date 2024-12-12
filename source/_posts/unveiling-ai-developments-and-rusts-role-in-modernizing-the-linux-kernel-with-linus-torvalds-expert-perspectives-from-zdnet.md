@@ -1,7 +1,7 @@
 ---
 title: Unveiling AI Developments and Rust's Role in Modernizing the Linux Kernel with Linus Torvalds | Expert Perspectives From ZDNET
-date: 2024-09-18 10:18:36
-updated: 2024-09-20 11:51:46
+date: 2024-12-07T17:01:09.208Z
+updated: 2024-12-12T20:18:50.108Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-top-tactics-for-boosting-vhs-quality-through-digital-tools/"><u>[New] Top Tactics for Boosting VHS Quality Through Digital Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nleash-your-youtube-playlists-a-comprehensive-guide-for-2024/"><u>[New] Unleash Your YouTube Playlists A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unravel-the-mystery-of-tempo-control-in-instagram-stories/"><u>[New] Unravel the Mystery of Tempo Control in Instagram Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-seal-on-immersive-odyssey/"><u>[Updated] Ultimate Seal on Immersive Odyssey</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amazon-fire-vs-samsung-tablets-a-comprehensive-guide-to-choosing-the-best-device/"><u>Amazon Fire Vs. Samsung Tablets: A Comprehensive Guide to Choosing the Best Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-workflow-with-mac-preview-complete-guide/"><u>In 2024, Streamlining Your Workflow with Mac Preview Complete Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-capsule-converting-single-photographs-to-video/"><u>In 2024, Time Capsule Converting Single Photographs to Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlined-method-to-alter-iphone-resolution-for-2024/"><u>Streamlined Method to Alter iPhone Resolution for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-selective-shout-outs-on-fb-in-three-simple-ways/"><u>The Art of Selective Shout-Outs on FB in Three Simple Ways</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/top-mp4-encoder-of-2023-guia-paso-a-paso-para-optimizacion-de-videos/"><u>Top MP4 Encoder of 2023: Guía Paso a Paso Para Optimización De Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-footage-editing-videos-seamlessly-on-windows-11-and-storyremix-for-2024/"><u>Transforming Footage Editing Videos Seamlessly on Windows 11 and StoryRemix for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-walkthrough-to-eliminate-nier-automata-pc-stalling-episodes/"><u>Ultimate Walkthrough to Eliminate Nier Automata PC Stalling Episodes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-the-best-the-ultimate-5-book-promo-video-list-for-2024/"><u>Uncover the Best The Ultimate 5 Book Promo Video List for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unleash-the-full-potential-of-youtube-with-variable-playback-rates/"><u>Unleash the Full Potential of YouTube With Variable Playback Rates</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/videorecording-mastery-with-screencapture-x/"><u>VideoRecording Mastery with ScreenCapture X</u></a></li>
+</ul></div>
+

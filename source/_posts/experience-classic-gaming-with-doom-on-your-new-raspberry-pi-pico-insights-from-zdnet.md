@@ -1,7 +1,7 @@
 ---
 title: Experience Classic Gaming with Doom on Your New Raspberry Pi Pico - Insights From ZDNet
-date: 2024-09-18 16:22:15
-updated: 2024-09-20 12:12:32
+date: 2024-12-06T20:28:13.466Z
+updated: 2024-12-12T18:42:45.314Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -72,6 +80,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-insiders-manual-to-upload-content-to-igtv-for-2024/"><u>[New] The Insider's Manual to Upload Content to IGTV for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-srt-openedit-manual-for-mac-users/"><u>[New] Ultimate SRT Open/Edit Manual for Mac Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unraveling-the-potential-of-aurora-hdr-tech/"><u>[New] Unraveling the Potential of Aurora HDR Tech</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-effortless-facebook-video-streaming-with-fire-browser-plugins-firefox-edition-2023/"><u>[Updated] In 2024, Effortless Facebook Video Streaming with Fire-Browser Plugins, Firefox Edition 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategic-vr-marketing-manifesto/"><u>[Updated] Strategic VR Marketing Manifesto</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-potential-a-complete-review-of-powerdirector-2024/"><u>[Updated] Unlocking Potential A Complete Review of PowerDirector 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-comprehensive-guide-to-the-best-makeup-tutorials-on-youtube-for-2024/"><u>A Comprehensive Guide to the Best Makeup Tutorials on YouTube for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-itel-p55-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Itel P55 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-ios-17-stacks-up-reasons-to-consider-upgrading-now/"><u>How iOS 17 Stacks Up: Reasons to Consider Upgrading Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-insiders-guide-to-the-vr-lexicon-essentials/"><u>In 2024, Insider's Guide to the VR Lexicon Essentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-step-by-step-implementing-effective-transitions-on-inshot/"><u>In 2024, Step-by-Step Implementing Effective Transitions on Inshot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tailoring-your-footage-a-comprehensive-guide-to-gopros-color-adjustment/"><u>In 2024, Tailoring Your Footage A Comprehensive Guide to GoPro's Color Adjustment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-sierras-icloud-full-access-guide/"><u>In 2024, Unraveling Sierra's iCloud Full Access Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-strategies-for-elevating-your-onestream-experience/"><u>Innovative Strategies for Elevating Your OneStream Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-locally-managed-users-in-win1110/"><u>Leveraging Locally Managed Users in WIN11/10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016525340-mpow-microphone-trouble-heres-how-to-make-it-work-on-your-pc/"><u>MPOW Microphone Trouble? Here's How to Make It Work on Your PC!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/untangling-the-video-jams-in-digital-portfolits-for-2024/"><u>Untangling the Video Jams in Digital Portfolits for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-9-critical-differences-that-favor-pcs-to-macs/"><u>Unveiling 9 Critical Differences That Favor PCs to Macs</u></a></li>
+</ul></div>
+

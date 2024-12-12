@@ -1,7 +1,7 @@
 ---
 title: Alibaba Plans Separate IPO for Cloud Business & Initiates Public Offering of Two Subsidiaries
-date: 2024-09-19 19:40:18
-updated: 2024-09-20 11:37:54
+date: 2024-12-11T19:47:03.751Z
+updated: 2024-12-12T19:42:49.884Z
 tags:
   - cloud
 categories:
@@ -94,11 +94,33 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-guide-to-converting-youtubes-into-vivid-gifs-no-save/"><u>[New] In 2024, The Ultimate Guide to Converting YouTubes Into Vivid GIFs (No Save)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-influencing-your-drones-performance-choosing-right-propellers/"><u>[Updated] 2024 Approved Influencing Your Drone's Performance Choosing Right Propellers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-fingerprint-scanners-optical-vs-ultrasonic-technology/"><u>Comparing Fingerprint Scanners: Optical Vs. Ultrasonic Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-evaluation-is-googles-pixel-8a-series-at-its-final-chapter/"><u>Comprehensive Evaluation: Is Google's Pixel 8A Series at Its Final Chapter?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-the-best-value-monoprice-drawing-pad-for-digital-creators/"><u>Discovering the Best-Value Monoprice Drawing Pad for Digital Creators</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974296020-effortless-setup-get-your-amd-ryzen-5-2400g-drivers-installed-in-a-flash/"><u>Effortless Setup: Get Your AMD Ryzen 5 2400G Drivers Installed in a Flash!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-xbox-game-pass-0x800700e9-error-in-windows-11-and-11/"><u>How to Fix the Xbox Game Pass 0X800700e9 Error in Windows 11 & 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/imessage-prompts-understanding-the-reason-behind-contact-check-in-requests-and-easy-fixes/"><u>IMessage Prompts: Understanding the Reason Behind Contact Check-In Requests and Easy Fixes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-languages-via-screen-top-tactics-and-guidance/"><u>Mastering Languages via Screen: Top Tactics & Guidance</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximize-your-gaming-performance-with-the-havit-5-laptop-fan-cooler-reviewed-here/"><u>Maximize Your Gaming Performance with the HAVIT 5 Laptop Fan Cooler Reviewed Here!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsoft-teams-misuse-sparks-managerial-meltdown-a-tale-of-office-woes/"><u>Microsoft Teams Misuse Sparks Managerial Meltdown: A Tale of Office Woes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-tomorrow-cosmic-as-your-gateway-to-the-next-gen-linux-experience/"><u>Navigating Tomorrow: COSMIC as Your Gateway to the Next-Gen Linux Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-batch-files-a-comprehensive-guide-on-what-they-are-and-how-to-access-them/"><u>Understanding Batch Files: A Comprehensive Guide on What They Are & How To Access Them</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-13-quick-methods-to-access-windows-10-settings/"><u>Unlocking the Secrets: 13 Quick Methods to Access Windows 10 Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-comprehensive-guide-to-all-the-top-highlights-from-apples-worldwide-developers-conference-2024/"><u>Your Comprehensive Guide to All the Top Highlights From Apple's Worldwide Developers Conference 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

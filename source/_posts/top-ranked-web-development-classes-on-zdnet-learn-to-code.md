@@ -1,7 +1,7 @@
 ---
 title: Top-Ranked Web Development Classes on ZDNet - Learn to Code
-date: 2024-09-18 10:18:40
-updated: 2024-09-20 12:49:12
+date: 2024-12-10T17:42:31.082Z
+updated: 2024-12-12T19:36:38.082Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-horizon-harmony-best-online-spots-for-high-res-sky-views/"><u>[Updated] In 2024, Horizon Harmony Best Online Spots for High-Res Sky Views</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-the-magic-maker-bridging-real-life-with-imagination/"><u>AI: The Magic Maker Bridging Real-Life with Imagination</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boost-your-iphones-battery-life-discover-these-quick-and-easy-steps/"><u>Boost Your iPhone's Battery Life - Discover These Quick and Easy Steps!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-role-in-streamlining-website-creation-discover-four-key-benefits/"><u>ChatGPT's Role in Streamlining Website Creation - Discover Four Key Benefits</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enlightening-your-ai-journey-7-must-try-tips/"><u>Enlightening Your AI Journey: 7 Must-Try Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-decoding-youtubes-procedure-after-a-video-is-uploaded/"><u>In 2024, Decoding YouTube's Procedure After a Video Is Uploaded</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-canon-editing-kit-freepay-for-luts-included/"><u>In 2024, Ultimate Canon Editing Kit - Free/Pay for LUTs Included</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-efficiency-the-editors-guide-to-speed-control/"><u>In 2024, Unlock Efficiency The Editor's Guide to Speed Control</u></a></li>
+<li><a href="https://win-hot.techidaily.com/proven-techniques-for-recovering-deleted-emails-from-your-pcs-hard-drive/"><u>Proven Techniques for Recovering Deleted Emails From Your PC's Hard Drive</u></a></li>
+<li><a href="https://discover-data.techidaily.com/remember-when-weighing-objects-especially-liquids-the-scale-should-be-level-and-stable-for-an-accurate-reading/"><u>Remember, when Weighing Objects, Especially Liquids, the Scale Should Be Level and Stable for an Accurate Reading.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-most-popular-wedding-countdown-clocks-a-top-10-list-androidios-for-2024/"><u>The Most Popular Wedding Countdown Clocks A Top 10 List (Android/iOS) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-mac-friendly-video-to-mp4-codecs-for-2024/"><u>Ultimate List of Mac-Friendly Video to MP4 Codecs for 2024</u></a></li>
+</ul></div>
+

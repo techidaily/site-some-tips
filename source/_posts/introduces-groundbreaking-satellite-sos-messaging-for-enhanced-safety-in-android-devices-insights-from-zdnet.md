@@ -1,7 +1,7 @@
 ---
 title: Introduces Groundbreaking Satellite SOS Messaging for Enhanced Safety in Android Devices | Insights From ZDNet
-date: 2024-12-01T18:49:11.866Z
-updated: 2024-12-06T18:39:10.670Z
+date: 2024-12-08T16:34:29.066Z
+updated: 2024-12-12T18:49:15.888Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,24 +126,22 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-5-apps-for-capturing-precise-android-displays/"><u>[New] 2024 Approved Top 5 Apps for Capturing Precise Android Displays</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-surpass-everyday-photo-taking-with-ios-11/"><u>[New] Surpass Everyday Photo-Taking with iOS 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-best-practice-manual-for-text-on-picture-edits/"><u>[New] The Best Practice Manual for Text-on-Picture Edits</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-video-consumption-constructing-an-ideal-watch-later-list-on-youtube-for-2024/"><u>[Updated] Elevate Video Consumption Constructing an Ideal 'Watch Later' List on YouTube for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-taking-command-with-custom-character-sounds-in-free-fire-no-expense-involved/"><u>[Updated] Taking Command with Custom Character Sounds in Free Fire - No Expense Involved</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-uncovering-best-in-class-steadicams-for-high-end-dslr-projects/"><u>[Updated] Uncovering Best-in-Class Steadicams for High-End DSLR Projects</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-expert-insights-into-efficient-lunapic-usage/"><u>2024 Approved Expert Insights Into Efficient LunaPic Usage</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-become-a-top-notch-interviewer/"><u>2024 Approved Strategies to Become a Top-Notch Interviewer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-blueprint-for-sourcing-top-tier-instagram-ringtones-and-crafting-standout-alarms/"><u>2024 Approved The Ultimate Blueprint for Sourcing Top-Tier Instagram Ringtones and Crafting Standout Alarms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-photos-with-easy-online-cropping-steps/"><u>2024 Approved Transforming Photos with Easy Online Cropping Steps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-uncovering-superior-free-viewers-for-your-webm-media-files/"><u>2024 Approved Uncovering Superior, Free Viewers for Your WebM Media Files</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209851630-9788792980007-choose-a-simple-living/"><u>Choose a simple living | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-anthropics-ai-generation-ideas/"><u>Discovering Anthropic's AI Generation Ideas</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-innovations-with-toms-hardware-guides/"><u>Exploring Tech Innovations with Tom's Hardware Guides</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/fbx-studio-guide-for-gamers/"><u>FBX Studio Guide for Gamers</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/image-conversion-techniques-explained-by-yl-computing-yl-software-solutions/"><u>Image Conversion Techniques Explained by YL Computing - YL Software Solutions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-dslr-and-mirrorless-excellence-with-ideal-gimbals/"><u>In 2024, DSLR & Mirrorless Excellence with Ideal Gimbals</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-10-places-for-accessible-photography-loot/"><u>In 2024, Top 10 Places for Accessible Photography Loot</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-mac-tools-for-screen-capture-discovering-the-top-5/"><u>[New] Essential Mac Tools for Screen Capture, Discovering the Top 5</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-least-expensive-skyvault-service-for-big-files/"><u>[New] The Least Expensive SkyVault Service for Big Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unparalleled-20-anime-series-themes/"><u>[New] Unparalleled 20 Anime Series Themes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-comprehensive-guide-to-adding-srt-track-to-mp4-media/"><u>[Updated] Comprehensive Guide to Adding SRT Track to MP4 Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlined-iphones-how-to-grab-your-favorite-podcasts/"><u>[Updated] Streamlined iPhones How to Grab Your Favorite Podcasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-art-of-media-manipulation-from-text-formats-to-srts-for-2024/"><u>[Updated] The Art of Media Manipulation From Text Formats to SRTs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-linguistic-leaders-list-of-top-33-apps-that-turn-videos-into-text/"><u>[Updated] The Linguistic Leaders' List of Top 33 Apps That Turn Videos Into Text</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-movie-maker-on-windows-8/"><u>[Updated] Unveiling the Secrets of Movie Maker on Windows 8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/2023s-elite-selection-exploring-premium-choices-for-your-samsung-galaxy-z-flip-4-phone-case/"><u>2023'S Elite Selection: Exploring Premium Choices for Your Samsung Galaxy Z Flip 4 Phone Case</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-unbiased-freepaid-blu-ray-vids-on-pcmac/"><u>2024 Approved Ultimate Guide Unbiased Free/Paid Blu-Ray Vids on PC/Mac</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/a-step-by-step-guide-to-masterful-editing/"><u>A Step-by-Step Guide to Masterful Editing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/economical-elegance-exquisite-technology-picks-for-the-price-conscious/"><u>Economical Elegance: Exquisite Technology Picks for the Price-Conscious</u></a></li>
+<li><a href="https://article-posts.techidaily.com/iphone-imaging-insights-for-professionals/"><u>IPhone Imaging Insights for Professionals</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sonys-walkman-model-analysis-design-dilemmnas/"><u>Sonys Walkman Model Analysis: Design Dilemmnas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fastest-methods-to-uncover-hidden-reddit-articles-for-2024/"><u>The Fastest Methods to Uncover Hidden Reddit Articles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-best-vr-game-engines-of-2023-for-2024/"><u>Unveiling the Best VR Game Engines of 2023 for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Accounts Using MFA: Step-by-Step Activation Tips From Experts at ZDNet"
-date: 2024-09-17 17:57:53
-updated: 2024-09-20 10:14:34
+date: 2024-12-09T18:38:32.913Z
+updated: 2024-12-12T19:54:21.013Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 Diki Prayogo/Getty Images
 
 You are one data breach away from having your entire online life turned upside down. [The problem is passwords](https://www.zdnet.com/article/why-you-can-still-trust-other-password-managers-even-after-that-lastpass-mess/), which are hopelessly fragile ways to secure valuable resources.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -77,6 +81,10 @@ When you set up this form of 2FA on an account for the first time, you're typica
 
 Some services allow you to set up a trusted email address to receive authentication codes. The process is identical to the one for using text messages. Enter your preferred email address, wait for a code to arrive in your email app, and enter the code to confirm that this method works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I set up 2FA with an authenticator app?
 
 To set up an authenticator app as a trusted device, you have to first prove that you can sign into the service using your password, then prove that you are who you say you are on the trusted device, using biometrics or a PIN.
@@ -130,6 +138,10 @@ Turning on 2FA for a service changes the security requirements, forcing you to p
 
 Most (but not all) services that support 2FA offer a choice of authentication methods. Google and Microsoft, for example, can both push notifications to a trusted device; you tap the notification to approve the sign-in. An increasing number of services support the use of hardware security keys (see: ["YubiKey hands-on: Hardware-based 2FA is more secure, but watch out for these gotchas."](https://www.zdnet.com/article/yubikey-hands-on-hardware-based-2fa-is-more-secure-but-watch-out-for-these-gotchas/))
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which authentication method is best?
 
 The best authentication method is the one you're most comfortable with, assuming you have a choice at all. Whenever possible, you should set up at least two verification options, to avoid the risk of being locked out of your account.
@@ -143,6 +155,10 @@ The most popular 2FA app is Google Authenticator, which is available on iOS and 
 Or maybe you don't need a dedicated authenticator app at all. Increasingly, password managers like [Bitwarden](https://bitwarden.com/help/authenticator-keys/) and [1Password](https://support.1password.com/one-time-passwords/) include the ability to generate 2FA codes and sync them along with the password repository.
 
 If you prefer, you can also mix and match authenticator apps on a trusted device. I use 1Password to save both passwords and 2FA codes for most sites and services, making sign-in even more seamless. However, I use the separate [Microsoft Authenticator](https://www.microsoft.com/en-us/account/authenticator) app for high-value accounts, including verification codes for setting up 1Password on a new device. I go into more detail about your authenticator app options here: ["Protect yourself: How to choose the right two-factor authenticator app."](https://www.zdnet.com/article/protect-yourself-how-to-choose-the-right-two-factor-authenticator-app/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I know which services support 2FA?
 
@@ -158,6 +174,10 @@ When I started writing about this technology, more than a decade ago, 2FA suppor
 2FA support is ubiquitous among social media services (Facebook, X/Twitter, Instagram, and so on). Every online storage service worth considering supports 2FA, as do most domain registrars and web hosting companies. If you're unsure about a specific service, the best place to check is a superb open source information repository called the [2FA Directory](https://2fa.directory/), which is run by a [Swedish nonprofit, the 2factorauth group](https://2fa.directory/about/), and [maintained on GitHub](https://github.com/2factorauth/twofactorauth).
 
 And if a high-value service you rely on doesn't support 2FA, well, maybe you should consider switching to one that does. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which services should I protect first?
 
@@ -203,11 +223,26 @@ You probably have login credentials at dozens of online services that support 2F
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-calculating-the-sequence-length-of-a-20mb-file/"><u>[Updated] Calculating the Sequence Length of a 20MB File</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-exploring-manycams-latest-video-capture-innovations/"><u>[Updated] In 2024, Exploring ManyCam's Latest Video Capture Innovations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-share-screen-on-zoom-meeting-guide-for-2024/"><u>[Updated] Share Screen on Zoom Meeting Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-erweitert-das-ipa-okosystem-durch-das-neue-globale-one-partner-programm-einbindung-und-zusammenarbeit-fur-verbesserte-prozessautomatisierung/"><u>ABBYY Erweitert Das IPA-Ökosystem Durch Das Neue, Globale One Partner Programm: Einbindung Und Zusammenarbeit Für Verbesserte Prozessautomatisierung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-integration-launches-at-electionzcom-for-enhanced-data-processing/"><u>ABBYY Integration Launches at Electionz.com for Enhanced Data Processing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-maintains-top-spot-in-the-smart-automation-industry/"><u>ABBYY Maintains Top Spot in the Smart Automation Industry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyys-technological-mastery-skyrocketing-profits-with-a-60-increase-endorsed-by-the-esteemed-idc-marketscape-analysis/"><u>ABBYY's Technological Mastery: Skyrocketing Profits with a 60% Increase, Endorsed by the Esteemed IDC MarketScape Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1724312832646-abbyy/"><u>ABBYYが清水智人氏を日本企業界の最前線指導者として紹介</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/blast-from-the-past-expert-insights-into-playing-super-mario-bros-on-the-timeless-nintendo-game-and-watch/"><u>Blast From the Past: Expert Insights Into Playing Super Mario Bros. On the Timeless Nintendo Game & Watch</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlining-your-workflow-adding-descriptive-elements-to-photos-on-windowsmacos/"><u>Streamlining Your Workflow Adding Descriptive Elements to Photos on Windows/MacOS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-motorola-moto-g13-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Motorola Moto G13 Phone With/Without IMEI Number</u></a></li>
+</ul></div>
+

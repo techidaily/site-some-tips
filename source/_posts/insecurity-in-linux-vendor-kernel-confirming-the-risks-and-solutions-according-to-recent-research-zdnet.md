@@ -1,7 +1,7 @@
 ---
 title: "Insecurity in Linux Vendor Kernel: Confirming the Risks and Solutions According to Recent Research | ZDNet"
-date: 2024-09-19 13:17:42
-updated: 2024-09-20 12:33:24
+date: 2024-12-07T19:17:58.202Z
+updated: 2024-12-12T17:30:36.933Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-no-cost-top-quality-premiere-pro-designs-for-2024/"><u>[New] No-Cost, Top-Quality Premiere Pro Designs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-clear-path-a-step-by-step-approach-to-buying-an-exceptional-4k-monitor/"><u>[New] The Clear Path A Step-By-Step Approach to Buying an Exceptional 4K Monitor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-powerhouse-of-4k-reviewing-the-nikon-j5-camera/"><u>[New] The Powerhouse of 4K Reviewing the Nikon J5 Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-discovering-the-most-acclaimed-photo-swap-apps/"><u>[New] Unleash Creativity Discovering the Most Acclaimed Photo Swap Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unveiling-the-true-income-potential-in-podcasting/"><u>[New] Unveiling the True Income Potential in Podcasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-add-music-to-a-video-on-iphone-3-free-ways/"><u>2024 Approved How to Add Music to a Video on iPhone [3 FREE WAYS]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-merge-movie-content-into-watchlist/"><u>2024 Approved Merge Movie Content Into Watchlist</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-new-potentials-iphone-x-secrets-unveiled/"><u>2024 Approved Unlock New Potentials IPhone X Secrets Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-conversations-with-users-essential-for-chatgpts-adaptation/"><u>Are Conversations with Users Essential for ChatGPT's Adaptation?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/ensure-audible-vids-on-tweet-platform-for-2024/"><u>Ensure Audible Vids on Tweet Platform for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-unboxed-a-first-look-at-the-new-samsung-galaxy-budsplus/"><u>Experience Unboxed: A First Look at the New Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-obtaining-flawless-visual-content/"><u>In 2024, The Art of Obtaining Flawless Visual Content</u></a></li>
+<li><a href="https://facebook.techidaily.com/large-techs-credibility-questioned-by-survey-results/"><u>Large Tech's Credibility Questioned by Survey Results</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/movavi-mp3-m2p/"><u>Movavi MP3 대상화: 원탁과 일정 없이 바이너리 아이마지네이트를 무료로 M2P 변환</u></a></li>
+<li><a href="https://some-tips.techidaily.com/testimonials-on-screen-marketings-best-friend-for-2024/"><u>Testimonials on Screen Marketing's Best Friend for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-everyday-moments-with-ioss-complete-life-story-for-2024/"><u>Transforming Everyday Moments with iOS's Complete Life Story for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-foundation-of-motion-visualization-for-2024/"><u>Understanding the Foundation of Motion Visualization for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveil-the-8-greatest-places-to-download-3d-text-psd-files-for-2024/"><u>Unveil the 8 Greatest Places to Download 3D Text PSD Files for 2024</u></a></li>
+</ul></div>
+

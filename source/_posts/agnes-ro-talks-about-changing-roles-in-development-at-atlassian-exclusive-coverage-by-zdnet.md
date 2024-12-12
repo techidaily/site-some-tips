@@ -1,7 +1,7 @@
 ---
 title: Agnes Ro Talks About Changing Roles in Development at Atlassian – Exclusive Coverage by ZDNet
-date: 2024-09-17 19:44:39
-updated: 2024-09-20 11:50:35
+date: 2024-12-10T20:06:24.874Z
+updated: 2024-12-12T19:32:48.710Z
 tags:
   - cloud
 categories:
@@ -23,6 +23,10 @@ The last decade has seen the role of software developers evolve at a rapid pace 
 
 Atlassian's head of engineering Agnes Ro has experienced this first-hand. Ro has spent the last 15 years working at the software company -- initially as a graduate developer, before rising up the ranks to oversee a team of 100 engineers for a department called Foundational Collaboration that sits within Atlassian's cloud platform. Some of her key responsibilities include delivering common experiences and backend services for Atlassian products, such as rich text editors in JIRA and Confluence, as well as file and storage experiences.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The need for speed
 
 According to Ro, unlike today where iteration cycles occur within weeks, if not hours, software developers had longer turnaround times in the past.
@@ -39,12 +43,20 @@ Frameworks to support the language that developers write, especially in the fron
 
 "Browser standards are very standardised today, so engineers today deal with more different challenges."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Developer
 
 * [It's the end of programming as we know it -- again](https://www.zdnet.com/article/its-the-end-of-programming-as-we-know-it-again/)
 * [Developers feel secure in their jobs, but they're still thinking about quitting](https://www.zdnet.com/article/developers-feel-secure-in-their-jobs-but-theyre-still-thinking-about-quitting/)
 * [The future of the web will need a different sort of software developer](https://www.zdnet.com/article/the-future-of-the-web-will-need-a-different-sort-of-software-developer/)
 * [The best Linux laptops for consumers and developers](https://www.zdnet.com/article/best-linux-laptop/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Teamwork makes the dream work
 
@@ -58,6 +70,10 @@ She pointed out, for instance, how security is now top of mind during any develo
 
 "Security has become much more ingrained," Ro said. "I would say to all of our engineering teams it's the number-one priority for Atlassian. We've come to understand that it's not just the responsibility within a separate security department; it's everyone's responsibility, and so we do a lot to ensure we're constantly testing and trying to ship the best and secure products for our customers."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A seat at the table
 
 Ro believes software developers are no longer outliers within an organisation, but are increasingly playing more crucial roles. 
@@ -65,6 +81,10 @@ Ro believes software developers are no longer outliers within an organisation, b
 "Engineers now feel much more responsible for all parts of the development lifecycle, so they're not just writing code anymore," she said.
 
 "They really do have to follow all the way through to shipping and the operational side of things, and making sure that it is reliable, stable, and not just about writing and shipping the code, and so I definitely feel that that's been a huge change and shift."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Related Coverage
 
@@ -80,11 +100,26 @@ Ro believes software developers are no longer outliers within an organisation, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-digital-stretching-mastering-mobile-horizon-panos/"><u>[New] In 2024, Digital Stretching Mastering Mobile Horizon Panos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-secrets-to-acquiring-unblemished-image-libraries/"><u>2024 Approved Secrets to Acquiring Unblemished Image Libraries</u></a></li>
+<li><a href="https://driver-error.techidaily.com/controller-alert-ideport0-fault-detected/"><u>Controller Alert: Ideport0 Fault Detected</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-ogg-to-ogv-verzamelen-professioneel-online-konvertor-movavi/"><u>Gratis OGG-to-OGV Verzamelen: Professioneel Online Konvertor - Movavi</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/high-quality-webcam-capture-made-easy-review-for-2024/"><u>High-Quality WebCam Capture Made Easy Review for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-oppo-a1x-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo A1x 5G Unlock Without Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-video-trimming-and-editing-with-precision-learn-how-from-movavi/"><u>Mastering the Art of Video Trimming and Editing with Precision - Learn How From Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/moveavi-mp3-wav/"><u>Moveavi에서 제공하는 MP3, WAV 비용 없이 구문 변환 도구 - 원격 사용</u></a></li>
+<li><a href="https://facebook.techidaily.com/patterns-in-internet-account-compromises/"><u>Patterns in Internet Account Compromises</u></a></li>
+<li><a href="https://some-tips.techidaily.com/silent-screen-capture-solved-with-movavi-no-sound-issues/"><u>Silent Screen Capture Solved with Movavi - No Sound Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-evaluation-of-asuss-hdr-and-true-black-precision-for-2024/"><u>The Ultimate Evaluation of ASUS's HDR & True Black Precision for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-piu-ottimi-siti-web-per-scaricare-video-youtube-come-mp3-senza-costi/"><u>Top 7 Più Ottimi Siti Web per Scaricare Video YouTube Come MP3 Senza Costi</u></a></li>
+</ul></div>
+

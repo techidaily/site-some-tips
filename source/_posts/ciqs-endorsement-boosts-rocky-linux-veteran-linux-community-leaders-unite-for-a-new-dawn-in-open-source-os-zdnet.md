@@ -1,7 +1,7 @@
 ---
 title: CIQ's Endorsement Boosts Rocky Linux - Veteran Linux Community Leaders Unite for a New Dawn in Open Source OS | ZDNet
-date: 2024-09-18 15:50:50
-updated: 2024-09-20 12:26:59
+date: 2024-12-09T17:35:45.150Z
+updated: 2024-12-12T20:17:44.324Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,31 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-makeup-mavens-handbook-youtube-edition/"><u>[New] 2024 Approved The Makeup Maven’s Handbook YouTube Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-exclusive-photo-safekeeping-top-free-and-paid-cloud-storage-solutions/"><u>[New] In 2024, Exclusive Photo Safekeeping Top Free & Paid Cloud Storage Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-tutorial-purging-your-youtube-download-history/"><u>[Updated] In 2024, Tutorial Purging Your YouTube Download History</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-10-best-hexacopter-drones/"><u>2024 Approved Top 10 Best Hexacopter Drones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-generar-una-imagen-animada-gif-a-partir-de-un-video-en-internet-sin-coste/"><u>Cómo Generar Una Imagen Animada (GIF) a Partir De Un Video en Internet Sin Coste</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-gratuita-de-archivos-flac-a-aiff-con-eficiencia-movavi/"><u>Conversión Gratuita De Archivos FLAC a AIFF Con Eficiencia - Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-quick-gmail-keyboard-commands/"><u>Discover the Ultimate List of Quick Gmail Keyboard Commands</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/essential-techniques-for-sizing-up-your-instagram-video-reach-for-2024/"><u>Essential Techniques for Sizing Up Your Instagram Video Reach for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-analysis-of-the-superior-baseus-100w-battery-pack-unmatched-charging-strength-and-reliability/"><u>Expert Analysis of the Superior Baseus 100W Battery Pack: Unmatched Charging Strength & Reliability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-convertisseur-video-avi-en-ogv-par-movavi/"><u>Gratuit Online : Convertisseur Vidéo AVI en OGV Par Movavi</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-from-zero-to-timer-hero-3-essential-fcpx-steps/"><u>In 2024, From Zero to Timer Hero 3 Essential FCPX Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mov-to-mkv-transformation-hassle-free-online-and-at-zero-cost/"><u>MOV to MKV Transformation - Hassle-Free, Online and at Zero Cost!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-no-cost-toolkit-for-transforming-dts-audio-tracks-to-aac/"><u>Movavi's No-Cost Toolkit for Transforming DTS Audio Tracks to AAC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4-to-mpg-file-changer-downloadable-app-offers-fast-no-cost-upgrades-with-movavis-help/"><u>MP4 to MPG File Changer: Downloadable App Offers Fast, No-Cost Upgrades with Movavi's Help</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-tecnicas-para-combinar-duas-fotografias-com-fotoeditor-e-alternativas-em-2024/"><u>Top 5 Técnicas Para Combinar Duas Fotografias Com FotoEditor E Alternativas Em 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/windows-10-cloning-issue-resolved-post-clone-device-cannot-access-drivers/"><u>Windows 10 Cloning Issue Resolved - Post-Clone Device Cannot Access Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-flvogv-movavi/"><u>무료 Online FLV/OGV 변환 소프트웨어 - Movavi의 최신 방법을 배우세요!</u></a></li>
+</ul></div>
+

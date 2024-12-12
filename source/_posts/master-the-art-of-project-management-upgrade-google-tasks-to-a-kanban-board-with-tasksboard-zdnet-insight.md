@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Project Management: Upgrade Google Tasks to a Kanban Board with TasksBoard | ZDNet Insight"
-date: 2024-09-17 13:15:49
-updated: 2024-09-20 12:47:32
+date: 2024-12-06T18:01:40.313Z
+updated: 2024-12-12T18:09:01.427Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-camera-recommendations-for-starters-in-the-year-2024/"><u>[New] Camera Recommendations for Starters in the Year 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-how-to-synchronize-your-drone-and-its-gimbal-for-2024/"><u>[New] How to Synchronize Your Drone and Its Gimbal for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-comprehensive-analysis-dji-inspire-1-unveiled/"><u>[New] In 2024, Comprehensive Analysis DJI Inspire 1 Unveiled</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-best-voice-altering-software-for-your-virtual-persona/"><u>[Updated] 2024 Approved The Best Voice-Altering Software for Your Virtual Persona</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-visualize-verve-vocalize-laughter-kapwings-toolkit/"><u>[Updated] 2024 Approved Visualize Verve, Vocalize Laughter - Kapwing's Toolkit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-compact-cinematic-story-guide/"><u>[Updated] Compact Cinematic Story Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-step-by-step-guide-to-3d-text-effects-in-photos/"><u>2024 Approved Step-by-Step Guide to 3D Text Effects in PHOTOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-renouvele-son-image-visuelle-et-logo/"><u>ABBYY Renouvele Son Image Visuelle Et Logo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-conversion-tracking-with-cookiebot-technology/"><u>Automated Conversion Tracking with Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-online-presence-the-revolutionary-power-of-cookiebot-integration/"><u>Boost Your Online Presence: The Revolutionary Power of Cookiebot Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-site-analytics-enhancing-user-experience/"><u>Cookiebot-Driven Site Analytics: Enhancing User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-site-optimization-boost-your-seo-success/"><u>Cookiebot-Driven Site Optimization: Boost Your SEO Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-user-experience-enhancing-website-personalization-and-marketing/"><u>Cookiebot-Enabled User Experience: Enhancing Website Personalization and Marketing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-optimize-your-site-with-advanced-analytics-tools/"><u>Cookiebot-Enabled: Optimize Your Site with Advanced Analytics Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enthralling-readers-with-these-stellar-5-book-promo-videos-for-2024/"><u>Enthralling Readers with These Stellar 5 Book Promo Videos for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ngenious-quizzes-to-pinpoint-your-perfect-youtube-persona-for-2024/"><u>Six Ingenious Quizzes to Pinpoint Your Perfect YouTube Persona for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-endless-possibilities-the-future-of-document-capture-solutions-insights-from-abbyy/"><u>Unleashing Endless Possibilities: The Future of Document Capture Solutions - Insights From ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/web-page-essentials-unlocking-effective-strategies-for-search-engines/"><u>Web Page Essentials: Unlocking Effective Strategies for Search Engines</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-se-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone SE? How to Fix</u></a></li>
+</ul></div>
+

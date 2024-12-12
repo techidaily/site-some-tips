@@ -1,7 +1,7 @@
 ---
 title: Pentagon Awards Massive Cloud Infrastructure Deal to AWS, Google, Oracle, and Microsoft – Exclusive Breakdown by ZDNet
-date: 2024-09-18 14:21:14
-updated: 2024-09-20 12:53:23
+date: 2024-12-09T16:14:48.618Z
+updated: 2024-12-12T16:10:29.341Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: Getty Images / iStockphoto
 After canceling its $10bn JEDI contract with Microsoft last year, the Pentagon has now awarded a new $9bn contract to four tech giants that will build its [cloud-computing network](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/).
 
 The contract, formerly named JEDI but now called the Joint Warfighting Cloud Capability (JWCC), has been awarded to Amazon Web Services, Google Support Services, Microsoft, and Oracle. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -63,11 +67,28 @@ Ken Glueck, Executive Vice President at Oracle, said: "Oracle looks forward to c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-ultimate-list-of-top-hashtag-tracker-tools-fb-twitter-insta/"><u>[Updated] 2024 Approved Ultimate List of Top Hashtag Tracker Tools (FB, Twitter, Insta)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-influencers-insight-quick-pathways-to-instagram-fame-with-our-ultimate-list-of-15-tips/"><u>[Updated] In 2024, Influencer's Insight Quick Pathways to Instagram Fame with Our Ultimate List of 15 Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-free-online-conversion-transforming-ogm-files-to-avi-format-with-ease/"><u>1. Free Online Conversion: Transforming OGM Files to AVI Format with Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-s17-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo S17 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boost-your-channel-top-14-gaming-vids-for-youtube-success-for-2024/"><u>Boost Your Channel Top 14 Gaming Vids for YouTube Success for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-sans-frais-transformer-des-fichiers-wtv-en-mp4-via-internet-logiciel-video-movavi/"><u>Conversion Sans Frais: Transformer Des Fichiers WTV en MP4 via Internet - Logiciel Vidéo Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-redmi-12-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi Redmi 12 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/free-limit-breakers-for-every-story-lover-for-2024/"><u>Free Limit Breakers for Every Story Lover for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-asus-rog-phone-7-ultimate-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Asus ROG Phone 7 Ultimate To Phone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-7-melhores-programas-de-captura-de-tela-em-windows-nativo-opcoes-livres-e-faceis-de-utilizar/"><u>Os 7 Melhores Programas De Captura De Tela Em Windows Nativo: Opções Livres E Fáceis De Utilizar</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/playful-prodigies-the-ultimate-kids-game-compilation-for-2024/"><u>Playful Prodigies The Ultimate Kids' Game Compilation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/scambia-tiff-con-png-senza-costi-trasforma-file-gratuitamente-con-movavi/"><u>Scambia TIFF Con PNG Senza Costi - Trasforma File Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pngjpg-movavi/"><u>オンラインで手軽にPNGからJPGへ変換! Movaviの無料ダウンロード可能</u></a></li>
+</ul></div>
+

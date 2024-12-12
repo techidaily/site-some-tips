@@ -1,7 +1,7 @@
 ---
 title: "Businesses in Singapore Battling Rising Threats of Ransomware & Phishing: Insights From ZDNet"
-date: 2024-09-18 13:45:45
-updated: 2024-09-20 11:16:16
+date: 2024-12-09T18:15:46.175Z
+updated: 2024-12-12T18:35:03.300Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ CSA did note that the spike in reported cases also could be attributed to its co
 
 The cybersecurity regulator said while the number of reported ransomware incidents dipped slightly to 132, compared to 137 in 2021, such attacks remained a significant issue in Singapore and worldwide. It pointed to reports from security vendors indicating a 13% climb in ransomware incidents globally last year. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMBs remain hot ransomware targets
 
 Furthermore, figures were unlikely to reflect the full extent of such threats since [not every victim would report an attack](https://www.zdnet.com/article/ransomware-not-enough-victims-are-reporting-attacks-and-that-increases-the-threat-for-everyone/). Citing estimates from the FBI, CSA said just 20% of ransomware victims in the US sought the help of law enforcement. 
@@ -64,6 +68,10 @@ Some 81,500 [infrastructure systems](https://www.zdnet.com/article/singapore-wan
 CSA cautioned, though, that the absolute number of infected systems in the country remains high as it is a data and digital infrastructure hub. "Maintaining good cyber hygiene is crucial as users continue to connect more smart devices to the internet," the regulator said, noting that the average number of connected devices in Singapore households increased to 7 in 2021, up from 6.5 the year before. 
 
 Cobalt Strike was the leading malware family infecting locally hosted C&C (Command and Control) servers, followed by Emotet and Guloader. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Anticipated threats as AI takes form
 
@@ -111,11 +119,29 @@ Singapore also has laid out a years-long roadmap it believes will ensure its dig
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-single-platform-livestreaming-unveiling-onestream-techniques/"><u>[New] 2024 Approved Mastering Single-Platform Livestreaming Unveiling OneStream Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-insights-crafting-videos-via-google-trends/"><u>[New] Unlocking Insights Crafting Videos via Google Trends</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-unraveling-successs-secrets-how-to-amass-more-subscribers-on-youtube/"><u>[New] Unraveling Success's Secrets How to Amass More Subscribers on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-best-background-erase-software/"><u>[Updated] 2024 Approved Top Best Background Erase Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-fast-tracking-fb-content-efficiency-strategies-explored-for-2024/"><u>[Updated] Fast-Tracking FB Content Efficiency Strategies Explored for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unmasking-instagrams-unnoticed-capabilities/"><u>[Updated] In 2024, Unmasking Instagram’s Unnoticed Capabilities</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-find-n3-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo Find N3?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-swf-animations-to-gif-format-at-no-cost-using-an-online-tool-movavis-solution/"><u>Convert SWF Animations to GIF Format at No Cost Using an Online Tool: Movavi's Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertir-archivo-swf-a-formato-de-video-mpeg-online-sin-coste/"><u>Convertir Archivo SWF a Formato De Video MPEG Online Sin Coste</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-avi-files-naar-wma-omzetten-korting-movavi/"><u>Gratuit Online AVI-Files Naar WMA Omzetten - Korting Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-image-distortion-made-easy/"><u>In 2024, Image Distortion Made Easy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-product-distribution-and-returns-policy-comprehensive-guide/"><u>Movavi Product Distribution & Returns Policy - Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-fraktoppsett-og-tilbakevendende-vilje-mastering-your-pension-rights/"><u>Movavis Fraktoppsett Og Tilbakevendende Vilje - Mastering Your Pension Rights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-gratuite-jpg-to-tiff-conversie-met-movavi-beste-praktiken-ervaren/"><u>Online Gratuite JPG-to-TIFF-Conversie Met Movavi - Beste Praktiken Ervaren!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/passaggio-rapido-e-gratuito-da-webm-a-mp4-il-processo-di-conversione-facile-con-onlineconvmp4/"><u>Passaggio Rapido E Gratuito Da WebM a MP4: Il Processo Di Conversione Facile Con OnlineConvMP4</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How the Department of Justice's Lawsuit Against Apple Affects iPhone Consumers & Third-Party Developers | Innovation Hub
-date: 2024-12-03T16:10:07.101Z
-updated: 2024-12-06T17:02:20.715Z
+date: 2024-12-06T16:53:03.825Z
+updated: 2024-12-12T17:47:59.861Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -50,7 +50,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -68,11 +68,19 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -128,10 +136,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -147,7 +151,7 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -165,10 +169,6 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,24 +204,17 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-enhance-pc-sound-experience-with-these-5-recording-techniques-on-windows-11/"><u>[New] In 2024, Enhance PC Sound Experience with These 5 Recording Techniques on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-navigating-noise-sensational-success-in-telegram-marketing/"><u>[New] Navigating Noise Sensational Success in Telegram Marketing</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-guide-to-finding-free-video-subtitles/"><u>[New] Ultimate Guide to Finding Free Video Subtitles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-elite-list-10-best-cases-for-your-gopro/"><u>[Updated] The Elite List 10 Best Cases for Your GoPro</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unleash-clean-visuals-step-by-step-guide-to-backdrop-erasure/"><u>[Updated] Unleash Clean Visuals Step-By-Step Guide to Backdrop Erasure</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-steadicams-for-drone-shooting-precision/"><u>2024 Approved Superior Steadicams for Drone Shooting Precision</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-that-frozen-trackpad-effective-techniques-to-restore-laptop-functionality/"><u>Fix That Frozen Trackpad: Effective Techniques to Restore Laptop Functionality</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-itunes-radio-downloading-blueprint/"><u>In 2024, The Complete iTunes Radio Downloading Blueprint</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>In 2024, Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-xiaomi-mix-fold-3-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Xiaomi Mix Fold 3 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-iphone-capabilities-crafting-and-transforming-slow-videos/"><u>In 2024, Unlocking iPhone Capabilities Crafting & Transforming Slow Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-auditory-identity-crafting-your-own-ringtones-and-sounds-for-android-for-2024/"><u>The Art of Auditory Identity Crafting Your Own Ringtones & Sounds for Android for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-secret-laptop-enhancer-that-transforms-performance-as-revealed-on-zdnet/"><u>The Secret Laptop Enhancer That Transforms Performance, as Revealed on ZDNet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-5-online-film-editors-for-2024/"><u>Top 5 Online Film Editors for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-and-repair-an-unresponsive-iphone-home-button-in-minutes/"><u>Troubleshoot and Repair an Unresponsive iPhone Home Button in Minutes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-gopro-max-or-hero-11-in-2024/"><u>Ultimate Guide to GoPro Max or Hero 11, In 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-potential-with-hero5-black-perfecting-cinematography-skills-for-2024/"><u>Unleash Potential with Hero5 Black Perfecting Cinematography Skills for 2024</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-s23-fe-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>[New] Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-elevating-the-art-of-unboxing-adventure/"><u>[Updated] In 2024, Elevating the Art of Unboxing Adventure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategizing-visibility-for-podcasts-through-design/"><u>[Updated] Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streamlining-the-demo-process-in-adobe-captivate-for-2024/"><u>[Updated] Streamlining the Demo Process in Adobe Captivate for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/geminis-1m-milestone-a-new-era-for-tokens-and-market/"><u>Gemini’s $1M Milestone - A New Era for Tokens and Market</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-xiaomi-redmi-k70-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Xiaomi Redmi K70 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-a14-4g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-gionee-f3-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Gionee F3 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-dissecting-the-functionality-of-burst-in-gopro-filming/"><u>In 2024, Dissecting the Functionality of Burst in GoPro Filming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-narratives-yt-channels-worth-watching-in-23/"><u>In 2024, Unparalleled Narratives YT Channels Worth Watching in '23</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-key-to-accumulating-a-huge-collection-of-tiktok-videos-for-2024/"><u>The Key to Accumulating a Huge Collection of TikTok Videos for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-tech-problems-when-launching-tekken-8-on-your-desktop/"><u>Troubleshooting Steps: Resolving Tech Problems When Launching Tekken 8 on Your Desktop</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Simplified Path to AI with Amazon Web Services: Get Started for Zero Cost Using SageMaker Studio Lab | ZDNET"
-date: 2024-09-17 19:43:10
-updated: 2024-09-20 10:15:13
+date: 2024-12-10T17:44:11.621Z
+updated: 2024-12-12T19:15:38.879Z
 tags:
   - cloud
 categories:
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
 Amazon Web Services on Wednesday unveiled SageMaker Studio Lab, a free version of Amazon SageMaker -- the AWS service that helps customers build, train and deploy machine learning models. Designed for machine learning novices, users can try SageMaker Studio Lab without an AWS account, credit card or any cloud configuration knowledge. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### special feature
 
 [![sf-aiml2-thumb.jpg](https://www.zdnet.com/a/img/resize/8e87b92d34389703558e4bbfba61afa3e05f3221/2019/03/27/6cefbef0-81a0-4c23-b2d1-b8d90d815b3e/sf-aiml2-thumb.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) Managing AI and ML in the Enterprise The AI and ML deployments are well underway, but for CXOs the biggest issue will be managing these initiatives, and figuring out where the data science team fits in and what algorithms to buy versus build.  Read now](https://www.zdnet.com/topic/managing-ai-and-ml-in-the-enterprise/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Studio Lab is currently available in public preview.
 
@@ -64,11 +72,23 @@ As many as 2,000 qualifying students will win a scholarship for the AI Programmi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-power-of-persuasion-exploring-6-video-genres/"><u>2024 Approved The Power of Persuasion Exploring 6 Video Genres</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-visionaries-inventing-new-marvel-worlds/"><u>2024 Approved Visionaries Inventing New Marvel Worlds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/create-the-ultimate-music-library-a-guide-to-effectively-combining-your-spotify-playlists/"><u>Create the Ultimate Music Library: A Guide to Effectively Combining Your Spotify Playlists</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-turn-your-smartphone-into-a-virtual-reality-vr-headset-for-2024/"><u>How to Turn Your Smartphone Into a Virtual Reality (VR) Headset for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-impact-of-luts-on-professional-photography/"><u>In 2024, The Impact of LUTs on Professional Photography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-immersive-virtual-reality-adventures-on-oculus/"><u>In 2024, Top 8 Immersive Virtual Reality Adventures on Oculus</u></a></li>
+<li><a href="https://extra-information.techidaily.com/initiating-voice-transformations-with-minimal-effort-in-pubg/"><u>Initiating Voice Transformations with Minimal Effort in PUBG</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-testing-the-capabilities-of-western-digitals-new-mainstream-giant-the-4tb-wd-blue-sn5000-ssd/"><u>Inside Look: Testing the Capabilities of Western Digital's New Mainstream Giant – The 4TB WD Blue SN5000 SSD</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-key-to-infinite-entertainment-master-youtube-video-loops/"><u>The Key to Infinite Entertainment Master Youtube Video Loops</u></a></li>
+</ul></div>
+

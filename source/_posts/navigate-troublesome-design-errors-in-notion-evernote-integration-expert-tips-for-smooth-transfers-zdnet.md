@@ -1,7 +1,7 @@
 ---
 title: Navigate Troublesome Design Errors in Notion Evernote Integration - Expert Tips for Smooth Transfers | ZDNET
-date: 2024-09-19 17:52:47
-updated: 2024-09-20 10:31:20
+date: 2024-12-08T19:18:05.058Z
+updated: 2024-12-12T16:30:50.511Z
 tags:
   - cloud
 categories:
@@ -19,6 +19,10 @@ I started writing my blog posts for ZDNET in Evernote back in 2012\. With a few 
 
 I quite like [Evernote](https://evernote.com/) and pay for a professional plan. One of the key benefits of Evernote was (note the past tense) that I could sync between computers. I usually write my articles on my MacBook Air. Once the article is done, my wife (who has years of experience as a managing editor) does an editing pass with me from the couch, using a Mac mini that is connected to a big screen in our family room. I then submit the edited article to ZDNET's editors for review. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Sync failures 
 
 But then Evernote's sync started to regularly fail. Sometimes it wouldn't sync at all. Sometimes, the edited version would be reported as a conflict, and Evernote would create two copies of the article. 
@@ -30,6 +34,10 @@ I reached out to [Evernote's support team](https://help.evernote.com/hc/en-us/re
 Not encouraging, that. Then, when Evernote decided to create three separate copies of an article, I realized it was time to find a different solution. 
 
 This kind of thing gets old after awhile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The need to import Evernote notes 
 
@@ -44,6 +52,10 @@ A whole bunch of programs import Evernote, including Apple Notes, [Obsidian](htt
 **Review:** [**Notion app: Why (and how) I rely on this powerful productivity tool**](https://www.zdnet.com/article/notion-app-review/)
 
 This did not go smoothly. Part of it was Evernote's fault. Part of it was Notion's fault. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Notion conundrum 
 
@@ -69,6 +81,10 @@ It's here we start going down the rabbit hole. It starts with the problem of spl
 
 But, as we've established, Evernote has sync reliability issues. So the idea of flinging thousands of mission-critical notes around and hoping they sync properly and don't break was a deal-breaker. But that's the only way Notion can get notes out of Evernote. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How I eventually solved the problem 
 
 Let's recap. 
@@ -90,6 +106,10 @@ Once I verified all seven parts were properly in the cloud, I went back into Not
 On each of those occasions, there was a note with graphics in it, and it was that note that killed the import. Depending on how important the note was for my records or work, I either deleted the full failing note, or removed the graphics from the failing note. In any case, after dealing with the failing notes, I was able to complete the imports into Notion. 
 
 I followed the same process with my Blogs-in-Progress notebook, but because there were fewer notes, it went faster. All told, it took about six hours of tweaking, fiddling, and waiting for syncs to complete to move the data from Evernote to Notion, but it did, eventually, work. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Some obvious conclusions 
 
@@ -130,11 +150,29 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-giggle-gallery-exploring-the-best-15-hilarious-video-picks-for-2024/"><u>[New] Giggle Gallery Exploring the Best 15 Hilarious Video Picks for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-how-to-record-mov-files-on-windows-11/"><u>[Updated] 2024 Approved How to Record MOV Files on Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mp3ify-your-fb-videos-directly/"><u>[Updated] 2024 Approved MP3ify Your FB Videos Directly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-ai-debate-is-gemini-the-better-choice-over-chatgpt-plus/"><u>Advanced AI Debate: Is Gemini the Better Choice Over ChatGPT Plus?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-upload-your-music-to-youtube/"><u>How to Upload Your Music to YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-stream-controls-netflix-edition/"><u>Mastering the Art of Stream Controls - Netflix Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/may-22-todays-new-york-times-insightful-clues-and-solutions-connecting-the-dots-with-346/"><u>May 22: Today's New York Times Insightful Clues & Solutions - Connecting the Dots with #346</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-10-best-free-websites-to-watch-cartoons-online/"><u>New In 2024, 10 Best Free Websites to Watch Cartoons Online</u></a></li>
+<li><a href="https://fox-within.techidaily.com/recupera-rapidamente-tus-archivos-perdidos-guia-paso-a-paso-para-sistemas-operativos-windows-10-y-11/"><u>Recupera Rápidamente Tus Archivos Perdidos: Guía Paso a Paso Para Sistemas Operativos Windows 10 Y 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rediscover-childhood-memories-with-our-powerful-online-browser-simulator/"><u>Rediscover Childhood Memories with Our Powerful Online Browser Simulator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shielding-your-information-from-unavoidable-security-incidents/"><u>Shielding Your Information From Unavoidable Security Incidents</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplify-writing-emails-using-protonmails-smart-composing-feature/"><u>Simplify Writing Emails Using ProtonMail's Smart Composing Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-retrieve-your-lost-instagram-login-credentials/"><u>Step-by-Step Guide: Retrieve Your Lost Instagram Login Credentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-secrets-of-august-9s-nyt-puzzle-connect-and-answer-challenge-424/"><u>Unlock the Secrets of August 9'S NYT Puzzle - Connect & Answer Challenge #424</u></a></li>
+<li><a href="https://some-tips.techidaily.com/urgent-update-required-secure-your-system-from-google-chromes-latest-exploit/"><u>Urgent Update Required: Secure Your System From Google Chrome's Latest Exploit</u></a></li>
+</ul></div>
+

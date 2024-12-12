@@ -1,7 +1,7 @@
 ---
 title: Microsoft Expands Into IoT as Google Retreats From Service Market - Insights | ZDNet
-date: 2024-09-17 21:39:49
-updated: 2024-09-20 12:52:47
+date: 2024-12-05T16:05:42.945Z
+updated: 2024-12-12T19:10:00.763Z
 tags:
   - cloud
 categories:
@@ -62,11 +62,31 @@ I'm thinking we'll hear more about Microsoft's updated IoT and edge-computing vi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/a-printers-victory-over-the-white-paper-plague/"><u>A Printer's Victory Over the White Paper Plague</u></a></li>
+<li><a href="https://some-tips.techidaily.com/costains-abteilungsstrategie-fur-digitale-transformationen-die-rolle-von-abbyy-technologien-in-der-finanzverwaltung/"><u>Costain's Abteilungsstrategie Für Digitale Transformationen – Die Rolle Von ABBYY-Technologien in Der Finanzverwaltung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/digitale-transformation-zum-profitieren-vom-unternehmensarchiv-zur-effizienten-dokumentverwaltung/"><u>Digitale Transformation Zum Profitieren! Vom Unternehmensarchiv Zur Effizienten Dokumentverwaltung.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/e-book-techniques-pour-detruire-les-obstacles-a-la-registration-clientelle-mobile/"><u>E-Book: Techniques Pour Détruire Les Obstacles À La Régistration Clientelle Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-user-experience-through-advanced-tracking-technology-like-cookiebot/"><u>Enhance User Experience Through Advanced Tracking Technology Like Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-site-with-automated-visitor-tracking-the-secrets-in-the-bots/"><u>Enhance Your Site with Automated Visitor Tracking - The Secret's in the Bots!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-user-engagement-with-advanced-cookiebot-technology/"><u>Enhanced User Engagement with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-pixel-8-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Google Pixel 8 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-nintendo-switch-online-disruptions-a-widespread-problem-or-individual-concerns/"><u>Understanding Nintendo Switch Online Disruptions – A Widespread Problem or Individual Concerns?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-s18-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo S18 Device</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unseen-pathways-to-friend-finder-excellence/"><u>Unseen Pathways to Friend Finder Excellence</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-10-face-blurring-tools-for-photos-and-videos-a-beginners-guide-for-2024/"><u>Updated Top 10 Face Blurring Tools for Photos and Videos A Beginners Guide for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

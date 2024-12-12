@@ -1,7 +1,7 @@
 ---
 title: "Meet the Tiny Tech Beast: How the Latest Mac Mini Packs a Powerful M4 Punch in a Small Form Factor"
-date: 2024-12-05T18:17:26.750Z
-updated: 2024-12-06T17:45:43.550Z
+date: 2024-12-05T18:08:06.590Z
+updated: 2024-12-12T19:25:30.471Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,22 +146,17 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-minds-on-fire-best-gk-quiz-videos-online/"><u>[New] In 2024, Minds on Fire Best GK Quiz Videos Online</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-streamline-your-storage-with-these-30-great-android-video-compressors-for-2024/"><u>[New] Streamline Your Storage with These 30 Great Android Video Compressors for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-techniques-for-ensuring-unbiased-decision-making/"><u>[New] Techniques For Ensuring Unbiased Decision-Making</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieving-professional-level-youtube-streams-using-wirecast/"><u>[Updated] 2024 Approved Achieving Professional-Level Youtube Streams Using WireCast</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamlined-processes-for-exporting-video-assets-as-mp3-on-pinterest/"><u>[Updated] Streamlined Processes for Exporting Video Assets as MP3 on Pinterest</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-triple-tier-phones-the-best-choice-for-high-quality-videos/"><u>[Updated] Triple-Tier Phones The Best Choice for High-Quality Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-high-definition-slow-mo-cams/"><u>[Updated] Ultimate High Definition Slow-Mo Cams</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-momentum-at-rest-best-idle-pc-games/"><u>2024 Approved Momentum at Rest Best Idle PC Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-at-memes-app-version/"><u>2024 Approved The Best at Memes (App Version)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-legally-sharing-tunes-on-instagram/"><u>2024 Approved The Ultimate Guide to Legally Sharing Tunes on Instagram</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ng-edge-techniques-for-youtube-video-production-with-sony-vegas/"><u>Cutting-Edge Techniques for YouTube Video Production with Sony Vegas</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-infinix-smart-8-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Infinix Smart 8 Pro to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-cheat-sheet-for-first-time-final-cut-users/"><u>In 2024, The Essential Cheat Sheet for First Time Final Cut Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-practices-to-personalize-snapchat-video-playback/"><u>In 2024, Top Practices to Personalize Snapchat Video Playback</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/memorize-mastery-galaxy-phone-gameplay-archive/"><u>Memorize Mastery Galaxy Phone Gameplay Archive</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-mi-drone-4k-review-drones-vs-landscape-photography-for-2024/"><u>The Mi Drone 4K Review Drones vs Landscape Photography for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-with-league-of-legends-heres-how-to-fix-your-online-connection-woes/"><u>Trouble with League of Legends? Here's How to Fix Your Online Connection Woes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-amplifying-audio-and-visual-quality-in-your-youtube-videos/"><u>[New] 2024 Approved Amplifying Audio and Visual Quality in Your YouTube Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-in-the-virtual-world-your-step-by-step-meme-guide/"><u>[New] Crafting in the Virtual World Your Step-by-Step Meme Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-zero-to-hero-profit-on-reddit-with-no-experience-top-13/"><u>[New] From Zero to Hero Profit on Reddit with No Experience (Top 13)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-checking-credentials-on-youtube/"><u>[New] In 2024, Checking Credentials on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-digital-pioneers-exploring-the-six-surging-in-nft-arts/"><u>[Updated] In 2024, Digital Pioneers Exploring the Six Surging in NFT Arts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unseen-youtube-videos-the-meaning-of-unlisted-status/"><u>[Updated] Unseen YouTube Videos The Meaning of 'Unlisted' Status</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-color-theory-and-how-to-use-it/"><u>2024 Approved Color Theory And How To Use It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/critical-layer-error-windows-c-runtime-missing/"><u>Critical Layer Error: Windows C Runtime Missing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-workplace-data-cloud-hubs/"><u>In 2024, Superior Workplace Data Cloud Hubs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-supplements-for-superior-gopro-performance-for-2024/"><u>Superior Supplements for Superior Gopro Performance for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-windows-8-podcast-apps-overview-for-2024/"><u>Superior Windows 8 Podcast Apps Overview for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-display-decoded-benqs-bl2711u-and-its-professional-impact-for-2024/"><u>The Ultimate Display Decoded BenQ’s BL2711U and Its Professional Impact for 2024</u></a></li>
 </ul></div>
 

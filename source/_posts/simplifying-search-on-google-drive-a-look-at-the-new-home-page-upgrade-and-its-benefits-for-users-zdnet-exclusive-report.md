@@ -1,7 +1,7 @@
 ---
 title: "Simplifying Search on Google Drive: A Look at the New 'Home' Page Upgrade and Its Benefits for Users | ZDNet Exclusive Report"
-date: 2024-09-19 19:26:11
-updated: 2024-09-20 12:30:51
+date: 2024-12-10T16:27:06.410Z
+updated: 2024-12-12T16:34:42.726Z
 tags:
   - cloud
 categories:
@@ -43,9 +43,17 @@ Maybe in time.
 
 Until then, let me show you around the new Home option in Google Drive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Google Drive Home
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser with which to view Drive. Let's go home, shall we?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open Google Drive
 
@@ -55,6 +63,10 @@ The new Google Drive home page makes it easier to find what you need.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Choose what you want to see
 
 Say, for instance, you only want to view your folders. For that, click Folders and what you should see are the folders you access the most. This is a great option because my Drive account is packed with folders I haven't used in a long time but need to keep around (either for reference or "just in case"). For instance, by default, I see 76 folders in the root folder of my Drive account. If I go to Home and click Folders, I see only 10\. I can also click Show More Folders and Home will then allow me to modify what I see (such as by modification, people, or location).
@@ -63,6 +75,10 @@ After clicking Folders, I have quick access to my most-used folders.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. The To do option
 
 One interesting option in Home is To do. This option is only revealed if you click Folders > Show More Folders. Click the To do drop-down and you can then select from Pending my approval, Requested by me, Suggestions, Comments assigned to me, and Review and accept. Interestingly enough, although the To do drop-down only appears in folders, when you select an option, it applies to both folders _and_ files. This is a great way to see all files that include changes awaiting your attention.
@@ -70,6 +86,10 @@ One interesting option in Home is To do. This option is only revealed if you cli
 The To-do drop-down gives you quick access to files and folders that need your attention.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Opt out of Home
 
@@ -104,11 +124,27 @@ When I first saw the new Home default, I was certain I'd be opting out of it and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/fixed-your-cpu-does-not-meet-the-minimum-specification-for-running-vanguard/"><u>[Fixed] Your CPU Does Not Meet the Minimum Specification for Running Vanguard</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-professional-academic-recording-a-trio-of-methods-for-students-with-apple-devices/"><u>[New] 2024 Approved Professional Academic Recording A Trio of Methods for Students with Apple Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-exploring-the-updated-windows-11-interface/"><u>[Updated] 2024 Approved Exploring the Updated Windows 11 Interface</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-rapid-revision-windows-protocol-uncovered/"><u>[Updated] 2024 Approved Rapid Revision Windows Protocol Uncovered</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-symphony-in-softness-playback-reduction-guide/"><u>[Updated] 2024 Approved Symphony in Softness Playback Reduction Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-craft-a-masterpiece-techniques-for-engaging-viral-tiktok-unpacks/"><u>2024 Approved Craft a Masterpiece Techniques for Engaging, Viral TikTok Unpacks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-new-world-connection-error-with-these-proven-strategies/"><u>Beat the 'New World Connection Error' With These Proven Strategies</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-updating-your-sony-vaios-windows-drivers/"><u>Comprehensive Tutorial: Updating Your Sony Vaio's Windows Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-avi-a-m2ts-gratuit-une-solution-simple-et-efficace-avec-convertim2ts-online/"><u>Conversion AVI À M2TS Gratuit - Une Solution Simple Et Efficace Avec ConvertiM2Ts Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guida-esclusiva-alla-sovraimpressione-di-due-video-tutto-quello-che-devi-sapere-nel-2024/"><u>Guida Esclusiva Alla Sovraimpressione Di Due Video: Tutto Quello Che Devi Sapere Nel 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/obs-security-overview-how-to-ensure-privacy-while-using-online-screen-recorder-movievi/"><u>OBS Security Overview: How to Ensure Privacy While Using Online Screen Recorder | Movievi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-14-most-effective-slideshow-creators-for-windows-11-premium-presentation-tools-of-2024/"><u>Top 14 Most Effective Slideshow Creators for Windows 11 - Premium Presentation Tools of 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/your-gateway-to-great-creation-win-11s-best-sketchers/"><u>Your Gateway to Great Creation: Win 11'S Best Sketchers</u></a></li>
+</ul></div>
+

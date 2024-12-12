@@ -1,7 +1,7 @@
 ---
 title: Navigate the Cloud Market Surge with Strategic Deal-Making Tactics | TechInsights
-date: 2024-09-17 23:23:28
-updated: 2024-09-20 11:32:52
+date: 2024-12-11T16:10:26.520Z
+updated: 2024-12-12T20:22:59.274Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Photo: Joe McKendrick
 Last month, it was [disclosed](https://www.nextgov.com/emerging-tech/2022/04/nsa-re-awards-secret-10-billion-contract-amazon/366184/) that the National Security Agency re-awarded a massive and hotly contested cloud computing contract worth up to $10 billion to Amazon Web Services. 
 
 One can assume a large government agency procuring $10 billion of cloud services has quite a bit of leverage over the terms of the agreement. However, for mainstream companies, the opposite may be true -- the cloud provider holds many of the cards, in a legal or contractual sense, with terms that may come back to bite the consumer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -59,11 +63,31 @@ Cloud engagements are now the lifeblood of forward-looking enterprises seeking t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-download-facebook-audio-mp3s/"><u>[New] 2024 Approved Download Facebook Audio MP3s</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/levate-your-youtube-traffic-best-hash-tactics-explained/"><u>[New] Elevate Your YouTube Traffic Best Hash Tactics Explained</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-expand-your-reach-top-tactics-to-amplify-fb-clout/"><u>[New] In 2024, Expand Your Reach Top Tactics to Amplify FB Clout</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>[Updated] Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-chatbot-realities-revealed-uncovering-and-busting-9-common-myths/"><u>AI Chatbot Realities Revealed: Uncovering and Busting 9 Common Myths</u></a></li>
+<li><a href="https://some-tips.techidaily.com/easily-adjust-apples-settings-guide-to-disabling-natural-mouse-scrolling-on-macos/"><u>Easily Adjust Apple's Settings: Guide to Disabling Natural Mouse Scrolling on macOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effective-solutions-for-diagnosing-and-correcting-dpc-watchdog-errors-in-windows-10/"><u>Effective Solutions for Diagnosing and Correcting DPC Watchdog Errors in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficient-file-removal-techniques-with-windows-powershell-commands/"><u>Efficient File Removal Techniques with Windows PowerShell Commands</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-8-tips-for-dust-free-spotless-macbook-care-that-guarantees-no-damage-to-your-device/"><u>Essential 8 Tips for Dust-Free, Spotless MacBook Care That Guarantees No Damage to Your Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exciting-new-enhancements-coming-soon-microsoft-improves-snipping-tool-and-paint-on-windows-11/"><u>Exciting New Enhancements Coming Soon: Microsoft Improves Snipping Tool & Paint on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-cinema-at-your-fingertps-top-11-recommended-downloading-sites-for-films/"><u>Free Cinema at Your Fingertps: Top 11 Recommended Downloading Sites for Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-to-turning-off-windows-11s-built-in-security-microsoft-defender-explained/"><u>Guide to Turning Off Windows 11'S Built-In Security: Microsoft Defender Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-the-new-run0-feature-phasing-out-sudo-in-the-linux-world/"><u>Is the New Run0 Feature Phasing Out Sudo in the Linux World?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/latest-news-roundup-changes-to-netflix-subscription-options-and-improved-solutions-for-iphone-repairs/"><u>Latest News Roundup: Changes to Netflix Subscription Options & Improved Solutions for iPhone Repairs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/theodore-standing-desk-by-flexispot-a-sophisticated-addition-to-your-office-space/"><u>Theodore Standing Desk by Flexispot - A Sophisticated Addition to Your Office Space</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-budget-laptops-for-july-2024-exclusive-offers/"><u>Top-Rated Budget Laptops for July 2024 - Exclusive Offers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-new-possibilities-how-apples-latest-innovations-enable-eye-gaze-control-on-ios-transforming-user-experience-with-advanced-accessibility-options-zd157/"><u>Unlocking New Possibilities: How Apple's Latest Innovations Enable Eye Gaze Control on iOS, Transforming User Experience with Advanced Accessibility Options | ZDNET</u></a></li>
+</ul></div>
+

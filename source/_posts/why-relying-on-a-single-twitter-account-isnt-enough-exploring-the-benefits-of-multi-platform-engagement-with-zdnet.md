@@ -1,7 +1,7 @@
 ---
 title: "Why Relying on a Single Twitter Account Isn't Enough: Exploring the Benefits of Multi-Platform Engagement with ZDNet"
-date: 2024-09-18 22:21:35
-updated: 2024-09-20 12:43:41
+date: 2024-12-10T18:09:30.268Z
+updated: 2024-12-12T16:44:47.607Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4f70e3d531e042394d8511ca88c9ecd662d4633e7
 So I'm not going to take the "[Let's all quit Twitter](https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Let's%20all%20quit%20Twitter%22%7D)" viewpoint, or "[Elon Musk should be prohibited from buying Twitter](https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Elon%20Musk%20should%20be%20prohibited%20from%20buying%20Twitter%22%7D)" standpoint, or even the "[Twitter is going to hell in a neoconservative handbasket](https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Twitter%20is%20going%20to%20hell%20in%20a%20neoconservative%20handbasket%22%7D)" perspective. 
 
 But we should examine why we care about Twitter at all. It serves an important function, as an instantaneous publicly viewable broadcast message bus, for individuals, brands, governments, and everything in-between. But it also has many weaknesses, including that it is not a public good -- it is a corporation, and if Elon Musk gets his way, it will be again a privately owned one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Twitter
 
@@ -87,11 +91,30 @@ The time is now. Let's build a better internet together.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-dive-deep-into-the-world-of-text-animation-top-14-samples/"><u>[New] Dive Deep Into the World of Text Animation Top 14 Samples</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-reddit-triumphs-highly-upvoted-threads-compilation/"><u>[New] Ultimate Reddit Triumphs Highly Upvoted Threads Compilation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-visuals-top-18-camcorders-for-4k-content-for-2024/"><u>[New] Ultimate Visuals - Top 18 Camcorders for 4K Content for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-keywords-in-the-realm-of-virtual-reality/"><u>[Updated] Keywords in the Realm of Virtual Reality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-handsome-horizons-premium-pc-backgrounds-online/"><u>2024 Approved Handsome Horizons Premium PC Backgrounds Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-strategies-for-iphones-and-freeipodcasts-download-techniques/"><u>2024 Approved Swift Strategies for iPhones and FreeiPodcasts Download Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-unlocking-a-new-vocal-identity-in-free-fire-gaming/"><u>2024 Approved The Ultimate Guide to Unlocking a New Vocal Identity in Free Fire Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unique-voice-customization-for-chrome-os-5-top-cloud-audio-editors-reviewed/"><u>2024 Approved Unique Voice Customization for Chrome OS 5 Top Cloud Audio Editors Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-crypto-potential-the-ultimate-list-of-nft-engines/"><u>2024 Approved Unlocking Crypto Potential The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-apple-iphone-7-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 7 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-downloadupgrade-your-windows-pcs-elan-smbus-driver/"><u>How to Successfully DownLoad/Upgrade Your Windows PC's ELAN SMBus Driver</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-htc-u23-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your HTC U23 Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-amplifying-your-minecraft-scene-for-2024/"><u>The Art of Amplifying Your Minecraft Scene for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncovering-six-affordable-models-in-the-ai-realm/"><u>Uncovering Six Affordable Models in the AI Realm</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-get-the-most-out-of-fcpx-expert-advice-on-managing-your-macs-storage/"><u>Updated 2024 Approved Get the Most Out of FCPX Expert Advice on Managing Your Macs Storage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726224605397-ogg-aiff-movavi/"><u>오픈 소스 공급원: OGG, AIFF 형식 사이의 가장 좋은 무료 변환 도구 - Movavi</u></a></li>
+</ul></div>
+

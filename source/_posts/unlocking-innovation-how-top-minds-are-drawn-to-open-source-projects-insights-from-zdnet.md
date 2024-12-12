@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Innovation: How Top Minds Are Drawn to Open-Source Projects - Insights From ZDNet"
-date: 2024-09-19 20:26:41
-updated: 2024-09-20 12:21:18
+date: 2024-12-06T20:12:51.476Z
+updated: 2024-12-12T18:21:54.518Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +64,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -72,6 +84,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-elevate-your-media-projects-utilizing-story-remix-in-windows-photos/"><u>[New] In 2024, Elevate Your Media Projects Utilizing Story Remix in Windows Photos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-mobile-sound-shakers-the-ultimate-playlist/"><u>[New] In 2024, Mobile Sound Shakers The Ultimate Playlist</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-pickers-best-websites-to-secure-snapalert-music/"><u>[New] Premium Pickers Best Websites to Secure SnapAlert Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-podcast-writers-toolkit-essential-strategies-and-samples/"><u>[New] The Podcast Writer's Toolkit Essential Strategies & Samples</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-web-compendium-alarm-rhythms-guidebook/"><u>[New] Ultimate Web Compendium Alarm Rhythms Guidebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-iphone-landscape-photography-excellence/"><u>[Updated] The Ultimate Guide to iPhone Landscape Photography Excellence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unrestricted-creativity-the-ultimate-android-editing-selection/"><u>[Updated] Unrestricted Creativity The Ultimate Android Editing Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-photo-editing-processes-a-guide/"><u>2024 Approved Streamlining Photo Editing Processes A Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-streamers-choice-does-virusmix-or-wirecast-rule-the-game/"><u>2024 Approved Top Streamers Choice Does VirusMix or WireCast Rule the Game?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-play-8t-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor Play 8T FRP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-mastery-over-multiple-tiktok-video-harvest/"><u>In 2024, Mastery Over Multiple TikTok Video Harvest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-full-potential-of-video-calls-with-zoom-and-gmail-integration/"><u>In 2024, Unlocking Full Potential of Video Calls with Zoom & Gmail Integration</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/live-feed-obs-on-instagram-app-for-2024/"><u>Live Feed OBS on Instagram App for 2024</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/losung-fur-hp-laptop-bildschirmergluhen-unter-windows-11/"><u>Lösung Für HP Laptop Bildschirmerglühen Unter Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-your-drone-footage-with-advanced-techniques-for-2024/"><u>Streamlining Your Drone Footage with Advanced Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-gif-makers-manual-for-2024/"><u>The Complete GIF Maker's Manual for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-ios-cropping-enhancing-your-images-for-2024/"><u>The Ultimate Guide to iOS Cropping Enhancing Your Images for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722967364525-unlock-full-potential-exclusive-msi-z37-grocking-board-drivers-get-them-at-no-cost/"><u>Unlock Full Potential: Exclusive MSI Z37 Grocking Board Drivers – Get Them at No Cost!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-edit-like-a-pro-top-10-free-mp4-video-editors-you-need/"><u>Updated 2024 Approved Edit Like a Pro Top 10 Free MP4 Video Editors You Need</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Code: Elite Web Dev Course Selections by ZDNet"
-date: 2024-09-17 22:20:29
-updated: 2024-09-20 11:44:39
+date: 2024-12-07T16:03:08.558Z
+updated: 2024-12-12T19:39:36.320Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-revealing-the-best-in-class-splitcams-videography-edge-for-2024/"><u>[New] Revealing the Best in Class SplitCam's Videography Edge for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streaming-success-story-which-video-site-tops-others-vimeo-youtube/"><u>[Updated] Streaming Success Story Which Video Site Tops Others – Vimeo, YouTube?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-image-potential-smart-online-cropping-techniques/"><u>[Updated] Unlocking Image Potential Smart Online Cropping Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-win10-mastery-crucial-tips-and-tricks-for-2024/"><u>[Updated] Win10 Mastery Crucial Tips and Tricks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-intriguing-world-of-whole-sphere-videos/"><u>2024 Approved The Intriguing World of Whole Sphere Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-videos-using-video-enhancer-v22/"><u>2024 Approved Transform Your Videos Using Video Enhancer V2.2</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-12-pro-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 12 Pro to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-essentials-of-digital-content-streamers/"><u>Decoding the Essentials of Digital Content Streamers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-poco-c55-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-a60frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel A60FRP Lock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>In 2024, Top 5 Effortlessly Converted GIF to Professional Videos Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-updated-parrot-ar-drone-experience/"><u>In 2024, Unveiling The Updated Parrot AR Drone Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactive-keys-reclaiming-shift-on-win/"><u>Reactive Keys: Reclaiming Shift on Win.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailored-interventions-for-2024/"><u>Tailored Interventions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-economical-hd-action-recordings-for-2024/"><u>Ultimate Selection Economical HD Action Recordings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-mechanics-of-whatsapp-voice-conversations-for-2024/"><u>Understanding the Mechanics of WhatsApp Voice Conversations for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-xs-max-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone XS Max</u></a></li>
+</ul></div>
+

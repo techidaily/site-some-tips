@@ -1,7 +1,7 @@
 ---
 title: "Exploring Cloud Technology Growth and Upcoming Obstacles: Insights From ZDNet"
-date: 2024-09-19 19:17:41
-updated: 2024-09-20 10:56:24
+date: 2024-12-11T17:17:48.474Z
+updated: 2024-12-12T17:10:02.704Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Image: Hinterhaus Productions/GETTY
 According to a recent report by tech analyst Gartner, worldwide consumer spending on public cloud services is forecast to grow 20.7% to $591.8 billion in 2023, up from $490.3 billion in 2022\. That's compared to the 18.8% growth forecast for 2022.
 
 Meanwhile, consultant [KPMG's 2022 Global Tech Report](https://assets.kpmg/content/dam/kpmg/xx/pdf/2022/09/kpmg-global-tech-report-2022.pdf) found that that nine in 10 businesses consider their adoption of cloud systems to be 'advanced', and almost three-quarters (73%) are in the process of migrating strategic workloads to the cloud. Cloud computing is now seen as a fundamental pillar of tech for many businesses. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -88,11 +92,26 @@ Regardless, the outlook for cloud professionals and other professionals in 2023 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/omprehensive-youtube-video-editing-with-finalcut-pro-skills-for-2024/"><u>[New] Comprehensive YouTube Video Editing with FinalCut Pro Skills for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-public-domain-soundtracks-downloadable-playing-games/"><u>[New] In 2024, Public Domain Soundtracks Downloadable, Playing Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-friendly-metaverse-gaming/"><u>[New] The Ultimate Guide to Friendly Metaverse Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-tiktok-unboxers-playbook-for-likes/"><u>[Updated] The Ultimate TikTok Unboxer's Playbook for Likes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-editors-lifeline-essential-responses-to-filmora-queries/"><u>2024 Approved The Editor's Lifeline Essential Responses to Filmora Queries</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/brush-boldly-beyond-professionals-palette-play-for-2024/"><u>Brush Boldly Beyond - Professionals' Palette Play for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/circle-construction-techniques-for-the-aspiring-minecraft-artist-for-2024/"><u>Circle Construction Techniques for the Aspiring Minecraft Artist for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-a-non-responsive-utorrent-in-under-7-steps/"><u>How to Fix a Non-Responsive uTorrent in Under 7 Steps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-b-roll-creative-uses-and-integration/"><u>In 2024, Maximizing B-Roll Creative Uses and Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-selecting-a-superior-camcorder/"><u>In 2024, Ultimate Guide to Selecting a Superior Camcorder</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-lava-yuva-3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Lava Yuva 3 Pro Hard Reset | Dr.fone</u></a></li>
+</ul></div>
+

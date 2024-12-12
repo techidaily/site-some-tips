@@ -1,7 +1,7 @@
 ---
 title: Leveraging Commercial Applications to Drive AI Innovation in Telecoms, Post-5G Era
-date: 2024-09-17 23:53:46
-updated: 2024-09-20 12:31:52
+date: 2024-12-10T17:33:39.650Z
+updated: 2024-12-12T16:42:08.438Z
 tags:
   - cloud
 categories:
@@ -61,6 +61,10 @@ GSMA projects that 5G connections will grow from 1.6 billion to 2.1 billion by t
 
 Jarich noted that use cases can differ for regions and markets, giving local telcos further opportunities to find new revenue. And with most GenAI services running on the cloud, operators can play a differentiating role in facilitating these. For instance, they can provide support for edge computing, which will be important for some GenAI services such as real-time language translation and smaller large language models (LLMs) that can be hosted on the device. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dedicated foundation model for telcos
 
 Domain-specific LLMs also are being made available to help identify GenAI use cases specific to the needs of a particular sector, such as financial or healthcare. 
@@ -118,11 +122,33 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 202
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/1726224657063-x-plus-y-plus-z-(-21/"><u> [ X + Y + Z < 21 </u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-3-ways-to-record-switch-gameplay/"><u>[New] 2024 Approved 3 Ways to Record Switch Gameplay</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-top-12-tycoon-games-where-strategies-thrive-and-profits-peak-for-2024/"><u>[Updated] The Top 12 Tycoon Games - Where Strategies Thrive and Profits Peak for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970021-9781088234921-ella-confio-en-la-vida/"><u>Ella Confió en la Vida | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guia-gratuita-para-transformar-tu-memoria-ram-en-videos-mp4-usando-movavi/"><u>Guía Gratuita Para Transformar Tu Memoria RAM en Vídeos MP4 Usando Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-probook-x360-refurbished-laptop-now-at-unbeatable-price-only-230-see-deals/"><u>HP ProBook X360 Refurbished Laptop Now at Unbeatable Price: Only $230 - See Deals</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-6-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 6 with a Broken Screen?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone XS Max</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-honor-90-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Honor 90 Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/innovative-ways-to-document-your-digital-collaboration-sessions/"><u>Innovative Ways to Document Your Digital Collaboration Sessions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/instantly-convert-your-pef-images-to-pngs-for-free-using-the-moveavi-tool/"><u>Instantly Convert Your PEF Images to PNGs for Free Using the Moveavi Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-opus/"><u>Movavi 오픈소스를 쉽고 무료로 OPUS 형식으로 변환: 비용과 시간을 모두 절침하는 전문가 기법</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-best-under-100-router-an-experts-take-on-the-tp-link-archer-c80-speeds/"><u>The Best Under $100 Router - An Expert's Take on the TP-Link Archer C80 Speeds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformation-de-fichiers-avi-en-aac-sans-frais-sur-le-site-web-movavi/"><u>Transformation De Fichiers AVI en AAC Sans Frais Sur Le Site Web Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasforma-i-tuoi-file-mka-a-formato-aac-gratuitamente-con-movavi/"><u>Trasforma I Tuoi File MKA a Formato AAC Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/verslindende-videoformaten-voor-youtube-expertise-van-movavi-verhelpt-het-beste-formatscoaching/"><u>Verslindende Videoformaten Voor YouTube - Expertise Van Movavi Verhelpt Het Beste Formatscoaching</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225113213-mpg-wav-movavi/"><u>오피스 상대적 MPG WAV 갱신: Movavi 자체</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aifc-to-jpgpng-movavi/"><u>オンラインAIFC to JPG・PNG変換無料サービス: Movaviの簡単ガイド</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Tech Innovator Radia Perlman Recognized as Networking Legend in Pioneering Ethernet Developer Spotlight
-date: 2024-09-17 12:52:17
-updated: 2024-09-20 12:27:24
+date: 2024-12-08T18:42:04.730Z
+updated: 2024-12-12T18:26:33.427Z
 tags:
   - developer
 categories:
@@ -57,6 +57,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -73,6 +77,10 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +88,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-3-tactics-transforming-pin-videos-into-mp3-sounds/"><u>[New] Top 3 Tactics Transforming Pin Videos Into MP3 Sounds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-blending-images-into-a-masterpiece-of-mosaics/"><u>[Updated] 2024 Approved Blending Images Into a Masterpiece of Mosaics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtubes-copyright-landscape-decoded-a-complete-analysis/"><u>[Updated] In 2024, YouTube's Copyright Landscape Decoded A Complete Analysis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-next-gen-patient-rehabilitation-tools-for-2024/"><u>[Updated] Next-Gen Patient Rehabilitation Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-podcast-dominance-through-powerful-seo-tactics/"><u>[Updated] Podcast Dominance Through Powerful SEO Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-smoothing-playback-the-truth-behind-frozen-photo-booth-videos/"><u>[Updated] Smoothing Playback The Truth Behind Frozen Photo Booth Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-how-to-efficiently-record-internet-radio/"><u>2024 Approved Unveiling the Secrets How To Efficiently Record Internet Radio</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-oppo-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Oppo</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-safety-measures-include-trusted-sites-on-windows-11/"><u>Boost Safety Measures: Include Trusted Sites on Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-test-drive-analysis-of-the-maisto-rc-rock-crawler-perfect-toy-for-kids-and-adults/"><u>Comprehensive Test Drive Analysis of the Maisto RC Rock Crawler - Perfect Toy for Kids and Adults!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-how-to-use-google-trends-to-come-up-with-video-ideas-easy-guide/"><u>In 2024, How to Use Google Trends to Come up with Video Ideas [Easy Guide]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-kinemaster-made-memes/"><u>In 2024, The Art of KineMaster-Made Memes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-value-panoramic-recording-equipment-for-savvy-shoppers/"><u>In 2024, Top Value Panoramic Recording Equipment for Savvy Shoppers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/m1-marvel-a-new-wave-of-smooth-and-efficient-editing-for-2024/"><u>M1 Marvel A New Wave of Smooth and Efficient Editing for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconnect-the-unreachable-your-guide-to-fixing-usb-wi-fi-in-windows/"><u>Reconnect the Unreachable: Your Guide to Fixing USB Wi-Fi in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-excel-2013-files-from-virus-infected-pen-drives-for-free-by-stellar-guide/"><u>Recover Excel 2013 Files from Virus-Infected Pen Drives for Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailored-transmission-terminal-podcasters-hub-for-2024/"><u>Tailored Transmission Terminal Podcaster's Hub for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-kinemasters-secrets-to-smooth-transitions-for-2024/"><u>Unlock Kinemaster's Secrets to Smooth Transitions for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Pros and Cons of AI in Programming: Insights From ZDNet"
-date: 2024-09-17 21:15:21
-updated: 2024-09-20 10:11:40
+date: 2024-12-08T18:19:48.664Z
+updated: 2024-12-12T18:48:55.623Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-excellent-screen-grabber-aid-for-youtube-content-creators/"><u>[New] 2024 Approved Excellent Screen Grabber Aid for YouTube Content Creators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-ringtones-roundup-elite-download-hubs/"><u>[New] Superior Ringtones Roundup Elite Download Hubs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-montages-made-easy-androidios-apps-for-creative-minds/"><u>[New] Top Montages Made Easy Android/iOS Apps for Creative Minds</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-unveiling-the-secrets-to-fhd-in-social-tweeting/"><u>[Updated] In 2024, Unveiling the Secrets to FHD in Social Tweeting</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-seeking-authentic-ps2-play-check-out-the-5-best-android-simulators/"><u>[Updated] Seeking Authentic PS2 Play? Check Out the 5 Best Android Simulators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-video-filter-application-techniques/"><u>[Updated] Unveiling the Secrets of Video Filter Application Techniques</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/av1-mp4/"><u>AV1変換 MP4への強力無料エンコーダアプリケーション詳しく解説！</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/exploring-key-components-and-creation-process-of-ai-face-generators-for-2024/"><u>Exploring Key Components and Creation Process of AI Face Generators for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-chromatic-enhancement/"><u>In 2024, The Art of Chromatic Enhancement</u></a></li>
+<li><a href="https://article-files.techidaily.com/key-concepts-in-image-manipulation/"><u>Key Concepts in Image Manipulation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-correcting-missing-mfc71dll-files-on-windows-pcs/"><u>The Ultimate Guide to Correcting Missing mfc71.dll Files on Windows PCs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-bargain-prime-day-offers-save-big-on-tribit-wireless-speakers-and-budget-friendly-earphones/"><u>Top Bargain Prime Day Offers: Save Big on Tribit Wireless Speakers & Budget-Friendly Earphones!</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/unlock-full-access-troubleshooting-guide-to-playing-flac-files-seamlessly-on-your-android-device/"><u>Unlock Full Access: Troubleshooting Guide to Playing FLAC Files Seamlessly on Your Android Device</u></a></li>
+</ul></div>
+

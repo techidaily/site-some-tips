@@ -1,7 +1,7 @@
 ---
 title: The Truth About Linux Vendor Kernels Security Revealed by Latest Study - Is There a Solution? | ZDNet
-date: 2024-09-17 14:20:28
-updated: 2024-09-20 11:15:57
+date: 2024-12-08T16:18:36.535Z
+updated: 2024-12-12T18:43:05.675Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-windows-simulations-for-playstation-3-games-5/"><u>[New] 2024 Approved Top Windows Simulations for PlayStation 3 Games (5)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-leveraging-full-motion-video-on-iphones/"><u>[New] Leveraging Full Motion Video on iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-science-behind-time-warp-visuals/"><u>[New] The Science Behind Time Warp Visuals</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-seven-finest-stardew-valley-customizations-unveiled/"><u>[New] The Seven Finest Stardew Valley Customizations Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-for-audio-editors-using-garageband/"><u>[New] The Ultimate Guide for Audio Editors Using GarageBand</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-utilizing-speech-recognition-for-efficient-documentation-and-transcription-in-ms-word/"><u>[New] Utilizing Speech Recognition for Efficient Documentation and Transcription in MS Word</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-5-ios-platforms-mimicking-ps2/"><u>[Updated] 2024 Approved Top 5 iOS Platforms Mimicking PS2</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-accelerated-fortnite-visualization-steps/"><u>[Updated] Accelerated Fortnite Visualization Steps</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-dividing-opinions-is-mirrorless-better-than-dslr-for-vids/"><u>[Updated] Dividing Opinions Is Mirrorless Better than DSLR for Vids?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-binge-sessions-leveraging-the-power-of-pip-on-netflix/"><u>[Updated] Streamline Your Binge Sessions Leveraging the Power of PIP on Netflix</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-15-activities-perfect-for-podcast-lovers/"><u>[Updated] Top 15 Activities Perfect for Podcast Lovers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-windows-10-sound-capabilities/"><u>[Updated] Unlocking Windows 10 Sound Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-iphones-guide-to-great-night-images/"><u>2024 Approved The Essential iPhones Guide to Great Night Images</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-editing-nikon-videos-a-comprehensive-guide-to-software-and-techniques-for-2024/"><u>New Editing Nikon Videos A Comprehensive Guide to Software and Techniques for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-farming-simulator-22-gameplay-fixing-fps-drops-on-the-pc-build/"><u>Optimizing Farming Simulator 22 Gameplay: Fixing FPS Drops on the PC Build</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/premier-10-drone-teams-for-cinematic-mastery-for-2024/"><u>Premier 10-Drone Teams for Cinematic Mastery for 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/unlocking-exe-files-a-comprehensive-walkthrough-by-yl-software-experts-for-successful-opening-and-usage/"><u>Unlocking EXE Files: A Comprehensive Walkthrough by YL Software Experts for Successful Opening and Usage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-samsungs-picture-editor-features-and-drawbacks-for-2024/"><u>Unveiling Samsung's Picture Editor Features & Drawbacks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-top-text-styling-portals-for-creatives-for-2024/"><u>Unveiling the Top Text Styling Portals for Creatives for 2024</u></a></li>
+</ul></div>
+

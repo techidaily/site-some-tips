@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Hidden Fees: The True Cost of Discounted Lifetime Cloud Storage Plans"
-date: 2024-09-19 14:31:51
-updated: 2024-09-20 12:55:53
+date: 2024-12-10T19:05:11.815Z
+updated: 2024-12-12T18:25:06.882Z
 tags:
   - cloud
 categories:
@@ -35,6 +35,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Degoo Cloud 
 
 Let's start with Degoo. I found it on a marketplace for all sorts of intriguing offers. Here, the marketplace is offering a 10TB lifetime storage plan for $99\. As long as you access your account once a year, it will remain active. 
@@ -65,6 +69,10 @@ Clearly, $99 for 10TB is not sustainable. My bet is that storage vendors offerin
 
 Even so, Degoo's unlimited deals don't come close to covering their costs for storage. Keep that in mind as we move on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Prism Drive 
 
 Next up is Prism Drive. Here, we have [a deal for 10TB](https://shop.sweetdeals.com/sales/prism-drive-secure-cloud-storage-lifetime-subscription-10-tb) for even less than Degoo. Found on another marketplace site, Prism Drive provides 10TB of lifetime storage for $89.99\. Revenue from the marketplace sites selling these products generally comes from direct product sales, affiliate commissions, and partnerships with content creators. 
@@ -84,6 +92,10 @@ Then, there's the Trustpilot rating of 1.3 out of five. The leading review is "T
 There is no About page. WHOIS provides no identity, other than showing that its site is a SquareSpace-based site. I found no details about what storage infrastructure Prism Drive uses. I also looked on LinkedIn for anyone who listed their employer as Prism Drive (or PrismDrive). No joy. Zero listings. What I did find was a ton of affiliate listings on tech websites hawking PrismDrive. 
 
 So there's that. On to our third and final company. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Polar Backup 
 
@@ -109,6 +121,10 @@ Another clue that Polar might be using AWS for infrastructure is the mention of 
 
 That's it. That's all I could find. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  So, are these rip-offs? 
 
 Not necessarily. But I do have concerns: 
@@ -126,6 +142,10 @@ If the vendor were huge, like an Amazon or a Google, and they offered a loss lea
 But are they rip-offs? Are these vendors creating these deals and businesses with the express purpose of stealing from the folks who use them? I don't know, maybe not. That said, the vendors in question are also probably not going out of their way to build sustainable trustworthy businesses. 
 
 And really, that's my concern for you. These companies are offering a large amount of data storage for very little money. What happens if they go out of business? What happens to your data? 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What could possibly go wrong?
 
@@ -168,11 +188,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-lone-audio-device-repair-manual-for-2024/"><u>[New] Lone Audio Device Repair Manual for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecteraser-premium-bg-erase-software/"><u>[New] PerfectEraser Premium BG Erase Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-content-creators-dilemma-vimeo-or-youtube-in-2024/"><u>[New] The Content Creator’s Dilemma Vimeo or YouTube, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capture-perfection-freemacrecorder/"><u>[Updated] In 2024, Capture Perfection FreeMacRecorder</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-efficient-protocols-for-high-quality-iptv-screening/"><u>2024 Approved Efficient Protocols for High-Quality IPTV Screening</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/combine-columns-with-ease-in-excel-expert-advice-on-merging-your-spreadsheet-information/"><u>Combine Columns with Ease in Excel: Expert Advice on Merging Your Spreadsheet Information</u></a></li>
+<li><a href="https://win-premium.techidaily.com/easy-steps-for-transferring-mov-video-files-from-iphone-and-pc-onto-icloud-storage/"><u>Easy Steps for Transferring MOV Video Files From iPhone & PC Onto iCloud Storage</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-mastering-hue-and-saturation-techniques/"><u>In 2024, Mastering Hue & Saturation Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplifying-energy-supply-changes-butagaz-teams-up-with-abbyys-cutting-edge-tech-solutions/"><u>Simplifying Energy Supply Changes – Butagaz Teams Up with ABBYY's Cutting-Edge Tech Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/steering-innovation-meet-ulf-persson-ceo-of-abbyy/"><u>Steering Innovation - Meet Ulf Persson, CEO of ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-order-management-how-dot-foods-empowers-sales-team-with-automated-po-systems/"><u>Streamlining Order Management: How Dot Foods Empowers Sales Team with Automated PO Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-5-solutions-to-resolve-your-windows-10-audio-problems/"><u>Top 5 Solutions to Resolve Your Windows 10 Audio Problems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uipath-go-marketplace-launches-new-abbyy-icc-solution-powerful-ocr-integration/"><u>UiPath Go! Marketplace Launches New ABBYY ICC Solution: Powerful OCR Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-anatomy-of-a-web-page-essentials-for-optimization/"><u>Understanding the Anatomy of a Web Page: Essentials for Optimization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-insights-with-updated-data-management-protocols/"><u>Unlocking Insights with Updated Data Management Protocols</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-latest-innovation-by-abbyy-enhanced-ocr-software-development-kit-sdk-with-finereader-engine-v12-features/"><u>Unveiling the Latest Innovation by ABBYY - Enhanced OCR Software Development Kit (SDK) with FineReader Engine V.12 Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-cookiebot-technology-for-improved-site-personalization-and-tracking/"><u>Utilizing Cookiebot Technology for Improved Site Personalization and Tracking</u></a></li>
+</ul></div>
+

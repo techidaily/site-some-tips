@@ -1,7 +1,7 @@
 ---
 title: Unexpected Surge in Google's Monthly Enterprise Spaceship Costs - Up 38%%
-date: 2024-09-18 17:52:28
-updated: 2024-09-20 12:27:50
+date: 2024-12-05T16:43:22.353Z
+updated: 2024-12-12T17:33:28.909Z
 tags:
   - cloud
 categories:
@@ -53,6 +53,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How this might affect you
 
 Google is very much _not_ transparent about its Enterprise pricing plans. The [main Google Workspace pricing page](https://workspace.google.com/pricing.html?source=gafb-homepage-faq-en) simply says "Contact Sales." The [Google Workspace blog](https://workspace.google.com/blog/) doesn't mention anything about a price increase, at least as of the time of this writing. 
@@ -66,6 +70,10 @@ It is possible I've been hit with a higher price increase because of the amount 
 The [Fed may think inflation is under control](https://thehill.com/business/4411344-fed-is-within-striking-distance-of-inflation-goal-top-official-says/) at 2-4% annually, but cloudflation certainly still exists. In the last year, [Hulu raised prices](https://www.zdnet.com/home-and-office/home-entertainment/hulus-streaming-bundle-prices-are-going-up-again-heres-why-i-chose-youtubetv/), [Peacock raised prices](https://www.zdnet.com/home-and-office/home-entertainment/peacock-is-raising-subscription-prices-next-month-heres-what-you-need-to-know/), [YouTube Premium raised prices](https://www.zdnet.com/home-and-office/home-entertainment/youtube-premium-quietly-raises-subscription-prices/), [Spotify Premium raised prices](https://www.zdnet.com/home-and-office/home-entertainment/spotify-premium-is-raising-prices-for-the-first-time-ever/), [Apple raised some of its subscription prices](https://www.zdnet.com/home-and-office/home-entertainment/apple-is-raising-the-prices-for-some-of-its-popular-subscription-services/), and [the list goes on](https://www.zdnet.com/article/google-raises-prices-for-nest-aware-subscriptions-but-there-is-good-news/). 
 
 We recently did an audit of our cloud-based monthly expenses, and it's a fairly large percentage of our overall cost of doing business. The fact that it can suddenly balloon by inflation percentages you'd only expect in countries with unstable governments will probably cause every IT manager (and anyone with a cloud budget) to lose sleep at night. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to change your plan 
 
@@ -110,11 +118,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-a-compreited-list-of-top-5-iphone-apps-revolutionizing-podcasts/"><u>[New] A Compreited List of Top 5 iPhone Apps Revolutionizing Podcasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-diy-youtube-music-collection-a-comprehensive-online-and-app-method/"><u>[New] In 2024, DIY YouTube Music Collection A Comprehensive Online & App Method</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-2023-line-up-of-best-pro-360cameras-reviewed/"><u>2024 Approved The 2023 Line-Up of Best Pro 360°Cameras Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-subtle-sonic-softening-using-lumafusion/"><u>2024 Approved The Art of Subtle Sonic Softening Using Lumafusion</u></a></li>
+<li><a href="https://win-lab.techidaily.com/durchfuhrung-reibungsloser-hyper-v-migrationen-professionelle-strategien-zum-loschen-von-checkpoints/"><u>Durchführung Reibungsloser Hyper-V-Migrationen: Professionelle Strategien Zum Löschen Von Checkpoints</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-tecno-phantom-v-fold-by-drfone-android/"><u>In 2024, How to Bypass FRP from Tecno Phantom V Fold?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-editors-lifeline-essential-responses-to-filmora-queries/"><u>In 2024, The Editor's Lifeline Essential Responses to Filmora Queries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-tapered-music-transitions-in-premiere-pro/"><u>In 2024, The Essential Guide to Tapered Music Transitions in Premiere Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastery-of-spotify-ad-formats-and-best-practices-for-2024/"><u>Mastery of Spotify Ad Formats and Best Practices for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-ai-advantages-elevating-your-instagram-game-through-smart-technology/"><u>Meta AI Advantages: Elevating Your Instagram Game Through Smart Technology</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-itel-p55-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Itel P55 5G Device</u></a></li>
+</ul></div>
+

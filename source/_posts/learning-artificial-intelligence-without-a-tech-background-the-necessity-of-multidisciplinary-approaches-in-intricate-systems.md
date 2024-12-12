@@ -1,7 +1,7 @@
 ---
 title: "Learning Artificial Intelligence Without a Tech Background: The Necessity of Multidisciplinary Approaches in Intricate Systems"
-date: 2024-09-18 17:12:23
-updated: 2024-09-20 10:13:20
+date: 2024-12-08T18:57:51.285Z
+updated: 2024-12-12T18:35:36.645Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-infusing-realism-in-spark-ar-worlds-via-application-of-luts/"><u>[New] 2024 Approved Infusing Realism in Spark AR Worlds via Application of LUTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-photographers-toolkit-polarr-edition/"><u>[New] The Essential Photographer's Toolkit - Polarr Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-windows-best-facsimile-software-for-ps3-games/"><u>[New] Windows' Best Facsimile Software for PS3 Games</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-the-secrets-of-instagrams-music-rights-management-for-2024/"><u>[Updated] Unlocking the Secrets of Instagram's Music Rights Management for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-calmly-quieten-your-computers-audio-output/"><u>2024 Approved Calmly Quieten Your Computer's Audio Output</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-streaming-with-integrated-local-channels-future-edition/"><u>2024 Approved Superior Streaming with Integrated Local Channels, Future Edition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/el-upgrade-how-reaching-500-viewers-propelts-monetization-for-2024/"><u>Channel Upgrade How Reaching 500 Viewers Propelts Monetization for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-turn-off-youtube-video-preview-all-platform-solution-for-2024/"><u>How to Turn Off YouTube Video Preview? [All Platform Solution] for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategizing-visibility-for-podcasts-through-design/"><u>In 2024, Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-dj-iq-with-free-luts-for-djis-minis-and-air-series/"><u>In 2024, Unleash Your DJ IQ with FREE LUTs for DJI's Minis & Air Series</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/navigating-the-nuances-of-cross-system-skype-group-communication-effectively-and-efficiently-for-2024/"><u>Navigating the Nuances of Cross-System Skype Group Communication Effectively and Efficiently for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-bybs-premium-e430-swing-led-torch-illumination-review/"><u>The Ultimate Guide to BYB's Premium E43#0 Swing LED Torch Illumination Review</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Importance of Multiple Accounts: Lessons From Twitter - A ZDNet Insight"
-date: 2024-09-17 12:21:29
-updated: 2024-09-20 10:44:59
+date: 2024-12-05T16:18:36.814Z
+updated: 2024-12-12T19:51:59.337Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab
 So I'm not going to take the "[Let's all quit Twitter](https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Let's%20all%20quit%20Twitter%22%7D)" viewpoint, or "[Elon Musk should be prohibited from buying Twitter](https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Elon%20Musk%20should%20be%20prohibited%20from%20buying%20Twitter%22%7D)" standpoint, or even the "[Twitter is going to hell in a neoconservative handbasket](https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Twitter%20is%20going%20to%20hell%20in%20a%20neoconservative%20handbasket%22%7D)" perspective. 
 
 But we should examine why we care about Twitter at all. It serves an important function, as an instantaneous publicly viewable broadcast message bus, for individuals, brands, governments, and everything in-between. But it also has many weaknesses, including that it is not a public good -- it is a corporation, and if Elon Musk gets his way, it will be again a privately owned one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Twitter
 
@@ -87,11 +91,28 @@ The time is now. Let's build a better internet together.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-a-journey-through-snapchats-creative-edit-features/"><u>[New] 2024 Approved A Journey Through Snapchat's Creative Edit Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-execute-a-budget-friendly-youtube-seminar/"><u>[New] 2024 Approved How to Execute a Budget-Friendly Youtube Seminar</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-perfect-your-gameplay-tips-for-professional-minecraft-sessions-on-mac-for-2024/"><u>[New] Perfect Your Gameplay Tips for Professional Minecraft Sessions on Mac for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-power-of-voice-notes-masterclass/"><u>[New] Unlocking the Power of Voice Notes Masterclass</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-iconic-lecture-labels-maker-pro/"><u>2024 Approved Iconic Lecture Labels Maker Pro</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-pace-control-in-snapchats-video-feature/"><u>2024 Approved Pace Control in Snapchat's Video Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/baldurs-gate-ultimate-guide-resolve-your-frustrating-lags/"><u>Baldur's Gate: Ultimate Guide - Resolve Your Frustrating Lags!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-handbook-for-swapping-music-libraries/"><u>In 2024, The Ultimate Handbook for Swapping Music Libraries</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-lost-iphone-mailbox-items-expert-tips-and-troubleshooting-steps/"><u>Retrieve Lost iPhone Mailbox Items: Expert Tips & Troubleshooting Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pinnacle-guide-to-uncomplicated-online-live-streams-for-2024/"><u>The Pinnacle Guide to Uncomplicated Online Live Streams for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-places-to-find-background-music-for-videos-for-2024/"><u>Top Places to Find Background Music for Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tier-pdf-visual-improvements-for-2024/"><u>Top-Tier PDF Visual Improvements for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-your-steam-decks-full-potential-with-gear-upgrades/"><u>Unleashing Your Steam Deck's Full Potential with Gear Upgrades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-snapchats-prominent-personalities-highlight-for-2024/"><u>Utilizing Snapchat's Prominent Personalities Highlight for 2024</u></a></li>
+</ul></div>
+

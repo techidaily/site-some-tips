@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Grab Two Top Pick Nomad Phone Covers at Half Price with 'Buy One, Get One' Deal - Available Today on ZDNet!"
-date: 2024-12-02T18:29:05.826Z
-updated: 2024-12-06T19:01:12.102Z
+date: 2024-12-08T16:11:17.016Z
+updated: 2024-12-12T18:38:22.287Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ The promo event includes all of Nomad's [iPhone cases for all models](https://sh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Nomad iPhone cases to shop during the BOGO free event
@@ -49,7 +49,7 @@ ZDNET's Editor-in-Chief Jason Hiner says that the Sport Case for iPhone is prote
 [Leather iPhone Skin View now at Nomad Goods](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fnomadgoods.com%2Fproducts%2Fleather-skin-horween-rustic-brown-iphone-13)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,17 +98,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-essential-ps2-emulators-for-ios-devices/"><u>[New] 2024 Approved Essential PS2 Emulators for IOS Devices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-boosting-engagement-with-effective-youtube-banners-and-thumbnails-for-2024/"><u>[New] Boosting Engagement with Effective YouTube Banners & Thumbnails for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-elite-list-best-apps-for-live-basketball-and-international-football-games/"><u>[New] In 2024, Elite List Best Apps for Live Basketball and International Football Games</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-masterclass-review-of-vidma-screen-reporter-app/"><u>[New] Masterclass Review of Vidma Screen Reporter App</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtubes-shorts-a-deep-dive-into-content-creation-and-revenue/"><u>[New] YouTube's Shorts A Deep Dive Into Content Creation and Revenue</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-iphone-light-balancing/"><u>[Updated] The Ultimate Guide to iPhone Light Balancing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-honor-v-purse-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Honor V Purse without App | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-freeze-frames-in-photobooth-recordings/"><u>In 2024, Unraveling Freeze Frames in Photobooth Recordings</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/stream-like-a-pro-setting-up-your-dslr-on-personal-computers-for-2024/"><u>Stream Like a Pro Setting Up Your DSLR on Personal Computers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-hp-dreamcolor-z32x-review-a-quest-for-perfection-for-2024/"><u>The HP DreamColor Z32X Review A Quest for Perfection for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tips-for-accurate-age-input-in-tiktok-profiles-for-2024/"><u>Tips for Accurate Age Input in TikTok Profiles for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-online-seminar-creation-assistant-for-2024/"><u>Ultimate Online Seminar Creation Assistant for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-the-static-on-your-windows-11-display/"><u>[FIXED] The Static on Your Windows 11 Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-in-depth-guide-best-audio-techniques-on-windows/"><u>[Updated] In-Depth Guide Best Audio Techniques on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-creativity-best-android-edits/"><u>[Updated] Unleash Creativity Best Android Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>[Updated] Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-voice-changing-methods-in-free-fire/"><u>[Updated] Voice Changing Methods in Free Fire</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-editors-toolkit-maximizing-the-impact-of-gopro-videos/"><u>2024 Approved The Editor's Toolkit Maximizing the Impact of GoPro Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-with-magix-video-pro-x/"><u>2024 Approved Unleashing Creativity with Magix Video Pro X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-dji-potential-two-devices-get-20-gratis-luts/"><u>2024 Approved Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/cutting-edge-webcam-utilization-at-home/"><u>Cutting-Edge Webcam Utilization at Home</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/embrace-morning-vitality-using-ihome-zenergy-comprehensive-sleep-solution-analysis/"><u>Embrace Morning Vitality Using IHome Zenergy - Comprehensive Sleep Solution Analysis</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-portuguese-top-6-study-strategies-for-success/"><u>Mastering Portuguese: Top 6 Study Strategies for Success</u></a></li>
+<li><a href="https://solve-help.techidaily.com/most-affordable-free-digital-document-storage-platforms/"><u>Most Affordable Free Digital Document Storage Platforms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-guide-transforming-videos-into-custom-ringtones-for-your-smartphone/"><u>Quick Guide: Transforming Videos Into Custom Ringtones for Your Smartphone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/wmv-conversione-veloce-e-gratuita-online-con-movavi-trasforma-i-tuoi-file-video/"><u>WMV Conversione Veloce E Gratuita Online Con Movavi - Trasforma I Tuoi File Video</u></a></li>
 </ul></div>
 

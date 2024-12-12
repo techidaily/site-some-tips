@@ -1,7 +1,7 @@
 ---
 title: "Essential Strategies for Effective Cloud Safety: Top 5 Tips From ZDNet"
-date: 2024-09-19 14:24:45
-updated: 2024-09-20 10:15:28
+date: 2024-12-11T18:20:02.778Z
+updated: 2024-12-12T17:02:24.762Z
 tags:
   - cloud
 categories:
@@ -24,6 +24,10 @@ The popularity of cloud applications and software [has risen significantly in re
 The ability to log in from anywhere using cloud applications is convenient for employees, [but it's also a potential new opportunity for cyber criminals](https://www.zdnet.com/article/microsoft-office-365-is-becoming-the-core-of-many-businesses-and-hackers-have-noticed/), who, with a set of stolen passwords, could gain access to sensitive information. There's even the prospect of hackers abusing cloud services to launch [ransomware attacks](https://www.zdnet.com/article/ransomware-an-executive-guide-to-one-of-the-biggest-menaces-on-the-web/) and other malware campaigns. 
 
 But there are steps that can be taken -- and mistakes that must be avoided -- to ensure your organisation's cloud security strategy both delivers a productivity boost and keeps users and the network safe from cyberattacks and incidents.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **1\. Don't leave cloud accounts exposed and without security controls**
 
@@ -62,6 +66,10 @@ Cloud applications and services are convenient, providing users with a variety o
 
 It is, therefore, imperative for IT and information security teams to ensure that administrator privileges are only available for those who really need them – and that any account with administrator privileges is properly secured, so attackers are unable to gain access and abuse high-level accounts -- to create additional accounts they could use to secretly go about their business, for example. It's also important that regular users don't have the power to escalate their own privileges or create new accounts. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **3\. Don't leave cloud applications unmonitored – and know who is using them**
 
 Companies use a wide variety of cloud-computing services, but the more applications that are being used, the more difficult it is to keep track of them. And that could provide a gateway for malicious users to enter the network undetected. 
@@ -73,6 +81,10 @@ It's vital that IT departments [have the necessary tools to keep track of what c
 It's also important to ensure that cloud applications aren't [misconfigured](https://www.zdnet.com/article/99-percent-of-all-misconfiguration-in-the-public-cloud-go-unreported/) in a way that means they're open to anyone on the internet. This open access could lead to attempts at brute-force attacks, or cyber criminals could attempt to use phished or stolen credentials to access cloud applications. 
 
 In the worst-case scenario, a misconfigured cloud application facing the open internet may not require login details at all, meaning anyone can gain access. It's vital that organisations are aware of how their cloud services interact with the open web and that only those who need these services can access them. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **4\. Don't ignore security updates and patches – cloud software needs them, too**
 
@@ -89,6 +101,10 @@ Cloud software is no different. Vulnerabilities can be uncovered and they will r
 
 IT departments that run large, cloud-based networks might think that security is taken care of by the cloud service or application provider they use, but that's not always the case – cloud software and applications need patching too, and it's vital that this work is done promptly to ensure the network is resistant to cyber criminals trying to exploit vulnerabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5\. Don't rely purely on cloud for storing data – keep offline backups in case of emergency** 
 
 One of the key benefits of cloud software is that, in many cases, it's available at the touch of a button – users can access data stored in the cloud, from wherever they are and from whatever device they're using. 
@@ -100,6 +116,10 @@ If the identity controls protecting cloud accounts are breached by cyber crimina
 No matter how strong your cybersecurity controls are, protecting cloud accounts is particularly important. Data should be [backed up and stored offline](https://www.zdnet.com/article/best-backup-software/) because, if the worst happens, and data in the cloud is lost or inaccessible, there's the possibility of restoring from backups. 
 
 Not only is it important to regularly save backups – so the restore point is as recent as possible, meaning everything is as close to being up-to-date as it can be – those backups should also be tested regularly. After all, there's no point keeping backups if it turns out that they don't work when they're actually needed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **MORE ON CYBERSECURITY**
 
@@ -115,11 +135,28 @@ Not only is it important to regularly save backups – so the restore point is a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-a-step-beyond-excavating-the-best-vr-treadmill-experiences/"><u>[New] A Step Beyond Excavating the Best VR Treadmill Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essentials-navigating-whatsapp-call-functionality/"><u>[New] The Essentials Navigating WhatsApp Call Functionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-gopro-timelapse-photography/"><u>[New] Unveiling the Secrets of GoPro Timelapse Photography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-complete-walkthrough-for-green-screen-expertise-in-kinemaster/"><u>[Updated] A Complete Walkthrough for Green Screen Expertise in Kinemaster</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlined-playback-import-tunes-into-inshot/"><u>[Updated] Streamlined Playback Import Tunes Into InShot</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-superior-speech-logging-apps-for-ipads-3/"><u>[Updated] Superior Speech Logging Apps for iPads #3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-negative-narratives-of-virtual-reality-tech/"><u>[Updated] The Negative Narratives of Virtual Reality Tech</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-asus-rog-phone-7-screen-sharing-drfone-by-drfone-android/"><u>How To Do Asus ROG Phone 7 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximizing-your-android-game-adventure-with-kinemaster-review-for-2024/"><u>Maximizing Your Android Game Adventure with KineMaster Review for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cut-to-success-the-top-5-youtube-link-trimming-apps/"><u>Shortcut to Success The Top 5 YouTube Link Trimming Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-essential-gratuitous-lut-downloads-of-the-year-for-2024/"><u>Top 10 Essential, Gratuitous LUT Downloads of the Year for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveil-the-subject-background-removal-techniques-in-photopea-for-2024/"><u>Unveil the Subject Background Removal Techniques in Photopea for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/video-length-measurement-20-megabit-case/"><u>Video Length Measurement - 20 Megabit Case</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Modernizing Expertise in Cybersecurity Operations Against Outdated System Hurdles
-date: 2024-09-18 13:21:33
-updated: 2024-09-20 10:48:20
+date: 2024-12-07T20:15:23.339Z
+updated: 2024-12-12T19:54:09.238Z
 tags:
   - cloud
 categories:
@@ -42,6 +42,10 @@ Globally, 92% of cybersecurity professionals believe their organization has skil
 This demand will continue to grow as organizations incorporate AI into more processes, further driving the need for cloud computing, and the need for both skillsets, France noted. It means cybersecurity professionals will need to understand how AI is integrated and secure the applications and workflows it powers, he said. 
 
 Left unplugged, gaps in cybersecurity skills and staff will result in teams being overloaded and this can lead to oversights in addressing vulnerabilities, he cautioned. Misconfiguration and falling behind security patches are among the most common mistakes that can lead to breaches, he added. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI adoption driving the need for new skills
 
@@ -94,6 +98,10 @@ Burn further noted: "Most organizations were not prepared for the rapid migratio
 To address these requirements, she said organizations are tapping the knowledge that security operations and software development or product security teams have on infrastructure and adjusting this for the new environments. "So it's about finding the right training and upskilling resources and giving teams the time to train," she added. 
 
 "Having an underskilled team can be as risky as having an understaffed one," she said. Citing Forrester's 2022 Business Technographics survey on data security, she said companies that had six or more data breaches in the past year were more likely to report the unavailability of security employees with the right skills as one of their biggest IT security challenges in the past 12 months. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tech stacks need simplifying to ease security management
 
@@ -171,11 +179,29 @@ Few organizations, unless they have the necessary capabilities, have a collectiv
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-screenrecorder-evaluation-tool/"><u>[New] 2024 Approved ScreenRecorder Evaluation Tool</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-practices-for-documenting-youtube-live-videos/"><u>[Updated] 2024 Approved Best Practices for Documenting Youtube LIVE Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-cyber-profile-pixelation-crafting-a-playful-look/"><u>[Updated] 2024 Approved Cyber-Profile Pixelation Crafting a Playful Look</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-quirks-of-playback-solving-frozen-photobooth-videos/"><u>[Updated] The Quirks of Playback Solving Frozen Photobooth Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-black-battery-setups-for-gopro-hero5-genuine-and-imitators/"><u>2024 Approved Ultimate Black Battery Setups for GoPro Hero5 – Genuine & Imitators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supercharge-your-video-subtitling-explore-leading-internet-tools-today/"><u>In 2024, Supercharge Your Video Subtitling Explore Leading Internet Tools Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-gaming-monitors-for-ps5-and-xbox-x/"><u>In 2024, Top-Ranked Gaming Monitors for PS5 & Xbox X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uniting-zoom-and-skype-techniques-to-maximize-video-call-quality/"><u>In 2024, Uniting Zoom and Skype Techniques to Maximize Video Call Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-creative-potential-in-filmmaking-with-filmora-answers/"><u>In 2024, Unlock Creative Potential in Filmmaking with Filmora Answers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/prime-video-communication-platforms-for-modern-tech-for-2024/"><u>Prime Video Communication Platforms for Modern Tech for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-to-setting-up-the-mad-titan-sports-addon-in-kodi-v203-nexus-edition/"><u>Step-by-Step Guide to Setting Up the Mad Titan Sports Addon in Kodi V.20.3 - Nexus Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swift-video-transformation-with-top-8-apps-for-2024/"><u>Swift Video Transformation with Top 8 Apps for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tailoring-pixel-sounds-to-your-style/"><u>Tailoring Pixel Sounds to Your Style</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/uncovering-8-affordable-platform-agnostic-virtual-communication-tools/"><u>Uncovering 8 Affordable, Platform-Agnostic Virtual Communication Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-16-best-tools-to-trim-and-split-avi-videos-for-windows-mac-android-iphone-and-web/"><u>Updated 2024 Approved 16 Best Tools to Trim and Split AVI Videos For Windows, MAC, Android, iPhone, and Web</u></a></li>
+</ul></div>
+

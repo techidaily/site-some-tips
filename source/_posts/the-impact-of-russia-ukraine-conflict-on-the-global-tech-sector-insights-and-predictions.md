@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Russia-Ukraine Conflict on the Global Tech Sector: Insights and Predictions"
-date: 2024-09-18 18:46:39
-updated: 2024-09-20 10:48:25
+date: 2024-12-08T18:17:17.646Z
+updated: 2024-12-12T16:12:51.943Z
 tags:
   - cloud
 categories:
@@ -23,12 +23,20 @@ In the five years since I first explored the potential impact of a Digital Cold 
 
 Under Vladimir Putin's leadership, the nation has focused on [international cybersecurity activity for many years.](https://www.cbsnews.com/news/cia-mike-pompeo-russian-election-meddling-theyve-been-at-this-a-hell-of-a-long-time/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ukraine Crisis
 
 * [Coding inside a war zone](https://www.zdnet.com/article/ukrainian-software-developers-share-their-stories-and-photos-from-the-war-zone/)
 * [How you can help: Donation sites and resources](https://www.zdnet.com/article/how-you-can-help-ukraine-donation-sites-and-resources/)
 * [Ukrainian police take down phishing gang behind payments scam](https://www.zdnet.com/article/ukrainian-police-takes-down-phishing-gang-behind-payments-scam/)
 * [International Refugee Assistance Project partners with Rosetta Stone to aid refugees](https://www.zdnet.com/article/international-refugee-assistance-project-rosetta-stone-partnership-aid-refugees/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Ukraine invasion
 
@@ -41,6 +49,10 @@ On February the 23rd, President Biden [condemned the military action](https://ww
 The economic impacts of this conflict will likely be significant, including a halt on Russian oil and natural gas exports to Western Europe and, presumably, the denial of civil and commercial air transit to Asia through Russian airspace. Although the United States, unlike Europe, is not a major consumer of Russian energy exports, it would be simplistic to say that Russia has no impact on US business at all.
 
 An extended conflict with Russia -- coupled with the imposition of wide-ranging sanctions -- will have a tangible impact on the global technology industry.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Software companies with concerns about Russian connections
 
@@ -60,6 +72,10 @@ It's also important to note that companies with no evidence of any wrongdoing ar
 
 [Acronis](http://en.wikipedia.org/wiki/Acronis), like Parallels, is another company founded by Beloussov. After founding Parallels in 1999, and being involved with both companies for some time, he became CEO of Acronis in May of 2013\. The company specializes in cybersecurity products for end-to-end device protection, and in the past, has had bare-metal systems imaging, systems deployment, and storage management products for Microsoft Windows and Linux. The company maintains its global headquarters in Singapore. However, it has substantial R&D operations in Eastern Europe in addition to operations in Israel, Singapore, and the US.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special feature
 
 [Cyberwar and the Future of Cybersecurity Today's security threats have expanded in scope and seriousness. There can now be millions -- or even billions -- of dollars at risk when information security isn't handled properly.  Read now](https://www.zdnet.com/topic/cyberwar-and-the-future-of-cybersecurity/)
@@ -71,6 +87,10 @@ These are only just a few examples. Numerous Russian software firms generate bil
 It should also be noted that many mobile apps -- including entertainment software for iOS, Android, Windows -- also originate in Russia.
 
 * [How to secure your home and office network: The best DNS blockers and firewalls](https://www.zdnet.com/article/how-to-secure-your-home-and-office-network-the-best-dns-blockers-and-firewalls/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Russian services firms will also be impacted
 
@@ -130,11 +150,24 @@ Will Russian software and services become the first victim in a Digital War? _Ta
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-earning-expertise-short-video-revenue-boosting/"><u>[New] In 2024, Earning Expertise Short Video Revenue Boosting</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unlock-the-hidden-potential-of-windows-11-with-these-tips/"><u>[New] In 2024, Unlock the Hidden Potential of Windows 11 with These Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-film-transitions-and-sequences/"><u>[New] Top 10 Film Transitions and Sequences</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-a-comprehensive-overview-of-multiscreen-streaming-techniques-on-social-media-platforms-like-facebook/"><u>[Updated] In 2024, A Comprehensive Overview of Multiscreen Streaming Techniques on Social Media Platforms Like Facebook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-real-deal-behind-asmr-videos/"><u>[Updated] The Real Deal Behind ASMR Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-phones-that-seamlessly-integrate-with-the-latest-gear-vr/"><u>[Updated] Top Phones That Seamlessly Integrate with the Latest Gear VR</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-iphone-12-pro-max-camera-roll-photos-and-photo-stream-pictures-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted iPhone 12 Pro Max Camera Roll Photos and Photo Stream Pictures? | Stellar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-piecing-together-digital-images/"><u>In 2024, The Art of Piecing Together Digital Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-30-apps-for-audio-lovers/"><u>In 2024, Top 30 Apps for Audio Lovers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-guide-to-powerdirector-alternatives-for-mobile-video-editing/"><u>New 2024 Approved The Ultimate Guide to PowerDirector Alternatives for Mobile Video Editing</u></a></li>
+</ul></div>
+

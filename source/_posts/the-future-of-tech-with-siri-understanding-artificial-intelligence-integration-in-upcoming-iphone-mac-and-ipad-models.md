@@ -1,7 +1,7 @@
 ---
 title: "The Future of Tech with Siri: Understanding Artificial Intelligence Integration in Upcoming iPhone, Mac, and iPad Models"
-date: 2024-12-05T18:26:11.901Z
-updated: 2024-12-06T17:00:24.058Z
+date: 2024-12-09T20:26:36.561Z
+updated: 2024-12-12T20:05:41.873Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,20 +120,24 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-undercover-approach-to-instagram-stories-on-modern-tech/"><u>[New] 2024 Approved Undercover Approach to Instagram Stories on Modern Tech</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-launching-a-graphics-career-strategies-and-steps/"><u>[New] Launching a Graphics Career Strategies and Steps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-solidify-iphone-hdr-quality-with-4-key-editing-steps-for-2024/"><u>[Ultimate Guide] Solidify iPhone HDR Quality with 4 Key Editing Steps for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-core-upgrades-of-windows-11/"><u>[Updated] The Core Upgrades of Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-viewers-into-active-participants/"><u>2024 Approved Transforming Viewers Into Active Participants</u></a></li>
-<li><a href="https://techtrends.techidaily.com/disabling-macs-mouse-speed-control-a-step-by-step-guide/"><u>Disabling Mac's Mouse Speed Control: A Step-by-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Identify missing your hardware drivers with Windows Device Manager in Windows 10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-techniques-of-composing-persuasive-content-in-vlogging/"><u>In 2024, Techniques of Composing Persuasive Content in Vlogging</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-connectors-companion-instagram-to-tiktok-guide/"><u>In 2024, The Connector's Companion Instagram to TikTok Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/opus-wma-moviware/"><u>OPUS WMAからフリーウェブ上での動画再生に最適化 - MoviWare</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ottimizzazione-dellhandbrake-x265-guida-alla-codificazione-e-impostazioni-hevc-dei-video/"><u>Ottimizzazione Dell'handbrake X265 - Guida Alla Codificazione E Impostazioni HEVC Dei Video</u></a></li>
-<li><a href="https://discover-data.techidaily.com/professionelle-datensicherungslosungen-mit-aomeir-erste-wahl-fur-windows-nutzer/"><u>Professionelle Datensicherungslösungen Mit AOMEIR: Erste Wahl Für Windows-Nutzer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/secrets-to-procuring-gratis-picture-frame-media/"><u>Secrets to Procuring Gratis Picture Frame Media</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamline-overload-efficiently-editing-oversized-tiktok-drafts-for-2024/"><u>Streamline Overload Efficiently Editing Oversized TikTok Drafts for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/superior-tracking-mounts-for-cameras-phone-sensitive-for-2024/"><u>Superior Tracking Mounts for Cameras, Phone-Sensitive for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-list-of-windows-10-webcam-recorders/"><u>[New] The Ultimate List of Windows 10 Webcam Recorders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastering-video-storage-of-snapchat-stories/"><u>[Updated] 2024 Approved Mastering Video Storage of Snapchat Stories</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-essential-tools-every-new-creator-needs/"><u>[Updated] 2024 Approved The Essential Tools Every New Creator Needs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-dimming-curtain-call-fade-techniques-for-pro/"><u>[Updated] The Dimming Curtain Call Fade Techniques for Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-guide-to-video-editing-in-windows-8-movie-maker/"><u>2024 Approved The Complete Guide to Video Editing in Windows 8 Movie Maker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-websites-aimed-at-enhancing-text-appearance/"><u>2024 Approved Top Websites Aimed at Enhancing Text Appearance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-strategies-for-impartiating-patient-narratives/"><u>2024 Approved Transformative Strategies for Impartiating Patient Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>2024 Approved Twitch vs YouTube An In-Depth Comparative Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-uhd-precision-converter-clearer-sharper-visuals/"><u>2024 Approved UHD Precision Converter Clearer, Sharper Visuals</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-higher-engagement-with-proven-video-tagging-methods/"><u>2024 Approved Unlock Higher Engagement with Proven Video Tagging Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-idea-to-interface-building-web-applications-with-gpt-3/"><u>From Idea to Interface: Building Web Applications with GPT-3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-infinix-hot-30-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Infinix Hot 30 5G.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-a-black-asus-camera-on-windows-11-systems/"><u>How to Troubleshoot a Black ASUS Camera on Windows 11 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-speech-to-text-processing-in-powerpoint/"><u>In 2024, Streamlining Speech-To-Text Processing in Powerpoint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creativity-a-detailed-look-at-vsco-features/"><u>In 2024, Unleash Creativity A Detailed Look at VSCO Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-iphone-cinematography-transforming-fast-motion-into-sluggish-sequences-for-2024/"><u>The Art of iPhone Cinematography Transforming Fast Motion Into Sluggish Sequences for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-digital-notepads-on-the-market-indepth-comparisons-and-reviews-techradar/"><u>Top-Rated Digital Notepads on the Market - InDepth Comparisons & Reviews | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-videos-with-the-right-dimension-proportions-for-2024/"><u>Transform Your Videos with the Right Dimension Proportions for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Poco M6 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
 

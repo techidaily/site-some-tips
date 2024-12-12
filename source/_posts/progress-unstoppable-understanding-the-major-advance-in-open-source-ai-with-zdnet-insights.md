@@ -1,7 +1,7 @@
 ---
 title: "Progress Unstoppable: Understanding the Major Advance in Open Source AI with ZDNet Insights"
-date: 2024-09-19 16:29:28
-updated: 2024-09-20 11:21:32
+date: 2024-12-08T17:43:00.134Z
+updated: 2024-12-12T17:55:33.953Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-tech-for-new-channel-launches/"><u>[New] In 2024, Essential Tech for New Channel Launches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-snappy-snippets-quick-and-quirky-memes-guide/"><u>[New] Snappy Snippets Quick and Quirky Memes Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-iphone-podcast-listening/"><u>[New] The Art of iPhone Podcast Listening</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-creating-shareable-content-on-fb-for-2024/"><u>[Updated] The Art of Creating Shareable Content on Fb for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-financial-demands-of-music-video-production/"><u>[Updated] Understanding the Financial Demands of Music Video Production</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-image-enhancement-for-breathtaking-results/"><u>2024 Approved Mastering Image Enhancement for Breathtaking Results</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-outro-checklist-for-youtube-success/"><u>2024 Approved The Ultimate Outro Checklist for YouTube Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-thrilling-rides-recorded-top-action-cam-gear-for-23-bikers/"><u>2024 Approved Thrilling Rides Recorded – Top Action Cam Gear for '23 Bikers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-tier-talk-transcribers-in-schools/"><u>2024 Approved Top-Tier Talk Transcribers in Schools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-photos-lightroom-techniques-for-stunning-hdr/"><u>2024 Approved Transformative Photos Lightroom Techniques for Stunning HDR</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-samsung-galaxy-z-fold-5-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Samsung Galaxy Z Fold 5 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-driver-updates-on-winos-a-brief-overview-win10plus81plus7/"><u>Instant Driver Updates on WINOS: A Brief Overview (Win10+8.1+7)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-framework-for-captivating-streams-on-youtube-for-2024/"><u>The Ultimate Framework for Captivating Streams on YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-picks-for-excellent-free-srt-translation-tools-for-2024/"><u>Top 8 Picks for Excellent Free SRT Translation Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-the-way-you-view-web-content-using-ms-edges-split-screen-functionality-for-2024/"><u>Transform the Way You View Web Content Using MS Edge's Split Screen Functionality for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/youtube-clips-into-animated-gifs-step-by-step-guide-for-2024/"><u>Turn Youtube Clips Into Animated GIFs Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-these-essential-vector-editors-for-2024/"><u>Unleash Creativity with These Essential Vector Editors for 2024</u></a></li>
+</ul></div>
+

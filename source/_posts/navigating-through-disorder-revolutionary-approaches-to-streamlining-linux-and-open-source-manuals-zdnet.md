@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Disorder: Revolutionary Approaches to Streamlining Linux & Open-Source Manuals | ZDNet"
-date: 2024-09-19 11:45:54
-updated: 2024-09-20 11:48:15
+date: 2024-12-10T16:31:38.223Z
+updated: 2024-12-12T18:18:54.436Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-swift-listening-on-spotify-how-to-accelerate-audio-safely/"><u>[Updated] Swift Listening on Spotify How to Accelerate Audio Safely</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-hero5-users-blueprint-for-incredible-time-lapse-videos/"><u>[Updated] The Hero5 User's Blueprint for Incredible Time-Lapse Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tunes-twining-a-new-multimedia-approach/"><u>[Updated] Tunes Twining A New Multimedia Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unmatched-timers-for-weddings-top-10-choices-on-phones/"><u>[Updated] Unmatched Timers for Weddings Top 10 Choices on Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-thrifty-choices-for-virtual-reality-heads/"><u>2024 Approved Thrifty Choices for Virtual Reality Heads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-vivo-s17e-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Vivo S17e Phone? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-pair-google-mail-account-with-apple-watch/"><u>How To Seamlessly Pair Google Mail Account With Apple Watch</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-realme-c53-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Realme C53 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-14-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 14</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-no-more-running-out-of-room-top-20-zero-cost-cloud-services-up-to-1tb/"><u>In 2024, No More Running Out of Room - Top 20 Zero-Cost Cloud Services (Up To 1TB)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-reviving-photo-viewer-on-win-11-methods-explained/"><u>In 2024, Reviving Photo Viewer on Win 11 - Methods Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-video-projects-using-movie-maker-on-windows-8/"><u>In 2024, Streamline Your Video Projects Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-easy-path-to-observing-well-liked-comments-on-the-video-platform/"><u>In 2024, The Easy Path to Observing Well-Liked Comments on the Video Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-metrics-of-mastery-assessing-luminances-hdr-capabilities/"><u>In 2024, The Metrics of Mastery Assessing Luminance's HDR Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pinnacle-studio-25-review/"><u>Pinnacle Studio 25 Review</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/quick-and-easy-increase-or-decrease-story-video-speed-for-2024/"><u>Quick and Easy Increase or Decrease Story Video Speed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-20-must-have-tools-and-effects-for-your-tiktok-edits-for-2024/"><u>Top 20 Must-Have Tools & Effects for Your TikTok Edits for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/virtual-captures-unlocked-for-2024/"><u>Virtual Captures Unlocked for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1728491995548-windows-11/"><u>Windows 11 無安装系统的初始化和备份指南</u></a></li>
+</ul></div>
+

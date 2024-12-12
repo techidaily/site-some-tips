@@ -1,7 +1,7 @@
 ---
 title: Transforming Your Google Tasks Into an Organized Kanban Workflow Using TasksBoard - A Comprehensive Guide
-date: 2024-09-18 18:57:28
-updated: 2024-09-20 11:12:45
+date: 2024-12-05T20:41:18.383Z
+updated: 2024-12-12T20:20:15.921Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-optimizing-your-periscope-stream-experience/"><u>[New] Optimizing Your Periscope Stream Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-radeon-relive-download-for-2024/"><u>[New] Radeon Relive Download for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-creating-skype-chats-for-pc-and-mac-users-for-2024/"><u>[Updated] Creating Skype Chats for PC & Mac Users for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-techniques-for-screen-capturing-on-various-os-and-gadgets/"><u>2024 Approved Essential Techniques for Screen Capturing on Various OS & Gadgets</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-pioneering-techniques-to-improve-your-fb-video-ad-effectiveness/"><u>2024 Approved Pioneering Techniques to Improve Your FB Video Ad Effectiveness</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-libera-online-da-mov-a-avi-con-movavi-modulo-guida-completo/"><u>Conversione Libera Online Da MOV a AVI Con Movavi: Modulo Guida Completo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-swf-to-flv-upgrading-get-it-done-for-free-using-movavis-web-service/"><u>Effortless SWF-to-FLV Upgrading - Get It Done For Free Using Movavi's Web Service!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-when-your-ipad-refuses-to-locate-and-utilize-the-printer/"><u>How to Resolve When Your iPad Refuses to Locate and Utilize the Printer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-s23-ultra-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy S23 Ultra Location by Number | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-magic-6-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor Magic 6 Face Lock?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-maximizing-earnings-with-youtube-studio-monetization-on-any-device/"><u>In 2024, Maximizing Earnings with YouTube Studio Monetization on Any Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mov-to-aiff-online-gratis-converter-movavi/"><u>MOV to AIFF Online Gratis Converter - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavimpemp3/"><u>Movaviの無料MPEからMP3へのオンライン変換ツール</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-audio-to-video-transcoder-easily-convert-mp3-files-into-mov-format-at-no-cost/"><u>Online Audio to Video Transcoder: Easily Convert MP3 Files Into MOV Format at No Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-formattori-audio-di-streaming-per-professionisti-guida-completa/"><u>Top 10 Formattori Audio Di Streaming per Professionisti: Guida Completa</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasforma-il-tuo-audio-aiff-in-formato-wma-gratuito-online-usando-movavi/"><u>Trasforma Il Tuo Audio AIFF in Formato WMA Gratuito Online Usando Movavi</u></a></li>
+</ul></div>
+

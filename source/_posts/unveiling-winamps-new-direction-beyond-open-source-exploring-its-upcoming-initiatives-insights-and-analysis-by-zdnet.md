@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Winamp's New Direction: Beyond Open Source - Exploring Its Upcoming Initiatives | Insights & Analysis by ZDNET"
-date: 2024-09-18 23:16:38
-updated: 2024-09-20 11:27:11
+date: 2024-12-07T17:09:14.877Z
+updated: 2024-12-12T18:58:28.428Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -40,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -67,6 +75,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-urgent-top-10-lost-iphone-x-solutions-revealed/"><u>[New] Urgent Top 10 Lost iPhone X Solutions Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syma-x5c-an-in-depth-beginners-guide-for-future-pilots/"><u>[Updated] Syma X5C An In-Depth Beginner’s Guide for Future Pilots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-windows-10-mastering-photo-and-video-importation/"><u>[Updated] Unveiling Windows 10 Mastering Photo & Video Importation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/complete-handbook-enhancing-productivity-using-mobizen-recorder-for-2024/"><u>Complete Handbook Enhancing Productivity Using Mobizen Recorder for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-your-first-impactful-facebook-phenomenon-giveaway-for-2024/"><u>Craft Your First Impactful Facebook Phenomenon Giveaway for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/deciding-on-a-vr-setup-going-wireless-mobile-or-connected-tethered/"><u>Deciding on a VR Setup Going Wireless (Mobile) or Connected (Tethered)</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-s23plus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy S23+ Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-artisans-path-to-gratuitous-text-animation-for-2024/"><u>The Artisan's Path to Gratuitous Text Animation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-process-of-converting-gifs-into-sticker-form-for-multi-platform-use-for-2024/"><u>The Complete Process of Converting GIFs Into Sticker Form for Multi-Platform Use for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-20-pubg-moment-snapshots-open-access-for-2024/"><u>Top 20 PUBG Moment Snapshots, Open Access for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206375056-troubleshoot-and-correct-system-error-0x887a0006-a-step-by-step-guide-to-a-swift-solution/"><u>Troubleshoot and Correct System Error 0X887A0006: A Step-by-Step Guide to a Swift Solution</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/uncovering-the-wonders-of-discord-nitro-free-and-paid-insights/"><u>Uncovering the Wonders of Discord Nitro - Free & Paid Insights</u></a></li>
+</ul></div>
+

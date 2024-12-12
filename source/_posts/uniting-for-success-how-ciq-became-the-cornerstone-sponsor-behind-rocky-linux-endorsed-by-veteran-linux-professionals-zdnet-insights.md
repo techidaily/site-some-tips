@@ -1,7 +1,7 @@
 ---
 title: "Uniting for Success: How CIQ Became the Cornerstone Sponsor Behind Rocky Linux, Endorsed by Veteran Linux Professionals | ZDNet Insights"
-date: 2024-09-17 22:45:48
-updated: 2024-09-20 12:31:21
+date: 2024-12-07T16:02:12.398Z
+updated: 2024-12-12T18:14:14.861Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,33 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-eyedome-hd-top-quality-chromeos-snapping/"><u>[New] EyeDome HD Top Quality ChromeOS Snapping</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-step-by-step-perfecting-your-lol-recordings-for-2024/"><u>[Updated] Step-by-Step Perfecting Your LOL Recordings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ushering-bliss-in-unboxing-7-strategies/"><u>2024 Approved Ushering Bliss in Unboxing 7 Strategies</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-se-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone SE to Android | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/5-premier-drone-engines-to-supercharge-your-qxp-for-2024/"><u>5 Premier Drone Engines to Supercharge Your QXP for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/practices-in-extracting-youtube-media/"><u>Best Practices in Extracting YouTube Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-site-visibility-with-cookiebots-advanced-seo-tools/"><u>Enhance Your Site Visibility with Cookiebot's Advanced SEO Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-by-cookiebot-solutions-boosting-website-analytics-and-seo-success/"><u>Enhanced By Cookiebot Solutions: Boosting Website Analytics and SEO Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-microsoft-sharepoint-through-advanced-ocr-discover-the-power-of-abbyys-innovative-tools/"><u>Enhancing Microsoft SharePoint Through Advanced OCR: Discover the Power of ABBYY's Innovative Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-site-traffic-with-the-power-of-cookiebot-technology/"><u>Enhancing Site Traffic with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-la-banca-popolare-dellemilia-romagna-streamlines-processes-using-abbyy-finereader-software/"><u>How La Banca Popolare Dell'Emilia Romagna Streamlines Processes Using ABBYY FineReader Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/instantize-image-movement-with-photoshop/"><u>Instantize Image Movement with Photoshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-tailored-online-interactions-and-seo-success/"><u>Leveraging Cookiebot Technology for Tailored Online Interactions and SEO Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/line-of-business-insights-overcoming-logistics-hurdles-by-mirroring-staff-knowledge/"><u>Line-of-Business Insights: Overcoming Logistics Hurdles by Mirroring Staff Knowledge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-the-api-agreement-for-abbyys-flexicapture-cloud-your-comprehensive-guide-to-data-archive-services/"><u>Navigating Through the API Agreement for ABBYY's FlexiCapture Cloud - Your Comprehensive Guide to Data Archive Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-glitches-a-users-manual-for-restoring-application-functionality-on-samsung-televisions/"><u>Overcoming Glitches: A User's Manual for Restoring Application Functionality on Samsung Televisions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/robiquity-secures-strategic-alliance-with-abbyy-enhancing-rpa-and-content-solutions/"><u>Robiquity Secures Strategic Alliance with ABBYY, Enhancing RPA and Content Solutions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unboxing-high-fidelity-gaming-recorders/"><u>Unboxing High-Fidelity Gaming Recorders</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Xiaomi 13T | Dr.fone</u></a></li>
+</ul></div>
+

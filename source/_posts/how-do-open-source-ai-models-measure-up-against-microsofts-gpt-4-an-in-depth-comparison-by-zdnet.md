@@ -1,7 +1,7 @@
 ---
 title: How Do Open Source AI Models Measure Up Against Microsoft's GPT- 4? An In-Depth Comparison by ZDNET
-date: 2024-09-19 12:32:16
-updated: 2024-09-20 12:26:36
+date: 2024-12-07T16:37:56.725Z
+updated: 2024-12-12T16:03:45.551Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-ranking-top-8-budget-friendly-srt-apps/"><u>[New] The Ultimate Ranking Top 8 Budget-Friendly SRT Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-resource-compendium-for-optimizing-on-screen-captioning/"><u>[New] The Ultimate Resource Compendium for Optimizing On-Screen Captioning</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-major-modifications-in-windows-movie-maker/"><u>[New] Unveiling Major Modifications in Windows Movie Maker</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-audio-quality-boost-for-skype-calls-for-2024/"><u>[Updated] Audio Quality Boost for Skype Calls for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capturing-classroom-talks-on-a-mac/"><u>[Updated] Capturing Classroom Talks on a Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-streamlabs-rival-in-the-eye-of-a-streamer/"><u>[Updated] In 2024, Streamlabs' Rival in the Eye of a Streamer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-novices-guide-to-photo-perfection-in-snapseed/"><u>[Updated] The Novice's Guide to Photo Perfection in Snapseed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uhd-precision-converter-clearer-sharper-visuals/"><u>[Updated] UHD Precision Converter Clearer, Sharper Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-pinnacle-of-mac-livestream-software-1-5-guide/"><u>In 2024, The Pinnacle of Mac Livestream Software - #1-5 Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ators-crafting-engaging-marvel-escapades-for-2024/"><u>Innovators Crafting Engaging Marvel Escapades for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/massive-apple-m2-macbook-air-price-slide-to-799-before-the-big-tech-sales-fest-unveiled-by-zdnet/"><u>Massive Apple M2 MacBook Air Price Slide to $799 Before the Big Tech Sales Fest – Unveiled by ZDNet!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-easily-transforming-vimeo-files-into-mov-file-format-on-pcs/"><u>Step-by-Step Tutorial: Easily Transforming Vimeo Files Into Mov File Format on PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taking-flight-in-depth-review-of-the-x4-fpv-quadcopter-for-2024/"><u>Taking Flight In-Depth Review of the X4 FPV Quadcopter for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/transition-guide-upgrading-pcs-from-windows-8-to-windows-11/"><u>Transition Guide: Upgrading PCs From Windows 8 to Windows 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-hip-hop-an-insiders-guide-to-the-best-8-daw-software-of-the-year/"><u>Updated Mastering Hip-Hop An Insiders Guide to the Best 8 DAW Software of the Year</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Discover Amazon Web Services’ Latest Quad-Initiative for Cloud Learning as Covered by ZDNet
-date: 2024-09-18 23:16:23
-updated: 2024-09-20 12:46:37
+date: 2024-12-05T17:00:52.082Z
+updated: 2024-12-12T16:20:06.354Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/93bb71ec4c18bb4a348a9b3276d0829a10
 AWS debuted four new initiatives in its ongoing goal to educate 29 million people on its cloud services platform by the end of 2025\. 
 
 First up, the company showed off its new AWS Skill Builder courses. This novel digital learning tool will be available to users in 200 countries and will provide more than 500 free, on-demand courses to start, with 60 more scheduled to be added this year. Content is available in 16 languages, with support for automatically generated recommendations from AWS on progression paths based around individualized job roles and technology areas. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### executive guide
 
@@ -50,11 +54,31 @@ Additional information about Amazon's aforementioned educational commitment is a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/est-youtube-names-generators-plus-how-to-brainstorm-for-2024/"><u>[New] Best YouTube Names Generators [+ How to Brainstorm] for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-undiscovered-to-famous-the-seo-playbook-for-your-podcast/"><u>[New] From Undiscovered to Famous The SEO Playbook for Your Podcast</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-ever-fading-memories-revived-youtubes-lost-content-hunt-for-2024/"><u>[Updated] Ever-Fading Memories Revived YouTube's Lost Content Hunt for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-oculus-gaming-guide-best-selling-choices/"><u>2024 Approved Ultimate Oculus Gaming Guide Best-Selling Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/capturing-desktop-activity-a-guide-to-screen-recording-with-audio-on-windows-systems/"><u>Capturing Desktop Activity: A Guide to Screen Recording With Audio on Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/combine-multiple-videos-into-one-with-our-no-cost-online-video-editor/"><u>Combine Multiple Videos Into One with Our No-Cost Online Video Editor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-ultra-hd-understanding-the-shift-from-1080p-to-4k-resolution/"><u>Comparing Ultra HD: Understanding the Shift From 1080P to 4K Resolution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/compatibility-issue-resolved-recognizing-wd-my-passport-ultra-when-it-seems-invisible-to-windows/"><u>Compatibility Issue Resolved: Recognizing 'WD My Passport Ultra' When It Seems Invisible to Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-latest-epson-ds-530-printer-drivers-on-your-windows-10-pc-64-bit/"><u>Install Latest Epson DS- 530 Printer Drivers on Your Windows 10 PC (64 Bit)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/los-mas-eficaces-conectores-de-video-para-windows-11-un-ranking-con-los-7-mejores-opciones/"><u>Los Más Eficaces Conectores De Video Para Windows 11: Un Ranking Con Los 7 Mejores Opciones</u></a></li>
+<li><a href="https://games-able.techidaily.com/metaquest-3-review-entering-a-vr-renaissance/"><u>MetaQuest 3 Review: Entering a VR Renaissance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-gif-to-webm-upgrade-convert-your-animations-cost-free-using-top-seo-optimized-solutions/"><u>Online GIF to WebM Upgrade: Convert Your Animations Cost-Free Using Top SEO-Optimized Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-conexant-smartaudio-hd-audio-problem-on-windows-11-a-step-by-step-guide/"><u>Solving the Conexant SmartAudio HD Audio Problem on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-anticipated-apple-gathering-when-is-it-hottest-rumors-and-insights-revealed/"><u>The Anticipated Apple Gathering - When Is It? Hottest Rumors & Insights Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-most-effective-calendar-coordinators-enhancing-team-output-with-12-picks/"><u>The Most Effective Calendar Coordinators: Enhancing Team Output with 12 Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasforma-i-file-rmvb-in-mp4-online-e-gratuitamente-con-movavi/"><u>Trasforma I File RMVB in MP4 Online E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ogg-ogv-movavi/"><u>オンラインで簡単! Ogg, Ogvファイルを無料変換 - Movavi</u></a></li>
+</ul></div>
+

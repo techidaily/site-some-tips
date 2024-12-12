@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Hurdles: The Advanced Technology Small Enterprises Adopt for Growth | ZDNet"
-date: 2024-09-17 16:38:50
-updated: 2024-09-20 10:43:52
+date: 2024-12-06T16:39:49.977Z
+updated: 2024-12-12T20:13:23.908Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/9105fef2820e9cb0cafb243a0fa4a6bdd2cfafcad
 Encouraged by recent successes, small businesses are rushing to [exploit cloud computing](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) like never before – and it's a trend that's set to continue as they look for further digital transformation.
 
 Such is the strength of the shift to the cloud that Laurie McCabe, co-founder and partner at tech analyst SMB Group, suggests on-demand IT might be one of the few areas of tech spending where small businesses are at least keeping pace with their enterprise counterparts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -79,6 +83,10 @@ Trustpilot CISO Stu Hirst says his organisation makes heavy use of on-demand IT 
 
 "That's incredibly powerful for the speed at which we do things. You can then embed guardrails through that process, so security is embedded and there's a set of boundaries within which people can work."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Further reading on SMB Technology essentials:
 
 * **[Small business tech outlook: Here are the challenges and opportunities ahead](https://www.zdnet.com/article/small-business-tech-outlook-challenges-and-opportunities-ahead/)**
@@ -93,11 +101,31 @@ Trustpilot CISO Stu Hirst says his organisation makes heavy use of on-demand IT 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-journeying-beyond-boundaries-jaunt-vr-analysis/"><u>[New] Journeying Beyond Boundaries Jaunt VR Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-integrity-of-format-with-ffmpegs-audio-recapture-methods/"><u>[New] The Integrity of Format with FFmpeg's Audio Recapture Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-video-editing-inshots-place/"><u>[New] The Ultimate Guide to Video Editing - InShot's Place</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-transformation-mp4-plus-srt-success/"><u>[New] The Ultimate Transformation MP4 + SRT Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-av1-foundations-and-fundamentals/"><u>[New] Unveiling AV1 Foundations and Fundamentals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-captivating-instagram-puzzles-a-step-by-step-approach/"><u>[Updated] Crafting Captivating Instagram Puzzles A Step-by-Step Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-most-acclaimed-podcast-platforms-for-macbook-aficionados/"><u>[Updated] The Most Acclaimed Podcast Platforms for macBook Aficionados</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-of-10-best-zero-cost-srt-conversion-software/"><u>2024 Approved Ultimate List of 10 Best Zero-Cost Srt Conversion Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-tutorial-for-reinstalling-intel-centrino-apro-wireless-n-4905agn-drivers-on-your-pc/"><u>Complete Tutorial for Reinstalling Intel Centrino A/Pro Wireless - N 4905AGN Drivers on Your PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-ultimate-checklist-for-professional-youtube-clips/"><u>In 2024, The Ultimate Checklist for Professional YouTube Clips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-xps-movie-magic-software-essentials/"><u>In 2024, Unlock XP's Movie Magic Software Essentials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-advanced-computer-systems-with-expertise-from-toms-hardware/"><u>Navigating Advanced Computer Systems with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-your-business-efficiency-leveraging-chatgpt-for-better-workflow-management/"><u>Optimizing Your Business Efficiency: Leveraging ChatGPT for Better Workflow Management</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/stream-like-a-pro-top-5-devices-for-live-recording-success/"><u>Stream Like a Pro Top 5 Devices for Live Recording Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-adding-podcasts-in-instagram-stories-for-2024/"><u>The Art of Adding Podcasts in Instagram Stories for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-htc-u23-pro-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on HTC U23 Pro Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolving-mw-series-dev-error-6068-for-uninterrupted-play/"><u>Ultimate Guide to Resolving MW Series Dev Error 6068 for Uninterrupted Play</u></a></li>
+</ul></div>
+

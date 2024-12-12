@@ -1,7 +1,7 @@
 ---
 title: "The Rising Popularity of OpenStack & Kata Containers: Driving the Latest Wave in Cloud Tech Adoption"
-date: 2024-09-18 16:11:46
-updated: 2024-09-20 11:18:36
+date: 2024-12-08T20:20:12.399Z
+updated: 2024-12-12T17:09:23.198Z
 tags:
   - developer
 categories:
@@ -41,6 +41,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -111,6 +123,10 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/rom-shots-to-screens-the-importance-of-camera-lenses-in-vlogs/"><u>[New] From Shots to Screens The Importance of Camera Lenses in Vlogs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigate-web-with-ease-using-edges-split-screen-feature/"><u>[New] Navigate Web with Ease Using Edge's Split Screen Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-creatives-handbook-obtaining-stock-visuals-for-media/"><u>[Updated] The Creative's Handbook Obtaining Stock Visuals for Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-secret-life-of-a-designer-canvas-hidden-edits/"><u>[Updated] The Secret Life of a Designer Canva's Hidden Edits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-crafting-viral-videos-the-ultimate-fb-reel-techniques/"><u>2024 Approved Crafting Viral Videos The Ultimate FB Reel Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-review-of-wirecast-and-similar-programs/"><u>2024 Approved The Ultimate Review of WireCast & Similar Programs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-tiktok-video-techniques-that-work/"><u>2024 Approved Transformative TikTok Video Techniques That Work</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-personalization-enhance-your-websites-user-experience/"><u>Cookiebot-Driven Personalization: Enhance Your Website's User Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-windows-11-microphone-malfunctions/"><u>Diagnosing and Repairing Windows 11 Microphone Malfunctions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-economical-and-powerful-topmate-c302-cooling-pad-a-detailed-assessment/"><u>Evaluating the Economical and Powerful TopMate C302 Cooling Pad: A Detailed Assessment</u></a></li>
+<li><a href="https://fox-http.techidaily.com/framework-for-utilizing-movies-as-learning-tools/"><u>Framework for Utilizing Movies as Learning Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/guidance-to-fix-iphone-autofocus-problems-immediately/"><u>Guidance to Fix iPhone Autofocus Problems Immediately</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-step-by-step-guide-to-seamlessly-downloading-and-modifying-tamil-ringtones/"><u>In 2024, Step-by-Step Guide to Seamlessly Downloading and Modifying Tamil Ringtones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-integrating-b-footage-into-main-shots/"><u>In 2024, The Art of Integrating B-Footage Into Main Shots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-quantum-hdr-essentials/"><u>In 2024, Unveiling Quantum HDR Essentials</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-tempest-acer-screen-calm/"><u>Taming the Tempest: Acer Screen Calm</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-insiders-handbook-to-windows-11-video-mastery-for-2024/"><u>The Insider's Handbook to Windows 11 Video Mastery for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-asmr-equipment-for-thoughtful-shoppers-seeking-performance-for-2024/"><u>Top ASMR Equipment for Thoughtful Shoppers Seeking Performance for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unleash-creativity-a-compreayer-to-slow-motion-photography-and-videos-for-instagram-success/"><u>Unleash Creativity A Compreayer to Slow-Motion Photography and Videos for Instagram Success</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Path for Telcos with Generative AI: Learning From the Commercial Success of 5G Technologies"
-date: 2024-09-17 17:56:26
-updated: 2024-09-20 10:17:23
+date: 2024-12-05T20:21:11.727Z
+updated: 2024-12-12T17:42:49.506Z
 tags:
   - cloud
 categories:
@@ -61,6 +61,10 @@ GSMA projects that 5G connections will grow from 1.6 billion to 2.1 billion by t
 
 Jarich noted that use cases can differ for regions and markets, giving local telcos further opportunities to find new revenue. And with most GenAI services running on the cloud, operators can play a differentiating role in facilitating these. For instance, they can provide support for edge computing, which will be important for some GenAI services such as real-time language translation and smaller large language models (LLMs) that can be hosted on the device. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dedicated foundation model for telcos
 
 Domain-specific LLMs also are being made available to help identify GenAI use cases specific to the needs of a particular sector, such as financial or healthcare. 
@@ -118,11 +122,25 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 202
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-totv-multimedia-player-wmp-alternative-for-2024/"><u>[New] TOTV Multimedia Player WMP Alternative for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-the-authoritative-guide-to-tiktok-core-functionalities/"><u>[Updated] 2024 Approved The Authoritative Guide to TikTok Core Functionalities</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-unlocking-the-art-of-ps3-gaming-footage-collection/"><u>[Updated] In 2024, Unlocking the Art of PS3 Gaming Footage Collection</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-essential-qanda-on-quantum-hdr-technology/"><u>[Updated] The Essential Q&A on Quantum HDR Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-avi-gratuit-sur-ligne-changer-des-fichiers-wav-a-laide-de-movavi/"><u>Conversion AVI Gratuit Sur Ligne - Changer Des Fichiers WAV À L'aide De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargue-e-instale-la-nueva-aplicacion-de-conversion-virgenes-para-convertir-archivos-mkv-a-m2ts-sin-coste/"><u>Descargue E Instale La Nueva Aplicación De Conversión Vírgenes Para Convertir Archivos MKV a M2TS Sin Coste</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-conversor-de-videos-online-da-movavi-convertendo-seus-arquivos-de-forma-rapida-e-facil/"><u>Gratuito: Conversor De Vídeos Online Da MOVAVI - Convertendo Seus Arquivos De Forma Rápida E Fácil</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-xiaomi-redmi-note-13-pro-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Xiaomi Redmi Note 13 Pro 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-a05ss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy A05ss Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcode-your-audio-transform-flac-tracks-into-ringtone-ready-m4rs-at-no-cost-using-our-tool/"><u>Transcode Your Audio - Transform FLAC Tracks Into Ringtone-Ready M4Rs at No Cost Using Our Tool!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-civ-6-game-crashes-a-guide-to-fixing-access-violation-issues/"><u>Troubleshooting Civ 6 Game Crashes: A Guide to Fixing Access Violation Issues</u></a></li>
+</ul></div>
+

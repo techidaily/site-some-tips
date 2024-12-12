@@ -1,7 +1,7 @@
 ---
 title: "Common Lamentations: Why Upgrading to iPhone iOS 18 Left Us Wanting More - Shared Experiences"
-date: 2024-11-30T17:06:34.777Z
-updated: 2024-12-06T17:24:49.152Z
+date: 2024-12-11T16:38:56.356Z
+updated: 2024-12-12T18:08:17.843Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,18 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-elite-camera-tech-review-for-2024/"><u>[New] Elite Camera Tech Review for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-reclaiming-snaps-secret-images/"><u>[New] In 2024, Reclaiming Snap's Secret Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-summit-of-synergy-for-vr-sensations/"><u>[New] Summit of Synergy for VR Sensations</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-markets-top-picks-premier-drone-gimbals/"><u>[Updated] In 2024, Market's Top Picks Premier Drone Gimbals</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ps4-gameplay-to-video-an-in-depth-obs-recording-guide-for-2024/"><u>[Updated] PS4 Gameplay to Video - An In-Depth OBS Recording Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-googles-ar-sticker-innovation/"><u>[Updated] Understanding Google's AR Sticker Innovation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-text-boosting-techniques-in-videos/"><u>2024 Approved Top 10 Text Boosting Techniques in Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/digital-image-detail-enhancement-with-top-frameer-tools/"><u>Digital Image Detail Enhancement with Top Frameer Tools</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-mobvoi-ticwatch-pro-3s-dual-screens-and-advanced-gps-boosting-battery-efficiency/"><u>Expert Analysis: Mobvoi TicWatch Pro 3'S Dual Screens & Advanced GPS - Boosting Battery Efficiency</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/stirring-interest-and-emotions-the-ultimate-guide-to-engaging-tiktok-captions/"><u>Stirring Interest & Emotions The Ultimate Guide to Engaging TikTok Captions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-of-outstanding-storytelling-youtubers-this-year/"><u>The Ultimate List of Outstanding Storytelling YouTubers This Year</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-vanguard-of-radio-theatre-composition-for-2024/"><u>The Vanguard of Radio-Theatre Composition for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-secrets-of-movie-maker-for-windows-11-with-our-guide-for-2024/"><u>Unlock the Secrets of Movie Maker for Windows 11 with Our Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing/"><u>[New] Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-expert-guide-to-navigating-win11-easily/"><u>[New] The Expert Guide to Navigating Win11 Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-engagement-top-5-compelling-book-trailers/"><u>[New] Unlocking Engagement Top 5 Compelling Book Trailers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-digital-stream-capturers-2023-edition/"><u>[Updated] In 2024, Digital Stream Capturers, 2023 Edition</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978772271-asus-ac56-wireless-network-card-installation-woes-heres-how-to-get-it-running-in-windows-1087/"><u>ASUS AC56 Wireless Network Card Installation Woes? Here's How to Get It Running in Windows 10/8/7</u></a></li>
+<li><a href="https://games-able.techidaily.com/desk-gaming-a-new-trend/"><u>Desk Gaming: A New Trend?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/explaining-the-variances-in-exe-and-standard-msis-designs/"><u>Explaining the Variances in EXE and Standard MSIs' Designs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-asmr-a-soundtrack-to-better-health-and-happiness/"><u>In 2024, ASMR A Soundtrack to Better Health and Happiness</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-simplify-your-social-media-uploading-multiple-photos-and-vids-on-ig/"><u>In 2024, Simplify Your Social Media Uploading Multiple Photos and Vids on IG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-list-of-tools-for-accelerating-your-facebook-vids/"><u>In 2024, The Expert's List of Tools for Accelerating Your Facebook Vids</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-s18-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo S18 Black and White | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-online-portals-for-text-artistry-for-2024/"><u>Ultimate Guide to Online Portals for Text Artistry for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-virtual-potential-with-kinemasters-latest-android-release-for-2024/"><u>Unlocking Virtual Potential with KineMaster's Latest Android Release for 2024</u></a></li>
 </ul></div>
 

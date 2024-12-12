@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Ups and Downs: An Analytical Overview of Popularity Changes in Coding Languages Since 2016 - ZDNET's Perspective"
-date: 2024-09-19 18:18:51
-updated: 2024-09-20 11:55:22
+date: 2024-12-11T18:21:27.340Z
+updated: 2024-12-12T19:17:43.050Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-5-best-photo-video-maker-with-music-you-should-know/"><u>[New] In 2024, 5 Best Photo Video Maker With Music You Should Know</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-social-media-melody-ownership-laws/"><u>[New] Social Media Melody Ownership Laws</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-start-a-successful-youtube-gaming-channel/"><u>[Updated] 2024 Approved How to Start a Successful YouTube Gaming Channel</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-social-media-blend-easy-twitch-to-facebook-integration/"><u>[Updated] 2024 Approved Social Media Blend Easy Twitch to Facebook Integration</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-branding-beyond-words-eye-catching-podcast-graphics-for-2024/"><u>[Updated] Branding Beyond Words Eye-Catching Podcast Graphics for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-slide-show-enable-voice-input-with-powerpoint/"><u>2024 Approved Streamline Your Slide Show Enable Voice Input with PowerPoint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-efficient-zoom-meeting-arrangements-on-android/"><u>2024 Approved Tips for Efficient Zoom Meeting Arrangements on Android</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explaining-unpredictable-playback-in-instagram-videos/"><u>In 2024, Explaining Unpredictable Playback in Instagram Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transition-tunes-mastering-crossfading-in-music/"><u>In 2024, Transition Tunes Mastering Crossfading in Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/photobooth-frustration-unfreezing-video-playback-for-2024/"><u>Photobooth Frustration Unfreezing Video Playback for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revamped-device-for-hit-compliance-and-better-feedback/"><u>Revamped Device for HIT Compliance and Better Feedback</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+</ul></div>
+

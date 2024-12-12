@@ -1,7 +1,7 @@
 ---
 title: IBM Cloud Opens Up Adelaide Hub, Invests Billions in Expansion - Latest News From TechRadar
-date: 2024-09-18 10:11:30
-updated: 2024-09-20 11:25:36
+date: 2024-12-11T19:51:44.005Z
+updated: 2024-12-12T19:05:47.284Z
 tags:
   - cloud
 categories:
@@ -31,6 +31,10 @@ Amazon has 57 renewable energy initiatives across this region, including a groun
 
 AWS last February unveiled plans to [set up 10 local zones in Asia-Pacific](https://www.zdnet.com/article/aws-looks-to-tap-apac-demand-for-edge-access-with-local-zones/), as part of a global rollout to add 22 locations to the fold. It said the move to push cloud capabilities to the edge was in line with growing enterprise demand for ultra-low latency and distributed service delivery. Local zones would span six Asia-Pacific markets, including Auckland, Bangkok, Brisbane, and Bengaluru.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [AWS announces plan to launch AWS Australia for smoother billing and contracting](https://www.zdnet.com/article/aws-announces-plan-to-launch-aws-australia-for-smoother-billing-and-contracting/)
@@ -45,11 +49,33 @@ AWS last February unveiled plans to [set up 10 local zones in Asia-Pacific](http
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unlock-youtube-monetization-a-focus-on-short-video-profits/"><u>[New] 2024 Approved Unlock YouTube Monetization A Focus on Short Video Profits</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-efficient-file-transformation-in-vlc-from-mp4-to-various-formats/"><u>[New] Efficient File Transformation in VLC From MP4 to Various Formats</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elite-6-most-watched-shorter-video-repositories-for-2024/"><u>[Updated] Elite 6 Most Watched Shorter Video Repositories for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-apple-podcasts-a-quick-download-method/"><u>2024 Approved Apple Podcasts A Quick Download Method</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-note-30-vip-racing-edition-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix Note 30 VIP Racing Edition Unlock Without Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mov3g2-movawi/"><u>網路直接MOV影片到3g2格式： MOVAWI转换工具</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726218616272-wma-wav-movavi/"><u>網上無限制的 WMA 到 WAV 自動轉換 - 使用 Movavi 編譯器</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726222863374-aiff-wmv-movavi/"><u>網站上無成本轉換 AIFF 到 WMV - 使用Movavi的高效方法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gifjpeg-movavi/"><u>線上免費改變格式的GIF成JPEG - 透過Movavi進行簡易編譯</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-mp4-files-to-mov-format-online-at-no-cost-with-movavi-converter/"><u>Convert MP4 Files to MOV Format Online at No Cost with Movavi Converter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-conversion-change-gsm-audio-files-into-mp4-format-with-ease/"><u>Free Online Conversion: Change GSM Audio Files Into MP4 Format with Ease</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-s23-tactical-edition-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy S23 Tactical Edition for Parents | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-zooms-playbook-for-precision-and-polished-youtube-conferences/"><u>In 2024, Zoom's Playbook for Precision and Polished YouTube Conferences</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-s24plus-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy S24+ Phone? Unlock It Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ogg-mov-movavi-online-mp4/"><u>OGG MOV 비용 무료 변환 소프트웨어 - Movavi ONLINE 사용자가 쉽게 MP4로 전환해요</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-12-editing-tools-for-aspiring-vloggers-seeking-dynamic-visual-impact/"><u>Top 12 Editing Tools for Aspiring Vloggers Seeking Dynamic Visual Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/webaviogv-movavi/"><u>Web上で無料でAVIからOGVへの変換方法 - MOVAVI</u></a></li>
+</ul></div>
+

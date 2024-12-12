@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Hidden Expenses of 'Free' Phones From Your Cell Provider - A Deep Dive by ZDNet
-date: 2024-12-04T20:20:50.259Z
-updated: 2024-12-06T17:15:37.082Z
+date: 2024-12-07T17:59:12.414Z
+updated: 2024-12-12T16:58:59.441Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ How do you tell the difference?
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How free and low-cost phone offers work
@@ -45,6 +45,10 @@ If you trade your phone for a newer model or switch carriers before the promo pe
 You might be offered a higher-than-expected trade-in value for your current phone, again offered as a series of monthly credits. To qualify for the deal, you might have to add a new line of service or change to a new plan, but you can occasionally find upgrade deals for your current device. And, of course, these deals are only for "well-qualified" customers. If you have so-so credit scores, you might not be able to take advantage of the deal.
 
 In my experience, carriers go out of their way to make these deals complicated, and you need to look carefully to see if there are any hidden gotchas. Here are seven questions to ask up front to make sure you don't encounter an unpleasant surprise later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do I need to add a line to qualify?
 
@@ -61,7 +65,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does my existing plan qualify?
@@ -69,7 +73,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 The most attractive upgrade offers are typically only available if you sign up for one of the carrier's premium plans. If you're currently on a low-cost legacy plan from the same carrier or a competitor, be sure to find out how much your monthly payment for mobile service will increase. The difference might be enough to wipe out any savings from the promo credits.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will my new phone be locked to this carrier?
@@ -77,6 +81,10 @@ The most attractive upgrade offers are typically only available if you sign up f
 The carrier is offering that phone at a discount because they want to lock you into a steady stream of monthly service fees. Typically, that means the phone is SIM-locked until it's fully paid off. Consequently, you can't use it with a prepaid SIM card on your overseas trip, nor can you add a second line from a different carrier, even if you have a dual-SIM device.
 
 **Also: [The best iPhone deals of 2024: Free iPhone 15s, free iPads, cheap accessories](https://www.zdnet.com/article/iphone-deals/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How many months does the payment agreement last?
 
@@ -90,17 +98,9 @@ At any time during the agreement, you can pay the remaining balance and ask for 
 
 As an inducement for you to switch, some carriers will offer to reimburse you for your device payoff. Check the terms and conditions carefully before you accept that offer. If you decide to move to a new carrier, don't cancel your line at the old carrier until you've successfully ported your number over; if you do that move in the wrong order you risk losing your current phone number. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can I get a better deal on the phone somewhere else?
 
 Even if your carrier seems to be offering a good deal, be sure to shop around. Apple occasionally offers meaningful discounts on its iPhones, and the price after a trade-in might be good enough to consider, especially when you factor in the savings you get from sticking with a lower-cost legacy plan. Among the top Android device makers, Samsung and Google regularly offer deep discounts that are worth checking out. And all of those device makers offer 0% financing options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I get a better deal selling my phone instead of trading it in?
 
@@ -140,16 +140,18 @@ The exception to that rule is usually when a new smartphone model comes out; dur
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-strategies-for-incorporating-secondary-shots-in-filmmaking/"><u>[New] Strategies for Incorporating Secondary Shots in Filmmaking</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-pioneering-pedagogy-choosing-from-the-premier-10-lecture-recorders/"><u>[Updated] Pioneering Pedagogy Choosing From the Premier 10 Lecture Recorders</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-conquering-the-creative-sector-with-savvy-strategies/"><u>2024 Approved Conquering the Creative Sector with Savvy Strategies</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-financial-breakdown-of-music-video-production/"><u>2024 Approved Financial Breakdown of Music Video Production</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-navigating-through-vivas-video-content/"><u>2024 Approved Navigating Through Viva's Video Content</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-seamless-fileshift-android-media-to-iphone/"><u>2024 Approved Seamless Fileshift Android Media to iPhone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels/"><u>2024 Approved Streaming Selection Saga Choose Between Engaging Podcasts and YouTube Channels</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-periscopes-full-potential-your-ultimate-guide/"><u>2024 Approved Unveiling Periscope's Full Potential Your Ultimate Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/stop-the-halt-effective-ways-to-address-and-repair-pc-stops-and-jams/"><u>Stop the Halt: Effective Ways to Address and Repair PC Stops & Jams</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-gamers-checklist-a-guide-to-securely-transacting-for-oculus-quest-2-games/"><u>The Gamer's Checklist: A Guide to Securely Transacting for Oculus Quest 2 Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-index-downloading-your-preferred-chime-files-for-2024/"><u>Ultimate Index Downloading Your Preferred Chime Files for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-flip-the-script-instagrams-video-trick/"><u>[New] In 2024, Flip the Script Instagram's Video Trick</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocked-skies-cheapest-drones-that-dont-break-the-bank/"><u>[New] Unlocked Skies Cheapest Drones that Don't Break the Bank</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-observers-lens-reportage/"><u>[Updated] 2024 Approved Observer's Lens Reportage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-creative-windows-tools-for-video-editing/"><u>[Updated] In 2024, Creative Windows Tools for Video Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tech-tips-how-to-get-fcp-without-money/"><u>2024 Approved Tech Tips How to Get FCP Without Money</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-for-gradual-mix-adjustments-in-pro-tools/"><u>2024 Approved Techniques for Gradual Mix Adjustments in Pro Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/achieving-financial-gain-with-youtube-shorts-essentials-opportunities-and-earning-prospects-for-2024/"><u>Achieving Financial Gain with Youtube Shorts Essentials, Opportunities & Earning Prospects for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flickering-screen-follow-this-quick-asus-guide-to-solve-it/"><u>Flickering Screen? Follow This Quick ASUS Guide to Solve It</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-crafting-exceptional-instagram-ringtone-alerts-a-compreeved-guide/"><u>In 2024, The Art of Crafting Exceptional Instagram Ringtone Alerts A Compreeved Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upgrade-your-video-presentations-zooming-through-filter-techniques/"><u>In 2024, Upgrade Your Video Presentations Zooming Through Filter Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/leverage-powertoys-to-speed-up-rename-tasks/"><u>Leverage PowerToys to Speed Up Rename Tasks</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-valorant-load-speed-techniques-to-end-the-infinite-wait-screen/"><u>Mastering Valorant Load Speed: Techniques to End the Infinite Wait Screen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-speed-edit-photos-in-windows-11-for-2024/"><u>Unlocking Speed Edit Photos in Windows 11 for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI's Rise in Software Dev: Moving Past Outdated Automation Tactics | ZDNet"
-date: 2024-09-18 21:25:12
-updated: 2024-09-20 11:25:48
+date: 2024-12-08T20:03:19.998Z
+updated: 2024-12-12T19:14:14.459Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-curator-of-tweets-premium-compilation-toolkit/"><u>[New] 2024 Approved Curator of Tweets - Premium Compilation Toolkit</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-advice-on-leveraging-youtubes-video-editor/"><u>[New] Expert Advice on Leveraging YouTube's Video Editor</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-reviving-your-shows-heartbeat-saving-facebook-livestream-pauses-for-2024/"><u>[Updated] Reviving Your Show's Heartbeat Saving Facebook Livestream Pauses for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-sideways-surprise-decoding-instagram-video-strange-behavior/"><u>[Updated] The Sideways Surprise Decoding Instagram Video Strange Behavior</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>[Updated] Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tips-tuning-your-snapchat-videos-for-maximum-impact/"><u>2024 Approved Top Tips Tuning Your Snapchat Videos for Maximum Impact</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/diversity-in-dialogue-macaus-three-major-tongues/"><u>Diversity in Dialogue: Macau’s Three Major Tongues</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-tecno-phantom-v-fold-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Tecno Phantom V Fold FRP Locks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-apple-iphone-se-2022-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or Apple iPhone SE (2022) Stuck On Activation Lock?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-visual-testimonial-advantage/"><u>In 2024, The Visual Testimonial Advantage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/soaring-high-with-q500s-4k-vision-for-2024/"><u>Soaring High with Q500's 4K Vision for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-hardware-analysis-t172386287988620/"><u>Tom's Tech Insights: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://win-tips.techidaily.com/unlock-your-systems-potential-exploring-all-control-panel-settings-with-yl-computings-comprehensive-tutorial/"><u>Unlock Your System's Potential: Exploring All Control Panel Settings with YL Computing's Comprehensive Tutorial</u></a></li>
+</ul></div>
+

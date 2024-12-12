@@ -1,7 +1,7 @@
 ---
 title: "ZDNet: Samsung Overtakes Apple in Phone Sales Volume as New Market Contenders Close the Gap"
-date: 2024-12-04T19:38:22.720Z
-updated: 2024-12-06T19:11:27.202Z
+date: 2024-12-11T20:44:31.250Z
+updated: 2024-12-12T17:47:28.745Z
 tags:
   - apple
 categories:
@@ -77,21 +77,24 @@ We'll see if Apple can continue its grip on the global market share, but with th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-a-compreayers-pathway-to-efficient-screen-recording-via-zd-software/"><u>[New] In 2024, A Compreayer's Pathway to Efficient Screen Recording via ZD Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-backdrop-change-kit-pixelpioneers-reveal/"><u>[New] Ultimate Backdrop Change Kit PixelPioneer's Reveal</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-must-know-definition-of-digital-storytelling/"><u>[Updated] 2024 Approved Must-Know Definition of Digital Storytelling</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-snapchat-intro-video-breakdown-size-format-duration-for-2024/"><u>[Updated] SnapChat Intro Video Breakdown Size, Format, Duration for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-sony-bdp-s6700-review-updated/"><u>[Updated] Sony BDP-S6700 Review - Updated</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>[Updated] The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-accompanying-visual-content-with-music/"><u>2024 Approved The Art of Accompanying Visual Content with Music</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-fixing-a-broken-key-on-your-keyboard-or-smartphone/"><u>Expert Advice: Fixing a Broken '@' Key on Your Keyboard or Smartphone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/hd-wallpaper-and-background-graphics-premium-stock-photography-by-yl-computing/"><u>HD Wallpaper & Background Graphics: Premium Stock Photography by YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-6-video-editing-apps-for-macos-big-sur-11-for-2024/"><u>Top 6 Video Editing Apps for macOS Big Sur 11 for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/um-preciso-guia-ao-falar-em-portugal-frases-de-cunho-amigavel/"><u>Um Préciso Guia Ao Falar Em Portugal - Frases De Cunho Amigável</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unleash-creative-energy-video-creation-tips-on-the-latest-windows-10-edition/"><u>[New] 2024 Approved Unleash Creative Energy Video Creation Tips on the Latest Windows 10 Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-streamlabs-obs-demystified-an-in-depth-guide/"><u>[New] Streamlabs OBS Demystified An In-Depth Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-mastering-the-cutting-room-floor-youtube-studios-editor-guide/"><u>[Updated] In 2024, Mastering the Cutting Room Floor YouTube Studio's Editor Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-least-expensive-skyvault-service-for-big-files/"><u>[Updated] The Least Expensive SkyVault Service for Big Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-art-of-podcast-rss-mastery/"><u>[Updated] Unveiling the Art of Podcast RSS Mastery</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-the-process-to-pinpoint-a-personalized-identifier-for-tiktok/"><u>2024 Approved The Process to Pinpoint a Personalized Identifier for TikTok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-time-saving-strategies-mastering-video-playback-speed/"><u>2024 Approved Time-Saving Strategies Mastering Video Playback Speed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creative-stories-zoom-techniques-on-snapchat/"><u>2024 Approved Unleashing Creative Stories Zoom Techniques on Snapchat</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-lag-problems-in-guilty-gear-strive-a-comprehensive-guide/"><u>Fixing Lag Problems in Guilty Gear Strive: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-podcasts-starts-with-smart-name-generation/"><u>In 2024, The Future of Podcasts Starts with Smart Name Generation</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mastering-ios-problems-our-iphone-solution-kit-has-got-you-covered/"><u>Mastering iOS Problems? Our iPhone Solution Kit Has Got You Covered!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-ssd-lifespan-with-akasa-gecko-a-thorough-review-of-this-superior-blower-heatsink-technology/"><u>Maximizing SSD Lifespan with Akasa Gecko: A Thorough Review of This Superior Blower Heatsink Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tap-into-the-latest-gaming-and-app-splash-of-win11-for-2024/"><u>Tap Into the Latest Gaming and App Splash of Win11 for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ultimate-guide-full-disk-cloning-and-restoration-on-windows-server-2019/"><u>Ultimate Guide: Full Disk Cloning & Restoration on Windows Server 2019</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-rtmp-streams-overcoming-premieres-export-hurdle-for-2024/"><u>Unraveling RTMP Streams Overcoming Premiere's Export Hurdle for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

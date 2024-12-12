@@ -1,7 +1,7 @@
 ---
 title: How Intel's Leading AI Expert, Wei Li Plans to Make Powerful AI Supercomputing Accessible to All | ZDNET
-date: 2024-09-19 12:37:45
-updated: 2024-09-20 11:57:51
+date: 2024-12-10T19:54:05.643Z
+updated: 2024-12-12T16:21:32.445Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-best-camcorder-for-deer-hunting-excellence/"><u>[New] Best Camcorder for Deer Hunting Excellence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-impressive-hdr-portraits-explained/"><u>[New] The Art of Impressive HDR Portraits Explained</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-becoming-a-trendsetter-youtube-video-tactics/"><u>[Updated] In 2024, Becoming a Trendsetter YouTube Video Tactics</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-decoding-av1-and-vp9-codec-showdown/"><u>[Updated] In 2024, Decoding AV1 and VP9 Codec Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-hue-harmonizer-tool/"><u>[Updated] Ultimate Hue Harmonizer Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-srt-to-subc-innovative-techniques-explored/"><u>2024 Approved The Art of SRT to SUBC Innovative Techniques Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-free-screen-recording-in-win11/"><u>2024 Approved Unlock the Power of Free Screen Recording in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-using-srt-audio-on-windows-and-macos-devices/"><u>2024 Approved Using SRT Audio on Windows & macOS Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-honor-magic-6-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor Magic 6 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-m34-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy M34 5G FRP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synthesizing-worlds-latest-trends-in-virtual-tech/"><u>In 2024, Synthesizing Worlds Latest Trends in Virtual Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-finest-places-to-source-high-quality-vectors/"><u>In 2024, The Finest Places to Source High-Quality Vectors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-merits-of-stabilized-photo-editing-with-adobe/"><u>In 2024, Unraveling the Merits of Stabilized Photo Editing with Adobe</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-precision-meets-gsl-excellence-from-pearson/"><u>Mondly's Precision Meets GSL Excellence From Pearson</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-recover-from-roblox-crashes/"><u>Strategies to Recover From Roblox Crashes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-memory-management-via-mematic-for-2024/"><u>Streamline Memory Management via Mematic for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-android-ad-blockers-your-choice-comparison/"><u>Top 7 Android Ad Blockers Your Choice Comparison</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>Updated In 2024, Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
+</ul></div>
+

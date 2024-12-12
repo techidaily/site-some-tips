@@ -1,7 +1,7 @@
 ---
 title: Enterprise Linux Evolves with AI Integration by Red Hat – A Game-Changing Update for Businesses
-date: 2024-09-19 10:42:48
-updated: 2024-09-20 10:39:36
+date: 2024-12-06T19:31:38.012Z
+updated: 2024-12-12T16:14:11.325Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-boost-your-social-media-presence-through-instagram-video-edits/"><u>[New] 2024 Approved Boost Your Social Media Presence Through Instagram Video Edits</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-perfecting-your-content-understanding-facebook-video-sizes-and-ratios-for-2024/"><u>[New] Perfecting Your Content Understanding Facebook Video Sizes and Ratios for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-backdrop-choices-for-streamers/"><u>[New] Ultimate Backdrop Choices for Streamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-gradual-mix-adjustments-in-pro-tools/"><u>[Updated] Techniques for Gradual Mix Adjustments in Pro Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-srt-download-blueprint-from-youtube/"><u>[Updated] The Ultimate SRT Download Blueprint From YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-reddit-potentials-stepwise-procedures-for-sharing/"><u>[Updated] Unlock Reddit Potentials Stepwise Procedures for Sharing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-from-creator-to-curator-perfect-your-fb-video-sharing-skills/"><u>2024 Approved From Creator to Curator Perfect Your FB Video Sharing Skills</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-techniques-for-sharper-screen-collaboration/"><u>Advanced Techniques for Sharper Screen Collaboration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/flying-lotus-unleashed-experience-the-next-gen-battery-powered-all-in-one-pc-seamlessly-merging-laptop-foundations-with-cutting-edge-3d-print-components/"><u>Flying Lotus Unleashed: Experience the Next-Gen Battery-Powered All-in-One PC, Seamlessly Merging Laptop Foundations with Cutting-Edge 3D Print Components</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-prevent-major-pitfalls-with-apple-vision-pro-for-successful-results/"><u>How to Prevent Major Pitfalls with Apple Vision Pro for Successful Results</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-artisans-path-to-precision-zooming-on-kinemaster/"><u>In 2024, The Artisan’s Path to Precision Zooming on Kinemaster</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-voice-to-text-applications/"><u>In 2024, Top Tier Voice to Text Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-creative-potential-animated-text-techniques-ig-stories/"><u>In 2024, Unlocking Creative Potential Animated Text Techniques IG Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-windows-10s-full-potential-with-zoom-services/"><u>In 2024, Unveiling Windows 10'S Full Potential with Zoom Services</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/nightscape-notables-tips-for-capturing-starlit-portraits/"><u>Nightscape Notables Tips for Capturing Starlit Portraits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-capturing-attention-top-6-videos-to-watch-for-2024/"><u>The Art of Capturing Attention Top 6 Videos to Watch for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-dev-error-5573-in-call-of-duty-warzone-across-pc-and-consoles/"><u>Troubleshooting Guide: Resolving Dev Error 5573 in Call of Duty: Warzone Across PC and Consoles</u></a></li>
+</ul></div>
+

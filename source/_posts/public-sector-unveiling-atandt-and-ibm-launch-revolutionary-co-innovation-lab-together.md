@@ -1,7 +1,7 @@
 ---
 title: "Public Sector Unveiling: AT&T & IBM Launch Revolutionary Co-Innovation Lab Together"
-date: 2024-09-19 11:45:14
-updated: 2024-09-20 10:22:48
+date: 2024-12-10T18:43:10.534Z
+updated: 2024-12-12T18:03:28.731Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ AT&T and IBM [launched the collaboration](https://www.zdnet.com/article/ibm-form
 "One of the challenges that enterprises have to face when you think about 5G, cloud and edge computing is that it's accelerating pretty fast," William Stovall, AT&T's VP of mobility & IoT, said to _ZDNet_. "The challenge is, how do I undertake this, and how do I put it into practice. So to give enterprise customers a vehicle to see it in the works, and to have the opportunity to co-create, is a benefit that allows them a better roadmap to actually deploy these technologies."
 
 The co-innovation labs are designed to serve a range of industries, with clear use cases in areas like manufacturing and health care. The public sector has a number of compelling use cases, like delivering 5G-enabled communication services to first responders, or providing AR/VR environments to the military. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### MWC 2022
 
@@ -56,11 +60,28 @@ The opening of the new simulation lab will be particularly timely, given the imp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/aster-the-art-of-youtube-video-sizing-shape-and-clarity/"><u>[New] Master the Art of YouTube Video Sizing, Shape & Clarity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-obspluszoom-creating-a-flawless-production-workflow-for-2024/"><u>[Updated] OBS+Zoom Creating a Flawless Production Workflow for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-experts-top-stabilized-cameras-for-iphone-android-and-professional-use/"><u>2024 Approved Expert's Top Stabilized Cameras for iPhone, Android & Professional Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/buy-a-professional-video-editing-software-today/"><u>Buy a Professional Video Editing Software Today!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-omzetten-voor-online-zeeuwsheid-beveiligde-tod-bestandbeherberging-met-movavi/"><u>Gratis Omzetten Voor Online Zeeuwsheid: Beveiligde TOD-Bestandbeherberging Met Movavi</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-guide-to-youtubes-latest-income-strategies/"><u>In 2024, Guide to YouTube's Latest Income Strategies</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-6s-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 6s</u></a></li>
+<li><a href="https://app-tips.techidaily.com/leading-covid-19-vaccine-scheduling-solutions-reviewed-and-compared-itadvisor/"><u>Leading COVID-19 Vaccine Scheduling Solutions Reviewed & Compared - ITAdvisor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-k/"><u>Movavi ครับ เล่นแบบ สังเk�์</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-the-8-most-reliable-audio-extension-utilities-for-your-browser/"><u>The Ultimate List of the 8 Most Reliable Audio Extension Utilities for Your Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-tu-video-nsv-en-mpeg-sin-costo-con-la-herramienta-online-de-movavi/"><u>Transforma Tu Video NSV en MPEG Sin Costo Con La Herramienta Online De Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-future-of-graphics-nvidias-innovative-dlss-update-35/"><u>Unveiling the Future of Graphics: Nvidia’s Innovative DLSS Update 3.5</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-of-the-best-top-hd-video-editing-software/"><u>Updated Best of the Best Top HD Video Editing Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726220731483-10/"><u>ベストマック動画変換ツール トップ10 - 無料で最適化された選び方</u></a></li>
+</ul></div>
+

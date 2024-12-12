@@ -1,7 +1,7 @@
 ---
 title: Dual Initial Public Offerings Announced as Alibaba Prepares Its Cloud Division for Independence
-date: 2024-09-18 19:23:13
-updated: 2024-09-20 10:17:14
+date: 2024-12-06T17:01:26.580Z
+updated: 2024-12-12T19:24:47.665Z
 tags:
   - cloud
 categories:
@@ -94,11 +94,33 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-fb-video-ripper-convert-fb-content-to-mp3-for-2024/"><u>[New] FB Video Ripper Convert FB Content To MP3 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-link-from-instas-photos-to-tiks-videos/"><u>[Updated] The Ultimate Link From Insta's Photos to Tik's Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-game-screens-for-ps5-and-xbox-series-x-revealed/"><u>[Updated] Top Game Screens for PS5 and Xbox Series X Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-truth-apples-face-id-against-samsung-writers-face-matching/"><u>[Updated] Unveiling the Truth Apple's Face ID Against Samsung’ Writers' Face-Matching</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-secret-sauce-for-stellar-telegram-campaigns/"><u>2024 Approved The Secret Sauce for Stellar Telegram Campaigns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-facetune-guide-elevating-your-image-quality/"><u>2024 Approved Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-deep-dive-gemini-versus-chatgpt-the-ultimate-test/"><u>A Deep Dive: Gemini Versus ChatGPT – The Ultimate Test</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/adobe-premiere-tips-youtube-video-uploads-for-2024/"><u>Adobe Premiere Tips YouTube Video Uploads for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cant-connect-to-xbox-online-server-outage-or-local-internet-problems/"><u>Can't Connect to Xbox Online - Server Outage or Local Internet Problems?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-quintet-of-reasons-for-chatgpts-record-breaking-growth-spurt/"><u>Exploring the Quintet of Reasons for ChatGPT’s Record-Breaking Growth Spurt</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-blueprint-for-successful-individual-podcasts/"><u>In 2024, The Blueprint for Successful Individual Podcasts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-samsung-galaxy-m34-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Samsung Galaxy M34 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-macos-big-sur-minimum-requirements/"><u>In 2024, Understanding MacOS Big Sur Minimum Requirements</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/streamlined-video-logitechs-background-editing-guide/"><u>Streamlined Video - Logitech's Background Editing Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-experts-technique-for-age-estimation/"><u>The Expert's Technique for Age Estimation</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

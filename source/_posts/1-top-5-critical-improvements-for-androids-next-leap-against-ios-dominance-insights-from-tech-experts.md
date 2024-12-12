@@ -1,7 +1,7 @@
 ---
 title: "1. Top 5 Critical Improvements for Android's Next Leap Against iOS Dominance: Insights From Tech Experts"
-date: 2024-12-03T18:14:32.176Z
-updated: 2024-12-06T18:09:11.410Z
+date: 2024-12-05T16:44:41.153Z
+updated: 2024-12-12T16:07:39.389Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,18 +126,20 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unleashing-potential-the-easy-path-to-blending-linktree-with-tiktok-bios/"><u>[New] Unleashing Potential The Easy Path to Blending Linktree with TikTok Bios</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-the-best-a-compact-guide-to-2024s-top-10-lens-selections/"><u>[New] Unveiling the Best A Compact Guide to 2024'S Top 10 Lens Selections</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-secrets-to-mass-downloading-videos-from-tiktok-for-2024/"><u>[Updated] Secrets to Mass Downloading Videos From TikTok for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unable-to-see-video-sony-a6400-troubleshoot-guide/"><u>[Updated] Unable To See Video Sony A6400 Troubleshoot Guide</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-realme-c33-2023-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Realme C33 2023 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-a34-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/digital-storytelling-with-facebook-slideshow-creation-for-2024/"><u>Digital Storytelling with Facebook SlideShow Creation for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/how-to-make-talking-emoji-on-iphone-in-easy-steps-for-2024/"><u>How To Make Talking Emoji on iPhone in Easy Steps for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-a2-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi A2?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-mastering-windows-colors-expertise-for-viewing-and-editing-hd-video/"><u>In 2024, Mastering Windows Colors Expertise for Viewing & Editing HD Video</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-turning-clutter-into-clarity-managing-massive-tiktok-drafters/"><u>In 2024, Turning Clutter Into Clarity Managing Massive TikTok Drafters</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/look-at-reviews-read-customer-and-expert-reviews-to-ensure-that-this-model-meets-your-expectations-in-terms-of-performance-camera-quality-battery-life-and-o32/"><u>Look at Reviews: Read Customer and Expert Reviews to Ensure that This Model Meets Your Expectations in Terms of Performance, Camera Quality, Battery Life, and Overall User Experience.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-luts-in-the-realm-of-photographic-mastery-for-2024/"><u>Understanding LUTs in the Realm of Photographic Mastery for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-your-creative-process-with-instagrams-photography-tips/"><u>[New] Streamline Your Creative Process with Instagram's Photography Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-cheat-sheet-mastering-googles-voice-transcription-tool/"><u>[New] The Complete Cheat Sheet Mastering Google's Voice Transcription Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-itunes-radio-downloading-blueprint/"><u>[New] The Complete iTunes Radio Downloading Blueprint</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-zooming-in-a-step-by-step-guide-to-perfect-screenshare/"><u>[New] Zooming In A Step-by-Step Guide to Perfect Screenshare</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-experience-the-thrill-of-kinemaster-and-rank-10-online-alternatives-alike/"><u>[Updated] 2024 Approved Experience the Thrill of KineMaster and Rank 10 Online Alternatives Alike</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-strategies-for-enthralling-vlog-content-flow/"><u>[Updated] Strategies for Enthralling Vlog Content Flow</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-style-in-ae-title-design/"><u>[Updated] The Essence of Style in AE Title Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-upside-down-visuals-unraveling-instagram-video-confusion/"><u>[Updated] Upside Down Visuals Unraveling Instagram Video Confusion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-snipers-manual-to-capturing-live-online-music/"><u>2024 Approved The Sniper’s Manual to Capturing Live Online Music</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-infinix-zero-30-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Infinix Zero 30 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/scouring-the-internet-for-superior-pixel-ringtone-sources-for-2024/"><u>Scouring the Internet for Superior Pixel Ringtone Sources for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solution-guide-fixing-drivers-for-secure-pci-codec-operation/"><u>Solution Guide: Fixing Drivers for Secure PCI Codec Operation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-images-and-footage-on-iphone-for-2024/"><u>Syncing Images and Footage on iPhone for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-7-plus-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 7 Plus | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Agnes Ro Explores the Transforming Landscape of Development at Atlassian - Insights From ZDNet
-date: 2024-09-17 22:51:15
-updated: 2024-09-20 10:50:53
+date: 2024-12-09T17:01:50.419Z
+updated: 2024-12-12T18:02:48.485Z
 tags:
   - cloud
 categories:
@@ -17,11 +17,19 @@ Image: Atlassian
 
 The last decade has seen the role of software developers evolve at a rapid pace as more and more organisations aimed to deliver new iterations of applications faster and more frequently than ever before.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Software development: Emerging trends and changing roles ZDNet takes an in-depth look at key trends in software development and how developers are changing the tech industry.  Read now](https://www.zdnet.com/topic/software-development-emerging-trends-and-changing-roles/)
 
 Atlassian's head of engineering Agnes Ro has experienced this first-hand. Ro has spent the last 15 years working at the software company -- initially as a graduate developer, before rising up the ranks to oversee a team of 100 engineers for a department called Foundational Collaboration that sits within Atlassian's cloud platform. Some of her key responsibilities include delivering common experiences and backend services for Atlassian products, such as rich text editors in JIRA and Confluence, as well as file and storage experiences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The need for speed
 
@@ -38,6 +46,10 @@ Ro attributed the shortened turnaround time to customers shifting from on-premis
 Frameworks to support the language that developers write, especially in the front-end, have also matured, said Ro, recalling how when she first started her team were still charged with supporting IE6\. 
 
 "Browser standards are very standardised today, so engineers today deal with more different challenges."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Developer
 
@@ -58,6 +70,10 @@ She pointed out, for instance, how security is now top of mind during any develo
 
 "Security has become much more ingrained," Ro said. "I would say to all of our engineering teams it's the number-one priority for Atlassian. We've come to understand that it's not just the responsibility within a separate security department; it's everyone's responsibility, and so we do a lot to ensure we're constantly testing and trying to ship the best and secure products for our customers."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A seat at the table
 
 Ro believes software developers are no longer outliers within an organisation, but are increasingly playing more crucial roles. 
@@ -65,6 +81,10 @@ Ro believes software developers are no longer outliers within an organisation, b
 "Engineers now feel much more responsible for all parts of the development lifecycle, so they're not just writing code anymore," she said.
 
 "They really do have to follow all the way through to shipping and the operational side of things, and making sure that it is reliable, stable, and not just about writing and shipping the code, and so I definitely feel that that's been a huge change and shift."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Related Coverage
 
@@ -80,11 +100,28 @@ Ro believes software developers are no longer outliers within an organisation, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-iphone-editing-supremacy-cameo-vs-filmorago-face-off/"><u>[New] 2024 Approved IPhone Editing Supremacy Cameo Vs. FilmoraGo Face-Off</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-craft-natural-motion-depth-in-ps/"><u>[New] Craft Natural Motion Depth in PS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/afe-sharing-safe-viewing-tips-for-hiding-online-images-for-2024/"><u>[New] Safe Sharing, Safe Viewing Tips for Hiding Online Images for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/potlight-on-8-mirrorless-cameras-dominating-the-vlogging-scene/"><u>[New] Spotlight on 8 Mirrorless Cameras Dominating the Vlogging Scene</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-cutting-edge-strategies-for-instagram-video-cropping/"><u>2024 Approved Cutting-Edge Strategies for Instagram Video Cropping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhance-your-websites-analytics-effortlessly/"><u>Cookiebot-Enabled: Enhance Your Website's Analytics Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhancing-user-experience-through-personalized-engagement/"><u>Cookiebot-Enabled: Enhancing User Experience Through Personalized Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-marketing-solutions-drive-growth-through-advanced-analytics-and-personalization/"><u>Cookiebot-Enhanced Marketing Solutions: Drive Growth Through Advanced Analytics & Personalization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-tailored-and-tracked/"><u>Cookiebot-Enhanced User Experience: Tailored and Tracked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-the-backbone-of-your-sites-personalization-strategy/"><u>Cookiebot: The Backbone of Your Site's Personalization Strategy</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-tecno-spark-10-4g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Tecno Spark 10 4G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-14-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi 14 Ultra to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-c67-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Realme C67 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-window-cookie-expiry-post-login-errors/"><u>Setting Window' Cookie Expiry Post-Login Errors</u></a></li>
+</ul></div>
+

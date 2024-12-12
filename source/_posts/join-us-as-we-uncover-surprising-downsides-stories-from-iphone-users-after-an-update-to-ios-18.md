@@ -1,7 +1,7 @@
 ---
 title: Join Us as We Uncover Surprising Downsides - Stories From iPhone Users After an Update to iOS 18
-date: 2024-11-30T17:53:01.434Z
-updated: 2024-12-06T20:35:52.728Z
+date: 2024-12-07T16:11:23.959Z
+updated: 2024-12-12T20:44:22.695Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,22 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-10-best-youtube-makeup-artists-you-must-have-heard/"><u>[New] 2024 Approved 10 Best YouTube Makeup Artists You Must Have Heard</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-techniques-for-movie-recording-across-os-and-devices/"><u>[New] Comprehensive Techniques for Movie Recording Across OS and Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unpacking-the-enhancements-in-sony-s6500-bdp/"><u>[New] Unpacking the Enhancements in Sony S6500 BDP</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-bringing-history-alive-old-images-in-new-video-formats-for-2024/"><u>[Updated] Bringing History Alive Old Images in New Video Formats for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-guard-your-video-calls-the-ultimate-list-of-free-security-enhanced-applications/"><u>[Updated] Guard Your Video Calls The Ultimate List of Free Security-Enhanced Applications</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-self-validation-on-social-media-for-2024/"><u>[Updated] The Ultimate Guide to Self-Validation on Social Media for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transform-your-snapchat-pics-with-playful-cartoon-lens/"><u>[Updated] Transform Your Snapchat Pics with Playful Cartoon Lens</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-to-iphone-stellar-images/"><u>[Updated] Unlocking the Secrets to iPhone Stellar Images</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-magix-photo-manager-review/"><u>2024 Approved MAGIX Photo Manager Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-avi-video-rotation-16-top-picks-for-windows-mac-android-iphone-and-online-platforms-for-2024/"><u>Free AVI Video Rotation 16 Top Picks for Windows, MAC, Android, iPhone, and Online Platforms for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-iconic-quests-and-thrills-a-curated-list-of-classics/"><u>In 2024, Iconic Quests & Thrills A Curated List of Classics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-joint-ventures-in-content-creation-for-youtube-audiences/"><u>In 2024, Joint Ventures in Content Creation for YouTube Audiences</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-pinnacle-of-personal-data-holdings/"><u>In 2024, The Pinnacle of Personal Data Holdings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-youtube-spots-for-video-marketing-success-for-2024/"><u>Top YouTube Spots for Video Marketing Success for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-every-moment-top-ideas-for-enriching-life-through-podcasts-for-2024/"><u>Transform Every Moment Top Ideas for Enriching Life Through Podcasts for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-top-9-webcam-filters-for-professional-streamers-for-2024/"><u>Unveiling Top 9 Webcam Filters for Professional Streamers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-frugal-cloud-cradle-for-copious-file-collection/"><u>[New] 2024 Approved Frugal Cloud Cradle for Copious File Collection</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-unlocking-full-photo-viewing-capabilities-win-11-edition/"><u>[New] 2024 Approved Unlocking Full Photo Viewing Capabilities Win 11 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swiftsoundphone-apps-top-10-for-rapid-music/"><u>[Updated] SwiftSoundphone Apps Top 10 for Rapid Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-for-adding-music-to-photo-online/"><u>[Updated] Tips for Adding Music to Photo Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-visionary-composer-sensory-media-masterpiece-for-2024/"><u>[Updated] Visionary Composer Sensory Media Masterpiece for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tiktok-bio-enhancement-with-direct-url-integration/"><u>2024 Approved TikTok Bio Enhancement with Direct URL Integration</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-fix-inaccessible-boot-device-on-windows-server-2012-r2-top-6-tips/"><u>How to Fix Inaccessible Boot Device on Windows Server 2012 R2 - Top 6 Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-logic-pros-strategy-for-muffled-sound-tracks/"><u>In 2024, Logic Pro's Strategy for Muffled Sound Tracks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tongue-treasures-selecting-superb-audio-to-text-applications/"><u>In 2024, Tongue Treasures Selecting Superb Audio to Text Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transformative-talk-20-phrases-that-drive-business-growth/"><u>In 2024, Transformative Talk 20 Phrases That Drive Business Growth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-skypes-full-capacity-with-effective-zoom-methods/"><u>In 2024, Unlocking Skype's Full Capacity with Effective Zoom Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/masterful-use-of-chatgpt-cutting-out-inefficient-tools/"><u>Masterful Use of ChatGPT: Cutting Out Inefficient Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-wmp-cd-extraction-and-bursting-techniques-for-2024/"><u>Mastering WMP CD Extraction & Bursting Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-showdown-xsplits-efficacy-versus-obs-for-2024/"><u>The Ultimate Showdown XSplit's Efficacy Versus OBS for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-ranking-voip-services-is-vonage-leading-the-pack/"><u>Top Ranking VoIP Services: Is Vonage Leading the Pack?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-wireless-software-or-driver-on-windows-1110/"><u>Update Wireless Software or Driver on Windows 11/10</u></a></li>
 </ul></div>
 

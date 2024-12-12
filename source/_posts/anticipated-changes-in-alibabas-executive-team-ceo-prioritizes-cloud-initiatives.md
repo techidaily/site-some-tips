@@ -1,7 +1,7 @@
 ---
 title: "Anticipated Changes in Alibaba's Executive Team: CEO Prioritizes Cloud Initiatives"
-date: 2024-09-19 21:23:16
-updated: 2024-09-20 12:45:48
+date: 2024-12-09T17:57:59.436Z
+updated: 2024-12-12T16:18:03.692Z
 tags:
   - cloud
 categories:
@@ -72,11 +72,31 @@ In explaining the organizational restructure, Zhang previously said it would all
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/adjusting-your-ubuntu-desktop-relocating-the-dock-side-panel/"><u>Adjusting Your Ubuntu Desktop: Relocating the Dock Side Panel</u></a></li>
+<li><a href="https://app-tips.techidaily.com/best-top-5-artificial-intelligence-applications-for-enhancing-monochrome-footage/"><u>Best Top 5 Artificial Intelligence Applications for Enhancing Monochrome Footage</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-xiaomi-redmi-note-12-pro-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Xiaomi Redmi Note 12 Pro 4G?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-latest-features-of-the-16-gen-9-lenovo-legion-pro-7i-gaming-laptop-reviewed/"><u>Exploring the Latest Features of the 16 Gen 9 Lenovo Legion Pro 7I Gaming Laptop Reviewed!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-poco-frp-by-drfone-android/"><u>Full Guide to Bypass Poco FRP</u></a></li>
+<li><a href="https://facebook.techidaily.com/privacy-concerns-when-will-fb-messaging-go-e2ee/"><u>Privacy Concerns: When Will FB Messaging Go E2EE?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/spectacular-selects-ideal-laptops-mastering-4k-editing-for-2024/"><u>Spectacular Selects Ideal Laptops Mastering 4K Editing for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spell-success-the-most-common-english-language-gaffes-listed/"><u>Spell Success! The Most Common English Language Gaffes Listed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sportswomens-scorecard-poker-analysis-for-2024/"><u>SPORTSWOMEN'S SCORECARD Poker Analysis for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-the-michael-kors-access-gen-5e-mkgo-where-sophistication-meets-practicality/"><u>Unboxing the Michael Kors Access Gen 5E MKGO: Where Sophistication Meets Practicality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-power-of-ai-with-windows-copilot-enable-and-harness-microsofts-intelligent-assistant-efficiently/"><u>Unlocking the Power of AI with Windows Copilot - Enable & Harness Microsoft’s Intelligent Assistant Efficiently</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-natures-artistry-a-guide-to-apple-vision-pro-wonders-and-the-iconic-beauty-of-lake-vrangla/"><u>Unveiling Nature's Artistry: A Guide to Apple Vision Pro Wonders and the Iconic Beauty of Lake Vrangla</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-perplexity-your-ultimate-investment-in-an-exclusive-ai-chatbot/"><u>Unveiling Perplexity: Your Ultimate Investment in an Exclusive AI Chatbot</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

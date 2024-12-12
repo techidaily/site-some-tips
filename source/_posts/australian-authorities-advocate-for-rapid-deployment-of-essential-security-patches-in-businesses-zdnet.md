@@ -1,7 +1,7 @@
 ---
 title: Australian Authorities Advocate for Rapid Deployment of Essential Security Patches in Businesses | ZDNet
-date: 2024-09-17 16:56:10
-updated: 2024-09-20 11:22:35
+date: 2024-12-08T16:31:24.176Z
+updated: 2024-12-12T20:05:23.453Z
 tags:
   - cloud
 categories:
@@ -83,11 +83,31 @@ Under restrictions to administrative privileges, for instance, companies in leve
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-refine-image-quality-on-canon-devices-using-free-plus-payable-lut-tools/"><u>[Updated] Refine Image Quality on Canon Devices Using Free + Payable LUT Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-srt-audio-file-handling-for-oses/"><u>[Updated] SRT Audio File Handling for OSes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tips-for-zoom-on-chrome-devices/"><u>2024 Approved Top Tips for Zoom on Chrome Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tuneful-texts-musical-infusion-on-whatsapp/"><u>2024 Approved Tuneful Texts Musical Infusion on WhatsApp</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-vector-insight-for-beginners-basic-forms-and-choice-tools/"><u>2024 Approved Vector Insight for Beginners Basic Forms and Choice Tools</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-assemble-a-high-performance-pc-with-rtx-amid-and-2tb-ssd-under-budget-at-1000-thanks-to-amazons-deals/"><u>How to Assemble a High-Performance PC with RTX Amid and 2TB SSD Under Budget at $1,000 Thanks to Amazon's Deals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-canon-mg2900-the-ultimate-driver-downloads-guide/"><u>How to Update Your Canon MG2900: The Ultimate Driver Downloads Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-reimagining-mobile-photoshopping-iphone-x-insights/"><u>In 2024, Reimagining Mobile Photoshopping IPhone X Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/leveraging-frameworks-like-bootstrap-for-rapid-prototyping-for-2024/"><u>Leveraging Frameworks Like Bootstrap for Rapid Prototyping for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211270588-9780062035882-runes-in-ten-minutes/"><u>Runes in Ten Minutes | Free Book</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streaming-supremacy-duo/"><u>Streaming Supremacy Duo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swinging-sparrow-suites-for-2024/"><u>Swinging Sparrow Suites for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unraveling-the-enigma-why-cant-i-eject-my-external-hard-drive/"><u>Unraveling the Enigma: Why Can't I Eject My External Hard Drive?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

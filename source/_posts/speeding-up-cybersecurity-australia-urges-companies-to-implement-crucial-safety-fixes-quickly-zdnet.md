@@ -1,7 +1,7 @@
 ---
 title: "Speeding Up Cybersecurity: Australia Urges Companies to Implement Crucial Safety Fixes Quickly | ZDNet"
-date: 2024-09-18 23:10:27
-updated: 2024-09-20 10:29:52
+date: 2024-12-05T20:41:19.371Z
+updated: 2024-12-12T16:31:13.784Z
 tags:
   - cloud
 categories:
@@ -83,11 +83,31 @@ Under restrictions to administrative privileges, for instance, companies in leve
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-incredible-method-unlock-mac-using-apple-watch/"><u>[New] Incredible Method Unlock Mac Using Apple Watch</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-metaverse-musings-arvr-inclusive-quotes-collection/"><u>[New] Metaverse Musings AR/VR-Inclusive Quotes Collection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-pros-guide-to-srt-alterations-on-a-macbook/"><u>[New] The Pro's Guide to SRT Alterations on a MacBook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-magix-music-maker-2024-review/"><u>[Updated] The Ultimate Guide to Magix Music Maker 2024 Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726225226251-mp4movavi/"><u>如何利用無成本的影像變換工具 - 線上轉換你喜愛的影片到 MP4/MOV/AVI</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deep-dive-the-high-tech-world-of-dji-phantom-3-professional/"><u>Deep Dive The High-Tech World of DJI Phantom 3 Professional</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-how-to-live-stream-with-onestream-online-and-app/"><u>In 2024, How To Live Stream With OneStream - Online & App</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-techniques-for-smoothing-meetings-backgrounds-in-teams/"><u>In 2024, Techniques for Smoothing Meetings' Backgrounds in Teams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-spectrum-of-perfection-creating-stunning-hdrs-in-lightroom/"><u>In 2024, The Spectrum of Perfection Creating Stunning HDRs in Lightroom</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-skype-interviews-like-a-pro-the-ultimate-guide-to-landing-roles/"><u>Navigating Skype Interviews Like a Pro: The Ultimate Guide to Landing Roles</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/spotting-success-stories-2023s-most-shared-tweets-for-2024/"><u>Spotting Success Stories 2023’S Most Shared Tweets for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-virtual-evolution-dichotomy-metaverse-and-omniverse-compared-for-2024/"><u>The Virtual Evolution Dichotomy Metaverse & Omniverse Compared for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: White House Endorses Open Source AI Initiatives in Recent Release, Coverage by ZDNet
-date: 2024-09-18 10:24:13
-updated: 2024-09-20 10:27:59
+date: 2024-12-08T20:09:15.790Z
+updated: 2024-12-12T17:37:14.576Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -93,6 +101,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +114,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-elevate-your-photos-advanced-hdr-portraiture-methods/"><u>[New] In 2024, Elevate Your Photos Advanced HDR Portraiture Methods</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-ringtone-repository-best-sources-online/"><u>[New] Ringtone Repository Best Sources Online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-get-real-in-depth-recording-with-macbooks-cam/"><u>[Updated] 2024 Approved Get Real In-Depth Recording with MacBook's Cam</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-edge-adjusting-fcpx-to-vertical-footage/"><u>[Updated] 2024 Approved Instagram Edge Adjusting FCPX to Vertical Footage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-smooth-srt-exports-post-premiere/"><u>[Updated] Strategies for Smooth SRT Exports Post-Premiere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tailor-your-text-to-voice-top-5-cloud-services-for-chrome-os-sound-transformation/"><u>2024 Approved Tailor Your Text to Voice Top 5 Cloud Services for Chrome OS Sound Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-expertly-editing-images-at-home/"><u>2024 Approved The Essentials of Expertly Editing Images at Home</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-popular-virtual-reality-peripherals/"><u>2024 Approved Top 10 Popular Virtual Reality Peripherals</u></a></li>
+<li><a href="https://article-tips.techidaily.com/break-the-monotony-with-these-6-captivating-videos/"><u>Break the Monotony with These 6 Captivating Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-how-to-switch-off-acoustic-amplification-on-windows-10-systems/"><u>Guide: How to Switch Off Acoustic Amplification on Windows 10 Systems</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-polaroid-camplus-experience-for-action-lovers/"><u>In 2024, The Ultimate Polaroid Cam+ Experience for Action Lovers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-clipchamp-experience-on-windows-11/"><u>Streamline Your ClipChamp Experience on Windows 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-manual-to-earn-through-vimeos-revenue-channels/"><u>The Ultimate Manual to Earn Through Vimeo's Revenue Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-virtuosos-journey-transforming-zoom-live-streams-on-youtube-for-2024/"><u>The Virtuoso's Journey Transforming Zoom Live Streams on YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-iphone-photography-top-angles-for-stunning-images-for-2024/"><u>Unlock iPhone Photography Top Angles for Stunning Images for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-leading-10-free-subtitle-editors-for-srt-files-for-2024/"><u>Unveiling Leading 10 FREE Subtitle Editors for SRT Files for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-b-roll-for-enhanced-storytelling-for-2024/"><u>Utilizing B-Roll for Enhanced Storytelling for 2024</u></a></li>
+</ul></div>
+

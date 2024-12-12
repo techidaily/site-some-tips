@@ -1,7 +1,7 @@
 ---
 title: "Tech Professionals Feel Burned Out: Hopeful Insights From Industry Experts | TechCrunch"
-date: 2024-09-17 18:25:58
-updated: 2024-09-20 10:23:31
+date: 2024-12-07T18:26:51.990Z
+updated: 2024-12-12T19:11:48.931Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,11 +45,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -123,6 +139,10 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-to-search-filters-on-instagram/"><u>[Updated] 2024 Approved How to Search Filters on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-telegram-edge-advanced-tactics-for-effective-promotion/"><u>[Updated] The Telegram Edge Advanced Tactics for Effective Promotion</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/winx-dvd-dvdiosandroidmicrosoft/"><u>公式WinX DVDリッパーゴールド - 最新DVDコピー保護技術克服、iOS/Androidで高速Microsoft互換!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-your-apple-device-now-available/"><u>ChatGPT for Your Apple Device Now Available!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-what-we-know-so-far-apple-ring-pricing-projections-official-release-dates-and-rumored-specifications-explained/"><u>Discover What We Know So Far: Apple Ring Pricing Projections, Official Release Dates & Rumored Specifications Explained</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exclusive-prime-day-promotions-on-high-quality-trubit-audio-accessories/"><u>Exclusive Prime Day Promotions on High-Quality Trubit Audio Accessories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-pp-playbook-for-silent-scene-transitions/"><u>In 2024, The Ultimate PP Playbook for Silent Scene Transitions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-travelers-guide-mastering-video-speed-adjustment/"><u>In 2024, Time Traveler's Guide Mastering Video Speed Adjustment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-total-byte-requirement-for-24-hours-of-movie-viewing/"><u>In 2024, Total Byte Requirement for 24 Hours of Movie Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-magic-of-photo-cleanse-picsart-bg-removal/"><u>In 2024, Unveiling the Magic of Photo Cleanse Picsart Bg Removal</u></a></li>
+<li><a href="https://driver-download.techidaily.com/new-release-windows-11-ready-lenovo-drivers-for-a-smooth-experience/"><u>New Release: Windows 11-Ready Lenovo Drivers for a Smooth Experience</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/professionelle-videomontage-mit-kostenloser-ki-beste-tools-fur-pcs-windows-and-apple-computer/"><u>Professionelle Videomontage Mit Kostenloser KI – Beste Tools Für PCs (Windows) & Apple-Computer</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-effective-techniques-for-factory-rebooting-a-secured-htc-device/"><u>Step-by-Step Guide: Effective Techniques for Factory Rebooting a Secured HTC Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-editors-playbook-for-drone-imagery-for-2024/"><u>The Editor's Playbook for Drone Imagery for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-ultimate-tweet-to-facebook-manual-for-2024/"><u>The Ultimate Tweet-to-Facebook Manual for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-lunapics-secret-to-stunning-visuals-for-2024/"><u>Unlock LunaPic's Secret to Stunning Visuals for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-pixels-the-exclusive-advantages-of-hp-envy-27-for-2024/"><u>Unmatched Pixels The Exclusive Advantages of HP Envy 27 for 2024</u></a></li>
+</ul></div>
+

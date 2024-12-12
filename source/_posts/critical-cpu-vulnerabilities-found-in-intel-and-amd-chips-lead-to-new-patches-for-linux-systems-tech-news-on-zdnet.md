@@ -1,7 +1,7 @@
 ---
 title: Critical CPU Vulnerabilities Found in Intel and AMD Chips Lead to New Patches for Linux Systems | Tech News on ZDNet
-date: 2024-09-19 15:43:27
-updated: 2024-09-20 10:29:57
+date: 2024-12-08T19:26:34.735Z
+updated: 2024-12-12T18:13:24.468Z
 tags:
   - cloud
 categories:
@@ -88,11 +88,31 @@ So, what should you do? Get ready to install the new microcode as soon as it's a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-ultra-30-review-the-virb-action-cam-for-adventurers/"><u>[New] Ultra 30 Review – The VIRB Action Cam for Adventurers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-comprehensive-guide-to-youtubes-subscription-advantages/"><u>[Updated] Comprehensive Guide to YouTube's Subscription Advantages</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-expert-tips-for-harnessing-the-power-of-top-9-free-youtube-makers-for-2024/"><u>[Updated] Expert Tips for Harnessing the Power of Top 9 Free YouTube Makers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-androids-premium-music-video-watching-apps/"><u>[Updated] The Ultimate Guide to Android's Premium Music Video Watching Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-rapid-windows-photo-examiner-for-enhanced-efficiency/"><u>2024 Approved Rapid Windows Photo Examiner for Enhanced Efficiency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-shining-up-your-android-videos-effortlessly/"><u>2024 Approved Shining Up Your Android Videos Effortlessly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-unveiled-process-how-to-save-instagram-videos-with-computermac-os/"><u>2024 Approved The Unveiled Process How to Save Instagram Videos with Computer/Mac OS</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1725288774935-dvd/"><u>高品質、長持ち型: DVD動画に最適な安全な保存テクニックを解明</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-driven-solutions-enhancing-your-sites-personalization-and-analytics/"><u>Cookiebot-Driven Solutions: Enhancing Your Site's Personalization and Analytics</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-definitive-guide-to-iphone-photomosaic-creation-collage/"><u>In 2024, The Definitive Guide to iPhone Photomosaic Creation (Collage)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-inner-gamer-best-free-voice-change-tool-for-valorant/"><u>In 2024, Unleash Your Inner Gamer Best Free Voice Change Tool for Valorant</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

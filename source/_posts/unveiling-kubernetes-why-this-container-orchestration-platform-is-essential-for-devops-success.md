@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Kubernetes: Why This Container Orchestration Platform Is Essential for DevOps Success"
-date: 2024-09-18 19:14:46
-updated: 2024-09-20 12:55:52
+date: 2024-12-06T18:30:26.456Z
+updated: 2024-12-12T20:16:30.641Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-strategic-approaches-for-creating-impactful-youtubes-finality/"><u>[New] 2024 Approved Strategic Approaches for Creating Impactful Youtubes' Finality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-diy-templates-for-affordable-youtube-intros-for-2024/"><u>[New] DIY Templates for Affordable YouTube Intros for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-crescendo-to-connectivity-linking-song-lists-across-platforms-for-2024/"><u>[Updated] Crescendo to Connectivity Linking Song Lists Across Platforms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-newbies-guide-to-av1-codec/"><u>[Updated] The Newbie's Guide to AV1 Codec</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-secrets-top-strategies-for-advanced-srt-tweaks-on-apple/"><u>[Updated] Unveiling Secrets Top Strategies for Advanced SRT Tweaks on Apple</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-leading-tech-for-cloud-saving-top-choices-for-android/"><u>2024 Approved Leading Tech for Cloud Saving Top Choices for Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-smooth-segments-crossfade-logic-pro-steps/"><u>2024 Approved The Key to Smooth Segments Crossfade Logic Pro Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-quintessential-collection-of-anime-intros/"><u>2024 Approved The Quintessential Collection of Anime Intros</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crafting-captivating-instagram-puzzles-a-step-by-step-approach/"><u>Crafting Captivating Instagram Puzzles A Step-by-Step Approach</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-14-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi 14 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-youtubes-srt-a-three-step-process/"><u>In 2024, Unlocking YouTube’s SRT A Three-Step Process</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-activating-slack-alerts-on-apple-watch-tech-insights/"><u>Step-by-Step Guide: Activating Slack Alerts on Apple Watch | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-metaverse-awaits-gear-up-with-these-tools-for-2024/"><u>The Metaverse Awaits Gear Up with These Tools for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-guide-broadcasting-your-epic-fortnite-battles-in-real-time-from-pc/"><u>Ultimate Guide: Broadcasting Your Epic Fortnite Battles in Real-Time From PC</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/windows-truenas/"><u>Windowsデータ保護: TrueNASで簡単に自動バックアップ設定をするレシピ</u></a></li>
+</ul></div>
+

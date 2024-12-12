@@ -1,7 +1,7 @@
 ---
 title: Microsoft Enhances Azure's Artificnial Intelligence Voice Capabilities - Announced at Build Conference 2024
-date: 2024-09-17 15:31:57
-updated: 2024-09-20 12:47:25
+date: 2024-12-09T20:00:01.983Z
+updated: 2024-12-12T18:31:23.201Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-step-by-step-save-movs-on-windows-10/"><u>[New] In 2024, Step-by-Step Save MOVs on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-lens-leaders-showcase-unveiling-the-best-6-4k-dslrs/"><u>[New] Lens Leaders Showcase Unveiling the Best 6 4K DSLRs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-the-full-potential-of-your-live-streams-using-onestream/"><u>[New] Unleash the Full Potential of Your Live Streams Using OneStream</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-charting-out-youtubes-financial-strategy-for-nurturing-short-videos-for-2024/"><u>[Updated] Charting Out YouTube's Financial Strategy for Nurturing Short Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superiorly-crafted-radio-scripts/"><u>[Updated] Superiorly Crafted Radio Scripts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-tech-enthusiasts-manual-mastering-macoss-capture-tool/"><u>[Updated] Tech Enthusiasts' Manual Mastering macOS's Capture Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-guide-to-iphone-silhouette-mastery/"><u>[Updated] The Complete Guide to iPhone Silhouette Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/10-groundbreaking-final-cut-pro-extensions/"><u>10 Groundbreaking Final Cut Pro Extensions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-guide-to-quantum-hdr/"><u>In 2024, The Ultimate Guide to Quantum HDR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-science-of-motion-without-contact/"><u>In 2024, Unraveling the Science of Motion Without Contact</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/quick-and-simple-methods-transferring-your-contacts-from-vcf-to-iphone-in-just-4-steps/"><u>Quick and Simple Methods: Transferring Your Contacts From VCF to iPhone in Just 4 Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/studio-masterclass-in-depth-xvideostudio-report-for-2024/"><u>Studio Masterclass In-Depth XVideoStudio Report for 2024</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/top-7-conversores-de-dvd-para-mac-guia-completo-e-atualizado-em-2024/"><u>Top 7 Conversores De DVD Para Mac: Guia Completo E Atualizado Em 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-must-play-virtual-reality-titles-for-now-for-2024/"><u>Top 8 Must-Play Virtual Reality Titles for Now for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-editing-efforts-10-text-innovations-for-2024/"><u>Top Editing Efforts 10 Text Innovations for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unveiling-techniques-for-pace-modification-on-snapchat-videos-for-2024/"><u>Unveiling Techniques for Pace Modification on Snapchat Videos for 2024</u></a></li>
+</ul></div>
+

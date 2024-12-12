@@ -1,7 +1,7 @@
 ---
 title: "Discover the Top 5 Exciting Features of Apple's iOS 18 Preview: A Dive Into the Latest Public Beta!"
-date: 2024-12-05T18:37:04.986Z
-updated: 2024-12-06T17:14:18.117Z
+date: 2024-12-06T18:41:18.132Z
+updated: 2024-12-12T20:12:41.383Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,24 +120,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-advanced-screen-recording-suite-for-windows-and-macos/"><u>[New] 2024 Approved Advanced Screen Recording Suite for Windows & macOS</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-visuals-hub-icon-and-banner-crafting-tips/"><u>[New] In 2024, Channel Visuals Hub Icon & Banner Crafting Tips</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-leading-mac-gif-recorders-the-ultimate-list/"><u>[New] In 2024, Leading Mac GIF Recorders The Ultimate List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>[New] The Playlist Puzzle Assembling Songs in New Spaces</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-custom-tunes-for-your-pixel-phone/"><u>[New] Unlocking Custom Tunes for Your Pixel Phone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-transformation-of-windows-10-landscape/"><u>[Updated] The Transformation of Windows 10 Landscape</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-using-azures-voice-recognition/"><u>2024 Approved The Essentials of Using Azure's Voice Recognition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-your-single-picture-into-video-magic-with-pixiz/"><u>2024 Approved Transforming Your Single Picture Into Video Magic with Pixiz</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unveiling-best-practices-in-audio-to-text-translation/"><u>2024 Approved Unveiling Best Practices in Audio to Text Translation</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-a2plus-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-nokia-c12-plus-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Nokia C12 Plus Data? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-next-generation-of-vr-innovations-reviewed/"><u>In 2024, The Next Generation of VR Innovations Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-animation-set-for-typography/"><u>In 2024, Top-Ranked Animation Set for Typography</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/measuring-daily-movement-with-just-your-smartphone-tips-for-iphone-and-android-users/"><u>Measuring Daily Movement with Just Your Smartphone - Tips for iPhone and Android Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-gopro-max-or-hero-11-for-2024/"><u>Ultimate Guide to GoPro Max or Hero 11 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-creative-potential-with-10-best-backdrop-modification-software-for-2024/"><u>Unlock Creative Potential with 10 Best Backdrop Modification Software for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-audience-centric-approaches-to-voiceover-on-slides/"><u>[New] 2024 Approved Audience-Centric Approaches to Voiceover on Slides</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ultimate-guide-to-action-film-snapshotting/"><u>[New] In 2024, Ultimate Guide to Action Film Snapshotting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funny-frameworks-crafting-memes-with-ease/"><u>[Updated] Funny Frameworks Crafting Memes with Ease</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-learn-efficiently-how-to-use-zero-cost-timers/"><u>[Updated] Learn Efficiently How To Use Zero Cost Timers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-ae-titles-for-striking-visual-impact/"><u>[Updated] Top AE Titles for Striking Visual Impact</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-pick-unlimited-valorant-sound-transformation-tool-free-for-2024/"><u>[Updated] Top Pick Unlimited Valorant Sound Transformation Tool (Free) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-7-superior-video-players-on-mac/"><u>[Updated] Ultimate Guide to 7 Superior Video Players on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-budgets-youtube-marketing-investments/"><u>[Updated] Understanding Budgets YouTube Marketing Investments</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-spark-10-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Spark 10 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-film-star-access-pass-talent-release/"><u>2024 Approved Film Star Access Pass - Talent Release</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-20-tales-on-yt-where-to-find-the-best-storytelling/"><u>2024 Approved Top 20 Tales on YT Where to Find the Best Storytelling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-photos-repository-hubs/"><u>In 2024, Superior Photos Repository Hubs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-next-generation-of-social-video-periscopes-counterparts/"><u>In 2024, The Next Generation of Social Video Periscope's Counterparts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transformative-talk-20-words-to-bolster-marketing-success/"><u>In 2024, Transformative Talk 20 Words to Bolster Marketing Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-gimbals-for-smooth-filming-experience/"><u>In 2024, Ultimate Gimbals for Smooth Filming Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-10-hidden-powers-of-photoshop-newbies/"><u>In 2024, Unveiling 10 Hidden Powers of Photoshop Newbies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-depth-examination-androids-photography-solution-lightroom-for-2024/"><u>In-Depth Examination Android's Photography Solution, Lightroom for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/safeguarding-sound-quality-while-speeding-up-tracks-for-2024/"><u>Safeguarding Sound Quality While Speeding Up Tracks for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-the-fun-discover-these-best-chatgpt-games-today/"><u>Unleash the Fun! Discover These Best ChatGPT Games Today</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Journey of Making It Big with AI: Securing Spots in Top Music Platforms"
-date: 2024-09-18 17:56:24
-updated: 2024-09-20 10:47:56
+date: 2024-12-05T20:01:34.538Z
+updated: 2024-12-12T18:31:29.063Z
 tags:
   - cloud
 categories:
@@ -62,6 +62,10 @@ So I did. And I used AI to help me make it happen.
 * Artist image using a computer keyboard
 * Artist image in front of my muscle car
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  No AI was used in the creation or mixing of this music 
 
 Let me be clear. While I did use my computer to mix licensed sound samples and compose my own work, I did not use an AI to create or mix my music. My music is all me. That's important because I want my listeners (dare I say, fans) to know that what's on those tracks represents my skills, feelings, heart, and soul. 
@@ -97,6 +101,10 @@ I wanted the music to be _my_ music. Especially in this time of [generative AI](
 **Also: [How to write better AI prompts](https://www.zdnet.com/article/how-to-write-better-chatgpt-prompts/)**
 
 That said, while no AI was used in the creation or mixing of this music, I used the heck out of AI for the creation of album covers, website graphics, and related promotional text. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Album covers 
 
@@ -212,6 +220,10 @@ David Gewirtz via Midjourney/ZDNET
 
 I also used AI to create the site's wide banner, as well as two more spotlight images on the bio page. There's a lot to unpack here, so I'm going to break things out into their own sections.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The AI-ification of the Musician Dave image 
 
 I have been notoriously camera-shy. This is odd for a guy who appears in a couple of hundred YouTube videos and spent a good part of the 2010s splattered all over [network TV doing guest commentary](https://davidgewirtz.com/bio/), but it's true. In my younger days, if there was a camera at an event, I went the other way. As such, there are very few pictures of me as a younger man. 
@@ -252,6 +264,10 @@ David Gewirtz via Midjourney/ZDNET
 
 It was perfect. It somehow (I'm sure it was random chance) picked a leather jacket that looks almost exactly like the one I've been wearing for a decade now. This image became the main image on my music site, and my profile avatar for the various streaming services that require you to specify an artist image. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Photoshop (beta) Generative fill for the banner 
 
 At the top of each page is a wide banner. The original Midjourney image just isn't that wide. 
@@ -263,6 +279,10 @@ But I loaded the image into Photoshop, added more canvas space on either side of
 **Also: [How to use Photoshop's Generative Fill AI tool to easily transform your boring photos](https://www.zdnet.com/article/how-to-use-photoshops-generative-fill-ai-tool-to-easily-transform-your-boring-photos/)**
 
 Sweet. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Faceswap for the hacker image 
 
@@ -287,6 +307,10 @@ Then, using the /swapid command, I uploaded the hacker image from above and let 
 The original is on the left. The face match version is on the right. Because the one on the left is also based on my face, they're similar. But the one on the right is a bit more me.
 
 David Gewirtz via Midjourney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Midjourney, FaceSwap, and Generative Fill for the car image 
 
@@ -383,11 +407,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/1-abbyy-top-choice-for-everest-groups-idp-peak-matrix-evaluation/"><u>1. ABBYY: Top Choice for Everest Group's IDP Peak Matrix Evaluation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-boosting-engagement-the-key-to-creating-top-facebook-covers/"><u>2024 Approved Boosting Engagement The Key to Creating Top Facebook Covers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1724313333809-cookiebot-enabled-enhance-your-websites-analytics-and-personalization/"><u>Cookiebot-Enabled: Enhance Your Website's Analytics & Personalization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-a-resume-that-shines-in-design-industry/"><u>Crafting a Resume that Shines in Design Industry</u></a></li>
+<li><a href="https://win-able.techidaily.com/dead-by-daylight-fixed-how-to-overcome-error-code-8014-on-your-game/"><u>Dead by Daylight Fixed! How to Overcome Error Code 8014 on Your Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012254971-discord-setup-issues-heres-how-you-can-fix-an-installation-failed-error-easy-as-pie/"><u>Discord Setup Issues? Here's How You Can Fix an 'Installation Failed' Error Easy as Pie</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-x-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone X</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/lost-imessage-history-rediscover-your-communication-trail-with-these-8-ios-message-recovery-apps-spotlight-on-stellar/"><u>Lost iMessage History? Rediscover Your Communication Trail with These 8 iOS Message Recovery Apps - Spotlight on Stellar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-the-financial-sector-how-rpa-and-nlp-offer-innovative-solutions/"><u>Revolutionizing the Financial Sector: How RPA and NLP Offer Innovative Solutions</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-samsung-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Samsung</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-playing-bg3/"><u>The Ultimate Guide to Playing BG3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-enterprise-potential-enhancing-roi-through-ai-driven-content-strategies-insights-from-the-abbyy-blog/"><u>Unlocking Enterprise Potential: Enhancing ROI Through AI-Driven Content Strategies - Insights From the ABBYY Blog</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-cookiebot-technology-for-improved-site-analytics-and-visitor-insights/"><u>Utilizing Cookiebot Technology for Improved Site Analytics and Visitor Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/weltweit-kooperiert-kodak-alaris-mit-abbyy-fur-die-gemeinsame-digitale-datenverarbeitung/"><u>Weltweit Kooperiert Kodak Alaris Mit Abbyy Für Die Gemeinsame Digitale Datenverarbeitung</u></a></li>
+</ul></div>
+

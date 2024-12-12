@@ -1,7 +1,7 @@
 ---
 title: Insights on Organizational Clarity & Cultural Evolution Through Tech Industry Staffing Changes - A ZDNet Exploration
-date: 2024-09-19 20:53:27
-updated: 2024-09-20 11:34:59
+date: 2024-12-08T16:03:15.369Z
+updated: 2024-12-12T20:02:59.222Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Photo: Joe McKendrick
 As information technology staff dispersed to remote or work-at-home locations, what was the impact on initiatives such as DevOps and development? There are technology tasks that are well-suited for remote work. Still, there are other aspects of the job that still work better face to face. 
 
 That's the word from [Andy Nallappan](https://www.linkedin.com/in/nallappan/), chief technology officer and head of software business operations at Broadcom Software, one of the world's largest tech employers. I had the chance to chat with Nallappan while at Infosys' recent [Cobalt event](https://www.infosys.com/infosys-cobalt-world-tour-nyc.html), where he shared his experiences with managing a large workforce of technologists and the challenges faced over the past two years. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### executive guide
 
@@ -60,11 +64,27 @@ The important thing about corporate culture, he adds, is that it "should have cl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-how-do-beginners-make-a-cool-video-for-youtube-on-mac/"><u>[New] How Do Beginners Make a Cool Video for YouTube on Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-score-the-best-9-websites-providing-exquisite-3d-graffiti-fonts/"><u>2024 Approved Score the Best 9 Websites Providing Exquisite 3D Graffiti Fonts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-tactics-to-modify-playback-speed-in-spotify-for-2024/"><u>Advanced Tactics to Modify Playback Speed in Spotify for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-photo-background-blur-apps-for-iphone-and-android-phones-for-2024/"><u>Best Photo Background Blur Apps for iPhone and Android Phones for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/complimentary-image-and-video-assets-explore-the-creative-library-at-movavi/"><u>Complimentary Image & Video Assets - Explore the Creative Library at Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y27s-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y27s to Outlook | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726221377678-jpeg-movavi/"><u>JPEGファイルの無料オンライン変換 - Movaviで簡単行う方法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mejora-la-compresion-de-videos-en-linea-y-sin-coste-trucos-para-mantener-la-alta-calidad-visual/"><u>Mejora La Compresión De Videos en Línea Y Sin Coste: Trucos Para Mantener La Alta Calidad Visual</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-convertitore-video-gratuito-per-mod-ottenere-il-tuo-ora/"><u>Movavi Convertitore Video Gratuito per Mod: Ottenere Il Tuo Ora!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-melhores-gravadores-inalambricos-para-audio-interno-selecao-do-movavi-em-2024-todas-as-opcoes-livres/"><u>Os Melhores Gravadores Inalámbricos Para Áudio Interno: Seleção Do Movavi Em 2024 – Todas as Opções Livres</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-free-photo-editing-apps-for-macos-your-complete-guide/"><u>Top Free Photo Editing Apps for macOS : Your Complete Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-facebook-has-renamed-the-news-feed-to-just-feed/"><u>Why Facebook Has Renamed the News Feed to Just Feed</u></a></li>
+</ul></div>
+

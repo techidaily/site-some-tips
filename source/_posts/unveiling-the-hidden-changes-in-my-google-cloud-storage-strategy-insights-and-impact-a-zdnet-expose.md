@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Hidden Changes in My Google Cloud Storage Strategy: Insights & Impact - A ZDNet Expose"
-date: 2024-09-19 18:48:42
-updated: 2024-09-20 12:36:48
+date: 2024-12-07T18:05:51.938Z
+updated: 2024-12-12T20:44:37.549Z
 tags:
   - cloud
 categories:
@@ -39,6 +39,10 @@ You can catch up on the history of my deep dive into the situation here:
 * [Re-homing G Suite storage: No, you can't find out how much storage your folders use](https://www.zdnet.com/article/re-homing-g-suite-storage-no-you-cant-find-out-how-much-storage-your-folders-use/)
 * [Re-homing G Suite storage: Enterprise plan options seem unnecessarily murky](https://www.zdnet.com/article/re-homing-g-suite-storage-why-the-enterprise-plan-options-seem-unnecessarily-murky/)
 * [Why my two-person company bought a Google Workspace Enterprise plan](https://www.zdnet.com/article/why-my-two-person-company-bought-a-google-workspace-enterprise-plan/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Backgrounder
 
@@ -83,6 +87,10 @@ And yes, I knew it might all go bad. I said as much, too:
 > In the meantime, I hope we've at least bought ourselves a couple of years before having to address the cloud storage problem again. 
 
 18 months. I got 18 months, almost to the day. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  SitRep (situation report) 
 
@@ -130,11 +138,19 @@ Twelve hours later, this appeared in my inbox:
 
 I tried rescheduling. It's now been four days. I've sent two additional email requests to have that phone conversation he wanted, and still no further response. That's where the situation lives right now. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The rest of the story
 
 Roughly 12 hours after I first posted this article, a senior technician from Google Workspace Support reached out to tell me my storage had been increased by another 25TB and the freeze warning was shut off. I'd like to think this was just their process and not the result of my article, but we'll never know. 
 
 Nonetheless, needing 10TB+ more storage every year clearly isn't sustainable, so I'm going to audit my backup use and see if there's any way I can reduce my overall storage footprint.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What I'm going to do about it 
 
@@ -167,6 +183,10 @@ Screenshot by David Gewirtz/ZDNET
 My current plan is to delete the entire Cloud Backup directory. Although I have no way of knowing how much is stored there until I delete it, I'm guessing it's probably roughly half of the overall storage footprint. I'm still backing up, in that I have mirrors of the local servers. The only thing I won't have is the ability to roll back a backup and recover older, lost data. 
 
 That's certainly not ideal, but faced with the choice of having my entire Google infrastructure frozen on August 26, or giving up on backup rollbacks, I guess I'll give up on backup rollbacks. I still have all my local backups. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  My one remaining worry and thoughts about what this all means 
 
@@ -209,11 +229,25 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-google-meeting-documentation-a-time-saving-guide/"><u>2024 Approved Mastering Google Meeting Documentation A Time-Saving Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-1-top-11/"><u>2024의 1위: Top 11 동영상 인코딩 소피</u></a></li>
+<li><a href="https://some-tips.techidaily.com/7-best-no-cost-dvd-players-of-202-recommended-software-list/"><u>7 Best No-Cost DVD Players of 202^! Recommended Software List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-gratuitement-un-fichier-bmp-en-format-gif-avec-movavi/"><u>Convertissez Gratuitement Un Fichier BMP en Format GIF Avec Movavi</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-x-fold-2-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-a14-4g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy A14 4G Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-m14-4g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy M14 4G Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-a25-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy A25 5G Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/la-guia-definitiva-para-reducir-el-tamano-de-archivos-voluminosos-con-los-herramientas-de-compactacion-mas-eficaces/"><u>La Guía Definitiva Para Reducir El Tamaño De Archivos Voluminosos Con Los Herramientas De Compactación Más Eficaces</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-guide-to-easily-reverse-a-video-in-real-time-using-your-computer-or-going-online/"><u>Quick Guide to Easily Reverse a Video in Real-Time Using Your Computer or Going Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-tardy-text-notifications-on-your-iphone-apply-these-9-remedies/"><u>Struggling with Tardy Text Notifications on Your iPhone? Apply These 9 Remedies!</u></a></li>
+</ul></div>
+

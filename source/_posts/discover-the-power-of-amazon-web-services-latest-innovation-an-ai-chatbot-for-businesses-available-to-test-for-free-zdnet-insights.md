@@ -1,7 +1,7 @@
 ---
 title: Discover the Power of Amazon Web Services' Latest Innovation - An AI Chatbot for Businesses, Available to Test for Free | ZDNET Insights
-date: 2024-09-17 16:41:27
-updated: 2024-09-20 11:24:14
+date: 2024-12-06T17:19:25.893Z
+updated: 2024-12-12T18:54:45.822Z
 tags:
   - cloud
 categories:
@@ -92,11 +92,29 @@ The full livestream of Tuesday's keynote for re:Invent can be seen on the Amazon
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-securing-your-gaming-moments-with-windows-11/"><u>[New] In 2024, Securing Your Gaming Moments with Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-pathway-to-creating-metaverse-identities/"><u>[Updated] The Ultimate Pathway to Creating Metaverse Identities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-bid-adieu-the-journey-of-microsofts-windows-mixed-reality-comes-to-an-end/"><u>1. Bid Adieu: The Journey of Microsoft's Windows Mixed Reality Comes to an End</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avi-online-movavi/"><u>AVI 플랫 형식으로 무료 변환 - Online 문제 해결: Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-votre-animation-gif-en-video-m4v-pour-rien-effortless-video-converter/"><u>Convertissez Votre Animation GIF en Vidéo M4V Pour Rien - Effortless Video Converter</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/educational-essays-or-ai-generated-text-the-new-norm/"><u>Educational Essays or AI-Generated Text? The New Norm?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effective-strategies-for-earning-revenue-from-your-online-videos/"><u>Effective Strategies for Earning Revenue From Your Online Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-my-ipad-wont-print-a-step-by-step-guide-for-frustrated-users/"><u>Fixing 'My iPad Won't Print': A Step-by-Step Guide for Frustrated Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-capturing-the-journey-a-camera-buyers-guide/"><u>In 2024, Capturing the Journey A Camera Buyer's Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-social-play-the-top-15-dual-platform-games/"><u>Seamless Social Play: The Top 15 Dual-Platform Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726226976704-mp3-wma/"><u>무료 MP3, WMA 제공 - 최고의 오디오 변환 도구로 다양한 오디오 파일을 전환하기</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

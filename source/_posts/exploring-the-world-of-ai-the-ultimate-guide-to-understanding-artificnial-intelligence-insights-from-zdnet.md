@@ -1,7 +1,7 @@
 ---
 title: "Exploring the World of AI: The Ultimate Guide to Understanding Artificnial Intelligence - Insights From ZDNet"
-date: 2024-09-19 22:41:15
-updated: 2024-09-20 12:56:23
+date: 2024-12-10T19:19:28.063Z
+updated: 2024-12-12T17:33:19.792Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/9d7209d5fb9a0cfe5e75a8c3a6641e5ae9f76e0cf
 ![gettyimages-1888972727](https://www.zdnet.com/a/img/resize/ada36a8ca094a512f972578b7b4742f38ac90b5c/2024/05/28/95683789-ebda-4272-964e-ce5d1a5a000f/gettyimages-1888972727.jpg?auto=webp&width=1280)
 
 Weiquan Lin/Getty Images
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is artificial intelligence?
 
@@ -57,6 +61,10 @@ A major function of AI in consumer products is personalization, whether for targ
 
 On a bigger scale, marketing and content teams can use AI to [streamline production](https://www.zdnet.com/article/what-adobes-new-ai-powered-express-for-enterprise-can-do-for-business-teams/), while developers [write and execute code](https://www.zdnet.com/article/github-releases-an-ai-powered-tool-that-is-a-radically-new-way-of-building-software/) with it. AI can also exponentially increase the speed and efficiency of [medical research](https://www.zdnet.com/article/how-ai-hallucinations-could-help-create-life-saving-antibiotics/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is machine learning (ML)?
 
 Bing Image Creator/ZDNET
@@ -68,6 +76,10 @@ When data is structured, or organized, a system can more easily detect an anomal
 **Also:** [**What is machine learning? Everything you need to know**](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/)
 
 Examples of ML include search engines, image and speech recognition, and fraud detection. Similar to Face ID, when users upload photos to Facebook, the social network's image recognition can analyze the images, recognize faces, and make recommendations to tag the friends it's identified. With time, practice, and more image data, the system hones this skill and becomes more accurate. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does machine learning work?
 
@@ -81,6 +93,10 @@ Suppose you wanted to train an ML model to recognize and differentiate images of
 
 The algorithm would then learn from this labeled collection of images to distinguish the shapes and their characteristics: in this case, circles don't have corners, and squares have four equal-length sides. The system can then see a new image and determine the shapes. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Unsupervised learning**
 
 By contrast, unsupervised learning lets algorithms try to identify patterns in unlabeled data by looking for similarities that it can use to categorize the data. 
@@ -89,6 +105,10 @@ The algorithms aren't programmed in advance to pick out specific types of data; 
 
 **Also:** [**Machine learning is going real-time: Here's why and how**](https://www.zdnet.com/article/machine-learning-is-going-real-time-heres-why-and-how/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Reinforcement learning**
 
 In reinforcement learning, the system is trained to maximize a reward based on input data, going through a trial-and-error process until it arrives at the best possible outcome.
@@ -96,6 +116,10 @@ In reinforcement learning, the system is trained to maximize a reward based on i
 Imagine training a system to play a video game. The system can receive a positive reward if it gets a higher score and a negative reward for a low score. The system learns to analyze the game and make moves, learning solely from the rewards it receives. It can eventually play by itself and learn to achieve a high score without human intervention.
 
 Reinforcement learning is also used in research, where it can help teach autonomous robots the optimal way to behave in real-world environments. [Robots](https://www.zdnet.com/article/boston-dynamics-latest-atlas-robot-sure-has-some-creepy-moves/) learning to navigate new environments they haven't ingested data on -- like maneuvering around surprise obstacles -- is an example of more advanced ML that can be considered AI. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the different types of AI?
 
@@ -159,9 +183,17 @@ The autopilot feature in Tesla's electric vehicles is probably what most people 
 
 [Cruise](https://www.zdnet.com/article/months-after-a-high-profile-accident-cruise-returns-to-phoenix-but-only-for-mapping/) is another robotaxi service, and auto companies like Audi, GM, and Ford are also presumably working on self-driving vehicle technology. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Robotics**
 
 The achievements of [Boston Dynamics](https://www.zdnet.com/article/boston-dynamics-latest-atlas-robot-sure-has-some-creepy-moves/) stand out in the area of AI and robotics. Though we're still a long way from creating Terminator-level AI technology, watching Boston Dyanmics' hydraulic, humanoid robots use AI to navigate and respond to different terrains is impressive. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **DeepMind**
 
@@ -279,6 +311,10 @@ Microsoft has also invested heavily in OpenAI's development. The tech giant uses
 
 Apple has also entered the space most recently with its AI-upgraded [line of iPads](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/) and potential [new announcements](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-openai-microsoft-and-google-at-wwdc-2024/) to come at WWDC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Other companies
 
 Other firms are making strides in artificial intelligence, including [Baidu](https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/), [Alibaba](https://www.zdnet.com/article/alibaba-cloud-hops-on-chatgpt-bandwagon-offers-ai-model-to-customers/), [Cruise](https://www.zdnet.com/article/gm-cruise-automated-cars-are-under-federal-investigation-for-hard-braking-stranding-passengers/), [Lenovo](https://www.zdnet.com/article/lenovo-plans-to-add-12000-new-hires-to-r-d-team-in-the-next-three-years/), [Tesla](https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/), and more.
@@ -304,6 +340,10 @@ Neural networks can be used to realistically replicate someone's voice or likene
 Because AI makes automation so easy on a large scale, researchers and tech employees share concerns about its role in [weapons manufacturing](https://www.zdnet.com/article/despite-dall-e-military-pitch-openai-maintains-its-tools-wont-be-used-to-develop-weapons/) and warfare. 
 
 **Also: [The ethics of generative AI: How we can harness this powerful technology](https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will an AI steal your job?
 
@@ -340,11 +380,33 @@ There is a broad range of opinions among AI experts about how quickly artificial
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/-step-financial-forecasting-assessing-revenue-from-googles-platform-youtube-for-2024/"><u>[New] 3-Step Financial Forecasting Assessing Revenue From Google's Platform, YouTube for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-business-communication-essentials-free-slide-show-tools/"><u>[New] Business Communication Essentials – Free Slide Show Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-do-i-make-my-video-perfectly-fit-instagram-in-2024/"><u>[New] How Do I Make My Video Perfectly Fit Instagram, In 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-barefoot-tape-observation-and-supplementary-selections/"><u>[Updated] In 2024, Barefoot Tape Observation and Supplementary Selections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-webmswf/"><u>網路上自由下載MOVAVI WebM到SWF的轉換工具</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726222800570-movavi/"><u>与 Movavi 精心设计的联锁营销 - 量身定制深度链接生成</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decouvrez-les-meilleures-versions-gratuites-de-convertisseur-mov-mac-oswindowsen-ligne-classement-des-experts/"><u>Découvrez Les Meilleures Versions Gratuites De Convertisseur MOV [Mac OS/Windows/En Ligne] : Classement Des Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-y-convertir-archivos-ogm-a-formatos-de-video-en-linea-sin-coste-con-movavi/"><u>Descargar Y Convertir Archivos OGM a Formatos De Video en Línea Sin Coste Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/entendendo-o-formato-de-video-mov-tecnicas-para-abertura-e-conversao/"><u>Entendendo O Formato De Vídeo MOV: Técnicas Para Abertura E Conversão</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-avi-to-mp4-effortless-video-format-changing-with-movavi/"><u>Free Online Converter: AVI to MP4 - Effortless Video Format Changing with Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-conversor-de-webm-para-ogv-online-moviavi/"><u>Gratuito Conversor De WebM Para OGV Online - Moviávi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guia-paso-a-paso-para-cargar-videos-en-tiktok-desde-una-computadora/"><u>Guía Paso a Paso Para Cargar Vídeos en TikTok Desde Una Computadora</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-how-to-restore-windows-photo-viewer-in-windows-10-2-methods/"><u>In 2024, How to Restore Windows Photo Viewer in Windows 10 (2 Methods)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-key-to-profit-youtube-shorts-insights/"><u>In 2024, The Key to Profit YouTube Shorts Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maximize-windows-11-tackle-wmi-provider-host-overheat/"><u>Maximize Windows 11: Tackle WMI Provider Host Overheat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-aif-to-mov-file-transformation-no-cost-solution-by-movavi/"><u>Online AIF to MOV File Transformation: No Cost Solution by Movavi</u></a></li>
+<li><a href="https://win-superb.techidaily.com/restoring-a-vmware-environment-effective-techniques-for-data-restoration-in-esxi-and-workstation-systems/"><u>Restoring a VMware Environment: Effective Techniques for Data Restoration in ESXi & Workstation Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170191625-step-up-the-challenge-youtube-touts-new-mini-games/"><u>Step Up the Challenge: YouTube Touts New Mini-Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-up-your-file-game-compiling-top-20-free-spacious-cloud-storage-solutions-for-2024/"><u>Step Up Your File Game Compiling Top 20 Free, Spacious Cloud Storage Solutions for 2024</u></a></li>
+</ul></div>
+

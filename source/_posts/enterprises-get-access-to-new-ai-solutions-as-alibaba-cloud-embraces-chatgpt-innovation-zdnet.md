@@ -1,7 +1,7 @@
 ---
 title: Enterprises Get Access to New AI Solutions as Alibaba Cloud Embraces ChatGPT Innovation | ZDNET
-date: 2024-09-19 19:29:34
-updated: 2024-09-20 11:23:25
+date: 2024-12-08T20:03:47.819Z
+updated: 2024-12-12T18:45:56.751Z
 tags:
   - cloud
 categories:
@@ -41,6 +41,10 @@ The six business entities encompass: Cloud Intelligence Group; Taobao Tmall Comm
 
 Describing the move as the most significant governance overhaul in Alibaba's 24-year history, the Chinese tech giant said the restructure would place the company in a position to "capture market opportunities and further stimulate growth". 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Alibaba Cloud to build own servers with new in-house chip](https://www.zdnet.com/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/)
@@ -56,11 +60,27 @@ Describing the move as the most significant governance overhaul in Alibaba's 24-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-tips-and-tricks-voice-overseas-that-elevate-your-film-projects/"><u>[New] 2024 Approved Tips & Tricks Voice Overseas That Elevate Your Film Projects</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-quick-fixes-to-enhance-your-youtube-reach/"><u>2024 Approved Quick-Fixes to Enhance Your YouTube Reach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-in-action-predicting-its-influence-on-programmers-productivity-and-efficiency/"><u>AI in Action: Predicting Its Influence on Programmer's Productivity and Efficiency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-experience/"><u>Cookiebot-Driven Personalization Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience/"><u>Cookiebot-Driven Personalization: Enhancing User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-success-enhancing-user-engagement-with-smart-analytics/"><u>Cookiebot-Driven Success: Enhancing User Engagement with Smart Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-conversion-optimization-boost-your-site-performance-easily/"><u>Cookiebot-Enabled Conversion Optimization: Boost Your Site Performance Easily!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhance-your-websites-performance-and-user-experience/"><u>Cookiebot-Enabled: Enhance Your Website's Performance and User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-the-ultimate-powering-tool-for-your-digital-marketing-success/"><u>Cookiebot: The Ultimate Powering Tool for Your Digital Marketing Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-device-sharing-techniques-for-seamless-user-experience-on-steam-deck/"><u>Efficient Device Sharing Techniques for Seamless User Experience on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-apples-game-mode-in-macos-sonoma-work/"><u>How Does Apple's Game Mode in macOS Sonoma Work?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-transform-your-copy-with-strategic-slug-line-usage/"><u>In 2024, Transform Your Copy with Strategic Slug Line Usage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/instantly-install-your-pioneer-dj-ddj-sx2-software-fast-and-simple-guide/"><u>Instantly Install Your Pioneer DJ DDJ-SX2 Software - Fast and Simple Guide</u></a></li>
+</ul></div>
+

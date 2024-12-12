@@ -1,7 +1,7 @@
 ---
 title: "Enhance Efficiency at Work with Proven Tips: Expert Recommendations by ZDNet"
-date: 2024-09-19 22:22:15
-updated: 2024-09-20 11:52:15
+date: 2024-12-07T18:04:17.053Z
+updated: 2024-12-12T20:17:43.040Z
 tags:
   - cloud
 categories:
@@ -39,6 +39,10 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -49,9 +53,17 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -94,6 +106,10 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -158,6 +174,10 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [Wi-Fi problems? Add a wired network to your home without Ethernet cable - here's how](https://www.zdnet.com/article/wi-fi-problems-how-to-add-a-wired-network-to-your-home-without-ethernet-cable/)
@@ -166,6 +186,10 @@ By the way, this is also a great way to think about users, which I initially was
 * [Wiping a Windows laptop? Here's the safest free way to erase your personal data](https://www.zdnet.com/article/wiping-a-windows-laptop-heres-the-safest-free-way-to-erase-your-personal-data/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -237,11 +261,31 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-assessment-of-vidmas-impact-on-modern-screen-recorders/"><u>[New] Assessment of Vidma's Impact on Modern Screen Recorders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-compilation-4-websites-for-ringtone-hunt/"><u>[New] The Ultimate Compilation 4 Websites for Ringtone Hunt</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-meme-design-collection/"><u>[New] The Ultimate Meme Design Collection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tickletech-instant-creation-of-laughter-graphics/"><u>[New] TickleTech Instant Creation of Laughter Graphics</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/isionedit-pro/"><u>[New] VisionEdit Pro</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-complete-body-movement-report-2023/"><u>[Updated] 2024 Approved Complete Body Movement Report 2023</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-from-film-to-instagram-editing-tall-videos-on-fcpx/"><u>[Updated] From Film to Instagram Editing Tall Videos on FCPX</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-dimming-tunes-windows-and-mac-strategies/"><u>[Updated] In 2024, Dimming Tunes Windows & Mac Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-samurais-modern-journey-10-games-similar-to-ghost-of-tsushima/"><u>[Updated] In 2024, Samurai's Modern Journey 10 Games Similar to Ghost of Tsushima</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-snapshots-with-vsco-essentials/"><u>[Updated] Transform Your Snapshots with VSCO Essentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-route-to-richer-tiktok-bios-a-guide-to-linktree-integration/"><u>2024 Approved The Route to Richer TikTok Bios A Guide to Linktree Integration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/arcade-alpha-check-in-gamers-thoughts/"><u>ARCADE ALPHA CHECK-IN Gamers' Thoughts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/digital-conversion-transferring-vudu-discs-to-streaming-ready-files/"><u>Digital Conversion: Transferring Vudu Discs to Streaming-Ready Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-techniques-for-straightening-aerial-video-stability/"><u>In 2024, Techniques for Straightening Aerial Video Stability</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-mp4-enhancement-the-ultimate-srt-integration-for-2024/"><u>Mastering MP4 Enhancement The Ultimate SRT Integration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-podcasts-for-apple-podcasts-for-2024/"><u>Streamline Your Podcasts for Apple Podcasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-eye-catching-text-in-media-for-2024/"><u>Top 10 Eye-Catching Text in Media for 2024</u></a></li>
+</ul></div>
+

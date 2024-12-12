@@ -1,7 +1,7 @@
 ---
 title: "Fluctuating Fortunes of Programming Languages: A Look at the Ups and Downs Since 2016 - Insights From ZDNet"
-date: 2024-09-19 21:29:43
-updated: 2024-09-20 10:19:48
+date: 2024-12-11T17:15:32.795Z
+updated: 2024-12-12T18:14:33.783Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-stand-out-and-thrive-strategies-for-staff-recognition-at-vimeo/"><u>[New] 2024 Approved Stand Out and Thrive Strategies for Staff Recognition at Vimeo</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-syncopated-science-of-video-and-music-on-vimeo/"><u>[New] In 2024, The Syncopated Science of Video and Music on Vimeo</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-content-dilemma-deciding-on-the-best-platform-igtv-or-youtube/"><u>[New] The Content Dilemma Deciding on the Best Platform - IGTV or YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultrawide-vs-uhd-4k-monitor-showdown-top-picks/"><u>[New] UltraWide VS UHD 4K Monitor Showdown Top Picks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-tips-and-tricks-for-rearranging-your-youtube-playlists/"><u>[Updated] 2024 Approved Tips & Tricks for Rearranging Your YouTube Playlists</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-premium-priced-no-cost-graphic-websites/"><u>2024 Approved Unveiling Premium-Priced, No-Cost Graphic Websites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-implications-of-chatgpt-on-confidentiality/"><u>Exploring the Implications of ChatGPT on Confidentiality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-conversions-mp4-files-with-vlc-media-player/"><u>In 2024, Streamlining Conversions MP4 Files with VLC Media Player</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-without-vlc-media-player-insights/"><u>In 2024, The Future Without VLC - Media Player Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-the-secrets-of-quantum-hdr-photography-for-2024/"><u>Inside the Secrets of Quantum HDR Photography for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pros-playbook-elevate-your-tiktok-video-game/"><u>Pro's Playbook Elevate Your TikTok Video Game</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-voice-changes-experts-handbook-for-morphvox-transformation-for-2024/"><u>The Ultimate Guide to Voice Changes Expert's Handbook for MorphVOX Transformation for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/top-5-ios-downloader-tools-seamless-access-to-fb-videos-and-events/"><u>Top 5 iOS Downloader Tools Seamless Access to FB Videos & Events</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Linux Safety: Strategies Beyond Patching Kernel Vulnerabilities | ZDNet"
-date: 2024-09-17 19:30:17
-updated: 2024-09-20 10:11:44
+date: 2024-12-09T19:14:39.749Z
+updated: 2024-12-12T19:08:08.776Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,28 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elite-guide-exceptional-instagram-hlv-designers/"><u>[New] 2024 Approved Elite Guide Exceptional Instagram HLV Designers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-pro-audio-insight-expertly-selected-9-mic-recorder-devices/"><u>[New] 2024 Approved Pro Audio Insight Expertly Selected 9 Mic Recorder Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-swiftly-craft-custom-thumbnails-for-youtube-shorts-with-these-hacks/"><u>[New] 2024 Approved Swiftly Craft Custom Thumbnails for YouTube Shorts with These Hacks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-depth-analysis-understanding-google-podcasts-app-for-2024/"><u>[New] In-Depth Analysis Understanding Google Podcasts App for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-pathway-for-storytellers-mastery-over-facebook-live-feature/"><u>[New] The Ultimate Pathway for Storytellers Mastery Over Facebook Live Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-updated-dialogue-tools-to-engage-audio-audiences/"><u>[New] Updated Dialogue Tools to Engage Audio Audiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-twitch-time-travel-retrieve-lost-broadcast-moments/"><u>[Updated] Twitch Time-Travel Retrieve Lost Broadcast Moments</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-copyright-concerns-with-recording-youtube-content/"><u>2024 Approved Copyright Concerns with Recording YouTube Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-expert-level-mp4-integrator-with-fb-compatibility/"><u>2024 Approved Expert-Level MP4 Integrator with FB Compatibility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-6-business-driven-social-networks/"><u>2024 Approved Top 6 Business-Driven Social Networks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/deciding-on-the-next-ideal-linguistic-journey-to-pursue/"><u>Deciding on the Next Ideal Linguistic Journey to Pursue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-route-to-collecting-pictorial-frame-downloads/"><u>In 2024, The Route to Collecting Pictorial Frame Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-vistas-for-digital-viewership-for-2024/"><u>Superior Vistas for Digital Viewership for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-memory-mystery-solved-identify-ram-right-now/"><u>Windows Memory Mystery Solved: Identify RAM Right Now</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Upcoming iPhone Models Compatible with Apple iOS 18 and Those That Aren't | TechZN"
-date: 2024-09-19 12:36:54
-updated: 2024-09-20 12:10:19
+date: 2024-12-05T18:40:21.215Z
+updated: 2024-12-12T17:34:41.426Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-discover-and-set-up-vrecorder-in-minutes-148-characters/"><u>[New] Discover & Set Up VRecorder in Minutes (148 Characters)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-eyefirefox-capture-extensions/"><u>[New] EyeFirefox Capture Extensions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns/"><u>[Updated] Tapping Into Community Spirit A Guide to Thriving FB Gifting Campaigns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-smartest-podcast-renaming-options-through-ai-technology/"><u>[Updated] The Smartest Podcast Renaming Options Through AI Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-avant-garde-creators-in-digital-media/"><u>[Updated] Top 5 Avant-Garde Creators in Digital Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-pathway-to-perfected-kinemaster-edits/"><u>2024 Approved The Ultimate Pathway to Perfected Kinemaster Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-ever-approved-reddit-threads-a-historical-list/"><u>2024 Approved Top 10 Ever-Approved Reddit Threads A Historical List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-of-smooth-telegram-web-use/"><u>2024 Approved Unveiling the Secrets of Smooth Telegram Web Use</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-conversion-rates-using-the-cookiebot-technology-solution/"><u>Boost Conversion Rates Using the Cookiebot Technology Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-dialogue-dynamics-bard-meets-bing-chatbot/"><u>Dissecting Dialogue Dynamics: Bard Meets Bing Chatbot</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-8-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 8</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-enhance-audio-quality-get-high-quality-fx/"><u>In 2024, Enhance Audio Quality, Get High-Quality FX!</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/recupera-immagini-da-un-disco-rigido-inutilizzato-su-windows/"><u>Recupera Immagini Da Un Disco Rigido Inutilizzato Su Windows</u></a></li>
+</ul></div>
+

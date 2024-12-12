@@ -1,7 +1,7 @@
 ---
 title: "From Cellular Evolutions to Innovations in AI: The Path for Telcos Embracing Commercial GenAI Use Cases"
-date: 2024-09-17 23:28:22
-updated: 2024-09-20 10:31:33
+date: 2024-12-10T17:42:03.874Z
+updated: 2024-12-12T20:36:48.201Z
 tags:
   - cloud
 categories:
@@ -61,6 +61,10 @@ GSMA projects that 5G connections will grow from 1.6 billion to 2.1 billion by t
 
 Jarich noted that use cases can differ for regions and markets, giving local telcos further opportunities to find new revenue. And with most GenAI services running on the cloud, operators can play a differentiating role in facilitating these. For instance, they can provide support for edge computing, which will be important for some GenAI services such as real-time language translation and smaller large language models (LLMs) that can be hosted on the device. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dedicated foundation model for telcos
 
 Domain-specific LLMs also are being made available to help identify GenAI use cases specific to the needs of a particular sector, such as financial or healthcare. 
@@ -118,11 +122,31 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 202
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-effortless-transition-zip-to-subrip-srt-formatting/"><u>[Updated] 2024 Approved Effortless Transition ZIP to SubRip (SRT) Formatting</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-chime-into-chats-whatsapp-status-soundtracks/"><u>[Updated] Chime Into Chats WhatsApp Status Soundtracks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-your-chromebooks-zoom-capabilities/"><u>[Updated] Optimizing Your Chromebook's Zoom Capabilities</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-guide-to-excellent-voice-recorders-for-macs/"><u>2024 Approved Guide to Excellent Voice Recorders for Macs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beacons-for-top-tier-vr-screens/"><u>Beacons for Top-Tier VR Screens</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-scansnap-drivers-on-windows-get-your-latest-updates-now/"><u>Effortless Installation of ScanSnap Drivers on Windows – Get Your Latest Updates Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-user-experience-with-advanced-cookiebot-technology/"><u>Enhanced User Experience with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-driver-safety-and-productivity-learn-about-mobile-gps-tools-in-car-task-management-and-avoiding-distractions-on-the-road-tips-from-abbyy-experts.m13/"><u>Enhancing Driver Safety & Productivity: Learn About Mobile GPS Tools, In-Car Task Management, and Avoiding Distractions on the Road | Tips From ABBYY Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-medical-efficiency-streamlining-referrals-and-boosting-patient-outcomes/"><u>Enhancing Medical Efficiency: Streamlining Referrals and Boosting Patient Outcomes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/establishing-strong-roots-key-steps-towards-achieving-innovative-change-in-ap-operations/"><u>Establishing Strong Roots: Key Steps Towards Achieving Innovative Change in AP Operations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harness-the-power-of-cookiebot-for-optimized-website-traffic/"><u>Harness the Power of Cookiebot for Optimized Website Traffic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/healthcare-organizations-trust-abbyys-powerful-ocr-technology-for-automated-classification-of-critical-documents-latest-update-from-abbyy-newsroom/"><u>Healthcare Organizations Trust ABBYY's Powerful OCR Technology for Automated Classification of Critical Documents - Latest Update From ABBYY Newsroom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-psa-securitys-transition-to-paperless-ap-revolutionizes-corporate-efficiency/"><u>How PSA Security's Transition to Paperless AP Revolutionizes Corporate Efficiency</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-no-money-just-screen-time-how-to-record-youtube/"><u>In 2024, No Money, Just Screen Time How To Record YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-abbyys-power-streamlining-eucon-workflows-with-smart-ocr-solutions/"><u>Leveraging ABBYY's Power: Streamlining Eucon Workflows with Smart OCR Solutions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-through-the-best-pc-vr-headset-lineup-of-2023-for-2024/"><u>Navigating Through the Best PC VR Headset Lineup of 2023 for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-neon-typography-made-easy-10-online-generators-to-try-now/"><u>Updated Neon Typography Made Easy 10 Online Generators to Try Now</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: DevOps Craze Continues to Heat Up, Yet Experts Agree on the Imperative for Enhanced Practices | ZDNet
-date: 2024-09-19 17:11:54
-updated: 2024-09-20 11:55:32
+date: 2024-12-10T16:01:47.746Z
+updated: 2024-12-12T18:16:40.301Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ To advance in a technology-focused career, it's important to embrace the practic
 DevOps is an important career choice in itself. A recent glance at the Dice technology jobs listing shows more than 7,000 open positions for [DevOps engineers and specialists](https://www.dice.com/jobs/q-DevOps-jobs#dice). Companies are seeking such individuals who can drive "automation and containerization strategies," as well as "collaborate with product owners, developers, cloud engineers, DevOps engineers and operations to plan, design, test and deliver pipelines and infrastructure using [Continuous Integration/Continuous Delivery (CI/CD)](https://www.redhat.com/en/topics/devops/what-is-ci-cd) model."
 
 **Also:** [**Tech jobs are changing. Here are the skills you'll need to get promoted now**](https://www.zdnet.com/article/tech-jobs-are-changing-here-are-the-real-skills-youll-need-to-get-promoted/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -74,11 +78,31 @@ The study's authors paint a profile of the successful DevOps practitioner:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-distinctive-digital-monikers-for-video-creators/"><u>[Updated] In 2024, Distinctive Digital Monikers for Video Creators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhancing-viewer-experience-with-immersive-360-video-content-for-youtube/"><u>[Updated] In 2024, Enhancing Viewer Experience with Immersive 360 Video Content for YouTube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-poco-x6-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225735608-movavi/"><u>今なりたけ！Movavi 割引キャンペーン - 安価で質の高い動画変換ソフトをお見せします。</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-facilement-vos-fichiers-mka-vers-format-avi-sur-internet-gratuitement-via-le-service-de-movavi/"><u>Convertissez Facilement Vos Fichiers MKA Vers Format AVI Sur Internet Gratuitement via Le Service De Movavi</u></a></li>
+<li><a href="https://win-updates.techidaily.com/diagnosing-lag-in-windows-systems-how-limited-ram-can-impact-performance-guidance-from-yl-software-experts/"><u>Diagnosing Lag in Windows Systems: How Limited RAM Can Impact Performance – Guidance From YL Software Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-mp2-to-mp3-by-movavi-quick-and-easy-conversion/"><u>Free Online Converter: MP2 to MP3 by Movavi - Quick and Easy Conversion</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-mp3-files-to-audio-cds-a-step-by-step-imgburn-process-on-pc/"><u>From Mp3 Files to Audio CDs: A Step-by-Step ImgBurn Process on PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-free-youtube-downloads-without-programs-for-2024/"><u>Guide Free YouTube Downloads Without Programs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp3-2024-7/"><u>MP3 통합 기술에 대한 모든것: 2024 선보이기, 7가지 고장차를 해결하는 초승 - 음악 합성의 혁명!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-flv-naar-ogv-converter-vrije-diensten-professioneel-techniek-movavi/"><u>Online FLV Naar OGV Converter Vrije Diensten - Professioneel Techniek Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-and-simple-rmvb-to-wmv-file-transformation-no-cost/"><u>Quick and Simple RMVB to WMV File Transformation - No Cost!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/sending-high-quality-video-files-over-gmail-tips-for-exceeding-a-25mb-size-limit/"><u>Sending High-Quality Video Files Over Gmail: Tips for Exceeding a 25MB Size Limit</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-stop-stardew-valley-from-crashing-on-your-computer/"><u>Step-by-Step Solution: Stop Stardew Valley From Crashing on Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-flvs-a-formatos-de-video-movil-como-3gp-sin-coste-con-conversor-de-videollamas/"><u>Transforma FLVs a Formatos De Video Móvil Como 3GP Sin Coste Con Conversor De Videollamas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformez-votre-contenu-audio-aif-en-format-ogg-sans-frais-a-laide-de-movavi-une-solution-facile-et-rapide/"><u>Transformez Votre Contenu Audio AIF en Format OGG Sans Frais À L'aide De Movavi : Une Solution Facile Et Rapide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unmatched-camera-companions-for-top-tier-yi-4k-tech-for-2024/"><u>Unmatched Camera Companions for Top-Tier YI 4K Tech for 2024</u></a></li>
+</ul></div>
+

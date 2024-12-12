@@ -1,7 +1,7 @@
 ---
 title: "Next Year's Tech Budgets: Increasing Expenditure with Classic Preferences Leading the Way - Insights From ZDNet"
-date: 2024-09-18 10:11:23
-updated: 2024-09-20 11:12:31
+date: 2024-12-07T20:38:38.605Z
+updated: 2024-12-12T16:13:13.075Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: Jasper Cole/Getty
 Some argue that the recent fall in Big Tech share prices is a sign the golden age of digital growth is drawing to an end. 
 
 But while investors might be getting jittery about the prospects of hyped trends such as the [metaverse](https://www.zdnet.com/topic/how-the-metaverse-will-change-the-future-of-work-and-society/), Nash Squared chief executive Bev White says a commitment to tech spending is still very much at the top of the boardroom agenda.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -85,6 +89,10 @@ However, digital leaders and line-of-business professionals must be careful not 
 
 "An investment in AI and robotics means that businesses can be more efficient, which means they can start thinking about taking out some of the day-to-day costs in their organisations," she says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **More on the tech trends to watch in 2023:**
 
 * [**Tech in 2023: We've analysed the data, and here's what's really going to matter**](https://www.zdnet.com/article/tech-in-2023-weve-analysed-the-data-and-heres-whats-really-going-to-matter/)
@@ -101,11 +109,28 @@ However, digital leaders and line-of-business professionals must be careful not 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-8-subtitle-editors-transforming-into-srt-format-for-windows-and-macos/"><u>[New] 2024 Approved Top 8 Subtitle Editors Transforming Into SRT Format for Windows & MacOS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-from-sketch-to-scene-mastering-windows-movie-makers-animation-for-2024/"><u>[Updated] From Sketch to Scene Mastering Windows Movie Maker's Animation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-convertir-archivos-mkv-a-linea-con-gratuidad-mediante-movavi/"><u>Cómo Convertir Archivos MKV a Línea Con Gratuidad Mediante Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-libre-y-gratuita-de-m4v-a-flv-en-linea-con-la-herramienta-de-movavi/"><u>Conversión Libre Y Gratuita: De M4V a FLV en Línea Con La Herramienta De Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-free-vecto-art-and-graphic-sites-compared-whos-the-best/"><u>In 2024, Free Vecto Art & Graphic Sites Compared – Who's the Best?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-smart-social-media-strategies-from-youtube-to-facebook/"><u>In 2024, Smart Social Media Strategies From YouTube To Facebook</u></a></li>
+<li><a href="https://win-trending.techidaily.com/master-the-technique-transform-your-ipad-into-a-second-screen-for-iphone-shooting/"><u>Master the Technique: Transform Your iPad Into a Second Screen for iPhone Shooting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-70off/"><u>Movavi 動画変換ソフトの特別オファー: 限定期間で最大70%OFF!</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-lost-desktop-icons-on-your-windows-10-pc/"><u>The Ultimate Fix for Lost Desktop Icons on Your Windows 10 PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uniendo-videos-eficientemente-tecnicas-faciles-y-rapidas-de-movavi/"><u>Uniendo Videos Eficientemente: Técnicas Fáciles Y Rápidas De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vuurproffen-movavi-video-editor-bestel-duitslands-bijna-gewaardeid-zeer-veilig-kaufeexperte/"><u>Vuurproffen Movavi Video Editor Bestel: Duitsland's Bijna Gewaardeid Zeer Veilig Kaufeexperte</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aviogv-movavi/"><u>オンラインでのAvi/OGVファイル変換を手軽に - 無料でMovavi</u></a></li>
+</ul></div>
+

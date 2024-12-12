@@ -1,7 +1,7 @@
 ---
 title: Alibaba Cloud Ventures Into Blockchain-Powered Public Services as Partner in SG Government Cloud Project
-date: 2024-09-19 13:46:50
-updated: 2024-09-20 12:36:57
+date: 2024-12-05T18:53:12.898Z
+updated: 2024-12-12T17:16:27.453Z
 tags:
   - cloud
 categories:
@@ -29,6 +29,10 @@ Stressing that Web3 still was evolving and its development in the early stage, X
 
 This would be centred on the need to build applications quickly on blockchain, he said, adding that Alibaba would look to push out more API services and developer toolkits to support this. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Looking to support Singapore government cloud move
 
 The Chinese cloud vendor also expressed a keen interest to participate in Singapore's efforts to move its government services to cloud platforms. 
@@ -49,6 +53,10 @@ Wang added that Alibaba's research arm Damo Academy has a team in Singapore work
 
 Xiao also pointed to Alibaba's experience in providing e-government services in China and other global markets, offering use cases that could be deployed in Singapore. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Singapore government pushes on with cloud migration](https://www.zdnet.com/article/singapore-government-pushes-on-with-cloud-migration/)
@@ -64,11 +72,27 @@ Xiao also pointed to Alibaba's experience in providing e-government services in 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-a-compreeved-look-at-effective-spotify-ad-implementation-for-2024/"><u>[New] A Compreeved Look at Effective Spotify Ad Implementation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-sales-through-effective-strategies-for-channel-trailer-creation/"><u>[New] In 2024, Boosting Sales Through Effective Strategies for Channel Trailer Creation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-discover-the-power-of-nikon-1j5s-4k-video/"><u>[Updated] Discover the Power of Nikon 1J5's 4K Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-business-efficiency-with-movavis-customer-service-platform/"><u>Enhance Your Business Efficiency with Movavis Customer Service Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/facil-conversao-de-arquivos-raw-para-dng-gratuita-on-line-pela-inteira-com-suporte-tecnico-pelo-movavi/"><u>Fácil Conversão De Arquivos RAW Para DNG Gratuita On-Line Pela Inteira Com Suporte Técnico Pelo Movavi</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-efficiently-eliminate-apps-from-your-smartphone-tips-for-ios-and-android-users/"><u>How To Efficiently Eliminate Apps From Your Smartphone: Tips for iOS & Android Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi K70 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kunt-u-wma-files-vrije-en-gratis-in-mov-omzetten-onlinemovavi/"><u>Kunt U WMA-Files Vrije en Gratis in MOV Omzetten - Onlinemovavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-archiving-made-easy-and-free-convert-arw-images-to-png-with-movavis-conversion-tools/"><u>Online Archiving Made Easy & Free: Convert ARW Images to PNG with Movavi's Conversion Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-camon-30-pro-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Camon 30 Pro 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-solution-to-handle-your-ssleay32dll-file-disappearance/"><u>The Complete Solution to Handle Your Ssleay32.dll File Disappearance</u></a></li>
+</ul></div>
+

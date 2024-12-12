@@ -1,7 +1,7 @@
 ---
 title: "Exploring Emerging Mobile Innovations: Intelligent AI on Phones & The Evolution of Smartphones - Insights From ZDNet"
-date: 2024-12-03T19:27:23.057Z
-updated: 2024-12-06T19:39:14.201Z
+date: 2024-12-07T17:34:53.876Z
+updated: 2024-12-12T17:14:03.514Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -65,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -75,10 +71,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -112,6 +104,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -123,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -138,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,22 +210,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-enhance-interaction-mobile-screenshotting-on-android/"><u>[New] In 2024, Enhance Interaction Mobile Screenshotting on Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-future-of-gaming-at-your-fingertips-top-10-vr-headsets-for-pc/"><u>[New] The Future of Gaming at Your Fingertips Top 10 VR Headsets for PC</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-revealing-the-undisclosed-in-instagram-story-observation/"><u>[Updated] 2024 Approved Revealing the Undisclosed in Instagram Story Observation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-budget-friendly-broadcaster-gear-for-video-voyeurs/"><u>[Updated] In 2024, Budget-Friendly Broadcaster Gear for Video Voyeurs</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-seamless-transfer-your-path-to-storing-instagram-videos-on-pc/"><u>[Updated] In 2024, Seamless Transfer Your Path to Storing Instagram Videos on PC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-metaverse-explorers-best-virtual-reality-list/"><u>[Updated] Metaverse Explorers Best Virtual Reality List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-tips-for-creating-instagrammable-unboxing-highlights/"><u>2024 Approved Top Tips for Creating Instagrammable Unboxing Highlights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-trimming-the-bends-correcting-gopro-fish-eye-effect/"><u>2024 Approved Trimming the Bends Correcting GoPro Fish Eye Effect</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-pro-tiktok-editing-techniques/"><u>2024 Approved Ultimate Guide Pro TikTok Editing Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-uncover-top-8-sites-offering-free-3d-text-psd-images-and-files/"><u>2024 Approved Uncover Top 8 Sites Offering FREE 3D Text PSD Images and Files</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/content-creators-arena-vs-beta-studio-evolutionary-path-for-2024/"><u>Content Creator's Arena Vs. Beta Studio Evolutionary Path for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-stream-side-stacking-pewdiepies-payday-portion/"><u>In 2024, Stream-Side Stacking PewDiePie’s Payday Portion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-tactics-for-pinpointing-ideal-podcast-debut-days/"><u>In 2024, Tactics for Pinpointing Ideal Podcast Debut Days</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-stock-photo-memes-and-realities/"><u>In 2024, The Ultimate Guide to Stock Photo Memes & Realities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-tech-marvels-top-picks-for-everyone/"><u>In 2024, Ultimate Tech Marvels Top Picks for Everyone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ealities-of-youtube-view-calculation/"><u>The Realities of YouTube View Calculation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-crafting-exquisite-hdr-portraits-for-2024/"><u>The Ultimate Guide to Crafting Exquisite HDR Portraits for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-tv-shutdown-procedure/"><u>[New] In 2024, Instagram TV Shutdown Procedure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tech-trends-unveiled-excellence-in-vr-treadmills/"><u>[New] Tech Trends Unveiled Excellence in VR Treadmills</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-must-knows-before-elevating-systems/"><u>[New] Top 10 Must-Knows Before Elevating Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-stabilizing-tech-for-youtube-creators-success/"><u>2024 Approved Top 10 Stabilizing Tech for YouTube Creators' Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/framefusion-pro-8-crafting-digital-masterpieces-for-2024/"><u>FrameFusion Pro 8 Crafting Digital Masterpieces for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/guide-recovering-contacts-and-media-after-restoring-your-iphone-to-its-original-settings/"><u>Guide: Recovering Contacts and Media After Restoring Your iPhone to Its Original Settings</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-m14-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy M14 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-tecno-spark-10-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Tecno Spark 10 5G Phone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-honor-magic5-ultimate-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Honor Magic5 Ultimate Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-index-downloading-your-preferred-chime-files-for-2024/"><u>Ultimate Index Downloading Your Preferred Chime Files for 2024</u></a></li>
 </ul></div>
 

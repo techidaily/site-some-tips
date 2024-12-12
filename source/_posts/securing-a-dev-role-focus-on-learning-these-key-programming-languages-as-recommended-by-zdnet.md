@@ -1,7 +1,7 @@
 ---
 title: Securing a Dev Role? Focus on Learning These Key Programming Languages, as Recommended by ZDNet
-date: 2024-09-19 18:32:58
-updated: 2024-09-20 12:24:49
+date: 2024-12-08T20:31:30.893Z
+updated: 2024-12-12T16:04:04.297Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -81,6 +93,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +108,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-be-unique-in-conversation-customized-whatsapp-tones-for-ios-android-users-for-2024/"><u>[New] Be Unique in Conversation Customized WhatsApp Tones for iOS, Android Users for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-learn-to-speak-text-mastering-ms-words-recognition-capabilities/"><u>[New] Learn to Speak Text Mastering MS Word's Recognition Capabilities</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-8-top-tier-filters-to-elevate-your-live-feed/"><u>[Updated] 8 Top-Tier Filters to Elevate Your Live Feed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-optimal-recording-practices-for-remote-work-conferences-for-2024/"><u>[Updated] Optimal Recording Practices for Remote Work Conferences for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-audio-content-with-googles-tools/"><u>2024 Approved Streamline Your Audio Content with Google’s Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strengthening-community-wellness-with-targeted-ads/"><u>2024 Approved Strengthening Community Wellness with Targeted Ads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tailoring-your-whatsapp-ringtone-for-ios-and-android-devices/"><u>2024 Approved Tailoring Your WhatsApp Ringtone for iOS and Android Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-5-hd-cameras-for-big-game-capture/"><u>2024 Approved Top 5 HD Cameras for Big Game Capture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/achieve-maximum-reach-on-twitter-with-smaller-videos-pcmobile-strategies-and-online-tools-updated-for-2-surveys-2024/"><u>Achieve Maximum Reach on Twitter with Smaller Videos - PC/Mobile Strategies and Online Tools (Updated for 2 Surveys 2024)</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/discover-the-best-video-shrinking-apps-for-your-iphone-a-trilogy-of-solutions/"><u>Discover the Best Video Shrinking Apps for Your iPhone: A Trilogy of Solutions!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creative-potential-with-top-tips-for-gopro-timelapses/"><u>In 2024, Unleash Creative Potential with Top Tips for GoPro Timelapses</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/navigating-the-process-of-embedding-vimeo-media-in-ppts-for-2024/"><u>Navigating the Process of Embedding Vimeo Media in PPTs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stabilize-your-windows-pointer-instantly-quick-solution/"><u>Stabilize Your Windows Pointer Instantly! Quick Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategy-envelope-market-success-inside-out-for-2024/"><u>Strategy Envelope Market Success Inside Out for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-metaverses-funny-bone-generating-hitsome-online-jokes-for-2024/"><u>The Metaverse's Funny Bone Generating Hitsome Online Jokes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-packing-list-travel-video-edition-for-2024/"><u>The Ultimate Packing List Travel Video Edition for 2024</u></a></li>
+</ul></div>
+

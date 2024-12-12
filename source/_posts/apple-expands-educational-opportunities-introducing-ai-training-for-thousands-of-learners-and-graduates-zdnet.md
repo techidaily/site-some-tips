@@ -1,7 +1,7 @@
 ---
 title: "Apple Expands Educational Opportunities: Introducing AI Training for Thousands of Learners & Graduates | ZDNET"
-date: 2024-09-19 21:41:11
-updated: 2024-09-20 10:44:44
+date: 2024-12-10T20:24:51.790Z
+updated: 2024-12-12T16:25:12.427Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-art-of-mac-mixer-synchronization/"><u>[New] 2024 Approved The Art of Mac-Mixer Synchronization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-removing-spotifys-auto-suggesting-podcasts/"><u>[New] Tips for Removing Spotify's Auto-Suggesting Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-altering-photographic-contrast/"><u>2024 Approved The Art of Altering Photographic Contrast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-viral-potential-with-ai-driven-video-titles/"><u>2024 Approved Unlocking Viral Potential with AI-Driven Video Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-fixing-unexpected-system-call-failures-on-win1011/"><u>Guide: Fixing Unexpected System Call Failures on Win10/11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tune-into-visuals-embedding-music-in-powerpoint/"><u>In 2024, Tune Into Visuals Embedding Music in PowerPoint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intel-unison-explained-easy-mobile-dialing-on-the-latest-windows-11/"><u>Intel Unison Explained: Easy Mobile Dialing on the Latest Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/melodymaster-recording-software-guide/"><u>MelodyMaster Recording Software Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-solutions-3d-models-in-animation-space-for-2024/"><u>Superior Solutions 3D Models in Animation Space for 2024</u></a></li>
+</ul></div>
+

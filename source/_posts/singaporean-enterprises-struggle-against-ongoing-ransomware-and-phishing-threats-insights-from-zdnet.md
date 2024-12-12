@@ -1,7 +1,7 @@
 ---
 title: "Singaporean Enterprises Struggle Against Ongoing Ransomware & Phishing Threats: Insights From ZDNet"
-date: 2024-09-19 15:42:47
-updated: 2024-09-20 11:32:20
+date: 2024-12-05T20:17:15.572Z
+updated: 2024-12-12T19:43:21.767Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ CSA did note that the spike in reported cases also could be attributed to its co
 
 The cybersecurity regulator said while the number of reported ransomware incidents dipped slightly to 132, compared to 137 in 2021, such attacks remained a significant issue in Singapore and worldwide. It pointed to reports from security vendors indicating a 13% climb in ransomware incidents globally last year. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMBs remain hot ransomware targets
 
 Furthermore, figures were unlikely to reflect the full extent of such threats since [not every victim would report an attack](https://www.zdnet.com/article/ransomware-not-enough-victims-are-reporting-attacks-and-that-increases-the-threat-for-everyone/). Citing estimates from the FBI, CSA said just 20% of ransomware victims in the US sought the help of law enforcement. 
@@ -64,6 +68,10 @@ Some 81,500 [infrastructure systems](https://www.zdnet.com/article/singapore-wan
 CSA cautioned, though, that the absolute number of infected systems in the country remains high as it is a data and digital infrastructure hub. "Maintaining good cyber hygiene is crucial as users continue to connect more smart devices to the internet," the regulator said, noting that the average number of connected devices in Singapore households increased to 7 in 2021, up from 6.5 the year before. 
 
 Cobalt Strike was the leading malware family infecting locally hosted C&C (Command and Control) servers, followed by Emotet and Guloader. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Anticipated threats as AI takes form
 
@@ -111,11 +119,28 @@ Singapore also has laid out a years-long roadmap it believes will ensure its dig
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-leaders-in-likeability-the-best-app-list-on-androidiphone/"><u>[New] In 2024, Leaders in Likeability The Best App List on Android/iPhone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-tier-android-video-and-image-recording-tools-reviewed-for-2024/"><u>[New] Top-Tier Android Video & Image Recording Tools Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtubes-top-12-choices-in-gamers-introductory-videos-freepaid/"><u>[New] YouTube's Top 12 Choices in Gamers' Introductory Videos (Free/Paid)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automation-and-the-future-redefining-repetitive-work-at-abbyy/"><u>Automation and the Future - Redefining Repetitive Work at ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-site-engagement-through-cookiebot-technology-the-secret-behind-customized-content-delivery/"><u>Boost Site Engagement Through Cookiebot Technology: The Secret Behind Customized Content Delivery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-traffic-with-our-cookiebot-enabled-optimization-tools/"><u>Boost Traffic with Our Cookiebot-Enabled Optimization Tools!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-online-presence-with-cookiebots-advanced-analytics-and-personalization-tools/"><u>Boost Your Online Presence with Cookiebot's Advanced Analytics and Personalization Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-online-engagement-with-cookiebot-technology-integration/"><u>Boosting Online Engagement with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-download-fandango-at-home-on-a-fire-stick/"><u>How to Download Fandango at Home on a Fire Stick</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-quick-and-effective-strategies-for-vimeo-capture/"><u>In 2024, Quick & Effective Strategies for Vimeo Capture</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-storage-effortlessly-quick-pathways-into-windows-disk-manager/"><u>Optimize Storage Effortlessly: Quick Pathways Into Windows Disk Manager</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-distinctions-a-comprehensive-look-at-gpt-4-gpt-4-turbo-and-gpt-n/"><u>Unveiling the Distinctions: A Comprehensive Look at GPT-4, GPT-4 Turbo, and GPT-N</u></a></li>
+</ul></div>
+

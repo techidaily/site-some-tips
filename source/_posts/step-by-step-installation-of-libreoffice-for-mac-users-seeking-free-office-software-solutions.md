@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Installation of LibreOffice for Mac Users Seeking Free Office Software Solutions
-date: 2024-12-04T16:28:47.025Z
-updated: 2024-12-06T18:16:17.349Z
+date: 2024-12-09T20:52:57.477Z
+updated: 2024-12-12T19:25:36.488Z
 tags:
   - apple
 categories:
@@ -17,10 +17,6 @@ Although I rely heavily on Google Docs, it's not the only office suite I use. Th
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -46,11 +42,11 @@ LibreOffice includes a user-configurable interface, so you can configure it as a
 
 The only thing you'll need is a macOS device (MacBook or iMac). With that in hand, let's get to the installation.
 
-## Installing LibreOffice
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Installing LibreOffice
 
 ### 1\. Download the installer
 
@@ -63,7 +59,7 @@ Downloading LibreOffice from the official site.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Install LibreOffice
@@ -81,6 +77,10 @@ Installing LibreOffice to macOS.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Delete the installer file
 
 When the installation completes (it'll take a minute or so), close out the installer, right-click the mounted LibreOffice drive, and select Eject (**Figure 4**).
@@ -90,13 +90,13 @@ Ejecting the mounted installer after the fact.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to open LibreOffice
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open Launchpad
@@ -151,18 +151,21 @@ And that, my friends, is how you install and get started with LibreOffice on mac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-teachers-compendium-on-multimedia-pedagogy/"><u>[New] The Teacher's Compendium on Multimedia Pedagogy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-a-detailed-look-at-vsco-features/"><u>[New] Unleash Creativity A Detailed Look at VSCO Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-subtlety-in-volume-the-ableton-way/"><u>[Updated] Subtlety in Volume The Ableton Way</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-your-path-to-beaming-beauty-expertise-starting-an-online-show-for-2024/"><u>[Updated] Your Path to Beaming Beauty Expertise Starting an Online Show for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-close-up-magic-avoiding-distance-blur-on-videoleap/"><u>2024 Approved Close-Up Magic Avoiding Distance Blur on Videoleap</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-printer-drivers-compatible-with-windows-7-8-and-10-free-download-guide/"><u>Canon Printer Drivers Compatible with Windows 7, 8 & 10 - Free Download Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-honor-90-lite-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Honor 90 Lite to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-s17-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo S17 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-jokeglyph-customize-funny-visuals-easily/"><u>In 2024, Jokeglyph Customize Funny Visuals Easily</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-stroke-of-genius-best-10-creative-sketch-software-for-mac-free/"><u>In 2024, Stroke of Genius Best 10 Creative Sketch Software for Mac (Free)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/labor-day-deal-alert-score-a-massive-700-off-on-the-newest-202e-pad-pro-check-out-the-details-on-zdnet/"><u>Labor Day Deal Alert: Score a Massive $700 Off on the Newest 202E Pad Pro! Check Out the Details on ZDNET</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/real-time-recording-battle-obs-studio-against-fraps-for-2024/"><u>Real-Time Recording Battle OBS Studio Against Fraps for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-your-potential-for-green-screen-excellence-in-kinemaster-for-2024/"><u>Unlock Your Potential for Green Screen Excellence in Kinemaster for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-checklist-for-successful-reddit-threads/"><u>[New] The Ultimate Checklist for Successful Reddit Threads</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-macsrt-editing-techniques-unveiled-for-2024/"><u>[Updated] Essential MacSrt Editing Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-group-chat-options-for-virtual-gatherings/"><u>[Updated] Expert Group Chat Options for Virtual Gatherings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-learning-the-ins-and-outs-of-firefox-pip-for-2024/"><u>[Updated] Learning the Ins and Outs of Firefox PIP for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superfast-windows-images-scaner/"><u>[Updated] Superfast Windows Images Scaner</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-full-picture-of-ustream-and-analogous-services/"><u>[Updated] The Full Picture of Ustream & Analogous Services</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-spotlight-on-blurbs-captivating-podcast-intros/"><u>2024 Approved Spotlight on Blurbs Captivating Podcast Intros</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-filmmakers-edge-mastering-kinemasters-zoom-functionality/"><u>2024 Approved The Filmmaker's Edge Mastering Kinemaster's Zoom Functionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-guidelines-for-breaking-through-cover-art/"><u>2024 Approved Top 10 Guidelines for Breaking Through Cover Art</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-v29e-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo V29e</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/silent-steppes-righteous-quests-games-like-the-samurai-odyssey/"><u>Silent Steppes, Righteous Quests Games Like the Samurai Odyssey</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994557089-successful-launch-of-it-takes-two-now-available/"><u>Successful Launch of 'It Takes Two' - Now Available!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-essential-update-on-whats-new-with-facebook-for-2024/"><u>The Essential Update on What's New with Facebook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fast-track-to-hot-photos-on-pexels-for-2024/"><u>The Fast Track to Hot Photos on Pexels for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-notetaker-tablet-picks-features-reviews-and-buying-guide-techradar/"><u>Top Notetaker Tablet Picks - Features, Reviews & Buying Guide | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-techniques-from-video-to-audio-downloads-on-pinterest-for-2024/"><u>Ultimate Techniques From Video to Audio Downloads on Pinterest for 2024</u></a></li>
 </ul></div>
 

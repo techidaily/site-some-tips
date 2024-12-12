@@ -1,7 +1,7 @@
 ---
 title: "IPhone Call Recording Explained: Ensuring Compliance with Each US Jurisdiction's Laws"
-date: 2024-12-05T16:59:22.839Z
-updated: 2024-12-06T19:56:00.970Z
+date: 2024-12-06T16:14:59.106Z
+updated: 2024-12-12T18:12:21.722Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to record a phone call on iPhone
@@ -77,6 +77,10 @@ Now, play the file back and see if the audio is discernible. Make the adjustment
 
 For example, if the sound quality is too low, you may need to speak louder, increase the microphone sensitivity (go to Settings > Sounds & Haptics), or put the speaker closer to your mouth. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Check whether you need to inform the other party that you're recording
 
 Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.) if the state you're recording and residing in is a one-party or all-party state when it comes to recording consent. 
@@ -105,10 +109,6 @@ Spikes in the red waveform bar indicate a louder sound. A flatter bar indicates 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. End the recording and transfer the file
 
 When the conversation is over or you've got the information you need, end the recording by tapping the red button. 
@@ -122,7 +122,7 @@ Open up sharing options. You can also trim or rename the recording to something 
 Screenshot by Radhika Rajkumar/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other ways to record
@@ -132,7 +132,7 @@ Following the steps above is the easiest, most efficient, and most discreet way 
 Note: Many apps that record phone calls likely need to conference into the call before recording begins, which may take a moment and could be detectable by the other person on the call. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rev Voice Recorder
@@ -142,7 +142,7 @@ Rev has a few options depending on what you need. If you want to record phone ca
 Plus, Rev offers AI-supported [transcription](https://www.rev.com/pricing) of your recordings for $0.25 per minute, or you can have a human professionally transcribe your recording for $1.50 per minute. Once you download your file, it will appear as an MP3 file on your device. This is a great option for recording phone calls and narrating screen recordings. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Google Voice
@@ -163,15 +163,15 @@ As the name suggests, this app is designed for users to be able to whip out thei
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is it illegal to record phone calls?
 
 Federal law requires at least one party's consent, which means that you need to be part of the conversation you're recording or have the consent of at least one person in the conversation. Otherwise, the recording can be construed as wiretapping or illegal eavesdropping. Some states have even stricter laws that require the consent of all people involved in the conversation.
 
 Before recording a conversation, [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22check%22%7D) your state laws. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is there an app to record calls on iPhone?
 
@@ -223,18 +223,14 @@ The Voice Memos app can record for an unlimited amount of time as long as you ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-laughs-at-your-service-web/"><u>[New] In 2024, Laughs at Your Service (Web)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-jest-in-jam-your-complete-manual-to-cartoon-snaps-on-snapchat/"><u>[Updated] Jest in Jam Your Complete Manual to Cartoon Snaps on Snapchat</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-next-step-in-virtual-reality-jaunt-vr-review/"><u>[Updated] The Next Step in Virtual Reality Jaunt VR Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-color-spaces-srgb-vs-rgb/"><u>2024 Approved Understanding Color Spaces Srgb vs Rgb</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-systemsettings-issue-on-windows-11/"><u>Addressing SystemSettings Issue on Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-between-mini-led-and-oled-televisions-key-differences-explained/"><u>Choosing Between Mini LED & OLED Televisions: Key Differences Explained</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-to-modify-system-center-configuration-manager-settings/"><u>How to Modify System Center Configuration Manager Settings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-12-mini-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 12 mini iOS System? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>In 2024, Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-pc-users-experience-no-more-interruptions-in-hyper-scape-multiplayer-arena/"><u>Resolved: PC Users Experience No More Interruptions in Hyper Scape Multiplayer Arena</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-selecting-high-performance-fpv-drone-propellers-for-2024/"><u>The Complete Guide to Selecting High-Performance FPV Drone Propellers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/transition-with-precision-upgrading-from-virtualbox-v6-to-v7-in-win11-computers/"><u>Transition with Precision: Upgrading From VirtualBox v6 to v7 in Win11 Computers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-edit-like-a-pro-with-any-of-these-top-7-free-options/"><u>[New] 2024 Approved Edit Like a Pro with Any of These Top 7 Free Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-live-broadcast-gaming-applications/"><u>[New] Top 10 Live Broadcast Gaming Applications</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-innovative-interface-intensity-for-2024/"><u>[Updated] Innovative Interface Intensity for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-the-potential-of-your-notes-use-mematic/"><u>[Updated] Unleash the Potential of Your Notes - Use Mematic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-of-professional-gopro-video-filming/"><u>2024 Approved Unveiling the Secrets of Professional GoPro Video Filming</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/excellence-in-action-recording-tech-for-2024/"><u>Excellence in Action Recording Tech for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-podcast-style-unboxing/"><u>In 2024, The Ultimate Guide to Podcast-Style Unboxing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quality-acoustics-at-an-accessible-price-point-for-2024/"><u>Quality Acoustics at an Accessible Price Point for 2024</u></a></li>
 </ul></div>
 

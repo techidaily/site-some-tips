@@ -1,7 +1,7 @@
 ---
 title: "Overcoming IT Worker Fatigue: A Silver Lining Perspective by ZDNet"
-date: 2024-09-18 19:53:41
-updated: 2024-09-20 11:59:37
+date: 2024-12-09T18:27:11.232Z
+updated: 2024-12-12T17:16:52.917Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,6 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +65,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +78,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -123,6 +139,10 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +175,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-percussion-prospector-find-and-test-free-software/"><u>[New] The Percussion Prospector – Find & Test Free Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dispelling-darkness-enhancing-youtube-views/"><u>[Updated] In 2024, Dispelling Darkness, Enhancing Youtube Views</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-sourcing-a-list-cinematography-experts/"><u>2024 Approved Strategies for Sourcing A-List Cinematography Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-reminders-with-apple-phones-a-guide-to-scheduling-texts/"><u>Effortless Reminders with Apple Phones: A Guide to Scheduling Texts</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-video-error-224003-and-enable-playback/"><u>How To Correct Video Error 224003 and Enable Playback</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-official-method-to-unlock-your-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 15 Pro Official Method to Unlock Your Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-efficient-way-to-grab-all-episodes-on-your-idevice/"><u>In 2024, The Efficient Way to Grab All Episodes on Your iDevice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-viewers-experience-with-top-mac-streamers/"><u>In 2024, Transform Your Viewers' Experience with Top Mac Streamers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-most-downloaded-and-loved-iphone-apps-a-comprehensive-review/"><u>New The Most Downloaded and Loved iPhone Apps A Comprehensive Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-power-in-healthcare-through-vr-for-2024/"><u>Transformative Power in Healthcare Through VR for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-error-when-your-computer-cant-find-d3dx939dll/"><u>Troubleshooting Guide: Fixing the Error When Your Computer Can't Find d3dx9_39.dll</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-vivo-y78t-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo Y78t Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
+

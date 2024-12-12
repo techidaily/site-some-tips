@@ -1,7 +1,7 @@
 ---
 title: "Beware of Increasingly Sophisticated Mercenary Hackers: How Apple Warns iPhone Users & Steps to Stay Secure | ZDNET"
-date: 2024-11-30T16:36:28.860Z
-updated: 2024-12-06T17:44:04.009Z
+date: 2024-12-06T20:45:23.587Z
+updated: 2024-12-12T17:01:08.789Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,14 +119,20 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-mastering-media-production-magix-video-pro-x-insights/"><u>[New] Mastering Media Production Magix Video Pro X Insights</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-ultimate-guide-to-best-mac-video-frames-limit-156-chars-for-2024/"><u>[New] Ultimate Guide to Best Mac Video Frames (Limit 156 Chars) for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-maximizing-earnings-on-instagram-strategies-for-sponsorship-attraction-for-2024/"><u>[Updated] Maximizing Earnings on Instagram Strategies for Sponsorship Attraction for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamline-audio-podcasts-made-easy-for-iphones/"><u>[Updated] Streamline Audio Podcasts Made Easy for iPhones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-time-lapse-photography-with-gopro-software/"><u>2024 Approved Streamlining Time-Lapse Photography with GoPro Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-beats-optimal-background-music-for-vids/"><u>2024 Approved Unveiling Beats Optimal Background Music for Vids</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725288768642-winx-hd-video-converter-deluxe/"><u>高速ビデオ変換のコツ - WinX HD Video Converter Deluxe 使用法</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-reno-10-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Oppo Reno 10 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-6-tools-for-audiovisual-interpretation-for-2024/"><u>Ultimate 6 Tools for Audio/Visual Interpretation for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/"><u>[New] In 2024, Shadowed Swords & Honored Combatants Must-Try Titles Inspired by Ghost of Tsushi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-fisheye-lens-in-360-imagery/"><u>[Updated] The Art of Fisheye Lens in 360 Imagery</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-economics-of-t-series-a-deep-dive-into-youtube-earnings/"><u>[Updated] The Economics of T-Series A Deep Dive Into YouTube Earnings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-most-acclaimed-cloud-services-on-android-platform/"><u>[Updated] The Most Acclaimed Cloud Services on Android Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tiktok-mastery-the-art-of-editing-your-number/"><u>[Updated] TikTok Mastery The Art of Editing Your Number</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-supreme-4k-display-selection-the-best-of-ten/"><u>2024 Approved Supreme 4K Display Selection The Best of Ten</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition/"><u>2024 Approved The Cinematic Revolution Exploring the Best Shots & Lighting Tips - '24 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-seamless-shift-in-music-production/"><u>2024 Approved The Seamless Shift in Music Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools/"><u>2024 Approved Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/akers-lounge-app-for-2024/"><u>Filmmaker's Lounge App for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/ideas-to-keep-your-snapchat-streak-alive/"><u>Ideas to Keep Your Snapchat Streak Alive</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-premium-steadicam-brands-for-drones-and-camera-work/"><u>In 2024, Premium Steadicam Brands for Drones and Camera Work</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/making-mp3-from-instagram-visual-content-for-2024/"><u>Making MP3 From Instagram Visual Content for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-itel-s23plus-by-fonelab-android-recover-music/"><u>The way to get back lost music from Itel S23+</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unlocking-tiktok-video-potential-with-zoom/"><u>Unlocking TikTok Video Potential with Zoom</u></a></li>
 </ul></div>
 

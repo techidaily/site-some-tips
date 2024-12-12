@@ -1,7 +1,7 @@
 ---
 title: Why Small and Medium-Sized Enterprangs Resist Essential Security Aids Amidst Rising Threat Levels | Analysis by ZDNET
-date: 2024-09-18 11:36:55
-updated: 2024-09-20 12:37:46
+date: 2024-12-10T18:34:42.950Z
+updated: 2024-12-12T18:09:12.124Z
 tags:
   - cloud
 categories:
@@ -103,11 +103,37 @@ Chung also urged SMBs to stop regarding cybersecurity as an afterthought and sta
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-constructing-unique-instagram-story-banners-for-2024/"><u>[New] Constructing Unique Instagram Story Banners for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-best-practices-for-obs-based-skype-recording/"><u>[New] In 2024, Best Practices for OBS-Based Skype Recording</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-guide-to-intellectual-property-rights-on-youtube-for-2024/"><u>[Updated] The Essential Guide to Intellectual Property Rights on YouTube for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-smart-shopping-for-action-cameras-optimal-under-100-lists/"><u>2024 Approved Smart Shopping for ACTION Cameras Optimal Under $100 Lists</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-walk-down-memory-lane-rediscovering-our-love-for-dial-up-connections-and-their-quirks/"><u>A Walk Down Memory Lane: Rediscovering Our Love for Dial-Up Connections and Their Quirks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-evolution-in-management-tools-how-windows-11-transforms-the-classic-task-manager/"><u>Discovering Evolution in Management Tools: How Windows 11 Transforms the Classic Task Manager</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-pcs-creativity-with-advanced-ai-powered-image-generation/"><u>Enhance Your PC's Creativity with Advanced AI-Powered Image Generation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-bios-settings-what-changes-make-a-difference-on-your-pc/"><u>Essential BIOS Settings: What Changes Make a Difference on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-and-when-to-use-file-locksmith-in-powertoys/"><u>How and When to Use File Locksmith in PowerToys</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-11-pro-max-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 11 Pro Max Without Apple ID Password?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on iPhone 13 Pro Max</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-retrieving-icons-from-windows-executable-files/"><u>Step-by-Step Guide to Retrieving Icons From Windows Executable Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-secure-command-line-user-permissions-on-pc/"><u>Steps to Secure Command Line User Permissions on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-breakdown-of-lg-channels-you-should-know-about/"><u>The Complete Breakdown of LG Channels You Should Know About</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-resurgence-of-objectdock-introducing-an-apple-os-x-inspired-interface-for-windows-11-users/"><u>The Resurgence of ObjectDock - Introducing an Apple OS X Inspired Interface for Windows 11 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-essential-windows-features-to-activate-for-optimal-performance-the-why-and-how/"><u>Top 7 Essential Windows Features to Activate for Optimal Performance: The Why and How</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-quicktime-the-complete-guide-to-apples-media-player/"><u>Understanding QuickTime: The Complete Guide to Apple's Media Player</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unintended-hp-printer-software-updates-how-theyre-auto-installing-on-windows-computers/"><u>Unintended HP Printer Software Updates: How They're Auto-Installing on Windows Computers</u></a></li>
+<li><a href="https://win-web3.techidaily.com/zwei-methoden-zur-uberprufung-der-windows-11-kompatibilitat-ein-schritt-fur-schritt-leitfaden/"><u>Zwei Methoden Zur Überprüfung Der Windows 11-Kompatibilität: Ein Schritt-Für-Schritt-Leitfaden</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

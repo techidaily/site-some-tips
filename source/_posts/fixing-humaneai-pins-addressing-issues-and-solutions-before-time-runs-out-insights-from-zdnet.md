@@ -1,7 +1,7 @@
 ---
 title: "Fixing HumaneAI Pins: Addressing Issues & Solutions Before Time Runs Out - Insights From ZDNet"
-date: 2024-09-18 20:11:22
-updated: 2024-09-20 10:50:20
+date: 2024-12-09T20:29:01.163Z
+updated: 2024-12-12T19:58:52.516Z
 tags:
   - cloud
 categories:
@@ -42,6 +42,10 @@ It is unclear whether Humane can improve the performance and reliability of the 
 
 The issues with battery charging and overheating may not be solvable with the current hardware either.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The connectivity problem
 
 However, there may be a few things that Humane can do. Let's start with the connectivity response time.
@@ -72,6 +76,10 @@ To fix the Wi-Fi problem, the device needs passthrough-style authentication -- s
 
 My iPhone can store many Wi-Fi networks (that I have authenticated) in its memory. Using Bluetooth, it passes those to my Apple Watch, and that's completely transparent to me. That's exactly what the Pin needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4G and Wi-Fi are not the only answer for wearable connectivity
 
 Wi-Fi, however, is power-hungry, even with low-power transceiver implementations. A possible solution for future Pin hardware would be to include [Matter](https://csa-iot.org/all-solutions/matter/), an IoT connectivity standard adopted by many vendors, including Apple, Amazon, Google, and Samsung. Matter enables smart home products from different manufacturers to work together by providing a universal language for wireless (and wired) IoT devices. 
@@ -82,6 +90,10 @@ Wireless Matter devices can connect with each other using [Zigbee's wireless pro
 
 Matter's data transmission speeds may not be as fast as Wi-Fi for moving large amounts of data (such as photos and videos to cloud storage), but as a side-channel communications mechanism for text-based LLM queries and sensor data on wearable devices, it makes a lot of sense.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The LLM and cloud provisioning dilemma
 
 However, not all of the device's slowness can be attributed to connectivity. The query response from Humane's AI is also said to be slow and unreliable, and that's probably due to underprovisioned cloud resources. The pin's back-end GenAI LLM is [apparently OpenAI](https://www.theverge.com/2023/11/9/23953901/humane-ai-pin-launch-date-price-openai). It is unclear whether it uses GPT4 or GPT 3.5, but it must be done via an API call. 
@@ -91,6 +103,10 @@ It's unlikely the pin is doing [direct API calls to OpenAI](https://platform.ope
 **Also: [GPT-4 Turbo reclaims the 'best AI model' crown from Anthropic's Claude 3](https://www.zdnet.com/article/gpt-4-turbo-reclaims-best-ai-model-crown-from-anthropics-claude-3/)**
 
 Here's the question: Is it sensible to restrict the Pin to OpenAI/ChatGPT? Other LLMs are currently being developed, including Meta's LLAMA2, Google Gemini, and Amazon Titan. AI advancements are coming fast and furious, with models increasing in parameter size multiple times a year. Competition among these models is intense. An AI-driven product, one not confined to any particular ecosystem, should be service-agnostic and have access to the best-of-breed model at any time and to whichever LLM the user prefers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can the Pin be fixed - or will rivals capitalize on Humane's failure?
 
@@ -125,11 +141,29 @@ As the landscape of personal technology continues to evolve, the pressure is on 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-transform-ordinary-snaps-the-top-10-snapshot-enhancers-apps/"><u>[New] Transform Ordinary Snaps The Top 10 Snapshot Enhancers Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-your-potential-with-outstanding-android-time-lapse-videos/"><u>[New] Unleash Your Potential with Outstanding Android Time-Lapse Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-15-budget-friendly-webm-players-that-work-flawlessly/"><u>[Updated] Top 15 Budget-Friendly WebM Players That Work Flawlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-twitch-time-jump-recapturing-lost-moments/"><u>[Updated] Twitch Time Jump Recapturing Lost Moments</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cortana-stuck-top-solutions-when-microsoft-assistant-fails/"><u>Cortana Stuck? Top Solutions When Microsoft Assistant Fails</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/gopros-luxury-camera-hero9-black-deep-dive/"><u>GoPro's Luxury Camera - HERO9 Black Deep Dive</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-docm-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to insert sign in .docm file</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-testing-titans-in-depth-comparison-of-gopros-hero5b-and-session/"><u>In 2024, Testing Titans In-Depth Comparison of GoPro's Hero5B & Session</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis/"><u>In 2024, The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tiktoks-best-practices-for-stellar-edits/"><u>In 2024, TikTok's Best Practices for Stellar Edits</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unlocking-creativity-a-guide-to-instagram-story-archiving/"><u>In 2024, Unlocking Creativity A Guide to Instagram Story Archiving</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-health-outcomes-the-9-key-ways-to-leverage-chatgpt-technology/"><u>Maximizing Health Outcomes: The 9 Key Ways to Leverage ChatGPT Technology</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-pip-like-a-pro-advanced-techniques-in-final-cut-pro/"><u>New 2024 Approved PiP Like a Pro Advanced Techniques in Final Cut Pro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973390970-seamless-surface-book-t-driver-update-guide-get-them-here/"><u>Seamless Surface Book T Driver Update Guide – Get Them Here!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-effective-web-pages-for-optimal-search-engine-results/"><u>Unlocking the Secrets of Effective Web Pages for Optimal Search Engine Results</u></a></li>
+</ul></div>
+

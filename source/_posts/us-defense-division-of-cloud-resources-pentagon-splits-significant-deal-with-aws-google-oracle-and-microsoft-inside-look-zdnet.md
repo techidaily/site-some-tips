@@ -1,7 +1,7 @@
 ---
 title: "US Defense Division of Cloud Resources: Pentagon Splits Significant Deal with AWS, Google, Oracle, and Microsoft - Inside Look | ZDNet"
-date: 2024-09-17 15:14:58
-updated: 2024-09-20 11:17:29
+date: 2024-12-09T20:47:11.367Z
+updated: 2024-12-12T18:30:06.248Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: Getty Images / iStockphoto
 After canceling its $10bn JEDI contract with Microsoft last year, the Pentagon has now awarded a new $9bn contract to four tech giants that will build its [cloud-computing network](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/).
 
 The contract, formerly named JEDI but now called the Joint Warfighting Cloud Capability (JWCC), has been awarded to Amazon Web Services, Google Support Services, Microsoft, and Oracle. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -63,11 +67,26 @@ Ken Glueck, Executive Vice President at Oracle, said: "Oracle looks forward to c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-cutting-edge-review-superior-text-plugins-for-adobe-ae/"><u>[New] In 2024, Cutting-Edge Review Superior Text Plugins for Adobe AE</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeos-gratis-editing-guide-enhance-videos-on-budget/"><u>[New] Vimeo's Gratis Editing Guide Enhance Videos on Budget</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-list-of-top-quality-cost-free-luts/"><u>[Updated] Ultimate List of Top-Quality, Cost-Free LUTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amv-vers-mp4-convertir-videos-en-ligne-gratuitement-avec-movevi/"><u>AMV Vers MP4 : Convertir Vidéos en Ligne Gratuitement Avec MoveVI!</u></a></li>
+<li><a href="https://win11.techidaily.com/delineating-differences-comparative-analysis-of-microsoft-and-native-windows-logins/"><u>Delineating Differences: Comparative Analysis of Microsoft & Native Windows Logins</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-successfully-troubleshoot-and-repair-a-disconnected-facetime-in-6-easy-steps/"><u>How to Successfully Troubleshoot and Repair a Disconnected FaceTime in 6 Easy Steps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-from-sketches-to-screens-animation-via-windows-movie-maker/"><u>In 2024, From Sketches to Screens Animation via Windows Movie Maker</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-wirecast-vs-obs-which-is-better/"><u>In 2024, Wirecast Vs OBS Which Is Better?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/move-magic-mp3-transcoder-facili-trasformatori-multimediale-per-i-tuoi-file-audio/"><u>Move Magic MP3 Transcoder - Facili Trasformatori Multimediale per I Tuoi File Audio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-video-editing-software-of-2024-how-to-pick-the-perfect-app/"><u>Top Rated Video Editing Software of 2024: How to Pick the Perfect App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp3-m4b-online/"><u>속도가 빨라진 MP3, M4B 바인드 강화 – 무료 Online 전환 기술</u></a></li>
+<li><a href="https://some-tips.techidaily.com/png-movivi/"><u>ウェブ上で自由に利用可能なPNG変換サービス - MoviVi</u></a></li>
+</ul></div>
+

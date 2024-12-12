@@ -1,7 +1,7 @@
 ---
 title: Overwhelmed in the Digital Age? Find Encouraging Perspectives Here | Wired
-date: 2024-09-18 23:47:28
-updated: 2024-09-20 11:12:28
+date: 2024-12-10T20:12:55.794Z
+updated: 2024-12-12T18:40:54.659Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,6 +71,10 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-exclusive-twitter-gif-compiler-for-avid-scribes/"><u>[New] In 2024, Exclusive Twitter GIF Compiler for Avid Scribes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-filmoquery-your-guide-to-video-editing-insights/"><u>[New] In 2024, FilmoQuery Your Guide to Video Editing Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-photographers-guide-to-negative-imaging/"><u>[New] The Photographer’s Guide to Negative Imaging</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-uncovering-secrets-in-instagram-story-watchers-for-2024/"><u>[New] Uncovering Secrets in Instagram Story Watchers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-upscaling-your-youtube-visuals/"><u>[New] Upscaling Your YouTube Visuals</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-from-silent-screens-to-captivating-media-instantly-create-captions-on-fb/"><u>[Updated] 2024 Approved From Silent Screens to Captivating Media Instantly Create Captions on FB</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expressiveness-enhancing-youtube-comments-via-emojis/"><u>[Updated] In 2024, Expressiveness Enhancing YouTube Comments via Emojis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-list-of-different-video-camera-types/"><u>[Updated] List of Different Video Camera Types</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-pixels-selecting-cameras-for-quality-slow-videos/"><u>2024 Approved Prime Pixels Selecting Cameras for Quality Slow Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-updated-query-catalog-to-connect-with-podcast-loyalists/"><u>2024 Approved Updated Query Catalog to Connect with Podcast Loyalists</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-pova-6-pro-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Pova 6 Pro 5G Phone that is Locked?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-pioneering-virtual-voyages-with-jaunt-vr/"><u>In 2024, Pioneering Virtual Voyages with Jaunt VR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-powerhouse-of-4k-reviewing-the-nikon-j5-camera/"><u>In 2024, The Powerhouse of 4K Reviewing the Nikon J5 Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-list-best-for-android-pics/"><u>In 2024, The Ultimate List Best for Android Pics</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/the-roadmap-ahead-predictions-and-updates-for-2018s-dex-3-mixing-software-pcdj-deep-dive/"><u>The Roadmap Ahead: Predictions and Updates for 2018'S DEX 3 Mixing Software | PCDJ Deep Dive</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-90-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor 90</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-footage-techniques-for-outstanding-gopro-edits-for-2024/"><u>Transform Your Footage Techniques for Outstanding GoPro Edits for 2024</u></a></li>
+</ul></div>
+

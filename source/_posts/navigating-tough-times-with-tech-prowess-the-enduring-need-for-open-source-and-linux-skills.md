@@ -1,7 +1,7 @@
 ---
 title: "Navigating Tough Times with Tech Prowess: The Enduring Need for Open Source and Linux Skills"
-date: 2024-09-18 15:59:12
-updated: 2024-09-20 10:23:25
+date: 2024-12-07T16:27:04.248Z
+updated: 2024-12-12T20:11:48.551Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -47,6 +51,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -66,6 +74,10 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -103,6 +115,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unpacking-techniques-for-facebook-live-embedding/"><u>[New] 2024 Approved Unpacking Techniques for Facebook Live Embedding</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-stream-selection-simplified-top-10-actionable-tips/"><u>[New] Stream Selection Simplified Top 10 Actionable Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-linkedin-url/"><u>[New] Tailoring Your LinkedIn URL</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-toolkit-for-dominating-social-media-management-smm/"><u>[New] The Ultimate Toolkit for Dominating Social Media Management (SMM)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-effective-use-of-snap-camera-for-team-collaboration/"><u>[Updated] Effective Use of Snap Camera for Team Collaboration</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-innovative-techniques-to-enhance-your-obs-broadcasts-android/"><u>[Updated] In 2024, Innovative Techniques to Enhance Your OBS Broadcasts (Android)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-professional-top-10-hd-webcams-and-buyers-advice-for-2024/"><u>[Updated] Professional Top 10 HD Webcams & Buyer's Advice for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-voice-alteration-apps-for-professional-vtuber-artistry/"><u>[Updated] Top 5 Voice Alteration Apps for Professional Vtuber Artistry</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-step-by-step-guide-transforming-flac-files-into-mp3-format-across-pc-mac-and-web-services/"><u>1. Step-by-Step Guide: Transforming FLAC Files Into MP3 Format Across PC, Mac, and Web Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-writing-persuasive-vlog-show-narratives/"><u>2024 Approved Strategies for Writing Persuasive Vlog Show Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-television-or-projector-for-peak-4k-performance/"><u>2024 Approved Television or Projector for Peak 4K Performance?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-upside-down-visuals-unraveling-instagram-video-confusion/"><u>2024 Approved Upside Down Visuals Unraveling Instagram Video Confusion</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1728498459046-404-not-found-web/"><u>404 Not Found: Webページを検索する方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-cod-black-ops-cold-war-glitch-overcome-error-80070057-with-these-steps/"><u>Beat Cod: Black Ops Cold War Glitch - Overcome Error 80070057 with These Steps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-x-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone X Smoothly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-play-7t-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor Play 7T Lock Screen Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-science-of-space-how-layout-affects-professional-effectiveness/"><u>In 2024, The Science of Space How Layout Affects Professional Effectiveness</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-choosing-top-subtitle-editors-online/"><u>In 2024, The Ultimate Guide to Choosing Top Subtitle Editors Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-and-tricks-to-restore-photo-slideshow-in-windows-11-spotlight-functionality/"><u>Tips and Tricks to Restore Photo Slideshow in Windows 11 Spotlight Functionality</u></a></li>
+</ul></div>
+

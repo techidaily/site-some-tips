@@ -1,7 +1,7 @@
 ---
 title: Decoding the Fluctuating Popularity of Programming Languages Since 2016 - Revealing Key Patterns and Predictions
-date: 2024-09-19 13:15:40
-updated: 2024-09-20 12:13:34
+date: 2024-12-05T16:35:54.919Z
+updated: 2024-12-12T19:39:21.182Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-expanding-social-footprint-tying-igtv-and-facebook-together/"><u>[New] In 2024, Expanding Social Footprint Tying IGTV & Facebook Together</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-battery-choices-for-exceptional-drone-performance/"><u>[New] Tailoring Battery Choices for Exceptional Drone Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-right-way-to-pick-spiritual-phone-tunes/"><u>[New] The Right Way to Pick Spiritual Phone Tunes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-enhancing-clarity-and-comprehensibility-adding-on-screen-captions-in-video-projects/"><u>[Updated] In 2024, Enhancing Clarity & Comprehensibility Adding On-Screen Captions in Video Projects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thorough-examination-straightforward-dynamic-range-methods/"><u>[Updated] Thorough Examination Straightforward Dynamic Range Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-list-15-must-watch-unboxing-channels/"><u>[Updated] Ultimate List 15 Must-Watch Unboxing Channels</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mp3-mp42024/"><u>無料MP3 MP4変換ソフト2024年度最高効果 - セキュリティチェック済み</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminating-stutter-in-gameplay-a-guide-to-solving-lol-lag-issues/"><u>Eliminating Stutter in Gameplay: A Guide to Solving LoL Lag Issues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fbx-gaming-a-complete-video-guide/"><u>FBX Gaming A Complete Video Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailoring-content-for-snapchats-luminaries-for-2024/"><u>Tailoring Content for Snapchat's Luminaries for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-compress-videos-like-a-pro-9-best-free-tools-for-windows-10/"><u>Updated In 2024, Compress Videos Like a Pro 9 Best Free Tools for Windows 10</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar/"><u>スマートな画像修復ツールStellar インスタント購入</u></a></li>
+</ul></div>
+

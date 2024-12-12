@@ -1,7 +1,7 @@
 ---
 title: "The Future of Work: Deciphering the Mysterious New Roles Created by Artifice Intelligence - ZDNet Insights"
-date: 2024-09-18 21:26:14
-updated: 2024-09-20 11:32:40
+date: 2024-12-09T20:15:24.099Z
+updated: 2024-12-12T17:11:03.298Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -41,6 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +64,10 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-streaming-wars-the-top-10-platforms-ranked-and-compared/"><u>[New] Streaming Wars The Top 10 Platforms Ranked and Compared</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-compelling-podcast-names-a-detailed-guide-with-idea-examples/"><u>[Updated] Crafting Compelling Podcast Names A Detailed Guide with Idea Examples</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-creme-de-la-creme-of-vr-development-talent/"><u>[Updated] The Crème De La Crème of VR Development Talent</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-free-video-editing-and-effects-sites/"><u>[Updated] The Ultimate Guide to Free Video Editing and Effects Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-30-pro-windows-10-secrets-revealed/"><u>[Updated] Top 30 Pro Windows 10 Secrets Revealed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-screenrecorder-evaluation-tool/"><u>2024 Approved ScreenRecorder Evaluation Tool</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-microsoft-ergonomic-keyboard-4000-drivers-instantly-simple-steps-for-speedy-installation/"><u>Download Microsoft Ergonomic Keyboard 4000 Drivers Instantly: Simple Steps for Speedy Installation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-choose-the-background-music-for-the-trailer-for-2024/"><u>How to Choose the Background Music for the Trailer for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-blueprint-for-iphone-photo-arrangement-in-ordered-algebras-and-icloud/"><u>In 2024, The Complete Blueprint for iPhone Photo Arrangement in Ordered Algebras and iCloud</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-save-220-on-a-new-rtx/"><u>Limited-Time Offer: Save $220 on a New RTX</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-artists-guide-to-dynamic-palette-alteration-for-2024/"><u>The Artist's Guide to Dynamic Palette Alteration for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-selecting-premium-text-tools-for-ae-for-2024/"><u>The Ultimate Guide to Selecting Premium Text Tools for AE for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-and-tricks-exchanging-images-and-videos-on-apple-devices-for-2024/"><u>Tips & Tricks Exchanging Images & Videos on Apple Devices for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/transform-your-snaps-with-cutting-edge-filter-techniques/"><u>Transform Your Snaps with Cutting-Edge Filter Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-addressing-the-issue-of-numbered-contacts-in-messages/"><u>Troubleshooting Guide: Addressing the Issue of Numbered Contacts in Messages</u></a></li>
+</ul></div>
+

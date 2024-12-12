@@ -1,7 +1,7 @@
 ---
 title: "How Artificial Intelligence Boosts Teamwork Between Programmers & Entrepreneurs: Insights From ZDNet"
-date: 2024-09-19 20:34:44
-updated: 2024-09-20 10:40:19
+date: 2024-12-07T16:12:31.323Z
+updated: 2024-12-12T19:05:17.768Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-artistic-science-behind-youtube-live-imagery/"><u>[New] In 2024, The Artistic Science Behind YouTube Live Imagery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-free-drawing-tools-top-mac-apps-listed/"><u>[New] Ultimate Free Drawing Tools Top Mac Apps Listed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-how-to-turn-off-youtube-video-preview-all-platform-solution/"><u>[Updated] How to Turn Off YouTube Video Preview? [All Platform Solution]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-picks-hilarity-driven-ringtones-for-laughter-lovers/"><u>[Updated] Top Picks Hilarity-Driven Ringtones for Laughter Lovers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unboxing-unveiled-enhancing-customer-experiences/"><u>[Updated] Unboxing Unveiled Enhancing Customer Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-true-tints-and-shades-in-photos/"><u>2024 Approved Unlocking True Tints and Shades in Photos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accelerate-your-workflow-creating-multiple-content-designs-via-canva-and-chatgpt/"><u>Accelerate Your Workflow: Creating Multiple Content Designs via Canva & ChatGPT</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-8k-video-players-top-3-free-choices-compatible-with-windows-10-and-macos/"><u>Best 8K Video Players: Top 3 Free Choices Compatible with Windows 10 & macOS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/choosing-iphone-15-pro-instead-of-pro-max-a-users-perspective/"><u>Choosing iPhone 15 Pro Instead of Pro Max: A User’s Perspective</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/expanding-social-footprint-tying-igtv-and-facebook-together-for-2024/"><u>Expanding Social Footprint Tying IGTV & Facebook Together for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-workflow-top-10-stealthy-canva-techniques/"><u>In 2024, Transform Your Workflow Top 10 Stealthy Canva Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-apples-audio-world-a-download-guide-for-ios-users/"><u>In 2024, Unlocking Apple's Audio World A Download Guide for iOS Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-crosstraffic-corsair-icue-working-fix-for-windows-11-users/"><u>Overcoming Crosstraffic: Corsair iCUE Working Fix for Windows 11 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-facial-movements-using-blur-effects-in-picsart-for-2024/"><u>The Art of Facial Movements Using Blur Effects in Picsart for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rugal-filmmakers-guide-to-affordable-camera-gear/"><u>The Frugal Filmmaker's Guide to Affordable Camera Gear</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-ultimate-4k-aerial-photography-guide-mi-drone-review-for-2024/"><u>The Ultimate 4K Aerial Photography Guide MI Drone Review for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-70-lite-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor 70 Lite 5G Device</u></a></li>
+</ul></div>
+

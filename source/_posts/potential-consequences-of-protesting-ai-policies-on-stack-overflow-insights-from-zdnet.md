@@ -1,7 +1,7 @@
 ---
 title: Potential Consequences of Protesting AI Policies on Stack Overflow - Insights From ZDNet
-date: 2024-09-19 10:28:34
-updated: 2024-09-20 10:50:32
+date: 2024-12-09T19:14:48.792Z
+updated: 2024-12-12T18:52:02.092Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-screen-recording-in-adobe-captivate-a-step-by-step-guide/"><u>[New] 2024 Approved Mastering Screen Recording in Adobe Captivate A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-medical-messages-in-social-media-ads/"><u>[New] Tailoring Medical Messages in Social Media Ads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-techniques-for-swapping-your-images-tone-spectrum/"><u>[New] Techniques for Swapping Your Image's Tone Spectrum</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-metaverse-potential-top-7-innovations-to-master/"><u>[New] Unlocking Metaverse Potential - Top 7 Innovations to Master</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-framing-the-world-from-a-phone-angle/"><u>[Updated] Framing the World From a Phone Angle</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-effortless-video-and-image-backup-from-instagram/"><u>[Updated] In 2024, Effortless Video & Image Backup From Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-and-controlling-safaris-pip-feature/"><u>[Updated] Understanding and Controlling Safari's PIP Feature</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elite-yoga-routines-youtubes-leading-fitness-sites-for-2024/"><u>Elite Yoga Routines YouTube's Leading Fitness Sites for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-google-pixel-8-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Google Pixel 8 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-photographic-archives/"><u>In 2024, Top Tier Photographic Archives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-instagram-mavens-guide-to-spectaculous-unboxing-reels-for-2024/"><u>The Instagram Maven's Guide to Spectaculous Unboxing Reels for 2024</u></a></li>
+</ul></div>
+

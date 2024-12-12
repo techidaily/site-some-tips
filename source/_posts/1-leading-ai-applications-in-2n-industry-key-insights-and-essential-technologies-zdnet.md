@@ -1,7 +1,7 @@
 ---
 title: "1. Leading AI Applications in 2N Industry: Key Insights & Essential Technologies (ZDNet)"
-date: 2024-09-17 23:56:55
-updated: 2024-09-20 11:32:55
+date: 2024-12-05T16:20:29.217Z
+updated: 2024-12-12T18:47:00.815Z
 tags:
   - developer
 categories:
@@ -47,6 +47,10 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,11 +71,19 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +92,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-strategies-for-dampening-aerial-drone-vibration-artifacts/"><u>[New] Strategies for Dampening Aerial Drone Vibration Artifacts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-validity-of-vibration-reduction-in-adobes-world/"><u>[New] The Validity of Vibration Reduction in Adobe's World</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-10plus-proven-techniques-for-selecting-the-finest-cricket-broadcasts/"><u>[New] Unveiling 10+ Proven Techniques for Selecting the Finest Cricket Broadcasts</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-best-5-ai-voice-generators-online-supports-all-browsers/"><u>2024 Approved Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-images-into-engaging-animation-projects/"><u>2024 Approved Transforming Images Into Engaging Animation Projects</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/discover-the-leading-cryptocurrency-platforms-insights-from-yl-computings-special-report/"><u>Discover the Leading Cryptocurrency Platforms: Insights From YL Computing's Special Report</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-fix-no-internet-access-on-windows-expert-advice-by-yl-software/"><u>How To Fix No Internet Access on Windows - Expert Advice by YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-silence-a-noisy-ps4-system-for-quiet-gaming-sessions/"><u>How to Silence a Noisy PS4 System for Quiet Gaming Sessions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oppo-find-n3-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Oppo Find N3 for Free? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tailoring-humor-with-9gag-your-personal-meme-making-manual/"><u>In 2024, Tailoring Humor with 9GAG Your Personal Meme Making Manual</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tunes-apps-win-edition/"><u>In 2024, Top Tunes Apps Win Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-videos-with-simple-inshot-techniques/"><u>In 2024, Transform Your Videos with Simple Inshot Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-video-files-to-mp3-a-focused-guide-for-pinterest-users/"><u>In 2024, Transforming Video Files to MP3 A Focused Guide for Pinterest Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uncovering-average-earnings-podcaster-edition/"><u>In 2024, Uncovering Average Earnings Podcaster Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unlocking-the-potential-of-discord-streams/"><u>In 2024, Unlocking the Potential of Discord Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smart-selections-the-premier-list-of-costless-streamers-apps-and-software-for-2024/"><u>Smart Selections The Premier List of Costless Streamers Apps & Software for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-beginners-guide-to-stunning-slow-motion-shooting-with-an-android-for-2024/"><u>The Beginner's Guide to Stunning Slow-Motion Shooting with an Android for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-evolution-of-communication-with-google-hangouts-what-it-was-and-how-it-worked/"><u>The Evolution of Communication with Google Hangouts – What It Was and How It Worked</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/vanishing-acts-how-to-blur-faces-and-objects-online-for-2024/"><u>Vanishing Acts How to Blur Faces and Objects Online for 2024</u></a></li>
+</ul></div>
+

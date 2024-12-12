@@ -1,7 +1,7 @@
 ---
 title: Empowering Government Services Through Cloud-Based Artificial Intelligence - The Singapore Model, Featured on ZDNET
-date: 2024-09-17 11:58:45
-updated: 2024-09-20 11:41:11
+date: 2024-12-05T17:48:43.925Z
+updated: 2024-12-12T19:14:40.609Z
 tags:
   - cloud
 categories:
@@ -62,6 +62,10 @@ In addition, the Monetary Authority of Singapore (MAS) is working with Google to
 Noting that competition remained tough and the global landscape is constantly evolving, he added that AI will play a key role for Singapore moving forward. 
 
 He said MAS will use the collaboration with Google to identify generative AI use cases that will allow it to work more efficiently and provide foundational models that prioritise data security and AI governance. "Through this, we hope to inspire greater adoption of [responsible generative AI in the financial](https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/) sector," Loy said.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Doing things differently with AI
 
@@ -134,11 +138,30 @@ Commenting on the vendor's collaboration with the Singapore government, Ng said:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-quick-glitch-fix-for-podcast-broadcasts/"><u>[New] The Quick Glitch Fix for Podcast Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-creativity-top-10-insider-canva-tricks/"><u>[New] Unlocking Creativity Top 10 Insider Canva Tricks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-adventure-captured-comparing-black-hero5-to-star-sj7/"><u>[Updated] 2024 Approved Adventure Captured Comparing Black Hero5 to Star SJ7</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-perfect-your-crafting-skills-using-these-7-sounds-tracks/"><u>[Updated] 2024 Approved Perfect Your Crafting Skills Using These 7 Sounds Tracks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-10-mock-musicals-that-bring-smiles/"><u>[Updated] In 2024, 10 Mock Musicals That Bring Smiles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-humor-and-memes-galore-iphones/"><u>[Updated] In 2024, Humor & Memes Galore, iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-smoothing-iphone-pics-4-methods/"><u>[Updated] The Ultimate Guide to Smoothing iPhone Pics (4 Methods)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725289066383-dvd/"><u>「パソコンで問題なく動かせる DVDのフリーダウンロード手順」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-momentary-motion-picture-manuscript/"><u>2024 Approved Momentary Motion Picture Manuscript</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/activate-your-androids-voice-command-capabilities-with-a-customized-chatgpt-through-the-voicegpt-app/"><u>Activate Your Android's Voice Command Capabilities with a Customized ChatGPT Through the VoiceGPT App</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-maximizing-visibility-post-facebook-update/"><u>In 2024, Maximizing Visibility Post-Facebook Update</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-innovative-ai-based-podcast-name-generators/"><u>In 2024, Top 10 Innovative AI-Based Podcast Name Generators</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/maciphoneipadipoddvdvideo/"><u>MacからiPhone・iPad・iPodへのDVD＆Videoファイルバックアップと再生手順</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-route-to-collecting-pictorial-frame-downloads-for-2024/"><u>The Route to Collecting Pictorial Frame Downloads for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-science-behind-whatsapp-voice-talks-for-2024/"><u>The Science Behind WhatsApp Voice Talks for 2024</u></a></li>
+</ul></div>
+

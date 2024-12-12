@@ -1,7 +1,7 @@
 ---
 title: "Adapting Cyber Defense: The Essential Evolution of Skills Amidst the Challenge of Outdated Infrastructure"
-date: 2024-09-17 22:15:55
-updated: 2024-09-20 10:36:21
+date: 2024-12-09T16:30:14.816Z
+updated: 2024-12-12T20:20:00.029Z
 tags:
   - cloud
 categories:
@@ -42,6 +42,10 @@ Globally, 92% of cybersecurity professionals believe their organization has skil
 This demand will continue to grow as organizations incorporate AI into more processes, further driving the need for cloud computing, and the need for both skillsets, France noted. It means cybersecurity professionals will need to understand how AI is integrated and secure the applications and workflows it powers, he said. 
 
 Left unplugged, gaps in cybersecurity skills and staff will result in teams being overloaded and this can lead to oversights in addressing vulnerabilities, he cautioned. Misconfiguration and falling behind security patches are among the most common mistakes that can lead to breaches, he added. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI adoption driving the need for new skills
 
@@ -94,6 +98,10 @@ Burn further noted: "Most organizations were not prepared for the rapid migratio
 To address these requirements, she said organizations are tapping the knowledge that security operations and software development or product security teams have on infrastructure and adjusting this for the new environments. "So it's about finding the right training and upskilling resources and giving teams the time to train," she added. 
 
 "Having an underskilled team can be as risky as having an understaffed one," she said. Citing Forrester's 2022 Business Technographics survey on data security, she said companies that had six or more data breaches in the past year were more likely to report the unavailability of security employees with the right skills as one of their biggest IT security challenges in the past 12 months. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tech stacks need simplifying to ease security management
 
@@ -171,11 +179,31 @@ Few organizations, unless they have the necessary capabilities, have a collectiv
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-discreetly-watch-instas-hidden-gems-here/"><u>[New] 2024 Approved Discreetly Watch Insta's Hidden Gems, Here</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enriching-vlog-topics-to-share/"><u>[New] 2024 Approved Enriching Vlog Topics to Share</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-from-gym-goer-to-broadcayer-set-up-a-sports-vlog-on-macos/"><u>[Updated] From Gym Goer to Broadcayer Set Up a Sports Vlog on macOS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-streamline-your-social-media-uploading-on-twitter/"><u>2024 Approved Streamline Your Social Media Uploading on Twitter</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ucmd/"><u>從U盤中恢復丟失文件：詳盡CMD指令介面使用方法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-video-transcoding-tools-for-ubuntu-users-top-8-picks/"><u>Best Video Transcoding Tools for Ubuntu Users: Top 8 Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-avi-files-to-m4a-format-for-free-with-movavis-online-software/"><u>Convert AVI Files to M4A Format for Free with Movavi's Online Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-tool-transform-your-gifs-into-mkv-videos-with-ease/"><u>Free Online Tool: Transform Your GIFs Into MKV Videos with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuissimo-convertidor-ogg-e-ape-em-linha-pelo-movavi/"><u>Gratuíssimo Convertidor OGG E APE Em Linha Pelo Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-no-cost-media-transformation-easily-convert-m4ampeg-to-m4v-formats/"><u>Movavi's No-Cost Media Transformation: Easily Convert M4A/MPEG to M4V Formats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-web-based-free-service-for-changing-m4v-video-format-to-movie-mov/"><u>Movavi's Web-Based, Free Service for Changing M4V Video Format to Movie (MOV)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-guide-to-blurring-faces-in-photos-and-videos-free-resources/"><u>New 2024 Approved The Ultimate Guide to Blurring Faces in Photos and Videos (Free Resources)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-queries-for-ai-driven-crypto-analysis/"><u>Optimal Queries for AI-Driven Crypto Analysis</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/the-sony-xperia-5-unveiled-balancing-diminutive-design-with-expensive-tags/"><u>The Sony Xperia 5 Unveiled: Balancing Diminutive Design with Expensive Tags</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unveiling-the-dji-spark-compact-drone-mastery-for-photographers/"><u>Unveiling the DJI Spark Compact Drone Mastery for Photographers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/virtueel-verwerpen-van-arw-naar-png-gratuite-online-convertitie-processen-met-movavi/"><u>Virtueel Verwerpen Van ARW Naar PNG: Gratuite Online-Convertitie-Processen Met Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vob-mjpeg-online-movavi/"><u>VOB를 무료로 MJPEG로 바꾸는 Online 도구 - Movavi</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Collaboration: How Microsoft Introduces AI-Powered Co-Pilots for Enhanced Teams and Project Success - ZDNet Insights"
-date: 2024-09-19 21:17:22
-updated: 2024-09-20 11:40:27
+date: 2024-12-08T16:53:59.534Z
+updated: 2024-12-12T16:45:26.277Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-zooming-into-success-how-to-improve-your-livestream-quality-on-youtube/"><u>[New] 2024 Approved Zooming Into Success How to Improve Your Livestream Quality on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-future-together-top-vr-gear/"><u>[New] Exploring the Future Together Top VR Gear</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-selecting-premium-microphones-for-mac-users-reviewed-for-2024/"><u>[Updated] Selecting Premium Microphones for Mac Users (Reviewed) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-smile-sourcebook-event-specific-memetic-delights/"><u>[Updated] Smile Sourcebook Event-Specific Memetic Delights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-80s-effects-compendium-for-professional-editors/"><u>2024 Approved Top 80S Effects Compendium for Professional Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unearthed-30-window-11-insider-strategies-to-boost-performance/"><u>2024 Approved Unearthed 30 Window 11 Insider Strategies to Boost Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tiktok-downloading-the-blueprint-for-mass-media-capture/"><u>In 2024, TikTok Downloading The Blueprint for Mass Media Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-utilities-free-and-paid-macpc-bd-software-compared/"><u>In 2024, Ultimate Utilities Free & Paid Mac/PC BD Software Compared</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-your-own-cartoons-10-essential-animation-apps-for-mobile/"><u>New In 2024, Make Your Own Cartoons 10 Essential Animation Apps for Mobile</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimize-chromes-voice-the-best-web-based-vocal-modification-apps-for-2024/"><u>Optimize Chrome's Voice The Best Web-Based Vocal Modification Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-memories-on-ios-organized-albums-and-efficient-icloud-synchronization-for-2024/"><u>Streamline Your Memories on iOS Organized Albums & Efficient iCloud Synchronization for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sunrise-speak-a-guide-to-mornings-in-10-cultures/"><u>Sunrise Speak: A Guide to Mornings in 10 Cultures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-list-of-superior-4k-recording-software-for-windows-and-mac/"><u>The Ultimate List of Superior 4K Recording Software for Windows and Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-elite-sites-for-high-res-vectors-for-2024/"><u>Top 10 Elite Sites For High-Res Vectors for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-a34-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Samsung Galaxy A34 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-superior-slow-motion-quality-through-fps-selection-for-2024/"><u>Unlocking Superior Slow Motion Quality Through FPS Selection for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-of-youtube-video-comments-for-2024/"><u>Unlocking the Secrets of YouTube Video Comments for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo K11 5G | Dr.fone</u></a></li>
+</ul></div>
+

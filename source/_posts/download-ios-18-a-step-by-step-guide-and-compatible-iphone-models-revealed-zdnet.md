@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: A Step-by-Step Guide and Compatible iPhone Models Revealed | ZDNet"
-date: 2024-12-05T16:52:08.314Z
-updated: 2024-12-06T16:34:07.345Z
+date: 2024-12-08T16:29:31.887Z
+updated: 2024-12-12T19:15:26.654Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
@@ -36,24 +40,16 @@ Jason Hiner/ZDNET
 
 Go to your iPhone's Settings and select General. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -62,7 +58,15 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -93,10 +97,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -114,7 +114,7 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -161,19 +161,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-superior-visual-treatment-applying-filters-to-videos/"><u>[New] Superior Visual Treatment Applying Filters to Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-cognitive-conclaves-educational-yt-powerhouses/"><u>[Updated] 2024 Approved Cognitive Conclaves Educational YT Powerhouses</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-facetime-made-simple-for-android-users/"><u>[Updated] 2024 Approved FaceTime Made Simple for Android Users</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-your-first-step-to-successful-streaming/"><u>[Updated] Your First Step to Successful Streaming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-comprehensive-guide-to-10-best-meme-patterns/"><u>2024 Approved The Comprehensive Guide to #10 Best Meme Patterns</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-android-gaming-experience-kinemaster-reviewed/"><u>2024 Approved The Ultimate Android Gaming Experience - KineMaster Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-review-of-lg-bp350-for-home-theaters/"><u>2024 Approved Ultimate Review of LG BP350 for Home Theaters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fresh-take-on-sony-s6500-hd-dvd-and-bd-player-for-2024/"><u>Fresh Take on Sony S6500 HD DVD & BD Player for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-key-to-quick-and-effective-small-image-generation/"><u>In 2024, The Key to Quick and Effective Small Image Generation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-photo-perfection-discover-our-6-best-background-erasers/"><u>In 2024, Ultimate Photo Perfection – Discover Our 6 Best Background Erasers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-what-is-instagram-story-highlight/"><u>In 2024, What Is Instagram Story Highlight?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/temus-affordable-geek-gear-an-honest-review-of-my-no-name-brand-buys-on-zdnet/"><u>Temu’s Affordable Geek Gear: An Honest Review of My No-Name Brand Buys on ZDNet</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-recorders-report-card-best-in-class-rated/"><u>The Recorder's Report Card Best in Class Rated</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/unleash-creativity-design-your-own-logos-using-template-assets-free/"><u>Unleash Creativity Design Your Own Logos Using Template Assets (Free)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-backwards-viewing-a-new-lens-for-analyzing-youtube-content/"><u>[Updated] 2024 Approved Backwards Viewing A New Lens for Analyzing YouTube Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-no-copyrights-required-best-10-melodies-for-zen-practice/"><u>[Updated] In 2024, No Copyrights Required - Best 10 Melodies for Zen Practice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-elite-list-15-high-quality-unboxing-vids-of-2024/"><u>[Updated] The Elite List 15 High-Quality Unboxing Vids of 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-high-definition-slow-mo-cams/"><u>[Updated] Ultimate High Definition Slow-Mo Cams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-tv-streaming-guide-international-and-regional-channels/"><u>[Updated] Ultimate TV Streaming Guide International & Regional Channels</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-zooming-into-success-the-essential-blueprint-for-producing-high-quality-audio-on-video-platforms/"><u>[Updated] Zooming Into Success The Essential Blueprint for Producing High-Quality Audio on Video Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-smooth-scene-transitions-with-premieres-fades/"><u>2024 Approved Smooth Scene Transitions with Premiere's Fades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tailoring-recording-techniques-in-audacity-for-professionals/"><u>2024 Approved Tailoring Recording Techniques in Audacity for Professionals</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-itel-p55-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/google-pixel-watch-vs-apple-watch-series-8-showdown-expert-insights-on-whats-best-for-you/"><u>Google Pixel Watch Vs. Apple Watch Series 8 Showdown: Expert Insights on What's Best for You</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-of-jaunt-vr/"><u>In 2024, Unveiling the Secrets of Jaunt VR</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/master-the-art-of-technological-advancement-with-this-guide/"><u>Master the Art of Technological Advancement with This Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-employment-the-top-7-impacts-of-generative-ai/"><u>Transforming Employment: The Top 7 Impacts of Generative AI</u></a></li>
 </ul></div>
 

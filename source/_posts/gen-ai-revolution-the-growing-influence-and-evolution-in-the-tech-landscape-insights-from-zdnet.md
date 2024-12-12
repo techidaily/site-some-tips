@@ -1,7 +1,7 @@
 ---
 title: "Gen AI Revolution: The Growing Influence and Evolution in the Tech Landscape - Insights From ZDNet"
-date: 2024-09-17 22:23:24
-updated: 2024-09-20 12:12:59
+date: 2024-12-09T17:18:37.016Z
+updated: 2024-12-12T20:03:46.584Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-sculpting-light-an-in-depth-look-at-lightroom-hdr-photos/"><u>[New] Sculpting Light An In-Depth Look at Lightroom HDR Photos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ackling-the-mystery-of-missing-shorts-video-images-for-2024/"><u>[New] Tackling the Mystery of Missing Shorts Video Images for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-insiders-guide-to-authentic-instagram-imagery/"><u>[New] The Insider’s Guide to Authentic Instagram Imagery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-filmoras-route-to-convert-avi-to-eye-catching-gifs/"><u>[Updated] Filmora’s Route to Convert AVI to Eye-Catching GIFs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-day-to-day-streams-key-dos-and-donts-for-2024/"><u>[Updated] Navigating Day-to-Day Streams Key Do's & Don'ts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-vision-tech-top-5-for-slow-motion/"><u>[Updated] Ultimate Vision Tech Top 5 for Slow Motion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-hidden-treasure-of-royalty-free-graphics/"><u>[Updated] Unveiling the Hidden Treasure of Royalty-Free Graphics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-stretching-youtube-videos-to-full-display/"><u>2024 Approved Stretching YouTube Videos to Full Display</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhance-your-cryptocurrency-security-mastering-two-step-verification-using-yls-advanced-tech/"><u>Enhance Your Cryptocurrency Security: Mastering Two-Step Verification Using YL's Advanced Tech</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-surpass-everyday-photo-taking-with-ios-11/"><u>In 2024, Surpass Everyday Photo-Taking with iOS 11</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-poco-m6-pro-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Poco M6 Pro 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/strategic-pricing-analysis-cloud-services-financial-face/"><u>Strategic Pricing Analysis Cloud Services' Financial Face</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-youtubes-most-captivating-storytellers-in-23-for-2024/"><u>The Ultimate Guide to YouTube's Most Captivating Storytellers in '23 for 2024</u></a></li>
+</ul></div>
+

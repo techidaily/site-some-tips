@@ -1,7 +1,7 @@
 ---
 title: "AI Revolution in Employment: The End of Certain Careers & Birth of Innovative Professions | ZDNet"
-date: 2024-09-17 10:12:11
-updated: 2024-09-20 11:56:51
+date: 2024-12-07T18:27:14.832Z
+updated: 2024-12-12T20:14:17.524Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-finding-your-preferred-video-editor-filmora-vs-democreator-insights/"><u>[New] Finding Your Preferred Video Editor Filmora Vs. Democreator Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streaming-spectacle-how-twitch-stacks-up-against-youtube/"><u>[New] Streaming Spectacle How Twitch Stacks Up Against YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-dissecting-the-newest-elite-model-of-parrots-20/"><u>[Updated] Dissecting the Newest Elite Model of Parrot's 2.0</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-rewind-revolution-novel-strategies-for-youtube-viewers/"><u>[Updated] In 2024, The Rewind Revolution Novel Strategies for YouTube Viewers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-in-depth-insights-into-full-periscope-utilization/"><u>[Updated] In-Depth Insights Into Full Periscope Utilization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-brand-with-a-decades-worth-of-smm-wisdom-distilled-into-10-steps/"><u>[Updated] Transform Your Brand with a Decade's Worth of SMM Wisdom, Distilled Into 10 Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-online-seminar-creation-assistant/"><u>2024 Approved Ultimate Online Seminar Creation Assistant</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Passcode Screen?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-stop-ipadiphone-from-freezing-during-fb-playback/"><u>In 2024, Stop iPad/iPhone From Freezing During FB Playback</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-timeless-family-adventures-on-screen-this-season/"><u>In 2024, Top 10 Timeless Family Adventures on Screen This Season</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-a18-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo A18 FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-secure-entry-into-windows-admin-console/"><u>Steps for Secure Entry Into Windows' Admin Console</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-with-symphonies-music-on-whatsapp-status-for-2024/"><u>Syncing with Symphonies Music on WhatsApp Status for 2024</u></a></li>
+</ul></div>
+

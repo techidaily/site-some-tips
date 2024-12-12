@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses AI Integration & Rust Usage in Linux Evolution; Decoding The Only Thing That Matters
-date: 2024-09-18 12:36:19
-updated: 2024-09-20 11:13:15
+date: 2024-12-07T17:42:53.296Z
+updated: 2024-12-12T16:58:44.743Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-the-gopro-editors-blueprint-to-stunning-colored-images-for-2024/"><u>[New] The GoPro Editor's Blueprint to Stunning Colored Images for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-ios-cropping-enhancing-your-images/"><u>[New] The Ultimate Guide to iOS Cropping Enhancing Your Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-10-text-effects-to-elevate-your-clips/"><u>[New] The Ultimate List 10 Text Effects to Elevate Your Clips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artistic-eye-with-toolwiz-an-in-depth-look-at-the-photosapp-2023-edition/"><u>2024 Approved The Artistic Eye with Toolwiz An In-Depth Look at the PhotosApp, 2023 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10plus-online-photo-background-changers-to-remove-background-easily/"><u>2024 Approved Top 10+ Online Photo Background Changers to Remove Background Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-deep-utilizing-chatgpts-my-bot-for-board-games-and-artistry/"><u>Dive Deep: Utilizing ChatGPT's My Bot for Board Games and Artistry</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dsd-dff-and-dsf-flac/"><u>DSD フォーマット (.dff & .dsf) を最適な音質のために FLAC 形式に変換する方法</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-insiders-guide-to-captivating-youtube-headlines/"><u>In 2024, The Insider's Guide to Captivating YouTube Headlines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tunes-terms-and-copyrights-on-instagram/"><u>In 2024, Tunes, Terms, and Copyrights on Instagram</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-htc-u23-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from HTC U23 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-list-best-public-domain-images-online/"><u>Updated The Ultimate List Best Public Domain Images Online</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/online-wma-to-flac-movavi/"><u>우아하고 응답성 있는 Online WMA to FLAC 전환 서비스 – Movavi가 제공합니다</u></a></li>
+</ul></div>
+

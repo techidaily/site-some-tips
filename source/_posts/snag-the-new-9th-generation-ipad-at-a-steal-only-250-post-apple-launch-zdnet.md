@@ -1,7 +1,7 @@
 ---
 title: Snag the New 9Th Generation iPad at a Steal - Only $250 Post-Apple Launch | ZDNet
-date: 2024-12-03T16:39:32.166Z
-updated: 2024-12-06T18:42:43.695Z
+date: 2024-12-11T19:07:42.058Z
+updated: 2024-12-12T20:02:03.626Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ The [Apple iPad (9th Generation)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 If the 9th Gen is too outdated for your liking, the [iPad 10th Gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8a5530fd-5ec6-459a-ad07-d932b49b5eab%7Cdtp&dtb=1) is also discounted right now, down to only $349 after Apple [dropped the price by $100](https://www.zdnet.com/article/this-349-ipad-was-secretly-the-best-announcement-during-the-apple-event/) following the announcement of their new iPads. This model features a 10.9-inch Liquid Retina display with 64GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,17 +69,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-unveiling-the-hidden-pathways-to-earning-on-youtube/"><u>[New] In 2024, Unveiling the Hidden Pathways to Earning on YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-path-to-pristine-zoom-video-settings/"><u>[New] The Path to Pristine Zoom Video Settings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-10-photography-frames/"><u>[New] Top 10 Photography Frames</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-premium-gopro-case-selection/"><u>[Updated] Ultimate Guide to Premium GoPro Case Selection</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-learners-handbook-of-av1-technology/"><u>2024 Approved The Learner's Handbook of AV1 Technology</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-step-by-step-guide-pcmobile-save-meetings/"><u>In 2024, Step-by-Step Guide PC/Mobile Save Meetings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-videos-swiftly-with-these-top-8-iphone-apps/"><u>In 2024, Transform Your Videos Swiftly with These Top 8 iPhone Apps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/re-no-cost-media-content-from-prime-4-youtube-vids-for-2024/"><u>Procure No-Cost Media Content From Prime 4 YouTube Vids for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-you-cant-resist-the-latest-ipad-air-discover-apples-top-4-irresistible-features-detailed-review/"><u>Why You Can't Resist the Latest iPad Air? Discover Apple's Top 4 Irresistible Features! - Detailed Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-android-video-from-end-to-beginning/"><u>[New] Android Video From End to Beginning</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-enhancing-clarity-with-time-indicators-in-youtube-media/"><u>[New] In 2024, Enhancing Clarity with Time Indicators in YouTube Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-mobile-friendly-youtubing-with-no-high-subscriber-count/"><u>[New] Mobile-Friendly YouTubing with No High Subscriber Count</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-nostruggle-livecast-how-to-simplify-your-podcast-broadcast-for-2024/"><u>[New] NoStruggle Livecast How to Simplify Your Podcast Broadcast for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-tales-before-twilight-a-review-of-video-driven-narratives-for-2024/"><u>[New] Tales Before Twilight A Review of Video-Driven Narratives for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-a-flash-of-stardom-video-examination-for-2024/"><u>[Updated] A Flash of Stardom - Video Examination for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-tutorial-for-applying-video-filters-on-devices/"><u>[Updated] The Ultimate Tutorial for Applying Video Filters on Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-your-fcp-potential-with-these-10-plugs/"><u>[Updated] Unlock Your FCP Potential with These 10 Plugs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-microsoft-edge-malfunctions-a-comprehensive-guide-for-users/"><u>Fixing Microsoft Edge Malfunctions: A Comprehensive Guide for Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-techniques-for-downloading-converting-and-saving-vids-on-twitter-as-mp3s/"><u>In 2024, Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-impressive-hdr-portraits-explained/"><u>In 2024, The Art of Impressive HDR Portraits Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-vr-player-guide-unveiling-the-best-pc-streamers/"><u>In 2024, The Ultimate VR Player Guide Unveiling the Best PC Streamers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mov-videos-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>Issues playing MOV videos on Motorola</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-microphone-functionality-for-google-meet-on-pcs-running-windows-1110/"><u>Solved! How to Restore Microphone Functionality for Google Meet on PCs Running Windows 11/10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/sony-xperia-xz-premium-4k-smartphone-review/"><u>Sony Xperia XZ Premium 4K Smartphone Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-of-omnidirectional-recording-devices-for-2024/"><u>Ultimate Selection of Omnidirectional Recording Devices for 2024</u></a></li>
 </ul></div>
 

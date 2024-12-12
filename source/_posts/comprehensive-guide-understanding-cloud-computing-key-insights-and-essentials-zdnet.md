@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Understanding Cloud Computing - Key Insights & Essentials (ZDNet)"
-date: 2024-09-17 22:23:44
-updated: 2024-09-20 12:57:32
+date: 2024-12-10T17:56:29.123Z
+updated: 2024-12-12T20:01:18.331Z
 tags:
   - cloud
 categories:
@@ -103,6 +103,10 @@ Direct LinkEmbed Code
 
 Close Modal Dialog
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is cloud computing, in simple terms?
 
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
@@ -136,6 +140,10 @@ Cloud computing as a term has been around since the early 2000s, but the concept
 These 'time-sharing' services were largely overtaken by the rise of the PC, which made owning a computer much more affordable, and then in turn by the rise of corporate data centres where companies would store vast amounts of data.
 
 But the concept of renting access to computing power has resurfaced again and again – in the application service providers, utility computing, and grid computing of the late 1990s and early 2000s. This was followed by cloud computing, which really took hold with the emergence of software as a service and hyperscale cloud-computing providers such as Amazon Web Services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How important is the cloud?
 
@@ -171,6 +179,10 @@ Cloud computing can be broken down into a number of different constituent elemen
 
 Infrastructure as a Service (IaaS) refers to the fundamental building blocks of computing that can be rented: physical or virtual servers, storage and networking. This is attractive to companies that want to build applications from the very ground up and want to control nearly all the elements themselves, but it does require firms to have the technical skills to be able to orchestrate services at that level. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Platform as a Service?
 
 Platform as a Service (PaaS) is the next layer up – as well as the underlying storage, networking, and virtual servers, this layer also includes the tools and software that developers need to build applications on top, which could include middleware, database management, operating systems, and development tools.
@@ -189,6 +201,10 @@ While the big cloud vendors would be very happy to provide all the computing nee
 
 That means being able to connect and integrate cloud services from multiple vendors is going to be a new and increasing challenge for business. Problems here include skills shortages (a lack of workers with expertise across multiple clouds) and workflow differences between cloud environments. Customers will also want to manage all their different cloud infrastructure from one place, make it easy to build applications and services and then move them, and ensure that security tools can work across multiple clouds – none of which is especially easy right now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the benefits of cloud computing?
 
 The exact benefits will vary according to the type of cloud service being used but, fundamentally, using cloud services means companies not having to buy or maintain their own computing infrastructure.
@@ -201,6 +217,10 @@ For a company with an application that has big peaks in usage, such as one that 
 
 * [Business continuity is the ultimate killer application for cloud](https://www.zdnet.com/article/cloud-computing-is-seen-as-disaster-proof/)
 * [It's official: Supercomputing is now ho-hum (thanks, cloud)](https://www.zdnet.com/article/its-official-supercomputing-is-now-ho-hum-thanks-cloud/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the advantages and disadvantages of cloud computing?
 
@@ -221,6 +241,10 @@ Cloud computing tends to shift spending from capex to opex, as companies buy com
 Of course, this doesn't mean that cloud computing is always or necessarily cheaper that keeping applications in-house; for applications with a predictable and stable demand for computing power, it might be cheaper (from a processing power point of view at least) to keep them in-house.
 
 * [Cloud computing spending is growing even faster than expected](https://www.zdnet.com/article/cloud-computing-spending-is-growing-even-faster-than-expected/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do you build a business case for cloud computing?
 
@@ -249,6 +273,10 @@ However, concerns do remain about security, especially for companies moving thei
 * [Cloud computing security: This is where you'll be spending the money](https://www.zdnet.com/article/cloud-computing-security-this-is-where-youll-be-spending-money/)
 * [Security as a Service? We want it, say IT leaders](https://www.zdnet.com/article/security-as-a-service-big-among-it-leaders/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is public cloud?
 
 Public cloud is the classic cloud-computing model, where users can access a large pool of computing power over the internet (whether that is IaaS, PaaS, or SaaS). One of the significant benefits here is the ability to rapidly scale a service. The cloud-computing suppliers have vast amounts of computing power, which they share out between a large number of customers – the 'multi-tenant' architecture. Their huge scale means they have enough spare capacity that they can easily cope if any particular customer needs more resources, which is why it is often used for less-sensitive applications that demand a varying amount of resources.
@@ -266,6 +294,10 @@ Private cloud allows organizations to benefit from some of the advantages of pub
 * [Infographic: Companies are turning to hybrid cloud to save money](https://www.zdnet.com/article/infographic-companies-are-turning-to-hybrid-cloud-to-save-money/)
 * [What does 'hybrid cloud' mean? It depends on whom you ask](https://www.zdnet.com/article/what-does-hybrid-cloud-mean-it-depends-on-whom-you-ask/)
 * [Managing the multi-cloud: It's complicated](https://www.zdnet.com/article/beyond-cloud-theres-multi-cloud-beyond-multi-cloud-theres-managing-it-all/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the cloud-computing migration costs?
 
@@ -341,6 +373,10 @@ There are plenty of examples of organisations deciding to go down the cloud-comp
 * [AWS infrastructure is now behind three main streaming media providers](https://www.zdnet.com/article/aws-infrastructure-is-now-behind-three-main-streaming-media-providers/)
 * [American Airlines to move consumer-facing apps to IBM Cloud, says Cloud Foundry key](https://www.zdnet.com/article/american-airlines-to-move-consumer-facing-apps-to-ibm-cloud-says-cloud-foundry-key/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Previous coverage
 
 [**The Art of the Hybrid Cloud**](https://www.zdnet.com/topic/the-art-of-the-hybrid-cloud/)
@@ -350,6 +386,10 @@ Cloud computing is gobbling up more of the services that power businesses. But, 
 **[Public cloud, private cloud, or hybrid cloud: What's the difference?](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&ved=0ahUKEwj0%5FMuLg8zVAhVKZFAKHZRhDoEQFghkMAk&url=http%3A%2F%2Fwww.zdnet.com%2Farticle%2Fpublic-cloud-private-cloud-or-hybrid-cloud-whats-the-difference%2F&usg=AFQjCNHWZVWbt84GCmouA7K6P2Vxe2jxYA)**
 
 Trying to understand and articulate the differences between public, private, and hybrid cloud? Here's a quick breakdown.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Read more on cloud computing
 
@@ -366,11 +406,23 @@ Trying to understand and articulate the differences between public, private, and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unleash-creativity-a-compreayer-to-slow-motion-photography-and-videos-for-instagram-success/"><u>[New] In 2024, Unleash Creativity A Compreayer to Slow-Motion Photography and Videos for Instagram Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-notch-assistance-highest-rated-iphone-ringtone-makers/"><u>[New] Top-Notch Assistance Highest Rated iPhone Ringtone Makers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-enhancing-your-listening-experience-the-essentials-of-recording-with-audacity-on-mac/"><u>[Updated] 2024 Approved Enhancing Your Listening Experience The Essentials of Recording with Audacity on Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-ios-integration-listening-to-podcasts-made-easy/"><u>[Updated] 2024 Approved IOS Integration Listening to Podcasts Made Easy</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-compilation-worlds-leading-youtube-mp3-downloaders/"><u>[Updated] Compilation World's Leading YouTube Mp3 Downloaders</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>10 Best Fake GPS Location Spoofers for Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-quest-for-perfect-balance-top-gimbals-in-dronescapes/"><u>In 2024, The Quest for Perfect Balance Top Gimbals in Dronescapes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unique-iphone-photo-style-adding-dynamic-motion-effects/"><u>In 2024, Unique iPhone Photo Style Adding Dynamic Motion Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unprecedented-capacity-choices-elite-cloud-services/"><u>In 2024, Unprecedented Capacity Choices Elite Cloud Services</u></a></li>
+</ul></div>
+

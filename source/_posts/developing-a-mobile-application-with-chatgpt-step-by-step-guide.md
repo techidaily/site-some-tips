@@ -1,7 +1,7 @@
 ---
 title: "Developing a Mobile Application with ChatGPT: Step-by-Step Guide"
-date: 2024-09-17 22:43:42
-updated: 2024-09-20 10:26:37
+date: 2024-12-09T18:52:52.915Z
+updated: 2024-12-12T19:24:27.152Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-advanced-mobiles-for-crafting-perfect-dji-videos/"><u>[New] In 2024, Advanced Mobiles for Crafting Perfect DJi Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-stay-updated-the-latest-instagram-filter-updates/"><u>[New] In 2024, Stay Updated The Latest Instagram Filter Updates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-overview-dji-inspire-1-reviewed/"><u>[New] The Ultimate Overview DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-and-leveraging-snapchat-spotlight/"><u>[Updated] Understanding and Leveraging Snapchat Spotlight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-perfect-your-pcs-sound-with-these-5-windows-11-recording-tips/"><u>2024 Approved Perfect Your PC's Sound with These 5 Windows 11 Recording Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-unmatched-6-safe-online-collaboration-software-rankings/"><u>2024 Approved Unmatched 6 Safe Online Collaboration Software Rankings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/experience-cutting-edge-tv-without-breaking-the-bank-with-the-antolink-at-127-a-sophisticated-and-efficient-choice/"><u>Experience Cutting Edge TV Without Breaking the Bank with the Antolink AT-127 - A Sophisticated and Efficient Choice</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/free-and-easy-laptop-data-exchange-tools-for-users-of-windows-11-10-and-8/"><u>Free and Easy Laptop Data Exchange Tools for Users of Windows 11, 10 & 8</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-raw-footage-to-cinematic-success-in-your-youtube-channel/"><u>From Raw Footage to Cinematic Success in Your YouTube Channel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-innovate-your-mobile-photography-with-these-free-overlay-experts/"><u>In 2024, Innovate Your Mobile Photography with These Free Overlay Experts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-art-of-persuasion-on-facebook-a-beginners-and-expert-playbook/"><u>In 2024, The Art of Persuasion on Facebook A Beginner’s & Expert Playbook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/m-spotlight-15-hilarious-channels-for-relaxation-for-2024/"><u>Sitcom Spotlight 15 Hilarious Channels for Relaxation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-music-movement-between-services-for-2024/"><u>Streamline Your Music Movement Between Services for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-path-to-perfect-podcast-scripts-writing-techniques-and-free-example-guides-for-2024/"><u>The Path to Perfect Podcast Scripts Writing Techniques & Free Example Guides for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unrestricted-media-playback-free-on-windows-and-macos-for-2024/"><u>Unrestricted Media Playback FREE on Windows & MacOS for 2024</u></a></li>
+</ul></div>
+

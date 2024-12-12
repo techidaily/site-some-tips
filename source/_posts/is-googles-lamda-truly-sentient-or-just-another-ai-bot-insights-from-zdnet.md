@@ -1,7 +1,7 @@
 ---
 title: Is Google's LaMDA Truly Sentient or Just Another AI Bot? - Insights From ZDNet
-date: 2024-09-18 12:40:39
-updated: 2024-09-20 10:41:38
+date: 2024-12-05T18:05:21.070Z
+updated: 2024-12-12T18:20:27.641Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-palette-wisdom-essential-color-theory-explained/"><u>[New] 2024 Approved Palette Wisdom Essential Color Theory Explained</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-uncomplicatedscreensave-free-recording-software/"><u>[New] In 2024, UncomplicatedScreenSave Free Recording Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-vida-reimagined-editing-revolution-unveiled/"><u>[New] In 2024, Vida Reimagined Editing Revolution Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-underdeveloped-world-of-vr-experiences/"><u>[New] The Underdeveloped World of VR Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-timelapse-video-shooting-with-hero5/"><u>[New] Unveiling the Secrets of Timelapse Video Shooting with Hero5</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-and-android-enthusiasts-guide-to-custom-whatsapp-sounds/"><u>[Updated] IPhone & Android Enthusiast's Guide to Custom WhatsApp Sounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-lengthening-gopros-electric-life/"><u>[Updated] Strategies for Lengthening GoPro's Electric Life</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-structuring-an-efficient-collaborative-office-environment/"><u>[Updated] Strategies for Structuring an Efficient, Collaborative Office Environment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-evaluation-of-asuss-hdr-and-true-black-precision/"><u>[Updated] The Ultimate Evaluation of ASUS's HDR & True Black Precision</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-livestream-platform-push-facebook-vs-youtube-and-periscope/"><u>2024 Approved Livestream Platform Push Facebook Vs. YouTube & Periscope</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tempo-treasure-hunters-dive-into-free-online-scanners/"><u>2024 Approved Tempo Treasure Hunters Dive Into FREE Online Scanners</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/chromebook-shutter-mastery-in-four-steps-only/"><u>Chromebook Shutter Mastery in Four Steps Only</u></a></li>
+<li><a href="https://win-help.techidaily.com/fixing-error-code-0xc00000e-on-windows-11-step-by-step-guide-and-data-recovery-tips/"><u>Fixing Error Code 0xC00000E on Windows 11 - Step-by-Step Guide & Data Recovery Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-nubia-z50-ultra-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Nubia Z50 Ultra Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-cards-and-markup-tips/"><u>Mastering YouTube Cards & Markup Tips</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft’s Future Direction: A Comprehensive Approach Towards Cloud Services, Advertising & Device Integration"
-date: 2024-09-17 11:40:32
-updated: 2024-09-20 11:19:32
+date: 2024-12-11T20:01:03.648Z
+updated: 2024-12-12T16:53:25.714Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Credit: Microsoft
 In April this year, Windows officials talked about [plans to more tightly integrate Windows 365 and Windows](https://www.zdnet.com/article/microsoft-provides-a-glimpse-of-future-windows-11-and-cloud-pc-integrations/). So far, they've delivered on one of their promises: A preview of the Windows 365 app that Windows 11 users can pin to their taskbars and Start menus to more easily access their cloud PCs. But Microsoft officials have much bigger plans for Windows 365 and seemingly are counting on it keep Windows relevant, even if the [PC industry declines](https://www.zdnet.com/article/pc-sales-are-falling-what-does-that-mean-for-the-price-of-your-new-computer/) in the coming months and years.   
   
  As many users have noticed, Microsoft increasingly has been squeezing ads into everything from the new Windows 11 search box to the Edge browser (and its other apps). So perhaps it's not too surprising that Microsoft management is pitching Windows as a vehicle for delivering ads -- both first-party Microsoft "house" ads and third-party ads, as CEO Satya Nadella himself acknowledged during [Microsoft's Q1 FY'23 earnings call](https://view.officeapps.live.com/op/view.aspx?src=https://c.s-microsoft.com/en-us/CMSFiles/TranscriptFY23Q1.docx?version=133e9c66-ae13-63c3-aad8-1bcfd5c6f0d4). (Thanks to Paul Thurrott for pointing this out on [Windows Weekly](https://twit.tv/shows/windows-weekly/episodes/800) last week.) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Windows
 
@@ -70,11 +74,31 @@ Microsoft made its [Windows 365/Cloud PC service (codenamed Deschutes) generally
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/mbracing-constructive-feedback-ignoring-the-rest/"><u>[New] Embracing Constructive Feedback, Ignoring the Rest</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-laptoppc-editors-steer-clear-of-inshot/"><u>[Updated] In 2024, Laptop/PC Editors Steer Clear of Inshot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cambiar-formatos-de-video-f4v-a-avi-online-sin-costo-con-convertidor-de-movavi/"><u>Cambiar Formatos De Video F4V a AVI Online Sin Costo Con Convertidor De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-convertir-archivo-aac-en-mp3-sin-coste-gracias-a-la-herramienta-online-de-alta-calidad/"><u>Cómo Convertir Archivo AAC en MP3 Sin Coste Gracias a La Herramienta Online De Alta Calidad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-gratuita-da-f4v-a-wmv-online-movavi/"><u>Conversione Gratuita Da F4V a WMV Online - Movavi</u></a></li>
+<li><a href="https://fox-links.techidaily.com/data-handling-done-right-fastest-5-ways-to-move-files-onto-your-computer-for-2024/"><u>Data Handling Done Right Fastest 5 Ways To Move Files Onto Your Computer for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-play-7t-frp-by-drfone-android/"><u>Full Guide to Bypass Honor Play 7T FRP</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-easily-snag-your-favorite-niconico-videos-for-free-3-proven-ways/"><u>How to Easily Snag Your Favorite Niconico Videos for Free – 3 Proven Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-leading-edge-of-virtual-reality-technology-2023-edition/"><u>In 2024, The Leading Edge of Virtual Reality Technology - 2023 Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-masked-image-softening-tricks/"><u>Mastering Masked Image Softening Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-converter-online-free-convert-mov-files-to-ogg-format/"><u>Movavi - Converter Online FREE: Convert MOV Files to Ogg Format</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-lag-expert-advice-to-speed-up-ubisoft-connect-file-downloads/"><u>Overcoming Lag: Expert Advice to Speed Up Ubisoft Connect File Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-guide-to-downloading-just-the-speech-tune-out-visuals-keep-the-audio-only/"><u>Quick Guide to Downloading Just the Speech: Tune Out Visuals, Keep the Audio Only!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-applicazioni-piu-efficienti-per-la-registrazione-dello-schermo-del-computer/"><u>Top 5 Applicazioni Più Efficienti per La Registrazione Dello Schermo Del Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcodage-gratuit-en-ligne-de-fichiers-wmv-en-format-aac-avec-movavi-guide-complet/"><u>Transcodage Gratuit en Ligne De Fichiers WMV en Format AAC Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-tus-videos-mov-directamente-a-aac-sin-costo-con-el-servicio-online-de-movavi/"><u>Transforma Tus Videos MOV Directamente a AAC Sin Costo Con El Servicio Online De MOVavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-impact-of-the-european-unions-ai-regulation-on-platforms-like-chatgpt/"><u>Understanding the Impact of the European Union's AI Regulation on Platforms Like ChatGPT</u></a></li>
+</ul></div>
+

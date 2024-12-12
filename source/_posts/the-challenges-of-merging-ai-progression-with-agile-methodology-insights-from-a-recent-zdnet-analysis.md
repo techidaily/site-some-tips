@@ -1,7 +1,7 @@
 ---
 title: "The Challenges of Merging AI Progression with Agile Methodology: Insights From a Recent ZDNet Analysis"
-date: 2024-09-17 20:23:17
-updated: 2024-09-20 11:39:10
+date: 2024-12-08T17:36:50.616Z
+updated: 2024-12-12T19:16:26.460Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -57,6 +61,10 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +80,10 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -110,6 +126,10 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-achieve-mastery-in-tracking-fbs-recently-seen-videos/"><u>[New] In 2024, Achieve Mastery in Tracking Fb’s Recently Seen Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-vr-selection-top-8-must-have-titles/"><u>[New] Ultimate VR Selection Top 8 Must-Have Titles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-skys-best-expertly-curated-list-of-drones-and-their-editing-pals/"><u>[Updated] Sky's Best Expertly Curated List of Drones & Their Editing Pals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-switching-picture-in-picture-on-macios-effortlessly/"><u>[Updated] Switching Picture-in-Picture on Mac/iOS Effortlessly</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-dive-into-digital-assets-filmmoras-route-to-profit-on-tiktok/"><u>In 2024, Dive Into Digital Assets Filmmora's Route to Profit on TikTok</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-a1-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo A1 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expert-choice-5-time-lapse-capturers/"><u>In 2024, Expert Choice 5 Time-Lapse Capturers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-take-screenshots-on-a-chromebook-in-just-four-ways/"><u>In 2024, Take Screenshots on a Chromebook in Just Four Ways</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-taking-flight-iphone-hdr-techniques-for-professional-results/"><u>In 2024, Taking Flight IPhone HDR Techniques for Professional Results</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-techniques-to-mitigate-vr-disorientation/"><u>In 2024, Techniques to Mitigate VR Disorientation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-communication-top-free-mac-text-to-speech-software-rankings/"><u>In 2024, Transform Communication Top Free Mac Text-to-Speech Software Rankings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-to-effective-virtual-meetings-with-zoom-win10/"><u>In 2024, Unveiling the Secrets to Effective Virtual Meetings with Zoom (Win10)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/inspirational-images-a-top-20-guide-for-insta-gratification/"><u>Inspirational Images A Top 20 Guide for Insta Gratification</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-desktop-view-with-spotlight-based-wallpapers/"><u>Transform Your Desktop View with Spotlight-Based Wallpapers</u></a></li>
+</ul></div>
+

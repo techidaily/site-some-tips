@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Slack Alerts: A Step-by-Step Guide for Your Apple Watch - Insights From ZDNet"
-date: 2024-12-02T17:31:38.653Z
-updated: 2024-12-06T17:03:10.382Z
+date: 2024-12-10T19:32:34.973Z
+updated: 2024-12-12T18:19:34.840Z
 tags:
   - apple
 categories:
@@ -45,12 +45,16 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -59,7 +63,7 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
@@ -75,6 +79,10 @@ Once you're in the Slack settings pane, make sure Background App Refresh and Cel
 Now, back out to the top of the Settings app and tap the red Notifications icon. Make sure you Allow Notifications and turn on Time Sensitive Notifications. I also recommend you make sure Sounds is set to on. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
@@ -118,17 +126,9 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,16 +179,14 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cutting-edge-techniques-mastering-youtube-subtitlecc-additions/"><u>[New] In 2024, Cutting-Edge Techniques Mastering YouTube Subtitle/CC Additions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-drone-enthusiasts-compendium-of-must-haves/"><u>[New] The Drone Enthusiast's Compendium of Must-Haves</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-watching-nba-in-real-time/"><u>[New] The Ultimate List Watching NBA in Real-Time</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-micro-movie-maker/"><u>[Updated] Micro Movie Maker</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-split-between-panoramic-and-virtual-realities/"><u>[Updated] The Split Between Panoramic & Virtual Realities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-creating-impactful-ae-titles/"><u>2024 Approved The Art of Creating Impactful AE Titles</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-frame-by-frame-top-picks-for-home-studios/"><u>In 2024, Frame by Frame Top Picks for Home Studios</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-virtual-reality-development-tools-gamers/"><u>In 2024, Top Virtual Reality Development Tools Gamers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/personalize-your-pixelated-world-the-ultimate-guide-to-discovering-creator-types-via-6-tests-for-2024/"><u>Personalize Your Pixelated World The Ultimate Guide to Discovering Creator Types via 6 Tests for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-windows-10-touchscreen-a-guide-to-5-key-strategies/"><u>Reviving Your Windows 10 Touchscreen: A Guide to 5 Key Strategies</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-downloading-your-hp-officejet-4500-printer-driver/"><u>Step-by-Step Guide to Downloading Your HP OfficeJet 4500 Printer Driver</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecti-the-ultimate-guide-to-iphone-slideshows-xr-i/"><u>[New] Perfecti The Ultimate Guide to iPhone Slideshows (XR-I)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tiktok-bio-enhancement-with-direct-url-integration/"><u>[Updated] TikTok Bio Enhancement with Direct URL Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-best-overlooked-free-speech-tools-for-mac/"><u>[Updated] Unveiling Best Overlooked Free Speech Tools for Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unrestricted-mental-harmony/"><u>2024 Approved Unrestricted Mental Harmony</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fresh-drivers-ready-to-go-downloading-and-updating-for-your-lenovo-thinkpad-t420s-running-windows-11/"><u>Fresh Drivers Ready to Go - Downloading & Updating for Your Lenovo ThinkPad T420s Running Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-your-story-game-with-animation-techniques-for-text/"><u>In 2024, Transforming Your Story Game with Animation Techniques for Text</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/methods-to-deal-with-restricted-codecs/"><u>Methods to Deal with Restricted Codecs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1567730-9781408832172-spiritual-intelligence/"><u>Spiritual Intelligence | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Gap: Why Open Source Generative AI Lags Behind Microsoft's GPT-4 | Tech Insights on ZDNet"
-date: 2024-09-19 11:17:59
-updated: 2024-09-20 10:10:17
+date: 2024-12-06T18:49:20.866Z
+updated: 2024-12-12T18:32:16.868Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -46,6 +50,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +104,10 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +138,10 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-15-essential-gopro-accessories-for-newbies/"><u>[New] Top 15 Essential GoPro Accessories for Newbies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-giggle-galaxy-most-shared-content-on-both-platforms/"><u>[Updated] In 2024, Giggle Galaxy Most Shared Content on Both Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-art-of-closer-views-on-microsoft-teams/"><u>[Updated] Unveiling the Art of Closer Views on Microsoft Teams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-christian-melodies-download-and-personalize-guide/"><u>2024 Approved Top 10 Christian Melodies Download & Personalize Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Infinix Note 30 VIP Racing Edition.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-best-ai-conversational-agents-beyond-chatgpt/"><u>Explore the Best AI Conversational Agents Beyond ChatGPT!</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/guide-successfully-streaming-youtube-content-on-your-huawei-device/"><u>Guide: Successfully Streaming YouTube Content on Your Huawei Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-black-illusion-vs-silver-miracle/"><u>In 2024, The Black Illusion Vs Silver Miracle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-science-behind-auto-hdr-and-cameras-ai-powered-shooting-modes/"><u>In 2024, The Science Behind Auto HDR and Camera's AI-Powered Shooting Modes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-close-up-views-in-minecraft-for-2024/"><u>Mastering Close-Up Views in Minecraft for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-free-video-flipper-tools-rotate-your-videos-with-ease/"><u>New 2024 Approved Best Free Video Flipper Tools Rotate Your Videos with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-pc-issues-with-these-fixes-for-far-cry-6-crashes/"><u>Say Goodbye to PC Issues with These Fixes for Far Cry 6 Crashes!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-troubleshooting-of-nspr-(a-hrefhttpswwwgooglecomsearchqnspr4pluserror)error-missing-or-not-found-dll(a)/"><u>Step-by-Step Troubleshooting of Nspr <a href=https://www.google.com/search?q=Nspr4+error>Error: Missing or Not Found DLL</A></u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-anglers-companion-best-action-cams-for-fishing-for-2024/"><u>The Angler’s Companion Best Action Cams for Fishing for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-improved-features-of-the-newly-released-cost-effective-102-apple-ipad-a-comprehensive-review/"><u>Unveiling the Improved Features of the Newly Released, Cost-Effective 10.2 Apple iPad - A Comprehensive Review!</u></a></li>
+</ul></div>
+

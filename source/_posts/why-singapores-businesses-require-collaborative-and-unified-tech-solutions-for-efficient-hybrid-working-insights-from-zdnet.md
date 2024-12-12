@@ -1,7 +1,7 @@
 ---
 title: Why Singapore's Businesses Require Collaborative and Unified Tech Solutions for Efficient Hybrid Working - Insights From ZDNet
-date: 2024-09-19 20:40:23
-updated: 2024-09-20 10:34:52
+date: 2024-12-06T17:21:30.637Z
+updated: 2024-12-12T17:13:20.641Z
 tags:
   - cloud
 categories:
@@ -37,6 +37,10 @@ Kor further noted that small and midsize businesses (SMBs) struggled with deploy
 
 **"**It is critical for organisations, regardless of size, to overcome such challenges quickly so employees have the tools they need," she said, adding that managing a decentralised workforce also required consistency in practices, guidelines, and policies across the organisation. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Adopt tools that drive open, integrated collaboration
 
 In particular, technologies that facilitated open communication and collaboration were key to hybrid work, according to Kor. In addition to collaboration tools, visual collaboration platforms or whiteboarding tools also were essential to facilitate brainstorming amongst teams that were increasingly hybrid, she said.
@@ -50,6 +54,10 @@ Bognar noted that while many IT departments had stepped up to support hybrid wor
 Kor said: "An optimised hybrid workplace ensures flexibility and productivity, and businesses may need to relook their operating models and work arrangements to make this possible. Beyond tools and technology, this also includes having sufficient policies and programmes."
 
 "With many employees choosing their next job based on the ability to work from anywhere, companies that have strong infrastructure to facilitate flexible work will be able to better attract talent. Our research shows that more than half of business leaders are seeking to boost their cloud infrastructure, including cloud-based security platforms and services, to better manage a decentralised workforce," she said. "Companies have an opportunity to better align their business processes and priorities across a distributed workforce, and to evolve collaborative processes and workflows in place to keep pace with their employees' needs."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### RELATED COVERAGE
 
@@ -67,11 +75,29 @@ Kor said: "An optimised hybrid workplace ensures flexibility and productivity, a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-taringaid-profile-image-details-pixel-count-codec-time-span-for-2024/"><u>[New] TaringaID Profile Image Details Pixel Count, Codec, Time Span for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ultimate-black-battery-setups-for-gopro-hero5-genuine-and-imitators-for-2024/"><u>[New] Ultimate Black Battery Setups for GoPro Hero5 – Genuine & Imitators for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-intermittent-brightness-on-dell-system/"><u>[Solved] Intermittent Brightness on Dell System</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-data-collection-and-analysis/"><u>[Updated] In 2024, Data Collection and Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726224087703-movavi/"><u>自由網上電影中的音訊隔離 - Movavi 聲音提取器</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-finest-windows-screen-grabbers-a-comprehensive-guide-to-17-tools-by-movavi/"><u>Exploring the Finest Windows Screen Grabbers: A Comprehensive Guide to 17 Tools by Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-gebaseerd-konvertor-voor-caf-naar-m4a-formaten-online-tool-van-movavi/"><u>Gratuit Gebaseerd Konvertor Voor CAF Naar M4A-Formaten - Online Tool Van Movavi</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-boost-your-social-media-presence-through-instagram-video-edits/"><u>In 2024, Boost Your Social Media Presence Through Instagram Video Edits</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-v30-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/konvertereen-webm-in-een-gif-volopvullend-veiligheid-gratis-en-gemakkelijk-met-movavi-online-tool/"><u>Konvertereen WebM in Een GIF Volopvullend: Veiligheid, Gratis en Gemakkelijk Met Movavi Online-Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726223420134-movavi/"><u>Movavi: 다면적 소프트웨어 개발에 전문화되고 있는 경험이 풍부한 팀</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726228162859-movavi-mxfmkv/"><u>Movaviの無料サービス: ウェブ上でMXFからMKVへ簡単なファイル変換</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-breakpoints-in-windows-debugging-systems/"><u>Steps to Overcome Breakpoints in Windows Debugging Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-android-3d-viewer-experience-for-2024/"><u>Top Android 3D Viewer Experience for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726226270437-wma-flac-movavi/"><u>WMA 至 FLAC 無限制在網路上轉換器 - 利用 Movavi 的服務</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Apple's Illuminating 'Glowtime': Unveiling the iPhone 16, Revolutionary AI Features, The Decade-Old Apple Watch Redesign, and Next-Gen AirPods | ZDNET Insights"
-date: 2024-12-01T16:07:43.212Z
-updated: 2024-12-06T17:16:58.489Z
+date: 2024-12-06T16:41:29.578Z
+updated: 2024-12-12T17:42:31.060Z
 tags:
   - apple
 categories:
@@ -34,10 +34,6 @@ For now, here are the new AI-powered skills you can expect next month with [iOS 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Writing tools
 
 Jason Hiner/ZDNET
@@ -45,7 +41,7 @@ Jason Hiner/ZDNET
 Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Notes, Pages, and any supported third-party app. Like other AI-powered editing tools, Apple Intelligence will be able to rewrite, proofread, and summarize your text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Photo features
@@ -68,9 +64,17 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Mail assistance
 
@@ -94,11 +98,11 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
-## What will come later
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## What will come later
 
 ### Image playground
 
@@ -109,16 +113,12 @@ Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-ap
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Genmoji
 
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Siri tricks
 
@@ -158,21 +158,14 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/aptivate-and-enchant-explore-the-best-creative-reactions-on-yt-for-2024/"><u>[New] Captivate and Enchant Explore the Best Creative Reactions on YT for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-frame-rate-dilemma-30-vs-60-fps-in-video-production/"><u>[New] Frame Rate Dilemma 30 Vs. 60 FPS in Video Production</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-essential-guide-to-motion-blur-from-theory-to-practice-in-ps/"><u>[New] The Essential Guide to Motion Blur From Theory to Practice in PS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mobile-mastery-an-exhaustive-look-at-androids-lightroom/"><u>[Updated] 2024 Approved Mobile Mastery An Exhaustive Look at Android’s Lightroom</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-strategies-for-writing-persuasive-vlog-show-narratives/"><u>[Updated] Strategies for Writing Persuasive Vlog Show Narratives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-slomo-app-assessment-insights/"><u>[Updated] Ultimate SloMo App Assessment - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-voice-memo-primer-tips-and-tricks/"><u>2024 Approved The Complete Voice Memo Primer Tips & Tricks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-speech-refinement-kit-free-tools-for-flawless-audio-effects/"><u>2024 Approved The Ultimate Speech Refinement Kit Free Tools for Flawless Audio Effects</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-undead-lore-weaver/"><u>2024 Approved Undead Lore Weaver</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-samsung-galaxy-a54-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Samsung Galaxy A54 5G?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-infusing-beats-into-ig-story-posts-without-limits/"><u>In 2024, Infusing Beats Into IG Story Posts Without Limits</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-performance-lags-in-resident-evil-village-on-pc-a-comprehensive-fix/"><u>Resolving Performance Lags in Resident Evil Village on PC: A Comprehensive Fix</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-art-of-connection-thriving-amidst-algorithm-updates-for-2024/"><u>The Art of Connection Thriving Amidst Algorithm Updates for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-essential-manual-to-acquiring-final-cut-pro-gratis-for-2024/"><u>The Essential Manual to Acquiring Final Cut Pro Gratis for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-path-to-precision-audio-a-no-mic-approach/"><u>The Path to Precision Audio A No-Mic Approach</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-pros-picks-the-best-11-soundstreamers-reviewed/"><u>[Updated] 2024 Approved Pro's Picks The Best 11 Soundstreamers Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-images-on-android-our-picks-for-the-5-best-editors/"><u>[Updated] Transform Your Images on Android Our Picks for the 5 Best Editors</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-free-webinar-organizing-with-youtube-help/"><u>2024 Approved Streamline Free Webinar Organizing with YouTube Help</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-path-to-perfect-presentation-cutting-out-image-backdrops-on-canva/"><u>In 2024, The Path to Perfect Presentation Cutting Out Image Backdrops on Canva</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-unpacking-the-top-6-employment-catalysts/"><u>Leveraging ChatGPT: Unpacking the Top 6 Employment Catalysts</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/revolutionizing-workplace-collaboration-microsoft-empowers-staff-with-enhanced-teams-features/"><u>Revolutionizing Workplace Collaboration: Microsoft Empowers Staff with Enhanced Teams Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-4k-potential-an-in-depth-look-at-dell-p2715q-for-2024/"><u>Unlocking 4K Potential An In-Depth Look at Dell P2715Q for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-virtual-horizons-a-deep-dive-into-6-metaverse-cases-for-2024/"><u>Unveiling Virtual Horizons A Deep Dive Into 6 Metaverse Cases for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-v30t-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme V30T Phones</u></a></li>
 </ul></div>
 

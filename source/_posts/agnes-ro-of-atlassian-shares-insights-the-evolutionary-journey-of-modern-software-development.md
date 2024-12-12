@@ -1,7 +1,7 @@
 ---
 title: "Agnes Ro of Atlassian Shares Insights: The Evolutionary Journey of Modern Software Development"
-date: 2024-09-18 21:57:20
-updated: 2024-09-20 12:59:25
+date: 2024-12-05T16:22:29.981Z
+updated: 2024-12-12T16:56:39.666Z
 tags:
   - cloud
 categories:
@@ -17,11 +17,19 @@ Image: Atlassian
 
 The last decade has seen the role of software developers evolve at a rapid pace as more and more organisations aimed to deliver new iterations of applications faster and more frequently than ever before.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Software development: Emerging trends and changing roles ZDNet takes an in-depth look at key trends in software development and how developers are changing the tech industry.  Read now](https://www.zdnet.com/topic/software-development-emerging-trends-and-changing-roles/)
 
 Atlassian's head of engineering Agnes Ro has experienced this first-hand. Ro has spent the last 15 years working at the software company -- initially as a graduate developer, before rising up the ranks to oversee a team of 100 engineers for a department called Foundational Collaboration that sits within Atlassian's cloud platform. Some of her key responsibilities include delivering common experiences and backend services for Atlassian products, such as rich text editors in JIRA and Confluence, as well as file and storage experiences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The need for speed
 
@@ -39,12 +47,20 @@ Frameworks to support the language that developers write, especially in the fron
 
 "Browser standards are very standardised today, so engineers today deal with more different challenges."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Developer
 
 * [It's the end of programming as we know it -- again](https://www.zdnet.com/article/its-the-end-of-programming-as-we-know-it-again/)
 * [Developers feel secure in their jobs, but they're still thinking about quitting](https://www.zdnet.com/article/developers-feel-secure-in-their-jobs-but-theyre-still-thinking-about-quitting/)
 * [The future of the web will need a different sort of software developer](https://www.zdnet.com/article/the-future-of-the-web-will-need-a-different-sort-of-software-developer/)
 * [The best Linux laptops for consumers and developers](https://www.zdnet.com/article/best-linux-laptop/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Teamwork makes the dream work
 
@@ -66,6 +82,10 @@ Ro believes software developers are no longer outliers within an organisation, b
 
 "They really do have to follow all the way through to shipping and the operational side of things, and making sure that it is reliable, stable, and not just about writing and shipping the code, and so I definitely feel that that's been a huge change and shift."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Related Coverage
 
 * [Why DevOps matter](https://www.zdnet.com/article/why-devops-matters/)
@@ -80,11 +100,25 @@ Ro believes software developers are no longer outliers within an organisation, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-scripting-striking-film-epilogues/"><u>[New] Scripting Striking Film Epilogues</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-revealing-youtubes-showcase-of-notable-user-comments/"><u>2024 Approved Revealing YouTube's Showcase of Notable User Comments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbey-jahresumsatz-steigt-um-19-in-deutschland-fur-das-jahr-2018-seo-freundliche-ubersicht/"><u>ABBEY Jahresumsatz Steigt Um 19 % in Deutschland Für Das Jahr 2018 - SEO-Freundliche Übersicht</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-announces-scott-opitz-as-new-cmo-exciting-times-ahead/"><u>ABBYY Announces Scott Opitz as New CMO: Exciting Times Ahead</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-finereader-et-ideticiel-accelere-le-tri-du-courrier-dans-les-communes-avec-larchivage-numerique/"><u>ABBYY FineReader Et IDéticiel Accélère Le Tri Du Courrier Dans Les Communes Avec L'Archivage Numérique</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-finereader-fur-blinde-und-sehschwache-schulerinnen-uberwindet-lernbarrieren-mit-spracherkennungstechnologie/"><u>ABBYY FineReader Für Blinde Und Sehschwache SchülerInnen - Überwindet Lernbarrieren Mit Spracherkennungstechnologie</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/from-still-to-story-the-art-of-adding-text-to-photos-os-style-for-2024/"><u>From Still to Story The Art of Adding Text to Photos, OS Style for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/step-by-step-tutorial-installing-windows-11-on-an-nvme-ssd/"><u>Step-by-Step Tutorial: Installing Windows 11 on an NVMe SSD</u></a></li>
+<li><a href="https://driver-download.techidaily.com/take-your-pc-gaming-to-the-next-level-updating-nvidia-gtx-1660-ti-graphics-card-drivers/"><u>Take Your PC Gaming to The Next Level - Updating NVIDIA GTX 1660 Ti Graphics Card Drivers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tutti-i-numeri-italiani-divisi-in-1000-esperienze/"><u>Tutti I Numeri Italiani Divisi in 1000 Esperienze</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1728463259595-windows-server/"><u>Windows Serverのための効果的なシステムイメージバックアップ手順</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Every Worker's Future: Building & Utilizing AI as a Universal Skill - Insights From ZDNet"
-date: 2024-09-17 11:14:45
-updated: 2024-09-20 12:52:30
+date: 2024-12-08T18:26:28.633Z
+updated: 2024-12-12T20:08:59.093Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-visual-branding-on-youtubes-iconography-and-images/"><u>[New] 2024 Approved Visual Branding on YouTubes Iconography and Images</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-core-elements-in-asmr-visual-media/"><u>[New] The Core Elements in ASMR Visual Media</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-urban-uprising-video-game-list-like-gta-v/"><u>[Updated] 2024 Approved Urban Uprising Video Game List Like GTA V</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-share-screen-on-google-meet-for-2024/"><u>[Updated] How to Share Screen on Google Meet for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlocking-the-full-capabilities-of-zoom-on-windows-10-pcs-for-2024/"><u>[Updated] Unlocking The Full Capabilities of Zoom on Windows 10 PCs for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-tech-triumph-best-of-the-best-oculus-devices/"><u>2024 Approved Immersive Tech Triumph Best of the Best Oculus Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-stream-instagram-and-youtube-a-step-by-step-guide/"><u>2024 Approved Stream Instagram & YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlined-approaches-for-zoom-utility-on-chromebook/"><u>2024 Approved Streamlined Approaches for Zoom Utility on Chromebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-strategies-to-end-windows-10s-unstable-photo-viewing/"><u>2024 Approved Swift Strategies to End Windows 10'S Unstable Photo Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-hyperlapse-storytelling/"><u>2024 Approved The Ultimate Guide to Hyperlapse Storytelling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-typography-in-after-effects/"><u>2024 Approved Transformative Typography in After Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-film-a-beginners-guide-to-essential-shots/"><u>2024 Approved Understanding Film A Beginner's Guide to Essential Shots</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exceptional-lg-24lh4830-screen-experience-without-breaking-your-wallet/"><u>Exceptional LG 24LH4830 Screen Experience Without Breaking Your Wallet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-mobile-solutions-to-sharpen-dji-drone-shoots/"><u>In 2024, Ultimate Mobile Solutions to Sharpen DJi Drone Shoots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/troubleshoot-flaky-airdrop-links-simple-steps-to-solutions-for-2024/"><u>Troubleshoot Flaky AirDrop Links Simple Steps to Solutions for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/wildlife-wonders-at-fingertips-top-mobile-simulators-for-2024/"><u>Wildlife Wonders at Fingertips Top Mobile Simulators for 2024</u></a></li>
+</ul></div>
+

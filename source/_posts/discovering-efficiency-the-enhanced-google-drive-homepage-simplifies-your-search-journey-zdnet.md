@@ -1,7 +1,7 @@
 ---
 title: "Discovering Efficiency: The Enhanced Google Drive Homepage Simplifies Your Search Journey | ZDNet"
-date: 2024-09-17 13:41:43
-updated: 2024-09-20 12:33:31
+date: 2024-12-09T19:17:44.305Z
+updated: 2024-12-12T16:19:38.394Z
 tags:
   - cloud
 categories:
@@ -43,9 +43,17 @@ Maybe in time.
 
 Until then, let me show you around the new Home option in Google Drive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Google Drive Home
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser with which to view Drive. Let's go home, shall we?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open Google Drive
 
@@ -55,6 +63,10 @@ The new Google Drive home page makes it easier to find what you need.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Choose what you want to see
 
 Say, for instance, you only want to view your folders. For that, click Folders and what you should see are the folders you access the most. This is a great option because my Drive account is packed with folders I haven't used in a long time but need to keep around (either for reference or "just in case"). For instance, by default, I see 76 folders in the root folder of my Drive account. If I go to Home and click Folders, I see only 10\. I can also click Show More Folders and Home will then allow me to modify what I see (such as by modification, people, or location).
@@ -63,6 +75,10 @@ After clicking Folders, I have quick access to my most-used folders.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. The To do option
 
 One interesting option in Home is To do. This option is only revealed if you click Folders > Show More Folders. Click the To do drop-down and you can then select from Pending my approval, Requested by me, Suggestions, Comments assigned to me, and Review and accept. Interestingly enough, although the To do drop-down only appears in folders, when you select an option, it applies to both folders _and_ files. This is a great way to see all files that include changes awaiting your attention.
@@ -70,6 +86,10 @@ One interesting option in Home is To do. This option is only revealed if you cli
 The To-do drop-down gives you quick access to files and folders that need your attention.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Opt out of Home
 
@@ -104,11 +124,29 @@ When I first saw the new Home default, I was certain I'd be opting out of it and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-relish-in-9-festive-full-length-films-exclusive-youtube-offering/"><u>[New] In 2024, Relish in 9 Festive, Full-Length Films Exclusive YouTube Offering</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-pip-a-complete-overview-on-edge-browser/"><u>[Updated] 2024 Approved Mastering PIP A Complete Overview on Edge Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertir-imagenes-de-formato-raf-a-jpeg-sin-coste-con-movavi/"><u>Convertir Imágenes De Formato RAF a JPEG Sin Coste Con Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-gionee-f3-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Gionee F3 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-initiate-integrate-and-interact-the-basics-of-zoom-for-android/"><u>In 2024, Initiate, Integrate, and Interact The Basics of Zoom for Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-iphone-camera-techniques-for-quality-shots/"><u>In 2024, IPhone Camera Techniques for Quality Shots</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macdvd-imoviemp4-macx-dvd-converter/"><u>Mac用無料DVD保護解除ツール: IMovie互換MP4への高速変換 - MacX DVD Converter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-ferramenta-segura-e-facil-de-uso-para-converte-las-do-formato-bmp-para-png-sem-custo/"><u>Movavi: Ferramenta Segura E Fácil De Uso Para Convertê-Las Do Formato BMP Para PNG Sem Custo</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-garmin-venu-a-complete-health-monitor-for-daily-fitness-goals/"><u>The Ultimate Guide to the Garmin Venu: A Complete Health Monitor for Daily Fitness Goals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-12-player-apps-com-suporte-a-formato-avi-descubra-o-que-e-xvid/"><u>Top 12 Player Apps Com Suporte a Formato AVI - Descubra O Que É XVID</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcode-avi-a-laide-de-wmv-gratuite-sur-internet-movavi/"><u>Transcode AVI À L'aide De WMV Gratuite Sur Internet - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforme-seus-videos-em-gifs-gratuitamente-on-line-usando-a-ferramenta-de-conversao-do-movavi/"><u>Transforme Seus Vídeos Em GIFs Gratuitamente On-Line Usando a Ferramenta De Conversão Do Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasforma-facilmente-i-tuoi-file-amr-in-mp3-con-questi-passaggi-semplici/"><u>Trasforma Facilmente I Tuoi File AMR in MP3 Con Questi Passaggi Semplici!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-premium-features-with-a-complimentary-videoeditorplus-access-claim-yours-now/"><u>Unlock Premium Features with a Complimentary VideoEditorPlus Access - Claim Yours Now!</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-meta-is-building-the-fastest-ai-supercomputer-in-the-world/"><u>Why Meta Is Building the Fastest AI Supercomputer in the World</u></a></li>
+</ul></div>
+

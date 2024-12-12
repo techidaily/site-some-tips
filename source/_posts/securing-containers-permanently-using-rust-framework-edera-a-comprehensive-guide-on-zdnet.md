@@ -1,7 +1,7 @@
 ---
 title: Securing Containers Permanently Using Rust Framework, Edera - A Comprehensive Guide on ZDNet
-date: 2024-09-17 16:16:35
-updated: 2024-09-20 12:54:29
+date: 2024-12-07T20:36:21.194Z
+updated: 2024-12-12T16:11:59.164Z
 tags:
   - cloud
 categories:
@@ -26,6 +26,10 @@ If you're a techie, you may think that's true, but aren't hypervisors of both ty
 The foundation of the new program is [Krata](https://github.com/edera-dev/krata). This is a Xen-based, single-host hypervisor built for [Open Container Initiative (OCI)](https://opencontainers.org/)\-compliant containers. It isolates containers with a fully memory-safe Rust control plane to bring Xen tooling into a new, secure era. In addition, Edera uses Lukko, an open-source memory safety runtime library. This library detects memory safety violations at runtime and cleanly terminates programs before they can be exploited.
 
 Edera is secure by design. It's the only independent solution that offers isolation at the container level, making container escapes impossible, no matter where you run your infrastructure: a hyper cloud, a local cloud, or your own servers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Edera's key features
 
@@ -90,11 +94,29 @@ I'm excited to see what they do going forward. This really is a new, innovative 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-screen-and-camera-capturing-made-simple-understanding-vimeo-record/"><u>[New] In 2024, Screen & Camera Capturing Made Simple Understanding Vimeo Record</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ultimate-cartoony-transformation-tools-for-pcs-and-macs-for-2024/"><u>[New] Ultimate Cartoony Transformation Tools for PCs & Macs for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-copycat-cinema-steps-for-satirical-video-making/"><u>[Updated] In 2024, Copycat Cinema Steps for Satirical Video Making</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocking-the-full-potential-of-obs-for-your-mac/"><u>[Updated] Unlocking the Full Potential of OBS for Your Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-solvido-aprenda-como-executar-arquivos-mp4-no-windows-11-um-guia-passo-a-passo/"><u>1. [SOLVIDO] Aprenda Como Executar Arquivos MP4 No Windows 11: Um Guia Passo a Passo</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-gratuite-apng-vers-gif-sur-le-web-utilisez-movavi/"><u>Conversion Gratuite APNG Vers GIF Sur Le Web - Utilisez Movavi</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-views-and-subscribers-a-list-of-proven-youtube-techniques-for-2024/"><u>Elevate Views and Subscribers A List of Proven YouTube Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-film-projects-with-new-releases-from-movavi-top-video-editor-programs-for-free/"><u>Elevate Your Film Projects with New Releases From Movavi - Top Video Editor Programs for FREE!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enhancing-your-syma-x8c-experience-for-2024/"><u>Enhancing Your Syma X8C Experience for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/het-aanbod-van-de-grootste-video-editors-voor-windows-los-op-het-vergeleken-met-imovie/"><u>Het Aanbod Van De Grootste Video Editors Voor Windows, Los Op Het Vergeleken Met iMovie!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-unlimited-the-ultimate-video-editing-suite-from-movavi-software/"><u>Movavi Unlimited: The Ultimate Video Editing Suite From Movavi Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techniques-simples-pour-transformer-un-fichier-m4v-en-format-3gp-gratuitement-a-laide-de-logiciels-en-ligne-guide-decortigue/"><u>Techniques Simples Pour Transformer Un Fichier M4V en Format 3GP Gratuitement À L'Aide De Logiciels en Ligne - Guide Décortigué</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726226290935-mp3-3g2-movavi/"><u>오픈 소스의 MP3를 원격용 3G2 형식으로 자유성 변환 - Movavi 도구</u></a></li>
+</ul></div>
+

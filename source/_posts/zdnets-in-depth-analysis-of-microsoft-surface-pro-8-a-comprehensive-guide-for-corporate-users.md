@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis of Microsoft Surface Pro 8: A Comprehensive Guide for Corporate Users"
-date: 2024-12-02T19:48:31.603Z
-updated: 2024-12-06T20:00:05.633Z
+date: 2024-12-09T17:02:41.358Z
+updated: 2024-12-12T16:03:11.937Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -71,7 +75,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -91,7 +95,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -127,10 +131,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -153,10 +153,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -169,10 +165,14 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -212,21 +212,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-streamlining-your-subtitles-top-10-web-based-editors-reviewed/"><u>[New] Streamlining Your Subtitles Top 10 Web-Based Editors Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-art-of-adding-soundtracks-to-instagram-visuals/"><u>[New] The Art of Adding Soundtracks to Instagram Visuals</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unrivaled-sonic-union-for-speakers/"><u>[New] Unrivaled Sonic Union for Speakers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-aesthetic-alignment-for-online-glamour-content/"><u>[Updated] 2024 Approved Aesthetic Alignment for Online Glamour Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-from-invisible-to-iconic-top-strategies-for-standout-facebook-profiles/"><u>[Updated] 2024 Approved From Invisible to Iconic Top Strategies for Standout Facebook Profiles</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-elite-sound-selection-superior-downloads-for-2024/"><u>[Updated] Elite Sound Selection Superior Downloads for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-essential-strategies-for-finding-fabulous-and-free-images-on-pexels/"><u>[Updated] In 2024, Essential Strategies for Finding Fabulous and Free Images on Pexels</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-tongue-treasures-selecting-superb-audio-to-text-applications/"><u>2024 Approved Tongue Treasures Selecting Superb Audio to Text Applications</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-ar-a-modern-illusionists-toolkit/"><u>2024 Approved Unveiling AR A Modern Illusionist's Toolkit</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comment-saffranchir-de-leclatement-noir-sous-windows-11-apres-une-mise-a-jour/"><u>Comment S'affranchir De L'éclatement Noir Sous Windows 11 Après Une Mise À Jour?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cutting-edge-features-of-lian-lis-hydroshift-lcd-tube-with-360-s/"><u>Exploring the Cutting-Edge Features of Lian Li's Hydroshift LCD Tube with 360 S</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-instagram-stardom-unleash-your-potential-with-9-key-strategies/"><u>In 2024, The Ultimate Guide to Instagram Stardom - Unleash Your Potential with 9 Key Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-selection-of-top-5-best-android-photo-apps/"><u>In 2024, The Ultimate Selection of Top 5 Best Android Photo Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unified-imagery-the-ultimate-blend-strategy/"><u>In 2024, Unified Imagery The Ultimate Blend Strategy</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-latest-update-apples-expanded-list-of-older-mac-models-considered-obsolete-insights/"><u>The Latest Update: Apple's Expanded List of Older Mac Models Considered 'Obsolete' - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-smart-way-to-scale-and-slash-iphone-videos-for-2024/"><u>The Smart Way to Scale & Slash iPhone Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-costs-without-compromising-on-youtube-intros-quality/"><u>[New] 2024 Approved Cutting Costs without Compromising on YouTube Intros Quality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-tips-and-tricks-for-creating-engaging-collab-videos-on-youtube/"><u>[New] In 2024, Tips and Tricks for Creating Engaging Collab Videos on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-flick-retrospective-the-goofy-movie-edition-revisited/"><u>[Updated] In 2024, Flick Retrospective The 'Goofy Movie' Edition Revisited</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-on-how-skip-edgenuity-videos-easily/"><u>[Updated] Tips on How Skip Edgenuity Videos Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-best-unlimited-cloud-storage-service-recommendations/"><u>2024 Approved Best Unlimited Cloud Storage Service Recommendations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-master-image-tweaks-with-snapseed-for-newbies/"><u>2024 Approved Master Image Tweaks with Snapseed for Newbies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-secrets-of-bulk-downloads-maximizing-your-tiktok-video-collection/"><u>2024 Approved Secrets of Bulk Downloads Maximizing Your TikTok Video Collection</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-ntoskrnlexe-overuse-on-windows-systems/"><u>Addressing ntoskrnl.exe Overuse on Windows Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/advanced-vocal-precision-from-microsoft-expands-new-wave-of-pcs-gain-cutting-edge-speech-technology/"><u>Advanced Vocal Precision From Microsoft Expands: New Wave of PCs Gain Cutting-Edge Speech Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-steady-visual-commencement/"><u>In 2024, Steady Visual Commencement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-variants-of-moviemaker-pro-on-windows/"><u>In 2024, Variants of MovieMaker Pro on WIndows</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infographic-led-exploration-of-future-social-trends-for-2024/"><u>Infographic-Led Exploration of Future Social Trends for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kicking-off-with-keyframe-quality-controls-for-2024/"><u>Kicking Off with Keyframe Quality Controls for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-adsense-income-on-youtube-per-1000-viewer-earning/"><u>Navigating AdSense Income on YouTube Per 1,000 Viewer Earning</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/spread-the-word-about-our-favorite-no-cost-av-converter-software-for-easy-sharing/"><u>Spread the Word About Our Favorite No-Cost AV Converter Software for Easy Sharing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/studio-masterclass-journey-extended-xvideoexplore-for-2024/"><u>Studio Masterclass Journey Extended XVideoExplore for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-podcast-blurbs-techniques-and-illustrations-for-2024/"><u>The Art of Podcast Blurbs Techniques and Illustrations for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tencent Enters the Fray: Launches Enterprise-Focused AI Framework in China's GPT Contender Sprint"
-date: 2024-09-18 14:42:52
-updated: 2024-09-20 10:43:45
+date: 2024-12-07T20:20:22.407Z
+updated: 2024-12-12T20:30:06.342Z
 tags:
   - cloud
 categories:
@@ -80,11 +80,31 @@ Generative AI service providers also assume legal responsibility for the informa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-discover-novel-webcam-functions-today/"><u>[New] Discover Novel Webcam Functions Today</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-echoes-in-images-selfie-with-your-x-phone/"><u>[New] Echoes in Images Selfie with Your X Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-classic-comedy-time-machine-the-goofy-tape-journey/"><u>[Updated] Classic Comedy Time Machine The Goofy Tape Journey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726221340487-m4a-flv-movavi/"><u>無條件免費 M4A 到 FLV 過渡 - 動漫實用工具Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-4-versus-gpt-35-key-features-compared-in-detail-for-ai-enthusiasts/"><u>GPT-4 Versus GPT-3.5: Key Features Compared in Detail for AI Enthusiasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-xiaomi-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Xiaomi Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-11-pro-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and iPhone 11 Pro The Right Way</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-top-5-free-pinterest-video-downloader-online/"><u>In 2024, Top 5 Free Pinterest Video Downloader Online</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-mov-files-into-mp3-format-across-windows-macos-and-mobile/"><u>Step-by-Step Guide: Converting MOV Files Into MP3 Format Across Windows, MacOS & Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726223315920-tiff-movavi/"><u>TIFFフォーマットから自由に変換! 無料オンラインツールで簡単な切り替え - Movaviプロのサポート</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-audio-video-converters-with-supported-vob-files-best-for-windows-and-macos/"><u>Top Audio-Video Converters with Supported VOB Files: Best for Windows and macOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227593841-mp3m4v-movavi/"><u>앱에서 무료 MP3/M4V 변형: 모바일 라이브러리의 강력한 해결책 - Movavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

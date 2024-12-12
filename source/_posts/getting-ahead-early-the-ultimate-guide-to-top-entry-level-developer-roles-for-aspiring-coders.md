@@ -1,7 +1,7 @@
 ---
 title: "Getting Ahead Early: The Ultimate Guide to Top Entry-Level Developer Roles for Aspiring Coders"
-date: 2024-09-19 17:17:44
-updated: 2024-09-20 10:17:33
+date: 2024-12-06T17:22:19.246Z
+updated: 2024-12-12T16:01:36.788Z
 tags:
   - developer
 categories:
@@ -20,6 +20,10 @@ It's time for a quick "lightning round" of developer features and enhancements M
 **Also: [Every Copilot+ PC Microsoft just announced to take on Apple's M3 MacBooks](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/)**
 
 Strap in, because we'll be moving fast and covering a lot of ground. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Copilot extensions 
 
@@ -40,6 +44,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -81,6 +89,10 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -93,6 +105,10 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +118,10 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +175,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-enhancing-user-experience-combining-instagram-and-facebook/"><u>[New] In 2024, Enhancing User Experience Combining Instagram & Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-simplifying-image-editing-with-picsarts-background-tool/"><u>[New] Simplifying Image Editing with Picsart's Background Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-spots-for-discovering-rich-gold-text-effects/"><u>[New] Ultimate Spots for Discovering Rich, Gold Text Effects</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-frame-it-right-vertical-video-mastery-with-final-cut-pro-x/"><u>[Updated] Frame It Right Vertical Video Mastery with Final Cut Pro X</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-transform-your-playtime-mastering-ps4-live-recordings-with-obs/"><u>[Updated] In 2024, Transform Your Playtime Mastering PS4 Live Recordings with OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-to-write-persuasive-videographic-dialogues/"><u>[Updated] Techniques to Write Persuasive Videographic Dialogues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-creativity-with-these-essential-vector-editors/"><u>[Updated] Unleash Creativity with These Essential Vector Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-srt-to-txt-guide-for-time-saving/"><u>2024 Approved Transformative SRT to TXT Guide for Time-Saving</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-potential-essential-win11-tools/"><u>2024 Approved Unleashing Potential Essential Win11 Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726227117347-wma-webm-movavi/"><u>網路移動式錄影系統中的無成本 WMA 到 WebM 格式轉換 - 使用 Movavi 工具</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-libre-de-fichiers-aac-a-avi-en-ligne-avec-moovavi-suivez-le-guide-facile/"><u>Conversion Libre De Fichiers AAC À AVI en Ligne Avec Moovavi – Suivez Le Guide Facile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-windows-photos-viewer-with-creative-filter-settings-and-soundscape/"><u>In 2024, Transforming Windows Photos Viewer with Creative Filter Settings & Soundscape</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-10-animated-photo-makers-easy-and-effortless/"><u>New 2024 Approved Top 10 Animated Photo Makers Easy and Effortless</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-6-best-free-online-audio-editor-to-use-100-free-for-2024/"><u>Updated 6 Best Free Online Audio Editor to Use (100 Free) for 2024</u></a></li>
+</ul></div>
+

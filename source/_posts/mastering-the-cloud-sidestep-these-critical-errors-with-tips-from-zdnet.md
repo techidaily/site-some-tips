@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Cloud: Sidestep These Critical Errors with Tips From ZDNet"
-date: 2024-09-18 12:17:37
-updated: 2024-09-20 12:53:33
+date: 2024-12-08T17:37:56.408Z
+updated: 2024-12-12T17:30:28.710Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: FG Trade/Getty Images
 Tech analyst firm Gartner has set out 10 things you should avoid when [building a cloud-computing strategy](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) in a world that is leaning towards cloud-first. Because being cloud-first doesn't necessarily mean 'cloud only'. 
 
 As cloud becomes the [dominant way of consuming compute, storage and networking](https://www.zdnet.com/article/cloud-computing-is-about-to-hit-another-big-milestone/), organisations should be crafting a concise 10-to-20-page "consumable document" that guides those who implement the strategy, according to Marco Meinardi, vice president analyst at Gartner. "The business strategy should drive the cloud strategy and provide guidance to those who will implement it. It must coexist with other strategic efforts, not try to redo them," [Meinardi notes](https://www.gartner.com/en/newsroom/press-releases/2022-11-21-gartner-highlights-ten-common-cloud-strategy-mistakes). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -84,11 +88,31 @@ Gartner's 10 cloud computing mistakes to avoid:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-in-depth-app-investigation-via-az-screen-recorder/"><u>[Updated] 2024 Approved In-Depth App Investigation via AZ Screen Recorder</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-essential-fixes-to-tackle-fb-story-load-failures-for-2024/"><u>[Updated] Essential Fixes to Tackle Fb Story Load Failures for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-visualize-your-movies-with-best-grabbers-for-2024/"><u>[Updated] Visualize Your Movies with Best Grabbers for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1-come-recuperare-le-foto-di-sistema-dal-tuo-disco-rigido-esterno/"><u>1. Come Recuperare Le Foto Di Sistema Dal Tuo Disco Rigido Esterno?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-protect-your-privacy-why-you-should-avoid-sharing-your-personal-email-with-businesses/"><u>1. Protect Your Privacy: Why You Should Avoid Sharing Your Personal Email with Businesses</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-guide-to-proficient-periscope-operation/"><u>Complete Guide to Proficient Periscope Operation</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063687158-get-your-tp-link-wireless-adapter-software-no-price/"><u>Get Your TP Link Wireless Adapter Software, No Price!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/samsung-galaxy-z-flip-enhanced-innovation-in-the-next-gen-foldable-phone/"><u>Samsung Galaxy Z Flip: Enhanced Innovation in the Next-Gen Foldable Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-the-google-pixel-lineup-a-look-at-the-pixel-6-pro-after-three-years/"><u>The Evolution of the Google Pixel Lineup: A Look at the Pixel 6 Pro After Three Years</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-secret-behind-my-familys-effortless-coordination-why-we-cant-live-without-cozi/"><u>The Secret Behind My Family's Effortless Coordination: Why We Can't Live Without Cozi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-the-oneplus-11-insights-from-a-yearlong-experience-for-pricing-similarity/"><u>The Ultimate Guide to the OnePlus 11 – Insights From a Yearlong Experience (for Pricing Similarity)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/this-week-in-digital-discoveries-unveiling-new-windows-laptops-and-exclusive-spotify-secrets/"><u>This Week in Digital Discoveries: Unveiling New Windows Laptops and Exclusive Spotify Secrets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-10-how-to-fix-intermittent-sound-issues/"><u>Troubleshooting Windows 10: How to Fix Intermittent Sound Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-behind-the-google-pixel-tablets-impressive-performance/"><u>Unveiling the Secrets Behind the Google Pixel Tablet's Impressive Performance!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-weekly-tech-update-unpacking-the-atandt-security-leak-and-exciting-releases-from-samsung/"><u>Your Weekly Tech Update: Unpacking the AT&T Security Leak & Exciting Releases From Samsung</u></a></li>
+</ul></div>
+

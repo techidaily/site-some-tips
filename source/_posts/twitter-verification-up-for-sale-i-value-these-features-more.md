@@ -1,7 +1,7 @@
 ---
 title: Twitter Verification Up For Sale? I Value These Features More!
-date: 2024-09-19 15:36:39
-updated: 2024-09-20 12:42:24
+date: 2024-12-10T20:21:00.722Z
+updated: 2024-12-12T17:58:06.624Z
 tags:
   - cloud
 categories:
@@ -21,6 +21,10 @@ But Twitter has been under the proverbial microscope ever since Elon Musk announ
 
 **Also:** [**Elon Musk promises not to make Twitter a 'free-for-all hellscape'**](https://www.zdnet.com/article/elon-musk-promises-not-to-make-twitter-a-free-for-all-hellscape/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [Wi-Fi problems? Add a wired network to your home without Ethernet cable - here's how](https://www.zdnet.com/article/wi-fi-problems-how-to-add-a-wired-network-to-your-home-without-ethernet-cable/)
@@ -37,6 +41,10 @@ So, for the company to be profitable in the long term, it needs an income stream
 While I will not rule out either of these two reasons as part of Musk's billionaire logic to justify his purchase of Twitter, let's take the acquisition at face value that the privatization of the company also means he wants to turn it around and transform the service into something people actually want to pay to use.
 
 **Also: [How to secure your Twitter account without two-factor authentication](https://www.zdnet.com/article/how-to-protect-your-twitter-account-without-sms-two-factor-authentication/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does Twitter verification mean?
 
@@ -56,7 +64,15 @@ Other services like LinkedIn understand this need to sponsor the press and offer
 
 But what does paying to play for verification mean? Does it devalue those of us that "earned" that verification, the journalists and celebs with large fan bases? If anyone can be verified, that just means you have money to blow on a stupid icon. That includes hate-spewing misogynists, racists, antisemites, anti-LGBTQ+, and other extremists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What I would pay for 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -80,11 +96,31 @@ _When it is released, will you "pay to play" for Twitter verification? Tell me b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-the-expertutive-guide-to-enhanced-video-chapter-management-on-youtube/"><u>[Updated] The Expert'utive Guide to Enhanced Video Chapter Management on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-right-time-to-invest-in-your-next-4k-lens/"><u>[Updated] The Right Time to Invest in Your Next 4K Lens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-twitter-video-streams-download-and-convert-to-mp3/"><u>[Updated] Twitter Video Streams Download & Convert to MP3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uncovering-images-the-art-of-backdrop-removal-in-picsart/"><u>[Updated] Uncovering Images The Art of Backdrop Removal in Picsart</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pranksters-paradise-iphone-memes/"><u>2024 Approved Pranksters' Paradise - iPhone Memes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-5-voice-alteration-apps-for-professional-vtuber-artistry/"><u>2024 Approved Top 5 Voice Alteration Apps for Professional Vtuber Artistry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unhindered-movie-enjoyment-no-cost-video-player-pcmac/"><u>2024 Approved Unhindered Movie Enjoyment - No Cost VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-f14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/converting-insta-videos-to-mp3-a-comprehensive-overview-for-2024/"><u>Converting Insta Videos to MP3 - A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-htc-u23-pro-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does HTC U23 Pro support MKV video files?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-your-site-with-powerful-cookiebot-features/"><u>Enhance Your Site with Powerful Cookiebot Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-screenplay-foundations-a-guide/"><u>In 2024, Screenplay Foundations A Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-5-book-tt-showcases-for-readers/"><u>In 2024, The Ultimate 5 Book TT Showcases for Readers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-the-curveball-mastering-gopro-lens-distortion/"><u>Navigating the Curveball Mastering GoPro Lens Distortion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prime-win-os-artistic-solutions-beyond-procreate/"><u>Prime Win OS Artistic Solutions Beyond Procreate</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis-for-2024/"><u>The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis for 2024</u></a></li>
+</ul></div>
+

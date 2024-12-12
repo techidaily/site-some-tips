@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Importance of Multiple Twitter Accounts: Insights From ZDNet"
-date: 2024-09-17 11:10:39
-updated: 2024-09-20 12:42:23
+date: 2024-12-11T18:09:23.348Z
+updated: 2024-12-12T19:55:50.733Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/ade566529a7bc97aed23a78dd1be17314340f234a
 So I'm not going to take the "[Let's all quit Twitter](https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Let's%20all%20quit%20Twitter%22%7D)" viewpoint, or "[Elon Musk should be prohibited from buying Twitter](https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Elon%20Musk%20should%20be%20prohibited%20from%20buying%20Twitter%22%7D)" standpoint, or even the "[Twitter is going to hell in a neoconservative handbasket](https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Twitter%20is%20going%20to%20hell%20in%20a%20neoconservative%20handbasket%22%7D)" perspective. 
 
 But we should examine why we care about Twitter at all. It serves an important function, as an instantaneous publicly viewable broadcast message bus, for individuals, brands, governments, and everything in-between. But it also has many weaknesses, including that it is not a public good -- it is a corporation, and if Elon Musk gets his way, it will be again a privately owned one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Twitter
 
@@ -87,11 +91,30 @@ The time is now. Let's build a better internet together.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-20plus-laughs-no-boundaries-crafting-memes-across-metaverse-realms-for-2024/"><u>[New] 20+ Laughs, No Boundaries Crafting Memes Across Metaverse Realms for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-future-of-makeup-predicted-titans-on-youtube/"><u>[New] 2024 Approved The Future of Makeup Predicted Titans on YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-channel-combat-determining-which-earns-more-from-videosdailymotion-or-youtube/"><u>[New] In 2024, Channel Combat Determining Which Earns More From Videos—Dailymotion or YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-smoothscreensaver-lightweight-recording-tool-for-2024/"><u>[New] SmoothScreenSaver Lightweight Recording Tool for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-jokesinframe-instant-memes-and-more/"><u>[Updated] JokesInFrame Instant Memes & More</u></a></li>
+<li><a href="https://some-tips.techidaily.com/24-movavi/"><u>「網路免費24小時數位錄影服務 -Movavi」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227977955-mp43gp-movavi/"><u>互联网上免费MP4到3GP的转换工具 - Movavi转换解决方案</u></a></li>
+<li><a href="https://some-tips.techidaily.com/adjusting-video-aspect-ratios-easily-guides-for-converting-from-169-43-and-more/"><u>Adjusting Video Aspect Ratios Easily – Guides for Converting From 16:9, 4:3, and More</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/android-and-iphone-video-creators-best-music-integrated-options-for-2024/"><u>Android and iPhone Video Creators Best Music-Integrated Options for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726223228617-ape-m4a-movavi/"><u>APE M4A 파일을 원격으로 무료로 변환: Movavi의 가이드</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comment-identifier-et-ouvrir-un-fichier-au-format-mp4-une-explication-detaillee/"><u>Comment Identifier Et Ouvrir Un Fichier Au Format MP4 : Une Explication Détaillée</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-libre-de-mp3-a-m4b-online-con-movavi/"><u>Conversión Libre De MP3 a M4B Online Con Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-iphone-14-pro-max-camera-roll-photos-and-photo-stream-pictures-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted iPhone 14 Pro Max Camera Roll Photos and Photo Stream Pictures? | Stellar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/move-flawlessly-convert-wav-files-to-mov-format-for-free-with-the-movavi-online-tool/"><u>Move Flawlessly: Convert WAV Files to MOV Format for Free with the Movavi Online Tool</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/simplified-guide-to-navigating-and-controlling-your-account-settings-on-yl-softwares-dashboard/"><u>Simplified Guide to Navigating and Controlling Your Account Settings on YL Software's Dashboard</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-windows-10-sound-card-troubles-with-these-easy-solutions/"><u>Solve Windows 10 Sound Card Troubles with These Easy Solutions!</u></a></li>
+</ul></div>
+

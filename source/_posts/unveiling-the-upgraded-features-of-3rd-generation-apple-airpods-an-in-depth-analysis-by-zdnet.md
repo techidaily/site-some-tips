@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Upgraded Features of 3Rd Generation Apple AirPods: An In-Depth Analysis by ZDNET"
-date: 2024-12-03T18:51:23.177Z
-updated: 2024-12-06T17:19:08.771Z
+date: 2024-12-10T18:41:18.891Z
+updated: 2024-12-12T19:46:53.999Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,20 +191,19 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/tand-out-in-the-stream-top-name-generators-reviewed/"><u>[New] Stand Out in the Stream Top Name Generators Reviewed</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-amplify-your-snapchat-experience-with-easy-voice-customization-for-2024/"><u>[Updated] Amplify Your Snapchat Experience with Easy Voice Customization for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-enhancing-twitter-video-experience-to-fhd/"><u>[Updated] Enhancing Twitter Video Experience to FHD</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-innovating-informative-intros-for-2024/"><u>[Updated] Innovating Informative Intros for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tech-gear-review-vr-treadmills-showdown/"><u>[Updated] Tech Gear Review VR Treadmills Showdown</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-compilation-4-websites-for-ringtone-hunt/"><u>[Updated] The Ultimate Compilation 4 Websites for Ringtone Hunt</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transcribe-speaking-to-writing-free-of-charge/"><u>[Updated] Transcribe Speaking to Writing Free of Charge</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-using-telegram-web-effectively/"><u>2024 Approved The Ultimate Guide to Using Telegram Web Effectively</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-honor-magic-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-xbox-one-elite-series-2-controller-analysis-the-epitome-of-gaming-perfection/"><u>Comprehensive Xbox One Elite Series 2 Controller Analysis: The Epitome of Gaming Perfection</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-of-powerful-titles/"><u>In 2024, Unveiling the Secrets of Powerful Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-inshot-the-best-video-editing-app-our-in-depth-review-for-2024/"><u>Is InShot the Best Video Editing App? Our In-Depth Review for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unleash-your-inner-comedy-with-gif-mastery-for-2024/"><u>Unleash Your Inner Comedy with GIF Mastery for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-full-potential-of-video-calls-with-zoom-and-gmail-integration-for-2024/"><u>Unlocking Full Potential of Video Calls with Zoom & Gmail Integration for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-youtube-music-soundscape/"><u>[New] In 2024, Enhancing YouTube Music Soundscape</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-next-generation-of-aerial-artistry-with-bebops-parrot-2/"><u>[New] The Next Generation of Aerial Artistry with Bebop's Parrot 2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-premier-8-video-transformers-for-your-mac-and-phone/"><u>[New] The Premier 8 Video Transformers for Your Mac & Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-iphone-light-balancing/"><u>[New] The Ultimate Guide to iPhone Light Balancing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-add-a-countdown-timer-in-obs/"><u>[Updated] In 2024, How To Add a Countdown Timer in OBS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tier-tips-for-superior-home-theater-dvd-production-on-mac/"><u>[Updated] Top-Tier Tips for Superior Home Theater DVD Production on Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-vivo-y17s-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Vivo Y17s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-potential-in-media-production-via-xp/"><u>In 2024, Unleash Potential in Media Production via XP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-openais-customizable-cutting-edge-gpt-stores/"><u>Introducing OpenAI's Customizable, Cutting-Edge GPT Stores!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/miniature-musicianship-at-its-best-revealing-sandisk-clip-jam/"><u>Miniature Musicianship at Its Best - Revealing SanDisk Clip Jam</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taking-stock-of-magix-project-management-app-for-2024/"><u>Taking Stock of MAGIX Project Management App for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-transferring-tunes-between-platforms-for-2024/"><u>The Art of Transferring Tunes Between Platforms for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-complete-walkthrough-for-assessing-monthly-data-usage-on-devices/"><u>The Complete Walkthrough for Assessing Monthly Data Usage on Devices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/top-2024-cloud-offerings-price-and-efficacy-showdown/"><u>Top 2024 Cloud Offerings Price & Efficacy Showdown</u></a></li>
 </ul></div>
 

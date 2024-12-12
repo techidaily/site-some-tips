@@ -1,7 +1,7 @@
 ---
 title: How iPhone's Journal App Makes Your Device Findable and Why You Should Disable It
-date: 2024-11-29T20:27:09.611Z
-updated: 2024-12-06T19:25:40.930Z
+date: 2024-12-07T18:25:32.797Z
+updated: 2024-12-12T20:26:05.229Z
 tags:
   - apple
 categories:
@@ -40,19 +40,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to disable Apple Journal's 'Discoverable by Others' setting
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Go to your iPhone Settings
 
 To find the Journal app setting, open your Settings app on your iPhone.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Find Privacy & Security
 
@@ -61,7 +65,7 @@ Scroll down and open Privacy & Security within your Apple device's Settings app.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Tap on Journaling Suggestions
@@ -69,10 +73,6 @@ Maria Diaz/ZDNET
 Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverable by Others" setting will be enabled until you disable it.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
 
@@ -85,16 +85,12 @@ Maria Diaz/ZDNET
 ## **FAQ**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
 
@@ -109,6 +105,10 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -148,20 +148,22 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-guide-to-altering-your-facebook-background-image-for-2024/"><u>[New] Guide to Altering Your Facebook Background Image for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-essential-guide-to-metaverse-brand-strategies/"><u>[New] The Essential Guide to Metaverse Brand Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tips-for-embedding-music-in-social-media-videos/"><u>[New] Tips for Embedding Music in Social Media Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-pro-screen-reader-best-video-grabbing-picks/"><u>[Updated] 2024 Approved Pro Screen Reader Best Video Grabbing Picks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-secrets-of-phantoms-time-reversal-mode/"><u>[Updated] The Ultimate Secrets of Phantom's Time Reversal Mode</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-nine-game-streaming-haven-explored/"><u>[Updated] Top Nine Game Streaming Haven Explored</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transform-your-photos-mastering-time-lapse-with-samsung-mobile/"><u>[Updated] Transform Your Photos Mastering Time Lapse with Samsung Mobile</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>2024 Approved The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-free-to-use-game-soundtracks-online/"><u>2024 Approved Top 10 Free-to-Use Game Soundtracks Online</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101688679-beat-the-gtx-950s-code-43-glitch-in-windows-10-with-these-expert-troubleshooting-tips-now-solved/"><u>Beat the GTX 950'S Code 43 Glitch in Windows 10 with These Expert Troubleshooting Tips - Now Solved</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/dissecting-splitcams-superiority-as-a-recorder-for-2024/"><u>Dissecting SplitCam’s Superiority as a Recorder for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-m6-pro-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco M6 Pro 4G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-ultimate-toolbox-what-every-youtube-newbie-needs/"><u>In 2024, The Ultimate Toolbox What Every YouTube Newbie Needs</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-obstacles-to-activate-windows-batch-scripts/"><u>Overcoming Obstacles to Activate Windows Batch Scripts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/redefining-possibilities-with-openais-latest-innovation-gpt-4-ai-model/"><u>Redefining Possibilities with OpenAI’s Latest Innovation: GPT-4 AI Model</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-free-3d-text-psd-goldmine-top-selections/"><u>[New] 2024 Approved Free 3D Text PSD Goldmine - Top Selections</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-secure-re-entry-resuming-fb-usage-post-hack/"><u>[New] 2024 Approved Secure Re-Entry Resuming Fb Usage Post Hack</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-potential-advanced-tiktok-visual-enhancements/"><u>[New] Unleashing Potential Advanced TikTok Visual Enhancements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-scripting-for-film/"><u>[Updated] The Essence of Scripting for Film</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-6-social-media-platforms-for-business/"><u>[Updated] Top 6 Social Media Platforms for Business</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-complete-routine-for-hulu-capture-on-diverse-devices/"><u>2024 Approved The Complete Routine for Hulu Capture on Diverse Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-effective-film-production-using-movie-maker-windows-8/"><u>2024 Approved The Ultimate Guide to Effective Film Production Using Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-images-on-android-our-picks-for-the-5-best-editors/"><u>2024 Approved Transform Your Images on Android Our Picks for the 5 Best Editors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-tune-into-unparalleled-music-video-watching-best-android-vids-for-you/"><u>2024 Approved Tune Into Unparalleled Music Video Watching Best Android Vids for You</u></a></li>
+<li><a href="https://win-superb.techidaily.com/web-movavi/"><u>無料で簡単なWEBムービーから動画ファイルへの変換 - Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/chromatic-wonders-bridging-color-knowledge/"><u>Chromatic Wonders Bridging Color Knowledge</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-a-compelling-narrative-a-key-to-more-viewers-and-subscribers-for-2024/"><u>Crafting a Compelling Narrative A Key to More Viewers and Subscribers for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-g22withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia G22with/without a PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-revolutionary-modifications-elevate-your-computer-experience/"><u>In 2024, Revolutionary Modifications Elevate Your Computer Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-affordable-video-effecting-sites-online/"><u>In 2024, Top 5 Affordable Video Effecting Sites Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/striking-the-right-chord-in-your-podcast-summary-for-2024/"><u>Striking the Right Chord in Your Podcast Summary for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-and-windows-aturinates-gpu-performance-solutions-revealed/"><u>Warzone and Windows Aturinates GPU Performance - Solutions Revealed</u></a></li>
 </ul></div>
 

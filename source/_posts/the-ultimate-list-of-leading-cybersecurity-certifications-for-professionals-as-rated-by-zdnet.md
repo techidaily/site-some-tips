@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Leading Cybersecurity Certifications for Professionals, as Rated by ZDNet
-date: 2024-09-17 15:49:26
-updated: 2024-09-20 10:44:16
+date: 2024-12-05T20:08:53.416Z
+updated: 2024-12-12T19:46:25.288Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-from-overflowed-drafters-to-ordered-files-learn-to-edit-hefty-tiktok-content/"><u>[New] In 2024, From Overflowed Drafters to Ordered Files Learn to Edit Hefty TikTok Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-shoppers-list-select-box-personalization-sites/"><u>[New] Ultimate Shopper's List Select Box Personalization Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transformative-guide-gifs-becoming-stickers-on-discord-whatsapp-and-telegram/"><u>[Updated] Transformative Guide GIFs Becoming Stickers on Discord, WhatsApp & Telegram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-variants-of-moviemaker-pro-on-windows/"><u>[Updated] Variants of MovieMaker Pro on WIndows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-bandicam-review-enhancing-your-computer-with-effective-recording-techniques/"><u>2024 Approved Bandicam Review Enhancing Your Computer with Effective Recording Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-techniques-for-efficient-zoom-meeting-recordings/"><u>2024 Approved Techniques for Efficient Zoom Meeting Recordings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-vivo-s17e-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Vivo S17e to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-samsung-galaxy-a25-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Samsung Galaxy A25 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-reno-8t-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo Reno 8T</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlined-accessibility-learning-iphoneipad-techniques-for-podcast-downloads/"><u>In 2024, Streamlined Accessibility Learning iPhone/iPad Techniques for Podcast Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-techniques-for-fabulous-photo-collage-artistry/"><u>In 2024, Techniques for Fabulous Photo Collage Artistry</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932825-9781855844384-karmic-relationships-volume-2/"><u>Karmic Relationships: Volume 2 | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-kinemaster-blueprint-for-flawless-green-screen-techniques-for-2024/"><u>The Complete Kinemaster Blueprint for Flawless Green Screen Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-picture-editor-tutorial-for-2024/"><u>The Ultimate Picture Editor Tutorial for 2024</u></a></li>
+</ul></div>
+

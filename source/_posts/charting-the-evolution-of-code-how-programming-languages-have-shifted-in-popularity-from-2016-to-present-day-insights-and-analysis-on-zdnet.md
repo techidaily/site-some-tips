@@ -1,7 +1,7 @@
 ---
 title: "Charting the Evolution of Code: How Programming Languages Have Shifted in Popularity From 2016 to Present Day, Insights & Analysis on ZDNet"
-date: 2024-09-19 21:26:42
-updated: 2024-09-20 10:21:14
+date: 2024-12-09T19:53:21.153Z
+updated: 2024-12-12T16:04:22.894Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-a-comprehensive-tour-youtube-creator-suite/"><u>[New] 2024 Approved A Comprehensive Tour YouTube Creator Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-effective-film-production-using-movie-maker-windows-8/"><u>[New] The Ultimate Guide to Effective Film Production Using Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-addressing-mute-problems-in-obs-live-recording-for-2024/"><u>[Updated] Addressing Mute Problems in OBS Live Recording for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-pristine-screenshot-tool-free-and-simple/"><u>[Updated] Pristine Screenshot Tool - Free and Simple</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-photo-dynamics-mastering-adobe-illustrator-blurs/"><u>[Updated] Unleash Photo Dynamics Mastering Adobe Illustrator Blurs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-tricks-for-enhanced-video-quality-via-nvidia/"><u>2024 Approved Tricks for Enhanced Video Quality via NVIDIA</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-infinix-note-30-vip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Infinix Note 30 VIP to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-in-depth-guide-to-the-best-photovideo-makers-with-harmonized-sounds/"><u>In 2024, In-Depth Guide to the Best Photo/Video Makers with Harmonized Sounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-path-to-success-starts-on-screen-10-must-see-films/"><u>In 2024, The Path to Success Starts on Screen 10 Must-See Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-20-ae-templates-for-aspiring-designers/"><u>In 2024, Top 20 AE Templates for Aspiring Designers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-simple-techniques-for-amazing-slow-motion-footage-in-android/"><u>In 2024, Unveiling Simple Techniques for Amazing Slow-Motion Footage in Android</u></a></li>
+<li><a href="https://solve-news.techidaily.com/optimized-video-formats-for-facebook-a-comprehensive-guide/"><u>Optimized Video Formats for Facebook : A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/preemptive-strike-against-potential-digital-intruders-on-fb/"><u>Preemptive Strike Against Potential Digital Intruders on FB</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-professional-iphoneipad-podcast-production-for-2024/"><u>The Ultimate Guide to Professional iPhone/iPad Podcast Production for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-pp-playbook-for-silent-scene-transitions-for-2024/"><u>The Ultimate PP Playbook for Silent Scene Transitions for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-player-failure-due-to-non-existent-sources-expert-fixes/"><u>Troubleshooting Windows Player Failure Due to Non-Existent Sources - Expert Fixes</u></a></li>
+</ul></div>
+

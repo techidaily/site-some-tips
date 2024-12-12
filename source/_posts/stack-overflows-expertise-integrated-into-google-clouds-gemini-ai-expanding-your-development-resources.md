@@ -1,7 +1,7 @@
 ---
 title: "Stack Overflow's Expertise Integrated Into Google Cloud's Gemini AI: Expanding Your Development Resources"
-date: 2024-09-18 17:22:38
-updated: 2024-09-20 11:49:21
+date: 2024-12-10T18:16:21.609Z
+updated: 2024-12-12T19:50:01.964Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,27 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-the-blueprint-of-film-narrative/"><u>[Updated] The Blueprint of Film Narrative</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-decoding-the-purpose-why-does-fb-use-a-blue-icon/"><u>2024 Approved Decoding the Purpose Why Does FB Use a Blue Icon?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-compendium-of-affordable-rich-graphics-resources-online/"><u>2024 Approved The Essential Compendium of Affordable, Rich Graphics Resources Online</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oppo-find-n3-flip-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Oppo Find N3 Flip without App | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elite-podcast-gear-selecting-the-best-microphones-for-2024/"><u>Elite Podcast Gear Selecting the Best Microphones for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-places-to-access-westeros-themed-phone-sounds/"><u>In 2024, Top Places to Access Westeros-Themed Phone Sounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-digital-portfolio-with-onscreen-cropping/"><u>In 2024, Transform Your Digital Portfolio with Onscreen Cropping</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721845650969-is-gpt-5-on-the-horizon-unveiling-its-expected-release-date/"><u>Is GPT-5 on the Horizon: Unveiling Its Expected Release Date</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/seamless-google-drive-integration-for-pc-data-backups-discover-the-2-quick-methods/"><u>Seamless Google Drive Integration for PC Data Backups - Discover the 2 Quick Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secrets-to-mass-downloading-videos-from-tiktok-for-2024/"><u>Secrets to Mass Downloading Videos From TikTok for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-3-methods-for-transferring-your-gmail-messages-into-google-drive-a-step-by-step-guide/"><u>Top 3 Methods for Transferring Your Gmail Messages Into Google Drive: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-snapchats-high-value-content-for-2024/"><u>Understanding Snapchat's High-Value Content for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-and-missing-cursor-mystery-solved-tips-and-fixes/"><u>Windows 10 and Missing Cursor Mystery Solved – Tips & Fixes!</u></a></li>
+</ul></div>
+

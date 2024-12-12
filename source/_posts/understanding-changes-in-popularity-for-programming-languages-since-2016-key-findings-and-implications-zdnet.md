@@ -1,7 +1,7 @@
 ---
 title: "Understanding Changes in Popularity for Programming Languages Since 2016: Key Findings & Implications - ZDNet"
-date: 2024-09-17 14:44:56
-updated: 2024-09-20 10:17:44
+date: 2024-12-08T20:32:44.587Z
+updated: 2024-12-12T19:29:43.657Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,26 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-aspect-ratios-in-action-facebooks-video-direction/"><u>[New] 2024 Approved Aspect Ratios in Action Facebook's Video Direction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-approach-to-enhancing-your-4k-vision-with-a-new-lens/"><u>[New] The Best Approach to Enhancing Your 4K Vision with a New Lens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-your-creative-potential-embrace-these-top-10-iphone-image-rules/"><u>[Updated] Unlocking Your Creative Potential Embrace These Top 10 iPhone Image Rules</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y36-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-put-multiple-pictures-on-insta-story-a-simple-guide/"><u>How to Put Multiple Pictures on Insta Story - a Simple Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-lava-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Lava</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-speeding-up-your-streams-the-netflix-efficiency-guide/"><u>In 2024, Speeding Up Your Streams The Netflix Efficiency Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tamiltunes-handbook-downloading-and-trimming-melodies-for-calls/"><u>In 2024, TamilTunes Handbook Downloading & Trimming Melodies for Calls</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-your-data-safe-when-communicating-through-chatgpt/"><u>Is Your Data Safe When Communicating Through ChatGPT?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-meme-blueprint-building-impactful-gifs-for-2024/"><u>The Essential Meme Blueprint Building Impactful GIFs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-windows-11s-visual-capabilities-with-auto-hdr-mode-activation-for-2024/"><u>Unlocking Windows 11'S Visual Capabilities with Auto HDR Mode Activation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/why-and-how-to-choose-effective-encoders-on-your-pc/"><u>Why and How to Choose Effective Encoders on Your PC</u></a></li>
+</ul></div>
+

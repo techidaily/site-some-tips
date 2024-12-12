@@ -1,7 +1,7 @@
 ---
 title: Data Mesh Expansion Fueled by Starburst's Latest Funding Victory | Tech Insights
-date: 2024-09-19 20:56:30
-updated: 2024-09-20 12:35:41
+date: 2024-12-11T19:36:06.650Z
+updated: 2024-12-12T19:40:39.094Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/7b30ded1356833dfaf76c7c0649ae9ac9d
 ## Data Mesh Expansion Fueled by Starburst's Latest Funding Victory | Tech Insights
 
 [Starburst Data](https://www.starburst.io/) announced this week that it has more than doubled its financing with a new $250 million Series D round being announced this week and opening a new front end portal to its distributed query engine. The company claims this has roughly tripled its previous valuation, for which there were conflicting published numbers ([here](https://www.bloomberg.com/news/articles/2021-01-06/starburst-data-hits-1-2-billion-valuation-as-andreessen-invests?sref=SSBEOKlx) and [here](https://www.theinformation.com/articles/investors-pay-high-price-for-starburst-data-at-1-6-billion-valuation)). The announcements are coming in conjunction with [Datanova](https://www.starburst.io/info/datanova2022/), the company's annual online event.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -82,11 +86,27 @@ Distributed query will be a key part of execution for any data-driven organizati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-craft-individual-humor-masterpieces-online-for-2024/"><u>[New] Craft Individual Humor Masterpieces Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unmatched-clarity-our-choice-of-the-top-10-camera-lenses/"><u>[New] Unmatched Clarity Our Choice of the Top 10 Camera Lenses</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-hacking-tiktoks-video-pace-efficiently/"><u>[Updated] 2024 Approved Hacking TikTok's Video Pace Efficiently</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-selecting-the-ideal-imagery-for-remote-meetings/"><u>[Updated] Selecting the Ideal Imagery for Remote Meetings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-7-free-dvd-player-software-for-windowsmacphone/"><u>[Updated] Top 7 Free DVD Player Software for Windows/Mac/Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44cm44kz44ou44o844ks44o844oj6kej6zmk44gn55plusl6k2y44gu6zaa44ks6zal44gp77ya57ch5y2y44gq5oml5rov44go44gu5l255so55uu55qe5zcr44gr44ks44kk44oj44cn/"><u>「コピーガード解除で知識の門を開く：簡単な手法とご使用目的向けガイド」</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-12-interactive-pc-adventures-to-boost-your-clicking/"><u>2024 Approved Top 12 Interactive PC Adventures to Boost Your Clicking</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-realme-c67-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Realme C67 5G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-a15-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy A15 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-backgrounds-elevating-video-streaming/"><u>In 2024, Top Picks Backgrounds Elevating Video Streaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-optimizing-your-pc-for-flawless-cs2-performance/"><u>Ultimate Guide: Optimizing Your PC for Flawless CS2 Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-handheld-systems-enhanced-stability-on-iosandroiddslr-for-2024/"><u>Ultimate Handheld Systems Enhanced Stability on iOS/Android/DSLR for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-huawei-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Huawei Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+</ul></div>
+

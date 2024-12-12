@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Challenges: How Meta Faces Obstacles Translating Into Greek, Armenian, and Oromo – Insights From ZDNET"
-date: 2024-09-18 20:46:42
-updated: 2024-09-20 10:42:16
+date: 2024-12-09T20:25:19.631Z
+updated: 2024-12-12T16:20:21.183Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,23 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-tone-and-pitch-control-on-chrome-os-select-the-best-online-speech-converters/"><u>[Updated] Tone and Pitch Control on Chrome OS Select the Best Online Speech Converters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-the-potential-of-srt-files-in-real-time-social-networking/"><u>[Updated] Unleashing the Potential of SRT Files in Real-Time Social Networking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-time-management-mastery-with-zero-cost-clocks/"><u>2024 Approved Unleashing Time Management Mastery with Zero Cost Clocks</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/hidden-threats-exposed-understanding-the-silent-installation-of-malware-on-personal-computers/"><u>Hidden Threats Exposed: Understanding the Silent Installation of Malware on Personal Computers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-find-n3-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo Find N3 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-s17-pro-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo S17 Pro to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-laughlineup-app-become-a-master-at-memes/"><u>In 2024, LaughLineup App - Become a Master at Memes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-quick-access-to-hidden-past-reddit-posts-and-articles/"><u>In 2024, Quick Access to Hidden, Past Reddit Posts and Articles</u></a></li>
+</ul></div>
+

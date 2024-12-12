@@ -1,7 +1,7 @@
 ---
 title: "IoT Arena Shifts: Google's Departure & Microsoft's Strategic Move to Capture the Market | ZDNet"
-date: 2024-09-19 17:23:31
-updated: 2024-09-20 12:39:27
+date: 2024-12-05T17:13:52.678Z
+updated: 2024-12-12T16:01:12.890Z
 tags:
   - cloud
 categories:
@@ -62,11 +62,37 @@ I'm thinking we'll hear more about Microsoft's updated IoT and edge-computing vi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-intense-meetings-perfect-your-screen-focus-in-msteams/"><u>[New] 2024 Approved Intense Meetings Perfect Your Screen Focus in MSTEAMS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-best-practices-in-adobe-captivate-for-videos/"><u>[New] Best Practices in Adobe Captivate for Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-networking-haven-beyond-vidcon/"><u>[New] In 2024, The Ultimate Networking Haven Beyond VidCon</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-path-to-digital-fame-on-youtube-begins-here/"><u>[Updated] 2024 Approved The Path to Digital Fame on YouTube Begins Here</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-leverage-the-power-of-visual-storytelling-with-your-own-facebook-slideshows/"><u>[Updated] Leverage the Power of Visual Storytelling with Your Own Facebook Slideshows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-banking-innovation-how-idc-enables-the-future-of-finance-with-cutting-edge-automation/"><u>Advancing Banking Innovation: How IDC Enables the Future of Finance with Cutting-Edge Automation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-marketing-solutions-empower-your-online-presence-with-cookiebot/"><u>Automated Marketing Solutions: Empower Your Online Presence with Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-marketing-with-customized-user-tracking/"><u>Automated Marketing with Customized User Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-traffic-boost-with-the-help-of-cookiebot/"><u>Automated Traffic Boost with the Help of Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-business-efficiency-integrating-abbyys-smart-content-into-sap-bot-solutions/"><u>Boosting Business Efficiency: Integrating ABBYY's Smart Content Into SAP Bot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-analytics-and-tracking-solutions/"><u>Cookiebot-Driven Analytics and Tracking Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-performance-boosting-web-traffic-effortlessly/"><u>Cookiebot-Driven Performance: Boosting Web Traffic Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-sites-optimized-user-experience/"><u>Cookiebot-Enabled Sites: Optimized User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhance-your-sites-engagement-with-smart-tracking/"><u>Cookiebot-Enabled: Enhance Your Site's Engagement with Smart Tracking</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-tecno-spark-go-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Tecno Spark Go (2023) Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-turn-off-windows-defender-on-your-pc-running-windows-11-tips-by-yl-computing/"><u>How to Turn Off Windows Defender on Your PC Running Windows 11 - Tips by YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-easy-way-adding-external-yt-videos-to-your-powerpoint-sessions/"><u>In 2024, The Easy Way Adding External YT Videos to Your PowerPoint Sessions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-the-glitch-top-7-ways-to-fix-your-phones-display-shimmering/"><u>Stop the Glitch - Top 7 Ways to Fix Your Phone's Display Shimmering</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-elite-list-top-9-drone-video-editors-by-competence/"><u>The Elite List Top 9 Drone Video Editors by Competence</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Surprising Prevalence of Political Deepfakes: Insights From an AI Specialist - ZDNet"
-date: 2024-09-17 12:46:56
-updated: 2024-09-20 12:38:35
+date: 2024-12-07T18:25:57.062Z
+updated: 2024-12-12T17:52:58.707Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,29 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-windows-10-camera-software-review-top-10/"><u>[New] 2024 Approved Ultimate Windows 10 Camera Software Review - Top 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-360-vision-showdown-samsung-and-lg-camera-face-off/"><u>[New] 360 Vision Showdown Samsung & LG Camera Face Off</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-joy-in-switchs-best-card-choices-for-2024/"><u>[New] Capturing Joy in Switch's Best Card Choices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-time-stamping-your-photographs-efficiently/"><u>[New] Time Stamping Your Photographs Efficiently</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveil-the-art-of-creating-astonishing-gopro-time-lapse-videos/"><u>[New] Unveil the Art of Creating Astonishing GoPro Time-Lapse Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-vr-skeletons-into-your-ideal-digital-persona/"><u>[Updated] Transforming VR Skeletons Into Your Ideal Digital Persona</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-timelapse-magic-with-your-gopro/"><u>[Updated] Unlocking Timelapse Magic with Your GoPro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-when-amazon-prime-video-freezes-or-crashes/"><u>Effective Solutions When Amazon Prime Video Freezes or Crashes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-successfully-reinstall-or-update-usb-to-serial-adapter-control-drivers/"><u>How to Successfully Reinstall or Update USB-to-Serial Adapter Control Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategic-use-of-visual-media-in-classroom-teaching/"><u>In 2024, Strategic Use of Visual Media in Classroom Teaching</u></a></li>
+<li><a href="https://facebook.techidaily.com/interlinked-identities-examining-fb-insta-relationship/"><u>Interlinked Identities: Examining FB-Insta Relationship</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-vcruntime140dll-cannot-find-error-a-step-by-step-guide/"><u>Solving VCruntime140.dll Cannot Find Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-close-up-meetings-in-ms-teams-for-2024/"><u>The Art of Close-Up Meetings in MS Teams for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/toutes-les-etapes-pour-convertir-un-fichier-vob-en-mp4-gratuitement-guide-detaille-avec-movavi/"><u>Toutes Les Étapes Pour Convertir Un Fichier VOB en MP4 Gratuitement - Guide Détaillé Avec Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-every-moment-top-activities-to-do-while-listening-to-your-favorite-talk-shows-for-2024/"><u>Transform Every Moment Top Activities to Do While Listening to Your Favorite Talk Shows for 2024</u></a></li>
+</ul></div>
+

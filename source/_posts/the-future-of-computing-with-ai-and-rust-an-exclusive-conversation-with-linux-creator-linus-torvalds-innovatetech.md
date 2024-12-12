@@ -1,7 +1,7 @@
 ---
 title: The Future of Computing with AI and Rust - An Exclusive Conversation with Linux Creator, Linus Torvalds | InnovateTech
-date: 2024-09-17 21:18:27
-updated: 2024-09-20 10:56:31
+date: 2024-12-05T18:20:03.185Z
+updated: 2024-12-12T20:29:49.244Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-crafting-success-with-these-15-youtube-introduction-plans/"><u>[Updated] 2024 Approved Crafting Success with These 15 YouTube Introduction Plans</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-crafting-realities-on-android-the-premier-15-gaming-experienences/"><u>[Updated] Crafting Realities on Android The Premier 15 Gaming Experienences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-affordable-360-degree-cameras/"><u>[Updated] Top 10 Affordable 360 Degree Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-serenity-with-asmr-for-uninterrupted-slumber/"><u>[Updated] Unlock Serenity with ASMR for Uninterrupted Slumber</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-places-to-find-background-music-for-videos/"><u>2024 Approved Top Places to Find Background Music for Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-v29-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo V29 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-into-the-details-expert-review-of-the-durable-kobo-libra-h2o/"><u>Dive Into the Details: Expert Review of the Durable Kobo Libra H2O</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-seamless-srt-discover-the-top-8-subs-to-srts-software-for-every-os/"><u>In 2024, Seamless SRT Discover the Top 8 Subs to SRTS Software for Every OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-comprerancial-onestream-approach-to-online-streaming/"><u>In 2024, The Comprerancial OneStream Approach to Online Streaming</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-itel-p55-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Itel P55 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-flashlight-a-step-by-step-guide-to-fixing-common-issues-12-tips/"><u>Revive Your iPhone Flashlight: A Step-by-Step Guide to Fixing Common Issues (12 Tips)</u></a></li>
+</ul></div>
+

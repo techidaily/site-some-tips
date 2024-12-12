@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Path Forward: Challenges in Establishing Open Source AI Standards – Mixed Reactions From Experts | ZDNet"
-date: 2024-09-18 16:15:31
-updated: 2024-09-20 12:53:46
+date: 2024-12-08T17:52:16.161Z
+updated: 2024-12-12T19:26:25.621Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-tailor-made-youtube-closings-how-to-get-them-right/"><u>[New] 2024 Approved Tailor-Made YouTube Closings How to Get Them Right</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-summit-creation-pro-x-evaluation/"><u>[New] Summit Creation Pro X Evaluation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-most-affordable-gaming-tunes-top-10-lists/"><u>2024 Approved The Most Affordable Gaming Tunes Top 10 Lists</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-mp4-video-tag-editors-for-2024/"><u>Best MP4 Video Tag Editors for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-total-exploration-the-dji-phantom-4-experience-reviewed/"><u>In 2024, Total Exploration The DJI Phantom 4 Experience Reviewed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ichotomy-of-youtube-rights-and-cc-licenses-for-2024/"><u>The Dichotomy of YouTube Rights and CC Licenses for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-iphone-guide-to-water-reflected-imagery-for-2024/"><u>The Ultimate iPhone Guide to Water-Reflected Imagery for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-5-solutions-to-resolve-audio-problems-in-windows-10/"><u>Top 5 Solutions to Resolve Audio Problems in Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-handbrake-64-bit-available-encountering-vlc-not-64-bit-error/"><u>Troubleshooting: HandBrake 64-Bit Available; Encountering 'VLC Not 64-Bit' Error!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-of-swelling-youtube-supporters-for-2024/"><u>Unlocking the Secrets of Swelling YouTube Supporters for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726227321712-mpeg-mov-movavi/"><u>제공해주는 MPEG MOV 프로세스를 사용한 원격에서 쉽게 무료로 비디오 전환 - Movavi</u></a></li>
+</ul></div>
+

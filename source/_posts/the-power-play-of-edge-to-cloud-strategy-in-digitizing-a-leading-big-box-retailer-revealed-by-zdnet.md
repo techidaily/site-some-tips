@@ -1,7 +1,7 @@
 ---
 title: The Power Play of Edge-to-Cloud Strategy in Digitizing a Leading Big-Box Retailer, Revealed by ZDNET
-date: 2024-09-17 11:17:59
-updated: 2024-09-20 11:53:34
+date: 2024-12-10T16:10:00.059Z
+updated: 2024-12-12T17:02:22.363Z
 tags:
   - cloud
 categories:
@@ -95,6 +95,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F&title= "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F "Twitter") 
@@ -105,6 +109,10 @@ Close Modal Dialog
 
 Digital transformation as a business priority has been the theme of the past decade. But in the early 2020s, in response to the global COVID-19 pandemic, [digital transformation](https://www.zdnet.com/article/what-is-digital-transformation-everything-you-need-to-know-about-how-technology-is-reshaping/) was boosted into overdrive. Businesses that were on a five or even a ten-year transformation roadmap were suddenly attempting to make radical changes in five to ten weeks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [The Tech Trends to Watch in 2023 Learn about the leading tech trends the world will lean into over the next 12 months and how they will affect your life and your job.  Read now](https://www.zdnet.com/topic/the-tech-trends-to-watch-in-2023/)
@@ -114,6 +122,10 @@ Here at ZDNET, we've taken you through many deep dives into the technologies dri
 In this article, we're going to take a slightly different approach. Rather than start with the technology and what you can do with it, we're going to visit a prototypical business and look at all the technologies it might need to integrate in order to meet its growth and profitability goals.
 
 Because many of these initiatives tend to be confidential inside the real-world companies performing them, in this article we're going to be talking about a fictional distributed home and building goods chain retailer: Home-by-Home. That way, we can dive into some of the areas of business operations that a real enterprise might not be comfortable revealing publicly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Case study: Home-by-Home
 
@@ -145,6 +157,10 @@ Since 2000, Home-by-Home has been converting larger stores into dual-purpose fac
 
 Earlier this year, Home-by-Home acquired a competitor with 450 stores and has begun a considerable migration effort to move them from old point-of-sale systems and central siloed databases to the edge-to-cloud digital transformation that's actively in practice throughout Home-by-Home's operations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## End-to-end integration across all stores and vendors
 
 There is one general operating principle by which Home-by-Home measures all of its IT decisions: everything must integrate, and do so smartly. It's not enough just to have constant streams of data coming from the stores to organization-wide databases. 
@@ -170,6 +186,10 @@ Dynamic provisioning and on-demand infrastructure from edge to cloud is key to i
 
 Seasonal surges are also accommodated, allowing the company to add about 30% additional IT infrastructure resources for the critical home improvement seasons, but then scale back down and reduce spending during the months when consumers are focused on other interests.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edge-to-cloud platforms
 
 HPE GreenLake is an example of one of the companies that offers edge-to-cloud services that bring the centralized dashboard, on-demand provisioning, and pay-as-you-go benefits of public cloud infrastructure to on-premises computing and edge computing installations. This is what a company like Home-by-Home needs to be able to begin provisioning the services for its new acquisition immediately. There is no order-and-wait period for new configurations. 
@@ -186,11 +206,33 @@ Edge-to-cloud platforms help aggregate entire solutions, providing the benefits 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unlocking-ez-grabbers-potential-with-this-user-friendly-tutorial/"><u>[New] In 2024, Unlocking EZ Grabber's Potential with This User-Friendly Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-surfings-new-era-top-cam-tech/"><u>[New] Surfing's New Era - Top Cam Tech</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-hues-a-collection-of-the-best-11-video-tutorials/"><u>[Updated] Mastering Hues A Collection of the Best 11 Video Tutorials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-uav-picks-to-elevate-gopro-cinematography/"><u>2024 Approved Superior UAV Picks to Elevate GoPro Cinematography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-meme-artisans-guide-to-shaping-social-interaction-gifs/"><u>2024 Approved The Meme Artisan's Guide to Shaping Social Interaction (GIFs)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-role-of-non-verbal-communication-in-interviewing/"><u>2024 Approved The Role of Non-Verbal Communication in Interviewing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/frostbite-finishes-olympic-ice-classics/"><u>Frostbite Finishes Olympic Ice Classics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-motorola-moto-g04-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Motorola Moto G04 for Free? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-the-ultimate-documentary-experience/"><u>In 2024, Crafting the Ultimate Documentary Experience</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-honor-magic-5-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Honor Magic 5 FRP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-comprehensive-guide-to-9gag-for-meme-enthusiasts/"><u>In 2024, The Comprehensive Guide to 9GAG for Meme Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-ultimate-editor-sets-for-macos-sierra-users/"><u>In 2024, Unveiling the Ultimate Editor Sets for macOS Sierra Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-pokemon-go-a-comprehensive-guide/"><u>Mastering Pokémon Go: A Comprehensive Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-venturing-free-audio-amendments-to-visual-projects/"><u>New Venturing Free Audio Amendments to Visual Projects</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/perfected-framing-for-fb-videos-implement-letterbox-and-dark-frame-for-2024/"><u>Perfected Framing for FB Videos Implement Letterbox & Dark Frame for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-storytelling-with-inshots-transition-features-for-2024/"><u>Streamline Storytelling with Inshot's Transition Features for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/traspasando-fronteras-de-dvd-con-windows-como-hacer-que-tu-pelicula-sea-compatible-con-cualquier-reproductor-mediante-conversion-de-regiones-en-windows-1187156/"><u>Traspasando Fronteras De DVD Con Windows: Cómo Hacer Que Tu Película Sea Compatible Con Cualquier Reproductor Mediante Conversión De Regiones en Windows 11/8/7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-5-iphone-x87-photoshoot-background-swappers-for-2024/"><u>Ultimate 5 iPhone X/8/7 Photoshoot Background Swappers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-enhancements-in-sonys-s6500-bdhd-player-for-2024/"><u>Unveiling Enhancements in Sony's S6500 BD/HD Player for 2024</u></a></li>
+</ul></div>
+

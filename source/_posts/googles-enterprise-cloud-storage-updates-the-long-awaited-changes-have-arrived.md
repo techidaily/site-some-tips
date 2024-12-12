@@ -1,7 +1,7 @@
 ---
 title: "Google's Enterprise Cloud Storage Updates: The Long-Awaited Changes Have Arrived!"
-date: 2024-09-18 21:32:53
-updated: 2024-09-20 10:49:15
+date: 2024-12-05T18:38:23.017Z
+updated: 2024-12-12T19:19:53.055Z
 tags:
   - cloud
 categories:
@@ -39,6 +39,10 @@ You can catch up on the history of my deep dive into the situation here:
 * [Re-homing G Suite storage: No, you can't find out how much storage your folders use](https://www.zdnet.com/article/re-homing-g-suite-storage-no-you-cant-find-out-how-much-storage-your-folders-use/)
 * [Re-homing G Suite storage: Enterprise plan options seem unnecessarily murky](https://www.zdnet.com/article/re-homing-g-suite-storage-why-the-enterprise-plan-options-seem-unnecessarily-murky/)
 * [Why my two-person company bought a Google Workspace Enterprise plan](https://www.zdnet.com/article/why-my-two-person-company-bought-a-google-workspace-enterprise-plan/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Backgrounder
 
@@ -83,6 +87,10 @@ And yes, I knew it might all go bad. I said as much, too:
 > In the meantime, I hope we've at least bought ourselves a couple of years before having to address the cloud storage problem again. 
 
 18 months. I got 18 months, almost to the day. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  SitRep (situation report) 
 
@@ -130,11 +138,19 @@ Twelve hours later, this appeared in my inbox:
 
 I tried rescheduling. It's now been four days. I've sent two additional email requests to have that phone conversation he wanted, and still no further response. That's where the situation lives right now. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The rest of the story
 
 Roughly 12 hours after I first posted this article, a senior technician from Google Workspace Support reached out to tell me my storage had been increased by another 25TB and the freeze warning was shut off. I'd like to think this was just their process and not the result of my article, but we'll never know. 
 
 Nonetheless, needing 10TB+ more storage every year clearly isn't sustainable, so I'm going to audit my backup use and see if there's any way I can reduce my overall storage footprint.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What I'm going to do about it 
 
@@ -167,6 +183,10 @@ Screenshot by David Gewirtz/ZDNET
 My current plan is to delete the entire Cloud Backup directory. Although I have no way of knowing how much is stored there until I delete it, I'm guessing it's probably roughly half of the overall storage footprint. I'm still backing up, in that I have mirrors of the local servers. The only thing I won't have is the ability to roll back a backup and recover older, lost data. 
 
 That's certainly not ideal, but faced with the choice of having my entire Google infrastructure frozen on August 26, or giving up on backup rollbacks, I guess I'll give up on backup rollbacks. I still have all my local backups. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  My one remaining worry and thoughts about what this all means 
 
@@ -209,11 +229,33 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-navigating-virtual-escapes-tour-techniques/"><u>[Updated] In 2024, Navigating Virtual Escapes Tour Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-tips-on-filming-with-drone-for-2024/"><u>[Updated] Tips on Filming with Drone for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cambia-file-raw-a-formato-jpg-gratuitamente-su-internet-usando-il-servizio-di-conversione-di-movavi/"><u>Cambia File RAW a Formato JPG Gratuitamente Su Internet Usando Il Servizio Di Conversione Di Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissons-gratuitement-vos-fichiers-wma-en-ogg-avec-movavi-guide-en-ligne/"><u>Convertissons Gratuitement Vos Fichiers WMA en Ogg Avec Movavi - Guide en Ligne</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-methods-for-adding-video-captions-an-online-guide/"><u>Free Methods for Adding Video Captions: An Online Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-conversion-transforming-ogm-files-into-mpeg-format-with-ease/"><u>Free Online Conversion: Transforming OGM Files Into MPEG Format with Ease</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-video-editing-software-for-rotating-and-flipping-videos/"><u>In 2024, Best Free Video Editing Software for Rotating and Flipping Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/innovating-informative-intros-for-2024/"><u>Innovating Informative Intros for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mettiti-al-lavoro-trasformare-i-file-orf-in-formato-jpeg-senza-costi-con-il-servizio-online-di-movavi/"><u>Mettiti Al Lavoro: Trasformare I File ORF in Formato JPEG Senza Costi Con Il Servizio Online Di Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimized-streaming-top-obs-configurations-for-budget-friendly-computers/"><u>Optimized Streaming: Top OBS Configurations for Budget-Friendly Computers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-methods-to-create-a-screen-recording-on-your-iphone-11-a-comprehensive-guide/"><u>Top 4 Methods to Create a Screen Recording on Your iPhone 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-archivo-mxf-a-formato-mp4-gratis-en-linea-con-convertidor-de-movavi/"><u>Transformar Archivo MXF a Formato MP4 Gratis en Línea Con Convertidor De Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-poco-f5-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Poco F5 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-corsair-keyboard/"><u>Troubleshooting Guide: How To Fix a Non-Responsive Corsair Keyboard</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-capturing-your-gaming-moments-with-ps4/"><u>Ultimate Guide: Capturing Your Gaming Moments with PS4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-top-ranking-screen-recorder-applications-reviewed/"><u>Ultimate List of Top-Ranking Screen Recorder Applications Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-freezes-randomly-solved/"><u>Windows 11 Freezes Randomly [Solved]</u></a></li>
+</ul></div>
+

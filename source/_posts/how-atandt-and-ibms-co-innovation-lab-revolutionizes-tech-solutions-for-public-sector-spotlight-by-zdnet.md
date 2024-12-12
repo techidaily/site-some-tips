@@ -1,7 +1,7 @@
 ---
 title: How AT&T and IBM's Co-Innovation Lab Revolutionizes Tech Solutions for Public Sector, Spotlight by ZDNET
-date: 2024-09-17 18:45:49
-updated: 2024-09-20 10:58:23
+date: 2024-12-07T17:31:53.617Z
+updated: 2024-12-12T17:40:27.612Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ AT&T and IBM [launched the collaboration](https://www.zdnet.com/article/ibm-form
 "One of the challenges that enterprises have to face when you think about 5G, cloud and edge computing is that it's accelerating pretty fast," William Stovall, AT&T's VP of mobility & IoT, said to _ZDNet_. "The challenge is, how do I undertake this, and how do I put it into practice. So to give enterprise customers a vehicle to see it in the works, and to have the opportunity to co-create, is a benefit that allows them a better roadmap to actually deploy these technologies."
 
 The co-innovation labs are designed to serve a range of industries, with clear use cases in areas like manufacturing and health care. The public sector has a number of compelling use cases, like delivering 5G-enabled communication services to first responders, or providing AR/VR environments to the military. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### MWC 2022
 
@@ -56,11 +60,25 @@ The opening of the new simulation lab will be particularly timely, given the imp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-frame-by-frame-excellence-selecting-webcams-for-podcasts/"><u>[Updated] 2024 Approved Frame-by-Frame Excellence Selecting Webcams for Podcasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-underdogs-playbook-livestream-youtube-on-smartphones-no-million-followers/"><u>[Updated] The Underdog's Playbook Livestream YouTube on Smartphones, No Million Followers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-ae-text-preset-collection-the-best-of-both-worlds/"><u>2024 Approved AE Text Preset Collection The Best of Both Worlds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726222718774-3g-2-movavi/"><u>免費在線3G-2規格影片切換服務 - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-convertir-facilmente-tus-videos-mp4-por-el-internet-sin-costo-paso-a-paso-con-movavi/"><u>Cómo Convertir Fácilmente Tus Vídeos MP4 Por El Internet Sin Costo, Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-gratuita-de-archivos-flv-a-formato-wma-con-movavi-online-guia-paso-a-paso/"><u>Conversión Gratuita De Archivos FLV a Formato WMA Con Movavi Online - Guía Paso a Paso</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/expert-guidelnace-mastering-windows-registry-editing-with-yl-softwares-best-tips/"><u>Expert Guidelnace: Mastering Windows Registry Editing with YL Software's Best Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-mp3-to-mpg-conversion-easy-and-fast-by-movavi/"><u>Free Online MP3-to-MPG Conversion - Easy and Fast by Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eradicate-the-error-xc0f1103f-from-your-win11-and-geforce/"><u>How to Eradicate the Error Xc0f1103f From Your Win11 & GeForce</u></a></li>
+<li><a href="https://some-tips.techidaily.com/insight-into-visual-learning-personalities-recognizing-their-unique-qualities/"><u>Insight Into Visual Learning Personalities: Recognizing Their Unique Qualities</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-through-the-driver-update-journey-in-windows-8-platforms/"><u>Navigating Through the Driver Update Journey in Windows 8 Platforms</u></a></li>
+</ul></div>
+

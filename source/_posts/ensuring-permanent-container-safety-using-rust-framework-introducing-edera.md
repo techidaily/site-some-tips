@@ -1,7 +1,7 @@
 ---
 title: Ensuring Permanent Container Safety Using Rust Framework - Introducing Edera
-date: 2024-09-19 21:35:24
-updated: 2024-09-20 11:33:19
+date: 2024-12-07T18:12:23.209Z
+updated: 2024-12-12T16:37:25.101Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,25 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unboxing-flight-comprehensive-guide-to-dji-phantom-4/"><u>[New] 2024 Approved Unboxing Flight Comprehensive Guide to DJI Phantom 4</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-downloading-standardized-youtube-images-with-ease-and-precision/"><u>[Updated] In 2024, Downloading Standardized Youtube Images with Ease & Precision</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-navigating-the-challenges-of-remote-podcasting-for-2024/"><u>[Updated] Navigating the Challenges of Remote Podcasting for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-sound-transformation-app-for-valorant-the-best-free-choice/"><u>[Updated] Ultimate Sound Transformation App for Valorant The Best Free Choice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-superior-video-compression-in-av1/"><u>[Updated] Unveiling the Superior Video Compression in AV1</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-playback-problem-why-cant-i-watch-video-on-sony-a6400/"><u>2024 Approved Playback Problem Why Can't I Watch Video on Sony A6400?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-the-secrets-of-inshot-editing-excellence/"><u>2024 Approved Unraveling the Secrets of InShot Editing Excellence</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-data-retrieval-how-to-master-the-art-of-qr-scanning-with-windows/"><u>Effortless Data Retrieval: How to Master the Art of QR Scanning with Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comparative-analysis-64-vs-128gb-video-holding-power/"><u>In 2024, Comparative Analysis 64 vs 128GB Video Holding Power</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-compact-powerhouse-in-flight-dji-sparks-guide-to-aerial-selfies/"><u>In 2024, The Compact Powerhouse in Flight DJI Spark's Guide to Aerial Selfies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-huawei-frp-by-drfone-android/"><u>The Updated Method to Bypass Huawei FRP</u></a></li>
+</ul></div>
+

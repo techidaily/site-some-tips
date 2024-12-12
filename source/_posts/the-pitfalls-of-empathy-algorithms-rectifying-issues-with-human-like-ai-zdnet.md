@@ -1,7 +1,7 @@
 ---
 title: "The Pitfalls of Empathy Algorithms: Rectifying Issues with Human-Like AI | ZDNet"
-date: 2024-09-17 22:42:51
-updated: 2024-09-20 11:36:32
+date: 2024-12-10T19:47:28.928Z
+updated: 2024-12-12T19:27:35.377Z
 tags:
   - cloud
 categories:
@@ -42,6 +42,10 @@ It is unclear whether Humane can improve the performance and reliability of the 
 
 The issues with battery charging and overheating may not be solvable with the current hardware either.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The connectivity problem
 
 However, there may be a few things that Humane can do. Let's start with the connectivity response time.
@@ -72,6 +76,10 @@ To fix the Wi-Fi problem, the device needs passthrough-style authentication -- s
 
 My iPhone can store many Wi-Fi networks (that I have authenticated) in its memory. Using Bluetooth, it passes those to my Apple Watch, and that's completely transparent to me. That's exactly what the Pin needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4G and Wi-Fi are not the only answer for wearable connectivity
 
 Wi-Fi, however, is power-hungry, even with low-power transceiver implementations. A possible solution for future Pin hardware would be to include [Matter](https://csa-iot.org/all-solutions/matter/), an IoT connectivity standard adopted by many vendors, including Apple, Amazon, Google, and Samsung. Matter enables smart home products from different manufacturers to work together by providing a universal language for wireless (and wired) IoT devices. 
@@ -82,6 +90,10 @@ Wireless Matter devices can connect with each other using [Zigbee's wireless pro
 
 Matter's data transmission speeds may not be as fast as Wi-Fi for moving large amounts of data (such as photos and videos to cloud storage), but as a side-channel communications mechanism for text-based LLM queries and sensor data on wearable devices, it makes a lot of sense.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The LLM and cloud provisioning dilemma
 
 However, not all of the device's slowness can be attributed to connectivity. The query response from Humane's AI is also said to be slow and unreliable, and that's probably due to underprovisioned cloud resources. The pin's back-end GenAI LLM is [apparently OpenAI](https://www.theverge.com/2023/11/9/23953901/humane-ai-pin-launch-date-price-openai). It is unclear whether it uses GPT4 or GPT 3.5, but it must be done via an API call. 
@@ -91,6 +103,10 @@ It's unlikely the pin is doing [direct API calls to OpenAI](https://platform.ope
 **Also: [GPT-4 Turbo reclaims the 'best AI model' crown from Anthropic's Claude 3](https://www.zdnet.com/article/gpt-4-turbo-reclaims-best-ai-model-crown-from-anthropics-claude-3/)**
 
 Here's the question: Is it sensible to restrict the Pin to OpenAI/ChatGPT? Other LLMs are currently being developed, including Meta's LLAMA2, Google Gemini, and Amazon Titan. AI advancements are coming fast and furious, with models increasing in parameter size multiple times a year. Competition among these models is intense. An AI-driven product, one not confined to any particular ecosystem, should be service-agnostic and have access to the best-of-breed model at any time and to whichever LLM the user prefers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can the Pin be fixed - or will rivals capitalize on Humane's failure?
 
@@ -125,11 +141,26 @@ As the landscape of personal technology continues to evolve, the pressure is on 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-achieve-color-mastery-with-canons-freepaid-lut-variety-for-2024/"><u>[New] Achieve Color Mastery with Canon's Free/Paid LUT Variety for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-complete-methodology-for-sharing-srt-content-on-instagram-and-youtube/"><u>[New] Complete Methodology for Sharing SRT Content on Instagram and YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-elevating-the-art-of-unboxing-adventure/"><u>[New] In 2024, Elevating the Art of Unboxing Adventure</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-infinite-save-instagram-stories-secret-weapon/"><u>[Updated] In 2024, Infinite Save Instagram Stories' Secret Weapon</u></a></li>
+<li><a href="https://some-tips.techidaily.com/buy-top-rated-cross-platform-video-editing-software-for-pc-and-mac/"><u>Buy Top-Rated Cross-Platform Video Editing Software for PC & MAC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comment-transformer-facilement-un-tta-en-format-flac-pour-gratuit-methodes-et-conseils-utilisant-movavi/"><u>Comment Transformer Facilement Un TTA en Format FLAC Pour Gratuit - Méthodes Et Conseils Utilisant Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-voice-and-video-capture-on-a-mac-discover-movavis-top-techniques/"><u>Effortless Voice & Video Capture on a Mac - Discover Movavi's Top Techniques!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-guide-on-mastering-image-editing-the-art-of-making-backgrounds-disappear-using-7-proven-methods-movavi/"><u>Expert Guide on Mastering Image Editing: The Art of Making Backgrounds Disappear Using 7 Proven Methods - Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s18-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S18 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-picture-in-picture-features-on-sierras-operating-systems/"><u>In 2024, Exploring Picture in Picture Features on Sierra's Operating Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-evaluation-of-the-western-digital-datalifeguard-diagnostic-utility/"><u>In-Depth Evaluation of the Western Digital DataLifeGuard Diagnostic Utility</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-3-key-caption-techniques-for-videos-for-2024/"><u>Mastering Instagram 3 Key Caption Techniques for Videos for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Debate Intensifies: Advancing Consensus on Open Source AI Amidst Growing Discontent"
-date: 2024-09-18 19:23:16
-updated: 2024-09-20 10:50:22
+date: 2024-12-11T18:55:57.507Z
+updated: 2024-12-12T18:01:55.117Z
 tags:
   - developer
 categories:
@@ -50,6 +50,10 @@ He pointed to GitHub's efforts to [mandate the use of 2FA](https://www.zdnet.com
 With the security market now flooded with "flashy" offerings, it can be easy for professionals to overlook the need for a simple deadbolt on the door.
 
 The [basic controls](https://www.zdnet.com/article/smbs-face-growing-cybersecurity-threats-but-basic-measures-can-lower-risks/) are going to be more effective in securing an organisation's environment, alongside the adoption of industry standards and best practices, he said. These practices include [Cloud Security Alliance's published benchmarks](https://cloudsecurityalliance.org/star) and [Singapore's Safe App Standard](https://www.zdnet.com/article/singapores-guidelines-to-bolster-mobile-app-security-are-optional-for-now/), which is built on "common sense" basic security practices and input from both private and public organizations to help focus on the most essential components. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Redefining shift-left development with AI
 
@@ -104,11 +108,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-retrieve-flawless-copyright-free-images/"><u>[New] How to Retrieve Flawless, Copyright-Free Images</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-free-film-resource-highlights-where-to-start-your-search/"><u>[Updated] Free Film Resource Highlights Where to Start Your Search</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expert-techniques-for-professionalizing-mobile-based-youtube-thumbnails/"><u>[Updated] In 2024, Expert Techniques for Professionalizing Mobile-Based YouTube Thumbnails</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-personalizing-your-whatsapp-ringtone-iphonesandroids-included/"><u>[Updated] The Ultimate Guide to Personalizing Your WhatsApp Ringtone - iPhones/Androids Included</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-turn-template-ideas-into-real-logo-artwork/"><u>[Updated] Turn Template Ideas Into Real Logo Artwork</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-creative-potential-with-pixiz-for-photo-videos/"><u>[Updated] Unleashing Creative Potential with Pixiz for Photo Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-video-creation-harness-the-trio-of-windows-photos-and-storyremix/"><u>2024 Approved Transformative Video Creation Harness the Trio of Windows, Photos, and StoryRemix</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-simplified-journey-for-metaverse-personas/"><u>In 2024, The Ultimate Simplified Journey for Metaverse Personas</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-transform-your-iphone-snaps-into-stunning-hdr-photos/"><u>In 2024, Transform Your iPhone Snaps Into Stunning HDR Photos</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-optimized-mobile-data-rescue-solution-easy-photo-video-and-contact-restoration-from-iphones/"><u>Mac-Optimized Mobile Data Rescue Solution: Easy Photo, Video and Contact Restoration From iPhones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-secure-connection-couldnt-be-established-errors-in-mozilla-firefox/"><u>Resolving 'Secure Connection Couldn't Be Established' Errors in Mozilla Firefox</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-audio-experience-with-apods-for-2024/"><u>Streamline Your Audio Experience with APods for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210696240--the-awakening-of-existentialism/"><u>The Awakening of Existentialism | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-5-gaming-monitors-for-playstation-and-xbox-for-2024/"><u>The Ultimate 5 Gaming Monitors for PlayStation & Xbox for 2024</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/unable-to-locate-webpage-what-to-do-when-you-encounter-a-404-error/"><u>Unable to Locate Webpage: What to Do When You Encounter a 404 Error</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-silent-messages-on-your-iphone-comprehensive-guide-to-recovering-alerts-and-ringtones/"><u>Unstick Silent Messages on Your iPhone: Comprehensive Guide to Recovering Alerts & Ringtones</u></a></li>
+</ul></div>
+

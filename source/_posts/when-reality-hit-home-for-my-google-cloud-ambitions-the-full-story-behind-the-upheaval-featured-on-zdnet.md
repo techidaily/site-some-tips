@@ -1,7 +1,7 @@
 ---
 title: "When Reality Hit Home for My Google Cloud Ambitions: The Full Story Behind the Upheaval - Featured on ZDNET"
-date: 2024-09-17 10:24:44
-updated: 2024-09-20 10:16:11
+date: 2024-12-11T16:04:01.553Z
+updated: 2024-12-12T19:18:21.491Z
 tags:
   - cloud
 categories:
@@ -39,6 +39,10 @@ You can catch up on the history of my deep dive into the situation here:
 * [Re-homing G Suite storage: No, you can't find out how much storage your folders use](https://www.zdnet.com/article/re-homing-g-suite-storage-no-you-cant-find-out-how-much-storage-your-folders-use/)
 * [Re-homing G Suite storage: Enterprise plan options seem unnecessarily murky](https://www.zdnet.com/article/re-homing-g-suite-storage-why-the-enterprise-plan-options-seem-unnecessarily-murky/)
 * [Why my two-person company bought a Google Workspace Enterprise plan](https://www.zdnet.com/article/why-my-two-person-company-bought-a-google-workspace-enterprise-plan/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Backgrounder
 
@@ -83,6 +87,10 @@ And yes, I knew it might all go bad. I said as much, too:
 > In the meantime, I hope we've at least bought ourselves a couple of years before having to address the cloud storage problem again. 
 
 18 months. I got 18 months, almost to the day. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  SitRep (situation report) 
 
@@ -130,11 +138,19 @@ Twelve hours later, this appeared in my inbox:
 
 I tried rescheduling. It's now been four days. I've sent two additional email requests to have that phone conversation he wanted, and still no further response. That's where the situation lives right now. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The rest of the story
 
 Roughly 12 hours after I first posted this article, a senior technician from Google Workspace Support reached out to tell me my storage had been increased by another 25TB and the freeze warning was shut off. I'd like to think this was just their process and not the result of my article, but we'll never know. 
 
 Nonetheless, needing 10TB+ more storage every year clearly isn't sustainable, so I'm going to audit my backup use and see if there's any way I can reduce my overall storage footprint.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What I'm going to do about it 
 
@@ -167,6 +183,10 @@ Screenshot by David Gewirtz/ZDNET
 My current plan is to delete the entire Cloud Backup directory. Although I have no way of knowing how much is stored there until I delete it, I'm guessing it's probably roughly half of the overall storage footprint. I'm still backing up, in that I have mirrors of the local servers. The only thing I won't have is the ability to roll back a backup and recover older, lost data. 
 
 That's certainly not ideal, but faced with the choice of having my entire Google infrastructure frozen on August 26, or giving up on backup rollbacks, I guess I'll give up on backup rollbacks. I still have all my local backups. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  My one remaining worry and thoughts about what this all means 
 
@@ -209,11 +229,28 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-excellent-tech-for-premium-4k-editors-for-2024/"><u>[New] Excellent Tech for Premium 4K Editors for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-key-elements-to-successful-mobile-app-design/"><u>[New] Key Elements to Successful Mobile App Design</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-guide-to-bordering-instagram-footage-for-2024/"><u>[Updated] Step-by-Step Guide to Bordering Instagram Footage for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/download-the-latest-dj-and-video-editing-tool-dextrose-36-beta-release-now-live/"><u>Download the Latest DJ & Video Editing Tool: Dextrose 3.6 Beta Release Now Live!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-online-experience-with-cookiebot-technology/"><u>Enhancing Online Experience with Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertise-en-efficacite-des-transports-comment-accelerer-vos-processus-avec-notre-chef-lieu-checklist/"><u>Expertise en Efficacité Des Transports : Comment Accélérer Vos Processus Avec Notre Chef-Lieu Checklist !</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/filmmaking-bliss-top-10-aspects-of-filmora-editing-for-2024/"><u>Filmmaking Bliss Top 10 Aspects of Filmora Editing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harness-the-power-of-cookiebot-for-superior-website-insights-and-conversions/"><u>Harness the Power of Cookiebot for Superior Website Insights & Conversions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-the-power-of-cookiebot-for-superior-site-engagement/"><u>Harnessing the Power of Cookiebot for Superior Site Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-minimize-insurance-scams-and-surpass-client-satisfaction/"><u>How to Minimize Insurance Scams & Surpass Client Satisfaction</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x-flip-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo X Flip Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/join-us-for-an-exciting-showcase-of-abbyy-technologies-at-ai-pulse-developers-conference-2024/"><u>Join Us for an Exciting Showcase of ABBYY Technologies at AI Pulse Developers Conference 2024!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-sound-selection-optimal-websites-list-for-2024/"><u>Premium Sound Selection Optimal Websites List for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-hardware-review-the-definitive-guide/"><u>Tom's Hardware Review: The Definitive Guide</u></a></li>
+</ul></div>
+
