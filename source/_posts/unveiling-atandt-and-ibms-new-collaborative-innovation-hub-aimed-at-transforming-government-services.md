@@ -1,7 +1,7 @@
 ---
 title: Unveiling AT&T & IBM's New Collaborative Innovation Hub Aimed at Transforming Government Services
-date: 2024-09-17 22:11:38
-updated: 2024-09-20 12:45:25
+date: 2024-12-14T22:21:53.509Z
+updated: 2024-12-21T03:02:47.392Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ AT&T and IBM [launched the collaboration](https://www.zdnet.com/article/ibm-form
 "One of the challenges that enterprises have to face when you think about 5G, cloud and edge computing is that it's accelerating pretty fast," William Stovall, AT&T's VP of mobility & IoT, said to _ZDNet_. "The challenge is, how do I undertake this, and how do I put it into practice. So to give enterprise customers a vehicle to see it in the works, and to have the opportunity to co-create, is a benefit that allows them a better roadmap to actually deploy these technologies."
 
 The co-innovation labs are designed to serve a range of industries, with clear use cases in areas like manufacturing and health care. The public sector has a number of compelling use cases, like delivering 5G-enabled communication services to first responders, or providing AR/VR environments to the military. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### MWC 2022
 
@@ -56,11 +60,29 @@ The opening of the new simulation lab will be particularly timely, given the imp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-future-in-focus-premium-360-degree-professionals-cameras-2023/"><u>[New] The Future in Focus Premium 360-Degree Professionals' Cameras, 2023</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-highest-resolution-elevating-quality-with-drone-edits/"><u>[New] The Highest Resolution Elevating Quality with Drone Edits</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-expert-techniques-for-capturing-and-recording-streamed-content/"><u>[Updated] In 2024, Expert Techniques for Capturing & Recording Streamed Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-comprehensive-guide-to-dji-phantom-3-testing/"><u>[Updated] The Comprehensive Guide to DJI Phantom 3 Testing</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-solving-the-issue-of-your-unresponsive-laptop-a-comprehensive-guide-by-yl-computing/"><u>1. Solving the Issue of Your Unresponsive Laptop: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1725287971474-dvddvd/"><u>無料DVD作成ソフトウェアを使って簡単なDVD編集方法：ビデオ映像の鮮明保存</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/216940-9781416503330-after-the-martian-apocalypse/"><u>After the Martian Apocalypse | Free Book</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-leveraging-alternative-footage-in-filmmaking/"><u>In 2024, Leveraging Alternative Footage in Filmmaking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-mastering-videos-with-vida/"><u>In 2024, The Ultimate Guide to Mastering Videos with Vida</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-cloud-picks-price-and-performance-comparison/"><u>In 2024, Top Cloud Picks Price & Performance Comparison</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-power-of-photos-a-comprehensive-polarr-guide/"><u>In 2024, Unveiling the Power of Photos A Comprehensive Polarr Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977053945-quick-downloads-of-the-latest-asus-monitor-drivers-get-set-up-effortlessly/"><u>Quick Downloads of the Latest ASUS Monitor Drivers - Get Set Up Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-path-to-crafting-killer-podcast-names-plus-inspiration-sparks-for-2024/"><u>The Ultimate Path to Crafting Killer Podcast Names, Plus Inspiration Sparks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-accessory-hits-for-sj-series-drivers-for-2024/"><u>Top 10 Accessory Hits for SJ-Series Drivers for 2024</u></a></li>
+</ul></div>
+

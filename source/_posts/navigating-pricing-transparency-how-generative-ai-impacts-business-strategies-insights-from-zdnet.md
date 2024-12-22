@@ -1,7 +1,7 @@
 ---
 title: "Navigating Pricing Transparency: How Generative AI Impacts Business Strategies - Insights From ZDNet"
-date: 2024-09-18 14:24:14
-updated: 2024-09-20 11:44:54
+date: 2024-12-14T04:30:45.092Z
+updated: 2024-12-20T18:21:06.454Z
 tags:
   - cloud
 categories:
@@ -65,6 +65,10 @@ This is an issue that companies will need to be cautious about or costs can esca
 
 It also means organizations have to map out the processes, including data availability, needed to run a query and achieve the desired outcome, so they can measure the cost of applying generative AI to the use case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Letting customers create their own prompts
 
 Salesforce this week previewed new generative AI offerings that its executives said would enable enterprise customers to more easily customize these tools to support their operations. 
@@ -126,11 +130,25 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Dreamforce 2023 in San Fr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-ornate-asian-dwellings-for-your-next-build-off/"><u>[New] 2024 Approved Ornate Asian Dwellings for Your Next Build-Off</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-budget-needs-of-making-a-melody-on-screen/"><u>[New] Exploring the Budget Needs of Making a Melody on Screen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-masterclass-in-youtube-video-previews-and-trailers/"><u>[New] Masterclass in YouTube Video Previews and Trailers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-8-pioneering-exercise-videos-to-keep-your-viewers-active/"><u>[Updated] In 2024, 8 Pioneering Exercise Videos To Keep Your Viewers Active</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-visual-impact-techniques-for-ai-text-depth/"><u>[Updated] Unleashing Visual Impact Techniques for AI Text Depth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-still-faces-picsarts-motion-blur-magic/"><u>2024 Approved Transforming Still Faces Picsart's Motion Blur Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-potential-master-dvd-burning-with-your-mac/"><u>2024 Approved Unlocking Potential Master DVD Burning with Your Mac</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-a-personalized-facebook-profile-photo/"><u>Crafting a Personalized Facebook Profile Photo</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-distinction-between-fords-new-infotainment-os-and-established-competitors-like-android-auto-and-apple-carplay/"><u>Exploring the Distinction Between Ford's New Infotainment OS and Established Competitors Like Android Auto & Apple CarPlay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smooth-start-gradual-appearance-for-2024/"><u>Smooth Start Gradual Appearance for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-to-the-onyx-boox-note-air3-c-e-ink-tablet-a-revolutionary-way-to-jot-down-notes-in-color/"><u>Ultimate Guide to the Onyx Boox Note Air3 C E-Ink Tablet: A Revolutionary Way to Jot Down Notes in Color</u></a></li>
+</ul></div>
+

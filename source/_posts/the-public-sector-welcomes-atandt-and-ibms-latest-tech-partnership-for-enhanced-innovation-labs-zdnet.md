@@ -1,7 +1,7 @@
 ---
 title: The Public Sector Welcomes AT&T & IBM's Latest Tech Partnership for Enhanced Innovation Labs - ZDNet
-date: 2024-09-17 23:37:47
-updated: 2024-09-20 11:53:48
+date: 2024-12-20T02:05:42.171Z
+updated: 2024-12-21T04:31:49.838Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ AT&T and IBM [launched the collaboration](https://www.zdnet.com/article/ibm-form
 "One of the challenges that enterprises have to face when you think about 5G, cloud and edge computing is that it's accelerating pretty fast," William Stovall, AT&T's VP of mobility & IoT, said to _ZDNet_. "The challenge is, how do I undertake this, and how do I put it into practice. So to give enterprise customers a vehicle to see it in the works, and to have the opportunity to co-create, is a benefit that allows them a better roadmap to actually deploy these technologies."
 
 The co-innovation labs are designed to serve a range of industries, with clear use cases in areas like manufacturing and health care. The public sector has a number of compelling use cases, like delivering 5G-enabled communication services to first responders, or providing AR/VR environments to the military. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### MWC 2022
 
@@ -56,11 +60,31 @@ The opening of the new simulation lab will be particularly timely, given the imp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-capture-in-action-detailed-analysis-of-apowersoft-on-pcs-for-2024/"><u>[New] Capture in Action Detailed Analysis of Apowersoft on PCs for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-set-new-save-directory-for-mac-snapshots/"><u>[New] Set New Save Directory for Mac Snapshots</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-how-to-leverage-slug-lines-in-articles/"><u>[Updated] In 2024, How to Leverage Slug Lines in Articles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-audio-podcasts-made-easy-for-iphones/"><u>[Updated] Streamline Audio Podcasts Made Easy for iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-memory-management-via-mematic/"><u>[Updated] Streamline Memory Management via Mematic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-screenshot-enhancers-ios-and-android-sticker-edition/"><u>[Updated] Top 10 Screenshot Enhancers IOS & Android Sticker Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-color-spaces-srgb-vs-rgb/"><u>[Updated] Understanding Color Spaces Srgb vs Rgb</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-time-lapse-photography-with-gopro-software/"><u>2024 Approved Streamlining Time-Lapse Photography with GoPro Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-podcast-rankings-seo-techniques-uncovered/"><u>2024 Approved Ultimate Podcast Rankings SEO Techniques Uncovered</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-vr-on-the-go-smartphones-top-10-choices/"><u>2024 Approved VR on the Go Smartphones' Top 10 Choices</u></a></li>
+<li><a href="https://win-web.techidaily.com/guide-to-duplicating-disk-space-in-various-windows-server-editions-2003-2022-without-reinstallation/"><u>Guide to Duplicating Disk Space in Various Windows Server Editions (2003-2022 Without Reinstallation)</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-access-a-dat-file-a-comprehensive-guide-for-windows-and-mac-users/"><u>How to Access a DAT File: A Comprehensive Guide for Windows & Mac Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-infinix-note-30-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Infinix Note 30 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-framework-for-fullscreen-proficiency-in-premiere/"><u>In 2024, The Ultimate Framework for Fullscreen Proficiency in Premiere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-6-tools-for-audiovisual-interpretation-for-2024/"><u>Ultimate 6 Tools for Audio/Visual Interpretation for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-comparison-pros-pick-for-leading-2024-keyboards-as-tested-by-professionals-reviews/"><u>Ultimate Comparison: Pro's Pick for Leading 2024 Keyboards as Tested by Professionals Reviews</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/videotweeteraudio-quick-audio-extractor/"><u>VideoTweeterAudio Quick Audio Extractor</u></a></li>
+</ul></div>
+

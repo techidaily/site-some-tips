@@ -1,7 +1,7 @@
 ---
 title: The Unspoken Disappointment of Switching to iPhone OS iOS 18 - You're Not the Only One Feeling This Way!
-date: 2024-12-10T19:09:54.564Z
-updated: 2024-12-12T16:17:00.053Z
+date: 2024-12-20T02:05:58.136Z
+updated: 2024-12-21T03:17:09.599Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,19 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-easily-erase-identity-blurring-techniques-in-videos/"><u>[New] In 2024, Easily Erase Identity Blurring Techniques in Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-professional-tips-sharpen-and-brighten-your-iphones-hdri-in-adobe-premiere-pro-for-2024/"><u>[Updated] [Professional Tips] Sharpen and Brighten Your iPhone's HDRI in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-download-twitters-livestreams-and-save-as-mp3-for-2024/"><u>[Updated] Download Twitter's Livestreams and Save as MP3 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigating-the-best-airdate-strategy/"><u>[Updated] In 2024, Navigating the Best Airdate Strategy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-authoritative-periscope-users-bible/"><u>2024 Approved The Authoritative Periscope User's Bible</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fade-to-black-in-premiere-pro-for-2024/"><u>Fade To Black In Premiere Pro for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/grab-speech-file-and-review/"><u>Grab Speech File & Review</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-htc-u23-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from HTC U23 to Another | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-scope-of-motion-tracking-from-simple-to-complex/"><u>In 2024, The Scope of Motion Tracking From Simple to Complex</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>In 2024, The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/sonic-sleuths-den-acquire-and-scrutinize-audio-files-for-2024/"><u>Sonic Sleuths' Den Acquire & Scrutinize Audio Files for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/streamline-your-library-spiegel-to-video-converter-for-mp4-mov-avi-formats/"><u>Streamline Your Library: Spiegel-to-Video Converter for MP4, MOV, AVI Formats</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-tutorial-adding-whimsy-with-snapchat-cartoons-for-2024/"><u>The Ultimate Tutorial Adding Whimsy with Snapchat Cartoons for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-compendium-of-selecting-premium-audio-formats-for-2024/"><u>Updated The Ultimate Compendium of Selecting Premium Audio Formats for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-infusing-vitality-into-text-an-animated-adventure/"><u>[New] In 2024, Infusing Vitality Into Text An Animated Adventure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-huawei-p10-performance-metrics/"><u>[New] The Ultimate Guide to Huawei P10 Performance Metrics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe/"><u>[New] Tips and Tricks for Streamlining Color Grading with LUTs in Adobe</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-video-perfection-streamlined-subtitlecc-implementation-on-youtube/"><u>[New] Video Perfection Streamlined Subtitle/CC Implementation on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-premier-selection-top-8-fb-film-extractors/"><u>[Updated] 2024 Approved The Premier Selection Top 8 FB Film Extractors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-10-facelift-tech-for-iphones-and-android-phones/"><u>[Updated] Best 10 Facelift Tech for iPhones and Android Phones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-frameinspector-appraisal-suite/"><u>[Updated] In 2024, FrameInspector Appraisal Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-prime-image-hoarders-destination-list/"><u>[Updated] Prime Image Hoarders' Destination List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x/"><u>[Updated] Unveiling Mastery The Ultimate Animoji Guide for iPhone X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-finest-selection-of-economical-free-lut-tools/"><u>[Updated] Unveiling the Finest Selection of Economical, Free LUT Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/create-quality-dvds-with-winx-dvd-author-user-friendly-hd-content-dvd-burner-for-pc-users-on-windows-1011-free-download/"><u>Create Quality DVDs with WinX DVD Author: User-Friendly HD Content DVD Burner for PC Users on Windows 10/11, Free Download</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/enhancing-customer-engagement-with-snapchat-tactics/"><u>Enhancing Customer Engagement with Snapchat Tactics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-most-reliable-gopro-cases-1-10-showdown/"><u>The Most Reliable GoPro Cases - #1-10 Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-writers-journey-through-podcast-production-for-2024/"><u>The Writer's Journey Through Podcast Production for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-iphone-users-converting-standard-speed-to-slow-scenes-for-2024/"><u>Tips for iPhone Users Converting Standard Speed to Slow Scenes for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/title-elevate-your-gaming-with-the-asus-rog-strix-xg27acs-a-review-of-its-dynamic-qhd-display-and-robust-accuracy/"><u>Title: Elevate Your Gaming with the Asus ROG Strix XG27ACS: A Review of Its Dynamic QHD Display and Robust Accuracy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-traffic-cams-for-superior-vehicle-tracking-for-2024/"><u>Top 10 Traffic Cams for Superior Vehicle Tracking for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-viewership-elevate-your-live-stream-game-with-just-a-few-supporters-for-2024/"><u>Transform Viewership Elevate Your Live Stream Game with Just a Few Supporters for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-apple-watch-sync-errors-addressing-unrecognized-activity-detection/"><u>Troubleshooting Apple Watch Sync Errors: Addressing Unrecognized Activity Detection</u></a></li>
 </ul></div>
 

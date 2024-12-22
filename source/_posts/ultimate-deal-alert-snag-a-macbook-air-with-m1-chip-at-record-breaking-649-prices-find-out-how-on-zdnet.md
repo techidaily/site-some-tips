@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Deal Alert: Snag a MacBook Air with M1 Chip at Record-Breaking $649 Prices – Find Out How on ZDNet!"
-date: 2024-12-09T19:31:31.395Z
-updated: 2024-12-12T16:16:01.467Z
+date: 2024-12-18T00:30:23.643Z
+updated: 2024-12-20T23:29:45.971Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,20 +81,24 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ey-factors-in-understanding-youtube-tv-experience/"><u>[New] Key Factors in Understanding YouTube TV Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleash-your-contents-potential-for-1m-views-on-youtube/"><u>[New] Unleash Your Content's Potential for 1M Views on YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-10-best-webcam-recorders-windows-11-for-2024/"><u>[Updated] 10 Best Webcam Recorders Windows 11 for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-capturing-seconds-at-a-time-the-art-of-phantom-slow-motion/"><u>[Updated] 2024 Approved Capturing Seconds at a Time The Art of Phantom Slow Motion</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-visual-virtuosity-mastering-the-craft-of-photographic-enhancement/"><u>[Updated] 2024 Approved Visual Virtuosity Mastering the Craft of Photographic Enhancement</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-quick-paced-fortnite-visual-artistry/"><u>[Updated] Quick-Paced Fortnite Visual Artistry</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-camera-guide-2024s-premium-choices/"><u>[Updated] Ultimate Camera Guide 2024'S Premium Choices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-6-tools-for-video-language-shift/"><u>2024 Approved Superior 6 Tools for Video Language Shift</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-science-of-sensor-based-hands-monitoring/"><u>2024 Approved The Science of Sensor-Based Hands Monitoring</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-you-control-your-ps4-with-ps5-controller/"><u>Can You Control Your PS4 with PS5 Controller?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-reclaiming-gone-reddit-content-a-time-saving-guide/"><u>In 2024, Reclaiming Gone-Reddit Content A Time-Saving Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-scoop-apples-rumored-touchscreen-macbook-release-date-speculations-price-guesswork-and-detailed-hardware-info/"><u>Inside Scoop: Apple's Rumored Touchscreen MacBook - Release Date Speculations, Price Guesswork, and Detailed Hardware Info</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlining-zoom-features-on-your-chromebook-for-2024/"><u>Streamlining Zoom Features on Your Chromebook for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-vectors-alternatives-to-the-classic-acid-pro-for-2024/"><u>Top Vectors Alternatives to the Classic ACID Pro for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-the-latest-version-of-the-iconic-ipad/"><u>What to Expect From the Latest Version of the Iconic iPad?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-breaking-boundaries-top-6-artists-leading-nft-frontier/"><u>[Updated] In 2024, Breaking Boundaries Top 6 Artists Leading NFT Frontier</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tailoring-your-multi-task-experience-safe-area-and-pip-settings/"><u>[Updated] Tailoring Your Multi-Task Experience Safe Area & PIP Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-subtle-soundplayback/"><u>[Updated] The Art of Subtle Soundplayback</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-personalized-phone-tones-for-android-users/"><u>[Updated] The Ultimate Guide to Personalized Phone Tones for Android Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-securing-and-optimizing-virtual-meetings-with-zoom-on-windows-11/"><u>2024 Approved Securing and Optimizing Virtual Meetings with Zoom on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-finest-4-sites-for-tones/"><u>2024 Approved Unveiling the Finest 4 Sites for Tones</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-a2-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo A2 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-non-responsive-microsoft-word-files-tips-and-solutions/"><u>Dealing with Non-Responsive Microsoft Word Files: Tips and Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-laserjet-pro-m428fdw-printer-drivers-compatible-with-windows-10-11-and-7/"><u>Download HP LaserJet Pro M428fdw Printer Drivers: Compatible with Windows 10, 11 & 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-laptops-malfunctioning-microphone-step-by-step-guide/"><u>Fixing Your Laptop's Malfunctioning Microphone - Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-guide-for-downloading-and-updating-amd-smbus-drivers/"><u>Hassle-Free Guide for Downloading and Updating AMD SMBus Drivers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-initiate-internet-income-low-cost-youtube-channel-buys/"><u>In 2024, Initiate Internet Income Low-Cost YouTube Channel Buys</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-solution-for-stopping-youtube-video-previews/"><u>In 2024, The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
+<li><a href="https://win-latest.techidaily.com/protecting-information-integrity-comprehensive-instructions-for-pre-factory-reset-system-backups-on-computers/"><u>Protecting Information Integrity: Comprehensive Instructions for Pre-Factory Reset System Backups on Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-restore-functionality-of-a-defective-headset-mic/"><u>Quick Fixes to Restore Functionality of a Defective Headset Mic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers-for-2024/"><u>Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-top-tales-youtubes-best-narrative-channels-this-year-for-2024/"><u>The Top Tales YouTube’s Best Narrative Channels This Year for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-invisible-social-signals-in-online-media-for-2024/"><u>Understanding Invisible Social Signals in Online Media for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/value-capture-affordable-cam-options-for-2024/"><u>Value Capture Affordable Cam Options for 2024</u></a></li>
 </ul></div>
 

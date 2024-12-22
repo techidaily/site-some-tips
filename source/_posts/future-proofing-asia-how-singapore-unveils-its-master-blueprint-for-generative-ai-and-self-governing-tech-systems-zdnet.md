@@ -1,7 +1,7 @@
 ---
 title: "Future-Proofing Asia: How Singapore Unveils Its Master Blueprint for Generative AI and Self-Governing Tech Systems | ZDNet"
-date: 2024-09-18 23:21:42
-updated: 2024-09-20 11:20:43
+date: 2024-12-15T01:14:46.882Z
+updated: 2024-12-21T03:37:20.209Z
 tags:
   - cloud
 categories:
@@ -43,6 +43,10 @@ There also will be initiatives in other nascent areas, such as quantum computing
 
 The government agency said plans are in place to [pilot quantum-safe networks](https://www.zdnet.com/article/singapore-to-build-quantum-safe-network-for-critical-infrastructure-trials/) and quantum-as-a-service applications for commercial customers. "Known as the National Quantum Safe Network Plus (NQSN+), this will allow us to test, innovate and push the boundaries on both technical and commercial deployments," it said. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Launch of innovation center with AWS
 
 IMDA on Monday also announced its partnership with Amazon Web Services (AWS) through the launch of a joint innovation center. Pitched as a launchpad for businesses and startups in Southeast Asia, the new site houses various specialized labs, including 5G as well as augmented and virtual reality. It also has usability-testing facilities. 
@@ -76,11 +80,33 @@ Companies can use the center to develop proof-of-concepts in a sandbox environme
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-facetime-capturing-conversations-live/"><u>[New] 2024 Approved Mastering FaceTime Capturing Conversations Live</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-when-youre-not-who-you-think-during-a-facebook-call/"><u>[New] 2024 Approved When You're Not Who You Think During a Facebook Call</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-excellence-in-dialogue-maker-land/"><u>[New] In 2024, Excellence in Dialogue Maker Land</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-streamers-guide-to-selecting-a-peak-provider/"><u>[New] The Ultimate Streamer's Guide to Selecting a Peak Provider</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-upholders-of-popularity-the-10-most-loved-reddit-stories/"><u>[New] Upholders of Popularity The 10 Most Loved Reddit Stories</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-capturing-the-ultimate-xbox-experience-a-screen-recorders-manual/"><u>[Updated] 2024 Approved Capturing the Ultimate Xbox Experience A Screen Recorder's Manual</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-pixelated-persistence-selecting-the-ultimate-cam-for-extended-shots-for-2024/"><u>[Updated] Pixelated Persistence Selecting the Ultimate Cam for Extended Shots for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-gradual-mix-adjustments-in-pro-tools/"><u>[Updated] Techniques for Gradual Mix Adjustments in Pro Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-srt-download-blueprint-from-youtube/"><u>[Updated] The Ultimate SRT Download Blueprint From YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-art-of-fiction-creation/"><u>[Updated] Understanding the Art of Fiction Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-reddit-potentials-stepwise-procedures-for-sharing/"><u>[Updated] Unlock Reddit Potentials Stepwise Procedures for Sharing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gb-required-for-one-full-movie-hour-by-hour/"><u>2024 Approved GB Required for One Full Movie, Hour by Hour</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-solutions-getting-your-humankind-game-to-launch-successfully/"><u>DIY Solutions: Getting Your Humankind Game to Launch Successfully</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/earn-through-engagement-securing-youtube-partnership-membership-for-2024/"><u>Earn Through Engagement Securing YouTube Partnership Membership for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-windows-10s-full-potential-with-zoom-services/"><u>In 2024, Unveiling Windows 10'S Full Potential with Zoom Services</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/outstanding-movies-beyond-the-leading-titles-for-2024/"><u>Outstanding Movies Beyond the Leading Titles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-capturing-attention-top-6-videos-to-watch-for-2024/"><u>The Art of Capturing Attention Top 6 Videos to Watch for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-edits-bottom-line-pro-guide-to-tiktok-creativity-for-2024/"><u>Top Edits, Bottom Line Pro Guide to TikTok Creativity for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-14-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 14 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+</ul></div>
+

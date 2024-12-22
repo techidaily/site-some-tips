@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Deal-Making in Today’s Highly Competitive Cloud Market: Strategies From ZDNet"
-date: 2024-09-18 17:34:53
-updated: 2024-09-20 10:29:14
+date: 2024-12-15T19:07:02.188Z
+updated: 2024-12-20T23:49:05.904Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Photo: Joe McKendrick
 Last month, it was [disclosed](https://www.nextgov.com/emerging-tech/2022/04/nsa-re-awards-secret-10-billion-contract-amazon/366184/) that the National Security Agency re-awarded a massive and hotly contested cloud computing contract worth up to $10 billion to Amazon Web Services. 
 
 One can assume a large government agency procuring $10 billion of cloud services has quite a bit of leverage over the terms of the agreement. However, for mainstream companies, the opposite may be true -- the cloud provider holds many of the cards, in a legal or contractual sense, with terms that may come back to bite the consumer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -59,11 +63,27 @@ Cloud engagements are now the lifeblood of forward-looking enterprises seeking t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-conveniently-connect-with-others-via-your-playlist-for-2024/"><u>[New] Conveniently Connect with Others via Your Playlist for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-from-base-to-brilliance-comparing-gopro-hero5-black-and-hero4-silver-for-2024/"><u>[New] From Base to Brilliance Comparing GoPro Hero5 Black and Hero4 Silver for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-detecting-instagram-disconnections-fast/"><u>[New] In 2024, Detecting Instagram Disconnections Fast</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-monetary-mastery-for-your-social-media-channel-fb-video-wisdom/"><u>[New] In 2024, Monetary Mastery for Your Social Media Channel FB Video Wisdom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-modern-techniques-for-gesture-interpretation/"><u>[New] Unveiling Modern Techniques for Gesture Interpretation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-next-gen-photography-unveiling-auto-and-smart-hdr-features-for-2024/"><u>[Updated] Next-Gen Photography Unveiling Auto and Smart HDR Features for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-insiders-handbook-acquiring-high-quality-cost-free-images/"><u>[Updated] The Insider's Handbook Acquiring High-Quality, Cost-Free Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transitioning-shadows-a-minute-later/"><u>[Updated] Transitioning Shadows A Minute Later</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-mobile-image-editing-tools-top-10-overlay-app-list/"><u>2024 Approved Free Mobile Image Editing Tools - Top 10 Overlay App List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/copyright-free-audio-treasury-for-gamers-online/"><u>Copyright-Free Audio Treasury for Gamers Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-pc-audio-with-simple-techniques/"><u>In 2024, Streamline Your PC Audio with Simple Techniques</u></a></li>
+<li><a href="https://app-tips.techidaily.com/streamlining-linux-and-oss-guidebooks-the-ultimate-strategy-revealed-by-zdnet/"><u>Streamlining Linux & OSS Guidebooks: The Ultimate Strategy Revealed by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-decreasing-sounds-prominence-in-lumafusion-for-2024/"><u>The Ultimate Guide to Decreasing Sounds' Prominence in Lumafusion for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Power of Edge Computing and Cloud Integration: A Case Study on Transforming Large-Scale Retail Operations | Industry Pioneers"
-date: 2024-09-18 19:34:46
-updated: 2024-09-20 12:47:59
+date: 2024-12-14T01:52:29.793Z
+updated: 2024-12-20T20:59:46.596Z
 tags:
   - cloud
 categories:
@@ -95,6 +95,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F&title= "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F "Twitter") 
@@ -104,6 +108,10 @@ Direct LinkEmbed Code
 Close Modal Dialog
 
 Digital transformation as a business priority has been the theme of the past decade. But in the early 2020s, in response to the global COVID-19 pandemic, [digital transformation](https://www.zdnet.com/article/what-is-digital-transformation-everything-you-need-to-know-about-how-technology-is-reshaping/) was boosted into overdrive. Businesses that were on a five or even a ten-year transformation roadmap were suddenly attempting to make radical changes in five to ten weeks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -129,6 +137,10 @@ On a global level, the retailer needs to track supply chain issues worldwide, an
 
 By combining API access and microservices with big data and real-time analytics, Home-by-Home and its suppliers can account for the constantly shifting terrain of international supply and demand, and change vendors, orders, and promotions to suit as-it's-happening availability and logistics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Digital transformation: Trends and insights for success Digital transformation projects are about driving fundamental change across customer experience, tech and business culture. This ZDNet special report brings you the latest trends and insights you need to succeed.  Read now](https://www.zdnet.com/topic/digital-transformation-trends-and-insights-for-success/)
@@ -144,6 +156,10 @@ The company has a comprehensive e-commerce offering through desktop browsers and
 Since 2000, Home-by-Home has been converting larger stores into dual-purpose facilities, using them for customer visits during the day and as e-commerce fulfillment warehouses after closing hours. The company has added autonomous pick-and-pack robots for the overnight shift, leading to even more reliance on real-time inventory management, cameras, and AI. All of these improvements have allowed the company to deliver heavier and more commonly ordered goods directly to local-to-store consumers while cutting down the wait time and shipping costs considerably. Central warehouses responding to e-commerce orders still stock another few hundred thousand more obscure SKUs that are shipped via the package delivery services.
 
 Earlier this year, Home-by-Home acquired a competitor with 450 stores and has begun a considerable migration effort to move them from old point-of-sale systems and central siloed databases to the edge-to-cloud digital transformation that's actively in practice throughout Home-by-Home's operations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## End-to-end integration across all stores and vendors
 
@@ -170,6 +186,10 @@ Dynamic provisioning and on-demand infrastructure from edge to cloud is key to i
 
 Seasonal surges are also accommodated, allowing the company to add about 30% additional IT infrastructure resources for the critical home improvement seasons, but then scale back down and reduce spending during the months when consumers are focused on other interests.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edge-to-cloud platforms
 
 HPE GreenLake is an example of one of the companies that offers edge-to-cloud services that bring the centralized dashboard, on-demand provisioning, and pay-as-you-go benefits of public cloud infrastructure to on-premises computing and edge computing installations. This is what a company like Home-by-Home needs to be able to begin provisioning the services for its new acquisition immediately. There is no order-and-wait period for new configurations. 
@@ -186,11 +206,30 @@ Edge-to-cloud platforms help aggregate entire solutions, providing the benefits 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-make-youtube-animated-subscribe-button-easily-in-filmora/"><u>[New] 2024 Approved How to Make YouTube Animated Subscribe Button Easily in Filmora</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-3-pro-level-plans-to-preserve-precise-gaming-moments/"><u>[New] 3 Pro-Level Plans to Preserve Precise Gaming Moments</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-behind-the-scenes-what-does-an-unlisted-video-mean-in-2024/"><u>[New] Behind the Scenes What Does an 'Unlisted' Video Mean, In 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-elevation-of-professional-display-an-in-depth-examination-of-the-bl2711u/"><u>[New] The Elevation of Professional Display An In-Depth Examination of the BL2711U</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-selection-of-top-5-best-android-photo-apps/"><u>[New] The Ultimate Selection of Top 5 Best Android Photo Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supreme-storytelling-spanning-eight-movie-types/"><u>[Updated] Supreme Storytelling Spanning Eight Movie Types</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-fisheye-camera-capabilities/"><u>2024 Approved The Ultimate Guide to Fisheye Camera Capabilities</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-complete-guide-to-understanding-and-utilizing-slug-lines/"><u>In 2024, A Complete Guide to Understanding and Utilizing Slug Lines</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-s-top-intro-design-tools-for-pc-a-comprehensive-review/"><u>In 2024, S Top Intro Design Tools for PC A Comprehensive Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-in-flight-djis-mavic-pro-breakdown/"><u>In 2024, The Future in Flight DJI's Mavic Pro Breakdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-creativity-essential-green-screen-techniques/"><u>In 2024, Unlock Creativity Essential Green Screen Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterful-examples-of-3d-font-art-available-from-these-9-web-destinations-for-2024/"><u>Masterful Examples of 3D Font Art Available From These 9 Web Destinations for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-high-def-monitor-list-top-10-picks-for-2024/"><u>The Ultimate High-Def Monitor List Top 10 Picks for 2024</u></a></li>
+</ul></div>
+

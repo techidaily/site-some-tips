@@ -1,7 +1,7 @@
 ---
 title: Upcoming Leadership Overhaul at Alibaba as Chief Exec Shifts Emphasis to Cloud Services, Reports ZDNET
-date: 2024-09-17 21:46:52
-updated: 2024-09-20 10:17:55
+date: 2024-12-15T01:27:20.292Z
+updated: 2024-12-20T17:59:27.745Z
 tags:
   - cloud
 categories:
@@ -72,11 +72,34 @@ In explaining the organizational restructure, Zhang previously said it would all
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-nikon-1j5-takes-video-to-the-next-level-with-its-4k-features/"><u>[New] 2024 Approved Nikon 1J5 Takes Video to the Next Level with Its 4K Features</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-beam-into-collaborative-spaces-within-tiktok-for-2024/"><u>[New] Beam Into Collaborative Spaces Within TikTok for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>2024 Approved Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-vegaspro-2019-update-changes-and-impacts/"><u>2024 Approved VegasPro 2019 Update Changes & Impacts</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elevating-impact-refined-techniques-in-ppt-presentation-speaking-for-2024/"><u>Elevating Impact Refined Techniques in PPT Presentation Speaking for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oppo-a1-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Oppo A1 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-master-the-art-of-trailer-creation-for-enhanced-income/"><u>In 2024, Master the Art of Trailer Creation for Enhanced Income</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solving-avi-and-mkv-format-flaws-on-all-oses/"><u>Solving AVI and MKV Format Flaws on All OSes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streaming-success-implementing-green-screen-innovations-for-2024/"><u>Streaming Success Implementing Green Screen Innovations for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailoring-humor-personalize-with-kinemaster-for-2024/"><u>Tailoring Humor Personalize with KineMaster for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techniques-for-smooth-audio-transitions-for-2024/"><u>Techniques for Smooth Audio Transitions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-compreayer-guide-to-iphone-hdr-mastery-for-2024/"><u>The Compreayer Guide to iPhone HDR Mastery for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices-for-2024/"><u>The Ultimate Blueprint Creating Exceptional Podcast Content on iDevices for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-gaming-written-by-katherine/"><u>Unleash Gaming' Written by Katherine</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unmarked-stock-a-beginners-guide-to-clear-content/"><u>Unmarked Stock A Beginner's Guide to Clear Content</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

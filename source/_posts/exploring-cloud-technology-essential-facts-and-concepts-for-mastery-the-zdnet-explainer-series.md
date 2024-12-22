@@ -1,7 +1,7 @@
 ---
 title: "Exploring Cloud Technology: Essential Facts and Concepts for Mastery – The ZDNet Explainer Series"
-date: 2024-09-17 20:39:36
-updated: 2024-09-20 12:13:27
+date: 2024-12-14T23:37:04.866Z
+updated: 2024-12-20T16:51:51.235Z
 tags:
   - cloud
 categories:
@@ -107,6 +107,10 @@ Close Modal Dialog
 
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does cloud computing work?
 
 Rather than owning their own computing infrastructure or data centres, companies can rent access to anything from applications to storage from a cloud service provider.
@@ -167,6 +171,10 @@ Canalys argues that there is already a new growth opportunity for cloud on the h
 
 Cloud computing can be broken down into a number of different constituent elements, focusing on different parts of the technology stack and different use cases. Let's take a look at some of the best known in a bit more detail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Infrastructure as a Service?
 
 Infrastructure as a Service (IaaS) refers to the fundamental building blocks of computing that can be rented: physical or virtual servers, storage and networking. This is attractive to companies that want to build applications from the very ground up and want to control nearly all the elements themselves, but it does require firms to have the technical skills to be able to orchestrate services at that level. 
@@ -182,6 +190,10 @@ Software as a Service (SaaS) is the delivery of applications as a service, proba
 SaaS is the largest chunk of cloud spending simply because the variety of applications delivered via SaaS is huge, from CRM such as Salesforce, through to Microsoft's Office 365\. And while the whole market is growing at a furious rate, it's the IaaS and PaaS segments that have consistently grown at much faster rates, according to analyst IDC: "This highlights the increasing reliance of enterprises on a cloud foundation built on cloud infrastructure, software-defined data, compute and governance solutions as a Service, and cloud-native platforms for application deployment for enterprise IT internal applications." IDC predicts that IaaS and PaaS will continue growing at a higher rate than the overall cloud market "as resilience, flexibility, and agility guide IT platform decisions".
 
 Image: IDC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is multi-cloud computing?
 
@@ -201,6 +213,10 @@ For a company with an application that has big peaks in usage, such as one that 
 
 * [Business continuity is the ultimate killer application for cloud](https://www.zdnet.com/article/cloud-computing-is-seen-as-disaster-proof/)
 * [It's official: Supercomputing is now ho-hum (thanks, cloud)](https://www.zdnet.com/article/its-official-supercomputing-is-now-ho-hum-thanks-cloud/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the advantages and disadvantages of cloud computing?
 
@@ -229,6 +245,10 @@ To build a [business case for moving systems to the cloud](https://www.zdnet.com
 * [Cloud computing: How to build a business case](https://www.zdnet.com/article/cloud-computing-how-to-build-a-business-case/)
 * [Cloud computing: What it's like to make the move](https://www.zdnet.com/article/cloud-computing-what-its-like-to-make-the-move/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cloud-computing adoption
 
 Analysts argue that as the cloud now underpins most new technological disruptions in everything from mobile banking to healthcare, usage is only going grow. It's hard to see many new technology projects being delivered that don't harness the cloud in some way. Gartner says that more than 85% of organizations will embrace a cloud-first principle by 2025 and will not be able to fully execute on their digital strategies without it. The analyst says new workloads deployed in a cloud-native environment will be pervasive, not just popular, and anything non-cloud will be considered legacy. By 2025, Gartner estimates that over 95% of new digital workloads will be deployed on cloud-native platforms, up from 30% in 2021.
@@ -255,6 +275,10 @@ Public cloud is the classic cloud-computing model, where users can access a larg
 
 Image: IDC
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is private cloud?
 
 Private cloud allows organizations to benefit from some of the advantages of public cloud – but without the concerns about relinquishing control over data and services, because it is tucked away behind the corporate firewall. Companies can control exactly where their data is being held and can build the infrastructure in a way they want – largely for IaaS or PaaS projects – to give developers access to a pool of computing power that scales on-demand without putting security at risk. However, that additional security comes at a cost, as few companies will have the scale of AWS, Microsoft or Google, which means they will not be able to create the same economies of scale. Still, for companies that require additional security, private cloud might be a useful stepping stone, helping them to understand cloud services or rebuild internal applications for the cloud, before shifting them into the public cloud.
@@ -278,6 +302,10 @@ Beyond this, the majority also remained worried about the performance of critica
 * [Cloud computing migration: More expensive and complicated than you thought](https://www.zdnet.com/article/cloud-computing-migration-more-expensive-and-complicated-than-you-thought/)
 * [Technology migrations are more painful, and cloud isn't making them any easier](https://www.zdnet.com/article/technology-migrations-are-more-painful-and-cloud-isnt-making-them-any-easier/)
 * [Where does the NAS fit in an increasingly cloud-centric world?](https://www.zdnet.com/article/where-does-the-nas-fit-in-an-increasingly-cloud-centric-world-small-business/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is geography irrelevant when it comes to cloud computing?
 
@@ -310,9 +338,17 @@ When it comes to IaaS and PaaS, there are really only a few giant cloud provider
 
 Image: Synergy Research
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AWS, Azure and Google Cloud – what's the difference?
 
 The big three cloud companies all have their own strengths. AWS is the most established player and was behind Amazon's ability to support huge seasonal swings in demand from consumers. Being first out to market with cloud services and pushing hard to gain market share has made it the market leader, and it continues to innovate. Microsoft's Azure has become an absolutely core part of Microsoft's strategy, and the company has the enterprise history and products to support businesses as they switch to the cloud. Google Cloud is the smallest of the big three players, but clearly has the might of the advertising-to-Android giant behind it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who are the other main cloud-computing players?
 
@@ -351,6 +387,10 @@ Cloud computing is gobbling up more of the services that power businesses. But, 
 
 Trying to understand and articulate the differences between public, private, and hybrid cloud? Here's a quick breakdown.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Read more on cloud computing
 
 * [Three smart cloud services that can help keep your business more secure](https://www.zdnet.com/article/three-smart-cloud-services-that-can-help-keep-your-business-more-secure/)
@@ -366,11 +406,28 @@ Trying to understand and articulate the differences between public, private, and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-peak-posts-on-reddit-honoring-10-highly-engaging-threads/"><u>[New] Peak Posts on Reddit Honoring 10 Highly Engaging Threads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-evaluation-of-hdr-quality-with-luminance/"><u>[New] The Evaluation of HDR Quality with Luminance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-the-hidden-potential-of-windows-11-with-these-tips/"><u>[New] Unlock the Hidden Potential of Windows 11 with These Tips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-reviving-relics-seamless-access-to-old-fb-narratives-on-tech/"><u>[Updated] 2024 Approved Reviving Relics Seamless Access to Old FB Narratives on Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-beginners-pathway-to-personalizing-your-game-voice-free-in-free-fire/"><u>2024 Approved The Beginner's Pathway to Personalizing Your Game Voice, FREE in Free Fire</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-y100-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y100 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-is-redefining-the-approach-to-writing-student-papers/"><u>How ChatGPT Is Redefining the Approach to Writing Student Papers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-narzo-n55-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme Narzo N55 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-4-places-to-download-skype-tones/"><u>In 2024, Top-Ranked 4 Places to Download Skype Tones</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-icue-when-your-computer-doesnt-recognize-hardware/"><u>Solution Steps for ICUE When Your Computer Doesn't Recognize Hardware</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mline-content-advanced-youtube-video-editing-strategies/"><u>Streamline Content Advanced Youtube Video Editing Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-turning-off-automatic-podcast-adds-on-spotify-for-2024/"><u>Tips for Turning Off Automatic Podcast Adds on Spotify for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/total-circles-capture-systems-for-2024/"><u>Total Circles Capture Systems for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-spotifys-advertising-opportunities-a-roadmap-for-2024/"><u>Unlocking Spotify’s Advertising Opportunities A Roadmap for 2024</u></a></li>
+</ul></div>
+

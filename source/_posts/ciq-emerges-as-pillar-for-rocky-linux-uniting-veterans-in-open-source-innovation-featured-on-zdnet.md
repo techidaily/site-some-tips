@@ -1,7 +1,7 @@
 ---
 title: CIQ Emerges as Pillar for Rocky Linux, Uniting Veterans in Open Source Innovation | Featured on ZDNET
-date: 2024-09-17 16:40:30
-updated: 2024-09-20 12:43:50
+date: 2024-12-16T03:30:24.496Z
+updated: 2024-12-21T05:10:04.439Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,23 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-live-broadcast-tech-for-industry-experts/"><u>[New] Top Live Broadcast Tech for Industry Experts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-explore-premium-free-online-tools-for-professional-video-tweaks/"><u>[Updated] 2024 Approved Explore Premium Free Online Tools for Professional Video Tweaks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-movies-into-virtual-reality-realms/"><u>[Updated] Transforming Movies Into Virtual Reality Realms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-and-utilizing-windows-11-auto-hdr-functionality/"><u>[Updated] Understanding and Utilizing Windows 11 Auto HDR Functionality</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210120828-9781476640211-back-to-human-nature/"><u>Back to Human Nature | Free Book</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-100-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor 100? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/secure-your-contents-identity-adding-logo-and-watermark-to-videos-for-2024/"><u>Secure Your Content's Identity Adding Logo and Watermark to Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailoring-text-features-in-ae-compositions-for-2024/"><u>Tailoring Text Features in AE Compositions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-8-virtual-reality-vr-gaming-accessories/"><u>Top 8 Virtual Reality (VR) Gaming Accessories</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Learning From the Paris Olympics for Sustainable Energy Strategies at Upcoming Games - ZDNet
-date: 2024-09-17 17:27:38
-updated: 2024-09-20 12:36:36
+date: 2024-12-14T16:17:46.481Z
+updated: 2024-12-20T16:25:04.922Z
 tags:
   - cloud
 categories:
@@ -88,11 +88,30 @@ Alibaba added that Content+ offers features that allow media rights-holders to g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-improve-viewability-master-the-art-of-adding-timestamps-to-youtube-urls/"><u>[New] 2024 Approved Improve Viewability Master the Art of Adding Timestamps to YouTube URLs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-best-editor-apps-to-polish-your-webcam-recordings/"><u>[New] Best Editor Apps to Polish Your Webcam Recordings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rofessional-3d-openers-a-comprehensive-guide-for-2024/"><u>[New] Professional 3D Openers A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>[New] The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-budget-friendly-cloud-service-providers/"><u>[New] Top 10 Budget-Friendly Cloud Service Providers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-speedy-pics-viewing-tool/"><u>[New] Ultimate Speedy Pics Viewing Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-10-online-subtitle-editors/"><u>2024 Approved The Best 10 Online Subtitle Editors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-stop-seeing-suggestions-for-you-when-using-instagram/"><u>How To Stop Seeing 'Suggestions For You' When Using Instagram</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-nokia-c12-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Nokia C12 Phone? Unlock It Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-30-pro-windows-10-secrets-revealed/"><u>In 2024, Top 30 Pro Windows 10 Secrets Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-creativity-the-top-10-after-effects-templates-for-2024/"><u>Unleashing Creativity The Top 10 After Effects Templates for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Artificer's Acumen: Microsoft Rolls Out Dual New Copilots Boosting AI Integration in Sales and Services | Explore on ZDNET"
-date: 2024-09-17 17:31:22
-updated: 2024-09-20 12:37:54
+date: 2024-12-16T21:55:06.895Z
+updated: 2024-12-20T17:32:04.990Z
 tags:
   - cloud
 categories:
@@ -88,11 +88,34 @@ Also at Ignite, Microsoft emphasized new computing infrastructure for its Azure 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-elite-gaming-spectacle-cut-to-best-7-shooters/"><u>[New] 2024 Approved Elite Gaming Spectacle Cut to Best 7 Shooters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-masterful-approaches-to-live-sports-video-capture/"><u>[New] 2024 Approved Masterful Approaches to Live Sports Video Capture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-engaging-youtube-channel-names-for-vlogger-success-no-more-than-156-for-2024/"><u>[New] Crafting Engaging YouTube Channel Names for Vlogger Success (No More Than 156) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-your-ar-experienenas-by-mastering-downloadable-color-lookups/"><u>[New] Elevate Your AR Experienenas by Mastering Downloadable Color Lookups</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-gradual-sound-escalation-auditions-guide-to-fades/"><u>[New] The Gradual Sound Escalation Audition’s Guide to Fades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-overview-dji-inspire-1-reviewed/"><u>[New] The Ultimate Overview DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-navigating-the-world-of-windows-11s-in-built-high-dynamic-range-feature-for-2024/"><u>[Updated] Navigating the World of Windows 11'S In-Built High Dynamic Range Feature for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-simplifycast-the-ultimate-guide-to-starting-your-podcast-livestream-for-2024/"><u>[Updated] SimplifyCast The Ultimate Guide to Starting Your Podcast Livestream for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-fundamentals-of-creating-breathtaking-canon-time-lapses/"><u>[Updated] The Fundamentals of Creating Breathtaking Canon Time-Lapses</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/6-most-used-4k-youtube-converters-to-compare/"><u>6 Most-Used 4K YouTube Converters to Compare</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/fast-frame-rates-and-uninterrupted-play-a-guide-to-fixing-lag-issues-in-warzone/"><u>Fast Frame Rates and Uninterrupted Play: A Guide to Fixing Lag Issues in Warzone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-innovate-your-mobile-photography-with-these-free-overlay-experts/"><u>In 2024, Innovate Your Mobile Photography with These Free Overlay Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-music-movement-between-services-for-2024/"><u>Streamline Your Music Movement Between Services for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/time-honored-tech-selfies-with-iphone-x-for-2024/"><u>Time-Honored Tech Selfies with iPhone X for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unrestricted-media-playback-free-on-windows-and-macos-for-2024/"><u>Unrestricted Media Playback FREE on Windows & MacOS for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/vintage-verve-a-list-of-ringtones-online/"><u>Vintage Verve A List of Ringtones Online</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

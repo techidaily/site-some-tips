@@ -1,7 +1,7 @@
 ---
 title: "Unleashing the Power of Learning: AWS Launches Four New Cloud Training Programs - ZDNet"
-date: 2024-09-19 18:21:44
-updated: 2024-09-20 10:10:59
+date: 2024-12-16T03:07:06.511Z
+updated: 2024-12-21T04:58:29.673Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/f946d84f254099655a6b886de29d65e5f587fa0ec
 AWS debuted four new initiatives in its ongoing goal to educate 29 million people on its cloud services platform by the end of 2025\. 
 
 First up, the company showed off its new AWS Skill Builder courses. This novel digital learning tool will be available to users in 200 countries and will provide more than 500 free, on-demand courses to start, with 60 more scheduled to be added this year. Content is available in 16 languages, with support for automatically generated recommendations from AWS on progression paths based around individualized job roles and technology areas. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### executive guide
 
@@ -50,11 +54,25 @@ Additional information about Amazon's aforementioned educational commitment is a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-boost-your-videos-with-these-youtube-seo-tools/"><u>[New] 2024 Approved Boost Your Videos With These YouTube SEO Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-simplified-methods-capturing-powerpoint-talks/"><u>[New] In 2024, Simplified Methods Capturing PowerPoint Talks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-leveraging-full-motion-video-on-iphones/"><u>[New] Leveraging Full Motion Video on iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-science-behind-time-warp-visuals/"><u>[New] The Science Behind Time Warp Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-childrens-drone-choices/"><u>[Updated] Ultimate Selection Children's Drone Choices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-redmi-k70-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a15-4g-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-update-essential-strategies-for-social-media-savvy/"><u>In 2024, Facebook Update Essential Strategies for Social Media Savvy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/premium-access-get-the-full-version-of-winx-mediatrans-for-ios-and-android/"><u>Premium Access: Get the Full Version of WinX MediaTrans for iOS and Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-tablet-charging-problems-what-if-the-device-says-fully-charged-but-wont-turn-on/"><u>Solving Tablet Charging Problems: What If the Device Says Fully Charged But Won't Turn On?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-crafting-impressive-android-time-lapses-2enas-for-2024/"><u>The Ultimate Guide to Crafting Impressive Android Time-Lapses (2Enas) for 2024</u></a></li>
+</ul></div>
+

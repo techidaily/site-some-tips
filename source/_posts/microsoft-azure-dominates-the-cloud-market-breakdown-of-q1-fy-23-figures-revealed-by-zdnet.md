@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Azure Dominates the Cloud Market: Breakdown of Q1 FY '23 Figures Revealed by ZDNet"
-date: 2024-09-18 19:22:26
-updated: 2024-09-20 12:55:30
+date: 2024-12-17T18:18:05.533Z
+updated: 2024-12-21T00:31:56.477Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/46ff833f8451570b0da1aae3b5e240178f5309a15
 Credit: ZDNET
 
 More than half of [Microsoft's $50.1 billion in revenues ($25.7 billion) for Q1 FY'23 came from the "Microsoft Cloud."](https://www.microsoft.com/en-us/investor/earnings/fy-2023-q1/press-release-webcast)But Wall Street wasn't happy with Azure's 35 percent growth, year-over-year for the quarter, nor for projections that Azure revenues will be down five points sequentially in Q2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Innovation
 
@@ -67,11 +71,29 @@ Microsoft made [some adjustments to the way it reports revenue in September](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2023-how-to-share-screen-on-facebook-live/"><u>[New] 2023 | How to Share Screen on Facebook Live?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-online-tv-downloading-a-complete-recording-blueprint/"><u>[New] 2024 Approved Online TV Downloading A Complete Recording Blueprint</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-conquer-snapchat-lens-design-two-easy-approaches/"><u>[New] In 2024, Conquer Snapchat Lens Design Two Easy Approaches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-toontech-full-evaluation-and-how-to-guide-24/"><u>[New] ToonTech Full Evaluation & How-To Guide '24</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-rated-budget-friendly-asmr-gear-for-superior-sound-quality/"><u>[New] Top-Rated Budget-Friendly ASMR Gear for Superior Sound Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-insiders-srt-primer-must-know-elements/"><u>[Updated] The Insider's SRT Primer Must-Know Elements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-limitless-creativity-with-free-after-effects-samples/"><u>[Updated] Unlock Limitless Creativity with Free After Effects Samples</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-techniques-for-blurring-and-excising-picture-borders/"><u>2024 Approved Techniques for Blurring and Excising Picture Borders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-soloists-path-to-trending-podcasts/"><u>2024 Approved The Soloist's Path to Trending Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-subtlety-in-sound-fading-out-effectively-in-logic-pro/"><u>In 2024, Subtlety In Sound Fading Out Effectively in Logic Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-honor-x9b-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Honor X9b Location | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-voyage-to-viral-fame-crafting-high-quality-content-as-a-travel-vlogger/"><u>In 2024, Voyage to Viral Fame Crafting High-Quality Content as a Travel Vlogger</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-com-surrogate-has-stopped-working/"><u>Solved: COM Surrogate Has Stopped Working</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-resource-asus-vg248qe-driver-updates-for-windows-hassle-free/"><u>Ultimate Resource: Asus VG248QE Driver Updates for Windows - Hassle-Free!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/why-instagrams-videos-are-tilted-a-bug-a-glitch-in-2024/"><u>Why Instagram's Videos Are Tilted - A Bug, a Glitch, In 2024</u></a></li>
+</ul></div>
+

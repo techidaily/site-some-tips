@@ -1,7 +1,7 @@
 ---
 title: "Protecting Confidential OneDrive Documents with a Private Vault: Tips and Tricks From ZDNet"
-date: 2024-09-17 23:25:45
-updated: 2024-09-20 12:39:52
+date: 2024-12-14T03:53:46.223Z
+updated: 2024-12-21T02:01:20.077Z
 tags:
   - cloud
 categories:
@@ -36,7 +36,15 @@ By default, the vault remains locked until you need it. You unlock it with whate
 
 To take full advantage of the Personal Vault, you need a [Microsoft 365 Family or Personal subscription](https://www.zdnet.com/article/microsoft-launches-defender-for-individuals-for-microsoft-365-personal-and-family-subscribers/). With either plan, you can add as many files to the vault as space allows. Without a Microsoft 365 plan, you can include only three files in your vault, which likely wouldn't do the trick for most people. Further, the Personal Vault is available only with the OneDrive personal app and not with OneDrive for Business. Otherwise, the vault works the same in Windows 10 and 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to secure your sensitive OneDrive files with a Personal Vault
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Protect your Microsoft account and OneDrive access
 
@@ -47,6 +55,10 @@ Turn on the Personal Vault.
 Screenshot by Lance Whitney/ZDNET
 
 **Also:** [**Multi-factor authentication: How to enable 2FA to step up your security**](https://www.zdnet.com/article/better-than-the-best-password-how-to-use-2fa-to-improve-your-security/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Right-click the OneDrive System Tray icon and select View online
 
@@ -90,6 +102,10 @@ Unlock your Personal Vault.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Confirm access with your authentication method
 
 The first time you do this, the Personal Vault has to configure a few settings. You're then prompted to confirm the access with your authentication method.
@@ -107,6 +123,10 @@ The Personal Vault folder pops up in File Explorer to display the folders and fi
 Lock your Personal Vault.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Move folders and files out of Personal Vault that no longer need extra security
 
@@ -146,11 +166,27 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ow-much-cash-can-you-score-for-watching-a-million-videos-in-2024/"><u>[New] How Much Cash Can You Score for Watching A Million Videos, In 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essentials-understanding-whatsapp-calls/"><u>[New] The Essentials Understanding WhatsApp Calls</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-facebooks-video-upload-avoid-frustration-ensure-success-for-2024/"><u>[Updated] Mastering Facebook's Video Upload Avoid Frustration, Ensure Success for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-apple-m1-breakdown-a-glimpse-into-the-future/"><u>[Updated] The Apple M1 Breakdown A Glimpse Into the Future</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-how-to-use-zoom-in-gmail-best-ways/"><u>2024 Approved How to Use Zoom in Gmail [Best Ways]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-spectacular-vision-immersive-movies/"><u>2024 Approved Spectacular Vision Immersive Movies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-role-of-burst-mode-in-action-sports-filming/"><u>2024 Approved The Role of Burst Mode in Action Sports Filming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-inshot-tips-import-music-into-videos-effortlessly/"><u>In 2024, InShot Tips Import Music Into Videos Effortlessly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-essential-tutorial-for-creating-a-biz-focused-instagram/"><u>In 2024, The Essential Tutorial for Creating a Biz-Focused Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-turning-onoff-picture-in-picture-for-maciosipad/"><u>In 2024, Turning On/Off Picture-in-Picture for Mac/iOS/iPad</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>New Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-powerhouses-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>The Digital Powerhouses: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>
+

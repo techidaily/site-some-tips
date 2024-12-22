@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Review: Top-Rated Apple's Own iPhone Case - A Test of Endurance & Innovative Protective Design"
-date: 2024-11-30T18:55:25.171Z
-updated: 2024-12-06T16:30:57.027Z
+date: 2024-12-17T19:41:38.964Z
+updated: 2024-12-21T03:35:42.890Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ When I upgraded to the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-
 [ZDNET RECOMMENDS Tech21 FlexPro Tech21's FlexPro is one of the most advanced cases on the market, combining sustainability with amazing impact protection, boasting an impressive 20ft FlexShock multi-drop feature. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tech 21 FlexPro features
@@ -90,7 +90,7 @@ This case can also take quite a beating. In the few months that I've owned the i
 For the record, I'm using a screen protector for added durability. I think this case is certainly one of the best I've tested in a long time, and the first in quite a while that I felt compelled to write about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,22 +129,18 @@ My testing suggests cases don't get much better than the [Tech 21's FlexPro](htt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-how-to-preserve-your-gameplay-for-future-replays-for-2024/"><u>[New] How to Preserve Your Gameplay for Future Replays for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-complete-manual-for-using-speech-recognition-in-google-documents/"><u>[New] The Complete Manual for Using Speech Recognition in Google Documents</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-comparison-vsdc-screen-recorder-vs-other-leading-solutions-for-2024/"><u>[New] The Ultimate Comparison VSDC Screen Recorder vs Other Leading Solutions for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-photographers-list-of-top-10-lenses/"><u>[Updated] The Photographer's List of Top 10 Lenses</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-syncopating-soundtracks-with-flawless-audio-transitions/"><u>2024 Approved Syncopating Soundtracks with Flawless Audio Transitions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-double-edged-sword-of-virtual-reality/"><u>2024 Approved The Double-Edged Sword of Virtual Reality</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhancing-wi-fi-coverage-a-detailed-review-of-netgears-ex3700-range-extender-with-ac750-technology/"><u>Enhancing Wi-Fi Coverage: A Detailed Review of Netgear's EX3700 Range Extender with AC750 Technology</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-tecno-phantom-v-fold-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Tecno Phantom V Fold Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-turn-a-flood-of-fails-into-success-with-precision-in-tiktok-editing/"><u>In 2024, Turn a Flood of Fails Into Success with Precision in TikTok Editing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-turning-compressed-files-into-srt-speaking-texts-quickly/"><u>In 2024, Turning Compressed Files Into .Srt Speaking Texts Quickly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/join-disney-and-marvels-vision-pro-multiverse-adventure-becoming-a-hero-together-with-you/"><u>Join Disney & Marvel's Vision Pro Multiverse Adventure - Becoming a Hero Together with You!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-advancements-in-language-models-how-gpt-1-paved-the-way-for-gpt-2-through-to-gpt-4/"><u>Navigating the Advancements in Language Models: How GPT-1 Paved the Way for GPT-2 Through to GPT-4</u></a></li>
-<li><a href="https://some-tips.techidaily.com/superior-audio-transformation-tools-unleash-voices-for-2024/"><u>Superior Audio Transformation Tools Unleash Voices for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-puzzle-of-facebooks-status-emoji-unveiling-the-hidden-meaning/"><u>The Puzzle of Facebook's Status Emoji Unveiling the Hidden Meaning</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c12-plus-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C12 Plus Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-to-reddit-success-in-business-promotions-for-2024/"><u>Unlocking the Secrets to Reddit Success in Business Promotions for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-asus-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Asus Phones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-secrets-unveiled-top-five-mac-techniques-for-capturing-gameplay-for-2024/"><u>[New] Secrets Unveiled Top Five Mac Techniques for Capturing Gameplay for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outube-snippets-guide-essential-info-inside/"><u>[New] YouTube Snippets Guide Essential Info Inside</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-mastering-photo-enhancement-with-complete-guide-to-facetune/"><u>[Updated] Mastering Photo Enhancement with Complete Guide to Facetune</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tales-that-echo-through-time-top-8-halls-for-storytellers/"><u>[Updated] Tales That Echo Through Time Top 8 Halls for Storytellers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-online-stores-for-personalized-box-designs/"><u>[Updated] Top 10 Online Stores for Personalized Box Designs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-srt-to-video-top-10-free-subtitle-tools/"><u>[Updated] Transform SRT to Video - Top 10 FREE Subtitle Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-authentically-enjoy-immersive-dolby-atmos-surround-sound/"><u>Can You Authentically Enjoy Immersive Dolby Atmos Surround Sound?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-integration-blocked-for-win10-device/"><u>Graphics Integration Blocked for Win10 Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-pova-5-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Pova 5 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-f23-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo F23 5G Bootloader Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-wonders-mastering-firefox-x-pie-mode/"><u>In 2024, Unveiling the Wonders Mastering Firefox X-Pie Mode</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strengthening-your-presence-networking-techniques-for-youtubers-for-2024/"><u>Strengthening Your Presence Networking Techniques for YouTubers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtualblender-for-all-operating-systems/"><u>VirtualBlender for All Operating Systems</u></a></li>
 </ul></div>
 

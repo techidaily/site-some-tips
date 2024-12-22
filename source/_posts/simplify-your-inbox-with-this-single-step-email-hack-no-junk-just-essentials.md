@@ -1,7 +1,7 @@
 ---
 title: Simplify Your Inbox with This Single-Step Email Hack – No Junk, Just Essentials!
-date: 2024-11-29T19:49:59.997Z
-updated: 2024-12-06T18:52:14.906Z
+date: 2024-12-15T23:48:02.398Z
+updated: 2024-12-20T22:12:50.856Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,24 +126,19 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-budget-buyers-guide-to-drone-tech-under-100/"><u>[New] 2024 Approved Budget Buyers' Guide to Drone Tech Under $100</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-leading-microphone-reviews-podcastings-best/"><u>[New] In 2024, Leading Microphone Reviews Podcasting's Best</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-collection-top-free-ae-template-packs/"><u>[New] Ultimate Collection Top Free AE Template Packs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-in-memes-genrator-assistance/"><u>[New] Unleash Creativity in Memes Gen'rator Assistance</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-effortlessly-post-videos-on-youtube-with-our-expert-guide/"><u>[Updated] 2024 Approved Effortlessly Post Videos on YouTube with Our Expert Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-cutting-edge-techniques-for-fb-streaming-records/"><u>[Updated] Cutting-Edge Techniques for FB Streaming Records</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-subtle-sound-level-lowering-in-fl-studio/"><u>[Updated] Subtle Sound Level Lowering in FL Studio</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-swift-remedies-for-iphone-unfocused-shots/"><u>[Updated] Swift Remedies for iPhone Unfocused Shots</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-snapshot-solution-how-to-swiftly-switch-your-gif-for-a-sticker/"><u>[Updated] The Snapshot Solution How to Swiftly Switch Your GIF for a Sticker</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-8-things-to-consider-before-buying-next-lens-for-4k-camera/"><u>2024 Approved 8 Things to Consider Before Buying Next Lens for 4K Camera</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-streaming-spectrum-digital-vs-physical-frontiers/"><u>2024 Approved The Streaming Spectrum Digital vs Physical Frontiers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-toolwiz-app-in-focus-a-thorough-review-and-analysis-of-2023-features/"><u>2024 Approved Toolwiz App in Focus - A Thorough Review and Analysis of 2023 Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-creative-potential-with-our-customized-outro-scenes-free/"><u>2024 Approved Unlock Creative Potential with Our Customized Outro Scenes (Free!)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/te-storytelling-free-soundtrack-options-available-in-2024/"><u>Elevate Storytelling - Free Soundtrack Options Available, In 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ensure-optimal-performance-with-asus-hardware-on-pcs-install-the-right-drivers-for-windows-10-and-7-users/"><u>Ensure Optimal Performance with ASUS Hardware on PCs: Install the Right Drivers for Windows 10 and 7 Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/first-timers-map-to-earning-wealth-with-periscope/"><u>First-Timer's Map to Earning Wealth with Periscope</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-x50-gt-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor X50 GT.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/superior-supplements-to-enhance-gopro-for-2024/"><u>Superior Supplements to Enhance GoPro for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-4-strategies-mastering-your-schedule-with-chatgpt/"><u>Top 4 Strategies: Mastering Your Schedule with ChatGPT</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-screenshot-expert-evaluator/"><u>[New] 2024 Approved ScreenShot Expert Evaluator</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-capturing-gaming-moments-look-beyond-xboxs-game-bar/"><u>[New] Capturing Gaming Moments Look Beyond Xbox's Game Bar</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/igital-domination-worlds-top-10-video-content-kings-and-queens/"><u>[New] Digital Domination World's Top 10 Video Content Kings & Queens</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-gentle-request-for-a-greater-genuine-community/"><u>[New] Gentle Request for a Greater, Genuine Community</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-minimizing-live-stream-delays-fixing-obs-studio-drops-for-2024/"><u>[New] Minimizing Live Stream Delays - Fixing OBS Studio Drops for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-editing-software-for-professional-dji-videos/"><u>[New] The Best Editing Software for Professional DJi Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-step-by-written-by-a-language-model-ai-i-can-help-rewrite-the-paragraph-into-an-academic-style-but-please-note-that-my-responses-may-not-hav/"><u>[Updated] In 2024, Step-By Written by a Language Model AI. I Can Help Rewrite the Paragraph Into an Academic Style, but Please Note that My Responses May Not Have the Same Depth as Those Written by Subject Matter Experts. Here Is a Revised Version</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tropical-tango-toucan/"><u>2024 Approved Tropical Tango Toucan</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-8-in-virtual-reality-gaming/"><u>In 2024, The Essential 8 in Virtual Reality Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-vr-game-engines/"><u>In 2024, Top VR Game Engines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-updated-list-top-frame-addition-services-for-images/"><u>In 2024, Updated List Top Frame Addition Services for Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-automated-tweet-publishing-how-to-organize-and-schedule-tweets-efficiently/"><u>Mastering Automated Tweet Publishing: How to Organize and Schedule Tweets Efficiently</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-12-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone 12 Activation Lock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-update-to-sonys-premium-blu-ray-player-for-2024/"><u>Unveiling the Update to Sony’s Premium Blu-Ray Player for 2024</u></a></li>
 </ul></div>
 

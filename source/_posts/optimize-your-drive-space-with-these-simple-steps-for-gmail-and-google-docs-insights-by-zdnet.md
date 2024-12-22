@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Drive Space with These Simple Steps for Gmail & Google Docs – Insights by ZDNet
-date: 2024-09-17 21:58:24
-updated: 2024-09-20 12:56:13
+date: 2024-12-17T18:50:39.719Z
+updated: 2024-12-21T02:35:25.880Z
 tags:
   - cloud
 categories:
@@ -39,13 +39,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Let me show you how easy it is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to manage your Google Workspace storage
 
 **What you'll need:** The only things you'll need are a valid Google account and a web browser. This of course can also be done on an Android device with Google One, but I'm going to show you how to take care of the task from within a web browser. You can use any browser that supports Google Workspace (which includes nearly all popular browsers).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open the Storage Manager
 
 The first thing to do is open your default web browser and point it to the [Google Storage Manager](https://one.google.com/storage/management). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clean up by suggested items
 
@@ -64,6 +76,10 @@ Do the same for the other options under Clean up suggested items.
 The fastest way to delete all of your trashed emails is to click Delete All.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clean up by service
 
@@ -100,11 +116,27 @@ And that's how you can easily manage your Google Workspace storage. Keep on top 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-developing-dynamic-instagram-highlights-for-2024/"><u>[New] Developing Dynamic Instagram Highlights for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-brightening-up-your-youtube-pixels/"><u>[New] In 2024, Brightening Up Your YouTube Pixels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-iphone-handbook-for-gif-enthusiasts/"><u>[New] The Essential iPhone Handbook for GIF Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superior-selections-pro-webcam-stabilizers/"><u>[Updated] Superior Selections Pro Webcam Stabilizers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-best-8-youtube-marketing-apps-and-solutions/"><u>2024 Approved Best 8 YouTube Marketing Apps & Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-cutting-edge-stabilizing-gadgets-for-youtube-videography/"><u>2024 Approved Cutting Edge Stabilizing Gadgets for YouTube Videography</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-projector-vs-tv-showdown-which-prevails-in-4k-clarity/"><u>2024 Approved Projector vs TV Showdown Which Prevails in 4K Clarity?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/discovering-high-definition-smarts-sony-xperia-xz-reviewed-for-2024/"><u>Discovering High-Definition Smarts Sony Xperia XZ Reviewed for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-lag-and-stuttering-issues-on-call-of-duty-black-ops-cold-war-a-guide/"><u>Fixing Lag and Stuttering Issues on Call of Duty: Black Ops Cold War - A Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-fast-loading-facebook-videos-for-2024/"><u>The Art of Fast-Loading Facebook Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-cursor-conundrum-in-windows-11-diagnosis-and-resolution-tips/"><u>The Cursor Conundrum in Windows 11: Diagnosis and Resolution Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-slomo-videography-app-review-update-for-2024/"><u>Ultimate Guide to SloMo Videography App Review Update for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-utilities-free-and-paid-macpc-bd-software-compared/"><u>Ultimate Utilities Free & Paid Mac/PC BD Software Compared</u></a></li>
+</ul></div>
+

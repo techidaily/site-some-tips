@@ -1,7 +1,7 @@
 ---
 title: "United Accuracy: The Journey to 'Satisfactory' Climate Insights with a Team of 180 Expert Meteorologists"
-date: 2024-09-17 14:31:44
-updated: 2024-09-20 12:41:45
+date: 2024-12-14T03:17:23.260Z
+updated: 2024-12-21T03:31:15.119Z
 tags:
   - cloud
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 
 What's a good enough weather prediction? That's a question most people probably don't give much thought to, as the answer seems obvious -- an accurate one. But then again, most people are not CTOs at DTN. Lars Ewe is, and his answer may be different than most people's. With 180 meteorologists on staff providing weather predictions worldwide, [DTN](https://www.dtn.com/) is the largest weather company you've probably never heard of.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best extreme weather tech: Top gear for power outages Some of us like to go off the grid, while others find themselves forced off the grid. Having the right gear can make a huge difference.  Read now](https://www.zdnet.com/article/best-extreme-weather-tech/)
@@ -20,6 +24,10 @@ What's a good enough weather prediction? That's a question most people probably 
 Case in point: DTN is not included in ForecastWatch's "[Global and Regional Weather Forecast Accuracy Overview 2017 - 2020](https://www.forecastwatch.com/wp-content/uploads/Global%5Fand%5FRegional%5FWeather%5FForecast%5FAccuracy%5FOverview%5F2017-2020.pdf)." The report rates 17 weather forecast providers according to a comprehensive set of criteria, and a thorough data collection and evaluation methodology. So how come a company that started out in the 1980s, serves a global audience, and has always had a strong focus on weather, is not evaluated?
 
 * **See also:** [**US weather, climate forecasting is about to get way better**](https://www.zdnet.com/article/us-weather-climate-forecasting-is-about-to-get-way-better/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Weather forecast as a big data and internet of things problem
 
@@ -46,6 +54,10 @@ In many regards, weather forecasting today is really a big data problem. To some
 As a consequence, producing weather predictions does not just involve the domain expertise of meteorologists, but also the work of a team of data scientists, data engineers, and machine learning/DevOps experts. Like any big data and data science task at scale, there is a trade-off between accuracy and viability.
 
 * [**Best extreme weather tech 2022: Power outage gear**](https://www.zdnet.com/home-and-office/yard-outdoors/best-extreme-weather-tech/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Good enough weather prediction at scale
 
@@ -90,11 +102,25 @@ Coming full circle, Ewe noted that DTN's attention is focused on the company's d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-top-spots-for-classic-ringtone-downloads-for-2024/"><u>[Updated] Top Spots for Classic Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-prioritize-your-videography-with-top-12-players/"><u>2024 Approved Prioritize Your Videography with Top 12 Players</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-converter-change-mod-files-to-mp4-format-with-ease/"><u>Free Online Converter: Change MOD Files to MP4 Format with Ease</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-symphony-of-well-being-learn-from-asmr/"><u>In 2024, The Symphony of Well-Being – Learn From ASMR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-windows-11-a-compreayer-to-master-video-editing-techniques/"><u>In 2024, Unveiling Windows 11 A Compreayer to Master Video Editing Techniques</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-dvd-magic-transforming-your-home-videos-into-cinematic-masterpieces-for-2024/"><u>New DVD Magic Transforming Your Home Videos Into Cinematic Masterpieces for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/next-level-sound-design-on-your-tablet-and-laptop-discover-how-apples-logic-pro-now-features-innovative-ai-band-members-exclusive-coverage/"><u>Next Level Sound Design on Your Tablet and Laptop! Discover How Apple's Logic Pro Now Features Innovative AI 'Band Members' – Exclusive Coverage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-action-camera-selection-under-100-for-2024/"><u>Ultimate Action Camera Selection Under $100 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-unbiased-freepaid-blu-ray-vids-on-pcmac-for-2024/"><u>Ultimate Guide Unbiased Free/Paid Blu-Ray Vids on PC/Mac for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/we-test-le-chat-from-mistral-ai-insights-and-comparison-to-the-popular-chatgpt/"><u>We Test Le Chat From Mistral AI: Insights and Comparison to the Popular ChatGPT</u></a></li>
+</ul></div>
+

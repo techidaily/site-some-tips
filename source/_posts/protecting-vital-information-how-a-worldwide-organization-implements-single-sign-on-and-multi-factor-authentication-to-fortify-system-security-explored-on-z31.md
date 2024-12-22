@@ -1,7 +1,7 @@
 ---
 title: "Protecting Vital Information: How a Worldwide Organization Implements Single Sign-On and Multi-Factor Authentication to Fortify System Security | Explored on ZDNET"
-date: 2024-09-19 13:42:53
-updated: 2024-09-20 10:57:41
+date: 2024-12-19T04:19:57.836Z
+updated: 2024-12-20T20:20:14.930Z
 tags:
   - cloud
 categories:
@@ -36,6 +36,10 @@ Generali is one of the one of the largest insurance and asset management provide
 But while many businesses suddenly had to shift towards a hybrid model without having planned for it in 2020, Generali was already examining a cloud-based approach to work over a year before that, so the company was in a good place to adapt to the new world of work. 
 
 "We think we were ahead of the curve," says Winter. "We don't have datacenters, everything is in the cloud. It's either software-as-a-service or platform-as-a-service."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -96,11 +100,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-change-screenshot-saving-location-on-mac/"><u>[New] In 2024, Change Screenshot Saving Location on Mac</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-essential-guide-to-21-hdmi-monitors-comparative-analysis/"><u>[New] In 2024, Essential Guide to 2.1 HDMI Monitors - Comparative Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-medical-messages-in-social-media-ads/"><u>[New] Tailoring Medical Messages in Social Media Ads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-techniques-for-swapping-your-images-tone-spectrum/"><u>[New] Techniques for Swapping Your Image's Tone Spectrum</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-metaverse-potential-top-7-innovations-to-master/"><u>[New] Unlocking Metaverse Potential - Top 7 Innovations to Master</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-navigating-the-nuances-of-twitters-video-policies/"><u>[Updated] Navigating the Nuances of Twitter's Video Policies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-and-controlling-safaris-pip-feature/"><u>[Updated] Understanding and Controlling Safari's PIP Feature</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-driver-setup-for-your-arduino-mega-2560-swift-downloads-at-hand/"><u>Hassle-Free Driver Setup for Your Arduino Mega 2560 – Swift Downloads at Hand</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-canon-printer-drivers-pixma-mx922-on-your-window-pc/"><u>How to Get the Latest Canon Printer Drivers (PIXMA MX922) on Your Window PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-14-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 14 without Password?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211252856-9798868994609-padroneggiare-la-saggezza/"><u>Padroneggiare la saggezza | Free Book</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/superior-5-social-sites-redefining-connectivity-for-2024/"><u>Superior 5 Social Sites, Redefining Connectivity for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-instagram-mavens-guide-to-spectaculous-unboxing-reels-for-2024/"><u>The Instagram Maven's Guide to Spectaculous Unboxing Reels for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-hardware-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your hardware drivers on Windows 7</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Alibaba's Strategic Move: Separating Cloud Division & Prepping Subsidiaries for Public Offering"
-date: 2024-09-19 23:16:26
-updated: 2024-09-20 10:52:46
+date: 2024-12-19T02:26:55.526Z
+updated: 2024-12-20T18:42:06.614Z
 tags:
   - cloud
 categories:
@@ -94,11 +94,37 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-making-your-mark-strategies-for-monthly-growth-on-instagram/"><u>[New] Making Your Mark Strategies for Monthly Growth on Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-methods-to-flip-video-content-in-android/"><u>[New] Methods to Flip Video Content in Android</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-zoom-mastery-creating-seamless-virtual-sessions/"><u>[Updated] 2024 Approved Zoom Mastery Creating Seamless Virtual Sessions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-live-stream-to-file-top-performing-obs-recording-tools-for-2024/"><u>[Updated] Live Stream to File Top Performing OBS Recording Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-for-google-pixel-tones/"><u>[Updated] The Ultimate List for Google Pixel Tones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-the-content-free-movie-player-windowsmac/"><u>[Updated] Unleash the Content FREE MOVIE PLAYER (Windows/Mac)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-spark-ars-full-potential-with-personalized-lut-implementations/"><u>[Updated] Unlock Spark AR's Full Potential with Personalized LUT Implementations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-10-best-no-cost-live-streaming-tools-android-and-iphone-guide/"><u>2024 Approved 10 Best No-Cost Live Streaming Tools Android & iPhone Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-insiders-guide-to-ultimate-audio-equipment/"><u>2024 Approved The Insider's Guide to Ultimate Audio Equipment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-to-openais-shapley-explainer-shape-features-and-uses/"><u>A Comprehensive Guide to OpenAI's Shapley Explainer (ShapE): Features & Uses</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-the-samsung-galaxy-a71-amoeba-a-cost-effective-contender-against-top-tier-phones/"><u>Comparing the Samsung Galaxy A71 Amoeba: A Cost-Effective Contender Against Top-Tier Phones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/efficiently-sending-files-from-printer-to-personal-computer-via-scan/"><u>Efficiently Sending Files From Printer to Personal Computer via Scan</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-sony-xperia-1-v-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Sony Xperia 1 V</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supreme-storytelling-spanning-eight-movie-types/"><u>In 2024, Supreme Storytelling Spanning Eight Movie Types</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-best-text-effects-for-your-video/"><u>In 2024, Top 10 Best Text Effects for Your Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upgrade-your-photo-edits-the-ultimate-guide-to-pixlr-power/"><u>In 2024, Upgrade Your Photo Edits The Ultimate Guide to Pixlr Power</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlined-steps-to-watching-vr-on-your-ios-device-for-2024/"><u>Streamlined Steps to Watching VR on Your IOS Device for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-writers-guide-to-dialogic-depth-in-screenplays-for-2024/"><u>The Writers' Guide to Dialogic Depth in Screenplays for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-chuckles-await-tips-and-tricks-to-metaverse-meme-magic/"><u>Virtual Chuckles Await Tips & Tricks to Metaverse Meme Magic</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

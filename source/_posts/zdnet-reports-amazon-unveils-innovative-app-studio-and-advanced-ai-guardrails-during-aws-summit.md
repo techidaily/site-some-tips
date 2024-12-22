@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reports: Amazon Unveils Innovative App Studio & Advanced AI Guardrails During AWS Summit"
-date: 2024-09-17 14:54:32
-updated: 2024-09-20 12:24:53
+date: 2024-12-17T20:24:58.015Z
+updated: 2024-12-20T16:48:59.712Z
 tags:
   - cloud
 categories:
@@ -25,6 +25,10 @@ During the Summit keynote address, Dr. Matt Wood, vice president for AI Products
 
 Here are the biggest highlights from AWS Summit 2024\. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  AWS App Studio 
 
 Radhika Rajkumar/ZDNET
@@ -36,6 +40,10 @@ In a demo at AWS Summit, Amazon showed ZDNET how App Studio can take a request f
 App Studio also integrates with third-party services and AWS through connectors. Adam Seligman, vice president of developer experience at AWS, told ZDNET at the summit that the company anticipates App Studio will evolve to feature more integrations based on customer feedback. 
 
 **Also:** [**Make room for RAG: How GenAI's balance of power is shifting**](https://www.zdnet.com/article/make-room-for-rag-how-gen-ais-balance-of-power-is-shifting/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Amazon Q updates 
 
@@ -54,6 +62,10 @@ Developers can ask Q how to fine-tune their LLM and Q will return a set of instr
 Another reveal was that Amazon Q Apps, a feature of Amazon Q Business, is now [generally available](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Faws.amazon.com%2Fblogs%2Faws%2Famazon-q-apps-now-generally-available-enables-users-to-build-their-own-generative-ai-apps%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C58245a2b-6ccf-423e-b23a-8f2910b03d0d%7Cdtp&dtb=1). The Amazon Q Business feature lets employees create apps using their company data by sending Q a descriptive prompt in natural language. Employees can also generate a reusable app from a conversation with the assistant for tasks like "summarizing feedback, creating onboarding plans, writing copy, drafting memos, and more," Sivasubramanian continued in the release. 
 
 The release follows the trend of implementing AI assistants across industries and skill levels to offload work from all kinds of employees. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Amazon Bedrock updates 
 
@@ -77,6 +89,10 @@ Wood noted in the keynote that AWS customers are interested in having agents per
 
 Code interpretation is limited to a sandboxed environment to avoid potential chaos from agents creating and executing unvetted code. Amazon also noted that users can directly upload documents, making instructing agents more straightforward. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Updates to Guardrails 
 
 Radhika Rajkumar/ZDNET
@@ -98,6 +114,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Other AI announcements 
 
@@ -124,11 +144,29 @@ As part of [AI Ready](https://www.zdnet.com/article/amazon-just-rolled-out-more-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-a-bite-into-tiktoks-most-engaging-dishes/"><u>[New] In 2024, A Bite Into TikTok's Most Engaging Dishes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-right-way-to-pick-spiritual-phone-tunes/"><u>[New] The Right Way to Pick Spiritual Phone Tunes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-8-essential-laptop-skins-for-dynamic-screens/"><u>[New] Top 8 Essential Laptop Skins for Dynamic Screens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transformative-audio-techniques-for-media-professionals/"><u>[New] Transformative Audio Techniques for Media Professionals</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtube-adverts-recent-changes-and-compliance/"><u>[Updated] In 2024, YouTube Adverts Recent Changes and Compliance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-originality-in-virtual-meme-worlds/"><u>[Updated] Unleashing Originality in Virtual Meme Worlds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-media-manipulation-from-text-formats-to-srts/"><u>2024 Approved The Art of Media Manipulation From Text Formats to SRTs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/can-others-replicate-apples-success-with-modular-accessory-technology/"><u>Can Others Replicate Apple's Success with Modular Accessory Technology?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-g2-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo G2? Try These Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-swift-listening-on-spotify-how-to-accelerate-audio-safely/"><u>In 2024, Swift Listening on Spotify How to Accelerate Audio Safely</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-artisans-guide-mastering-gopro-video-editing/"><u>In 2024, The Artisan's Guide Mastering GoPro Video Editing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/razer-kiyo-webcam-detailed-review-for-2024/"><u>Razer Kiyo Webcam - Detailed Review for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/revived-silent-mic-now-shouting-on-discord/"><u>Revived Silent Mic, Now Shouting on Discord</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reviving-quiet-gpu-fans/"><u>Reviving Quiet GPU Fans</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-and-operating-linux-bash-shell-in-windows-11/"><u>Step-by-Step Guide: Setting Up & Operating Linux Bash Shell in Windows 11</u></a></li>
+</ul></div>
+

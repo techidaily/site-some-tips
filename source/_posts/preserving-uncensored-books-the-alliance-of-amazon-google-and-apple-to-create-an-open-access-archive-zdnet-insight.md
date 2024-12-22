@@ -1,7 +1,7 @@
 ---
 title: "Preserving Uncensored Books: The Alliance of Amazon, Google, and Apple to Create an Open Access Archive | ZDNET Insight"
-date: 2024-09-18 22:31:25
-updated: 2024-09-20 12:49:34
+date: 2024-12-16T18:42:30.893Z
+updated: 2024-12-21T01:17:38.231Z
 tags:
   - cloud
 categories:
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
 Hardly a day goes by when we don't hear from a school or library somewhere in the United States that they've removed a book [from circulation](http://blog.archive.org/2021/11/24/as-calls-to-ban-books-intensify-digital-librarians-offer-perspective/) following complaints from parents or constituents. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Close-up of an older woman making a video call on her Amazon Fire HD 10 tablet](https://www.zdnet.com/a/img/resize/6bdb7e14441d186907874239c1c732cb2cd64744/2022/08/01/9ca7b5c8-47e7-4e90-817f-8491229fe0c4/amazon-fire-hd-10-2.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Last week, in a school district in Tennessee, it was [the removal of MAUS](https://slate.com/human-interest/2022/01/maus-banned-tennessee-holocaust-graphic-novel.html), the Pulitzer Prize-winning graphic novel by Art Spiegelman, that retells the Holocaust story through the eyes of mice oppressed by fascist cats. 
 
@@ -66,11 +74,23 @@ Do the e-book giants need to fight book banning by taking the battle to the digi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dissecting-biggest-fifa-footage-trends-in-graphs/"><u>[New] 2024 Approved Dissecting Biggest FIFA Footage Trends in Graphs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-essential-steps-for-crafting-video-based-gifs-on-mobiledesktop/"><u>[New] Essential Steps for Crafting Video-Based GIFs on Mobile/Desktop</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-essential-steps-for-embedding-facebook-streams-online/"><u>[New] In 2024, Essential Steps for Embedding Facebook Streams Online</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-does-youtube-offer-frequent-payments-to-you/"><u>[Updated] 2024 Approved Does YouTube Offer Frequent Payments to You?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-essential-guide-windows-movie-maker-in-animation-production/"><u>[Updated] In 2024, Essential Guide Windows Movie Maker in Animation Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-double-edged-sword-of-virtual-reality/"><u>2024 Approved The Double-Edged Sword of Virtual Reality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-monitor-match-up-recommendations-for-top-tier-xbox-sx-experience/"><u>In 2024, Ultimate Monitor Match-Up Recommendations for Top-Tier Xbox SX Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-samsungs-comprehensive-picture-editing-tools-2023-for-2024/"><u>The Complete Guide to Samsung’s Comprehensive Picture Editing Tools, 2023 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-and-tricks-to-help-you-use-lunapic-photo-editor-like-a-pro-for-2024/"><u>Tips and Tricks to Help You Use Lunapic Photo Editor Like A Pro for 2024</u></a></li>
+</ul></div>
+

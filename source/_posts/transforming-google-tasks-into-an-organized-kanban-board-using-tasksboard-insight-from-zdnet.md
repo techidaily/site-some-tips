@@ -1,7 +1,7 @@
 ---
 title: Transforming Google Tasks Into an Organized Kanban Board Using TasksBoard - Insight From ZDNet
-date: 2024-09-19 22:29:21
-updated: 2024-09-20 11:27:10
+date: 2024-12-18T00:34:57.481Z
+updated: 2024-12-20T23:55:00.453Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-ultimate-flashy-game-collection-quick-and-lightweight/"><u>[New] 2024 Approved Ultimate Flashy Game Collection - Quick and Lightweight</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-is-instagrams-self-validation-a-game-changer-in-2024/"><u>[New] Is Instagram’s Self-Validation a Game Changer, In 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-ar-a-modern-illusionists-toolkit/"><u>[New] Unveiling AR A Modern Illusionist's Toolkit</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instasnap-optimize-images-and-videos-on-ig/"><u>[Updated] In 2024, InstaSnap Optimize Images & Videos on IG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-creating-smooth-audio-cuts/"><u>[Updated] The Art of Creating Smooth Audio Cuts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-dji-inspire-2-distilled/"><u>[Updated] The Essence of DJI Inspire 2 Distilled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essential-breakdown-of-dji-phantom-3-mechanics/"><u>[Updated] The Essential Breakdown of DJI Phantom 3 Mechanics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-potential-with-best-free-text-psdfree/"><u>[Updated] Unlock Potential with Best Free Text PSDFree</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/circumventing-chatgpt-blocks-understanding-and-overcoming-them/"><u>Circumventing ChatGPT Blocks: Understanding and Overcoming Them</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-factors-in-choosing-your-perfect-projector/"><u>Essential Factors in Choosing Your Perfect Projector</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ethics-of-chatgpt-in-digital-defense-and-offense/"><u>Ethics of ChatGPT in Digital Defense & Offense</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/how-to-modify-button-icon-and-color-in-flipbook-using-flipbuilder/"><u>How to Modify Button Icon & Color in FlipBook Using FlipBuilder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-talent-release-form-for-filming-and-video-to-free-download/"><u>In 2024, Talent Release Form for Filming and Video to Free Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/substitutes-to-moviemaker-in-the-windows-realm-for-2024/"><u>Substitutes to MovieMaker in the Windows Realm for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-free-screen-recorders-on-windows-11-2023-update-for-2024/"><u>Top 5 Free Screen Recorders on Windows 11-2023 Update for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgraded-win10-expert-guide-to-flawless-streaming/"><u>Upgraded Win10 - Expert Guide to Flawless Streaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/will-ai-take-over-your-career-understanding-the-future-of-generative-technology/"><u>Will AI Take Over Your Career: Understanding the Future of Generative Technology</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Necessity of Seamless Tech Platforms for Hybrid Work Success in Singaporean Companies | ZDNET Perspectives
-date: 2024-09-19 15:44:17
-updated: 2024-09-20 10:29:58
+date: 2024-12-17T23:10:47.345Z
+updated: 2024-12-20T17:28:57.645Z
 tags:
   - cloud
 categories:
@@ -37,6 +37,10 @@ Kor further noted that small and midsize businesses (SMBs) struggled with deploy
 
 **"**It is critical for organisations, regardless of size, to overcome such challenges quickly so employees have the tools they need," she said, adding that managing a decentralised workforce also required consistency in practices, guidelines, and policies across the organisation. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Adopt tools that drive open, integrated collaboration
 
 In particular, technologies that facilitated open communication and collaboration were key to hybrid work, according to Kor. In addition to collaboration tools, visual collaboration platforms or whiteboarding tools also were essential to facilitate brainstorming amongst teams that were increasingly hybrid, she said.
@@ -50,6 +54,10 @@ Bognar noted that while many IT departments had stepped up to support hybrid wor
 Kor said: "An optimised hybrid workplace ensures flexibility and productivity, and businesses may need to relook their operating models and work arrangements to make this possible. Beyond tools and technology, this also includes having sufficient policies and programmes."
 
 "With many employees choosing their next job based on the ability to work from anywhere, companies that have strong infrastructure to facilitate flexible work will be able to better attract talent. Our research shows that more than half of business leaders are seeking to boost their cloud infrastructure, including cloud-based security platforms and services, to better manage a decentralised workforce," she said. "Companies have an opportunity to better align their business processes and priorities across a distributed workforce, and to evolve collaborative processes and workflows in place to keep pace with their employees' needs."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### RELATED COVERAGE
 
@@ -67,11 +75,29 @@ Kor said: "An optimised hybrid workplace ensures flexibility and productivity, a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unforgettable-cinematic-journey-top-15-timeless-motion-pictures/"><u>[New] Unforgettable Cinematic Journey - Top 15 Timeless Motion Pictures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-video-potential-top-4k-downloader-apps-reviewed/"><u>[New] Unleash Video Potential Top 4K Downloader Apps Reviewed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nveiling-top-8-premium-marriage-videos-on-video-platforms-for-2024/"><u>[New] Unveiling Top 8 Premium Marriage Videos on Video Platforms for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-fundamentals-of-archiving-webcam-conversations/"><u>[Updated] In 2024, Fundamentals of Archiving Webcam Conversations</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-masterclass-on-uploading-youtube-vids-to-fb-groups/"><u>[Updated] In 2024, Masterclass on Uploading YouTube Vids to FB Groups</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-quickstart-free-downloadable-video-intros/"><u>[Updated] In 2024, Quickstart Free, Downloadable Video Intros</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-slow-motion-showcase-top-cameras-with-unparalleled-snapshot-power/"><u>[Updated] Slow-Motion Showcase Top Cameras with Unparalleled Snapshot Power</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-textual-transformation-enrich-your-images-with-words-pcmac-style/"><u>[Updated] Textual Transformation Enrich Your Images with Words, PC/Mac Style</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-time-honored-techniques-incorinastrating-classic-vhs-into-modern-cinematics/"><u>[Updated] Time-Honored Techniques Incorinastrating Classic VHS Into Modern Cinematics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-undo-motion-recapturing-video-from-mobile-devices/"><u>[Updated] Undo Motion Recapturing Video From Mobile Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-from-dissonance-to-harmony-kinemasters-transition-magic/"><u>2024 Approved From Dissonance to Harmony Kinemaster’s Transition Magic</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-computer-skills-keyboard-shortcuts-for-success/"><u>Boost Your Computer Skills: Keyboard Shortcuts for Success</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/decoding-vtubers-the-path-from-concept-to-career-in-2024/"><u>Decoding Vtubers The Path From Concept to Career, In 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-sony-xperia-1-v-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Sony Xperia 1 V on Windows??</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125968-9781609250980-pray-for-today/"><u>Pray for Today | Free Book</u></a></li>
+</ul></div>
+

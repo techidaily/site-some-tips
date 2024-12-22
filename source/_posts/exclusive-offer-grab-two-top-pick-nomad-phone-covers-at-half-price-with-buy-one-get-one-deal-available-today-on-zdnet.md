@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Grab Two Top Pick Nomad Phone Covers at Half Price with 'Buy One, Get One' Deal - Available Today on ZDNet!"
-date: 2024-12-08T16:11:17.016Z
-updated: 2024-12-12T18:38:22.287Z
+date: 2024-12-13T17:39:45.948Z
+updated: 2024-12-20T22:15:21.208Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ The promo event includes all of Nomad's [iPhone cases for all models](https://sh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Nomad iPhone cases to shop during the BOGO free event
@@ -49,7 +49,7 @@ ZDNET's Editor-in-Chief Jason Hiner says that the Sport Case for iPhone is prote
 [Leather iPhone Skin View now at Nomad Goods](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fnomadgoods.com%2Fproducts%2Fleather-skin-horween-rustic-brown-iphone-13)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,19 +98,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://graphic-issues.techidaily.com/fixed-the-static-on-your-windows-11-display/"><u>[FIXED] The Static on Your Windows 11 Display</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-in-depth-guide-best-audio-techniques-on-windows/"><u>[Updated] In-Depth Guide Best Audio Techniques on Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleash-creativity-best-android-edits/"><u>[Updated] Unleash Creativity Best Android Edits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>[Updated] Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-voice-changing-methods-in-free-fire/"><u>[Updated] Voice Changing Methods in Free Fire</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-editors-toolkit-maximizing-the-impact-of-gopro-videos/"><u>2024 Approved The Editor's Toolkit Maximizing the Impact of GoPro Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-with-magix-video-pro-x/"><u>2024 Approved Unleashing Creativity with Magix Video Pro X</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-dji-potential-two-devices-get-20-gratis-luts/"><u>2024 Approved Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/cutting-edge-webcam-utilization-at-home/"><u>Cutting-Edge Webcam Utilization at Home</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/embrace-morning-vitality-using-ihome-zenergy-comprehensive-sleep-solution-analysis/"><u>Embrace Morning Vitality Using IHome Zenergy - Comprehensive Sleep Solution Analysis</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-portuguese-top-6-study-strategies-for-success/"><u>Mastering Portuguese: Top 6 Study Strategies for Success</u></a></li>
-<li><a href="https://solve-help.techidaily.com/most-affordable-free-digital-document-storage-platforms/"><u>Most Affordable Free Digital Document Storage Platforms</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/quick-guide-transforming-videos-into-custom-ringtones-for-your-smartphone/"><u>Quick Guide: Transforming Videos Into Custom Ringtones for Your Smartphone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/wmv-conversione-veloce-e-gratuita-online-con-movavi-trasforma-i-tuoi-file-video/"><u>WMV Conversione Veloce E Gratuita Online Con Movavi - Trasforma I Tuoi File Video</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-steps-for-high-quality-twitch-broadcasts/"><u>[New] 2024 Approved Essential Steps for High-Quality Twitch Broadcasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-techniques-for-intense-online-visualization/"><u>[New] 2024 Approved Techniques for Intense Online Visualization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-science-behind-effective-slug-lines/"><u>[New] The Science Behind Effective Slug Lines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-vectors-unveiled-a-novices-path-through-types-and-apps/"><u>[New] Vectors Unveiled A Novice’s Path Through Types and Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-optimal-free-tools-5-gif-to-video-conversion-websites-without-downloads/"><u>2024 Approved Optimal Free Tools 5 GIF-to-Video Conversion Websites Without Downloads</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-13-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 13 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-xiaomi-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Xiaomi Redmi Note 13 Pro 5G?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pros-and-cons-of-switching-to-the-new-ios-17/"><u>Pros and Cons of Switching to the New iOS 17</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-ideas-for-making-your-podcast-stand-out-visually-for-2024/"><u>Top 10 Ideas for Making Your Podcast Stand Out Visually for 2024</u></a></li>
 </ul></div>
 

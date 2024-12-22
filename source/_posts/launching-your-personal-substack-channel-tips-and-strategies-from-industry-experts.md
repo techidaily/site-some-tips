@@ -1,7 +1,7 @@
 ---
 title: "Launching Your Personal Substack Channel: Tips and Strategies From Industry Experts"
-date: 2024-09-19 16:28:48
-updated: 2024-09-20 10:50:38
+date: 2024-12-17T21:43:27.432Z
+updated: 2024-12-21T00:32:27.748Z
 tags:
   - cloud
 categories:
@@ -63,6 +63,10 @@ Screenshot by David Gewirtz/ZDNET
 
 There you go. Now, it's time to customize your newsletter. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Customize your newsletter
 
 You can go to relatively considerable lengths to customize the look and feel of your Substack account and newsletter. I just wanted something simple, so customization was very straightforward.
@@ -97,6 +101,10 @@ I put a picture up, said a little bit about myself, and then described my plans 
 
 And that's it. Now people know what it's all about. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Prepare your first newsletter
 
 If you've ever made a post on Facebook, you're ready for Substack. It's that simple.
@@ -129,15 +137,27 @@ Finally, when you're ready to publish, press (3) Continue. That will present a s
 
 It's pretty much that simple. If you create a nice Substack, feel free to comment below or drop a comment on mine. I'd love to see what you're working on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Can I import my existing lists? 
 
 Yes, but Substack is fussy. They will only import lists where they can verify that all email addresses have previously opted in. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How can I turn off the requests for pledges or subscription money? 
 
 This took me a few minutes to find. Go back to Settings on your Dashboard, scroll down to Payments, and uncheck "Allow readers to pledge subscriptions". Those payment/pledge requests will no longer be presented to new subscribers. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How does Substack make money? 
 
@@ -157,11 +177,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-master-the-art-of-speech-transformation-top-7-vocal-alteration-android-apps/"><u>[New] 2024 Approved Master the Art of Speech Transformation Top 7 Vocal Alteration Android Apps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-mobile-magic-no-cost-image-transformation-tool/"><u>[New] In 2024, Mobile Magic No-Cost Image Transformation Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tiktok-content-mastery-learn-to-alter-digit-scenes-effectively/"><u>[New] TikTok Content Mastery Learn to Alter Digit Scenes Effectively</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-crafting-a-cash-flow-career-with-content-creation-like-ajey-nagar/"><u>[Updated] Crafting a Cash-Flow Career with Content Creation Like Ajey Nagar</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-discovering-pc-gaming-the-quintessential-5-gb-advance-emulators/"><u>2024 Approved Discovering PC Gaming The Quintessential 5 GB Advance Emulators</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-x-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone X to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-pop-7-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-itel-a60-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Itel A60</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-submission-a-podcasters-guide/"><u>In 2024, Streamlining Submission A Podcaster's Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-route-to-richer-tiktok-bios-a-guide-to-linktree-integration/"><u>In 2024, The Route to Richer TikTok Bios A Guide to Linktree Integration</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/nocturnal-nexus-versus-daylight-dominion/"><u>Nocturnal Nexus Versus Daylight Dominion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-b-roll-sequences-with-main-scenes-effortlessly-for-2024/"><u>Syncing B Roll Sequences with Main Scenes Effortlessly for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-tactics-for-advanced-iphone-x-animoji-utilization-for-2024/"><u>Transformative Tactics for Advanced iPhone X Animoji Utilization for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/volkswagen-unveils-eco-friendly-electric-golf-gti-prototype/"><u>Volkswagen Unveils Eco-Friendly Electric Golf GTI Prototype</u></a></li>
+</ul></div>
+

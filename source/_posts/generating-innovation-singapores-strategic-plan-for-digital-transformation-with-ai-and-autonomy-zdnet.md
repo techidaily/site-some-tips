@@ -1,7 +1,7 @@
 ---
 title: "Generating Innovation: Singapore's Strategic Plan for Digital Transformation with AI & Autonomy | ZDNet"
-date: 2024-09-18 10:11:27
-updated: 2024-09-20 10:41:35
+date: 2024-12-14T03:29:54.566Z
+updated: 2024-12-21T04:25:54.914Z
 tags:
   - cloud
 categories:
@@ -43,6 +43,10 @@ There also will be initiatives in other nascent areas, such as quantum computing
 
 The government agency said plans are in place to [pilot quantum-safe networks](https://www.zdnet.com/article/singapore-to-build-quantum-safe-network-for-critical-infrastructure-trials/) and quantum-as-a-service applications for commercial customers. "Known as the National Quantum Safe Network Plus (NQSN+), this will allow us to test, innovate and push the boundaries on both technical and commercial deployments," it said. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Launch of innovation center with AWS
 
 IMDA on Monday also announced its partnership with Amazon Web Services (AWS) through the launch of a joint innovation center. Pitched as a launchpad for businesses and startups in Southeast Asia, the new site houses various specialized labs, including 5G as well as augmented and virtual reality. It also has usability-testing facilities. 
@@ -76,11 +80,27 @@ Companies can use the center to develop proof-of-concepts in a sandbox environme
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-enhance-social-gaming-on-xbox-using-zoom-for-2024/"><u>[New] Enhance Social Gaming on Xbox Using Zoom for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-video-entrance-with-these-tools/"><u>[Updated] 2024 Approved Elevate Your Video Entrance with These Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-rising-viewers-rising-prosperity-the-youtube-route/"><u>[Updated] Rising Viewers, Rising Prosperity The Youtube Route</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-intriguing-world-of-whole-sphere-videos/"><u>2024 Approved The Intriguing World of Whole Sphere Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-videos-using-video-enhancer-v22/"><u>2024 Approved Transform Your Videos Using Video Enhancer V2.2</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-verifying-ad-revenue-on-yt-a-step-by-step-tutorial/"><u>2024 Approved Verifying Ad Revenue on YT A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-lines-the-art-of-anonymizing-youtube-content-for-2024/"><u>Blurred Lines The Art of Anonymizing YouTube Content for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-nubia-z50-ultra-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Nubia Z50 Ultra Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-updated-parrot-ar-drone-experience/"><u>In 2024, Unveiling The Updated Parrot AR Drone Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-handbook-for-incorporating-music-into-ppt/"><u>The Essential Handbook for Incorporating Music Into PPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-economical-hd-action-recordings-for-2024/"><u>Ultimate Selection Economical HD Action Recordings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-mechanics-of-whatsapp-voice-conversations-for-2024/"><u>Understanding the Mechanics of WhatsApp Voice Conversations for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-blending-audio-sources-for-professional-video-production-for-2024/"><u>Updated Blending Audio Sources for Professional Video Production for 2024</u></a></li>
+</ul></div>
+

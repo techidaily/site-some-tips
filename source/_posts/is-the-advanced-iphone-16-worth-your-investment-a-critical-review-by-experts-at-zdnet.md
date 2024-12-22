@@ -1,7 +1,7 @@
 ---
 title: Is the Advanced iPhone 16 Worth Your Investment? A Critical Review by Experts at ZDNet
-date: 2024-09-17 20:13:37
-updated: 2024-09-20 12:21:58
+date: 2024-12-17T03:06:28.510Z
+updated: 2024-12-21T03:14:02.791Z
 tags:
   - cloud
 categories:
@@ -61,6 +61,10 @@ On the Pro models, you'll find a 5X optical zoom lens, and the new 48-MP "Fusion
 
 But are these improvements enough to justify an upgrade? Probably not if you already own an iPhone 14 or 15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Developer involvement and AI maturity
 
 While the hardware is impressive, the AI features -- centered around Apple Intelligence -- leave something to be desired, especially for those expecting a more mature experience.
@@ -71,11 +75,19 @@ Apple Intelligence is tied to Apple's own 3-billion-parameter foundation model. 
 
 Apple has given [developers access to its AI APIs](https://developer.apple.com/apple-intelligence/), but we're still in the early stages of what Apple Intelligence can do. Most of the exciting features - like Genmoji and App Intents -- won't be available until iOS 18.2\. Even iOS 18.1, which unlocks some of the AI functions, won't arrive until at least October.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Don't like Apple's apps? No Apple Intelligence for you.
 
 The biggest problem -- other than the fact that you need new iPhone hardware to exploit it -- is that Apple Intelligence is deeply tied to Apple's own apps, limiting its usefulness for users who rely on third-party apps like Gmail, Google Docs, or Microsoft 365\. 
 
 Apple hasn't given developers the ability to integrate their own AI models on the device, so unless third-party apps adopt Apple's APIs, you won't benefit from Apple Intelligence's features if you're not entirely locked into Apple's ecosystem. Google and Microsoft, which both have robust cloud-based AI solutions -- [Gemma 2](https://ai.google.dev/gemma) for Google's [Gemini](https://ai.google.dev/gemini-api) and GPT-4 for Microsoft's [Copilot](https://www.microsoft.com/en-us/microsoft-copilot/meet-copilot) \-- are unlikely to switch to Apple's APIs anytime soon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cloud-based AI writing tools: No need for new hardware
 
@@ -89,6 +101,10 @@ Google's AI writing tools are currently available on iOS and Android through Gma
 
 Microsoft's [SwiftKey](https://apps.apple.com/us/app/microsoft-swiftkey-ai-keyboard/id911813648) iOS keyboard also brings Copilot AI-powered text generation and rewriting to the platform, making these tools accessible across all iPhone models -- not just the iPhone 16.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smart erase and privacy: Apple vs. Google
 
 I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in iOS 18\. It's been difficult to adjust to, and the [Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) \-- Apple's smart erase feature -- while intriguing, hasn't been the game changer I expected. The tool leaves artifacts in many of the photos I've tried it with on my iPhone 15 Pro Max, which detracts from the experience. 
@@ -96,6 +112,10 @@ I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in i
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Google's Magic Eraser, available in Google Photos for iOS, performs similarly without requiring on-device AI processing. That said, Apple's on-device AI processing offers a privacy advantage -- your data stays on the device and doesn't require additional bandwidth. This is particularly useful if you rely on 5G data instead of Wi-Fi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you upgrade?
 
@@ -128,11 +148,29 @@ Unless you desperately need a new phone, don't rush into buying the iPhone 16\. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-summers-best-10-nostalgic-films-for-the-whole-family/"><u>[New] Summer's Best 10 Nostalgic Films for the Whole Family</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-combo-of-virtual-reality-tech/"><u>[New] The Ultimate Combo of Virtual Reality Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transformative-editing-experience-windows-photos-meets-story-remix/"><u>[New] Transformative Editing Experience Windows Photos Meets Story Remix</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-inside-influence-a-peek-at-top-25-social-media-icons-on-insta-for-2024/"><u>[Updated] Inside Influence A Peek at Top 25 Social Media Icons on Insta for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-perfecting-your-projects-proportions-with-aspect-ratio/"><u>[Updated] Perfecting Your Project's Proportions with Aspect Ratio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essential-guide-to-creating-beautifully-stretched-time-videos-online/"><u>[Updated] The Essential Guide to Creating Beautifully Stretched Time Videos Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-complete-image-enhancement-capabilities-with-polarr/"><u>[Updated] Unveiling the Complete Image Enhancement Capabilities with Polarr</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-strategies-for-crafting-engaging-podcast-graphics/"><u>2024 Approved Top 10 Strategies for Crafting Engaging Podcast Graphics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/coding-showdown-comparing-chatgpt-and-gemini-the-ultimate-ai-chatbot-face-off/"><u>Coding Showdown: Comparing ChatGPT and Gemini – The Ultimate AI Chatbot Face-Off</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/futures-file-fortresses-top-five-cloud-storage-in-the-year-2024/"><u>Future's File Fortresses Top Five Cloud Storage in the Year 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ghastly-graphics-maker-for-2024/"><u>Ghastly Graphics Maker for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-facile-comment-transformer-votre-dvd-en-fichiers-video-digitale-sur-pc-ou-mac-avec-windows-10/"><u>Guide Facile : Comment Transformer Votre DVD en Fichiers Video Digitale Sur PC Ou Mac Avec Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-photos-top-6-iphone-tools-for-object-elimination-for-2024/"><u>Streamline Your Photos Top 6 iPhone Tools for Object Elimination for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-solution-fixing-zlibdll-could-not-be-loaded/"><u>The Ultimate Solution: Fixing 'zlib.dll Could Not Be Loaded'</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/anked-screen-recorder-for-seamless-youtubing-for-2024/"><u>Top-Ranked Screen Recorder for Seamless YouTubing for 2024</u></a></li>
+</ul></div>
+

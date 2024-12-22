@@ -1,7 +1,7 @@
 ---
 title: Cloud Computing Essentials - A Comprehensive Guide | ZDNet
-date: 2024-09-19 20:35:47
-updated: 2024-09-20 12:36:36
+date: 2024-12-18T19:39:03.176Z
+updated: 2024-12-21T01:23:04.466Z
 tags:
   - cloud
 categories:
@@ -107,6 +107,10 @@ Close Modal Dialog
 
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does cloud computing work?
 
 Rather than owning their own computing infrastructure or data centres, companies can rent access to anything from applications to storage from a cloud service provider.
@@ -129,6 +133,10 @@ Cloud computing is becoming the default option for many apps: software vendors a
 
 A fundamental concept behind cloud computing is that the location of the service, and many of the details such as the hardware or operating system on which it is running, are largely irrelevant to the user. It's with this in mind that the metaphor of the cloud was borrowed from old telecoms network schematics, in which the public telephone network (and later the internet) was often represented as a cloud to denote that the location didn't matter – it was just a cloud of stuff. This is an over-simplification of course; for many customers, location of their services and data remains a key issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the history of cloud computing?
 
 Cloud computing as a term has been around since the early 2000s, but the concept of computing as a service has been around for much, much longer – as far back as the 1960s, when computer bureaus would allow companies to rent time on a mainframe, rather than have to buy one themselves.
@@ -146,6 +154,10 @@ Indeed, it's increasingly clear that when it comes to enterprise computing platf
 Tech analyst Gartner predicts that as much as half of spending across application software, infrastructure software, business process services and system infrastructure markets will have shifted to the cloud by 2025, up from 41% in 2022\. It estimates that almost two-thirds of spending on application software will be via cloud computing, up from 57.7% in 2022.
 
 Image: Gartner
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Top Cloud Providers
 
@@ -171,9 +183,17 @@ Cloud computing can be broken down into a number of different constituent elemen
 
 Infrastructure as a Service (IaaS) refers to the fundamental building blocks of computing that can be rented: physical or virtual servers, storage and networking. This is attractive to companies that want to build applications from the very ground up and want to control nearly all the elements themselves, but it does require firms to have the technical skills to be able to orchestrate services at that level. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Platform as a Service?
 
 Platform as a Service (PaaS) is the next layer up – as well as the underlying storage, networking, and virtual servers, this layer also includes the tools and software that developers need to build applications on top, which could include middleware, database management, operating systems, and development tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Software as a Service?
 
@@ -237,6 +257,10 @@ And if that sounds unrealistic, it may be that figures on adoption of cloud depe
 
 Adoption will also vary by application: cloud-based email is much easier to adopt than a new finance system, for example. And for systems such as supply chain management, that are working efficiently as they are, there will be less short-term pressure to do a potentially costly and risky shift to the cloud.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What about cloud-computing security?
 
 Many companies remain concerned about the security of cloud services, although breaches of security are rare. How secure you consider cloud computing to be will largely depend on how secure your existing systems are. In-house systems managed by a team with many other things to worry about are likely to be more leaky than systems monitored by a cloud provider's engineers dedicated to protecting that infrastructure.
@@ -279,6 +303,10 @@ Beyond this, the majority also remained worried about the performance of critica
 * [Technology migrations are more painful, and cloud isn't making them any easier](https://www.zdnet.com/article/technology-migrations-are-more-painful-and-cloud-isnt-making-them-any-easier/)
 * [Where does the NAS fit in an increasingly cloud-centric world?](https://www.zdnet.com/article/where-does-the-nas-fit-in-an-increasingly-cloud-centric-world-small-business/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is geography irrelevant when it comes to cloud computing?
 
 Actually, it turns out that is where the cloud really does matter. Geopolitics is forcing significant changes on cloud-computing users and vendors. Firstly, there is the issue of latency: if the application is coming from a data centre on the other side of the planet, or on the other side of a congested network, then you might find it sluggish compared to a local connection. That's the latency problem.
@@ -288,6 +316,10 @@ Secondly, there is the issue of data sovereignty. Many companies, particularly i
 Some have gone further, effectively detatching some of those datacenters from their main business to make it much harder for US authorities – and others – to demand access to the customer data stored there. The customer data in the data centres is under the control of an independent company, which acts as a "data trustee", and US parents cannot access data at the sites without the permission of customers or the data trustee. Expect to see cloud vendors opening more data centres around the world to cater to customers with requirements to keep data in specific locations.
 
 Cloud security is another issue; the UK government's cyber security agency has warned that government agencies [need to consider the country of origin](https://www.zdnet.com/article/cloud-computing-getting-bigger-but-more-complicated-too/) when it comes to adding cloud services into their supply chains. While it was warning about antivirus software in particular, the issue is the same for other types of services too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a cloud-computing region? And what is a cloud-computing availability zone?
 
@@ -341,6 +373,10 @@ There are plenty of examples of organisations deciding to go down the cloud-comp
 * [AWS infrastructure is now behind three main streaming media providers](https://www.zdnet.com/article/aws-infrastructure-is-now-behind-three-main-streaming-media-providers/)
 * [American Airlines to move consumer-facing apps to IBM Cloud, says Cloud Foundry key](https://www.zdnet.com/article/american-airlines-to-move-consumer-facing-apps-to-ibm-cloud-says-cloud-foundry-key/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Previous coverage
 
 [**The Art of the Hybrid Cloud**](https://www.zdnet.com/topic/the-art-of-the-hybrid-cloud/)
@@ -350,6 +386,10 @@ Cloud computing is gobbling up more of the services that power businesses. But, 
 **[Public cloud, private cloud, or hybrid cloud: What's the difference?](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&ved=0ahUKEwj0%5FMuLg8zVAhVKZFAKHZRhDoEQFghkMAk&url=http%3A%2F%2Fwww.zdnet.com%2Farticle%2Fpublic-cloud-private-cloud-or-hybrid-cloud-whats-the-difference%2F&usg=AFQjCNHWZVWbt84GCmouA7K6P2Vxe2jxYA)**
 
 Trying to understand and articulate the differences between public, private, and hybrid cloud? Here's a quick breakdown.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Read more on cloud computing
 
@@ -366,11 +406,25 @@ Trying to understand and articulate the differences between public, private, and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-make-your-archive-pop-with-instagrams-vibrant-filter-options/"><u>[New] How to Make Your Archive Pop with Instagram's Vibrant Filter Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-taking-your-aerial-game-to-new-heights-with-dji-spark-reviewed/"><u>[New] Taking Your Aerial Game to New Heights with DJI Spark Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategy-sketches-plotting-the-market-map/"><u>[Updated] Strategy Sketches Plotting the Market Map</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-playstation-audio-modification-guidebook/"><u>[Updated] The Ultimate PlayStation Audio Modification Guidebook</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-from-mere-color-to-spectacle-hdr-vs-sdr-in-editing/"><u>2024 Approved From Mere Color to Spectacle HDR vs SDR in Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-troubleshooting-solo-earbuds/"><u>2024 Approved Troubleshooting Solo Earbuds</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-s24-ultra-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy S24 Ultra without App | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/celestial-cache-center-star-data-rescue-unit/"><u>Celestial Cache Center - Star Data Rescue Unit</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-gameplay-eliminate-stutter-and-crash-problems-with-serious-sam-4-on-pc/"><u>Enhance Your Gameplay: Eliminate Stutter and Crash Problems with Serious Sam 4 on PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftly-enhance-logitech-gear-performance/"><u>Swiftly Enhance Logitech Gear Performance</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-infinix-smart-8-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Infinix Smart 8</u></a></li>
+</ul></div>
+

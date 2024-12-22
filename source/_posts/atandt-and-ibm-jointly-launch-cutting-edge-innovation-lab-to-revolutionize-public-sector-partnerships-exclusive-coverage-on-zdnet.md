@@ -1,7 +1,7 @@
 ---
 title: AT&T and IBM Jointly Launch Cutting-Edge Innovation Lab to Revolutionize Public Sector Partnerships | Exclusive Coverage on ZDNET
-date: 2024-09-18 22:13:44
-updated: 2024-09-20 11:22:51
+date: 2024-12-18T01:13:02.305Z
+updated: 2024-12-20T19:33:43.775Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ AT&T and IBM [launched the collaboration](https://www.zdnet.com/article/ibm-form
 "One of the challenges that enterprises have to face when you think about 5G, cloud and edge computing is that it's accelerating pretty fast," William Stovall, AT&T's VP of mobility & IoT, said to _ZDNet_. "The challenge is, how do I undertake this, and how do I put it into practice. So to give enterprise customers a vehicle to see it in the works, and to have the opportunity to co-create, is a benefit that allows them a better roadmap to actually deploy these technologies."
 
 The co-innovation labs are designed to serve a range of industries, with clear use cases in areas like manufacturing and health care. The public sector has a number of compelling use cases, like delivering 5G-enabled communication services to first responders, or providing AR/VR environments to the military. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### MWC 2022
 
@@ -56,11 +60,33 @@ The opening of the new simulation lab will be particularly timely, given the imp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-simplifying-color-grading-a-comprehensive-look-at-luts/"><u>[New] 2024 Approved Simplifying Color Grading A Comprehensive Look at LUTs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-does-instant-subscription-strategy-improve-user-engagement/"><u>[New] Does Instant Subscription Strategy Improve User Engagement?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-expert-tips-for-maximizing-visual-impact-via-google-meet-filters-and-masks-for-2024/"><u>[New] Expert Tips for Maximizing Visual Impact via Google Meet Filters & Masks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultrawide-vs-uhd-4k-monitor-showdown-top-picks/"><u>[New] UltraWide VS UHD 4K Monitor Showdown Top Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-updated-discussion-treasures-for-listener-retention/"><u>[New] Updated Discussion Treasures for Listener Retention</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-finding-the-ultimate-video-solution-vlc-and-mx-showdown-for-2024/"><u>[Updated] Finding the Ultimate Video Solution VLC and MX Showdown for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-key-to-professional-filming-without-spending-free-lessons-from-the-best-in-green-screen-artistry/"><u>[Updated] The Key to Professional Filming Without Spending Free Lessons From the Best in Green Screen Artistry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-free-ae-template-packs-for-amateurs/"><u>[Updated] Top FREE AE Template Packs for Amateurs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-vs-dailymention-identifying-key-variations/"><u>[Updated] YouTube Vs. DailyMention Identifying Key Variations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-11-brain-games-engaging-trivia-channels/"><u>2024 Approved Top 11 Brain Games Engaging Trivia Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-premium-priced-no-cost-graphic-websites/"><u>2024 Approved Unveiling Premium-Priced, No-Cost Graphic Websites</u></a></li>
+<li><a href="https://network-issues.techidaily.com/apex-hack-proofing-guide-instant-troubleshooting/"><u>Apex Hack-Proofing Guide: Instant Troubleshooting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-sites-with-public-domain-game-soundtracks/"><u>In 2024, Best Sites with Public Domain Game Soundtracks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-conversions-mp4-files-with-vlc-media-player/"><u>In 2024, Streamlining Conversions MP4 Files with VLC Media Player</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-without-vlc-media-player-insights/"><u>In 2024, The Future Without VLC - Media Player Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-every-shots-hue-the-essential-11-tutorials-on-color-adjustment/"><u>Perfecting Every Shot's Hue The Essential 11 Tutorials on Color Adjustment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-images-android-iphone-file-transfer-guide-for-2024/"><u>Syncing Images Android-iPhone File Transfer Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-voice-changes-experts-handbook-for-morphvox-transformation-for-2024/"><u>The Ultimate Guide to Voice Changes Expert's Handbook for MorphVOX Transformation for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/unkompliziertes-backup-und-kopiersoftware-fur-windows-aomei-backupper-schnelles-synchronisieren-klonen-and-wiederherstellen/"><u>Unkompliziertes Backup- Und Kopiersoftware Für Windows: AOMEI Backupper – Schnelles Synchronisieren, Klonen & Wiederherstellen</u></a></li>
+</ul></div>
+

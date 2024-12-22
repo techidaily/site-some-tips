@@ -1,7 +1,7 @@
 ---
 title: Unveiling AWS's Four Newest Educational Ventures in the Cloud Sector - Insights From ZDNet
-date: 2024-09-19 19:51:30
-updated: 2024-09-20 10:42:28
+date: 2024-12-19T22:28:00.367Z
+updated: 2024-12-21T00:05:07.734Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/93bb71ec4c18bb4a348a9b3276d0829a10
 AWS debuted four new initiatives in its ongoing goal to educate 29 million people on its cloud services platform by the end of 2025\. 
 
 First up, the company showed off its new AWS Skill Builder courses. This novel digital learning tool will be available to users in 200 countries and will provide more than 500 free, on-demand courses to start, with 60 more scheduled to be added this year. Content is available in 16 languages, with support for automatically generated recommendations from AWS on progression paths based around individualized job roles and technology areas. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### executive guide
 
@@ -50,11 +54,27 @@ Additional information about Amazon's aforementioned educational commitment is a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-editmaster-suite/"><u>[New] In 2024, EditMaster Suite</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-no-cost-android-communication-tools-guide/"><u>[New] In 2024, No-Cost Android Communication Tools Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-dynamic-duo-enhancing-fb-live-with-monitor-sharing-capabilities/"><u>[Updated] Dynamic Duo Enhancing Fb Live with Monitor Sharing Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-magic-of-pause-time-creating-spectacularly-long-lasting-movies-with-photos-and-web-services/"><u>[Updated] Unveiling the Magic of Pause Time Creating Spectacularly Long Lasting Movies with Photos & Web Services</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-5-breakthrough-ways-to-preserve-precise-moments-in-vr-games/"><u>2024 Approved 5 Breakthrough Ways to Preserve Precise Moments in VR Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-master-iphones-artistic-capabilities-capturing-movement-blur/"><u>2024 Approved Master iPhone's Artistic Capabilities Capturing Movement Blur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-recorders-bible-for-clear-conversations/"><u>2024 Approved The Ultimate Recorder's Bible for Clear Conversations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hp-stream-11-essential-tech-fit-in-a-slim-frame/"><u>HP Stream 11: Essential Tech Fit in a Slim Frame</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-spark-10-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Spark 10 5G Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-turning-xmlssattml-files-into-srt-formats-strategies-and-techniques/"><u>In 2024, Turning XML/SSA/TTML Files Into SRT Formats Strategies and Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-image-potential-with-editors-essentials/"><u>In 2024, Unlock Image Potential with Editor's Essentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailoring-visual-quality-choose-aspect-ratios-wisely-for-2024/"><u>Tailoring Visual Quality Choose Aspect Ratios Wisely for 2024</u></a></li>
+</ul></div>
+

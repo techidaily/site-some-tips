@@ -1,7 +1,7 @@
 ---
 title: "Tailor Sync Settings: Adjusting Folder Preferences on Google Drive's PC Application"
-date: 2024-09-17 15:36:35
-updated: 2024-09-20 10:43:56
+date: 2024-12-18T23:47:14.127Z
+updated: 2024-12-20T16:41:09.405Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/900669a0826258b005cbb54f95db85d32c0fe9527
 ## Tailor Sync Settings: Adjusting Folder Preferences on Google Drive's PC Application
 
 I'm a Google Drive power user. I use the service daily for the majority of my writing needs. During my decade with Drive, I have had one instance where I lost nearly all of my work (thanks to a third-party sync tool that went awry). Since then, I've been diligent about backing up Google Drive. For that, I depend on rclone to backup specific directories in Google Drive to an external drive attached to my [System76 Thelio](https://system76.com/desktops), running [Pop!\_OS](https://pop.system76.com/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Google Docs tips
 
@@ -30,7 +34,15 @@ The only things you'll need are a Google Drive account and the Google Drive Desk
 
 Let's get started.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding a new folder for syncing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Access Settings
 
@@ -54,6 +66,10 @@ Image: Jack Wallen
 
 From that menu, click **Preferences**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Add a new folder
 
 In the new window (**Figure 4**), click **Add folder**.
@@ -71,6 +87,10 @@ Image: Jack Wallen
 Locate and select the new folder you want to sync with Drive and click Open. You'll be taken back to the Google Drive Desktop Client Preferences window, where you'll see the new folder listed. 
 
 Once added, the client will automatically upload the files and sub-directories within the newly-added folder. Depending on how many files (and the size of those files), the initial sync could take some time. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Locating those files in Drive
 
@@ -103,11 +123,29 @@ Congratulations, you've configured the Google Drive Desktop Client to sync added
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-a-streamlined-approach-simplifying-film-projects-with-movie-maker/"><u>[New] 2024 Approved A Streamlined Approach Simplifying Film Projects with Movie Maker</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-essential-retro-filters-to-polish-video-pieces/"><u>[New] 2024 Approved Essential Retro Filters to Polish Video Pieces</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-crafting-an-engaging-review-vlog-for-everyday-items/"><u>[New] In 2024, Crafting an Engaging Review Vlog for Everyday Items</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revive-your-missing-iphone-x-crucial-tips-revealed/"><u>[New] Revive Your Missing iPhone X Crucial Tips Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-high-res-sky-scenes-with-mi-drone/"><u>[New] Unveiling the High-Res Sky Scenes with Mi Drone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-all-you-need-to-know-about-instagram-video-limits-for-2024/"><u>[Updated] All You Need to Know About Instagram Video Limits for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-free-nba-action-at-home-the-best-15-ways-to-watch-games-online/"><u>[Updated] Free NBA Action at Home The Best 15 Ways to Watch Games Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tailored-tips-for-maximizing-vlc-playback-potential/"><u>[Updated] Tailored Tips for Maximizing VLC Playback Potential</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-turn-a-flood-of-fails-into-success-with-precision-in-tiktok-editing/"><u>2024 Approved Turn a Flood of Fails Into Success with Precision in TikTok Editing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-x7b-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor X7b via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-panorama-explore-these-10-sites-for-flawless-wallpapers/"><u>Digital Panorama Explore These 10 Sites for Flawless Wallpapers</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/step-by-step-tutorial-adjusting-sound-card-configuration-via-system-sounds-control-in-yl-computings-expert-series/"><u>Step-by-Step Tutorial: Adjusting Sound Card Configuration via System Sounds Control in YL Computing's Expert Series</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-double-edged-sword-of-virtual-reality-for-2024/"><u>The Double-Edged Sword of Virtual Reality for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-secrets-to-subtle-sound-diminishment-in-lumafusion-for-2024/"><u>The Secrets to Subtle Sound Diminishment in Lumafusion for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-sierra-icloud-document-and-desktop-guide-for-2024/"><u>The Ultimate Sierra iCloud Document & Desktop Guide for 2024</u></a></li>
+</ul></div>
+

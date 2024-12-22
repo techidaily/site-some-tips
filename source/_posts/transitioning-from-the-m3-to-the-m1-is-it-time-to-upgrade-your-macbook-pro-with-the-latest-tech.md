@@ -1,7 +1,7 @@
 ---
 title: "Transitioning From the M3 to the M1: Is It Time to Upgrade Your MacBook Pro with the Latest Tech"
-date: 2024-12-07T16:05:44.842Z
-updated: 2024-12-12T18:48:29.564Z
+date: 2024-12-14T05:47:56.754Z
+updated: 2024-12-20T17:26:01.757Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,24 +146,19 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-15-must-see-investment-channels-online-for-2024/"><u>[New] 15 Must-See Investment Channels Online for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-editors-edge-adding-sleek-fades-to-your-work/"><u>[New] The Editor's Edge Adding Sleek Fades to Your Work</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-8-free-online-havens-for-3d-text-psdfiles/"><u>[New] Top 8 FREE Online Havens for 3D Text PSDFiles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-creative-potential-image-curve-magic-in-ps/"><u>[New] Unlock Creative Potential Image Curve Magic in PS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-potential-in-spotifys-ad-ecosystem/"><u>[New] Unlocking Potential in Spotify's Ad Ecosystem</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unmatched-clarity-in-filming-top-rated-camera-stabilizers-guide/"><u>[New] Unmatched Clarity in Filming Top-Rated Camera Stabilizers Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-techniques-for-maximizing-gopro-battery-life/"><u>[Updated] Techniques for Maximizing GoPro Battery Life</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-mystery-of-sideways-instagram-videography/"><u>[Updated] The Mystery of Sideways Instagram Videography</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-10-budget-friendly-apps-revolutionizing-smartphone-imagery/"><u>[Updated] Top 10 Budget-Friendly Apps Revolutionizing Smartphone Imagery</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-tune-up-the-mundane-how-to-add-custom-ringtones-and-sounds-for-a-unique-auditory-experience-on-android/"><u>[Updated] Tune Up the Mundane How to Add Custom Ringtones & Sounds for a Unique Auditory Experience on Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-the-full-potential-of-your-iphone-photos/"><u>[Updated] Unlock the Full Potential of Your iPhone Photos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-2-step-plan-to-a-viral-youtube-video/"><u>2024 Approved The 2-Step Plan to a Viral YouTube Video</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-xmlssa-conversion-manual-for-professional-srt-production/"><u>2024 Approved XML/SSA Conversion Manual for Professional SRT Production</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/all-systems-green-issue-with-response-detected/"><u>All Systems Green: Issue with Response Detected</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-extents-of-mobile-roaming-with-t-mobiles-metro-service/"><u>Exploring the Extents of Mobile Roaming with T-Mobile's Metro Service</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-earning-mastery-youtube-short-video-tips/"><u>In 2024, Earning Mastery Youtube Short Video Tips</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-hot-40-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix Hot 40 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-poco-c50-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Poco C50? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-podcast-spotlight-listen-and-like-instantly/"><u>In 2024, Podcast Spotlight Listen and Like Instantly</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-essential-fb-video-ad-techniques-the-20-best-tactics-for-2024/"><u>[New] Essential FB Video Ad Techniques The 20 Best Tactics for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-cinematic-edge-master-the-top-5-camera-skills/"><u>[New] The Cinematic Edge Master the Top 5 Camera Skills</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-reimagining-received-gifts-the-joy-of-openness/"><u>[Updated] In 2024, Reimagining Received Gifts The Joy of Openness</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-starting-with-telegram-advertising-essential-steps-for-newbies/"><u>[Updated] Starting with Telegram Advertising Essential Steps for Newbies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones/"><u>[Updated] Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/configuration-system-failed-to-initialize-on-windows-10-solved/"><u>Configuration System Failed to Initialize on Windows 10 [Solved]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-brother-l2540dw-printer-software-for-windows-systems/"><u>Get the Latest Brother L2540DW Printer Software for Windows Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-g24-power-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola G24 Power Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamstart-beginner-friendly-podcast-live-broadcast-guide/"><u>In 2024, StreamStart Beginner-Friendly Podcast Live Broadcast Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-iphone-lens-enhancers-x8-series-selection/"><u>In 2024, Top iPhone Lens Enhancers X/8 Series Selection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magix-acid-pro-unveiled-assessing-comparable-software/"><u>Magix ACID Pro Unveiled Assessing Comparable Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-revolutionize-your-video-content-how-to-convert-videos-into-cartoons-in-minutes/"><u>New 2024 Approved Revolutionize Your Video Content How to Convert Videos Into Cartoons in Minutes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/seamless-live-recording-on-fb-uncover-4-critical-steps/"><u>Seamless Live Recording on FB Uncover 4 Critical Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/supreme-reconciliation-of-vr-realms-for-2024/"><u>Supreme Reconciliation of VR Realms for 2024</u></a></li>
 </ul></div>
 

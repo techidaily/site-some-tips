@@ -1,7 +1,7 @@
 ---
 title: Join Us as We Uncover Surprising Downsides - Stories From iPhone Users After an Update to iOS 18
-date: 2024-12-07T16:11:23.959Z
-updated: 2024-12-12T20:44:22.695Z
+date: 2024-12-14T02:10:26.286Z
+updated: 2024-12-21T04:20:45.762Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-frugal-cloud-cradle-for-copious-file-collection/"><u>[New] 2024 Approved Frugal Cloud Cradle for Copious File Collection</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-unlocking-full-photo-viewing-capabilities-win-11-edition/"><u>[New] 2024 Approved Unlocking Full Photo Viewing Capabilities Win 11 Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-swiftsoundphone-apps-top-10-for-rapid-music/"><u>[Updated] SwiftSoundphone Apps Top 10 for Rapid Music</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tips-for-adding-music-to-photo-online/"><u>[Updated] Tips for Adding Music to Photo Online</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-visionary-composer-sensory-media-masterpiece-for-2024/"><u>[Updated] Visionary Composer Sensory Media Masterpiece for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tiktok-bio-enhancement-with-direct-url-integration/"><u>2024 Approved TikTok Bio Enhancement with Direct URL Integration</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/how-to-fix-inaccessible-boot-device-on-windows-server-2012-r2-top-6-tips/"><u>How to Fix Inaccessible Boot Device on Windows Server 2012 R2 - Top 6 Tips</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-logic-pros-strategy-for-muffled-sound-tracks/"><u>In 2024, Logic Pro's Strategy for Muffled Sound Tracks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tongue-treasures-selecting-superb-audio-to-text-applications/"><u>In 2024, Tongue Treasures Selecting Superb Audio to Text Applications</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transformative-talk-20-phrases-that-drive-business-growth/"><u>In 2024, Transformative Talk 20 Phrases That Drive Business Growth</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-skypes-full-capacity-with-effective-zoom-methods/"><u>In 2024, Unlocking Skype's Full Capacity with Effective Zoom Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/masterful-use-of-chatgpt-cutting-out-inefficient-tools/"><u>Masterful Use of ChatGPT: Cutting Out Inefficient Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-wmp-cd-extraction-and-bursting-techniques-for-2024/"><u>Mastering WMP CD Extraction & Bursting Techniques for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-showdown-xsplits-efficacy-versus-obs-for-2024/"><u>The Ultimate Showdown XSplit's Efficacy Versus OBS for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-ranking-voip-services-is-vonage-leading-the-pack/"><u>Top Ranking VoIP Services: Is Vonage Leading the Pack?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-wireless-software-or-driver-on-windows-1110/"><u>Update Wireless Software or Driver on Windows 11/10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-pigments-and-perceptions-mastering-image-colorization/"><u>[New] Pigments & Perceptions Mastering Image Colorization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-power-of-perception-iconic-podcast-design-tips/"><u>[New] The Power of Perception Iconic Podcast Design Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-5-best-non-samsung-camera-picks-for-gear-enthusiasts/"><u>[New] Unveiling 5 Best Non-Samsung Camera Picks for Gear Enthusiasts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-comic-creators-charter-zero-cost-endless-laughs/"><u>[Updated] 2024 Approved Comic Creators' Charter Zero Cost, Endless Laughs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhance-engagement-learn-to-dim-youtube-video-backgrounds/"><u>[Updated] 2024 Approved Enhance Engagement Learn to Dim YouTube Video Backgrounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-zooms-potential-learn-how-to-use-video-filters/"><u>[Updated] Unlocking Zoom's Potential Learn How to Use Video Filters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>2024 Approved Twitch vs YouTube An In-Depth Comparative Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converter-gratuito-de-mpg-para-vob-pela-movavi-online-e-rapido/"><u>Converter Gratuito De MPG Para VOB Pela Movavi - Online E Rápido</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/creating-cohesive-content-with-soundtracks-on-instagram-for-2024/"><u>Creating Cohesive Content with Soundtracks on Instagram for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-make-video-thumbnails-for-youtube-for-2024/"><u>How to Make Video Thumbnails for YouTube for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-blend-audio-and-visuals-editing-music-in-canva-videos/"><u>In 2024, Blend Audio & Visuals Editing Music in Canva Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-speech-to-text-processing-in-powerpoint/"><u>In 2024, Streamlining Speech-To-Text Processing in Powerpoint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-talk-turned-type-essential-apps-for-offline-speech-recognition/"><u>In 2024, Talk Turned Type Essential Apps for Offline Speech Recognition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-apps-upgrade-your-mobile-movies-instantly/"><u>In 2024, Top Apps Upgrade Your Mobile Movies Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722987466898-mount-and-blade-ii-bannerlord-fixed-no-more-freezing-issues/"><u>Mount & Blade II: Bannerlord Fixed – No More Freezing Issues</u></a></li>
+<li><a href="https://fox-links.techidaily.com/perfect-tiktok-bio-link-strategy-for-2024/"><u>Perfect TikTok Bio Link Strategy for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-remedy-for-steams-secured-content-error-enjoy-unrestricted-access-now/"><u>Step-by-Step Remedy for Steam's Secured Content Error: Enjoy Unrestricted Access Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-11-must-have-windows-and-macos-applications-and-tools-insights-from-zdnet/"><u>Top 11 Must-Have Windows & macOS Applications and Tools - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unboxing-pureaudiofinder-a-look-into-the-latest-release-for-2024/"><u>Unboxing PureAudioFinder A Look Into the Latest Release for 2024</u></a></li>
 </ul></div>
 

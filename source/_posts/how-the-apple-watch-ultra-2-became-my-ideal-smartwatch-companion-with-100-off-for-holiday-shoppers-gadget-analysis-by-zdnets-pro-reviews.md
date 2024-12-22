@@ -1,7 +1,7 @@
 ---
 title: How the Apple Watch Ultra 2 Became My Ideal Smartwatch Companion (With $100 Off for Holiday Shoppers) | Gadget Analysis by ZDNET's Pro Reviews
-date: 2024-11-14T11:38:09.824Z
-updated: 2024-11-16T20:09:47.741Z
+date: 2024-12-17T16:32:22.272Z
+updated: 2024-12-20T19:19:16.673Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ Matthew Miller/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 * The [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CSVJ7BRX%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceb1c965c-0a66-4acd-a25f-69a3e98a3625%7Cdtp&dtb=1) is on sale ahead of Labor Day for $699 on Amazon for the Blue Alpine Loop, Gray Trail Loop, and Orange Ocean Band configurations.
@@ -29,10 +33,7 @@ Matthew Miller/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
@@ -96,10 +97,7 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,10 +111,7 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -153,19 +148,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-partner-vids-for-rapid-channelnode-growth/"><u>[Updated] 2024 Approved Partner Vids for Rapid Channelnode Growth</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-swift-shift-from-srt-to-text-your-modern-guide-for-speed/"><u>[Updated] Swift Shift From SRT to Text Your Modern Guide for Speed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-next-step-in-virtual-reality-jaunt-vr-review/"><u>[Updated] The Next Step in Virtual Reality Jaunt VR Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-color-spaces-srgb-vs-rgb/"><u>2024 Approved Understanding Color Spaces Srgb vs Rgb</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-google-pixel-fold-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Google Pixel Fold</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-professional-iphoneipad-podcast-production/"><u>In 2024, The Ultimate Guide to Professional iPhone/iPad Podcast Production</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>In 2024, Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-system-restore-on-windows-11-quick-access-methods/"><u>Mastering System Restore on Windows 11: Quick Access Methods</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/strategies-efficaces-pour-resoudre-les-problemes-de-sauvegarde-sous-windows-11-et-10/"><u>Stratégies Efficaces Pour Résoudre Les Problèmes De Sauvegarde Sous Windows 11 Et 10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-selecting-high-performance-fpv-drone-propellers-for-2024/"><u>The Complete Guide to Selecting High-Performance FPV Drone Propellers for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-razr-40-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola Razr 40 for Parents | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-video-text-upgrades-for-professionals-for-2024/"><u>Top 10 Video Text Upgrades for Professionals for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-explores-the-revolutionary-privacy-safeguarding-robot-that-will-blow-your-mind/"><u>ZDNet Explores the Revolutionary Privacy-Safeguarding Robot That Will Blow Your Mind!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-create-captivating-sports-videography/"><u>[New] In 2024, Create Captivating Sports Videography</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-art-of-publicizing-vimeo-videos/"><u>[New] The Art of Publicizing Vimeo Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-vr-game-creators-to-watch/"><u>[New] Top VR Game Creators To Watch</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-five-protocols-to-record-your-youtube-live-video/"><u>[Updated] In 2024, Top Five Protocols to Record Your YouTube LIVE Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-insider-guide-to-intensified-minecraft-views/"><u>[Updated] The Insider Guide to Intensified Minecraft Views</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-tricks-for-achieving-high-quality-slow-motion-videos-on-android/"><u>[Updated] Top Tricks for Achieving High-Quality Slow Motion Videos on Android</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-clandestine-call-collectors-discreet-voice-capture-tools-list/"><u>2024 Approved Clandestine Call Collectors Discreet Voice Capture Tools List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unravel-the-mysteries-of-morphvox-the-ultimate-guide-to-voice-modification/"><u>2024 Approved Unravel the Mysteries of MorphVOX The Ultimate Guide to Voice Modification</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-tecno-spark-10-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Tecno Spark 10 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-screen-upgrade-high-resolution-video-enhancer/"><u>In 2024, Ultimate Screen Upgrade High-Resolution Video Enhancer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-blueprint-for-altering-win-passwords/"><u>The Essential Blueprint for Altering Win Passwords</u></a></li>
 </ul></div>
 

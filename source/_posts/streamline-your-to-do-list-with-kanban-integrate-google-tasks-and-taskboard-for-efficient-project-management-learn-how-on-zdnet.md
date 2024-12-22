@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your To-Do List with Kanban: Integrate Google Tasks and TaskBoard for Efficient Project Management - Learn How on ZDNet"
-date: 2024-09-17 18:35:43
-updated: 2024-09-20 11:24:58
+date: 2024-12-15T21:55:16.346Z
+updated: 2024-12-20T18:14:41.051Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-ultimate-mobile-solutions-to-sharpen-dji-drone-shoots/"><u>[New] 2024 Approved Ultimate Mobile Solutions to Sharpen DJi Drone Shoots</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimizing-kinemaster-usage-expert-advice-and-superior-digital-alternatives/"><u>[New] Optimizing KineMaster Usage Expert Advice and Superior Digital Alternatives</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeting-videos-to-tweenish-animations-for-no-fee/"><u>[New] Tweeting Videos to Tweenish Animations for No Fee</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-free-drawing-tools-top-mac-apps-listed/"><u>[New] Ultimate Free Drawing Tools Top Mac Apps Listed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-how-to-turn-off-youtube-video-preview-all-platform-solution/"><u>[Updated] How to Turn Off YouTube Video Preview? [All Platform Solution]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-8-best-mirrorless-cameras-vloggers-should-know/"><u>[Updated] In 2024, 8 Best Mirrorless Cameras Vloggers Should Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/11-fixes-if-windows-11-cant-detect-a-wi-fi-network/"><u>11 Fixes if Windows 11 Can’t Detect a Wi-Fi Network</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-x9a-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor X9a to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-vanguard-audio-visual-makers-virtual-showcase/"><u>In 2024, The Vanguard Audio-Visual Makers' Virtual Showcase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-workflow-top-10-stealthy-canva-techniques/"><u>In 2024, Transform Your Workflow Top 10 Stealthy Canva Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-apples-audio-world-a-download-guide-for-ios-users/"><u>In 2024, Unlocking Apple's Audio World A Download Guide for iOS Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ten-years-of-button-filter-excellence-mondlyback/"><u>Ten Years of Button Filter Excellence: MondlyBack</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-facial-movements-using-blur-effects-in-picsart-for-2024/"><u>The Art of Facial Movements Using Blur Effects in Picsart for 2024</u></a></li>
+</ul></div>
+

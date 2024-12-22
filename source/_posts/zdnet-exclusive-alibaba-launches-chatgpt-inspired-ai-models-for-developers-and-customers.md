@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Alibaba Launches ChatGPT-Inspired AI Models for Developers and Customers"
-date: 2024-09-18 19:25:19
-updated: 2024-09-20 10:28:45
+date: 2024-12-15T02:20:42.769Z
+updated: 2024-12-20T17:33:49.062Z
 tags:
   - cloud
 categories:
@@ -41,6 +41,10 @@ The six business entities encompass: Cloud Intelligence Group; Taobao Tmall Comm
 
 Describing the move as the most significant governance overhaul in Alibaba's 24-year history, the Chinese tech giant said the restructure would place the company in a position to "capture market opportunities and further stimulate growth". 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Alibaba Cloud to build own servers with new in-house chip](https://www.zdnet.com/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/)
@@ -56,11 +60,29 @@ Describing the move as the most significant governance overhaul in Alibaba's 24-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unlock-vivid-visuals-windows-hdplus-guide-to-hdr-mastery/"><u>[New] Unlock Vivid Visuals Windows HD+ Guide to HDR Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-fundamentals-of-starting-an-instantaneous-broadcast/"><u>[Updated] The Fundamentals of Starting an Instantaneous Broadcast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-virtual-environments-in-cinema/"><u>2024 Approved The Art of Virtual Environments in Cinema</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-tecno-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Tecno</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-tecno-spark-20-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Tecno Spark 20 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-guide-to-vr-ready-space-setup/"><u>In 2024, The Complete Guide to VR-Ready Space Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-for-gaming-displays-on-xbox-series-x-console/"><u>In 2024, Top Picks for Gaming Displays on Xbox Series X Console</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-macos-workspace-effortlessly-conceal-latest-applications-with-stage-manager/"><u>Maximize Your MacOS Workspace: Effortlessly Conceal Latest Applications with Stage Manager</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-meteorological-measurements-for-less-in-depth-analysis-of-the-ambient-ws-2902a-osprey-gadget/"><u>Maximizing Meteorological Measurements for Less: In-Depth Analysis of the Ambient WS-2902A Osprey Gadget</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-recommendations-downloading-video-intros-and-templates/"><u>Prime Recommendations Downloading Video Intros & Templates</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/skincare-and-sensational-looks-for-2024/"><u>Skincare and Sensational Looks for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/skyrocket-your-skill-set-in-windows-photoshop/"><u>Skyrocket Your Skill Set in Windows Photoshop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-for-troubleshooting-unidentified-usb-devices-and-errors/"><u>The Ultimate Solution for Troubleshooting Unidentified USB Devices and Errors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-choice-top-mp4-players-unveiled-for-2024/"><u>Ultimate Choice Top MP4 Players Unveiled for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlimited-audio-processing-at-zero-cost-for-2024/"><u>Unlimited Audio Processing at Zero Cost for 2024</u></a></li>
+</ul></div>
+

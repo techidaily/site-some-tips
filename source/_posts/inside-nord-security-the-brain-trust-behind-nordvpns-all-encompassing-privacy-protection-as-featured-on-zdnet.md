@@ -1,7 +1,7 @@
 ---
 title: "Inside Nord Security: The Brain Trust Behind NordVPN's All-Encompassing Privacy Protection, as Featured on ZDNet"
-date: 2024-09-18 11:56:49
-updated: 2024-09-20 10:22:27
+date: 2024-12-17T00:58:30.831Z
+updated: 2024-12-21T00:33:53.254Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ _\[Note: Since this article was first published in May 2020, the company has mad
 ---
 
 The company behind NordVPN has big plans to offer a threat protection suite, a "different kind of antivirus system," and protect your privacy at the edge of a network. But before that vision becomes reality, Nord Security, the company that counts NordVPN as its flagship, will have to win over consumers and businesses to expand. As we'll show, in February of 2022 it did, by [merging with Surfshark, a rival VPN provider](https://www.zdnet.com/article/nordvpn-and-surfshark-announce-merger/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -51,6 +55,10 @@ In other words, a big part of NordVPN's appeal was that its hider customers coul
 
 Here's the core question: What happens when a company caters to hiders but hopes to become a well-respected security company with a broad range of offerings beyond VPN? 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Who is behind NordVPN?
 
 The company behind NordVPN is moving from a single-product vendor to a purveyor of security solutions. When a company sells a single product, tech journalists tend to focus on the product more than the vendor. But when a company starts to grow, especially in the security space, we start to profile the company as well as the products. We want to get to know the company, understand its strategy, identify its competitive position, and so forth. 
@@ -70,6 +78,10 @@ I was provided with a link to Eimantas' LinkedIn page, which also shows him as a
 All of that brings us back to [NordSec](https://nordsecurity.com/), which is the name Okman and his team chose to use going forward, at least in 2020 when I interviewed him. Think the name NordSec is familiar? NordSec is also the name of the [Nordic Conference on Secure IT Systems](http://www.nordsec.org/conferences/) and has been in use since 1996\. When I asked Okman about the possible trademark ramifications of using "NordSec," he replied, "we have a pending trademark application, and we provide a different type of service, so we don't think there is anything that could cause a conflict." Clearly, that didn't take, because the company is now known as Nord Security.
 
 Note that when I refer to NordSec in the following sections, it's because that's the name I used to trace these various players. As mentioned, the new name is Nord Security. When I'm using NordSec in the copy, it's referring to the company as it was promoted in 2020.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### working from home
 
@@ -143,6 +155,10 @@ To ensure customer confidence, we encourage Nord Security to conduct these audit
 
 And with that, let's look into each of Nord Security's offerings in detail. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NordVPN
 
 First up is NordVPN, the product/service that started it all. Founded in 2012 by Okman and his partner, the VPN service is in use by millions of users across the world. In an [exclusive report for PCMag](https://www.pcmag.com/news/nordvpn-dominates-vpn-market-share-and-that-will-likely-continue) by analyst firm [VPNpro.com](http://VPNpro.com) , PCMag reported that NordVPN had the most Google interest of any VPN service, with 1.29M searches per month as of February 2019\. 
@@ -194,6 +210,10 @@ There are three net positives from the development and adoption of the NordLynx 
 
 With NordLynx, the company has been able to leverage a cutting-edge open source technology and adapt it to fit their product and service needs. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NordPass
 
 With NordPass, the company aims to take on market leaders like LastPass and 1Password in the password manager wars. 
@@ -242,6 +262,10 @@ Okman tells us that Nord Security is discussing future integration of NordVPN wi
 
 Finally, Okman tells us Nord Security is considering entering the secure hosting field. We'll be watching closely for more news on that possible development. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NordSec in 2025
 
 We asked Okman to speculate about Nord Security's long term growth and evolution. We wanted to get an idea of what Okman's vision was for the company. Most companies never provide any forward-looking views into their product plans, so we were impressed that Okman gave us his future product vision. 
@@ -284,11 +308,33 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-iphone-autofocusing-a-guide-for-users/"><u>[New] 2024 Approved Mastering iPhone Autofocusing A Guide for Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>[New] The Playlist Puzzle Assembling Songs in New Spaces</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-custom-tunes-for-your-pixel-phone/"><u>[New] Unlocking Custom Tunes for Your Pixel Phone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-innovative-phone-applications-altering-your-natural-tone/"><u>[Updated] 2024 Approved Innovative Phone Applications Altering Your Natural Tone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-focus-freshness-the-ultimate-clear-image-software-guide/"><u>[Updated] Focus Freshness The Ultimate Clear Image Software Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discover-the-prime-lineup-of-affordable-cutting-tools/"><u>[Updated] In 2024, Discover the Prime Lineup of Affordable Cutting Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-transformation-of-windows-10-landscape/"><u>[Updated] The Transformation of Windows 10 Landscape</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-using-azures-voice-recognition/"><u>2024 Approved The Essentials of Using Azure's Voice Recognition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-your-single-picture-into-video-magic-with-pixiz/"><u>2024 Approved Transforming Your Single Picture Into Video Magic with Pixiz</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/achieve-job-appeal-write-cover-letters-with-chatgpt-tips/"><u>Achieve Job Appeal: Write Cover Letters with ChatGPT Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-next-generation-of-vr-innovations-reviewed/"><u>In 2024, The Next Generation of VR Innovations Reviewed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-instagrams-live-broadcasting/"><u>Navigating Instagram's Live Broadcasting</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oneplus-nord-ce-3-lite-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on OnePlus Nord CE 3 Lite 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-upside-and-downside-of-virtual-reality-experience-for-2024/"><u>The Upside and Downside of Virtual Reality Experience for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-issues-with-utorrents-connection-and-download-functionality/"><u>Troubleshooting Tips: Resolving Issues with uTorrent's Connection & Download Functionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-gopro-max-or-hero-11-for-2024/"><u>Ultimate Guide to GoPro Max or Hero 11 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-issues-with-game-finals-release/"><u>Ultimate Guide: Resolving Issues with Game Finals Release</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-creative-potential-with-10-best-backdrop-modification-software-for-2024/"><u>Unlock Creative Potential with 10 Best Backdrop Modification Software for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/windows-11mp43/"><u>Windows 11におけるMP4ビデオ編集のスライシング：推薦する3つのテクニック</u></a></li>
+</ul></div>
+

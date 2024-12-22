@@ -1,7 +1,7 @@
 ---
 title: "Tame Your Overflowing Google Drive: How an Ingenious Tool Rescued Me From a Clutter Catastrophe, as Seen on ZDNET!"
-date: 2024-09-17 16:29:10
-updated: 2024-09-20 10:48:52
+date: 2024-12-18T00:13:15.715Z
+updated: 2024-12-20T20:39:50.134Z
 tags:
   - cloud
 categories:
@@ -41,6 +41,10 @@ But even then, I still face the problem I described above -- how much storage is
 
 Fortunately, while Google doesn't offer a solution, a developer named Brett Batie in Traverse City, MI has come up with a solution. It's called [Filerev](https://filerev.com/) and it does just what you would have expected Google Drive to do. It answers questions and helps manage vast amounts of data. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Understanding (or not understanding) current storage utilization 
 
 When we [last encountered this issue](https://www.zdnet.com/article/the-other-shoe-finally-dropped-on-my-google-enterprise-cloud-storage-plan/), I was trying to optimize my storage utilization, so that it didn't grow beyond its new 75TB bounds. 
@@ -72,6 +76,10 @@ As for the Details pane (pain?), it doesn't contain any data about size at all. 
 Screenshot by David Gewirtz/ZDNET
 
 So, how on Earth can I determine how much storage I am using in each of my folders? We're talking about an enterprise account with 58TB of storage. And yet, there's no visibility into storage utilization. It's not just bizarre, it's deeply inconvenient. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Say hello to Filerev 
 
@@ -123,6 +131,10 @@ As it turns out, that storage category accounts for all my virtual machines. And
 
 It won't be easy to trim down those VM syncs, but it's definitely something I can look at, because I know a bunch of those VMs are very obsolete. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Final thoughts 
 
 I made a few interesting discoveries. My Cloud Backup share isn't the villain I thought it was. That honor goes to the Liberty Backups folder. Second, the biggest category of storage is my storage of old VMs. That's a homework assignment I need to follow up on to clear out more space. 
@@ -143,11 +155,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-insights-into-a-common-icon-what-is-fbs-blue-video-symbol/"><u>[New] 2024 Approved Insights Into a Common Icon What Is FB’s Blue Video Symbol?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-sites-for-fetching-got-ringtone-downloads/"><u>[New] Top Sites for Fetching GoT Ringtone Downloads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-short-chords-long-stories-musical-roles-played/"><u>[Updated] 2024 Approved Short Chords, Long Stories Musical Roles Played</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-guide-to-websites-for-text-alteration/"><u>[Updated] Comprehensive Guide to Websites for Text Alteration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-tutorial-for-full-utilization-of-final-cut-pro/"><u>[Updated] Ultimate Tutorial for Full Utilization of Final Cut Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-professionals-guide-to-innovative-360-cams-2023/"><u>2024 Approved The Professionals’ Guide to Innovative 360° Cams, 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solution-for-the-perplexing-unspecified-error-error-code-0x80004005/"><u>Comprehensive Solution for the Perplexing Unspecified Error (Error Code: 0X80004005)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cutting-edge-strategies-for-iptv-capture-success-for-2024/"><u>Cutting-Edge Strategies for IPTV Capture Success for 2024</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-11-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 11 Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-tecno-spark-go-2023-easily-by-drfone-android/"><u>How To Unlock a Tecno Spark Go (2023) Easily?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/image-magic-top-10-frame-enhancement-tools-online-for-2024/"><u>Image Magic Top 10 Frame-Enhancement Tools Online for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-ultimate-15-stop-motion-film-collection/"><u>In 2024, Unveiling the Ultimate 15 Stop-Motion Film Collection</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Advancing Generative AI: How Telecom Companies Can Find Practical Applications Like They Did with 5G"
-date: 2024-09-17 22:10:43
-updated: 2024-09-20 12:12:10
+date: 2024-12-16T04:23:52.237Z
+updated: 2024-12-20T17:40:14.809Z
 tags:
   - cloud
 categories:
@@ -61,6 +61,10 @@ GSMA projects that 5G connections will grow from 1.6 billion to 2.1 billion by t
 
 Jarich noted that use cases can differ for regions and markets, giving local telcos further opportunities to find new revenue. And with most GenAI services running on the cloud, operators can play a differentiating role in facilitating these. For instance, they can provide support for edge computing, which will be important for some GenAI services such as real-time language translation and smaller large language models (LLMs) that can be hosted on the device. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dedicated foundation model for telcos
 
 Domain-specific LLMs also are being made available to help identify GenAI use cases specific to the needs of a particular sector, such as financial or healthcare. 
@@ -118,11 +122,33 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 202
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-heightened-aesthetics-editing-high-resolution-footage-in-fcpx-for-instagram-for-2024/"><u>[New] Heightened Aesthetics Editing High-Resolution Footage in FCPX for Instagram for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-your-video-editing-with-device-filters/"><u>[New] Streamlining Your Video Editing with Device Filters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-frame-rate-in-languid-videos/"><u>[New] Superior Frame Rate in Languid Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-notch-tricks-to-nail-every-green-screen-shot/"><u>[New] Top-Notch Tricks to Nail Every Green Screen Shot</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-uncovering-potential-through-skilled-interviewing-for-2024/"><u>[New] Uncovering Potential Through Skilled Interviewing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-trailer-treasure-chest/"><u>[Updated] Ultimate Trailer Treasure Chest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-a-million-eyes-engaging-content-strategy/"><u>[Updated] Unlock a Million Eyes Engaging Content Strategy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-creative-overlays-for-video-content/"><u>2024 Approved Top 10 Creative Overlays for Video Content</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-f25-pro-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-simplified-non-windows-life-with-an-incredibly-cheap-hp-chromebook-offering-136-off-techradar-exclusive/"><u>Discover the Simplified Non-Windows Life with an Incredibly Cheap HP Chromebook Offering $136 Off – TechRadar Exclusive</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/geef-een-gratis-herstel-voor-gewoontevolumes-die-vergeten-zijn-geraakt-bij-windows-10/"><u>Geef Een Gratis Herstel Voor Gewoontevolumes Die Vergeten Zijn Geraakt Bij Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-layers-of-a-great-humorous-poster/"><u>In 2024, The Layers of a Great Humorous Poster</u></a></li>
+<li><a href="https://howto.techidaily.com/oppo-find-x6-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X6 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quicktime-on-mac-efficient-techniques-for-smoothly-editing-and-trimming-videos/"><u>QuickTime on Mac: Efficient Techniques for Smoothly Editing and Trimming Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-world-access-errors-how-to-fix-minecraft-cannot-connect/"><u>Resolving World Access Errors - How to Fix 'Minecraft Cannot Connect'</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/reviewing-the-high-quality-video-on-galaxy-s8-for-2024/"><u>Reviewing the High-Quality Video on Galaxy S8 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-checkpoint-a-2021-review-of-vegas-pros-latest-features-for-2024/"><u>The Ultimate Checkpoint A 2021 Review of Vegas Pro's Latest Features for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unblemished-visuals-buying-high-quality-images-for-2024/"><u>Unblemished Visuals Buying High-Quality Images for 2024</u></a></li>
+</ul></div>
+

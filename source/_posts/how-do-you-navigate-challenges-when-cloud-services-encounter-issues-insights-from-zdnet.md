@@ -1,7 +1,7 @@
 ---
 title: How Do You Navigate Challenges When Cloud Services Encounter Issues? Insights From ZDNet
-date: 2024-09-17 18:47:50
-updated: 2024-09-20 10:56:48
+date: 2024-12-19T01:37:07.401Z
+updated: 2024-12-21T04:23:57.351Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ The proliferation of cloud means more complications when it comes to running thi
 Joe McKendrick
 
 A few years back, I helped conduct a survey in which we asked IT managers how they first learn of incidents or slowdowns in their services. The leading method was via phone calls or emails from users or customers. The second leading method was via phone calls or emails from (gulp) their top executives.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -82,11 +86,27 @@ Thurai provides the following guidelines for handling incidents:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-moto-z2-masterclass-smartphone-smarts-explored/"><u>[New] In 2024, Moto Z2 Masterclass Smartphone Smarts Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-your-potential-best-video-editing-hacks/"><u>[New] Unlock Your Potential Best Video Editing Hacks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-advanced-techniques-for-using-the-instagram-sticker-question-mark/"><u>[Updated] Advanced Techniques for Using the Instagram Sticker Question Mark</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-smartest-podcast-renaming-options-through-ai-technology/"><u>[Updated] The Smartest Podcast Renaming Options Through AI Technology</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unveiling-the-new-era-of-screen-capture-with-apeaksoft/"><u>[Updated] Unveiling the New Era of Screen Capture with Apeaksoft</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-ever-approved-reddit-threads-a-historical-list/"><u>2024 Approved Top 10 Ever-Approved Reddit Threads A Historical List</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/descargar-y-convertir-archivo-3gp-a-mpeg-4-sin-costo-con-conversor-de-video-online-facil/"><u>Descargar Y Convertir Archivo 3GP a MPEG-4 Sin Costo Con Conversor De Video Online Fácil</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/family-fun-with-the-holy-stone-remote-control-race-car-series-a-comprehensive-review/"><u>Family Fun with the Holy Stone Remote Control Race Car Series - A Comprehensive Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/harnessing-the-potential-of-ipados-the-new-era-of-workplace-productivity-begins-with-apples-latest-ipad-102-7th-gen/"><u>Harnessing the Potential of iPadOS: The New Era of Workplace Productivity Begins with Apple's Latest iPad 10.2 (7Th Gen)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oppo-reno-10-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Oppo Reno 10 Pro 5G without App | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-visual-storytelling-made-simple-with-windows-10s-tools/"><u>In 2024, The Art of Visual Storytelling Made Simple with Windows 10'S Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-typing-issues-in-windows-10-and-11-a-guide-to-repair-malfunctioning-alphabet-keys/"><u>Solving Typing Issues in Windows 10 and 11: A Guide to Repair Malfunctioning Alphabet Keys</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-insiders-guide-to-excellence-in-zoom-webinars-for-2024/"><u>The Insider’s Guide to Excellence in Zoom Webinars for 2024</u></a></li>
+</ul></div>
+

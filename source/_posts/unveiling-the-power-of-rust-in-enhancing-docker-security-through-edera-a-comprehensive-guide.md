@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Power of Rust in Enhancing Docker Security Through Edera - A Comprehensive Guide
-date: 2024-09-19 21:26:43
-updated: 2024-09-20 12:57:49
+date: 2024-12-14T03:54:27.343Z
+updated: 2024-12-21T00:30:00.087Z
 tags:
   - cloud
 categories:
@@ -26,6 +26,10 @@ If you're a techie, you may think that's true, but aren't hypervisors of both ty
 The foundation of the new program is [Krata](https://github.com/edera-dev/krata). This is a Xen-based, single-host hypervisor built for [Open Container Initiative (OCI)](https://opencontainers.org/)\-compliant containers. It isolates containers with a fully memory-safe Rust control plane to bring Xen tooling into a new, secure era. In addition, Edera uses Lukko, an open-source memory safety runtime library. This library detects memory safety violations at runtime and cleanly terminates programs before they can be exploited.
 
 Edera is secure by design. It's the only independent solution that offers isolation at the container level, making container escapes impossible, no matter where you run your infrastructure: a hyper cloud, a local cloud, or your own servers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Edera's key features
 
@@ -90,11 +94,31 @@ I'm excited to see what they do going forward. This really is a new, innovative 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-the-lannister-line-up-top-list-of-websites-for-game-ringtones/"><u>[Updated] The Lannister Line-Up Top List of Websites for Game Ringtones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-video-content-using-story-remix-on-windows-photos/"><u>[Updated] Transform Your Video Content Using Story Remix on Windows Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-quickly-change-your-characters-vocal-tone-pubg/"><u>[Updated] Unlocking the Secrets Quickly Change Your Character's Vocal Tone (PUBG)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-converting-any-tiktok-sound-into-phone-alerts/"><u>2024 Approved The Ultimate Guide Converting Any TikTok Sound Into Phone Alerts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-professional-quality-passport-portraits-with-these-10-apps/"><u>2024 Approved Unlock Professional-Quality Passport Portraits with These 10 Apps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/choosing-a-video-recorder-a-pre-buy-guide-summary/"><u>Choosing a Video Recorder: A Pre-Buy Guide Summary</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/discover-new-party-anthems-with-party-tyme-karaoke-join-the-club-and-jam-to-our-latest-playlist-launched-on-june-6th-start-your-free-trial-now/"><u>Discover New Party Anthems with Party Tyme Karaoke! Join the Club & Jam to Our Latest Playlist Launched on June 6Th - Start Your Free Trial Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-lgbt-cinema-offerings-available-on-netflix-in-july-2024/"><u>Discover the Best LGBT Cinema Offerings Available on Netflix in July 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/enhance-cinematic-vision-using-ae-luts-effectively/"><u>Enhance Cinematic Vision Using AE LUTs Effectively</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-nokia-xr21-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Nokia XR21 Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/rapid-rise-to-affiliate-hit-the-pivotal-10000-view-mark/"><u>Rapid Rise to Affiliate Hit the Pivotal 10,000 View Mark</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-honor-90-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Honor 90</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/step-by-step-guide-to-mastering-chinese-warmth-exchanges/"><u>Step-by-Step Guide to Mastering Chinese Warmth Exchanges</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-hp-dreamcolor-z32x-review-a-quest-for-perfection-for-2024/"><u>The HP DreamColor Z32X Review A Quest for Perfection for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-strength-of-details-why-hdr-triumphs-over-sdr-for-2024/"><u>The Strength of Details Why HDR Triumphs Over SDR for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211350958-9780061754579-totems/"><u>Totems | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-visual-quality-in-the-best-4k-panels-ranked-1-10-for-2024/"><u>Unmatched Visual Quality in the Best 4K Panels, Ranked #1-10 for 2024</u></a></li>
+</ul></div>
+

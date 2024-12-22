@@ -1,7 +1,7 @@
 ---
 title: Enhancing Cybersecurity with Single Sign-On & Multi-Factor Authentication Strategies by Global Organizations | ZDNet
-date: 2024-09-17 13:55:18
-updated: 2024-09-20 12:56:50
+date: 2024-12-19T00:57:02.421Z
+updated: 2024-12-21T05:26:50.848Z
 tags:
   - cloud
 categories:
@@ -36,6 +36,10 @@ Generali is one of the one of the largest insurance and asset management provide
 But while many businesses suddenly had to shift towards a hybrid model without having planned for it in 2020, Generali was already examining a cloud-based approach to work over a year before that, so the company was in a good place to adapt to the new world of work. 
 
 "We think we were ahead of the curve," says Winter. "We don't have datacenters, everything is in the cloud. It's either software-as-a-service or platform-as-a-service."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -96,11 +100,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-ultimate-insights-into-audio-memos/"><u>[New] 2024 Approved The Ultimate Insights Into Audio Memos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-total-data-for-uninterrupted-viewer-experience/"><u>[New] 2024 Approved Total Data for Uninterrupted Viewer Experience</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-professional-take-the-syma-x5c-ideal-first-timers-droning-companion/"><u>[Updated] In 2024, Professional Take The Syma X5C – Ideal First-Timer's Droning Companion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-visual-effects-to-elevate-your-film-cutting/"><u>[Updated] Top Visual Effects to Elevate Your Film Cutting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-topic-titling-artisans-assistant/"><u>[Updated] Topic Titling Artisan's Assistant</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-sound-transformation-app-for-valorant-the-best-free-choice/"><u>[Updated] Ultimate Sound Transformation App for Valorant The Best Free Choice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-superior-video-compression-in-av1/"><u>[Updated] Unveiling the Superior Video Compression in AV1</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-100-virtual-bicycle-escapades-to-experience/"><u>2024 Approved Top 100 Virtual Bicycle Escapades to Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-the-secrets-of-inshot-editing-excellence/"><u>2024 Approved Unraveling the Secrets of InShot Editing Excellence</u></a></li>
+<li><a href="https://fox-access.techidaily.com/8-cutting-edge-skins-perfect-for-your-laptop-for-2024/"><u>8 Cutting-Edge Skins Perfect for Your Laptop for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-still-shots-from-video-using-photos-on-windows-10/"><u>In 2024, Capture Still Shots From Video Using Photos on Windows 10</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-pioneering-televised-facebook-interactions-via-live-streams/"><u>In 2024, Pioneering Televised Facebook Interactions via Live Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-video-editing-with-device-filters/"><u>In 2024, Streamlining Your Video Editing with Device Filters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-compact-powerhouse-in-flight-dji-sparks-guide-to-aerial-selfies/"><u>In 2024, The Compact Powerhouse in Flight DJI Spark's Guide to Aerial Selfies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-top-12-ultimate-tycoon-adventures-for-unbeatable-engagement/"><u>In 2024, Top 12 Ultimate Tycoon Adventures for Unbeatable Engagement</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hares-we-watch-top-female-content-creators-on-youtube-for-2024/"><u>She Shares, We Watch Top Female Content Creators on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/small-shop-success-through-social-video-content/"><u>Small Shop Success Through Social Video Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-straightforward-guide-to-photo-uploads-on-instagram-for-2024/"><u>The Straightforward Guide to Photo Uploads on Instagram for 2024</u></a></li>
+</ul></div>
+

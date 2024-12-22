@@ -1,7 +1,7 @@
 ---
 title: Arista Elevates Network Solutions with Enhanced Routing Options Tailored for the Cloud Era, as Reported by ZDNet
-date: 2024-09-19 11:19:56
-updated: 2024-09-20 12:16:16
+date: 2024-12-20T00:48:22.173Z
+updated: 2024-12-20T19:13:28.464Z
 tags:
   - cloud
 categories:
@@ -17,6 +17,10 @@ iStockphoto/Getty Images
 
 High-performance network software maker [Arista Networks](https://www.arista.com/en/) today unveiled what it describes as next-generation cloud-grade routing. The logic behind this is that routing needs to evolve to meet the demands of the cloud.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best cloud storage services Free and cheap personal and small business cloud storage services are everywhere. But, which one is best for you? Let's look at the top cloud storage options.  Read now](https://www.zdnet.com/article/best-cloud-storage/)
@@ -26,6 +30,10 @@ The concept is certainly sound because networks now do much more than simply con
 Historically, companies have thought of networks as discrete entities: mobile, carrier, and business networks. But most cloud apps traverse all three, so experience and security depend on interoperability between the domains.
 
 Arista introduced the concept of [cloud-grade routing](https://www.arista.com/en/solutions/cloud-scale-routing) a little over half a decade ago with the idea of having a single software stack with a set of routing capabilities that could meet the needs of enterprises, service providers, and cloud operators. This week, it introduced several net solutions, capabilities, and platforms to evolve that cloud-grade routing. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Arista introduces TunnelSec to simplify encryption 
 
@@ -41,9 +49,17 @@ TunnelSec now comes embedded in Arista's cloud-grade routing platforms. All of A
 
 The single OS and data lake are Arista's secret sauce. More and more network operations require AI-driven insights to optimize performance and secure the network. One set of data and its OS enable Arista to analyze information much faster than if it had to aggregate silos of information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Arista's reach has expanded past cloud titans 
 
 By innovating in this space, Arista was able to cross the chasm from the data center to modern routing. The Santa Clara, Calif.-based vendor has a sizable base of customers that have successfully deployed its cloud-grade routing. The list includes cloud giants (Microsoft, Meta), specialty cloud providers (Netflix, CDLAN, Zenlayer), service providers (Comcast, Arelion, Vocus), and internet exchanges (Netnod, Equinix, Seattle Internet Exchange). Vocus, for example, has refreshed its entire backbone and edge by tapping Arista across its 200 sites. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## New edge capabilities introduced 
 
@@ -52,6 +68,10 @@ In addition to TunnelSec, Arista revealed a secure enterprise edge capability, w
 The last capability Arista launched is encryption and timing, designed for compact modular routing. A key aspect of the current 5G network buildout is timing. It requires highly accurate timing enabled by segment routing in order to develop the infrastructure for smart cities, autonomous vehicle connectivity, and other use cases. Arista's new capability provides modular routing with precision timing and encrypts the traffic.
 
 **Also:** [**The future of the web will need a different sort of software developer**](https://www.zdnet.com/article/the-future-of-the-web-will-need-a-different-sort-of-software-developer/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Arista rolls out Jericho 2C+ hardware platforms 
 
@@ -84,11 +104,23 @@ Arista, once thought of as a network vendor that only served the needs of cloud 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-the-instructors-handbook-on-video-assisted-pedagogy/"><u>[New] The Instructor's Handbook on Video-Assisted Pedagogy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-itunes-podcast-enrollment/"><u>[New] Tips for iTunes Podcast Enrollment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superior-scripting-fx-vaults/"><u>[Updated] Superior Scripting FX Vaults</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-user-friendly-budget-optimizing-passport-photo-creators/"><u>[Updated] Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-trends-in-effective-podcast-naming/"><u>2024 Approved Top 10 Trends in Effective Podcast Naming</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/adopting-cloud-solutions-trustid-implements-abbyy-ocr-for-enhanced-identity-verification/"><u>Adopting Cloud Solutions: TrustID Implements ABBYY OCR for Enhanced Identity Verification</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/expert-advice-seamless-srt-file-sharing-across-all-social-networks-for-2024/"><u>Expert Advice Seamless SRT File Sharing Across All Social Networks for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-seamlessly-upload-videos-onto-youtubes-platform/"><u>How to Seamlessly Upload Videos Onto YouTube's Platform</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleashing-power-with-gem12-pro-featuring-the-enhanced-amd-ryzen-7-8845hs-cpu-inbuilt-display-and-overclocking-connectivity/"><u>Unleashing Power with Gem12 Pro: Featuring the Enhanced AMD Ryzen 7 8845HS CPU, Inbuilt Display & Overclocking Connectivity</u></a></li>
+</ul></div>
+

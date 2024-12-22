@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Take on WP Engine: An In-Depth Review of Managed WordPress Hosting Excellence"
-date: 2024-09-18 23:12:51
-updated: 2024-09-20 10:22:35
+date: 2024-12-19T01:44:19.628Z
+updated: 2024-12-20T22:54:28.166Z
 tags:
   - cloud
 categories:
@@ -37,6 +37,10 @@ As such, [WP Engine's basic plan](https://shareasale.com/r.cfm?b=394686&u=433802
 As you transition from a site with a few pages to [a site like mine with a lot of complexity](https://www.zdnet.com/article/anatomy-of-a-wordpress-site/) but that's still relatively small, to huge sites like ZDNET, the cost of hosting goes up considerably. WP Engine targets small businesses up through enterprise needs, so its pricing reflects the resources those customers need to be able to use. 
 
 For our review, I've chosen the $20 per month Startup Plan. Keep in mind that when you sign up for this plan, you're not paying $20 each month, doled out over the course of the year. You're expected to pay $240 when you sign up. Also note that when you renew, the price will jump. You'll be paying $360 per year thereafter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to install WordPress with WP Engine  
 
@@ -106,6 +110,10 @@ This might also be a good place to mention that WP Engine produces the [Local Wo
 
 I can personally attest to the quality of the Local implementation. As I mentioned in [my development tools article](https://www.zdnet.com/article/one-developers-favorite-mac-coding-tools-for-php-and-web-development/), I use Local every day for coding and maintenance of the WordPress plugins I manage. It's a very helpful tool. And, it's free. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Quick security checks with WP Engine
 
 Security is one of the biggest issues when it comes to operating a website. You want to make sure your site is safe from hackers, doesn't flag Google, and can connect securely to payment engines if you're running an e-commerce site of any kind. 
@@ -143,6 +151,10 @@ Also, Brent Stackhouse, VP of Security and IT at WP Engine, tells us:
 
 The bottom line is that WP Engine is on track for the core WordPress components and a little behind on supporting encryption and data transfer, but testing shows it's not far enough behind to cause a security threat. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Performance testing WP Engine
 
 Next, I wanted to see how the site performed using some online performance testing tools. It's important not to take these tests too seriously. These are just quick tests on a site with no traffic.
@@ -167,11 +179,19 @@ Now, here's the gotcha. Basic performance is fine, but we don't have data for ho
 
 I say this a lot in my reviews, but take advantage of the money-back time period to fully test out results for yourself. You have 60 days with WP Engine. Make sure to use them. And if you run into performance issues, reach out to the company. Managed hosting services are supposed to provide better hands-on support, so use it. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WP Engine support and money-back guarantee
 
 WP Engine does have 24/7/365 live chat support. I tried it out at 1 a.m. on a Sunday morning (what? I'm a night person) and found the support representative to be both knowledgeable and friendly.
 
 WP Engine offers a 60-day money-back guarantee. Here's a [blog post that explains how to cancel](https://wpengine.com/support/cancel/) the various types of service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Overall conclusion: No complaints
 
@@ -227,11 +247,31 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-expert-approaches-for-preserving-facetime-calls/"><u>[New] 2024 Approved Expert Approaches for Preserving FaceTime Calls</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-protective-phone-cases-with-screen-shields/"><u>[New] Protective Phone Cases with Screen Shields</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-simplifying-image-editing-with-picsarts-background-tool/"><u>[New] Simplifying Image Editing with Picsart's Background Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-your-podcast-for-apple-platform-access/"><u>[New] Streamlining Your Podcast for Apple Platform Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-spots-for-discovering-rich-gold-text-effects/"><u>[New] Ultimate Spots for Discovering Rich, Gold Text Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-taking-the-plunge-a-beginners-guide-to-metaverse-memes-and-gags/"><u>[Updated] Taking the Plunge A Beginner's Guide to Metaverse Memes and Gags</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-photographers-manual-how-to-crop-images-seamlessly-online/"><u>[Updated] The Photographer's Manual How To Crop Images Seamlessly Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vegas-pro-19-review/"><u>[Updated] VEGAS Pro 19 Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-potential-essential-win11-tools/"><u>2024 Approved Unleashing Potential Essential Win11 Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-vegaspro-the-19-edition/"><u>2024 Approved Unveiling VegasPro The '19 Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/film-fanatics-unite-ioss-best-free-and-paid-filmmaking-tools/"><u>Film-Fanatics Unite! IOS's Best Free & Paid Filmmaking Tools</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-tecno-pop-7-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Tecno Pop 7 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-logo-blueprint-tailor-and-share-your-brand-identity/"><u>In 2024, Free Logo Blueprint Tailor and Share Your Brand Identity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-notch-visual-chronology-creator/"><u>In 2024, Top-Notch Visual Chronology Creator</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-screen-captures-on-nintendo-switch-console/"><u>Step-by-Step Instructions for Screen Captures on Nintendo Switch Console</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guides-on-latest-hardware/"><u>Tom's Tech Review: Comprehensive Guides on Latest Hardware</u></a></li>
+</ul></div>
+

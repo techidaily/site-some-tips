@@ -1,7 +1,7 @@
 ---
 title: How Google Unveils Duet Artificial Intelligence to Combat Emerging Cybersecurity Risks in the Cloud | Insights by ZDNET
-date: 2024-09-18 11:28:16
-updated: 2024-09-20 10:34:46
+date: 2024-12-15T17:50:32.149Z
+updated: 2024-12-20T18:08:11.229Z
 tags:
   - cloud
 categories:
@@ -41,11 +41,19 @@ One way these challenges can be tackled is by utilizing AI as part of a "holisti
 
 Here's everything you need to know about Google's security enhancements introduced at Google Next 2023 and the expansion of Duet AI capabilities -- all of which are at the heart of new security offerings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Duet AI?
 
 Introduced to Google Workspace and Google Cloud in [May](https://workspace.google.com/blog/product-announcements/duet-ai), Duet Al is an "always-on Al collaborator" that provides AI-based assistance including writing help, spreadsheet improvements, note-taking, and more. In the [cloud](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud), Duet AI focuses on code development assistance, natural language processing, and business application development.
 
 At Google Next, the company debuted new security-related features to the AI tool. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Introducing Duet AI: Mandiant Threat Intelligence
 
@@ -79,6 +87,10 @@ Ed Murphy, Product Manager & Shelly Tzoumas, Senior Product Marketing Manager, c
 
 Duet Al in Chronicle Security Operations is now available in preview and is expected to become generally available this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Duet Al in Security Command Center
 
 Google
@@ -90,6 +102,10 @@ Duet Al is also being integrated into Google Cloud's [Security Command Center](h
 Now, Duet AI will be offered for the "near-instant" analysis of security issues and potential attack paths. Google says that the introduction of AI into Security Command Center will reduce the legwork associated with threat analysis, with summaries allowing defenders to focus on remediation and prevent "critical findings" from being overlooked. 
 
 Furthermore, Google is adding Tenable's agentless vulnerability scanning to the security solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mandiant Hunt for Chronicle
 
@@ -104,6 +120,10 @@ According to Google, Mandiant Hunt, the managed threat-hunting service, now "int
 Google says:
 
 "Mandiant Hunt for Chronicle provides continual threat hunting by Mandiant experts on Chronicle data to expose attacker activity and help reduce business impact. It integrates the latest insights into attacker behavior from Mandiant's frontline experts with Chronicle Security Operations' powerful ability to quickly analyze and search security data. Mandiant Hunt for Chronicle can help organizations close the skills gap and gain elite-level support without the burden of hiring, tooling, and training."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Google Next?
 
@@ -133,11 +153,30 @@ Google says:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-superior-plot-strategies-across-diverse-cinematic-fields/"><u>[New] Superior Plot Strategies Across Diverse Cinematic Fields</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-secrets-of-effective-job-interview-techniques/"><u>[New] Unlocking the Secrets of Effective Job Interview Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-your-pc-best-8-video-capture-tools-for-windows-10/"><u>[Updated] Elevate Your PC Best 8 Video Capture Tools for Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-quick-recovery-of-twitch-broadcasts/"><u>[Updated] The Quick Recovery of Twitch Broadcasts</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-image-enhancement-pivotal-pixlr-insights/"><u>2024 Approved The Art of Image Enhancement Pivotal Pixlr Insights</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bring-life-to-graphics-adobe-blur-masterclass-for-2024/"><u>Bring Life to Graphics Adobe Blur Masterclass for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-tecno-pova-5-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Tecno Pova 5 Phones? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-itel-p55-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Itel P55 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-x-freeze-frames-and-slow-motion/"><u>In 2024, Final Cut Pro X Freeze-Frames and Slow Motion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-best-voice-altering-software-for-your-virtual-persona/"><u>In 2024, The Best Voice-Altering Software for Your Virtual Persona</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-free-screen-recorders-on-windows-10/"><u>In 2024, Top 5 Free Screen Recorders on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sneak-peek-into-the-future-samsung-galaxy-z-flip-ns-arrival-value-and-innovations/"><u>Sneak Peek Into the Future: Samsung Galaxy Z Flip N's Arrival, Value & Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-basics-of-electronic-story-craftsmanship-for-2024/"><u>The Basics of Electronic Story Craftsmanship for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unravel-the-mystery-of-the-overly-green-hue-in-mac-recordings-for-2024/"><u>Unravel the Mystery of the Overly Green Hue in Mac Recordings for 2024</u></a></li>
+</ul></div>
+

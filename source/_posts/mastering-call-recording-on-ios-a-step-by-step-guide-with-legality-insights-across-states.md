@@ -1,7 +1,7 @@
 ---
 title: "Mastering Call Recording on iOS: A Step-by-Step Guide with Legality Insights Across States"
-date: 2024-12-09T18:28:19.435Z
-updated: 2024-12-12T16:24:45.931Z
+date: 2024-12-17T23:10:09.088Z
+updated: 2024-12-21T03:25:05.716Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ Below, we'll walk you through how to add your ID to your iPhone, and how and whe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which states currently support adding your ID to the Apple Wallet app?
@@ -57,7 +57,7 @@ There's no clear timing on when the support will be available for the states tha
 It's slow-going, but at least it's… _something?_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to add your driver's license or ID to the Wallet app
@@ -67,7 +67,7 @@ It's slow-going, but at least it's… _something?_
 Before you start the process of adding your ID to Apple Wallet, you'll want to make sure you have your physical driver's license or ID nearby -- you'll have to scan both sides during the process. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open the Wallet app and tap the plus sign
@@ -76,6 +76,10 @@ Start by opening the Wallet app, then tap on the + sign in the top-right corner 
 
 Screenshot by Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Scan your ID and go through a Face ID setup
 
 The rest of the signup process consists of scanning the front and back of your current ID, verifying that the scan is accurate, and then going through what amounts to a really weird Face ID setup process. 
@@ -83,10 +87,6 @@ The rest of the signup process consists of scanning the front and back of your c
 **Also:** [**How to use Apple Pay in stores and online**](https://www.zdnet.com/article/how-to-use-apple-pay-in-stores-and-online/)
 
 You'll be asked to hold your iPhone steady, with the front-facing camera looking at you, and then turn your head to the left until your phone vibrates. You'll then be asked to open your mouth, smile, close your eyes, and then turn your head to the right. If you move your phone too much, the process starts all over, so be steady! 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Take a photo of yourself and submit all your information to the state DMV
 
@@ -115,7 +115,7 @@ The [process is similar on the Apple Watch](https://www.youtube.com/watch?v=fFX%
 The most important part to note here is that even if someone were to try and force your iPhone to transmit your personal information, that doesn't actually happen until you've approved it using Face ID or Touch ID on your phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I live in New York State. Can I join the program?
@@ -158,24 +158,20 @@ The New York Mobile ID is not yet compatible with Apple Wallet, but considering 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-strategies-for-sourcing-a-list-cinematography-experts/"><u>[New] Strategies for Sourcing A-List Cinematography Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-art-of-video-storytelling-integrating-audio-narration/"><u>[New] The Art of Video Storytelling Integrating Audio Narration</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-step-by-step-reversing-video-order-on-vlc-platform/"><u>[Updated] 2024 Approved Step-by-Step Reversing Video Order on VLC Platform</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-stealthy-sound-suppression-techniques-for-fade-out/"><u>[Updated] Stealthy Sound Suppression Techniques for Fade-Out</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-essential-guide-to-blur-techniques-for-dynamic-artwork/"><u>[Updated] The Essential Guide to Blur Techniques for Dynamic Artwork</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-landscape-of-augmented-reality-stickers-spotlight-on-google/"><u>[Updated] The Landscape of Augmented Reality Stickers Spotlight on Google</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-gopro-camera-showdown/"><u>[Updated] The Ultimate GoPro Camera Showdown</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-samsung-galaxy-f14-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Samsung Galaxy F14 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ekwb-admits-mistakes-publicly-apologizes-for-late-employee-and-supplier-payouts-promises-change/"><u>EKWB Admits Mistakes – Publicly Apologizes for Late Employee & Supplier Payouts, Promises Change</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-synergy-strategies-for-ig-and-tiktok/"><u>In 2024, Synergy Strategies for IG & TikTok</u></a></li>
-<li><a href="https://techidaily.com/interactive-voice-engagement-introducing-the-new-era-of-google-gemini-for-smartphones/"><u>Interactive Voice Engagement: Introducing the New Era of Google Gemini for Smartphones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-audio-preferences-podcasts-or-youtube-in-2024/"><u>Navigating Audio Preferences Podcasts or YouTube, In 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfecting-video-speed-for-engaging-instagram-stories-for-2024/"><u>Perfecting Video Speed for Engaging Instagram Stories for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-visualizing-audio-brilliance-for-2024/"><u>The Ultimate Guide to Visualizing Audio Brilliance for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-qwerty-keyboards-comprehensive-testing-and-reviews-techadvisor/"><u>Top-Rated QWERTY Keyboards : Comprehensive Testing & Reviews | TechAdvisor</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-visual-treasures-top-10-free-image-stores-for-2024/"><u>Unlocking Visual Treasures – Top 10 FREE Image Stores for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-magic-transforming-scenes-with-gopro-timelapse-for-2024/"><u>Unveiling the Magic Transforming Scenes with GoPro Timelapse for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-3d-animation-software-roundup-top-picks-for-every-budget/"><u>Updated 3D Animation Software Roundup Top Picks for Every Budget</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/imperator-rome-overview-balancing-imperial-ambition-with-potential-downfall/"><u>'Imperator: Rome' Overview - Balancing Imperial Ambition with Potential Downfall</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ow-to-find-your-comments-on-youtube-for-2024/"><u>[New] How to Find Your Comments on YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-affordable-asmr-recording-setup-excellence/"><u>[New] Ultimate Affordable ASMR Recording Setup Excellence</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mac-users-seamlessly-setting-up-streamlabs-in-obs/"><u>[Updated] Mac Users Seamlessly Setting Up Streamlabs in OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-symphonic-syncopation-perfecting-audio-transitions/"><u>[Updated] Symphonic Syncopation Perfecting Audio Transitions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-for-smooth-and-efficient-photo-background-blurring/"><u>[Updated] Tips for Smooth and Efficient Photo Background Blurring</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-insights-into-crafting-responses-to-youtube-comments/"><u>2024 Approved Insights Into Crafting Responses to YouTube Comments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-submission-a-podcasters-guide/"><u>2024 Approved Streamlining Submission A Podcaster's Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/behebt-fehler-im-startmenu-and-taskbar-bereich-auf-ihrem-windows-11-pc/"><u>Behebt Fehler Im Startmenü & Taskbar-Bereich Auf Ihrem Windows 11 PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/discover-10-instagram-accounts-mixing-humor-with-emotion/"><u>Discover 10 Instagram Accounts Mixing Humor with Emotion</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-shopping-in-china-major-changes-in-the-industry/"><u>New In 2024, Live Shopping in China Major Changes in the Industry</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/professional-recordings-ensuring-flawless-gameplay-footage-of-roblox-on-macs-for-2024/"><u>Professional Recordings Ensuring Flawless Gameplay Footage of Roblox on Macs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-magic-behind-luts-crafting-captivating-photos-for-2024/"><u>The Magic Behind LUTs Crafting Captivating Photos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-twitch-loophole-reviving-forgotten-chats-for-2024/"><u>The Twitch Loophole Reviving Forgotten Chats for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Joe Belfiore, Corporate Vice President for Office at Microsoft, to Depart After 32 Years | ZDNet Report
-date: 2024-09-18 23:26:38
-updated: 2024-09-20 12:25:37
+date: 2024-12-13T18:34:37.172Z
+updated: 2024-12-20T20:56:42.481Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Credit: Microsoft
 Joe Belfiore, who has been the Corporate Vice President of Microsoft's Office Group for the past two years and with the company in various roles for 32 years, has announced his retirement. Belfiore and Microsoft management announced his departure on October 27 via internal e-mails.   
   
 Word (pun intended) is this was a personal decision, not a forced one. And that Belfiore's departure won't result in any change of priorities within Office. Belfiore will be handing off his direct reports immediately but stay on until next summer as a senior advisor and coach to help with the transition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -61,11 +65,25 @@ Holecek will remain as Corporate Vice President of the Office Product Group, acc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/apture-your-best-side-tips-for-effective-talking-head-shots/"><u>[New] Capture Your Best Side Tips for Effective Talking-Head Shots</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-entering-the-metaverse-discovering-6-rich-examples-for-2024/"><u>[New] Entering the Metaverse Discovering 6 Rich Examples for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-nights-tale-videos-critical-take/"><u>[Updated] In 2024, Night's Tale Videos Critical Take</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-guide-crafting-perfect-collages/"><u>2024 Approved Master Guide Crafting Perfect Collages</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-footage-with-the-ideal-dimension-proportion/"><u>2024 Approved Transform Your Footage with the Ideal Dimension Proportion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creative-potential-with-pixiz-for-photo-videos/"><u>2024 Approved Unleashing Creative Potential with Pixiz for Photo Videos</u></a></li>
+<li><a href="https://facebook.techidaily.com/audio-revolution-facebook-enhances-user-interaction/"><u>Audio Revolution: Facebook Enhances User Interaction</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-balancing-act-managing-your-off-facebook-activity-displays-for-2024/"><u>The Balancing Act Managing Your Off-Facebook Activity Displays for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-addressing-miskeyed-characters-on-keyboard-devices/"><u>Troubleshooting: Addressing Miskeyed Characters on Keyboard Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/united-creatives-brands-meet-youtube-for-2024/"><u>United Creatives Brands Meet YouTube for 2024</u></a></li>
+</ul></div>
+

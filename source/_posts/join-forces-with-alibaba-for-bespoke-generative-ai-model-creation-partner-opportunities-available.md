@@ -1,7 +1,7 @@
 ---
 title: Join Forces with Alibaba for Bespoke Generative AI Model Creation - Partner Opportunities Available
-date: 2024-09-19 10:18:52
-updated: 2024-09-20 11:32:32
+date: 2024-12-18T01:00:39.517Z
+updated: 2024-12-20T22:35:19.962Z
 tags:
   - cloud
 categories:
@@ -45,6 +45,10 @@ Tongyi Qianwen already powers more than 10 functions on Alibaba's online collabo
 
 Tongyi Qianwen has both Chinese and English language capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Significant price cuts to cloud services
 
 The partnership program was launched at Alibaba Cloud's annual partners summit in Nanjing this week, where the vendor also unveiled price cuts to its core products and services. Ranging from 15% to 50%, the fee adjustments mark the biggest price reduction to date; however, only its customers in China will benefit from the cuts. 
@@ -84,11 +88,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-craft-a-memorable-youtube-channel-brand-for-more-viewers-for-2024/"><u>[New] Craft a Memorable YouTube Channel Brand for More Viewers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-importance-of-non-primary-footage-in-editing/"><u>[New] The Importance of Non-Primary Footage in Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-iphone-snaps-into-stunning-hdr-photos/"><u>[New] Transform Your iPhone Snaps Into Stunning HDR Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-universalviewers-guide-2024-worldwide-selection-and-local-options/"><u>[New] UniversalViewers Guide 2024 Worldwide Selection & Local Options</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-best-ranked-cost-free-video-playing-software-for-pc-users-worldwide/"><u>[Updated] In 2024, The Best-Ranked, Cost-Free Video Playing Software for PC Users Worldwide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-your-video-potential-nine-superior-stream-filters/"><u>[Updated] Unlock Your Video Potential Nine Superior Stream Filters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-strength-of-details-why-hdr-triumphs-over-sdr/"><u>2024 Approved The Strength of Details Why HDR Triumphs Over SDR</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/comprehensive-guide-for-copying-laptop-storage-onto-a-portable-external-drive/"><u>Comprehensive Guide for Copying Laptop Storage Onto a Portable External Drive</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cross-border-linguistic-ties-ukraine-vs-russia/"><u>Cross-Border Linguistic Ties - Ukraine vs Russia</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/teamgees-special-offer-get-a-pair-of-portable-docking-station-displays-and-save-120-exclusive-zdnet-bargain/"><u>TeamGee's Special Offer: Get a Pair of Portable Docking Station Displays & Save $120 - Exclusive ZDNet Bargain!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-30-online-music-venues-for-2024/"><u>Top 30 Online Music Venues for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-ease-mastering-the-art-of-photo-text-editing-for-2024/"><u>Unleash Creativity with Ease Mastering the Art of Photo Text Editing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmissable-vr-cinematic-journeys-for-2024/"><u>Unmissable VR Cinematic Journeys for 2024</u></a></li>
+</ul></div>
+

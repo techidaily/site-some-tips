@@ -1,7 +1,7 @@
 ---
 title: "Red Hat's New Wave: Discovering the Capabilities of OpenStack Platform Version 17 [ZDNet Coverage]"
-date: 2024-09-18 14:34:32
-updated: 2024-09-20 10:10:25
+date: 2024-12-17T23:44:59.813Z
+updated: 2024-12-20T23:53:01.652Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 solarseven/Shutterstock
 
 Some people still insist that [OpenStack](https://www.openstack.org/), the open-source Infrastructure-as-a-Service (IaaS) cloud, is dead. They are so, so wrong. By [Statista](https://www.statista.com/)'s count, [OpenStack is the most popular open-source cloud of all](https://www.statista.com/statistics/511526/worldwide-survey-private-coud-services-running-application/). And what's more important for [Red Hat](https://www.redhat.com/en) is that telecoms, such as [Verizon](https://www.verizon.com/) cellular and 5G networks, live and die by OpenStack. So, it comes as no surprise when [Red Hat rolled out Red Hat OpenStack Platform (RHOP) 17](https://www.redhat.com/en/blog/25-billion-and-counting-red-hat-openstack-platform-continues-deliver-service-providers) at Mobile World Congress in Las Vegas Wednesday, the company talked up how OpenStack and telecom work hand-in-hand. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -47,11 +51,29 @@ While the new RHOP will appeal mostly to telecoms, it remains a solid platform f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-acclaimed-constructors-top-notch-instagram-hlv-artisans/"><u>[New] Acclaimed Constructors Top-Notch Instagram HLV Artisans</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-skys-brilliance-top-10-hd-renditions-websites/"><u>[New] Sky's Brilliance Top 10 HD Renditions Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-perfect-blend-of-efficiency-and-artistry-in-apple-photography-apps/"><u>[New] The Perfect Blend of Efficiency and Artistry in Apple Photography Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guerrilla-mic-guide-top-chip-selection-on-a-shoestring-for-2024/"><u>[Updated] Guerrilla Mic Guide Top Chip Selection on a Shoestring for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-editors-guide-to-effective-lut-implementation/"><u>[Updated] The Editor's Guide to Effective LUT Implementation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-android-toolset-for-3d-video-players/"><u>[Updated] Ultimate Android Toolset for 3D Video Players</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-cutting-edge-display-selections-10-mac-list/"><u>2024 Approved Cutting-Edge Display Selections #10 Mac List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-precision-editing-in-photopea-sculpting-cleaner-visual-space/"><u>2024 Approved Precision Editing in Photopea Sculpting Cleaner Visual Space</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-premier-intro-list-for-panzoids/"><u>2024 Approved The Premier Intro List for Panzoids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-seamless-linktree-addition-in-your-tiktok-profile/"><u>2024 Approved Unlocking Seamless Linktree Addition in Your TikTok Profile</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-best-value-in-portable-computing-our-complete-examination-of-the-acer-predator-triton-300se/"><u>Discover the Best Value in Portable Computing: Our Complete Examination of the Acer Predator Triton 300SE</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-vivo-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Vivo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-social-media-sphere-speaking-up-to-fans/"><u>In 2024, The Social Media Sphere Speaking Up to Fans</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-potential-a-guide-for-solitary-showrunners/"><u>In 2024, Unleashing Potential A Guide for Solitary Showrunners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-full-potential-of-macs-preview-tool-for-2024/"><u>Unlocking Full Potential of Mac's Preview Tool for 2024</u></a></li>
+</ul></div>
+

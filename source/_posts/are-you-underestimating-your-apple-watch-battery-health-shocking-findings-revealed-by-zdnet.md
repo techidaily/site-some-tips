@@ -1,7 +1,7 @@
 ---
 title: Are You Underestimating Your Apple Watch Battery Health? Shocking Findings Revealed by ZDNet
-date: 2024-12-10T19:42:26.093Z
-updated: 2024-12-12T17:09:01.305Z
+date: 2024-12-16T03:03:19.676Z
+updated: 2024-12-20T16:00:13.518Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Not looking for a sport band pick? Don't worry. This list includes options that 
 **Also:** [**The best Apple Watch Ultra bands of 2024**](https://www.zdnet.com/article/best-apple-watch-ultra-strap/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Apple Watch bands of 2024
@@ -50,6 +50,10 @@ Cons
 * A bit expensive
 * Wish there were more pastel color options
 * Some wear on stainless steel pin
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Nomad Sport Band
 
@@ -91,7 +95,7 @@ Cons
 ## Burga Stainless Steel Two-Tone Apple Watch Band
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best metal Apple Watch band for style
@@ -126,11 +130,11 @@ Cons
 * Slight wear on stainless steel pin
 * A little pricey
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Nomad Slim Sport Band
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best slim everyday Apple Watch band
 
@@ -165,10 +169,6 @@ Cons
 
 ## Spigen Liquid Crystal Pro Apple Watch Case and Band
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best clear Apple Watch case and band
 
 Spigen's Liquid Proband is both an Apple watch strap and a case in one. Simply pop in your Apple Watch and fasten it to your wrist -- you don't have to deal with sliding any bands in. The Liquid Pro is available in crystal clear and black space clear colors. 
@@ -195,7 +195,15 @@ Cons
 * Dust and residue collect in the holes
 * Requires cleaning
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nike Apple Watch Sport Band
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best classic Apple Watch band alternative
 
@@ -226,10 +234,6 @@ Pros
 Cons 
 * Must pay shipping to US
 * A bit pricey
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Zulu Alpha Apple Watch Strap
 
@@ -286,10 +290,6 @@ When searching for the best Apple Watch bands, I recommend considering a few fac
 * **Cost**: As with other purchases, what you're willing to spend is critical. Establishing a budget can help narrow down your search parameters and ensure you're purchasing within your comfort range. Keep in mind that the material will often drive the cost of Apple Watch bands up. Several metal band options on this list, particularly the titanium options, are over $100\.
 * **Comfort:** If you're purchasing a watch band, you might want it to be comfortable. When I tested watch bands over the last several months, I considered comfort on my own wrist before recommending anything on this list. Your watch band must be secure, too, especially if you're using your watch during intense workouts or for heart rate monitoring.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we test these best Apple Watch bands?
 
 We went hands-on with every Apple Watch band on this list before selecting and recommending our picks. I conducted hands-on testing over several months on over a dozen watch bands and incorporated even more analysis and hands-on testing  staff. 
@@ -310,19 +310,23 @@ The most important factor is to confirm that your Apple Watch works with your ch
 
 The cost of Apple Watch bands can run the gamut, ranging from around $30 to upwards of hundreds of dollars. Many metal bands can easily bring you into the hundreds -- Nomad's titanium band is a whopping $300, and iterations of Apple's Milanese Loop can get pricey, too. However, most of the picks on this list are under $100 and sit comfortably between the $30-$80 range.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the different Apple Watch bands available from Apple?
 
 Apple offers several band options that are included with its watches, some dependent on the model purchased. The most frequent band options, often included with new Apple watches like the Series 9, are the Sport Band and Sport Loop, available in several colors, such as Midnight, Starlight, White, Red, Pink, and more. 
 
 Other band options include the Ocean Band, Alpine Loop, Milanese Loop, Trail Loop, Solo Loop, Braided Solo Loop, and more. Apple and other retailers offer tons of bands made of differing materials in a multitude of colors and designs as well. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the newest Apple Watch?
 
 Apple has a lengthy lineup of Apple Watches, with several iterations over the last few years. The two newest watch releases are the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple old and new models available, you'll be sure to find a watch that fits your needs and your price point. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do Apple Watches track my AFib?
 
@@ -330,25 +334,25 @@ Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other Apple Watch Bands we've tested
 
 We've tested numerous Apple Watch bands from many brands. Here are a few other picks our expert team tested that didn't make our top spots. We broke them down by material. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Metal Apple Watch bands
 
 [Best stainless steel Apple Watch band Spigen Stainless Steel Modern Apple Watch Band If you're looking for a metal watch band that won't break the bank or one for spontaneous occasions, this Spigen stainless steel band is a solid pick. When I tested it, I really liked the overall look of my Watch SE -- it wasn't too big or clunky, and I appreciate the watch clasp for security. It also isn't overly shiny, which makes it look cheap. View at Spigen](https://www.spigen.com/products/apple-watch-series-band-modern-fit)[Best titanium Apple Watch Ultra band Nomad Titanium Apple Watch band Nomad also offers several metal watch band options, including a $200 steel band and a $300 titanium band. The Nomad titanium band is ZDNET contributor Matthew Miller's favorite Apple Watch Ultra band. Miller says it "has a gorgeous, lightweight design, comes with a flawless magnetic clasp, and is less expensive than Apple's metal band." It comes in two sizes and two colors (natural and black). View at Nomad Goods](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://nomadgoods.com/products/metal-band-titanium-silver-44mm?)[Best budget titanium Apple Watch Ultra band Withit Titanium Apple Watch band Miller also tested the Withit band and said its "innovative link adjustment system is fantastic, the butterfly clasp is secure, and the color perfectly matches the Apple Watch Ultra series." Miller dubbed it a better budget titanium watch band, comparable to Nomad and Apple's pricey titanium options. View at Withitgear](https://www.withitgear.com/products/titanium-band-for-apple-watch?)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fabric Apple Watch bands
 
 [Best Apple Watch band for kids Spigen Lite Fit Apple Watch band This band from Spigen is super stretchy, comfortable, lightweight, and easy to install. While it wasn't my favorite style personally, this is a great option for kids, thanks to its adjustability options and lack of buckles. Plus, a child won't be able to loosen this without manually adjusting the metal fastener, which I still struggle with as an adult. So there's that. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSpigen-Lite-Designed-Apple-Watch%2Fdp%2FB08KWSRNT5%2Fref%3Dasc%5Fdf%5FB08KWSRNT5%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7fa16e69-f060-4277-b366-727a6e233515%7Cdtp&dtb=1)[Best made by Apple fabric watch band Apple Sport Loop band If you want a classic made-by-Apple watch band but don't enjoy the look of the sports band, Apple also sells its sport loop band individually in several colors. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMT5F3AM%2FA%2F45mm-light-pink-sport-loop&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Leather Apple Watch bands
 
@@ -357,10 +361,6 @@ We've tested numerous Apple Watch bands from many brands. Here are a few other p
 ## Synthetic Apple Watch bands
 
 [Best made by Apple watch band Apple Watch Sport Band If you like the classic sport bands that affix Apple Watches, you can buy them individually in several colors for $49\. They're basic, but they do the job. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMWMR3AM%2FA%2F41mm-soft-mint-sport-band-s-m%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best rugged Apple Watch band Spigen DuraPro Apple Watch Band This Spigen band is designed for the Ultra and Ultra 2, but its rugged appeal and comfortable band material (TPU and nylon) made it appealing to my dad for his Watch Series 9\. He says it's extra comfortable to wear, better than his old Apple sport band, and most importantly, has all the other men at work asking about it. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSpigen-DuraPro-Designed-Durable-Connector%2Fdp%2FB0BX4VRZXC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7fa16e69-f060-4277-b366-727a6e233515%7Cdtp&dtb=1)[Best waterproof Apple Watch Ultra band Apple Ocean Band Apple's Ocean band is designed for even the toughest conditions and is the flagship band for the Ultra watch model. Miller even took the ocean band through a 15K Tough Mudder, which held up during the event. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMT633AM%2FA%2F49mm-blue-ocean-band%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Apple Watch bands to consider
 
@@ -408,16 +408,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-avoiding-pitfalls-understanding-youtube-standards/"><u>[New] 2024 Approved Avoiding Pitfalls Understanding YouTube Standards</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-excellent-html5-video-tools-you-must-check/"><u>[New] Excellent HTML5 Video Tools You Must Check</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-stabilizer-unmatched-smartphone-tracking/"><u>[New] The Ultimate Stabilizer Unmatched Smartphone Tracking</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-syncing-social-media-zoom-and-facebook-live-interactions/"><u>[Updated] Syncing Social Media Zoom and Facebook Live Interactions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-and-controlling-safaris-pip-feature/"><u>2024 Approved Understanding and Controlling Safari's PIP Feature</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-conjuring-chrono-displacement-with-digital-magic/"><u>In 2024, Conjuring Chrono-Displacement with Digital Magic</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-premier-essentials-seamless-audio-switching/"><u>In 2024, Premier Essentials Seamless Audio Switching</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-high-definition-pics-effective-no-cost-tactics/"><u>In 2024, Unlock High Definition Pics Effective, No-Cost Tactics</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/reaping-rewards-from-language-study-starting-at-fifty-five/"><u>Reaping Rewards From Language Study Starting at Fifty-Five</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-makeover-the-art-of-digital-expression/"><u>Windows 11 Makeover: The Art of Digital Expression</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unveiling-cropped-lengths-imovies-automatic-trimming-logic/"><u>[New] In 2024, Unveiling Cropped Lengths IMovie's Automatic Trimming Logic</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-through-instagram-video-hiccups/"><u>[New] Navigating Through Instagram Video Hiccups</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-snapchats-spotlight-mechanics/"><u>[New] Unlocking Snapchat's Spotlight Mechanics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ultimate-7-secure-video-conferencing-systems-for-smbs/"><u>[Updated] 2024 Approved Ultimate 7 Secure Video Conferencing Systems for SMBs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-sincere-evaluation-of-a-digital-audio-player-for-2024/"><u>[Updated] The Sincere Evaluation of a Digital Audio Player for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-visual-vintner-techniques-for-flavorful-films/"><u>[Updated] The Visual Vintner Techniques for Flavorful Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-androidios-weddings-ultimate-countdown-timer-apps/"><u>2024 Approved Top 10 Android/iOS Weddings Ultimate Countdown Timer Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-potential-of-text-with-photo-shading-psx/"><u>2024 Approved Unlock the Potential of Text with Photo Shading PSX</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/an-intro-to-digital-realms-vr-simplified/"><u>An Intro to Digital Realms VR Simplified</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/android-users-can-now-enjoy-chatgpt-unlocking-conversational-ai-on-mobile/"><u>Android Users Can Now Enjoy ChatGPT: Unlocking Conversational AI on Mobile</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-honor-play-8t-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor Play 8T Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-rings-rhythm-versus-screen-time-symphony/"><u>In 2024, The Ring's Rhythm Versus Screen Time Symphony</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-ios-auditory-pleasures/"><u>In 2024, The Ultimate Guide to iOS Auditory Pleasures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-srt-secrets-comprehensive-knowledge-guide/"><u>In 2024, Unlocking SRT Secrets Comprehensive Knowledge Guide</u></a></li>
 </ul></div>
 

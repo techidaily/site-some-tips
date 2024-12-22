@@ -1,7 +1,7 @@
 ---
 title: "Boosting Music Presence: How Artificial Intelligence Secured Spots on Top Streaming Platforms"
-date: 2024-09-19 18:39:33
-updated: 2024-09-20 12:26:39
+date: 2024-12-17T22:32:51.730Z
+updated: 2024-12-21T01:45:43.018Z
 tags:
   - cloud
 categories:
@@ -62,6 +62,10 @@ So I did. And I used AI to help me make it happen.
 * Artist image using a computer keyboard
 * Artist image in front of my muscle car
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  No AI was used in the creation or mixing of this music 
 
 Let me be clear. While I did use my computer to mix licensed sound samples and compose my own work, I did not use an AI to create or mix my music. My music is all me. That's important because I want my listeners (dare I say, fans) to know that what's on those tracks represents my skills, feelings, heart, and soul. 
@@ -97,6 +101,10 @@ I wanted the music to be _my_ music. Especially in this time of [generative AI](
 **Also: [How to write better AI prompts](https://www.zdnet.com/article/how-to-write-better-chatgpt-prompts/)**
 
 That said, while no AI was used in the creation or mixing of this music, I used the heck out of AI for the creation of album covers, website graphics, and related promotional text. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Album covers 
 
@@ -147,6 +155,10 @@ From that, I got back the following recommendation:
 Screenshot by David Gewirtz/ZDNET
 
 Is it perfect? Probably not. If I really were an A&R executive, I'd be able to fit the tunes into their proper categories. But since I'm no expert, the AI did give me a leg up. The songs were accepted, and so far, the playlist curators who've looked at the songs didn't feel they were in the wrong genres, so I'll call this another win for the AI. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Creating a music description 
 
@@ -264,6 +276,10 @@ But I loaded the image into Photoshop, added more canvas space on either side of
 
 Sweet. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Faceswap for the hacker image 
 
 Since my music bio talked about my techie roots, I decided that it needed a picture of me with a keyboard. Rather than starting with the previous radio show image I used to generate my hero image, I used the Midjourney URL of the actual hero image itself. I then fed Midjourney a ton of prompts until I arrived at: 
@@ -287,6 +303,10 @@ Then, using the /swapid command, I uploaded the hacker image from above and let 
 The original is on the left. The face match version is on the right. Because the one on the left is also based on my face, they're similar. But the one on the right is a bit more me.
 
 David Gewirtz via Midjourney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Midjourney, FaceSwap, and Generative Fill for the car image 
 
@@ -321,6 +341,10 @@ Notice that there's more street on both the left and right sides of the image. T
 David Gewirtz via Midjourney/ZDNET
 
 I know I just gave you a really fast description of how to do a face match, which is a problem many Midjourney users are trying to solve. Stay tuned. This article is too long for an extra in-depth how-to, but I plan to produce a guide on getting a perfect face match using Midjourney AI and FaceSwap. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Distribution, promotion, and all the rest 
 
@@ -383,11 +407,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-guide-to-procuring-and-utilizing-free-visual-frame-content/"><u>[New] The Guide to Procuring and Utilizing Free Visual Frame Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlined-high-quality-hdr-experience-for-your-computer/"><u>[Updated] Streamlined High-Quality HDR Experience for Your Computer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-snapshot-sophistication-expert-advice-on-editing-magic/"><u>2024 Approved Snapshot Sophistication Expert Advice on Editing Magic</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-online-video-preservation/"><u>2024 Approved The Ultimate Guide to Online Video Preservation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tier-free-memes-for-everyday-chuckles/"><u>2024 Approved Top-Tier Free Memes for Everyday Chuckles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-kinemaster-way-to-enthralling-transitions/"><u>In 2024, The Kinemaster Way to Enthralling Transitions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-iphone-videos-shorten-and-resize-with-ease/"><u>In 2024, Transform Your iPhone Videos Shorten & Resize with Ease</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/modify-primary-save-options-for-microsoft-office-2016-word-excel-powerpoint/"><u>Modify Primary Save Options for Microsoft Office 2016 (Word, Excel, PowerPoint)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-startup-problems-with-red-dead-redemption-e-a-step-by-step-guide/"><u>Resolving Startup Problems with Red Dead Redemption E: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/seamless-username-switching-in-google-meet-settings-for-2024/"><u>Seamless Username Switching in Google Meet Settings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-comprehensive-guide-to-editing-tiktok-account-numbers-for-2024/"><u>The Comprehensive Guide to Editing TikTok Account Numbers for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-comprehensive-guide-to-effective-screen-recording/"><u>The Comprehensive Guide to Effective Screen Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-journey-of-personalized-instagram-notification-creation-for-2024/"><u>The Journey of Personalized Instagram Notification Creation for 2024</u></a></li>
+</ul></div>
+

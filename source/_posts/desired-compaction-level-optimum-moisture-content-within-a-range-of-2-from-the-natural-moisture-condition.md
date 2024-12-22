@@ -1,7 +1,7 @@
 ---
 title: "Desired Compaction Level: Optimum Moisture Content Within a Range of ±2%% From the Natural Moisture Condition"
-date: 2024-09-19 16:29:40
-updated: 2024-09-20 12:41:21
+date: 2024-12-15T20:52:20.058Z
+updated: 2024-12-20T19:47:46.169Z
 tags:
   - cloud
 categories:
@@ -82,11 +82,33 @@ Could there be a mainframe in your future? I cut my computing teeth on mainframe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-creative-entrepreneurs-handbook-in-design/"><u>[New] The Creative Entrepreneur's Handbook in Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-digital-collage-creator-8x/"><u>[New] Ultimate Digital Collage Creator 8X</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-ultimate-selection-choosing-excellent-free-srt-translators-for-2024/"><u>[New] Ultimate Selection Choosing Excellent FREE SRT Translators for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-master-list-of-premium-4k-yt-converters-ranked-by-usage/"><u>[Updated] In 2024, Master List of Premium 4K YT Converters Ranked by Usage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secret-seeing-popular-youtube-reactions/"><u>[Updated] Unveiling the Secret Seeing Popular YouTube Reactions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-elevate-your-videos-visibility-with-perfect-thumbnail-sizing/"><u>2024 Approved Elevate Your Video's Visibility with Perfect Thumbnail Sizing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-stay-snappin-strategies-for-unbroken-streaks/"><u>2024 Approved Stay Snappin' Strategies for Unbroken Streaks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-handbook-for-swapping-music-libraries/"><u>2024 Approved The Ultimate Handbook for Swapping Music Libraries</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-v29e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo V29e Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/discovering-the-operation-principles-behind-photodna/"><u>Discovering the Operation Principles Behind PhotoDNA</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-cloud-apps-for-android-the-most-reliable/"><u>In 2024, Premium Cloud Apps for Android The Most Reliable</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tales-that-echo-through-time-top-8-halls-for-storytellers/"><u>In 2024, Tales That Echo Through Time Top 8 Halls for Storytellers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pro-webcams-8-your-go-to-for-flawless-livestreams/"><u>Pro Webcams 8 Your Go-To for Flawless Livestreams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-clean-image-borders-on-canva-for-2024/"><u>The Ultimate Guide to Clean Image Borders on Canva for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

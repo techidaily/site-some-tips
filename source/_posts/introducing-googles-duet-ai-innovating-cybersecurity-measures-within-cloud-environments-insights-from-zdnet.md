@@ -1,7 +1,7 @@
 ---
 title: "Introducing Google's Duet AI: Innovating Cybersecurity Measures Within Cloud Environments - Insights From ZDNet"
-date: 2024-09-19 13:44:38
-updated: 2024-09-20 10:31:21
+date: 2024-12-18T18:59:33.531Z
+updated: 2024-12-20T23:24:20.867Z
 tags:
   - cloud
 categories:
@@ -41,11 +41,19 @@ One way these challenges can be tackled is by utilizing AI as part of a "holisti
 
 Here's everything you need to know about Google's security enhancements introduced at Google Next 2023 and the expansion of Duet AI capabilities -- all of which are at the heart of new security offerings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Duet AI?
 
 Introduced to Google Workspace and Google Cloud in [May](https://workspace.google.com/blog/product-announcements/duet-ai), Duet Al is an "always-on Al collaborator" that provides AI-based assistance including writing help, spreadsheet improvements, note-taking, and more. In the [cloud](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud), Duet AI focuses on code development assistance, natural language processing, and business application development.
 
 At Google Next, the company debuted new security-related features to the AI tool. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Introducing Duet AI: Mandiant Threat Intelligence
 
@@ -79,6 +87,10 @@ Ed Murphy, Product Manager & Shelly Tzoumas, Senior Product Marketing Manager, c
 
 Duet Al in Chronicle Security Operations is now available in preview and is expected to become generally available this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Duet Al in Security Command Center
 
 Google
@@ -90,6 +102,10 @@ Duet Al is also being integrated into Google Cloud's [Security Command Center](h
 Now, Duet AI will be offered for the "near-instant" analysis of security issues and potential attack paths. Google says that the introduction of AI into Security Command Center will reduce the legwork associated with threat analysis, with summaries allowing defenders to focus on remediation and prevent "critical findings" from being overlooked. 
 
 Furthermore, Google is adding Tenable's agentless vulnerability scanning to the security solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mandiant Hunt for Chronicle
 
@@ -104,6 +120,10 @@ According to Google, Mandiant Hunt, the managed threat-hunting service, now "int
 Google says:
 
 "Mandiant Hunt for Chronicle provides continual threat hunting by Mandiant experts on Chronicle data to expose attacker activity and help reduce business impact. It integrates the latest insights into attacker behavior from Mandiant's frontline experts with Chronicle Security Operations' powerful ability to quickly analyze and search security data. Mandiant Hunt for Chronicle can help organizations close the skills gap and gain elite-level support without the burden of hiring, tooling, and training."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Google Next?
 
@@ -133,11 +153,33 @@ Google says:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-playbook-for-exceptional-obs-studio-content/"><u>[New] 2024 Approved The Ultimate Playbook for Exceptional OBS Studio Content</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-phantom-3-vs-phantom-4-complete-comparison/"><u>[New] In 2024, Phantom 3 Vs. Phantom 4 Complete Comparison</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-3-techniques-converting-pin-videos-to-mp3s/"><u>[New] Top 3 Techniques Converting Pin Videos To MP3s</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-overcome-video-loading-failure-chrome-for-2024/"><u>[Updated] Overcome Video Loading Failure Chrome for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-potential-of-windows-movie-maker-in-windows-8-environments/"><u>[Updated] Unlocking the Potential of Windows Movie Maker in Windows 8 Environments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-of-youtube-video-comments/"><u>[Updated] Unlocking the Secrets of YouTube Video Comments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-7-ideas-to-improve-the-unboxing-experience/"><u>2024 Approved 7 Ideas to Improve the Unboxing Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-experts-list-of-top-vector-stock-portals/"><u>2024 Approved The Expert's List of Top Vector Stock Portals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/breaking-down-the-finest-liquid-simulation-games/"><u>Breaking Down the Finest Liquid Simulation Games</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-the-noisy-disruptor-win1011s-error-0xc00d36b4/"><u>Correcting the Noisy Disruptor: Win10/11's Error 0Xc00d36b4</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-10-4g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 10 4G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-journey-to-picture-perfection-iphone-tips-for-stunning-skylines/"><u>In 2024, Journey to Picture Perfection IPhone Tips for Stunning Skylines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-strategies-softwares-versus-hardware-harmony/"><u>In 2024, Streamline Strategies Softwares Versus Hardware Harmony?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mastering-silence-disabling-participants-in-gmeet-calls/"><u>Mastering Silence Disabling Participants in GMeet Calls</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/nocturnal-nexus-versus-daylight-dominion-for-2024/"><u>Nocturnal Nexus Versus Daylight Dominion for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/prime-5-tools-shake-off-youtube-video-editing-for-2024/"><u>Prime 5 Tools Shake Off Youtube Video Editing for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-a1-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo A1 5G FRP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-editors-guide-to-top-10-fcp-plug-ins-for-2024/"><u>The Ultimate Editor's Guide to Top 10 FCP Plug-Ins for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-instagram-stardom-unleash-your-potential-with-9-key-strategies-for-2024/"><u>The Ultimate Guide to Instagram Stardom - Unleash Your Potential with 9 Key Strategies for 2024</u></a></li>
+</ul></div>
+

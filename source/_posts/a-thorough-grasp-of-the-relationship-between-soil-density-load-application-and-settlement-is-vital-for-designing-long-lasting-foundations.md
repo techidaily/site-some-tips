@@ -1,7 +1,7 @@
 ---
 title: A Thorough Grasp of the Relationship Between Soil Density, Load Application, and Settlement Is Vital for Designing Long-Lasting Foundations.
-date: 2024-09-18 10:21:53
-updated: 2024-09-20 10:26:47
+date: 2024-12-18T22:00:32.353Z
+updated: 2024-12-20T18:08:46.793Z
 tags:
   - cloud
 categories:
@@ -82,11 +82,34 @@ Could there be a mainframe in your future? I cut my computing teeth on mainframe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-free-tools-for-digital-video-capture-top-picks/"><u>[New] Free Tools for Digital Video Capture - Top Picks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-gaming-memories-made-easy-with-fraps/"><u>[New] In 2024, Gaming Memories Made Easy with Fraps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-photo-capture-techniques-of-smart-hdr-3-and-4-modules-for-2024/"><u>[New] Mastering Photo Capture Techniques of Smart HDR 3 & 4 Modules for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-blueprint-for-srt-file-adaptability/"><u>[New] The Essential Blueprint for SRT File Adaptability</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-crafting-the-perfect-panel-of-playback-with-youtube/"><u>[Updated] Crafting the Perfect Panel of Playback with YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unzip-the-scripts-crafting-subtitles-from-compressed-files/"><u>[Updated] Unzip the Scripts Crafting Subtitles From Compressed Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-use-kapwing-meme-maker/"><u>[Updated] Use Kapwing Meme Maker</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-blending-youtube-soundtracks-into-video-essence/"><u>2024 Approved Blending YouTube Soundtracks Into Video Essence</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-expert-filmmakers-speedy-setup-secrets-for-diy-projects/"><u>2024 Approved Expert Filmmaker's Speedy Setup Secrets for DIY Projects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-comedic-potential-of-the-metaverses-vast-space/"><u>2024 Approved The Comedic Potential of the Metaverse's Vast Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-smart-guide-for-spawning-share-worthy-memes-in-9gag/"><u>2024 Approved The Smart Guide for Spawning Share-Worthy Memes in 9GAG</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-a2plus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi A2+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-easy-way-to-download-and-use-the-ifunny-meme-app/"><u>In 2024, The Easy Way to Download and Use the iFunny Meme App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-how-to-transform-avchd-mts-hd-video-footage-into-avi-using-a-macbookimac-system/"><u>Step-by-Step Guide: How to Transform AVCHD MTS HD Video Footage Into AVI Using a MacBook/iMac System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-ordinary-unboxings-into-viral-phenomena-on-insta-for-2024/"><u>Transform Ordinary Unboxings Into Viral Phenomena on Insta for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-tutorial-converting-video-object-vob-to-windows-media-video-wmv-for-seamless-editing-in-windows-movie-maker/"><u>Ultimate Tutorial: Converting Video Object (VOB) to Windows Media Video (WMV) for Seamless Editing in Windows Movie Maker</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

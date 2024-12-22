@@ -1,7 +1,7 @@
 ---
 title: Navigating Cloud Security with Google's New Duet AI Solution - Latest Developments Covered by ZDNET
-date: 2024-09-17 11:42:33
-updated: 2024-09-20 10:16:22
+date: 2024-12-19T01:00:01.145Z
+updated: 2024-12-21T03:49:16.286Z
 tags:
   - cloud
 categories:
@@ -41,11 +41,19 @@ One way these challenges can be tackled is by utilizing AI as part of a "holisti
 
 Here's everything you need to know about Google's security enhancements introduced at Google Next 2023 and the expansion of Duet AI capabilities -- all of which are at the heart of new security offerings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Duet AI?
 
 Introduced to Google Workspace and Google Cloud in [May](https://workspace.google.com/blog/product-announcements/duet-ai), Duet Al is an "always-on Al collaborator" that provides AI-based assistance including writing help, spreadsheet improvements, note-taking, and more. In the [cloud](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud), Duet AI focuses on code development assistance, natural language processing, and business application development.
 
 At Google Next, the company debuted new security-related features to the AI tool. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Introducing Duet AI: Mandiant Threat Intelligence
 
@@ -58,6 +66,10 @@ Mandiant Threat Intelligence is a service that compiles threat data, including t
 **Also:** [**Google Cloud expands developer tools and data analytics capabilities with generative AI**](https://www.zdnet.com/article/google-cloud-expands-developer-tools-and-data-analytics-capabilities-with-generative-ai/)
 
 Duet Al in Mandiant Threat Intelligence is available now in preview and will be generally available this year. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Duet Al in Chronicle Security Operations
 
@@ -79,6 +91,10 @@ Ed Murphy, Product Manager & Shelly Tzoumas, Senior Product Marketing Manager, c
 
 Duet Al in Chronicle Security Operations is now available in preview and is expected to become generally available this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Duet Al in Security Command Center
 
 Google
@@ -90,6 +106,10 @@ Duet Al is also being integrated into Google Cloud's [Security Command Center](h
 Now, Duet AI will be offered for the "near-instant" analysis of security issues and potential attack paths. Google says that the introduction of AI into Security Command Center will reduce the legwork associated with threat analysis, with summaries allowing defenders to focus on remediation and prevent "critical findings" from being overlooked. 
 
 Furthermore, Google is adding Tenable's agentless vulnerability scanning to the security solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mandiant Hunt for Chronicle
 
@@ -133,11 +153,33 @@ Google says:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-top-5-hidden-gems-to-watch-insta-stories/"><u>[New] Top 5 Hidden Gems to Watch Insta Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-trusted-6-online-communities-driving-business-growth/"><u>[New] Trusted 6 Online Communities Driving Business Growth</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-investigating-spotlighted-comments-online/"><u>[Updated] Investigating Spotlighted Comments Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-experience-next-gen-notetaking-with-mematic/"><u>2024 Approved Experience Next-Gen Notetaking with Mematic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-iphone-hdr-photo-perfection/"><u>2024 Approved The Art of iPhone HDR Photo Perfection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-timeless-lens-capture-expert-picks-of-cameras-for-extended-shutter/"><u>2024 Approved Timeless Lens Capture Expert Picks of Cameras for Extended Shutter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-psd-drop-shadows/"><u>2024 Approved Top-Tier PSD Drop Shadows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-power-of-visuals-zooms-filter-guide/"><u>2024 Approved Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/eksemplifikasjoner-pa-skilpraktisk-oppnaing-av-innholdspromoteringen-uten-zoom-moter-og-tillsyn/"><u>Eksemplifikasjoner På Skilpraktisk Oppnåing Av Innholdspromoteringen Uten Zoom-Møter Og Tillsyn</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-high-performance-pc-parts-tips-from-toms-hardware/"><u>Expert Insights on High-Performance PC Parts - Tips From Tom's Hardware</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-xiaomi-redmi-k70-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Xiaomi Redmi K70 PC | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-laugh-cry-or-shout-out-on-these-top-10-instagram-memes-hubs/"><u>In 2024, Laugh, Cry or Shout Out on These Top 10 Instagram Memes Hubs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-path-for-instantaneous-srt-to-text-conversions/"><u>In 2024, Pioneering Path for Instantaneous SRT to Text Conversions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-timeless-melodies-from-iconic-animes/"><u>In 2024, Top Picks Timeless Melodies From Iconic Animes</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-twitter-video-convertors-for-2024/"><u>The Ultimate List of Twitter Video Convertors for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-snapchat-highlights-for-2024/"><u>Unlocking the Potential of Snapchat Highlights for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-photoshops-image-curve-secrets-for-2024/"><u>Unveiling Photoshop's Image Curve Secrets for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity with Notion App: An In-Depth Review and Personal Journey on How This Essential Tool Transformed My Task Management | ZDNET"
-date: 2024-09-18 20:52:34
-updated: 2024-09-20 10:48:39
+date: 2024-12-13T20:01:50.626Z
+updated: 2024-12-21T03:24:20.754Z
 tags:
   - cloud
 categories:
@@ -38,6 +38,10 @@ Probably one of the easiest ways for you to understand Notion is for me to show 
 
 Keep in mind that these examples are about how I use Notion. One of the biggest benefits to Notion is that you can sculpt it to your unique needs. Another benefit is that you can always tweak and update your implementations so it grows as you do. So my uses have been sculpted into my workflow. Yours, of course, will fit what you need to do every day.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Review product tracker
 
 I can't recall if this was the first project I set up, but it's certainly one of the first. As a tech columnist and product reviewer, I get an enormous flow of review products that show up to be reviewed. I needed to keep track of the products and status of their reviews. To manage this, I started with a kanban board, or what Notion calls the board view. If you think this looks a lot like Trello, you're not wrong. Notion has a full Trello-like implementation as just one of its tools. 
@@ -57,6 +61,10 @@ I also use a similar kanban table to track bug reports for the software products
 
 As you can see, I've set certain tags to specify the product associated with each bug, the urgency level of each bug, as well as the overall category. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Project wiki 
 
 Let's switch over to the page where I organize most of my coding information and notes about each project I'm coding. Here's an overview of it. Notice that there are expand/collapse arrows under most of the sections. 
@@ -70,6 +78,10 @@ I have a similar style page for all the 3D printers I work with. There's a main 
 For example, here's part of a page with print settings and G-code (the code that tells the 3D printer how to print): 
 
 The graphics and code from that set of notes wound up in my [Creality Sermoon D1 article](https://www.zdnet.com/article/creality-sermoon-d1-review-3d-printer-under-700/) and [video](https://youtu.be/7T56N-XZPA0).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Project management database
 
@@ -101,6 +113,10 @@ Also, before I go on, I should mention that Notion does have some wind in its sa
 
 ## Ten things I like about Notion
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -119,6 +135,10 @@ Here are ten things I really like about Notion in no particular order.
 10. Tables are easy to use but deceptively powerful. _Really_ powerful.
 
 I should also add that there is a wealth of information on using Notion out there. Notion itself does a great job with video training, and there are tons of helpful YouTube videos as well. It also comes with a bunch of moderately useful templates you can copy and customize, so you don't have to start from scratch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Five things I don't like about Notion
 
@@ -173,11 +193,30 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unravel-the-mystery-of-tempo-control-in-instagram-stories/"><u>[New] Unravel the Mystery of Tempo Control in Instagram Stories</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unveiling-secrets-of-hulu-recording-across-windowsmacosios/"><u>[Updated] In 2024, Unveiling Secrets of Hulu Recording Across Windows/MacOS/iOS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715860024349-updated-the-ultimate-cut-for-quality-offline-ipad-gaming/"><u>[Updated] The Ultimate Cut for Quality Offline iPad Gaming!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-seal-on-immersive-odyssey/"><u>[Updated] Ultimate Seal on Immersive Odyssey</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-introduction-online/"><u>2024 Approved Introduction | Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-groovy-gaming-troubleshoot-crashes-with-these-simple-steps/"><u>Alan Wake Groovy Gaming: Troubleshoot Crashes with These Simple Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-nier-replicant-re-master-failure-to-launch-problems/"><u>How to Overcome the NieR Replicant Re-Master Failure to Launch Problems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c22-phone-without-password-by-drfone-android/"><u>How To Unlock Nokia C22 Phone Without Password?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-yuva-2-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-workflow-with-mac-preview-complete-guide/"><u>In 2024, Streamlining Your Workflow with Mac Preview Complete Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-capsule-converting-single-photographs-to-video/"><u>In 2024, Time Capsule Converting Single Photographs to Video</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/latest-karaoke-song-catalogue-party-time-updates-from-new-pcdj-march-2018-subscribe-now/"><u>Latest Karaoke Song Catalogue: Party Time Updates From New PCDJ, March 2018 - Subscribe Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/obtain-samsung-m2020-driving-force-expertly-tailored-driver-downloads-now-available/"><u>Obtain Samsung M2020 Driving Force: Expertly Tailored Driver Downloads Now Available</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlined-method-to-alter-iphone-resolution-for-2024/"><u>Streamlined Method to Alter iPhone Resolution for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-footage-editing-videos-seamlessly-on-windows-11-and-storyremix-for-2024/"><u>Transforming Footage Editing Videos Seamlessly on Windows 11 and StoryRemix for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-the-best-the-ultimate-5-book-promo-video-list-for-2024/"><u>Uncover the Best The Ultimate 5 Book Promo Video List for 2024</u></a></li>
+</ul></div>
+

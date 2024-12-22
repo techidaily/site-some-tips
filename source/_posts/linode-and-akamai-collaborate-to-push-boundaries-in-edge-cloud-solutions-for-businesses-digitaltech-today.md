@@ -1,7 +1,7 @@
 ---
 title: Linode and Akamai Collaborate to Push Boundaries in Edge Cloud Solutions for Businesses | DigitalTech Today
-date: 2024-09-18 11:20:49
-updated: 2024-09-20 12:57:19
+date: 2024-12-18T23:14:47.164Z
+updated: 2024-12-21T01:50:15.310Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/d79beeb4abcfd05636355f94742171c61e
 Akamai
 
 Earlier this year, when [Akamai bought infrastructure-as-a-service (IaaS) cloud platform provider Linode](https://www.zdnet.com/article/akamai-acquires-infrastructure-as-a-service-provider-linode-for-900-million/) for about $900 million, it wasn't clear how Akamai's content delivery network (CDN) and security services would work well with Linode's developer-friendly, Linux-based, Infrastructure-as-a-Service (IaaS) cloud. Now, we know Akamai wasn't just adding a cloud; it was working on edge computing and cloud development synergies. The company is [adding more than a dozen new Linode data centers](https://www.akamai.com/blog/cloud/akamai-turns-up-linode-past-11) around the world by the end of 2023.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -56,11 +60,28 @@ While I don't expect Akamai to appear in a Marvel movie anytime soon, it does ap
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-inshots-ecosystem-a-detailed-editor-app-study/"><u>[Updated] InShot’s Ecosystem A Detailed Editor App Study</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/boosting-social-reach-share-tiktoks-with-a-twist-of-twitter-for-2024/"><u>Boosting Social Reach Share TikToks with a Twist of Twitter for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-netgear-orbi-rbs50y-the-ultimate-guide-for-outdoor-wireless-coverage/"><u>Comprehensive Analysis of the Netgear Orbi RBS50Y - The Ultimate Guide for Outdoor Wireless Coverage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-on-the-high-performance-anker-superspeed-usb-hub/"><u>Expert Analysis on the High-Performance Anker SuperSpeed USB Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/home-cinema-hacks-making-your-own-projector-screen-from-scratch/"><u>Home Cinema Hacks: Making Your Own Projector Screen From Scratch</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oppo-k11-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Oppo K11 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategic-steps-to-elevate-your-podcast-imagery/"><u>In 2024, Strategic Steps to Elevate Your Podcast Imagery</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/streamline-your-view-adding-captions-on-windows-media-player-for-2024/"><u>Streamline Your View Adding Captions on Windows Media Player for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-artisans-path-to-gratuitous-text-animation-for-2024/"><u>The Artisan's Path to Gratuitous Text Animation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-process-of-converting-gifs-into-sticker-form-for-multi-platform-use-for-2024/"><u>The Complete Process of Converting GIFs Into Sticker Form for Multi-Platform Use for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-20-pubg-moment-snapshots-open-access-for-2024/"><u>Top 20 PUBG Moment Snapshots, Open Access for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-30-mobile-video-edits-using-dji-technology/"><u>Top 30 Mobile Video Edits Using DJi Technology</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/zero-cost-youtube-meetings-easy-to-host-for-2024/"><u>Zero Cost Youtube Meetings Easy to Host for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Initiate Home-Based Cloud Services Instantly with a Comprehensive Guide by ZDNet in Under Sixty Minutes
-date: 2024-09-18 11:52:18
-updated: 2024-09-20 10:14:17
+date: 2024-12-15T16:32:48.332Z
+updated: 2024-12-20T18:53:21.601Z
 tags:
   - cloud
 categories:
@@ -47,11 +47,19 @@ In this series on making use of Linux at home, I now want to show you how to ins
 
 It should come as no surprise given the title of this piece that there's a very easy way to install this cloud platform -- and I'm going to show you how it's done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install a cloud service at home: It's easy
 
 **What you'll need:** As mentioned above, you'll need an instance of Ubuntu Server up and running on your home network to successfully install Nextcloud. Fear not, as I've already explained [how you can install this system in under 30 minutes](https://www.zdnet.com/article/how-to-install-ubuntu-server-in-less-than-30-minutes/). With that server running, you'll need a user with sudo privileges (which you create during the operating system installation).
 
 That's it. Let's do this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Log in to Ubuntu Server
 
@@ -73,6 +81,10 @@ When that finishes, you'll need to first know the IP address of your server with
 
 ip a
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Access the web installer
 
 Open a web browser and point it to http://SERVER (where SERVER is the IP address of your Ubuntu server).
@@ -85,6 +97,10 @@ Creating an admin user is the first step in the web GUI.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Install recommended apps
 
 In the resulting window, click Install Recommended Apps to add the Calendar, Contacts, Mail, Nextcloud Office, and Talk apps (you can add more later). This installation will take a bit more time (less than five minutes). 
@@ -96,6 +112,10 @@ Allow the installation to complete and you'll be presented with the Nextcloud Hu
 I would go with the recommendations.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Next steps with Nextcloud
 
@@ -145,11 +165,29 @@ Even with the installation of Ubuntu Server, you should be able to complete this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-quick-route-from-srt-to-text-txt-files/"><u>[New] The Ultimate, Quick Route From SRT to Text (TXT) Files</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-skycleanser-exceptional-bg-erasing-software/"><u>[Updated] In 2024, SkyCleanser Exceptional BG Erasing Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-artisans-guide-to-backdrop-free-image-perfection-with-photopea/"><u>[Updated] The Artisan's Guide to Backdrop-Free Image Perfection with Photopea</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-iphone-strategies-for-flawless-audio-downloads/"><u>[Updated] Ultimate iPhone Strategies for Flawless Audio Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-rotate-iphone-photos-learn-the-art-of-inversion/"><u>2024 Approved Rotate iPhone Photos Learn the Art of Inversion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-snapchats-prominent-personalities-highlight/"><u>2024 Approved Utilizing Snapchat's Prominent Personalities Highlight</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/connect-movie-files-in-youtv-catalog-for-2024/"><u>Connect Movie Files in YouTV Catalog for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-computers-bluetooth-capabilities-with-the-latest-mpow-driver-software-for-windows-version-1187/"><u>Enhance Your Computer's Bluetooth Capabilities with the Latest MPOW Driver Software for Windows (Version 11/8/7)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-social-potential-a-compreenasculated-blueprint-for-smm-mastery/"><u>Harnessing Social Potential A Compreenasculated Blueprint for SMM Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-screen-experience-with-hp-envy-27-display/"><u>In 2024, The Ultimate Screen Experience with HP Envy 27 Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/one-loud-one-quiet-diagnosing-and-correcting-volume-discrepancies-in-airpods/"><u>One Loud, One Quiet: Diagnosing and Correcting Volume Discrepancies in AirPods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/simplify-live-streaming-and-archiving-with-vlc-webcam-integration/"><u>Simplify Live Streaming and Archiving with VLC Webcam Integration</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-10-android-compatible-gba-games-simulators/"><u>Top 10 Android Compatible GBA Games Simulators</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-users-guide-to-managing-monitor-luminosity/"><u>Win Users Guide to Managing Monitor Luminosity</u></a></li>
+<li><a href="https://fox-http.techidaily.com/year-in-review-top-5-camera-tips-filmmakers/"><u>Year in Review Top 5 Camera Tips Filmmakers</u></a></li>
+</ul></div>
+

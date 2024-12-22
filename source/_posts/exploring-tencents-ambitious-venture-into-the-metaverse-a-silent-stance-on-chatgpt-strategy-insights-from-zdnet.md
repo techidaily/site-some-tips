@@ -1,7 +1,7 @@
 ---
 title: "Exploring Tencent's Ambitious Venture Into the Metaverse: A Silent Stance on ChatGPT Strategy - Insights From ZDNet"
-date: 2024-09-17 23:14:43
-updated: 2024-09-20 12:59:13
+date: 2024-12-20T05:30:34.173Z
+updated: 2024-12-21T04:56:44.908Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ Further development in Web3 will lead to more diverse applications, such as the 
 
 Pointing to the metaverse, he said Tencent's experience in online games and communication services spanning text, audio, video, and 3D, will be a competitive advantage. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Tencent Cloud pledges SEA expansion with launch of Indonesia data centre](https://www.zdnet.com/article/tencent-cloud-pledges-sea-expansion-with-launch-of-indonesia-data-centre/)
@@ -61,11 +65,28 @@ Pointing to the metaverse, he said Tencent's experience in online games and comm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-exploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher/"><u>[New] 2024 Approved Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-draft-satirical-graphics-for-giphy-use/"><u>[New] Draft Satirical Graphics for Giphy Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-shake-up-your-streams-xplit-alternatives-explored/"><u>[New] Shake Up Your Streams Xplit-Alternatives Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-drone-photographers-stabilization-companion/"><u>2024 Approved The Drone Photographer's Stabilization Companion</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-update-of-scansnap-drivers-made-simple-for-windows-users/"><u>Hassle-Free Update of ScanSnap Drivers Made Simple for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-laughable-film-grabber-review/"><u>In 2024, Laughable Film Grabber Review</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>In 2024, Top 5 Effortlessly Converted GIF to Professional Videos Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-6-online-background-cleansers-for-pristine-photo-edits/"><u>In 2024, Top 6 Online Background Cleansers for Pristine Photo Edits</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-unleashing-creative-potential-editing-tiktok-videos-on-mac/"><u>In 2024, Unleashing Creative Potential Editing TikTok Videos on Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sony-xperia-xz-premium-high-res-video-capabilities-analyzed-for-2024/"><u>Sony Xperia XZ Premium High-Res Video Capabilities Analyzed for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ultimate-visual-gear-top-10-cameras-in-4k-resolution-from-smartphones/"><u>Ultimate Visual Gear Top 10 Cameras in 4K Resolution From Smartphones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveil-top-8-sites-providing-free-download-of-3d-text-psdfiles-for-2024/"><u>Unveil Top 8 Sites Providing Free Download of 3D Text PSDFiles for 2024</u></a></li>
+</ul></div>
+

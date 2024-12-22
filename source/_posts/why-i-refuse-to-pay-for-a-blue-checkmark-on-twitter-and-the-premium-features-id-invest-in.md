@@ -1,7 +1,7 @@
 ---
 title: Why I Refuse to Pay for a Blue Checkmark on Twitter, and the Premium Features I'd Invest In
-date: 2024-09-19 22:38:23
-updated: 2024-09-20 11:46:39
+date: 2024-12-15T22:47:32.032Z
+updated: 2024-12-21T00:13:52.764Z
 tags:
   - cloud
 categories:
@@ -21,6 +21,10 @@ But Twitter has been under the proverbial microscope ever since Elon Musk announ
 
 **Also:** [**Elon Musk promises not to make Twitter a 'free-for-all hellscape'**](https://www.zdnet.com/article/elon-musk-promises-not-to-make-twitter-a-free-for-all-hellscape/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [Wi-Fi problems? Add a wired network to your home without Ethernet cable - here's how](https://www.zdnet.com/article/wi-fi-problems-how-to-add-a-wired-network-to-your-home-without-ethernet-cable/)
@@ -37,6 +41,10 @@ So, for the company to be profitable in the long term, it needs an income stream
 While I will not rule out either of these two reasons as part of Musk's billionaire logic to justify his purchase of Twitter, let's take the acquisition at face value that the privatization of the company also means he wants to turn it around and transform the service into something people actually want to pay to use.
 
 **Also: [How to secure your Twitter account without two-factor authentication](https://www.zdnet.com/article/how-to-protect-your-twitter-account-without-sms-two-factor-authentication/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does Twitter verification mean?
 
@@ -56,7 +64,15 @@ Other services like LinkedIn understand this need to sponsor the press and offer
 
 But what does paying to play for verification mean? Does it devalue those of us that "earned" that verification, the journalists and celebs with large fan bases? If anyone can be verified, that just means you have money to blow on a stupid icon. That includes hate-spewing misogynists, racists, antisemites, anti-LGBTQ+, and other extremists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What I would pay for 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -80,11 +96,29 @@ _When it is released, will you "pay to play" for Twitter verification? Tell me b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unboxing-mastery-the-soundtrack-selection-guidebook/"><u>[New] Unboxing Mastery The Soundtrack Selection Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-the-power-of-social-proof-tips-to-amplify-brand-visibility/"><u>[New] Unleashing the Power of Social Proof Tips to Amplify Brand Visibility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-gopros-full-potential/"><u>[New] Unlocking GoPro's Full Potential</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-channel-ascension-mastering-the-art-of-youtube-backlink-acquisition/"><u>[Updated] Channel Ascension Mastering the Art of YouTube Backlink Acquisition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-deciphering-cloud-data-management-a-complete-analysis-of-adobes-storage-offerings/"><u>[Updated] Deciphering Cloud Data Management A Complete Analysis of Adobe's Storage Offerings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1716069397486-updated-in-2024-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system/"><u>[Updated] In 2024, Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-playbook-for-procuring-partners-on-youtube/"><u>[Updated] The Ultimate Playbook for Procuring Partners on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-ms-edges-picture-in-picture-magic/"><u>[Updated] Unveiling MS Edge's Picture-in-Picture Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-virtual-background-magic-a-streamers-guide-to-chroma-key/"><u>[Updated] Unveiling Virtual Background Magic A Streamer's Guide to Chroma Key</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-art-of-digital-cropping-on-websites/"><u>2024 Approved Unveiling the Art of Digital Cropping on Websites</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evolution-of-online-search-discover-whats-new-with-microsofts-artificam-intelligence-on-bing/"><u>Evolution of Online Search: Discover What’s New with Microsoft’s Artificam Intelligence on Bing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-honor-x8b-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Honor X8b Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-saving-web-radio-broadcasts/"><u>In 2024, The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-obs-and-zoom-simplified-integration-guide/"><u>Mastering OBS & Zoom Simplified Integration Guide</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/schritt-fur-schritt-anleitungen-fur-das-herstellen-einer-vollstandigen-sicherung-von-windows-10-betriebssystem-zwei-kostenlose-methoden-aufgedeckt/"><u>Schritt-Für-Schritt Anleitungen Für Das Herstellen Einer Vollständigen Sicherung Von Windows 10 Betriebssystem - Zwei Kostenlose Methoden Aufgedeckt!</u></a></li>
+</ul></div>
+

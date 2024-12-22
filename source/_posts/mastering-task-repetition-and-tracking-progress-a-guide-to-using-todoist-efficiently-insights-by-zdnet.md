@@ -1,7 +1,7 @@
 ---
 title: "Mastering Task Repetition & Tracking Progress: A Guide to Using Todoist Efficiently | Insights by ZDNet"
-date: 2024-09-17 23:23:19
-updated: 2024-09-20 12:57:19
+date: 2024-12-15T04:04:20.713Z
+updated: 2024-12-20T17:55:20.074Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 ## Mastering Task Repetition & Tracking Progress: A Guide to Using Todoist Efficiently | Insights by ZDNet
 
 In my [recently updated productivity guide](https://www.zdnet.com/article/my-top-productivity-tools-and-tricks-for-managing-my-daily-workflow/), I showed how I use [Todoist](https://todoist.com/) to keep track of my to-do items. But if you've had one of those days where you blast through your to-do items, how can you review what you did? And if you have certain tasks that repeat regularly, how can you have Todoist help you manage those? That's what we'll talk about in this article. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -24,6 +28,10 @@ In any case, what about to-do? As it turns out, it's to-do (with a dash). How do
 That said, the name of the product we're looking at today is conspicuously dashless. Such is the chaotic state of the world today.
 
 **Also:** [**My top productivity tools and tricks for managing my daily workflow (2022 edition)**](https://www.zdnet.com/article/my-top-productivity-tools-and-tricks-for-managing-my-daily-workflow/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to see tasks you've completed 
 
@@ -42,6 +50,10 @@ These are mine so far today:
 Notice that one of the tasks I completed is called "Banks and Bills." I wrote a whole article on that practice, explaining that it's [the single best way to protect yourself against credit card fraud](https://www.zdnet.com/article/the-single-best-way-to-protect-yourself-against-credit-card-fraud/). It's worth a read.
 
 If you want to print that task list to turn it in to your boss, click on your profile icon and hit print. That's all there is to it. You can also save the print as a PDF and email that to your manager. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to repeat tasks 
 
@@ -91,11 +103,31 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-brightening-up-your-online-videos/"><u>[New] 2024 Approved Brightening Up Your Online Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-underwater-worlds-unseen-pro-tips-for-capturing-vivid-gopro-footage-underwater/"><u>[New] Underwater Worlds Unseen Pro Tips for Capturing Vivid GoPro Footage Underwater</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-utorrent-media-player-seamless-streaming/"><u>[New] UTorrent Media Player Seamless Streaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-quick-steps-to-screen-recording-via-ezvid-video-creator/"><u>[Updated] 2024 Approved Quick Steps to Screen Recording via Ezvid Video Creator</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-peaceful-playtimes-premium-pc-titles-for-2024/"><u>[Updated] Peaceful Playtimes Premium PC Titles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-creative-process-with-instagrams-audio-features/"><u>[Updated] Streamline Your Creative Process with Instagram's Audio Features</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlocking-brightness-and-saturation-in-ps-basics-for-2024/"><u>[Updated] Unlocking Brightness and Saturation in PS Basics for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-c65-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco C65</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-fix-typical-sound-and-video-glitches-in-microsofts-os-tips-from-experts-at-yl-software/"><u>How to Fix Typical Sound & Video Glitches in Microsoft's OS: Tips From Experts at YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-visual-journey-in-filmmaking-insights-from-filmora-expertise/"><u>In 2024, A Visual Journey in Filmmaking Insights From Filmora Expertise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supreme-seminar-strategist-summit/"><u>In 2024, Supreme Seminar Strategist Summit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-portable-audio-choices-decoded/"><u>In 2024, Top Portable Audio Choices Decoded</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-poco-c51-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Poco C51? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/supercharge-videos-with-dynamic-titles-for-2024/"><u>Supercharge Videos with Dynamic Titles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-hidden-functions-to-enhance-your-canva-artistry-for-2024/"><u>Top 10 Hidden Functions to Enhance Your Canva Artistry for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-audio-and-video-elite-webcams-for-podcasting-for-2024/"><u>Unmatched Audio & Video Elite Webcams for Podcasting for 2024</u></a></li>
+</ul></div>
+

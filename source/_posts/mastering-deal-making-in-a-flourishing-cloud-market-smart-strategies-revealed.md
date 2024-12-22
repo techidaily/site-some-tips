@@ -1,7 +1,7 @@
 ---
 title: Mastering Deal-Making in a Flourishing Cloud Market - Smart Strategies Revealed
-date: 2024-09-17 21:54:36
-updated: 2024-09-20 10:35:14
+date: 2024-12-13T18:14:53.694Z
+updated: 2024-12-20T20:28:27.760Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Photo: Joe McKendrick
 Last month, it was [disclosed](https://www.nextgov.com/emerging-tech/2022/04/nsa-re-awards-secret-10-billion-contract-amazon/366184/) that the National Security Agency re-awarded a massive and hotly contested cloud computing contract worth up to $10 billion to Amazon Web Services. 
 
 One can assume a large government agency procuring $10 billion of cloud services has quite a bit of leverage over the terms of the agreement. However, for mainstream companies, the opposite may be true -- the cloud provider holds many of the cards, in a legal or contractual sense, with terms that may come back to bite the consumer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -59,11 +63,33 @@ Cloud engagements are now the lifeblood of forward-looking enterprises seeking t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-pinpointing-personalities-pinning-friends-on-snapchat-for-2024/"><u>[New] Pinpointing Personalities Pinning Friends on Snapchat for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-percussion-prospector-find-and-test-free-software/"><u>[New] The Percussion Prospector – Find & Test Free Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-shoppers-list-select-box-personalization-sites/"><u>[New] Ultimate Shopper's List Select Box Personalization Sites</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1716000645935-updated-2024-approved-detailed-evaluation-razer-kiyo-webcam/"><u>[Updated] 2024 Approved Detailed Evaluation - Razer Kiyo Webcam</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-the-power-of-revenue-streams-youtubers-adsense-manual-for-2024/"><u>[Updated] Unlocking the Power of Revenue Streams YouTubers' AdSense Manual for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-sns-hdr-pro-analysis-worth-its-weight-in-gold/"><u>2024 Approved SNS HDR Pro Analysis Worth Its Weight in Gold?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-sourcing-a-list-cinematography-experts/"><u>2024 Approved Strategies for Sourcing A-List Cinematography Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-reliable-and-affordable-299-computer-ideal-choice-for-university-scholars-zdnet/"><u>A Reliable and Affordable $299 Computer: Ideal Choice for University Scholars | ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/explore-5-premier-photographers-and-videographers-mixing-tunes/"><u>Explore 5 Premier Photographers & Videographers Mixing Tunes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-broadcast-your-music-mp3-conversion-and-upload-on-youtube/"><u>In 2024, Broadcast Your Music MP3 Conversion and Upload on YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-s24-ultra-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy S24 Ultra? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlined-accessibility-learning-iphoneipad-techniques-for-podcast-downloads/"><u>In 2024, Streamlined Accessibility Learning iPhone/iPad Techniques for Podcast Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-viewers-experience-with-top-mac-streamers/"><u>In 2024, Transform Your Viewers' Experience with Top Mac Streamers</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-ps4-remote-with-a-stable-win-based-link/"><u>Reviving Your PS4 Remote with a Stable Win-Based Link</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-kinemaster-blueprint-for-flawless-green-screen-techniques-for-2024/"><u>The Complete Kinemaster Blueprint for Flawless Green Screen Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ae-titles-for-striking-visual-impact-for-2024/"><u>Top AE Titles for Striking Visual Impact for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-power-in-healthcare-through-vr-for-2024/"><u>Transformative Power in Healthcare Through VR for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-power-of-time-markings-in-your-youtube-content-for-2024/"><u>Unlock the Power of Time Markings in Your YouTube Content for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-path-of-data-packets-expert-tips-for-implementing-tracert-command-in-windows/"><u>Unraveling the Path of Data Packets: Expert Tips for Implementing Tracert Command in Windows</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis of Microsoft Surface Pro 8: A Comprehensive Guide for Corporate Users"
-date: 2024-12-09T17:02:41.358Z
-updated: 2024-12-12T16:03:11.937Z
+date: 2024-12-19T00:11:40.971Z
+updated: 2024-12-20T20:55:51.326Z
 tags:
   - apple
 categories:
@@ -42,15 +42,15 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -75,7 +75,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -93,10 +93,6 @@ I already had the combo kit, so that's what I've been using during my testing.
 Regardless of which keyboard you pick up, all of them have a slot for a Surface Slim Pen 2 above the keyboard. When it's folded up, the pen rests against the Pro 8's bottom bezel. It wirelessly charges the pen, so it's constantly ready for use. 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
 
@@ -130,6 +126,10 @@ Speaking of which, I had the Pro 8 connected to a monitor for the majority of my
 The ability to connect a tablet to an external display and have it actually work how it's supposed to is a huge boost for my productivity. I was able to have apps like Slack and iCloud email open on the Pro 8's screen, while writing in iA Writer on the larger external monitor with multiple Edge tabs open. 
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -166,13 +166,13 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -212,22 +212,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-costs-without-compromising-on-youtube-intros-quality/"><u>[New] 2024 Approved Cutting Costs without Compromising on YouTube Intros Quality</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-tips-and-tricks-for-creating-engaging-collab-videos-on-youtube/"><u>[New] In 2024, Tips and Tricks for Creating Engaging Collab Videos on YouTube</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-flick-retrospective-the-goofy-movie-edition-revisited/"><u>[Updated] In 2024, Flick Retrospective The 'Goofy Movie' Edition Revisited</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tips-on-how-skip-edgenuity-videos-easily/"><u>[Updated] Tips on How Skip Edgenuity Videos Easily</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-best-unlimited-cloud-storage-service-recommendations/"><u>2024 Approved Best Unlimited Cloud Storage Service Recommendations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-master-image-tweaks-with-snapseed-for-newbies/"><u>2024 Approved Master Image Tweaks with Snapseed for Newbies</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-secrets-of-bulk-downloads-maximizing-your-tiktok-video-collection/"><u>2024 Approved Secrets of Bulk Downloads Maximizing Your TikTok Video Collection</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-ntoskrnlexe-overuse-on-windows-systems/"><u>Addressing ntoskrnl.exe Overuse on Windows Systems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/advanced-vocal-precision-from-microsoft-expands-new-wave-of-pcs-gain-cutting-edge-speech-technology/"><u>Advanced Vocal Precision From Microsoft Expands: New Wave of PCs Gain Cutting-Edge Speech Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-steady-visual-commencement/"><u>In 2024, Steady Visual Commencement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-variants-of-moviemaker-pro-on-windows/"><u>In 2024, Variants of MovieMaker Pro on WIndows</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/infographic-led-exploration-of-future-social-trends-for-2024/"><u>Infographic-Led Exploration of Future Social Trends for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/kicking-off-with-keyframe-quality-controls-for-2024/"><u>Kicking Off with Keyframe Quality Controls for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/navigating-adsense-income-on-youtube-per-1000-viewer-earning/"><u>Navigating AdSense Income on YouTube Per 1,000 Viewer Earning</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/spread-the-word-about-our-favorite-no-cost-av-converter-software-for-easy-sharing/"><u>Spread the Word About Our Favorite No-Cost AV Converter Software for Easy Sharing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/studio-masterclass-journey-extended-xvideoexplore-for-2024/"><u>Studio Masterclass Journey Extended XVideoExplore for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-podcast-blurbs-techniques-and-illustrations-for-2024/"><u>The Art of Podcast Blurbs Techniques and Illustrations for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-10-timeless-family-adventures-on-screen-this-season/"><u>[New] Top 10 Timeless Family Adventures on Screen This Season</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-power-of-quantum-hdr-in-visual-arts/"><u>[Updated] 2024 Approved The Power of Quantum HDR in Visual Arts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-uncomplicated-walkthrough-of-easy-iphone-screen-capture/"><u>[Updated] In 2024, Uncomplicated Walkthrough of Easy iPhone Screen Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-prevent-ai-driven-youtube-video-selections/"><u>[Updated] Prevent AI-Driven YouTube Video Selections</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quantifying-a-days-video-consumption-in-gb/"><u>[Updated] Quantifying a Day's Video Consumption in GB</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-generar-una-imagen-animada-gif-a-partir-de-un-video-en-internet-sin-coste/"><u>Cómo Generar Una Imagen Animada (GIF) a Partir De Un Video en Internet Sin Coste</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-gratuita-de-archivos-flac-a-aiff-con-eficiencia-movavi/"><u>Conversión Gratuita De Archivos FLAC a AIFF Con Eficiencia - Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mov-to-mkv-transformation-hassle-free-online-and-at-zero-cost/"><u>MOV to MKV Transformation - Hassle-Free, Online and at Zero Cost!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-no-cost-toolkit-for-transforming-dts-audio-tracks-to-aac/"><u>Movavi's No-Cost Toolkit for Transforming DTS Audio Tracks to AAC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4-to-mpg-file-changer-downloadable-app-offers-fast-no-cost-upgrades-with-movavis-help/"><u>MP4 to MPG File Changer: Downloadable App Offers Fast, No-Cost Upgrades with Movavi's Help</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-tecnicas-para-combinar-duas-fotografias-com-fotoeditor-e-alternativas-em-2024/"><u>Top 5 Técnicas Para Combinar Duas Fotografias Com FotoEditor E Alternativas Em 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/understanding-ilibrary-files-essential-insights-and-uses/"><u>Understanding ILibrary Files: Essential Insights and Uses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-flvogv-movavi/"><u>무료 Online FLV/OGV 변환 소프트웨어 - Movavi의 최신 방법을 배우세요!</u></a></li>
 </ul></div>
 

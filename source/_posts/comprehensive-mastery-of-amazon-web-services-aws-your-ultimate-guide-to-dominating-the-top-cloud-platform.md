@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Mastery of Amazon Web Services (AWS): Your Ultimate Guide to Dominating the Top Cloud Platform"
-date: 2024-09-19 15:46:34
-updated: 2024-09-20 11:53:48
+date: 2024-12-13T23:57:04.598Z
+updated: 2024-12-20T22:18:42.689Z
 tags:
   - cloud
 categories:
@@ -94,6 +94,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Faws-the-guide-to-the-worlds-most-powerful-cloud-service%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Faws-the-guide-to-the-worlds-most-powerful-cloud-service%2F "Twitter") 
@@ -115,6 +119,10 @@ Amazon is the company most associated with "the cloud," in the minds of the gene
 
 Amazon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Amazon AWS does, generally speaking 
 
 Astonishingly, Amazon as a corporation presents its own cloud business, Amazon Web Services (AWS), as a subsidiary entity — a venture on the side. In over 4,500 words of written testimony submitted by Amazon's then-CEO Bezos in July 2020 to the House Antitrust Subcommittee \[[PDF](https://www.congress.gov/116/meeting/house/110883/witnesses/HHRG-116-JU05-Wstate-BezosJ-20200729.pdf)\], ostensibly about the potentially overbearing and heavy-handed role that Amazon, Google, Facebook, and Apple play in directing the course of technology, the word "cloud" appears but twice. 
@@ -124,6 +132,10 @@ Bezos, who is planning a transition to Executive Chairman of the company in Q3 2
 **LEARN MORE:**
 
 * [Amazon founder Bezos will give CEO role to AWS leader Andy Jassy, become executive chairman](https://www.zdnet.com/article/amazon-q4-revenue-profit/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How Amazon got to this point 
 
@@ -261,6 +273,10 @@ Because a containerized application (sorry, there's no other term for it) may us
 
 * [How Amazon and VMware are building one cloud for both platforms](https://www.zdnet.com/article/how-amazon-and-vmware-are-building-one-cloud-for-both-platforms/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Simple Cloud Storage Service (S3) 
 
 As we mentioned before, one of Amazon's true breakthroughs was the establishment of S3, its Simple Storage Service (the word "Cloud" has since been wedged into the middle of its name). For this business model, Amazon places "turnstiles," if you will, at two points of the data exchange process: when data is uploaded, and when it's transacted by means of a retrieval call or a database query. So both input and output incur charges. 
@@ -279,6 +295,10 @@ If AWS were to charge one flat fee for data retrieval — say, per megabyte down
 ##  AWS database services 
 
 Here's where Amazon adds a third turnstile to the data model: by offering database engines capable of utilizing the data stored in S3 buckets. An AWS database engine is a specialized instance type: a VM image in which the database management system is already installed. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Amazon Aurora 
 
@@ -304,6 +324,10 @@ LEARN MORE:
 
 * **[Amazon S3 Access Points, Redshift updates as AWS aims to change the data lake game](https://www.zdnet.com/article/amazon-s3-access-points-redshift-updates-as-aws-looks-to-change-the-data-lake-game/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Amazon Kinesis Data Analytics 
 
 Kinesis leverages AWS' data lake components to stand up an analytics service — one that evaluates the underlying patterns within a data stream or a time series, make respectable forecasts, and draw apparent correlations as close to real-time as possible. So if you have a data source such as a server log, machines on a manufacturing or assembly line, a financial trading system, or in the most extensive example, a video stream, Kinesis can be programmed to generate alerts and analytical messages in response to conditions that you specify. 
@@ -322,6 +346,10 @@ In addition, AWS offers the following:
 * **ElastiCache** for dealing with high volumes of data in-memory.
 
 ##  AWS advanced and scientific services 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Amazon Lambda 
 
@@ -363,11 +391,28 @@ So if you have, say, an open source content management system compiled to run in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-transform-your-images-on-android-our-picks-for-the-5-best-editors/"><u>[Updated] 2024 Approved Transform Your Images on Android Our Picks for the 5 Best Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-your-editing-potential-the-ultimate-guide-to-background-erasure-in-ps/"><u>[Updated] Unlock Your Editing Potential The Ultimate Guide to Background Erasure in PS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-full-potential-of-apods-downloads/"><u>[Updated] Unlocking the Full Potential of APods Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-gateway-guide-entering-the-world-of-photo-video-with-pixiz/"><u>2024 Approved The Gateway Guide Entering the World of Photo-Video with Pixiz</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-superior-hd-videos-on-android-devices/"><u>2024 Approved Unleash Superior HD Videos on Android Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hands-on-evaluation-of-alienware-m18-r2s-premium-keyboard-and-performance-features/"><u>Hands-On Evaluation of Alienware M18 R2's Premium Keyboard & Performance Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-when-an-ipad-cant-find-or-print-with-any-printers/"><u>How to Fix When an iPad Can't Find or Print With Any Printers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-instant-subscription-monitoring-tools/"><u>In 2024, Instant Subscription Monitoring Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tricks-to-turn-off-youtube-videos-without-compromise/"><u>In 2024, Tricks to Turn Off YouTube Videos Without Compromise</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/perfectly-pair-photos-for-your-instagram-story-easy-guide/"><u>Perfectly Pair Photos for Your Instagram Story Easy Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-free-downloads-of-windows-8-compatible-drivers-for-your-amd-radeon-gpus/"><u>Secure Free Downloads of Windows 8 Compatible Drivers for Your AMD Radeon GPUs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-complete-manual-on-valheim-planting/"><u>The Complete Manual on Valheim Planting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-camera-review-can-gopros-hero-beat-sonys-dslr-action/"><u>Ultimate Camera Review Can GoPro's Hero Beat Sony's DSLR Action</u></a></li>
+<li><a href="https://techidaily.com/ultimate-tutorial-on-configuring-remote-access-for-your-windows-10-machine/"><u>Ultimate Tutorial on Configuring Remote Access for Your Windows 10 Machine</u></a></li>
+</ul></div>
+

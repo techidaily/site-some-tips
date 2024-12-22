@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Cloud Storage: Controlling Which Folders Automatically Update in Your Google Drive for Windows/Mac Users"
-date: 2024-09-19 15:45:25
-updated: 2024-09-20 11:54:58
+date: 2024-12-16T18:03:45.052Z
+updated: 2024-12-20T19:20:35.348Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/54fd3e003b786647a6f1d7a89a0a9ff3e56e44f97
 ## Optimizing Cloud Storage: Controlling Which Folders Automatically Update in Your Google Drive for Windows/Mac Users
 
 I'm a Google Drive power user. I use the service daily for the majority of my writing needs. During my decade with Drive, I have had one instance where I lost nearly all of my work (thanks to a third-party sync tool that went awry). Since then, I've been diligent about backing up Google Drive. For that, I depend on rclone to backup specific directories in Google Drive to an external drive attached to my [System76 Thelio](https://system76.com/desktops), running [Pop!\_OS](https://pop.system76.com/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Google Docs tips
 
@@ -30,7 +34,15 @@ The only things you'll need are a Google Drive account and the Google Drive Desk
 
 Let's get started.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding a new folder for syncing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Access Settings
 
@@ -54,6 +66,10 @@ Image: Jack Wallen
 
 From that menu, click **Preferences**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Add a new folder
 
 In the new window (**Figure 4**), click **Add folder**.
@@ -71,6 +87,10 @@ Image: Jack Wallen
 Locate and select the new folder you want to sync with Drive and click Open. You'll be taken back to the Google Drive Desktop Client Preferences window, where you'll see the new folder listed. 
 
 Once added, the client will automatically upload the files and sub-directories within the newly-added folder. Depending on how many files (and the size of those files), the initial sync could take some time. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Locating those files in Drive
 
@@ -103,11 +123,30 @@ Congratulations, you've configured the Google Drive Desktop Client to sync added
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-the-acquisition-of-background-visual-content/"><u>[New] Streamlining the Acquisition of Background Visual Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-vr-equipment-for-drone-flight/"><u>[New] Superior VR Equipment for Drone Flight</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-inconspicuous-footprint-of-social-media-engagements/"><u>[New] The Inconspicuous Footprint of Social Media Engagements</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-top-strategies-for-high-def-facebook-video-for-2024/"><u>[New] Top Strategies for High-Def Facebook Video for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fill-the-airwaves-with-no-cost-songs/"><u>[Updated] Fill the Airwaves with No-Cost Songs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-iphone-framing-finding-the-best-camera-positions/"><u>2024 Approved The Art of iPhone Framing Finding the Best Camera Positions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essence-of-interactive-virtuality/"><u>2024 Approved The Essence of Interactive Virtuality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-no-cost-dvd-conversion-software-for-win10win11-users-transform-your-dvds-into-multiple-formats-easily/"><u>Best No-Cost DVD Conversion Software for Win10/Win11 Users: Transform Your DVDs Into Multiple Formats Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-on-restoring-default-settings-in-dell-machines/"><u>Complete Tutorial on Restoring Default Settings in Dell Machines</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/cutting-edge-free-vob-video-editors-a-detailed-comparison/"><u>Cutting-Edge Free VOB Video Editors A Detailed Comparison</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-enhancing-winter-vlogs-with-five-heartwarming-backdrops/"><u>In 2024, Enhancing Winter Vlogs with Five Heartwarming Backdrops</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-text-tools-and-after-effects/"><u>In 2024, Superior Text Tools & After Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-revised-sony-s3700-experience/"><u>In 2024, Unveiling the Revised Sony S3700 Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickening-data-exchange-diminishing-pings-and-delay-duration/"><u>Quickening Data Exchange: Diminishing Pings and Delay Duration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techniques-of-capturing-emotion-in-digital-gif-formats-for-2024/"><u>Techniques of Capturing Emotion in Digital GIF Formats for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-your-mobile-data-so-slow-how-to-speed-it-up-in-10-steps/"><u>Why Is Your Mobile Data So Slow? How to Speed It Up in 10 Steps</u></a></li>
+</ul></div>
+

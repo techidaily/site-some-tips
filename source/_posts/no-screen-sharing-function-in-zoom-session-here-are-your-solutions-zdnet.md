@@ -1,7 +1,7 @@
 ---
 title: No Screen Sharing Function in Zoom Session? Here Are Your Solutions! | ZDNet
-date: 2024-09-17 15:34:48
-updated: 2024-09-20 12:49:37
+date: 2024-12-14T23:41:51.013Z
+updated: 2024-12-20T21:06:05.170Z
 tags:
   - cloud
 categories:
@@ -13,9 +13,17 @@ thumbnail: https://www.zdnet.com/a/img/resize/69477d04641e8887ad2c6e7cc3deff5aa7
 
 ![zoom-meeting-2021-11-30-21-29-37.jpg](https://www.zdnet.com/a/img/resize/8fda8f21483965cc1a7896bd10a052a37ba3c935/2021/12/01/73bc6b46-99b1-4f4b-a458-217c1c9c1514/zoom-meeting-2021-11-30-21-29-37.jpg?auto=webp&width=1280)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### read this
 
 [![20-zoom-app-meetings-work-from-home-coronavirus1.jpg](https://www.zdnet.com/a/img/resize/5cb7d0f7c8790f5d5abf20907492eb7ebb0f6a8e/2020/03/30/48a3c208-cd56-42a5-a6d7-36d226c15009/20-zoom-app-meetings-work-from-home-coronavirus1.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The complete Zoom guide: From basic help to advanced tricks Video conferencing has never been so critical to our work and personal lives. Here's everything you need to make your meetings more productive and your social gatherings COVID-safe.  Read now](https://www.zdnet.com/article/zoom-101-a-starter-guide-for-beginners-plus-advanced-tips-and-tricks-for-pros/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This happened in a meeting the other day. We had participants from all over the world. One of the people in the meeting needed to share their screen, but they couldn't find the big green Share Screen button. 
 
@@ -28,6 +36,10 @@ The host needs to go to [Zoom.us](https://zoom.us) and sign in. Click Settings, 
 The host then needs to scroll down to the Screen Sharing section and turn it on. I like setting All Participants for who can share and for who can start sharing. If you have a more unruly room, you might want to set those to Host Only. Then the host needs to click Save. 
 
 It's at this point that things may get confusing. The Share Screen button might appear for all participants. Or it might only appear to any participants who leave and then rejoin the meeting. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -70,11 +82,29 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-outlining-expenses-creating-a-music-video/"><u>[New] Outlining Expenses Creating a Music Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-iphone-light-balancing/"><u>[Updated] The Ultimate Guide to iPhone Light Balancing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-ultimate-speed-boost-for-vimeo-videos/"><u>[Updated] Ultimate Speed Boost for Vimeo Videos</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-xr-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone XR to Samsung | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-ios-journey-just-began/"><u>ChatGPT's iOS Journey Just Began</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/einfaches-deutsch-von-1-bis-100-zahlen-lernen/"><u>Einfaches Deutsch: Von 1 Bis 100 Zählen Lernen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oppo-a78-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Oppo A78 5G Phone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-easy-steps-to-record-your-vlc-videos-effectively/"><u>In 2024, Easy Steps to Record Your VLC Videos Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-the-power-of-social-proof-tips-to-amplify-brand-visibility/"><u>In 2024, Unleashing the Power of Social Proof Tips to Amplify Brand Visibility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-freeze-frames-in-photobooth-recordings/"><u>In 2024, Unraveling Freeze Frames in Photobooth Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-accurate-age-input-in-tiktok-profiles-for-2024/"><u>Tips for Accurate Age Input in TikTok Profiles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-online-seminar-creation-assistant-for-2024/"><u>Ultimate Online Seminar Creation Assistant for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-of-periscope-mastery-for-2024/"><u>Unlocking the Secrets of Periscope Mastery for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unpacking-the-symbolism-in-new-facebook-page-designations/"><u>Unpacking The Symbolism In New Facebook Page Designations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/video-revenue-generation-on-facebook-tactics-for-financial-growth/"><u>Video Revenue Generation on Facebook Tactics for Financial Growth</u></a></li>
+</ul></div>
+

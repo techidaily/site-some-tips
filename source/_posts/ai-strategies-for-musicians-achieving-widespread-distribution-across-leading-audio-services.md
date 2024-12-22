@@ -1,7 +1,7 @@
 ---
 title: "AI Strategies for Musicians: Achieving Widespread Distribution Across Leading Audio Services"
-date: 2024-09-19 21:54:17
-updated: 2024-09-20 10:34:46
+date: 2024-12-19T19:29:11.518Z
+updated: 2024-12-21T04:08:54.565Z
 tags:
   - cloud
 categories:
@@ -128,6 +128,10 @@ David Gewirtz via Midjourney/ZDNET
 
 There are four additional images I'll be using over the next year, but you'll have to wait and see those when they are released with the music. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Identifying musical genres 
 
 When you submit music to a distributor, streaming service, and even for promotion, you're supposed to know what genre the tunes fall into. I had no idea. I tend to like the music I like, but I've never really paid attention to the music genre. The last music class I took was music appreciation, back in junior high. 
@@ -147,6 +151,10 @@ From that, I got back the following recommendation:
 Screenshot by David Gewirtz/ZDNET
 
 Is it perfect? Probably not. If I really were an A&R executive, I'd be able to fit the tunes into their proper categories. But since I'm no expert, the AI did give me a leg up. The songs were accepted, and so far, the playlist curators who've looked at the songs didn't feel they were in the wrong genres, so I'll call this another win for the AI. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Creating a music description 
 
@@ -180,6 +188,10 @@ You can see the result on the House of the Head website, on [the bio page](https
 
 We'll be spending some more time there next. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The three types of AI website support 
 
 Most musicians need a website for promotion. It's a place where all the information needed by journalists, fans, and playlist curators can go to find out about your music. 
@@ -198,9 +210,17 @@ That's why I'm not naming names. I expect that this area will see improvement ev
 
 For now, I decided it would be easier simply to build my own site using WordPress and a theme (I used [Divi from Elegant Themes](https://www.elegantthemes.com/gallery/divi/)) and host the site on one of the servers I'm already paying for. For the record, I chose Divi because I've previously used it on another site, it's pretty good, and I have an already-paid license for it. There are certainly other excellent WordPress themes and even some that are musician focused. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  AI-based marketing content creation 
 
 Here is where I relied very heavily on AI tools. You saw how I used ChatGPT to create a musician's bio. That's one page of the site, but it's an important page. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  AI-based image creation 
 
@@ -287,6 +307,10 @@ Then, using the /swapid command, I uploaded the hacker image from above and let 
 The original is on the left. The face match version is on the right. Because the one on the left is also based on my face, they're similar. But the one on the right is a bit more me.
 
 David Gewirtz via Midjourney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Midjourney, FaceSwap, and Generative Fill for the car image 
 
@@ -383,11 +407,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/est-8-youtube-thumbnail-grabbers-you-should-know-for-2024/"><u>[New] Best 8 YouTube Thumbnail Grabbers You Should Know for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-deciphering-the-wealth-of-mr-beast-for-2024/"><u>[New] Deciphering the Wealth of Mr. Beast for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-transforming-horizontal-footage-into-vertical-video-gold-on-igtv/"><u>[New] In 2024, Transforming Horizontal Footage Into Vertical Video Gold on IGTV</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-transform-your-trip-diary-into-haul-video-hype/"><u>[Updated] 2024 Approved Transform Your Trip Diary Into Haul Video Hype</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-bundle-6-powerful-apps-to-remove-signature-borders/"><u>[Updated] The Ultimate Bundle – 6 Powerful Apps to Remove Signature Borders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-15-nba-live-stream-techniques/"><u>[Updated] Top 15 NBA LIVE STREAM Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-facetune-guide-elevating-your-image-quality/"><u>[Updated] Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-perfect-your-content-with-tiktoks-number-manipulation-tricks/"><u>2024 Approved Perfect Your Content with TikTok's Number Manipulation Tricks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tailoring-textual-terminals/"><u>2024 Approved Tailoring Textual Terminals</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-netgear-ex6200-a-top-rated-ac1200-wifi-range-extender/"><u>Comprehensive Review of the Netgear EX6200, a Top-Rated AC1200 WiFi Range Extender</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/creating-an-online-gaming-presence-joining-playstation-network/"><u>Creating an Online Gaming Presence: Joining PlayStation Network</u></a></li>
+<li><a href="https://techtrends.techidaily.com/harnessing-the-power-of-cookiebot-for-advanced-online-analytics-and-seo/"><u>Harnessing the Power of Cookiebot for Advanced Online Analytics and SEO</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-modern-techniques-for-gesture-interpretation/"><u>In 2024, Unveiling Modern Techniques for Gesture Interpretation</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/pros-and-cons-macx-dvd-ripper-pro-versus-mdrp-a-comprehensive-comparison-of-the-top-two-dvd-ripping-tools/"><u>Pros and Cons: MacX DVD Ripper Pro versus MDRP - A Comprehensive Comparison of the Top Two DVD Ripping Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-next-level-of-immersion-top-10-vr-gear-for-2024/"><u>The Next Level of Immersion (Top 10 VR Gear) for 2024</u></a></li>
+</ul></div>
+

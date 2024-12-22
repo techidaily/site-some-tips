@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores Why Apple's New WWDC AI Developments Might Not Spark Interest (And That's a Good Thing)
-date: 2024-12-07T16:03:26.078Z
-updated: 2024-12-12T16:12:48.360Z
+date: 2024-12-17T20:04:03.387Z
+updated: 2024-12-20T21:47:10.895Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,18 +146,21 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-harnessing-power-of-ez-grabber-quick-start-guide-to-usage/"><u>[New] Harnessing Power of EZ Grabber - Quick Start Guide to Usage</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-techniques-for-stunning-shadow-photography-on-your-iphone/"><u>[New] Techniques for Stunning Shadow Photography on Your iPhone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-zoom-expertise-for-improved-google-meet-visibility/"><u>[New] The Ultimate Zoom Expertise for Improved Google Meet Visibility</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-thrifty-tech-finds-best-cameras-on-a-dime/"><u>[Updated] Thrifty Tech Finds Best Cameras on a Dime</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-potential-an-in-depth-look-at-vivocut-editing/"><u>[Updated] Unlocking Potential An In-Depth Look at VivoCut Editing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-elitemac-perfect-blend-of-screen-and-audio-capturing-features/"><u>In 2024, EliteMac Perfect Blend of Screen and Audio Capturing Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-metaverse-and-multi-meva-split-an-exploratory-analysis/"><u>In 2024, The Metaverse & Multi-Meva Split An Exploratory Analysis</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-13c-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Redmi 13C 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-advanced-photo-tools-review/"><u>In 2024, Unveiling Advanced Photo Tools Review</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/innovative-phone-applications-altering-your-natural-tone/"><u>Innovative Phone Applications Altering Your Natural Tone</u></a></li>
-<li><a href="https://win-web.techidaily.com/quick-guide-transferring-youwatch-media-files-as-mp4-wmv-or-avi-for-easy-viewing/"><u>Quick Guide: Transferring YouWatch Media Files as MP4, WMV or AVI for Easy Viewing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-filmmakers-guide-to-enhancing-close-ups-using-kinemaster-for-2024/"><u>The Filmmaker’s Guide to Enhancing Close-Ups Using Kinemaster for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/uncover-hidden-or-lost-data-on-your-iphone-using-the-powerful-features-of-stellar-data-recovery/"><u>Uncover Hidden or Lost Data on Your iPhone Using the Powerful Features of Stellar Data Recovery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-digital-talk-initiator/"><u>[New] Ideal Digital Talk Initiator</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-inside-outlook-a-study-of-vivavideo-functionality/"><u>[Updated] In 2024, Inside Outlook A Study of VivaVideo Functionality</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-quick-fixes-the-hands-on-guide-to-generating-timely-captions-on-fb-media/"><u>[Updated] Quick Fixes The Hands-On Guide to Generating Timely Captions on FB Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movaviwtvmpgmp4/"><u>「Movaviプログラムを使用したオンデマンドWTVファイルからMPG/MP4への自由解放変換ガイド」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-steadicam-systems-for-drone-cinematography-aficionados/"><u>2024 Approved Top-Ranked Steadicam Systems for Drone Cinematography Aficionados</u></a></li>
+<li><a href="https://some-tips.techidaily.com/7-best-no-cost-dvd-players-of-202-recommended-software-list/"><u>7 Best No-Cost DVD Players of 202^! Recommended Software List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-f4v-avi/"><u>逐步指南：如何利用 Movavi 轉換器無限制地將 F4V 圖像翻轉成 AVI</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuitas-conversor-de-mp4-para-wmv-online-utilizar-o-moviemaker-pelo-movavi/"><u>Gratuitas Conversor De MP4 Para WMV Online - Utilizar O MovieMaker Pelo Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/het-beste-software-voor-het-behandelen-van-stamppuntsproblemen-eenlijst/"><u>Het Beste Software Voor Het Behandelen Van Stamppuntsproblemen: Eenlijst!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-tale-of-two-platforms-youtube-and-dailymention/"><u>In 2024, The Tale of Two Platforms YouTube and DailyMention</u></a></li>
+<li><a href="https://some-tips.techidaily.com/la-guia-definitiva-para-reducir-el-tamano-de-archivos-voluminosos-con-los-herramientas-de-compactacion-mas-eficaces/"><u>La Guía Definitiva Para Reducir El Tamaño De Archivos Voluminosos Con Los Herramientas De Compactación Más Eficaces</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/navigating-video-issues-correcting-error-0xc10100be/"><u>Navigating Video Issues: Correcting Error 0XC10100be</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-guide-to-easily-reverse-a-video-in-real-time-using-your-computer-or-going-online/"><u>Quick Guide to Easily Reverse a Video in Real-Time Using Your Computer or Going Online</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-nokia-c12-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Nokia C12 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Motorola Moto G13? | Dr.fone</u></a></li>
 </ul></div>
 

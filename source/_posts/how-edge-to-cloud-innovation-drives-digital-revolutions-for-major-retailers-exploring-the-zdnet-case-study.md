@@ -1,7 +1,7 @@
 ---
 title: How Edge-to-Cloud Innovation Drives Digital Revolutions for Major Retailers - Exploring the ZDNet Case Study
-date: 2024-09-17 12:20:33
-updated: 2024-09-20 11:29:58
+date: 2024-12-15T18:09:17.965Z
+updated: 2024-12-21T04:12:14.339Z
 tags:
   - cloud
 categories:
@@ -95,6 +95,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F&title= "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F "Twitter") 
@@ -115,6 +119,10 @@ In this article, we're going to take a slightly different approach. Rather than 
 
 Because many of these initiatives tend to be confidential inside the real-world companies performing them, in this article we're going to be talking about a fictional distributed home and building goods chain retailer: Home-by-Home. That way, we can dive into some of the areas of business operations that a real enterprise might not be comfortable revealing publicly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Case study: Home-by-Home
 
 At a base level, Home-by-Home stores need to be able to handle normal checkout and customer transactions. While this is an operation common to nearly all retailers, it's also one that's deeply infused with technology and innovation.
@@ -128,6 +136,10 @@ And because most of Home-by-Home's stores have wireless shelf-talker tags (tiny 
 On a global level, the retailer needs to track supply chain issues worldwide, and factor in weather, political, and shipping analytics to ensure goods are where they need to be when needed. AI plays a role here, too. In fact, we'll see that AI is playing a bigger and bigger role throughout Home-by-Home's entire extended network as well as its supply chain.
 
 By combining API access and microservices with big data and real-time analytics, Home-by-Home and its suppliers can account for the constantly shifting terrain of international supply and demand, and change vendors, orders, and promotions to suit as-it's-happening availability and logistics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -144,6 +156,10 @@ The company has a comprehensive e-commerce offering through desktop browsers and
 Since 2000, Home-by-Home has been converting larger stores into dual-purpose facilities, using them for customer visits during the day and as e-commerce fulfillment warehouses after closing hours. The company has added autonomous pick-and-pack robots for the overnight shift, leading to even more reliance on real-time inventory management, cameras, and AI. All of these improvements have allowed the company to deliver heavier and more commonly ordered goods directly to local-to-store consumers while cutting down the wait time and shipping costs considerably. Central warehouses responding to e-commerce orders still stock another few hundred thousand more obscure SKUs that are shipped via the package delivery services.
 
 Earlier this year, Home-by-Home acquired a competitor with 450 stores and has begun a considerable migration effort to move them from old point-of-sale systems and central siloed databases to the edge-to-cloud digital transformation that's actively in practice throughout Home-by-Home's operations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## End-to-end integration across all stores and vendors
 
@@ -170,6 +186,10 @@ Dynamic provisioning and on-demand infrastructure from edge to cloud is key to i
 
 Seasonal surges are also accommodated, allowing the company to add about 30% additional IT infrastructure resources for the critical home improvement seasons, but then scale back down and reduce spending during the months when consumers are focused on other interests.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edge-to-cloud platforms
 
 HPE GreenLake is an example of one of the companies that offers edge-to-cloud services that bring the centralized dashboard, on-demand provisioning, and pay-as-you-go benefits of public cloud infrastructure to on-premises computing and edge computing installations. This is what a company like Home-by-Home needs to be able to begin provisioning the services for its new acquisition immediately. There is no order-and-wait period for new configurations. 
@@ -186,11 +206,24 @@ Edge-to-cloud platforms help aggregate entire solutions, providing the benefits 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mastering-audio-capture-from-skype-for-mp3/"><u>[New] 2024 Approved Mastering Audio Capture From Skype for MP3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-specs-hp-envy-27s-4k-capabilities/"><u>[New] Unveiling the Specs HP Envy 27'S 4K Capabilities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/experience-precise-audio-fidelity-a-comprehensive-guide-to-the-beyerdynamic-mmx-wireless-gaming-headsets-robust-performance-in-simplistic-packaging/"><u>Experience Precise Audio Fidelity: A Comprehensive Guide to the Beyerdynamic MMX Wireless Gaming Headset's Robust Performance in Simplistic Packaging</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-premium-tablet-holder-choices/"><u>Expert Picks: Premium Tablet Holder Choices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-a05s-drfone-by-drfone-android/"><u>How to Screen Mirroring Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-full-potential-in-depth-review-of-lgs-monitor-tech/"><u>In 2024, Unlocking Full Potential In-Depth Review of LG's Monitor Tech</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mastering-pro-grade-gopro-video-content-creation-for-2024/"><u>Mastering Pro-Grade GoPro Video Content Creation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncovering-other-powerful-video-players-beyond-vlc-for-2024/"><u>Uncovering Other Powerful Video Players Beyond VLC for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-av1-technology-for-2024/"><u>Unlocking the Potential of AV1 Technology for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wow-launches-triumph-overcoming-3d-limitations/"><u>WoW Launches Triumph: Overcoming 3D Limitations</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Artificial Intelligence: Comprehensive Guide & Insights (AI) - Explore the World of Smart Machines with ZDNet"
-date: 2024-09-18 18:15:26
-updated: 2024-09-20 10:33:13
+date: 2024-12-19T22:48:10.896Z
+updated: 2024-12-20T16:09:10.416Z
 tags:
   - cloud
 categories:
@@ -43,6 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How can I use AI?
 
 Andriy Onufriyenko/Getty Images
@@ -73,6 +77,10 @@ Examples of ML include search engines, image and speech recognition, and fraud d
 
 Machine learning is generally split into two main categories: supervised and unsupervised learning.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Supervised learning**
 
 This common technique for teaching AI systems uses annotated data or data labeled and categorized by humans. ML systems are then fed this data to learn patterns.
@@ -96,6 +104,10 @@ In reinforcement learning, the system is trained to maximize a reward based on i
 Imagine training a system to play a video game. The system can receive a positive reward if it gets a higher score and a negative reward for a low score. The system learns to analyze the game and make moves, learning solely from the rewards it receives. It can eventually play by itself and learn to achieve a high score without human intervention.
 
 Reinforcement learning is also used in research, where it can help teach autonomous robots the optimal way to behave in real-world environments. [Robots](https://www.zdnet.com/article/boston-dynamics-latest-atlas-robot-sure-has-some-creepy-moves/) learning to navigate new environments they haven't ingested data on -- like maneuvering around surprise obstacles -- is an example of more advanced ML that can be considered AI. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the different types of AI?
 
@@ -141,6 +153,10 @@ Some of the most impressive advancements in AI are the development and release o
 
 Here are some of the most notable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ChatGPT (and the GPTs)**
 
 ChatGPT is an AI chatbot capable of generating and translating natural language and answering questions. Though it's arguably the most popular AI tool, thanks to its widespread accessibility, OpenAI made significant waves in artificial intelligence by creating [GPTs](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/) 1, 2, and 3 before releasing ChatGPT. 
@@ -170,6 +186,10 @@ Google subsidiary [DeepMind](https://www.zdnet.com/article/deepmind-why-is-ai-so
 Since then, DeepMind has created [AlphaFold](https://deepmind.google/technologies/alphafold/), a system that can predict the complex 3D shapes of proteins. It has also developed programs to [diagnose eye diseases](https://deepmind.google/discover/blog/using-ai-to-predict-retinal-disease-progression/) as effectively as top doctors.
 
 **Also: [What is generative AI and why is it so popular? Here's everything you need to know](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are large language models?
 
@@ -223,6 +243,10 @@ Conversational AI refers to systems programmed to have conversations with a user
 
 Some examples of conversational AI are chatbots like Gemini, smart speakers with a voice assistant like Amazon Alexa, or virtual assistants on your smartphone like Siri. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What AI services are available to use?
 
 Consumers and businesses alike have a wealth of AI services available to expedite tasks and add convenience to day-to-day life -- you probably have something in your home that uses AI in some capacity.
@@ -243,11 +267,19 @@ Here are some common examples of AI available to the public, both free and for a
 
 With [generative AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) taking off, several companies are working competitively in the space -- both legacy tech firms and startups. While each is developing too quickly for there to be a static leader, here are some of the major players. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### OpenAI
 
 Unsurprisingly, OpenAI has made a huge impact in AI after making its powerful generative AI tools available for free, including ChatGPT and [Dall-E 3](https://openai.com/index/dall-e-3/), an AI image generator.
 
 **Also: [Have 10 hours? IBM will train you in AI fundamentals - for free](https://www.zdnet.com/article/have-10-hours-ibm-will-train-you-in-ai-fundamentals-for-free/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Anthropic   
 
@@ -279,6 +311,10 @@ Microsoft has also invested heavily in OpenAI's development. The tech giant uses
 
 Apple has also entered the space most recently with its AI-upgraded [line of iPads](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/) and potential [new announcements](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-openai-microsoft-and-google-at-wwdc-2024/) to come at WWDC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Other companies
 
 Other firms are making strides in artificial intelligence, including [Baidu](https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/), [Alibaba](https://www.zdnet.com/article/alibaba-cloud-hops-on-chatgpt-bandwagon-offers-ai-model-to-customers/), [Cruise](https://www.zdnet.com/article/gm-cruise-automated-cars-are-under-federal-investigation-for-hard-braking-stranding-passengers/), [Lenovo](https://www.zdnet.com/article/lenovo-plans-to-add-12000-new-hires-to-r-d-team-in-the-next-three-years/), [Tesla](https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/), and more.
@@ -304,6 +340,10 @@ Neural networks can be used to realistically replicate someone's voice or likene
 Because AI makes automation so easy on a large scale, researchers and tech employees share concerns about its role in [weapons manufacturing](https://www.zdnet.com/article/despite-dall-e-military-pitch-openai-maintains-its-tools-wont-be-used-to-develop-weapons/) and warfare. 
 
 **Also: [The ethics of generative AI: How we can harness this powerful technology](https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will an AI steal your job?
 
@@ -340,11 +380,28 @@ There is a broad range of opinions among AI experts about how quickly artificial
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-groundbreaking-insights-into-asmr-recordings/"><u>[New] 2024 Approved Groundbreaking Insights Into ASMR Recordings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-sound-digitization-audiovisual-preservation/"><u>[New] In 2024, Sound Digitization Audiovisual Preservation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-tiktok-usage-efficiently-change-user-numbers/"><u>[New] Streamline TikTok Usage Efficiently Change User Numbers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-check-of-dji-phantom-3/"><u>[New] The Ultimate Check of DJI Phantom 3</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-accelerating-or-slowing-down-youtube-videos-playback/"><u>[Updated] In 2024, Accelerating or Slowing Down YouTube Videos Playback</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-top-notch-photo-cloud-storages-both-gratis-and-premium-options/"><u>[Updated] Ultimate Top-Notch Photo Cloud Storages Both Gratis & Premium Options</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-deciphering-the-magic-behind-magixs-pixel-editor/"><u>2024 Approved Deciphering the Magic Behind MAGIX's Pixel Editor</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-reviving-memories-with-instagram-reposts/"><u>2024 Approved Reviving Memories with Instagram Reposts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-essentialists-guide-to-archiving-ps3-gameplay-moments/"><u>2024 Approved The Essentialist's Guide to Archiving PS3 Gameplay Moments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unearth-17-methods-a-complete-guide-to-tracking-internet-radio/"><u>2024 Approved Unearth 17 Methods A Complete Guide to Tracking Internet Radio</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-free-video-tools-cross-platform-os-support/"><u>In 2024, Top 10 Free Video Tools Cross-Platform OS Support</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-controlling-discord-ui/"><u>Mastering the Art of Controlling Discord UI</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlined-sounds-iphones-efficient-podcasting-for-2024/"><u>Streamlined Sounds IPhone's Efficient Podcasting for 2024</u></a></li>
+</ul></div>
+

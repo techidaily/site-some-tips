@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Understanding Artificnicial Intelligence (AI) - Insights and Basics From ZDNet"
-date: 2024-09-17 11:45:26
-updated: 2024-09-20 12:45:41
+date: 2024-12-19T01:01:01.261Z
+updated: 2024-12-20T22:00:24.819Z
 tags:
   - cloud
 categories:
@@ -81,6 +81,10 @@ Suppose you wanted to train an ML model to recognize and differentiate images of
 
 The algorithm would then learn from this labeled collection of images to distinguish the shapes and their characteristics: in this case, circles don't have corners, and squares have four equal-length sides. The system can then see a new image and determine the shapes. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Unsupervised learning**
 
 By contrast, unsupervised learning lets algorithms try to identify patterns in unlabeled data by looking for similarities that it can use to categorize the data. 
@@ -141,6 +145,10 @@ Some of the most impressive advancements in AI are the development and release o
 
 Here are some of the most notable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ChatGPT (and the GPTs)**
 
 ChatGPT is an AI chatbot capable of generating and translating natural language and answering questions. Though it's arguably the most popular AI tool, thanks to its widespread accessibility, OpenAI made significant waves in artificial intelligence by creating [GPTs](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/) 1, 2, and 3 before releasing ChatGPT. 
@@ -148,6 +156,10 @@ ChatGPT is an AI chatbot capable of generating and translating natural language 
 **Also:** [**6 ways ChatGPT can make your everyday life easier**](https://www.zdnet.com/article/chatgpt-productivity-hacks-five-ways-to-use-chatbots-to-make-your-life-easier/)
 
 GPT stands for Generative Pre-trained Transformer, and GPT-3 was the largest language model at its 2020 launch, with 175 billion parameters. Then came GPT-3.5, which powers the free tier of ChatGPT. The largest version, GPT-4, accessible through the free version of ChatGPT, ChatGPT Plus, and Microsoft Copilot, has one trillion parameters. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Self-driving cars**
 
@@ -158,6 +170,10 @@ Though the safety of self-driving cars is a [top concern](https://www.zdnet.com/
 The autopilot feature in Tesla's electric vehicles is probably what most people think of when considering self-driving cars. But Waymo, from Google's parent company Alphabet, also makes autonomous rides -- as a driverless taxi, for example, or to [deliver Uber Eats](https://www.zdnet.com/article/for-the-first-time-waymo-self-driving-cars-are-delivering-uber-eats-orders/) \-- in San Francisco, CA, and Phoenix, AZ.
 
 [Cruise](https://www.zdnet.com/article/months-after-a-high-profile-accident-cruise-returns-to-phoenix-but-only-for-mapping/) is another robotaxi service, and auto companies like Audi, GM, and Ford are also presumably working on self-driving vehicle technology. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Robotics**
 
@@ -188,6 +204,10 @@ OpenAI's recently released GPT-4o tops the Chatbot Arena leaderboard as of now. 
 > GPT-4o is #1 in English, German, and Spanish. Gemini-1.5-Pro is #1 in Japanese, Chinese, and French. Claude-3 Opus is #1 in Russian. The competition is tight, and we need… [pic.twitter.com/RlNqh0XmMM](https://t.co/RlNqh0XmMM)
 > 
 > — lmsys.org (@lmsysorg) [June 3, 2024](https://twitter.com/lmsysorg/status/1797690251999350875?ref%5Fsrc=twsrc^tfw)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are neural networks?
 
@@ -223,6 +243,10 @@ Conversational AI refers to systems programmed to have conversations with a user
 
 Some examples of conversational AI are chatbots like Gemini, smart speakers with a voice assistant like Amazon Alexa, or virtual assistants on your smartphone like Siri. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What AI services are available to use?
 
 Consumers and businesses alike have a wealth of AI services available to expedite tasks and add convenience to day-to-day life -- you probably have something in your home that uses AI in some capacity.
@@ -239,6 +263,10 @@ Here are some common examples of AI available to the public, both free and for a
 
 **Also:** [**The best free AI courses (and whether AI 'micro-degrees' and certificates are worth it)**](https://www.zdnet.com/article/the-best-free-ai-courses/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What company is leading the AI race?
 
 With [generative AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) taking off, several companies are working competitively in the space -- both legacy tech firms and startups. While each is developing too quickly for there to be a static leader, here are some of the major players. 
@@ -248,6 +276,10 @@ With [generative AI](https://www.zdnet.com/article/what-is-generative-ai-and-why
 Unsurprisingly, OpenAI has made a huge impact in AI after making its powerful generative AI tools available for free, including ChatGPT and [Dall-E 3](https://openai.com/index/dall-e-3/), an AI image generator.
 
 **Also: [Have 10 hours? IBM will train you in AI fundamentals - for free](https://www.zdnet.com/article/have-10-hours-ibm-will-train-you-in-ai-fundamentals-for-free/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Anthropic   
 
@@ -267,6 +299,10 @@ DeepMind continues to pursue [AGI](https://www.zdnet.com/article/what-is-artific
 
 Though you may not hear of Alphabet's AI endeavors in the news every day, its work in deep learning and AI in general has the potential to change the future for human beings. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Microsoft
 
 Aside from creating Microsoft Copilot, the company provides a suite of AI tools for developers on [Azure](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/), such as platforms for developing machine learning, data analytics, conversational AI, and customizable APIs that achieve human parity in computer vision, speech, and language.
@@ -274,6 +310,10 @@ Aside from creating Microsoft Copilot, the company provides a suite of AI tools 
 **Also:** [**Microsoft CEO Nadella: 'Expect us to incorporate AI in every layer of the stack'**](https://www.zdnet.com/article/microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack/)
 
 Microsoft has also invested heavily in OpenAI's development. The tech giant uses GPT-4 in [Copilot, formerly known as Bing chat](https://www.zdnet.com/article/how-to-use-the-new-bing-and-how-its-different-from-chatgpt/), and in an advanced version of Dall-E 3 to generate images through [Microsoft Designer](https://www.zdnet.com/article/how-to-use-bing-image-creator/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Apple
 
@@ -340,11 +380,29 @@ There is a broad range of opinions among AI experts about how quickly artificial
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-experience-professional-video-calling-explore-the-top-5-devices/"><u>[New] 2024 Approved Experience Professional Video Calling - Explore The Top 5 Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-pinnacle-of-new-zooids-in-panzoids/"><u>[New] The Pinnacle of New Zooids in Panzoids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-best-free-screen-recorders-on-windows-10/"><u>[New] Unlocking the Best Free Screen Recorders on Windows 10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unveiling-samsungs-image-editing-software-insights/"><u>[New] Unveiling Samsung's Image Editing Software Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-your-lenovo-display-in-slow-motion-for-2024/"><u>[Updated] Capturing Your Lenovo Display in Slow Motion for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-mac-videography-tools-unleashed-in-sierra-os/"><u>[Updated] Top 5 Mac Videography Tools Unleashed in Sierra OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-to-buying-todays-best-360-cameras/"><u>2024 Approved Unveiling the Secrets to Buying Today's Best 360 Cameras</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/comparacion-de-ingles-espanol-cognados-verdaderos-e-ilusorios/"><u>Comparación De Inglés-Español: Cognados Verdaderos E Ilusorios</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nokia-c22-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nokia C22 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-fullscreen-editing-with-premiere-pro-experts/"><u>In 2024, The Art of Fullscreen Editing with Premiere Pro Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unmatched-portfolio-boosters-top-free-3d-texts/"><u>In 2024, Unmatched Portfolio Boosters - Top Free 3D Texts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/innovative-windows-portable-computing/"><u>Innovative Windows Portable Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-time-for-a-change-investigating-contemporary-substitutes-for-the-traditional-turing-challenge/"><u>Is It Time for a Change? Investigating Contemporary Substitutes for the Traditional Turing Challenge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-movie-color-correction-through-luts-application-for-2024/"><u>Streamlining Movie Color Correction Through Luts Application for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-microsoft-sculpt-ergonomic-keyboards-value-a-detailed-review/"><u>Unpacking the Microsoft Sculpt Ergonomic Keyboard's Value: A Detailed Review</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Secure Your Cloud Infrastructure Today and Shut Out Potential Cyber Attacks. Expert Insights.
-date: 2024-09-19 21:16:13
-updated: 2024-09-20 12:51:35
+date: 2024-12-15T20:12:50.064Z
+updated: 2024-12-21T03:57:03.799Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/a6d7390fcfda6941f8e39a947b5866d1ce
 Image: Getty Images
 
 Cloud applications and services provide access to business tools, information and software from anywhere, allowing employees to be productive whether they are [working in the office, remotely or a combination of the two](https://www.zdnet.com/article/remote-work-or-back-to-the-office-the-calculation-just-shifted-again/). Location doesn't matter; everything they need is[just in 'the cloud](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)'.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -46,6 +50,10 @@ And because the cyber criminals are using legitimate usernames and passwords to 
 
 For example, criminals could use access to a [legitimate account to take control of the user's emails and send malicious links to their contacts](https://www.zdnet.com/article/watch-out-for-this-phishing-attack-that-hijacks-your-email-chats-to-spread-malware/), which are designed to steal sensitive information, or plant malware or even ransomware. The target may not question the link because it comes from someone they know and trust. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Security
 
 * [The best VPN services of 2024: Expert tested](https://www.zdnet.com/article/best-vpn/)
@@ -66,9 +74,17 @@ Meanwhile, ransomware campaigns have also been known to [exploit exposed or impr
 
 And it isn't just common cyber criminals who've taken advantage of the rise of remote working and the increase in use of cloud applications: [state-backed hacking and cyber-espionage groups are also exploiting vulnerabilities in cloud](https://www.zdnet.com/article/microsoft-office-365-is-becoming-the-core-of-many-businesses-and-hackers-have-noticed/) as a launchpad for campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Closing the door
 
 But it doesn't have to be this way, and there are several steps that businesses can take to boost the cybersecurity of their cloud applications and software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -91,6 +107,10 @@ And it's imperative for information security teams to have a [good grasp of what
 
 Cloud services can provide significant benefits for both businesses and their employees, but it's vital that the right choices are made to ensure on-demand IT is used in a productive and secure way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -105,11 +125,33 @@ Cloud services can provide significant benefits for both businesses and their em
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-superfast-windows-images-scaner/"><u>[New] Superfast Windows Images Scaner</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-iphone-playlist-podcast-tips/"><u>[New] The Ultimate iPhone Playlist Podcast Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-choice-for-engaging-type-animations/"><u>[New] Ultimate Choice for Engaging Type Animations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-a-comprehensive-list-of-top-virtual-classrooms-not-inspired-by-udemy/"><u>[Updated] 2024 Approved A Comprehensive List of Top Virtual Classrooms Not Inspired by Udemy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-elite-set-of-android-photoshoppers/"><u>[Updated] The Elite Set of Android Photoshoppers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-top-10-budget-friendly-digital-photography-workspaces-online/"><u>2024 Approved Top 10 Budget-Friendly Digital Photography Workspaces Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-to-affordable-vector-art-websites/"><u>2024 Approved Ultimate Guide to Affordable Vector Art Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-loss-of-game-memories-by-duplicating-steam-captures/"><u>Avoid Loss of Game Memories by Duplicating Steam Captures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/connect-your-xbox-one-to-xbox-live-successfully-a-step-by-step-fix-guide/"><u>Connect Your Xbox One to Xbox Live Successfully: A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-google-pixel-fold-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Google Pixel Fold Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-present-trends-in-drone-technology-for-the-future/"><u>In 2024, Present Trends in Drone Technology for the Future</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ranch-raiders-best-friendly-farmers-game-roster/"><u>In 2024, Ranch Raiders Best Friendly Farmer's Game Roster</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplified-rss-feed-creation-methods-for-podcasters/"><u>In 2024, Simplified RSS Feed Creation Methods for Podcasters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-take-control-of-your-tiktok-videos-learn-numeric-editing-techniques/"><u>In 2024, Take Control of Your TikTok Videos Learn Numeric Editing Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-scripts-across-all-eight-film-categories/"><u>In 2024, Top Scripts Across All Eight Film Categories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uncompromised-creativity-best-macos-big-sur-editing-tools-ranked/"><u>In 2024, Uncompromised Creativity Best macOS Big Sur Editing Tools Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-low-volume-settings-in-os-xwindows-for-2024/"><u>Mastering Low-Volume Settings in OS X/Windows for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-unlocking-your-androids-potential-with-kingoroot/"><u>Step-by-Step Guide: Unlocking Your Android's Potential with KingoRoot</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-blend-of-style-and-functionality-in-samsung-un6n-ru8000fxza-detailed-review/"><u>The Blend of Style & Functionality in Samsung UN6n-RU8000FXZA - Detailed Review</u></a></li>
+</ul></div>
+

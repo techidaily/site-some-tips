@@ -1,7 +1,7 @@
 ---
 title: "How Small Businesses Overcome Obstacles with Tech: Climbing the Ladder of Success - Insights From ZDNet"
-date: 2024-09-17 14:22:44
-updated: 2024-09-20 10:47:30
+date: 2024-12-15T17:38:21.646Z
+updated: 2024-12-21T02:41:44.933Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/19cc3daca0ae766efaf5a0d940f51eeacf8f63806
 Image: Imaginima/Getty Images
 
 It would be an understatement to say that small to medium-sized businesses (SMBs) around Australia have had to face a [tough couple of years](https://www.rba.gov.au/publications/bulletin/2021/sep/small-business-finance-and-covid-19-outbreaks.html). But there are signs that this is a remarkably resilient cohort of businesses. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -49,6 +53,10 @@ LastPass JAPAC identity lead Lloyd Evans described the government's decision to 
 
 "SMB for the most part is the engine room of the Australian economy. I think ways to help them mitigate cyber risk, allowing them to be more resilient, and to be able to offset that cost for digital cybersecurity services…I think is a good way to help both the Australian economy but also companies operating in an SMB environment," he said. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Related Coverage 
 
 * [Inflation, burnout among biggest challenges small business owners face: Survey](https://www.zdnet.com/article/inflation-and-burnout-among-the-greatest-concerns-of-small-business-owners-capital-one-survey/)
@@ -63,11 +71,31 @@ LastPass JAPAC identity lead Lloyd Evans described the government's decision to 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unlock-device-agnostic-techniques-for-professional-filming/"><u>[New] 2024 Approved Unlock Device-Agnostic Techniques for Professional Filming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-the-transformations-in-vegaspro-19/"><u>[New] Understanding the Transformations in VegasPro '19</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unmatched-audio-and-video-elite-webcams-for-podcasting/"><u>[New] Unmatched Audio & Video Elite Webcams for Podcasting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/alorant-image-crafting-skilled-thumbnails-created-instantly/"><u>[New] Valorant Image Crafting Skilled Thumbnails Created Instantly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-master-the-art-of-moving-shots-a-handbook-for-hero5-time-lapse-photography/"><u>[Updated] In 2024, Master the Art of Moving Shots A Handbook for Hero5 Time-Lapse Photography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-kickstart-creative-video-editing-with-xp-edition/"><u>2024 Approved Kickstart Creative Video Editing with Xp Edition</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/abbyy-broadens-worldwide-reach-with-advanced-ai-technology-offerings/"><u>ABBYY Broadens Worldwide Reach with Advanced AI Technology Offerings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-redmi-13c-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Redmi 13C FRP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-maximizing-your-designs-with-free-clip-art/"><u>In 2024, Maximizing Your Designs with FREE Clip Art</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-pushing-the-boundaries-in-depth-review-of-benq-sw320s-4k-display/"><u>In 2024, Pushing the Boundaries In-Depth Review of BenQ SW320's 4K Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>In 2024, Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-audio-experiences-on-iphones/"><u>In 2024, Top 5 Audio Experiences on iPhones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-corrections-for-failing-windows-batch-jobs/"><u>Mastering Corrections for Failing Windows Batch Jobs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/tailored-video-edits-for-exceptional-vimeo-content/"><u>Tailored Video Edits for Exceptional Vimeo Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-sci-fi-vr-adventures-new-realms-unveiled-for-2024/"><u>Top 10 Sci-Fi VR Adventures New Realms Unveiled for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-potential-the-right-propeller-match-in-fpv-flight-for-2024/"><u>Unlocking Potential The Right Propeller Match in FPV Flight for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-ultimate-compilation-of-costless-peak-quality-audio-apps-for-ios-and-android/"><u>Updated The Ultimate Compilation of Costless, Peak-Quality Audio Apps for iOS and Android</u></a></li>
+</ul></div>
+

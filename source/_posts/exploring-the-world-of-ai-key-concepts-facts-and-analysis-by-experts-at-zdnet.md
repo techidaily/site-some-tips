@@ -1,7 +1,7 @@
 ---
 title: "Exploring the World of AI: Key Concepts, Facts & Analysis by Experts at ZDNet"
-date: 2024-09-17 11:13:10
-updated: 2024-09-20 11:33:24
+date: 2024-12-18T17:34:11.645Z
+updated: 2024-12-20T17:17:48.412Z
 tags:
   - cloud
 categories:
@@ -69,9 +69,17 @@ When data is structured, or organized, a system can more easily detect an anomal
 
 Examples of ML include search engines, image and speech recognition, and fraud detection. Similar to Face ID, when users upload photos to Facebook, the social network's image recognition can analyze the images, recognize faces, and make recommendations to tag the friends it's identified. With time, practice, and more image data, the system hones this skill and becomes more accurate. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does machine learning work?
 
 Machine learning is generally split into two main categories: supervised and unsupervised learning.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Supervised learning**
 
@@ -101,6 +109,10 @@ Reinforcement learning is also used in research, where it can help teach autonom
 
 Artificial intelligence can be divided into three subcategories: narrow AI, general AI, and super AI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is narrow AI?
 
 June Wan/ZDNET
@@ -113,6 +125,10 @@ ChatGPT is also an example of ANI, as it is programmed to perform a specific tas
 
 **Also: [Microsoft Copilot Pro vs. OpenAI's ChatGPT Plus](https://www.zdnet.com/article/microsoft-copilot-pro-vs-openais-chatgpt-plus-which-is-worth-your-20-a-month/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is general AI?
 
 Yuichiro Chino/Getty Images
@@ -124,6 +140,10 @@ Artificial general intelligence (AGI), or strong AI, is still a hypothetical con
 Like a human, AGI could potentially understand any intellectual task, think abstractly, learn from its experiences, and use that knowledge to solve new problems. Essentially, we're talking about a system or machine capable of common sense, which is currently unachievable with any available AI.
 
 Developing a system with consciousness is still, presumably, a fair way in the distance, but it is the ultimate goal of AI research. OpenAI hints that its forthcoming [GPT-5](https://www.zdnet.com/article/openai-is-training-gpt-4s-successor-here-are-3-big-upgrades-to-expect-from-gpt-5/) will get us closer to AGI. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is super AI?
 
@@ -149,6 +169,10 @@ ChatGPT is an AI chatbot capable of generating and translating natural language 
 
 GPT stands for Generative Pre-trained Transformer, and GPT-3 was the largest language model at its 2020 launch, with 175 billion parameters. Then came GPT-3.5, which powers the free tier of ChatGPT. The largest version, GPT-4, accessible through the free version of ChatGPT, ChatGPT Plus, and Microsoft Copilot, has one trillion parameters. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Self-driving cars**
 
 Though the safety of self-driving cars is a [top concern](https://www.zdnet.com/article/tesla-to-recall-more-than-360000-vehicles-due-to-self-driving-software-problems/) for potential users, the technology continues to advance and improve with breakthroughs in AI. These vehicles use ML algorithms to combine data from sensors and cameras to perceive their surroundings and determine the best course of action. 
@@ -162,6 +186,10 @@ The autopilot feature in Tesla's electric vehicles is probably what most people 
 ### **Robotics**
 
 The achievements of [Boston Dynamics](https://www.zdnet.com/article/boston-dynamics-latest-atlas-robot-sure-has-some-creepy-moves/) stand out in the area of AI and robotics. Though we're still a long way from creating Terminator-level AI technology, watching Boston Dyanmics' hydraulic, humanoid robots use AI to navigate and respond to different terrains is impressive. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **DeepMind**
 
@@ -188,6 +216,10 @@ OpenAI's recently released GPT-4o tops the Chatbot Arena leaderboard as of now. 
 > GPT-4o is #1 in English, German, and Spanish. Gemini-1.5-Pro is #1 in Japanese, Chinese, and French. Claude-3 Opus is #1 in Russian. The competition is tight, and we need… [pic.twitter.com/RlNqh0XmMM](https://t.co/RlNqh0XmMM)
 > 
 > — lmsys.org (@lmsysorg) [June 3, 2024](https://twitter.com/lmsysorg/status/1797690251999350875?ref%5Fsrc=twsrc^tfw)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are neural networks?
 
@@ -239,9 +271,17 @@ Here are some common examples of AI available to the public, both free and for a
 
 **Also:** [**The best free AI courses (and whether AI 'micro-degrees' and certificates are worth it)**](https://www.zdnet.com/article/the-best-free-ai-courses/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What company is leading the AI race?
 
 With [generative AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) taking off, several companies are working competitively in the space -- both legacy tech firms and startups. While each is developing too quickly for there to be a static leader, here are some of the major players. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### OpenAI
 
@@ -340,11 +380,29 @@ There is a broad range of opinions among AI experts about how quickly artificial
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-techniques-to-combat-unsteady-shot-dynamics/"><u>[New] Techniques to Combat Unsteady Shot Dynamics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-pc-edition-of-image-overlay-mastery/"><u>[New] Ultimate PC Edition of Image Overlay Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-psd-style-boosting/"><u>[New] Ultimate PSD Style Boosting</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-master-11-key-seo-steps-to-promote-your-videos/"><u>[Updated] 2024 Approved Master 11 Key SEO Steps to Promote Your Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-twitters-live-video-engagement/"><u>[Updated] 2024 Approved Mastering the Art of Twitter's Live Video Engagement</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-quick-video-insights-the-essentials/"><u>[Updated] 2024 Approved Quick Video Insights The Essentials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gigabytes-needed-for-a-full-days-movie-watching/"><u>[Updated] Gigabytes Needed for a Full Day's Movie Watching</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-tactics-for-pinpointing-ideal-podcast-debut-days/"><u>[Updated] Tactics for Pinpointing Ideal Podcast Debut Days</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-internet-based-image-trimming/"><u>[Updated] The Ultimate Guide to Internet-Based Image Trimming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-selection-of-text-enhancers-for-adobe-ae/"><u>[Updated] The Ultimate Selection of Text Enhancers for Adobe AE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-total-horizon-capture-versus-focused-dimensionality/"><u>2024 Approved Total Horizon Capture Versus Focused Dimensionality</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/switching-between-safe-mode-and-picture-in-picture-on-iosmacos-for-2024/"><u>Switching Between Safe Mode & Picture In Picture on iOS/MacOS for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-how-the-elder-scrolls-online-addressed-blackwoods-lag-problems/"><u>Troubleshooting Complete: How The Elder Scrolls Online Addressed Blackwood's Lag Problems</u></a></li>
+</ul></div>
+

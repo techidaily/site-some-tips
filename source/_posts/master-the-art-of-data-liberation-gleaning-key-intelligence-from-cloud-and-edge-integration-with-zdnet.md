@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Data Liberation: Gleaning Key Intelligence From Cloud & Edge Integration with ZDNet"
-date: 2024-09-17 17:33:58
-updated: 2024-09-20 12:22:18
+date: 2024-12-14T16:37:27.762Z
+updated: 2024-12-21T02:00:07.898Z
 tags:
   - cloud
 categories:
@@ -19,6 +19,10 @@ Let's talk for a minute about data silos. Real world silos are, of course, those
 
 Servers and devices often silo data. Different machines store data, but don't necessarily share it all with other devices. Applications generate and store data, but only some might…_might_…be shared if a well-written API (application programming interface) is being used. Over time, organizations find themselves with a lot of data, but most of it is isolated, stored in separate metaphorical silos, never to be part of a larger whole.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How edge computing creates the perfect storm for data silos
 
 When it comes to enterprise networking, especially edge-to-cloud, data silos occur naturally. Every device at the edge produces data, but much of that data may remain at the device, or at the very least, the cluster of devices at that edge location. The same is true of cloud operations. Data is created and stored at many different cloud providers and, while they sometimes exchange data, most of it lives isolated from the rest of the enterprise.
@@ -28,6 +32,10 @@ When it comes to enterprise networking, especially edge-to-cloud, data silos occ
 But insights and actionable strategies come when all data across the enterprise is accessible to appropriate users and systems. Let's look at one example that might occur at [the fictional home goods retailer, Home-by-Home, we discussed previously](https://www.zdnet.com/article/digital-transformation-powered-by-edge-to-cloud-comes-to-life-in-this-scenario-of-a-big-box-retailer/).
 
 Home-by-Home sells a wall mounted lighting fixture that uses plastic brackets to affix it to the wall. Usually, it's a great seller. But in March and April every year, the company gets a flood of returns because the brackets crack. The returns are from all over the country, from Miami to Seattle. That's our first data set, and it's known to the stores themselves.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Digital Transformation
 
@@ -54,6 +62,10 @@ This is just one example of the potential to harvest data from edge-to-cloud. Th
 
 **To do that, all that data needs to be accessible across your enterprise:** But those correlations and observations are only possible when analysts (both human and AI) can gain access to many sources of data to learn what stories it all tells.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Making data usable and turning it into intelligence
 
 The challenge then is making all that data usable, harvesting it, and then processing it into actionable intelligence. To do this, four things need to be considered.
@@ -65,6 +77,10 @@ The first is **travel**. Data must have a mechanism to move from all these edge 
 These two issues, the storing of the data and the movement of data both require considerations of **security** **and** **governance**. Data in motion and data at rest needs to be protected from unauthorized access, while at the same time making all that data available to analysts and tools that can mine the data for opportunities. Likewise, data governance may be an issue, as data generated in one geographic location may have governmental or taxation issues were it to be moved to a new locale.
 
 And finally, the fourth factor to consider is **analysis**. It has to be stored in a way that's accessible for analysis, updated often enough, cataloged properly, and curated with care.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A gentle introduction to data modernization
 
@@ -86,6 +102,10 @@ See, here's the thing. If your data is tied up and trapped, you can't use it eff
 Not only that, poorly managed data can be a time sink for your professional IT staff. Instead of working to drive the organization forward through innovation, they're spending time managing all these different systems, databases, and interfaces, and troubleshooting all the different ways they can break.
 
 Modernizing your data not only means you can innovate, it also means you can free up your time to think instead of react. That also provides you time to deploy more applications and features that can open new horizons for your business.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Find the value and actionable insights hidden in your data
 
@@ -116,11 +136,29 @@ That's where management and infrastructure services like HPE GreenLake and its c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-swift-listening-on-spotify-how-to-accelerate-audio-safely/"><u>[Updated] Swift Listening on Spotify How to Accelerate Audio Safely</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns/"><u>[Updated] Tapping Into Community Spirit A Guide to Thriving FB Gifting Campaigns</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-complete-guide-to-enthralling-boomers-on-snapchat-for-2024/"><u>[Updated] The Complete Guide to Enthralling Boomers on Snapchat for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-avant-garde-creators-in-digital-media/"><u>[Updated] Top 5 Avant-Garde Creators in Digital Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tunes-twining-a-new-multimedia-approach/"><u>[Updated] Tunes Twining A New Multimedia Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-pathway-to-perfected-kinemaster-edits/"><u>2024 Approved The Ultimate Pathway to Perfected Kinemaster Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-of-smooth-telegram-web-use/"><u>2024 Approved Unveiling the Secrets of Smooth Telegram Web Use</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazonbasics-tripod-review-easy-photography-setup/"><u>AmazonBasics Tripod Review - Easy Photography Setup</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-the-quintessential-thumbnails-for-live-video-success-for-2024/"><u>Crafting the Quintessential Thumbnails for Live Video Success for 2024</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-zte-by-drfone-android/"><u>How to Bypass FRP from ZTE?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-ultimate-list-of-instagram-downloaders/"><u>In 2024, The Ultimate List of Instagram Downloaders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-rankings-leading-gopro-case-models/"><u>The Ultimate Rankings Leading GoPro Case Models</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-durable-laptop-picks-a-comprehensive-guide/"><u>Top Durable Laptop Picks : A Comprehensive Guide</u></a></li>
+<li><a href="https://win-studio.techidaily.com/iuodjeodgplusodioodlplusodqeodgplusodioodleocqeodvoodooobqplusobiuobkeocipluss4goiiroeahoobquwvjplusmhjdrjgqljgqjgrvjgrnjgzfjgojjgybjgajjgznjgovjg5rjg7zjgrj119/"><u>ネットプラットフォームにおける一般的な問題:アクセスしようとするページが見つからず - 理由と修正方法</u></a></li>
+</ul></div>
+

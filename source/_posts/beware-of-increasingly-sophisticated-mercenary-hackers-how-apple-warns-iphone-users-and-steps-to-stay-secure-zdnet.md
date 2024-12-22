@@ -1,7 +1,7 @@
 ---
 title: "Beware of Increasingly Sophisticated Mercenary Hackers: How Apple Warns iPhone Users & Steps to Stay Secure | ZDNET"
-date: 2024-12-06T20:45:23.587Z
-updated: 2024-12-12T17:01:08.789Z
+date: 2024-12-18T03:18:26.748Z
+updated: 2024-12-20T20:53:48.859Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,20 +119,24 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-shadowed-swords-and-honored-combatants-must-try-titles-inspired-by-ghost-of-tsushi/"><u>[New] In 2024, Shadowed Swords & Honored Combatants Must-Try Titles Inspired by Ghost of Tsushi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-fisheye-lens-in-360-imagery/"><u>[Updated] The Art of Fisheye Lens in 360 Imagery</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-economics-of-t-series-a-deep-dive-into-youtube-earnings/"><u>[Updated] The Economics of T-Series A Deep Dive Into YouTube Earnings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-most-acclaimed-cloud-services-on-android-platform/"><u>[Updated] The Most Acclaimed Cloud Services on Android Platform</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tiktok-mastery-the-art-of-editing-your-number/"><u>[Updated] TikTok Mastery The Art of Editing Your Number</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-supreme-4k-display-selection-the-best-of-ten/"><u>2024 Approved Supreme 4K Display Selection The Best of Ten</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition/"><u>2024 Approved The Cinematic Revolution Exploring the Best Shots & Lighting Tips - '24 Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-seamless-shift-in-music-production/"><u>2024 Approved The Seamless Shift in Music Production</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools/"><u>2024 Approved Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/akers-lounge-app-for-2024/"><u>Filmmaker's Lounge App for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/ideas-to-keep-your-snapchat-streak-alive/"><u>Ideas to Keep Your Snapchat Streak Alive</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-premium-steadicam-brands-for-drones-and-camera-work/"><u>In 2024, Premium Steadicam Brands for Drones and Camera Work</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/making-mp3-from-instagram-visual-content-for-2024/"><u>Making MP3 From Instagram Visual Content for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-itel-s23plus-by-fonelab-android-recover-music/"><u>The way to get back lost music from Itel S23+</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unlocking-tiktok-video-potential-with-zoom/"><u>Unlocking TikTok Video Potential with Zoom</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-reaper-remixing-rituals-volume-control-chronicles/"><u>[New] 2024 Approved Reaper Remixing Rituals Volume Control Chronicles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-perfect-your-presentation-essential-strategies-for-video-length-reduction-in-vimeo-for-2024/"><u>[New] Perfect Your Presentation Essential Strategies for Video Length Reduction in Vimeo for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-approach-to-saving-instagram-stories/"><u>[New] Step-by-Step Approach to Saving Instagram Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-swift-tweeting-solutions-with-video-conversion/"><u>[New] Swift Tweeting Solutions with Video Conversion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-the-lg-bp350-visual-experience/"><u>[New] Ultimate Guide to the LG BP350 Visual Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-hidden-techniques-for-private-anonymous-instagram-live-participation/"><u>[Updated] The Hidden Techniques for Private, Anonymous Instagram Live Participation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-6-best-nft-platforms-for-artists/"><u>[Updated] The Ultimate List of 6 Best NFT Platforms for Artists</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-best-tv-for-ps5-and-xbox-series-x-updated-july/"><u>[Updated] Top 5 Best TV for Ps5 and Xbox Series X (Updated July)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-vlog-heroes-the-best-video-capturers-unveiled-for-2024/"><u>[Updated] VLog Heroes The Best Video Capturers Unveiled for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-4-sites-for-free-skype-tones/"><u>2024 Approved Top 4 Sites for Free Skype Tones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-windows-11-potential-with-a-simple-upgrade/"><u>2024 Approved Unlocking Windows 11 Potential with a Simple Upgrade</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/customizing-teams-background-priorpost-meeting-for-2024/"><u>Customizing Teams Background Prior/Post-Meeting for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-t2-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo T2 Pro 5G Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings/"><u>In 2024, The Ultimate Guide to Selecting Android and iOS Clocks for Weddings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-list-of-engaging-history-content-on-youtube/"><u>In 2024, The Ultimate List of Engaging History Content on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/kids-and-newbies-the-best-10-drones-out-there-for-2024/"><u>Kids and Newbies The Best 10 Drones Out There for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-newbies-guide-to-understanding-core-filming-techniques-for-2024/"><u>The Newbie's Guide to Understanding Core Filming Techniques for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-3dmakerpros-mole-3d-scanner-a-world-of-scanning-capabilities-in-one-device/"><u>The Ultimate Guide to 3DMakerPro's Mole 3D Scanner - A World of Scanning Capabilities in One Device</u></a></li>
 </ul></div>
 

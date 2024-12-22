@@ -1,7 +1,7 @@
 ---
 title: Kickstart a Successful Substack Journalism Venture - Tips & Strategies by ZDNet Expertise
-date: 2024-09-19 12:23:41
-updated: 2024-09-20 10:34:57
+date: 2024-12-14T03:17:17.709Z
+updated: 2024-12-20T20:44:06.803Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Screenshot by David Gewirtz/ZDNET
 **Also: [How to join and use Meta's Twitter rival Threads](https://www.zdnet.com/article/how-to-join-and-use-metas-twitter-rival-threads/)**
 
 I chose Substack primarily because both Jason Perlow and Ed Bott use Substack for their newsletters. Both Jason and Ed have long been colleagues here at ZDNET and are probably two of the most credible technology writers I've ever met. I figured if they like it, I'm sure I'll like it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to get started with Substack 
 
@@ -63,6 +67,10 @@ Screenshot by David Gewirtz/ZDNET
 
 There you go. Now, it's time to customize your newsletter. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Customize your newsletter
 
 You can go to relatively considerable lengths to customize the look and feel of your Substack account and newsletter. I just wanted something simple, so customization was very straightforward.
@@ -97,6 +105,10 @@ I put a picture up, said a little bit about myself, and then described my plans 
 
 And that's it. Now people know what it's all about. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Prepare your first newsletter
 
 If you've ever made a post on Facebook, you're ready for Substack. It's that simple.
@@ -129,9 +141,17 @@ Finally, when you're ready to publish, press (3) Continue. That will present a s
 
 It's pretty much that simple. If you create a nice Substack, feel free to comment below or drop a comment on mine. I'd love to see what you're working on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Can I import my existing lists? 
 
 Yes, but Substack is fussy. They will only import lists where they can verify that all email addresses have previously opted in. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How can I turn off the requests for pledges or subscription money? 
 
@@ -157,11 +177,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-navigating-through-the-best-screen-recorders-for-teaching/"><u>[New] In 2024, Navigating Through the Best Screen Recorders for Teaching</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-cinematic-journey-crafting-youtube-trailers-in-filmora/"><u>[New] In 2024, The Cinematic Journey Crafting YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-streaming-sounds-into-your-social-story-arcs-for-2024/"><u>[New] Streaming Sounds Into Your Social Story Arcs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-crossfade-audio-seamless-integration-in-logic-x/"><u>[New] The Art of Crossfade Audio Seamless Integration in Logic X</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-what-is-a-parody-and-how-to-make-a-parody-video-for-2024/"><u>[New] What Is a Parody and How to Make a Parody Video for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-modern-filmmakers-guide-for-computer-mac-and-mobile-for-2024/"><u>[Updated] The Modern Filmmaker's Guide for Computer, Mac & Mobile for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unparalleled-video-gear-top-5-slow-cams/"><u>[Updated] Unparalleled Video Gear Top 5 Slow Cams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-playbook-for-watching-live-world-class-cricket-games/"><u>2024 Approved The Ultimate Playbook for Watching Live, World-Class Cricket Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-evaluation-of-marshall-active-noise-cancellation-tech-by-zdnet-reviews/"><u>Expert Evaluation of Marshall Active Noise Cancellation Tech by ZDNet Reviews</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-eliminating-camera-tremors-in-gopro-recordings/"><u>In 2024, Eliminating Camera Tremors in GoPro Recordings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-music-matters-imovie-editing-tips/"><u>In 2024, Music Matters IMovie Editing Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essence-of-uavs-understanding-their-mechanics-and-use/"><u>In 2024, The Essence of UAVs Understanding Their Mechanics & Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-typhoon-h-by-yuneec-an-in-depth-analysis/"><u>In 2024, Typhoon H by Yuneec An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-why-your-ipad-may-not-detect-the-printer/"><u>Solving Common Issues: Why Your iPad May Not Detect the Printer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-capturing-intimate-film-moments-for-2024/"><u>The Art of Capturing Intimate Film Moments for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-structuring-effective-audio-xml-for-2024/"><u>The Complete Guide to Structuring Effective Audio XML for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-top-rated-free-video-subtitling-tools-for-seamless-captioning/"><u>The Ultimate Guide to Top-Rated, Free Video Subtitling Tools for Seamless Captioning</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-choices-360-video-equipment-for-livestreaming-platforms-for-2024/"><u>Top Choices 360° Video Equipment for Livestreaming Platforms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secret-how-to-disable-youtube-snippet-playback-for-2024/"><u>Unveiling the Secret How to Disable YouTube Snippet Playback for 2024</u></a></li>
+</ul></div>
+

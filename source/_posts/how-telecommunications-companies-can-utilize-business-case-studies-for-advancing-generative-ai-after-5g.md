@@ -1,7 +1,7 @@
 ---
 title: How Telecommunications Companies Can Utilize Business Case Studies for Advancing Generative AI After 5G
-date: 2024-09-18 18:17:50
-updated: 2024-09-20 11:10:11
+date: 2024-12-14T04:48:53.606Z
+updated: 2024-12-21T03:54:38.903Z
 tags:
   - cloud
 categories:
@@ -61,6 +61,10 @@ GSMA projects that 5G connections will grow from 1.6 billion to 2.1 billion by t
 
 Jarich noted that use cases can differ for regions and markets, giving local telcos further opportunities to find new revenue. And with most GenAI services running on the cloud, operators can play a differentiating role in facilitating these. For instance, they can provide support for edge computing, which will be important for some GenAI services such as real-time language translation and smaller large language models (LLMs) that can be hosted on the device. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dedicated foundation model for telcos
 
 Domain-specific LLMs also are being made available to help identify GenAI use cases specific to the needs of a particular sector, such as financial or healthcare. 
@@ -118,11 +122,29 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 202
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-how-to-add-youtube-annotations-and-cards/"><u>[New] 2024 Approved How to Add YouTube Annotations and Cards?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-tier-steadicam-options-for-drone-video-production/"><u>[New] Top-Tier Steadicam Options for Drone Video Production</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-eye-popping-360-cameras-deciding-the-best/"><u>[Updated] Eye-Popping 360 Cameras Deciding the Best</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-live-streaming-showdown-obs-vs-wirecast-faceoff-for-2024/"><u>[Updated] Live Streaming Showdown OBS vs Wirecast Faceoff for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-cheat-sheet-for-using-movie-maker-on-win11/"><u>[Updated] The Ultimate Cheat Sheet for Using Movie Maker on Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-3d-viewing-playback-on-android/"><u>2024 Approved Superior 3D Viewing, Playback on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-comedic-journey-an-evaluation-of-goofy-adventures/"><u>2024 Approved The Comedic Journey An Evaluation of 'Goofy Adventures'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-iphone-podcast-retrieval-handbook/"><u>2024 Approved The Essential iPhone Podcast Retrieval Handbook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-fixes-for-startup-problems-in-macos-software-applications/"><u>Effective Fixes for Startup Problems in macOS Software Applications</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-solo-sounders-plight-resolved-guide/"><u>In 2024, Solo Sounder's Plight Resolved Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-magic-of-moving-texts-a-guide-for-insta-pros/"><u>In 2024, Unveiling the Magic of Moving Texts A Guide for Insta Pros</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/insight-into-tseries-earnings-and-profitability-through-youtube-channels/"><u>Insight Into TSeries' Earnings and Profitability Through YouTube Channels</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-honor-play-8t-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Honor Play 8T and Browser | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-hidden-youtube-comments-for-2024/"><u>Unveiling Hidden YouTube Comments for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Navigate the Cloud Wealth: Mastering Tough Deals in Today's Overflowing Market | ZDNet"
-date: 2024-09-19 12:17:31
-updated: 2024-09-20 10:11:49
+date: 2024-12-13T18:46:32.408Z
+updated: 2024-12-21T02:57:29.999Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Photo: Joe McKendrick
 Last month, it was [disclosed](https://www.nextgov.com/emerging-tech/2022/04/nsa-re-awards-secret-10-billion-contract-amazon/366184/) that the National Security Agency re-awarded a massive and hotly contested cloud computing contract worth up to $10 billion to Amazon Web Services. 
 
 One can assume a large government agency procuring $10 billion of cloud services has quite a bit of leverage over the terms of the agreement. However, for mainstream companies, the opposite may be true -- the cloud provider holds many of the cards, in a legal or contractual sense, with terms that may come back to bite the consumer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -59,11 +63,26 @@ Cloud engagements are now the lifeblood of forward-looking enterprises seeking t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-instantaneous-screen-logger-for-chrome/"><u>[New] 2024 Approved Instantaneous Screen Logger for Chrome</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-3-copywriting-structure-for-facebook-ads/"><u>[New] 3 Copywriting Structure for Facebook Ads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streaming-wars-the-top-10-platforms-ranked-and-compared/"><u>[New] Streaming Wars The Top 10 Platforms Ranked and Compared</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-nokia-c02-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nokia C02 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-choose-the-background-music-for-the-trailer-for-2024/"><u>How to Choose the Background Music for the Trailer for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-examination-samsungs-complete-360-camera-experience/"><u>In 2024, Full Examination Samsung's Complete 360° Camera Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-science-of-motion-without-contact/"><u>In 2024, Unraveling the Science of Motion Without Contact</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-logitech-g29-driving-force-wheel-on-pcs-with-win-11-win-10-or-win-7/"><u>Installing Logitech G29 Driving Force Wheel on PCs with Win 11, Win 10 or Win 7</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-the-class-not-registered-issue-in-windows-environments/"><u>Resolving the 'Class Not Registered' Issue in Windows Environments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-artists-guide-to-dynamic-palette-alteration-for-2024/"><u>The Artist's Guide to Dynamic Palette Alteration for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-reveals-revolutionary-built-with-meta-in-mind-earbuds-first-of-its-kind/"><u>ZDNET Reveals Revolutionary 'Built with Meta in Mind' Earbuds - First of Its Kind!</u></a></li>
+</ul></div>
+

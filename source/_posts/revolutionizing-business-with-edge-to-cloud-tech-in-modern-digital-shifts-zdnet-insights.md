@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Business with Edge-to-Cloud Tech in Modern Digital Shifts | ZDNet Insights
-date: 2024-09-19 22:32:19
-updated: 2024-09-20 11:21:34
+date: 2024-12-18T17:03:25.456Z
+updated: 2024-12-21T05:00:24.962Z
 tags:
   - cloud
 categories:
@@ -95,6 +95,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F "Twitter") 
@@ -139,6 +143,10 @@ If the data center is that building with all your servers, and the cloud is that
 
 The thing about computing at the edge is that it needs to run at the speed of life. A self-driving car can't take the time to send off a query and await a response when a truck swerves in front of it. It has to have all the necessary intelligence in the vehicle to decide what action to take. While this is an extreme example, the same is true of factory processes and even retail sales. Intelligence, data analysis, and decision making must be available without a propagation delay, and therefore must live at the edge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Digital transformation: Trends and insights for success Digital transformation projects are about driving fundamental change across customer experience, tech and business culture. This ZDNet special report brings you the latest trends and insights you need to succeed.  Read now](https://www.zdnet.com/topic/digital-transformation-trends-and-insights-for-success/)
@@ -151,9 +159,17 @@ It's not just about ease of use. It's about preventing mistakes and being able t
 
 The key to managing all this is a comprehensive edge-to-cloud platform that provides all the services necessary to maintain, grow, and defend your infrastructure over the long haul.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Understanding the benefits of an edge-to-cloud platform
 
 So what characteristics make up a comprehensive edge-to-cloud platform? If you start looking to vendors for a solution, you'll want to explore four key features: self-service, rapid scaling, pay-as-you-go, and managed infrastructure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -180,6 +196,10 @@ The most important is greater agility. As we've seen over the last three years, 
 
 Once you have the agility, doors open. You can modernize applications to meet the needs of work-at-home employees and highly mobile customers. You can optimize a hybrid cloud solution that perfectly fits your working needs, but without all of the chaotic overhead that comes from trying to make multiple vendor configurations work together. You can put your line-of-business needs and your customers' desires first, scaling out to meet the needs of market forces and taking advantage of opportunities as they arise.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## HPE GreenLake and other platforms
 
 This is where HPE GreenLake and its competitors come in. Their management of infrastructure is up and down the line, so you can provision co-lo and cloud services off-site, but they'll also deliver gear to your facility within 14 days and with no upfront cost. All of that is cost-controlled with careful metering and pay-as-you-go billing that tracks your usage -- whether it increases or decreases.
@@ -198,11 +218,28 @@ But we live in a time where rapid change means "by next week" not "by next quart
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-10-most-admirable-photo-frame-apps/"><u>[New] The 10 Most Admirable Photo Frame Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-best-mac-alternatives-for-expert-screen-recording-and-playback/"><u>[Updated] 2024 Approved Best Mac Alternatives for Expert Screen Recording & Playback</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-cutting-edge-tips-designing-immersive-educational-videos-for-online-learning/"><u>[Updated] Cutting-Edge Tips Designing Immersive Educational Videos for Online Learning</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-a-critical-analysis-of-luminances-role-in-hdr-development/"><u>[Updated] In 2024, A Critical Analysis of Luminance's Role in HDR Development</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone/"><u>[Updated] Transform Images on the Fly – The Best Overlay Apps for Android & iPhone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-leading-websites-for-digital-3d-text-with-a-golden-accent/"><u>2024 Approved Leading Websites for Digital 3D Text with a Golden Accent</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-the-art-of-igtv-a-comprehensive-guide-for-social-media-pros/"><u>2024 Approved Mastering the Art of IGTV A Comprehensive Guide for Social Media Pros</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-curated-lists-of-websites-offering-youtube-tone-purchases/"><u>In 2024, Curated Lists of Websites Offering YouTube Tone Purchases</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streaming-soundscapes-on-your-iphone/"><u>In 2024, Streaming Soundscapes on Your iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-workflow-fixes-for-adobe-premiere-srt-freeze/"><u>In 2024, Streamlining Workflow Fixes for Adobe Premiere SRT Freeze</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tactics-for-transformative-first-moments-in-your-podcasts/"><u>In 2024, Tactics for Transformative First Moments in Your Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tailored-titles-for-crafted-merged-and-oriented-videos-android/"><u>In 2024, Tailored Titles for Crafted, Merged & Oriented Videos (Android)</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-capturing-gameplay-footage-of-genshin-impact-across-desktops-and-smartphones/"><u>Step-by-Step Guide: Capturing Gameplay Footage of Genshin Impact Across Desktops and Smartphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unplanned-spending-alert-navigating-the-appeal-of-apples-discounted-17-usb-c-earpods-on-prime-day-a-firsthand-account-by-a-savvy-shopper-zdnet-exclusive/"><u>Unplanned Spending Alert! Navigating the Appeal of Apple's Discounted $17 USB-C EarPods on Prime Day – A Firsthand Account by a Savvy Shopper | ZDNET Exclusive</u></a></li>
+</ul></div>
+

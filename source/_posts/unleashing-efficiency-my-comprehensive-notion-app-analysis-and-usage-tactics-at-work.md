@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Efficiency: My Comprehensive Notion App Analysis and Usage Tactics at Work"
-date: 2024-09-19 22:13:15
-updated: 2024-09-20 11:23:34
+date: 2024-12-17T06:01:04.748Z
+updated: 2024-12-20T21:50:41.274Z
 tags:
   - cloud
 categories:
@@ -38,6 +38,10 @@ Probably one of the easiest ways for you to understand Notion is for me to show 
 
 Keep in mind that these examples are about how I use Notion. One of the biggest benefits to Notion is that you can sculpt it to your unique needs. Another benefit is that you can always tweak and update your implementations so it grows as you do. So my uses have been sculpted into my workflow. Yours, of course, will fit what you need to do every day.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Review product tracker
 
 I can't recall if this was the first project I set up, but it's certainly one of the first. As a tech columnist and product reviewer, I get an enormous flow of review products that show up to be reviewed. I needed to keep track of the products and status of their reviews. To manage this, I started with a kanban board, or what Notion calls the board view. If you think this looks a lot like Trello, you're not wrong. Notion has a full Trello-like implementation as just one of its tools. 
@@ -71,6 +75,10 @@ For example, here's part of a page with print settings and G-code (the code that
 
 The graphics and code from that set of notes wound up in my [Creality Sermoon D1 article](https://www.zdnet.com/article/creality-sermoon-d1-review-3d-printer-under-700/) and [video](https://youtu.be/7T56N-XZPA0).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Project management database
 
 Another powerful data structure is the table. I use one to track all my assigned projects at ZDNet. 
@@ -89,6 +97,10 @@ Each note captures different information. Some just contain dimensions. Some con
 
 Note the project in the lower-left corner above. That became [my first big CNC project](https://www.zdnet.com/article/my-first-big-cnc-project-a-parts-organizer-rack/), which I showed you last month. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The notion of Notion
 
 If you keep in mind that every field in a database can open up to a wiki page or an entire semi-structured "app" and that the same is true of every bullet in every list, you begin to become one with the notion of Notion. 
@@ -99,7 +111,15 @@ If all you need is a single pinpoint application, Notion can be cumbersome. But 
 
 Also, before I go on, I should mention that Notion does have some wind in its sails. In its [last funding round](https://www.crunchbase.com/organization/notion-so), Notion raised $275 million and has about $340 million in total investment. Its last funding round, from last fall, valued the company at $10 billion. So the services hosting your data are unlikely to be turned off anytime soon. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Ten things I like about Notion
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -173,11 +193,24 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-jumpstart-to-understanding-av1-codecs/"><u>[New] Jumpstart to Understanding AV1 Codecs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-choice-top-android-3d-players/"><u>[New] Ultimate Choice Top Android 3D Players</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-tropical-tango-toucan-for-2024/"><u>[Updated] Tropical Tango Toucan for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-5-core-strategies-for-amplifying-your-digital-footprint-newbies-style/"><u>2024 Approved 5 Core Strategies for Amplifying Your Digital Footprint, Newbies Style</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-choices-animation-friendly-3d-model-tools/"><u>2024 Approved Top Choices Animation-Friendly 3D Model Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/correct-that-repost-master-the-art-of-removing-duplicates-on-tiktok/"><u>Correct That Repost: Master the Art of Removing Duplicates on TikTok</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-frameworks-for-zooid-creation/"><u>In 2024, Superior Frameworks for Zooid Creation</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-to-setting-up-the-mad-titan-sports-addon-in-kodi-v203-nexus-edition/"><u>Step-by-Step Guide to Setting Up the Mad Titan Sports Addon in Kodi V.20.3 - Nexus Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssential-differences-between-youtube-and-dailymention/"><u>The Essential Differences Between YouTube and DailyMention</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/ffmpeg4/"><u>ビデオファイルのオーディオ抽出入門：FFmpeg使い方4通り</u></a></li>
+</ul></div>
+

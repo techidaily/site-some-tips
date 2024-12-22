@@ -1,7 +1,7 @@
 ---
 title: Avoid Top 10 Cloud Computing Blunders - Insights From ZDNet
-date: 2024-09-19 13:49:42
-updated: 2024-09-20 10:52:10
+date: 2024-12-16T20:18:38.785Z
+updated: 2024-12-20T18:48:45.570Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: FG Trade/Getty Images
 Tech analyst firm Gartner has set out 10 things you should avoid when [building a cloud-computing strategy](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) in a world that is leaning towards cloud-first. Because being cloud-first doesn't necessarily mean 'cloud only'. 
 
 As cloud becomes the [dominant way of consuming compute, storage and networking](https://www.zdnet.com/article/cloud-computing-is-about-to-hit-another-big-milestone/), organisations should be crafting a concise 10-to-20-page "consumable document" that guides those who implement the strategy, according to Marco Meinardi, vice president analyst at Gartner. "The business strategy should drive the cloud strategy and provide guidance to those who will implement it. It must coexist with other strategic efforts, not try to redo them," [Meinardi notes](https://www.gartner.com/en/newsroom/press-releases/2022-11-21-gartner-highlights-ten-common-cloud-strategy-mistakes). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -84,11 +88,28 @@ Gartner's 10 cloud computing mistakes to avoid:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-enhance-your-footage-perfect-aspect-ratio-selection/"><u>[New] 2024 Approved Enhance Your Footage Perfect Aspect Ratio Selection</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-nailing-the-perfect-capture-mac-tips-for-screencasting-streamed-video/"><u>[New] 2024 Approved Nailing the Perfect Capture Mac Tips for Screencasting Streamed Video</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dissecting-ajey-nagars-2023-youtube-economic-landscape/"><u>[New] Dissecting Ajey Nagar's 2023 YouTube Economic Landscape</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-time-stamping-your-photographs-efficiently/"><u>[New] Time Stamping Your Photographs Efficiently</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveil-the-art-of-creating-astonishing-gopro-time-lapse-videos/"><u>[New] Unveil the Art of Creating Astonishing GoPro Time-Lapse Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-video-trimming-for-maximum-instagram-impact-mac/"><u>[Updated] In 2024, Mastering Video Trimming for Maximum Instagram Impact (Mac)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-timelapse-magic-with-your-gopro/"><u>[Updated] Unlocking Timelapse Magic with Your GoPro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-tutorial-setting-up-epson-xp-410-driver-and-software-with-windows-step-by-step-instructions/"><u>Complete Tutorial: Setting Up Epson XP- 410 Driver & Software with Windows - Step by Step Instructions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ier-makers-of-harmonized-audio-visual-experiences/"><u>Frontier Makers of Harmonized Audio-Visual Experiences</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guida-al-migliore-software-italiano-per-la-riduzione-delle-dimensioni-dei-video-opzioni-e-consigli/"><u>Guida Al Migliore Software Italiano per La Riduzione Delle Dimensioni Dei Video: Opzioni E Consigli</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How and Where to Find a Shiny Stone Pokémon For Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategic-use-of-visual-media-in-classroom-teaching/"><u>In 2024, Strategic Use of Visual Media in Classroom Teaching</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/movavinin-hd-video-cevrilmede-mp3-donusturucusu-video-mp3-donustirecek-konverteri/"><u>Movavi'nin HD Video Çevrilmede MP3 Dönüştürücüsü | Video-MP3 Dönüştirecek Konverteri</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-every-moment-top-activities-to-do-while-listening-to-your-favorite-talk-shows-for-2024/"><u>Transform Every Moment Top Activities to Do While Listening to Your Favorite Talk Shows for 2024</u></a></li>
+</ul></div>
+

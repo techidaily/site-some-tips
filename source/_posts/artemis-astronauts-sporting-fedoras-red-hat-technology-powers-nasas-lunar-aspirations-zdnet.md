@@ -1,7 +1,7 @@
 ---
 title: "Artemis Astronauts Sporting Fedoras: Red Hat Technology Powers NASA's Lunar Aspirations | ZDNET"
-date: 2024-09-18 15:18:26
-updated: 2024-09-20 11:19:58
+date: 2024-12-18T02:45:19.665Z
+updated: 2024-12-20T17:22:50.160Z
 tags:
   - cloud
 categories:
@@ -74,11 +74,33 @@ The teams are dedicated to preparing for a safe and successful flight, signaling
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/hannel-character-a-comprehensive-guide-to-templates-for-2024/"><u>[New] Channel Character A Comprehensive Guide to Templates for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-subtlety-matters-fading-out-sounds-in-logic-pro/"><u>[New] Subtlety Matters Fading Out Sounds in Logic Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-art-of-recording-facebook-lives-discover-4-key-strategies/"><u>[New] The Art of Recording Facebook Lives Discover 4 Key Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unpacking-the-enhancements-in-sony-s6500-bdp/"><u>[New] Unpacking the Enhancements in Sony S6500 BDP</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-quick-mac-screen-capture-with-deft-shortcuts-for-2024/"><u>[Updated] Mastering Quick Mac Screen Capture with Deft Shortcuts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-snapchat-pics-with-playful-cartoon-lens/"><u>[Updated] Transform Your Snapchat Pics with Playful Cartoon Lens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-360-degree-video-editing-workflow-in-premiere-pro/"><u>2024 Approved Streamlining 360-Degree Video Editing Workflow in Premiere Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cash-cascade-the-monetary-movements-of-a-meme-star-for-2024/"><u>Cash Cascade The Monetary Movements of a Meme Star for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-6-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 6 Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-joint-ventures-in-content-creation-for-youtube-audiences/"><u>In 2024, Joint Ventures in Content Creation for YouTube Audiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-pinnacle-of-personal-data-holdings/"><u>In 2024, The Pinnacle of Personal Data Holdings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-x100frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo X100FRP Lock</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simplified-seamless-viewing-discover-fire-tvs-new-continue-watching-functionality/"><u>Simplified Seamless Viewing: Discover Fire TV's New Continue Watching Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-is-now-hpe-and-amd-team-up-to-create-el-capitan-the-fastest-ever-supercomputer-upon-completion/"><u>The Future Is Now: HPE and AMD Team Up to Create El Capitan, The Fastest-Ever Supercomputer Upon Completion</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-overcoming-vcenter-web-client-access-problems/"><u>Troubleshooting Guide: Overcoming vCenter Web Client Access Problems</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

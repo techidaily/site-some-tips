@@ -1,7 +1,7 @@
 ---
 title: Tencent Cloud Amps Up Metaverse Presence, Remains Tight-Lipped About ChatGPT Expansion Plans | ZDNET Analysis
-date: 2024-09-18 16:21:43
-updated: 2024-09-20 11:52:57
+date: 2024-12-19T01:59:57.327Z
+updated: 2024-12-20T16:33:02.405Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ Further development in Web3 will lead to more diverse applications, such as the 
 
 Pointing to the metaverse, he said Tencent's experience in online games and communication services spanning text, audio, video, and 3D, will be a competitive advantage. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Tencent Cloud pledges SEA expansion with launch of Indonesia data centre](https://www.zdnet.com/article/tencent-cloud-pledges-sea-expansion-with-launch-of-indonesia-data-centre/)
@@ -61,11 +65,33 @@ Pointing to the metaverse, he said Tencent's experience in online games and comm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-preservation-digitizing-and-safeguarding-faded-family-memories/"><u>[New] The Art of Preservation Digitizing & Safeguarding Faded Family Memories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-youtube-views-with-smart-zoom-practices/"><u>[New] Transform Your YouTube Views with Smart Zoom Practices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-decoding-the-perks-of-asmr/"><u>[Updated] Decoding the Perks of ASMR</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-virtual-visualization-in-digital-streaming-platforms/"><u>[Updated] The Art of Virtual Visualization in Digital Streaming Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprehensive-guide-to-mastering-vivocuts-new-capabilities/"><u>2024 Approved A Comprehensive Guide to Mastering VivoCut's New Capabilities</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-reddit-posts-a-stepwise-strategy-for-engagement/"><u>2024 Approved Mastering Reddit Posts A Stepwise Strategy for Engagement</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-guide-to-the-best-video-speed-controller-extensions/"><u>2024 Approved The Ultimate Guide to The Best Video Speed Controller Extensions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-creative-expression-master-device-based-filters-and-effects/"><u>2024 Approved Unlock Creative Expression Master Device-Based Filters and Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-creative-potential-with-10-best-backdrop-modification-software/"><u>2024 Approved Unlock Creative Potential with 10 Best Backdrop Modification Software</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-tp-link-av2000-powerline-network-adapter-impressive-speed-with-design-flaws/"><u>Comprehensive Analysis of the TP-Link AV2000 Powerline Network Adapter: Impressive Speed with Design Flaws</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effortless-methods-for-shifting-photographs-from-your-iphone-to-an-outside-hard-drive-using-mac-os/"><u>Effortless Methods for Shifting Photographs From Your iPhone to an Outside Hard Drive Using Mac OS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-elevate-your-vlog-game-the-top-10-mobile-video-editing-apps/"><u>In 2024, Elevate Your Vlog Game The Top 10 Mobile Video Editing Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-route-to-richer-tiktok-bios-including-linktree-links/"><u>In 2024, The Route to Richer TikTok Bios Including Linktree Links</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultrawide-vs-uhd-4k-monitors-the-experts-advice/"><u>In 2024, UltraWide VS UHD 4K Monitors The Expert's Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-best-live-stream-options-today/"><u>In 2024, Unlock the Best Live Stream Options Today</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-potential-with-expert-picked-video-stabilization-tools-for-2024/"><u>Unlock Your Potential with Expert-Picked Video Stabilization Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-filmoras-most-attractive-edits-for-2024/"><u>Unveiling Filmora's Most Attractive Edits for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-vignette-perfection-the-best-mobile-apps-for-adding-frames-and-borders-for-2024/"><u>Updated Vignette Perfection The Best Mobile Apps for Adding Frames and Borders for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Transform Data Into Actionable Insights: Master the Journey From Edge to Cloud with Industry Expertise"
-date: 2024-09-18 20:12:15
-updated: 2024-09-20 12:57:56
+date: 2024-12-19T18:07:13.614Z
+updated: 2024-12-20T19:56:55.086Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Getty/sergey-nivens
 Let's talk for a minute about data silos. Real world silos are, of course, those towers on farms that are used to store grain for future use or sale. They're towering buildings that usually contain only one type of raw material. The silo concept generally works as a metaphor for describing large collections of raw data that's stored separately from other raw data.
 
 Servers and devices often silo data. Different machines store data, but don't necessarily share it all with other devices. Applications generate and store data, but only some might…_might_…be shared if a well-written API (application programming interface) is being used. Over time, organizations find themselves with a lot of data, but most of it is isolated, stored in separate metaphorical silos, never to be part of a larger whole.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How edge computing creates the perfect storm for data silos
 
@@ -42,6 +46,10 @@ Neither data set is connected to the other. But [as we explored in some depth a 
 
 But by capturing all the data and making data sets available for analysis (and AI-based correlation and big data processing), insights become possible. In this case, because Home-by-Home made [digital transformation](https://www.zdnet.com/article/what-is-digital-transformation-everything-you-need-to-know-about-how-technology-is-reshaping/) part of its DNA, the company was able to make the connection between factory temperature and returns, and now customers who purchase those lighting fixtures experience far fewer failures. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Your data is everywhere, but is it actionable?
 
 This is just one example of the potential to harvest data from edge-to-cloud. There are a few key ideas here that are all interrelated. 
@@ -53,6 +61,10 @@ This is just one example of the potential to harvest data from edge-to-cloud. Th
 **Insights come when correlating multiple inputs:** While it's possible to subject a single dataset to comprehensive analysis and come up with insights, you're far more likely to see trends when you can relate data from one source to data from other sources. We earlier showed how the temperature of a factory floor has a distant, but measurable, connection to the volume of returns in stores across the nation. 
 
 **To do that, all that data needs to be accessible across your enterprise:** But those correlations and observations are only possible when analysts (both human and AI) can gain access to many sources of data to learn what stories it all tells.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Making data usable and turning it into intelligence
 
@@ -74,6 +86,10 @@ As we discussed earlier, we've siloed so much of it. But even when we pull all t
 
 The IT buzz-phrases of data modernization and digital transformation go hand-in-hand. That's because a digital transformation can't take place unless the methodologies of storing and retrieving data are a top (often _the_ top) organizational IT priority. This is called a data-first strategy and it can reap substantial rewards for your business.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [How to disable ACR (and greatly reduce ads) on every TV model - and why you should](https://www.zdnet.com/article/how-to-disable-acr-and-greatly-reduce-ads-on-every-tv-model-and-why-you-should/)
@@ -86,6 +102,10 @@ See, here's the thing. If your data is tied up and trapped, you can't use it eff
 Not only that, poorly managed data can be a time sink for your professional IT staff. Instead of working to drive the organization forward through innovation, they're spending time managing all these different systems, databases, and interfaces, and troubleshooting all the different ways they can break.
 
 Modernizing your data not only means you can innovate, it also means you can free up your time to think instead of react. That also provides you time to deploy more applications and features that can open new horizons for your business.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Find the value and actionable insights hidden in your data
 
@@ -116,11 +136,28 @@ That's where management and infrastructure services like HPE GreenLake and its c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-inverted-screen-changing-video-ordering/"><u>[New] Inverted Screen Changing Video Ordering</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/obile-harmony-6-essential-free-apps-to-download-youtube-tracks/"><u>[New] Mobile Harmony 6 Essential Free Apps to Download YouTube Tracks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-superior-4k-playback-best-blu-ray-machines-ranked-for-2024/"><u>[Updated] Superior 4K Playback Best Blu-Ray Machines Ranked for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-8-step-formula-for-captivating-your-instagram-audience-with-reels-for-2024/"><u>[Updated] The 8-Step Formula for Captivating Your Instagram Audience with Reels for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-quick-and-the-funny-with-kinemaster-memes/"><u>[Updated] The Quick and the Funny with KineMaster Memes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-creating-impactful-ae-titles/"><u>2024 Approved The Art of Creating Impactful AE Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-instagram-image-addition-playbook/"><u>2024 Approved The Instagram Image Addition Playbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-inner-meme-maestro-with-these-9gag-insights/"><u>2024 Approved Unlock Your Inner Meme Maestro with These 9GAG Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-oppo-reno-9a-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Oppo Reno 9A Phone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722959820022-get-your-geforce-rtx-ebytes-for-windows-update-now/"><u>Get Your GeForce RTX Ebytes for Windows - Update Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-turtle-beach-elite-70-mic-step-by-step-solutions/"><u>How To Restore Your Turtle Beach Elite 70 Mic - Step by Step Solutions</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-fcp-audio-editing-for-beginners-get-started-today-for-2024/"><u>New FCP Audio Editing for Beginners Get Started Today for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-isolated-earbuds-fix-manual-for-2024/"><u>The Isolated Earbuds Fix Manual for 2024</u></a></li>
+</ul></div>
+

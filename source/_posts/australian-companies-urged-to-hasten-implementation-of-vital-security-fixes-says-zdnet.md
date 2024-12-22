@@ -1,7 +1,7 @@
 ---
 title: Australian Companies Urged to Hasten Implementation of Vital Security Fixes, Says ZDNet
-date: 2024-09-19 13:33:33
-updated: 2024-09-20 11:23:35
+date: 2024-12-13T17:43:23.182Z
+updated: 2024-12-20T19:27:40.906Z
 tags:
   - cloud
 categories:
@@ -83,11 +83,37 @@ Under restrictions to administrative privileges, for instance, companies in leve
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-essential-guide-to-scraping-social-footage-facebook-videos/"><u>[New] 2024 Approved The Essential Guide to Scraping Social Footage Facebook Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unlocking-video-revenue-potential-the-facebook-marketing-playbook/"><u>[New] 2024 Approved Unlocking Video Revenue Potential The Facebook Marketing Playbook</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastering-webinar-capture-straightforward-steps-for-os-xwindows/"><u>[New] In 2024, Mastering Webinar Capture Straightforward Steps for OS X/Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategies-to-integrate-b-roll-footage-seamlessly/"><u>[New] Strategies to Integrate B-Roll Footage Seamlessly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-improve-productivity-learn-to-record-macs-screen-using-shortcut-keys/"><u>[Updated] Improve Productivity Learn to Record Mac's Screen Using Shortcut Keys</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-a-unique-online-presence-youtube-edition/"><u>[Updated] In 2024, Crafting a Unique Online Presence YouTube Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-thankful-discoveries-unlimited-outro-options/"><u>[Updated] In 2024, Thankful Discoveries Unlimited Outro Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-top-notch-visuals-a-cost-free-approach/"><u>[Updated] Unlocking Top-Notch Visuals A Cost-Free Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-chromatic-enhancement/"><u>2024 Approved The Art of Chromatic Enhancement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-most-innovative-metaverse-visors-and-wearables/"><u>2024 Approved Unveiling the Most Innovative Metaverse Visors & Wearables</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808110465-desktop-icon-disappearance-in-windows-10-heres-how-to-get-them-back/"><u>Desktop Icon Disappearance in Windows 10? Here's How to Get Them Back!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-f34-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy F34 5G Phone?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-meme-design-props/"><u>In 2024, The Ultimate Guide to Meme Design Props</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-dramatic-audio-experiences/"><u>In 2024, Unparalleled Dramatic Audio Experiences</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-update-protocol-for-lexmark-printers/"><u>Simplified Update Protocol for Lexmark Printers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tactics-for-flawless-solo-streaming-experiences-for-2024/"><u>Top Tactics for Flawless Solo Streaming Experiences for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-ultimate-iphone-selfie-sticks-8-for-2024/"><u>Unveiling the Ultimate IPhone Selfie Sticks (#8) for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-create-epic-reactions-the-best-video-makers-to-use/"><u>Updated Create Epic Reactions The Best Video Makers to Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upgrade-your-video-presentations-zooming-through-filter-techniques-for-2024/"><u>Upgrade Your Video Presentations Zooming Through Filter Techniques for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

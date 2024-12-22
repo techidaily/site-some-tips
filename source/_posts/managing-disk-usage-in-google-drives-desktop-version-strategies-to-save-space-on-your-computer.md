@@ -1,7 +1,7 @@
 ---
 title: "Managing Disk Usage in Google Drive's Desktop Version: Strategies to Save Space on Your Computer"
-date: 2024-09-17 12:24:29
-updated: 2024-09-20 12:47:26
+date: 2024-12-15T21:14:02.177Z
+updated: 2024-12-21T01:57:53.597Z
 tags:
   - cloud
 categories:
@@ -19,6 +19,10 @@ I will assume that you already have the Google Drive Desktop Client installed on
 
 With that taken care of, let's see how we can avoid a storage nightmare.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Streaming vs mirroring
 
 You must understand this most important concept for protecting your storage space with the Google Drive Client. Google offers two different types of sync with the client, which are:
@@ -30,6 +34,10 @@ At this point, I'm certain you know what happened with that earlier installation
 
 Here's what I had to do to fix that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to configure the Google Drive client for streaming
 
 Before I take you down this road, know that the Google Drive client does default to the stream option. However, during my original installation, I opted (for whatever reason) to go with the mirror option. Because I'm absolutely paranoid about my files and folders on Google Drive, I took the safest route possible and first uninstalled the Google Drive client from my MacBook Pro. Once the app was uninstalled, I double-checked to ensure all of my directories and files were safe on Google Drive. They were. Whew.
@@ -37,6 +45,10 @@ Before I take you down this road, know that the Google Drive client does default
 When you opt to stream files, they are saved in a virtual drive that can be mounted and unmounted. However, when you go with the mirror option, those files are saved in /Users/USERNAME/My Drive (Where USERNAME is your macOS username). Once you've uninstalled the Google Drive Client (and you've checked to verify all of your directories and files still exist on your Google Drive cloud account), delete that My Drive directory. Once you've done that, you've freed up the space Google Drive consumed and should be back to a more management disk. 
 
 Re-install the Google Drive client on your machine, and then you can ensure you configure it to stream and not mirror files. Here's how you do that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open preferences
 
@@ -51,6 +63,10 @@ In the next popup menu (**Figure 2**), click Preferences.
 **Figure 2:** The Google Drive Desktop Client popup menu gives you access to the Preferences entry.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Choose the Stream option
 
@@ -91,11 +107,29 @@ And that is all there is to prevent the Google Drive Desktop Client from using u
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-primeval-20-anime-series-opener-music/"><u>[New] In 2024, Primeval 20 Anime Series Opener Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-gamers-guide-to-boosting-pc-speed-controls/"><u>[New] The Gamer's Guide to Boosting PC Speed Controls</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-spotify-marketing-manual-strategies-and-tactics/"><u>[New] The Ultimate Spotify Marketing Manual Strategies and Tactics</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-boosting-your-competitive-edge-with-custom-vocalization-techniques-in-free-fire-gaming-free-solution-included/"><u>[Updated] Boosting Your Competitive Edge with Custom Vocalization Techniques in Free Fire Gaming (Free Solution Included)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-harmonious-hues-choosing-pixel-rhythms/"><u>[Updated] In 2024, Harmonious Hues Choosing Pixel Rhythms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uncovering-key-pace-requirements-for-exceptional-slow-motion-videos/"><u>[Updated] Uncovering Key Pace Requirements for Exceptional Slow-Motion Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-iphone-video-potential-mastering-8-essential-filmmaking-skills/"><u>2024 Approved Unlock iPhone Video Potential Mastering 8 Essential Filmmaking Skills</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-foundations-of-virtual-storytelling/"><u>2024 Approved Unveiling the Foundations of Virtual Storytelling</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/elegant-image-collection-pastel-yellows-on-neutral-backgrounds-innovative-wallpapers-from-yl-software-solutions/"><u>Elegant Image Collection: Pastel Yellows on Neutral Backgrounds – Innovative Wallpapers From YL Software Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-freely-stream-your-films-easy-to-use-mov-player-software/"><u>In 2024, Freely Stream Your Films Easy-to-Use MOV PLAYER Software</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/remote-wipe-techniques-for-iphone-and-ipad-protect-your-data-anywhere-anytime/"><u>Remote Wipe Techniques for iPhone and iPad – Protect Your Data Anywhere, Anytime</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-honor-80-pro-straight-screen-edition-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Honor 80 Pro Straight Screen Edition Device</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/ultra-hd-naruto-visuals-for-laptops-and-pcs-premium-collection-by-yl-software/"><u>Ultra-HD Naruto Visuals for Laptops & PCs: Premium Collection by YL Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-mac-video-editing-made-easy-with-mkvtoolnix-2023-update/"><u>Updated In 2024, Mac Video Editing Made Easy with MKVtoolnix 2023 Update</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-netflixs-floating-window-feature-effectively-for-2024/"><u>Utilizing Netflix's Floating Window Feature Effectively for 2024</u></a></li>
+</ul></div>
+

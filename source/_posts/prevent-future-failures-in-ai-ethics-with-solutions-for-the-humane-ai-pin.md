@@ -1,7 +1,7 @@
 ---
 title: Prevent Future Failures in AI Ethics with Solutions for the Humane AI Pin
-date: 2024-09-19 19:56:52
-updated: 2024-09-20 11:34:14
+date: 2024-12-14T18:24:28.747Z
+updated: 2024-12-20T18:11:25.584Z
 tags:
   - cloud
 categories:
@@ -42,6 +42,10 @@ It is unclear whether Humane can improve the performance and reliability of the 
 
 The issues with battery charging and overheating may not be solvable with the current hardware either.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The connectivity problem
 
 However, there may be a few things that Humane can do. Let's start with the connectivity response time.
@@ -72,6 +76,10 @@ To fix the Wi-Fi problem, the device needs passthrough-style authentication -- s
 
 My iPhone can store many Wi-Fi networks (that I have authenticated) in its memory. Using Bluetooth, it passes those to my Apple Watch, and that's completely transparent to me. That's exactly what the Pin needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4G and Wi-Fi are not the only answer for wearable connectivity
 
 Wi-Fi, however, is power-hungry, even with low-power transceiver implementations. A possible solution for future Pin hardware would be to include [Matter](https://csa-iot.org/all-solutions/matter/), an IoT connectivity standard adopted by many vendors, including Apple, Amazon, Google, and Samsung. Matter enables smart home products from different manufacturers to work together by providing a universal language for wireless (and wired) IoT devices. 
@@ -82,6 +90,10 @@ Wireless Matter devices can connect with each other using [Zigbee's wireless pro
 
 Matter's data transmission speeds may not be as fast as Wi-Fi for moving large amounts of data (such as photos and videos to cloud storage), but as a side-channel communications mechanism for text-based LLM queries and sensor data on wearable devices, it makes a lot of sense.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The LLM and cloud provisioning dilemma
 
 However, not all of the device's slowness can be attributed to connectivity. The query response from Humane's AI is also said to be slow and unreliable, and that's probably due to underprovisioned cloud resources. The pin's back-end GenAI LLM is [apparently OpenAI](https://www.theverge.com/2023/11/9/23953901/humane-ai-pin-launch-date-price-openai). It is unclear whether it uses GPT4 or GPT 3.5, but it must be done via an API call. 
@@ -91,6 +103,10 @@ It's unlikely the pin is doing [direct API calls to OpenAI](https://platform.ope
 **Also: [GPT-4 Turbo reclaims the 'best AI model' crown from Anthropic's Claude 3](https://www.zdnet.com/article/gpt-4-turbo-reclaims-best-ai-model-crown-from-anthropics-claude-3/)**
 
 Here's the question: Is it sensible to restrict the Pin to OpenAI/ChatGPT? Other LLMs are currently being developed, including Meta's LLAMA2, Google Gemini, and Amazon Titan. AI advancements are coming fast and furious, with models increasing in parameter size multiple times a year. Competition among these models is intense. An AI-driven product, one not confined to any particular ecosystem, should be service-agnostic and have access to the best-of-breed model at any time and to whichever LLM the user prefers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can the Pin be fixed - or will rivals capitalize on Humane's failure?
 
@@ -125,11 +141,31 @@ As the landscape of personal technology continues to evolve, the pressure is on 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-audio-artists-approach-to-video-unboxing/"><u>[New] 2024 Approved The Audio Artist's Approach to Video Unboxing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-vlogging-battle-gopro-hero5-black-vs-sessions/"><u>[New] The Ultimate Vlogging Battle GoPro Hero5 Black VS Sessions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essentials-of-video-format-transformation-using-vlc/"><u>[Updated] The Essentials of Video Format Transformation Using VLC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unmatched-storytelling-education-1-8-spotlight/"><u>2024 Approved Unmatched Storytelling Education #1-#8 Spotlight</u></a></li>
+<li><a href="https://win-forum.techidaily.com/advanced-techniques-for-editing-deleting-and-adding-new-registry-entries-via-revo-uninstaller/"><u>Advanced Techniques for Editing, Deleting and Adding New Registry Entries via Revo Uninstaller</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-unlock-an-ipad-without-a-passcode/"><u>How to Unlock an iPad Without a Passcode</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-timing-your-podcast-release-effectively/"><u>In 2024, Timing Your Podcast Release Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-modern-motion-perception-technologies/"><u>In 2024, Understanding Modern Motion Perception Technologies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-auditory-adventures-installing-apple-podcasts-app/"><u>In 2024, Unleash Your Auditory Adventures Installing Apple Podcasts App</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-blackshark-v2-mic-issues-learn-how-to-restore-its-functionality/"><u>Razer BlackShark V2 Mic Issues? Learn How to Restore Its Functionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-bottom-line-podcasters-earnings-on-average-for-2024/"><u>The Bottom Line Podcasters' Earnings, On Average for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unpacking-the-impact-of-youtubes-shorts-programme/"><u>Unpacking the Impact of YouTube's Shorts Programme</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-lenovo-thinkpad-x1-titanium-yoga-the-ultimate-2-in-1-solution-for-true-thinkpad-fans/"><u>Unveiling the Lenovo ThinkPad X1 Titanium Yoga - The Ultimate 2-in-1 Solution for True ThinkPad Fans</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vanguard-20-top-anime-song-starters-for-2024/"><u>Vanguard 20 Top Anime Song Starters for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/44ot44oc44kz44ou44o844ks5yip55so44gx44gf44ov44kp44or44oa5zcm5pyf5oml6acg77ya5yplusm5pa55zcr55qe44ki44ox44ot44o844ob/"><u>ロボコピーを利用したフォルダ同期手順：双方向的アプローチ</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Edge-to-Cloud Evolution for Advanced Digital Innovation | Expert Analysis by ZDNet
-date: 2024-09-17 11:49:46
-updated: 2024-09-20 10:15:27
+date: 2024-12-18T04:05:52.875Z
+updated: 2024-12-20T22:46:29.791Z
 tags:
   - cloud
 categories:
@@ -95,6 +95,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F "Twitter") 
@@ -117,6 +121,10 @@ Marketing, operations and HR are all begging for new, custom applications to hel
 
 ## Digital transformation and cloud operations
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [The Tech Trends to Watch in 2023 Learn about the leading tech trends the world will lean into over the next 12 months and how they will affect your life and your job.  Read now](https://www.zdnet.com/topic/the-tech-trends-to-watch-in-2023/)
@@ -131,6 +139,10 @@ And this is where the time savings starts to really scale up. Using a single-pan
 
 For those companies who don't want to build all these systems themselves, there are platforms like HPE GreenLake – who is also the sponsor of this ZDNET editorial series – designed to help sort out the complexity. We'll get back to GreenLake in a bit, but first let's talk about where edge computing fits into this new paradigm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The rise of edge computing
 
 If the data center is that building with all your servers, and the cloud is that building that someone else owns with all the servers you rent, the edge is everything else – where it all happens. It's the sensors in smart cities. It's the medical instrumentation in hospitals. It's the fabrication and material transport systems in factories and warehouses. It's the individual retail store in your chain of thousands of stores.
@@ -138,6 +150,10 @@ If the data center is that building with all your servers, and the cloud is that
 **Also:** [**What is edge computing? Here's why the edge matters and where it's headed**](https://www.zdnet.com/article/where-the-edge-is-in-edge-computing-why-it-matters-and-how-we-use-it/)
 
 The thing about computing at the edge is that it needs to run at the speed of life. A self-driving car can't take the time to send off a query and await a response when a truck swerves in front of it. It has to have all the necessary intelligence in the vehicle to decide what action to take. While this is an extreme example, the same is true of factory processes and even retail sales. Intelligence, data analysis, and decision making must be available without a propagation delay, and therefore must live at the edge.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -180,6 +196,10 @@ The most important is greater agility. As we've seen over the last three years, 
 
 Once you have the agility, doors open. You can modernize applications to meet the needs of work-at-home employees and highly mobile customers. You can optimize a hybrid cloud solution that perfectly fits your working needs, but without all of the chaotic overhead that comes from trying to make multiple vendor configurations work together. You can put your line-of-business needs and your customers' desires first, scaling out to meet the needs of market forces and taking advantage of opportunities as they arise.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## HPE GreenLake and other platforms
 
 This is where HPE GreenLake and its competitors come in. Their management of infrastructure is up and down the line, so you can provision co-lo and cloud services off-site, but they'll also deliver gear to your facility within 14 days and with no upfront cost. All of that is cost-controlled with careful metering and pay-as-you-go billing that tracks your usage -- whether it increases or decreases.
@@ -198,11 +218,27 @@ But we live in a time where rapid change means "by next week" not "by next quart
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-unleashing-your-macs-screen-sharing-potential-for-2024/"><u>[New] Unleashing Your Mac's Screen Sharing Potential for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-optimal-4k-video-recording-tools-compilation/"><u>[Updated] Optimal 4K Video Recording Tools Compilation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-podcast-dominance-through-powerful-seo-tactics/"><u>[Updated] Podcast Dominance Through Powerful SEO Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-streaming-with-integrated-local-channels-future-edition/"><u>2024 Approved Superior Streaming with Integrated Local Channels, Future Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cambiar-facilmente-webm-a-mov-file-sin-coste-con-herramienta-de-movavi/"><u>Cambiar Fácilmente Webm a Mov File Sin Coste Con Herramienta De Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gebruik-gratuitiecode-convertinge-mkv-naar-wav-online-met-movavi/"><u>Gebruik Gratuitiecode - Convertinge MKV Naar WAV Online Met Movavi</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-elevate-your-video-storytelling-with-effective-markers/"><u>In 2024, Elevate Your Video Storytelling with Effective Markers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mpc-hc-high-quality-audio-and-video/"><u>In 2024, MPC-HC High Quality Audio and Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-kinemaster-made-memes/"><u>In 2024, The Art of KineMaster-Made Memes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-value-panoramic-recording-equipment-for-savvy-shoppers/"><u>In 2024, Top Value Panoramic Recording Equipment for Savvy Shoppers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/m1-marvel-a-new-wave-of-smooth-and-efficient-editing-for-2024/"><u>M1 Marvel A New Wave of Smooth and Efficient Editing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-kinemasters-secrets-to-smooth-transitions-for-2024/"><u>Unlock Kinemaster's Secrets to Smooth Transitions for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-excellence-of-the-premium-samsung-galaxy-s1-0-smartphone/"><u>Unveiling the Excellence of the Premium Samsung Galaxy S1 0 Smartphone</u></a></li>
+</ul></div>
+

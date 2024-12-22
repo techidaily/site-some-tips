@@ -1,7 +1,7 @@
 ---
 title: Navigate and Recover Files Quickly Using the Improved Google Drive Search Functionality - ZDNet Insight
-date: 2024-09-17 12:41:26
-updated: 2024-09-20 10:56:35
+date: 2024-12-17T23:24:01.490Z
+updated: 2024-12-20T18:16:09.678Z
 tags:
   - cloud
 categories:
@@ -33,13 +33,25 @@ When you use the Filter Toolbar, it even filters out folders. For example, if yo
 
 Let me show you how easy this new feature is to use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use the new Google Drive Filter Toolbar
 
 **What you'll need:** The only things you'll need are a valid Google account and a web browser. Of course, [you'll want to have files in Drive](https://www.zdnet.com/home-and-office/work-life/how-to-set-up-offline-access-in-google-drive/), otherwise, you'll have nothing to filter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Log into Google Drive
 
 The first thing to do is open your default web browser and log into [Google Drive](https://drive.google.com).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable the Filter Toolbar
 
@@ -48,6 +60,10 @@ If you don't immediately see the Filter Toolbar at the top of Drive, you should 
 If you don't see the Filter Toolbar, click the three-line icon to enable it.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Using the Filter Toolbar
 
@@ -96,11 +112,24 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-compendium-of-affordable-rich-graphics-resources-online/"><u>[New] The Essential Compendium of Affordable, Rich Graphics Resources Online</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge-for-2024/"><u>[Updated] Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-broadcasting-strategies-for-vimeo-films/"><u>[Updated] In 2024, Broadcasting Strategies for Vimeo Films</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ranking-top-tools-convert-srt-files-with-zero-charge-for-2024/"><u>[Updated] Ranking Top Tools Convert Srt Files with Zero Charge for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-tips-for-sims-4-video-gaming/"><u>In 2024, Essential Tips for Sims 4 Video Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-quirks-of-playback-solving-frozen-photobooth-videos/"><u>In 2024, The Quirks of Playback Solving Frozen Photobooth Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/livestream-quality-decision-opt-for-streamlabs-or-obs/"><u>Livestream Quality Decision Opt for Streamlabs or OBS?</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/schutz-fur-ihr-filmerlebnis-verwandeln-sie-altereneuere-dvds-mit-qualitatsgarantie-in-5-minuten/"><u>Schutz Für Ihr Filmerlebnis: Verwandeln Sie Ältere/Neuere DVDs Mit Qualitätsgarantie in 5 Minuten</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-apples-iphone-camera-evolution-in-ios-11-for-2024/"><u>The Essential Guide to Apple's iPhone Camera Evolution in iOS 11 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-full-potential-top-9-methods-in-vr-cinematography-for-2024/"><u>Unlocking the Full Potential Top 9 Methods in VR Cinematography for 2024</u></a></li>
+</ul></div>
+
