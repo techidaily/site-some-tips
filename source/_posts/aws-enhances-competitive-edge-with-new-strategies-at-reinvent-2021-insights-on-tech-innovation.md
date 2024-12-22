@@ -1,7 +1,7 @@
 ---
 title: "AWS Enhances Competitive Edge with New Strategies at Re:Invent 2021 - Insights on Tech Innovation"
-date: 2024-09-17 15:19:25
-updated: 2024-09-20 12:41:13
+date: 2024-12-19T04:22:04.161Z
+updated: 2024-12-21T19:26:56.945Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 ![aws-industries.png](https://www.zdnet.com/a/img/resize/7d2ad83651d4d1895bbf3b1b3b3205affc38f7ec/2021/11/30/52c37f70-47ce-45b0-812d-30ead4496223/aws-industries.png?auto=webp&width=1280)
 
 AWS CEO Adam Selipsky went vertical in his keynote. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -40,6 +44,10 @@ What's evolving is that AWS customers are also becoming business partners over t
 
 Nasdaq CEO Adena Friedman said the market operator is a technology provider too. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Nasdaq: Market operator meets SaaS provider
 
 Nasdaq CEO Adena Friedman outlined how the market operator is a SaaS provider to the ecosystem focusing on equities, derivatives, crypto and even sports betting. Nasdaq's reach extends into 130 other markets around the world. 
@@ -49,6 +57,10 @@ The market operator has been an AWS partner since 2008 and has extended its use 
 "We will start with US options markets," said Friedman. "We will be the first market provider that is 100% cloud-enabled." 
 
 Going forward, Nasdaq will build edge compute zones with AWS Outposts and offer a private local zone for global capital markets. In other words, Nasdaq will have AWS as an ingredient brand to export trading and clearing tools to its footprint of 130 markets. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dish: AWS as 5G network backbone
 
@@ -61,6 +73,10 @@ Dish Wireless has enterprise ambitions.
 Rouanne said Dish Wireless is looking to be a network of networks and connect "edge to cloud in a simplified manner." By using AWS as its infrastructure, Dish Wireless aims to deliver data and automation at scale.
 
 If you couple Dish Wireless with partnerships with the likes of Verizon for edge computing, and you can see the AWS telecom ground game improving. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3M eyes digital products too
 
@@ -77,6 +93,10 @@ Going forward, Braun said 3M is looking to be known for its digital products as 
 3M and AWS are providing a digital marketplace for customers so they can access code, models and tools. "Each success builds on the one before it," said Braun. 
 
 These industrial-use cases ultimately become Amazon bundles such as AWS Industrial, which has 5 core services for machine learning, fulfillment networks and equipment management. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### United Airlines: Building out its digital game
 
@@ -123,11 +143,25 @@ The vision: Every company will become a SaaS provider to industries on some leve
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-capture-breathtaking-scenes-on-iphone-with-ease/"><u>[New] Capture Breathtaking Scenes on iPhone with Ease</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-essentials-of-youtubes-latest-payment-policy/"><u>[New] In 2024, The Essentials of YouTube's Latest Payment Policy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-tips-to-make-your-podcast-teasers-stand-out/"><u>[New] Top 10 Tips to Make Your Podcast Teasers Stand Out</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tune-into-unparalleled-music-video-watching-best-android-vids-for-you/"><u>[New] Tune Into Unparalleled Music Video Watching Best Android Vids for You</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-youtubes-hidden-gems-the-comment-space/"><u>[New] Unveiling YouTube's Hidden Gems The Comment Space</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-design-strategies-for-top-tier-valorant-thumbnails-on-social-media-for-2024/"><u>[Updated] Design Strategies for Top-Tier Valorant Thumbnails on Social Media for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-summit-of-synergy-for-vr-sensations/"><u>2024 Approved Summit of Synergy for VR Sensations</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-lenovo-ideapad-130s-balancing-low-power-with-remarkable-usability-features/"><u>Exploring the Lenovo IdeaPad 130S - Balancing Low Power with Remarkable Usability Features</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-v27-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/protocol-for-activating-copy-and-paste-features-in-edges-security-mode-w11/"><u>Protocol for Activating Copy & Paste Features in Edge's Security Mode W11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-viral-click-title-genie-for-2024/"><u>Ultimate Viral Click Title Genie for 2024</u></a></li>
+</ul></div>
+

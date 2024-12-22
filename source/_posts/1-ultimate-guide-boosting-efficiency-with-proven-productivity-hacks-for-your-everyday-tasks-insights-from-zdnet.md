@@ -1,7 +1,7 @@
 ---
 title: "1. Ultimate Guide: Boosting Efficiency with Proven Productivity Hacks for Your Everyday Tasks - Insights From ZDNet"
-date: 2024-09-19 18:45:42
-updated: 2024-09-20 12:51:25
+date: 2024-12-16T03:15:41.536Z
+updated: 2024-12-21T20:26:22.362Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Remember the old productivity and office suites we all used to use? I don't know
 **Also:** [**Office 365 vs Google Workspace: Which productivity suite is best**](https://www.zdnet.com/article/office-365-vs-g-suite-which-productivity-suite-is-best-for-your-business/)
 
 Before I take you through both the tools and my "process," let me point out that this stuff is different for everyone. My work these days consists far more of educating and communicating, and far less time spent living in spreadsheets than back in the days when I ran startups. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -107,6 +111,10 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured reviews
 
 * [I bought Samsung's $649 Galaxy Watch Ultra: What I learned after weeks of testing](https://www.zdnet.com/article/i-bought-samsungs-649-galaxy-watch-ultra-what-i-learned-after-weeks-of-testing/)
@@ -144,6 +152,10 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -157,6 +169,10 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -197,11 +213,19 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -237,11 +261,29 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-picks-for-shining-3d-type-designs-with-a-golden-touch/"><u>[New] Top Picks for Shining 3D Type Designs with a Golden Touch</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-speak-up-right-away-timely-responses-to-discord-chats/"><u>[Updated] 2024 Approved Speak Up Right Away Timely Responses to Discord Chats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-swift-solution-for-effortless-srt-to-text-txt-transform/"><u>[Updated] The Swift Solution for Effortless SRT to Text (TXT) Transform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-comprehensive-guide-to-mastering-facetune-app-features/"><u>2024 Approved The Comprehensive Guide to Mastering Facetune App Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-win11s-potential-with-zoom-conferencing/"><u>2024 Approved Unleashing Win11's Potential with Zoom Conferencing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-win11-pro-tips-and-hacks/"><u>Essential Win11 Pro Tips & Hacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-simplifying-the-process-of-creating-time-lapses-with-gopro/"><u>In 2024, Simplifying the Process of Creating Time Lapses with GoPro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-founding-an-indie-review-platform-for-fashion-and-apparel/"><u>In 2024, The Ultimate Guide to Founding an Indie Review Platform for Fashion and Apparel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-vlcs-potential-for-mpeg-4-and-diverse-file-alterations/"><u>In 2024, Unlocking VLC's Potential for MPEG-4 and Diverse File Alterations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/mastering-luts-with-adobe-after-effects-for-2024/"><u>Mastering LUTs with Adobe After Effects for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-how-oneplus-9-fails-to-solve-mathematical-dilemmas/"><u>Review: How OnePlus 9 Fails to Solve Mathematical Dilemmas</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/1722991263670-steam-sign-in-difficulties-heres-how-you-can-fix-them/"><u>Steam Sign-In Difficulties? Here's How You Can Fix Them!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-definitive-guide-to-choosing-a-connected-watch-insights-into-the-mobvoi-ticwatch-pro-4g/"><u>The Definitive Guide to Choosing a Connected Watch: Insights Into the Mobvoi Ticwatch Pro 4G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-elden-ring-how-to-resolve-game-launch-blackscreen-problems/"><u>Troubleshooting Elden Ring: How to Resolve Game Launch Blackscreen Problems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-android-sky-docs-ranking-for-2024/"><u>Ultimate Android Sky Docs Ranking for 2024</u></a></li>
+</ul></div>
+

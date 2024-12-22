@@ -1,7 +1,7 @@
 ---
 title: "}"
-date: 2024-12-19T18:30:22.059Z
-updated: 2024-12-20T16:16:32.709Z
+date: 2024-12-17T02:22:54.355Z
+updated: 2024-12-22T04:27:53.455Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf5e47bbf-b86c-43b8-bd90-4210f6985a11%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best small tablets of 2024
 
 Show less 
@@ -46,6 +42,10 @@ Cons
 * Expensive
 
 ## Apple iPad Mini 6th Generation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -78,11 +78,11 @@ Cons
 * Performance is slightly slow
 * Cameras aren't as great as other options
 
-## Amazon Fire 7 Tablet
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Amazon Fire 7 Tablet
 
 ### Best budget small tablet
 
@@ -114,11 +114,11 @@ Cons
 * Expensive
 * Some complaints of lag
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Boox Tab Mini C
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet for note-taking
 
@@ -147,7 +147,15 @@ Cons
 * Web browser functionality could be better
 * No warm light option
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazon Kindle 11th generation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet for reading
 
@@ -177,10 +185,6 @@ Pros
 Cons 
 * Performance could be better
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Tab A7 Lite
 
 ### Best Samsung small tablet
@@ -195,10 +199,6 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best small tablet?
 
 The best small tablet is the iPad Mini because of its sharp display and impressive cameras. Plus, the A15 Bionic chip is packed with power in a small package. 
@@ -210,10 +210,6 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Boox Tab Mini C        | $400      | 7.8 inches          | Electronic ink    |
 | Amazon Kindle          | $100      | 6 inches            | 300ppi glare-free |
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which small tablet is right for you?
 
@@ -236,6 +232,10 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -249,7 +249,7 @@ We also compare the display's performance with what the manufacturer promised, t
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the smallest tablet screen size?
@@ -322,22 +322,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-exploring-twittrends-2023s-hot-tweets-uncovered/"><u>[New] In 2024, Exploring TwitTrends 2023’S Hot Tweets Uncovered</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-strategies-for-itunes-podcast-enrollment-success/"><u>[New] Strategies for iTunes Podcast Enrollment Success</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-backward-glimpse-reverse-video-tips/"><u>[Updated] Instagram's Backward Glimpse Reverse Video Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-navigate-hdri-windows-powered-editing-wonders/"><u>[Updated] Navigate HDRI Windows-Powered Editing Wonders</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transforming-social-interactions-on-xbox-mastering-zoom/"><u>[Updated] Transforming Social Interactions on Xbox Mastering Zoom</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-moment-in-vr-infinity/"><u>[Updated] Ultimate Moment in VR Infinity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-mastering-audio-transitions-in-premiere-pro/"><u>2024 Approved Mastering Audio Transitions in Premiere Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-to-effortlessly-attain-professional-graphic-content/"><u>2024 Approved Techniques to Effortlessly Attain Professional Graphic Content</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-list-of-filmmaking-gear-for-newcomers/"><u>2024 Approved The Essential List of Filmmaking Gear for Newcomers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-comparing-charge-levels-one-through-three-in-evs/"><u>Comprehensive Guide to Comparing Charge Levels One Through Three in EVs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210615835-9781612122014-dorm-room-feng-shui/"><u>Dorm Room Feng Shui | Free Book</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-15-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 15?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/immortalizing-moments-live-photo-to-dynamic-video/"><u>Immortalizing Moments Live Photo to Dynamic Video</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/instagram-live-maintaining-privacy-while-streaming/"><u>Instagram Live Maintaining Privacy While Streaming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-world-of-srt-files-on-youtube-and-twitter-for-2024/"><u>Navigating the World of SRT Files on YouTube and Twitter for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-complete-checklist-for-internet-broadcast-preservation-for-2024/"><u>The Complete Checklist for Internet Broadcast Preservation for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-setting-up-a-memorable-social-media-presence-with-covers/"><u>[New] 2024 Approved Setting Up a Memorable Social Media Presence with Covers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-download-without-risks-the-pathway-to-secure-free-vlc-on-macos/"><u>[New] In 2024, Download without Risks The Pathway to Secure, Free VLC on macOS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-create-captivating-yt-thumbnails-fast/"><u>[Updated] Create Captivating YT Thumbnails Fast!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-easy-steps-to-extract-instagram-video-files-from-pcmac-for-2024/"><u>[Updated] Easy Steps to Extract Instagram Video Files From PC/Mac for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-mastering-video-segmentation-the-easy-fades-way/"><u>[Updated] In 2024, Mastering Video Segmentation The Easy Fades Way</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-poco-f5-pro-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Poco F5 Pro 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-experience-boost-your-sites-performance/"><u>Cookiebot-Enhanced Experience: Boost Your Site's Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-experience-personalized-navigation-and-insights/"><u>Cookiebot-Enhanced: Experience Personalized Navigation and Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-your-dynamic-foundation-for-personalized-web-experiences/"><u>Cookiebot: Your Dynamic Foundation for Personalized Web Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/customized-ad-solutions-with-cutting-edge-cookie-tracking/"><u>Customized Ad Solutions with Cutting-Edge Cookie Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/customized-personalization-with-cookiebot-technology/"><u>Customized Personalization with Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/drive-traffic-with-automated-conversion-tracking-powered-by-cookiebot/"><u>Drive Traffic with Automated Conversion Tracking: Powered by Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-conversion-rates-efficiently-using-the-power-of-cookiebot-technology-for-websites/"><u>Enhance Conversion Rates Efficiently Using the Power of Cookiebot Technology for Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-website-with-cookiebot-driven-analytics-solutions/"><u>Enhance Your Website with Cookiebot-Driven Analytics Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-performance-using-the-latest-cookiebot-features/"><u>Enhanced Performance Using the Latest Cookiebot Features</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/innovative-interviews-fans-magnetism-in-audio/"><u>Innovative Interviews Fans' Magnetism in Audio</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/modest-class-video-gear-an-in-depth-review-of-vixias-hf-r800/"><u>Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1676139-9781782790587-teen-spirit-wicca/"><u>Teen Spirit Wicca | Free Book</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-smooth-conversions-top-10-free-4k-video-converters-for-2024/"><u>Updated Unlock Smooth Conversions Top 10 Free 4K Video Converters for 2024</u></a></li>
 </ul></div>
 

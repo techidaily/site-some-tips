@@ -1,7 +1,7 @@
 ---
 title: Rocky Linux Community Rallies with CIQ as Premier Backer – Exclusive Insights From ZDNet
-date: 2024-09-19 15:58:33
-updated: 2024-09-20 11:39:12
+date: 2024-12-18T21:49:33.308Z
+updated: 2024-12-21T22:16:02.917Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,31 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-glow-innovations-outshining-videos-through-design/"><u>[New] Glow Innovations Outshining Videos Through Design</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-see-it-all-your-free-selection-of-50-youtube-banners/"><u>[New] See It All - Your Free Selection of 50 YouTube Banners!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-harnessing-free-visual-content-creatively/"><u>[New] Tips for Harnessing Free Visual Content Creatively</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-shareable-moments-a-guide-to-enhanced-viewership-in-15-second-videos/"><u>[Updated] In 2024, Crafting Shareable Moments A Guide to Enhanced Viewership in 15-Second Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-prime-video-cameras-of-2024-decoded/"><u>[Updated] Prime Video Cameras of 2024 Decoded</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-strategies-for-accessing-nfl-games-online/"><u>[Updated] Top 10 Strategies for Accessing NFL Games Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-premier-list-all-time-great-general-knowledge-shows-24/"><u>2024 Approved The Premier List All-Time Great General Knowledge Shows '24</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-lava-blaze-2-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Lava Blaze 2 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-epson-l3150-driver-windows-10-8-7/"><u>Download & Update Epson L3150 Driver | Windows 10, 8, 7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-social-media-presence-with-zoom-and-fb-live/"><u>In 2024, Streamlining Your Social Media Presence with ZOOM & FB Live</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-focusing-on-roblox-elements-closeup/"><u>In 2024, The Art of Focusing on Roblox Elements Closeup</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/e-apps-for-top-notch-introduction-videos-on-iosandroid/"><u>Mobile Apps for Top-Notch Introduction Videos on iOS/Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swift-solutions-moving-iphone-pictures-and-videos-for-2024/"><u>Swift Solutions Moving iPhone Pictures & Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-gopro-hero5-time-lapse-photography-for-2024/"><u>The Ultimate Guide to GoPro Hero5 Time-Lapse Photography for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-reasons-why-the-chatgpt-desktop-version-outshines-its-web-counterpart/"><u>Top Reasons Why the ChatGPT Desktop Version Outshines Its Web Counterpart</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/unique-hybrid-displayporthdmi-interface-found-in-discontinued-piston-xi3-steam-console/"><u>Unique Hybrid DisplayPort/HDMI Interface Found in Discontinued Piston-Xi3 Steam Console</u></a></li>
+</ul></div>
+

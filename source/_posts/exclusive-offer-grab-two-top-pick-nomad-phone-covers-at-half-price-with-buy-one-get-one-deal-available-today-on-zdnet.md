@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Grab Two Top Pick Nomad Phone Covers at Half Price with 'Buy One, Get One' Deal - Available Today on ZDNet!"
-date: 2024-12-13T17:39:45.948Z
-updated: 2024-12-20T22:15:21.208Z
+date: 2024-12-15T16:12:20.358Z
+updated: 2024-12-21T20:12:23.193Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ The promo event includes all of Nomad's [iPhone cases for all models](https://sh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Nomad iPhone cases to shop during the BOGO free event
@@ -49,7 +49,7 @@ ZDNET's Editor-in-Chief Jason Hiner says that the Sport Case for iPhone is prote
 [Leather iPhone Skin View now at Nomad Goods](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fnomadgoods.com%2Fproducts%2Fleather-skin-horween-rustic-brown-iphone-13)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -98,14 +98,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-steps-for-high-quality-twitch-broadcasts/"><u>[New] 2024 Approved Essential Steps for High-Quality Twitch Broadcasts</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-techniques-for-intense-online-visualization/"><u>[New] 2024 Approved Techniques for Intense Online Visualization</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-science-behind-effective-slug-lines/"><u>[New] The Science Behind Effective Slug Lines</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-vectors-unveiled-a-novices-path-through-types-and-apps/"><u>[New] Vectors Unveiled A Novice’s Path Through Types and Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-optimal-free-tools-5-gif-to-video-conversion-websites-without-downloads/"><u>2024 Approved Optimal Free Tools 5 GIF-to-Video Conversion Websites Without Downloads</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-13-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 13 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-xiaomi-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Xiaomi Redmi Note 13 Pro 5G?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/pros-and-cons-of-switching-to-the-new-ios-17/"><u>Pros and Cons of Switching to the New iOS 17</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-ideas-for-making-your-podcast-stand-out-visually-for-2024/"><u>Top 10 Ideas for Making Your Podcast Stand Out Visually for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-foremost-zooid-beginnings-guide/"><u>[Updated] In 2024, Foremost Zooid Beginnings Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-analyzing-the-boons-and-banes-of-vr-headsets/"><u>2024 Approved Analyzing the Boons & Banes of VR Headsets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cambiar-de-mpeg4-a-avi-online-sin-coste-guia-del-siglo-xxi-con-movavi/"><u>Cambiar De MPEG4 a AVI Online Sin Coste: Guía Del Siglo XXI Con Movavi</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-apple-iphone-6-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>In 2024, Wondering the Best Alternative to Hola On Apple iPhone 6? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-70off/"><u>Movavi 動画変換ソフトの特別オファー: 限定期間で最大70%OFF!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-7-melhores-programas-de-captura-de-tela-em-windows-nativo-opcoes-livres-e-faceis-de-utilizar/"><u>Os 7 Melhores Programas De Captura De Tela Em Windows Nativo: Opções Livres E Fáceis De Utilizar</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/youtube-video-on-the-best-days-to-get-more-view-for-2024/"><u>Post Youtube Video on the Best Days to Get More View for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pngjpg-movavi/"><u>オンラインで手軽にPNGからJPGへ変換! Movaviの無料ダウンロード可能</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aviogv-movavi/"><u>オンラインでのAvi/OGVファイル変換を手軽に - 無料でMovavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Efficiency: Essential Techniques & Best Gadgets for Streamlining Your Everyday Tasks - Insights From ZDNet"
-date: 2024-09-17 17:38:29
-updated: 2024-09-20 11:55:38
+date: 2024-12-19T02:20:43.458Z
+updated: 2024-12-21T17:31:57.820Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Remember the old productivity and office suites we all used to use? I don't know
 **Also:** [**Office 365 vs Google Workspace: Which productivity suite is best**](https://www.zdnet.com/article/office-365-vs-g-suite-which-productivity-suite-is-best-for-your-business/)
 
 Before I take you through both the tools and my "process," let me point out that this stuff is different for everyone. My work these days consists far more of educating and communicating, and far less time spent living in spreadsheets than back in the days when I ran startups. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -53,6 +57,10 @@ In any case, what that means is that instead of my escalating ranking of phones,
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## First morning Gmail
 
 It's been quite a while since [I made the switch from Outlook to Gmail](https://www.zdnet.com/article/why-i-bit-the-bullet-and-finally-switched-from-outlook-to-gmail/), and I have to tell you, my productivity has improved tremendously, and after more than half a decade of use, I don't regret the move one bit. Having the exact same email interface on all my machines, with tight integration into my iPhone, iPad, and computers, has made all the difference. 
@@ -69,6 +77,10 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -78,6 +90,10 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -122,6 +138,10 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Connecting and scheduling
 
 Assuming there's nothing on fire that I've had to handle first thing, at some point during the morning, I'll switch from reading to communicating. I'll switch out of Pocket and into Gmail and work my way through my email. 
@@ -157,6 +177,10 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -237,11 +261,26 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-screen-recording-software-top-10-list/"><u>[New] Best Screen Recording Software Top 10 List</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/iy-delights-in-motion-personalized-animation-artistry/"><u>[New] DIY Delights in Motion Personalized Animation Artistry</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-optimize-content-delivery-top-12-html5-video-platforms-for-2024/"><u>[New] Optimize Content Delivery Top 12 HTML5 Video Platforms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-gopro-karma-quest-for-altitude-dominance/"><u>[New] The GoPro Karma Quest for Altitude Dominance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-enhancing-your-playtime-non-gamebar-video-recording-options/"><u>[Updated] 2024 Approved Enhancing Your Playtime Non-GameBar Video Recording Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-technicalities-of-podcast-rss-file-design/"><u>[Updated] The Technicalities of Podcast RSS File Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-velvet-vaults-2022-olympic-skaters/"><u>2024 Approved Velvet Vaults 2022 Olympic Skaters</u></a></li>
+<li><a href="https://article-posts.techidaily.com/complete-scrutiny-gopro-silver-hero4-version-for-2024/"><u>Complete Scrutiny GoPro Silver Hero4 Version for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-top-techniques-for-vhs-image-transformation/"><u>In 2024, Unveiling Top Techniques for VHS Image Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-saturation-and-contrast-in-gopro-editing-for-2024/"><u>The Art of Saturation and Contrast in GoPro Editing for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-lowdown-on-the-rumored-meta-quest-3-light-potential-price-tag-release-expectations-and-specs-sneak-peek/"><u>The Lowdown on the Rumored Meta Quest 3 Light: Potential Price Tag, Release Expectations & Specs Sneak Peek</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-executable-files-windows-formats-explained-by-yl-computing/"><u>Understanding Executable Files: Windows Formats Explained by YL Computing</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Rise of Cloud Services and Potential Hurdles on the Horizon - Expert Analysis by ZDNet
-date: 2024-09-18 11:36:48
-updated: 2024-09-20 11:17:17
+date: 2024-12-20T21:36:17.975Z
+updated: 2024-12-21T23:49:44.125Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Image: Hinterhaus Productions/GETTY
 According to a recent report by tech analyst Gartner, worldwide consumer spending on public cloud services is forecast to grow 20.7% to $591.8 billion in 2023, up from $490.3 billion in 2022\. That's compared to the 18.8% growth forecast for 2022.
 
 Meanwhile, consultant [KPMG's 2022 Global Tech Report](https://assets.kpmg/content/dam/kpmg/xx/pdf/2022/09/kpmg-global-tech-report-2022.pdf) found that that nine in 10 businesses consider their adoption of cloud systems to be 'advanced', and almost three-quarters (73%) are in the process of migrating strategic workloads to the cloud. Cloud computing is now seen as a fundamental pillar of tech for many businesses. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -88,11 +92,33 @@ Regardless, the outlook for cloud professionals and other professionals in 2023 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-navigate-the-vlogiverse-6-curated-questionnaires-for-discerning-viewers/"><u>[New] Navigate the Vlogiverse 6 Curated Questionnaires for Discerning Viewers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-free-video-editing-and-effects-sites/"><u>[New] The Ultimate Guide to Free Video Editing and Effects Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thriving-livestreams-strategies-for-beginners-with-low-followers/"><u>[Updated] Thriving Livestreams Strategies for Beginners with Low Followers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-creative-potential-with-our-customized-outro-scenes-free/"><u>[Updated] Unlock Creative Potential with Our Customized Outro Scenes (Free!)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-discover-the-best-instagram-video-editors-for-mobile-devices/"><u>2024 Approved Discover the Best Instagram Video Editors for Mobile Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-expert-advice-yt-clip-sharing-using-your-google-id/"><u>2024 Approved Expert Advice YT Clip Sharing Using Your Google ID</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-mastering-movements-intova-xs-video-excellence/"><u>2024 Approved Mastering Movements Intova X's Video Excellence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-lost-reddit-content-instant-access-techniques/"><u>2024 Approved Unveiling Lost Reddit Content Instant Access Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-script-to-screen-effective-editing-on-windows-10-for-filmmakers/"><u>From Script to Screen Effective Editing on Windows 10 for Filmmakers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-sensational-screens-the-top-10-tech-for-live-recordings/"><u>In 2024, Sensational Screens The Top 10 Tech for Live Recordings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-v29-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo V29 Pro Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/leading-2024-free-full-versions-of-windows-11-dvd-burning-software-top-picks-for-free-downloads/"><u>Leading 2024 Free Full Versions of Windows 11 DVD Burning Software: Top Picks for FREE Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-world-of-no-fee-visual-aids-for-2024/"><u>Navigating the World of No-Fee Visual Aids for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionizing-journeys-with-a-unique-foldable-laptop-case-the-ultimate-accessory-that-amazes-exclusive-review/"><u>Revolutionizing Journeys with a Unique Foldable Laptop Case: The Ultimate Accessory That Amazes | Exclusive Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tales-before-twilight-a-review-of-video-driven-narratives-for-2024/"><u>Tales Before Twilight A Review of Video-Driven Narratives for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-years-finest-photo-framers-and-organizers-compilation-for-2024/"><u>The Year's Finest Photo Framers & Organizers Compilation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-smooth-transitioning-from-zoom-to-fb-live-events-for-2024/"><u>Tips for Smooth Transitioning From ZOOM to FB Live Events for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/parency-in-tracking-youtube-viewers-for-2024/"><u>Transparency in Tracking YouTube Viewers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turn-out-clearer-snaps-ranking-the-most-effective-online-editors-for-2024/"><u>Turn Out Clearer Snaps Ranking the Most Effective Online Editors for 2024</u></a></li>
+</ul></div>
+

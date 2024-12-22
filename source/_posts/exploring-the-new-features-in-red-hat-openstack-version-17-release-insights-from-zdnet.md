@@ -1,7 +1,7 @@
 ---
 title: Exploring the New Features in Red Hat OpenStack Version 17 Release - Insights From ZDNet
-date: 2024-09-17 19:30:38
-updated: 2024-09-20 12:35:39
+date: 2024-12-15T02:25:21.759Z
+updated: 2024-12-22T00:41:55.316Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/6939aaf32d60114597d7aa276feeaf67b7
 solarseven/Shutterstock
 
 Some people still insist that [OpenStack](https://www.openstack.org/), the open-source Infrastructure-as-a-Service (IaaS) cloud, is dead. They are so, so wrong. By [Statista](https://www.statista.com/)'s count, [OpenStack is the most popular open-source cloud of all](https://www.statista.com/statistics/511526/worldwide-survey-private-coud-services-running-application/). And what's more important for [Red Hat](https://www.redhat.com/en) is that telecoms, such as [Verizon](https://www.verizon.com/) cellular and 5G networks, live and die by OpenStack. So, it comes as no surprise when [Red Hat rolled out Red Hat OpenStack Platform (RHOP) 17](https://www.redhat.com/en/blog/25-billion-and-counting-red-hat-openstack-platform-continues-deliver-service-providers) at Mobile World Congress in Las Vegas Wednesday, the company talked up how OpenStack and telecom work hand-in-hand. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -47,11 +51,31 @@ While the new RHOP will appeal mostly to telecoms, it remains a solid platform f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-optimizing-facebooks-broadcast-platform-with-360-vids/"><u>[New] In 2024, Optimizing Facebook's Broadcast Platform with 360 Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-pros-choice-a-list-of-17-superior-video-to-text-converters/"><u>[New] The Pro's Choice A List of 17 Superior Video-to-Text Converters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-digital-image-preservation/"><u>[Updated] 2024 Approved Mastering the Art of Digital Image Preservation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-striding-forward-a-comprehensive-review-of-vr-walkers/"><u>[Updated] Striding Forward A Comprehensive Review of VR Walkers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-android-games-funimate-pro-apk-deep-dive/"><u>[Updated] Unlock Android Games - Funimate Pro APK Deep Dive</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-a-guide-to-pinpointing-posted-videos-in-fb-groups/"><u>2024 Approved A Guide to Pinpointing Posted Videos in FB Groups</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-syma-x5c-exposed-perfect-pick-for-novice-aerial-enthusiasts/"><u>2024 Approved Syma X5C Exposed Perfect Pick for Novice Aerial Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-meme-gurus-list-of-the-best-designs-10/"><u>2024 Approved The Meme Guru's List of the Best Designs #10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-guide-to-online-image-editing-and-cropping/"><u>2024 Approved The Photographer's Guide to Online Image Editing and Cropping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-of-canon-timelapse-crafting/"><u>2024 Approved Unveiling the Secrets of Canon Timelapse Crafting</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-sony-xperia-1-v-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Sony Xperia 1 V</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/guide-for-social-media-savvy-content-sharers/"><u>Guide for Social Media Savvy Content Sharers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-to-stellar-video-youtube-studio-edition/"><u>In 2024, Step-by-Step to Stellar Video YouTube Studio Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-checklist-to-prepare-your-zoom-room/"><u>In 2024, The Ultimate Checklist to Prepare Your Zoom Room</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transformative-talk-20-phrases-that-drive-business-growth/"><u>In 2024, Transformative Talk 20 Phrases That Drive Business Growth</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-audio-to-video-conversion-for-youtube-fans/"><u>Rapid Audio-to-Video Conversion for YouTube Fans</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-does-fallout-3-halt-on-windows-10-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Does Fallout 3 Halt on Windows 10 and How to Fix It?</u></a></li>
+</ul></div>
+

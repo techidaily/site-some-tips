@@ -1,7 +1,7 @@
 ---
 title: Create Your Own Kanban Board From Google Tasks Using TaskBoard - Insights & Tips From ZDNet
-date: 2024-09-19 17:59:39
-updated: 2024-09-20 10:37:10
+date: 2024-12-19T03:36:53.576Z
+updated: 2024-12-22T03:19:08.568Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-ten-practical-ways-to-prevent-vr-sickness/"><u>[New] Ten Practical Ways to Prevent VR Sickness</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-producing-high-quality-hdr-photographs-with-lightroom/"><u>[New] Tips for Producing High-Quality HDR Photographs with Lightroom</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-enhancing-zooms-visual-clarity-tips-and-tricks/"><u>[Updated] Enhancing Zoom's Visual Clarity Tips and Tricks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-capturing-hulu-live-anywhere-a-practical-how-to-manual/"><u>[Updated] In 2024, Capturing Hulu Live Anywhere - A Practical How-To Manual</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-shareable-humorous-content/"><u>[Updated] The Essence of Shareable Humorous Content</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/audew-portable-air-compressor-pump-review/"><u>Audew Portable Air Compressor Pump Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722962965398-expert-guide-smooth-installation-of-latest-epson-drivers-on-windows-systems/"><u>Expert Guide: Smooth Installation of Latest Epson Drivers on Windows Systems.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-site-links-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - Site Links</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/how-to-retrieve-crisp-soundtracks-from-youtube-without-compromising-quality/"><u>How to Retrieve Crisp Soundtracks From YouTube Without Compromising Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upload-like-a-pro-the-ultimate-guide-to-photo-videos-and-online-success/"><u>In 2024, Upload Like a Pro The Ultimate Guide to Photo Videos and Online Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/relicplay-compact-pocket-edition-of-yesteryears/"><u>RelicPlay Compact: Pocket Edition of Yesteryears</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-on-ripping-dvds-with-embedded-subtitles-for-enhanced-viewing/"><u>Step-by-Step Tutorial on Ripping DVDs With Embedded Subtitles for Enhanced Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-your-iphones-gif-experience-from-savings-to-showtime-for-2024/"><u>Streamlining Your iPhone's GIF Experience - From Savings to Showtime for 2024</u></a></li>
+</ul></div>
+

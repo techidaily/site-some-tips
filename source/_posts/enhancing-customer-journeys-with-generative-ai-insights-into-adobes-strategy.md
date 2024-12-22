@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Customer Journeys with Generative AI: Insights Into Adobe's Strategy"
-date: 2024-09-19 16:25:45
-updated: 2024-09-20 12:49:44
+date: 2024-12-19T02:22:21.444Z
+updated: 2024-12-21T20:53:27.470Z
 tags:
   - cloud
 categories:
@@ -21,6 +21,10 @@ If you think [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-doe
 
 We're looking at an enormous increase in the ability of businesses to meet the unique needs of individual customers, as well as an enormous increase in the capability for businesses to target those customers with psychological and demographic precision. The application of AI to marketing and sales gives a whole new meaning to the phrase "buyer beware."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [How AI is Transforming Organizations Everywhere Some of the world's most effective organizations are putting the latest AI innovations to work in smart -- and sometimes startling -- new ways. We put the spotlight on a diverse range of organizations across different parts of the economy to see how they are automating, streamlining, and transforming the ways things are done.  Read now](https://www.zdnet.com/topic/how-ai-is-transforming-organizations-everywhere/)
@@ -30,6 +34,10 @@ Rather than [general-purpose AI tools](https://www.zdnet.com/article/best-ai-cha
 **Also:** [**The 5 best AI art generators**](https://www.zdnet.com/article/best-ai-art-generator/)
 
 We'll explore what Adobe's doing with [generative AI-driven marketing](http://news.adobe.com/news/news-details/2023/Adobe-Announces-New-Sensei-GenAI-Services-to-Reimagine-End-to-End-Marketing-Workflows/default.aspx) \-- and it's big.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Customer experience management and the buyer's brain 
 
@@ -58,6 +66,10 @@ When customers interact with your company, a lot goes on inside their heads. The
 Companies that maximize the perceived pre-benefit bring in more fresh opportunities. Companies that maximize the actual value benefit reduce support costs and create potential repeat customers. And companies that maximize the post-game engagement create champions, generate word of mouth, and turn customers into fans and enthusiasts. 
 
 That end-to-end experience -- pre, purchase, and post -- constitutes the customer experience. And, all of that brings us back to Adobe's set of announcements. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Tapping the collective zeitgeist with the customer data platform 
 
@@ -100,6 +112,10 @@ Adobe is also pushing its game forward in healthcare, financial services, B2B, a
 **Prospecting, enriching, and activating with partners:** Adobe improves Real-Time CDP with partner enrichments, Amazon Ads, TikTok, and LiveRamp integrations to solve cookieless prospecting challenges for brands. 
 
 This collection of initiatives is how the customer experience and the customer data come together. Customer interactions generate more data. Real-time analytics changes the customer experience dynamically. Wash. Rinse. Repeat. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Adobe's image and text generative AI services 
 
@@ -148,11 +164,29 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-surge-video-popularity-top-youtube-seo-advice/"><u>[Updated] In 2024, Surge Video Popularity Top YouTube SEO Advice</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-professional-premiere-practices-implementing-inout-effects/"><u>[Updated] Professional Premiere Practices Implementing In/Out Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-zero-cost-image-amplifier-desktopmobile-edition/"><u>[Updated] Top Zero-Cost Image Amplifier Desktop/Mobile Edition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-10-affordable-mobile-apps-to-boost-your-images-visual-impact/"><u>2024 Approved 10 Affordable Mobile Apps to Boost Your Image's Visual Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-tune-makers-for-iphone-users/"><u>2024 Approved Superior Tune Makers for iPhone Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-mac-exclusive-free-drawing-platforms/"><u>2024 Approved Top 10 Mac-Exclusive Free Drawing Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-pci-express-pcie-gen-7-proposal-ready-eyes-set-on-official-release/"><u>Complete PCI Express (PCIe) Gen 7 Proposal Ready - Eyes Set On Official Release</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-se-2020-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-13-pro-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tamil-ringtone-downloads-essential-websites-and-tricks/"><u>In 2024, Top Tamil Ringtone Downloads Essential Websites and Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-art-of-digital-broadcasting-in-real-time/"><u>In 2024, Unveiling the Art of Digital Broadcasting in Real Time</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-voice-windows-10-audio-basics-for-2024/"><u>Unleashing Voice Windows 10 Audio Basics for 2024</u></a></li>
+</ul></div>
+

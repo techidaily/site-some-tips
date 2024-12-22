@@ -1,7 +1,7 @@
 ---
 title: "Uniting for a Clearer Sky: How Collaborative Forecasting by 180 Experts Shapes Our 'Good Enough' Weather Insights"
-date: 2024-09-18 18:12:27
-updated: 2024-09-20 10:32:52
+date: 2024-12-17T18:53:03.208Z
+updated: 2024-12-22T02:59:27.823Z
 tags:
   - cloud
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 
 What's a good enough weather prediction? That's a question most people probably don't give much thought to, as the answer seems obvious -- an accurate one. But then again, most people are not CTOs at DTN. Lars Ewe is, and his answer may be different than most people's. With 180 meteorologists on staff providing weather predictions worldwide, [DTN](https://www.dtn.com/) is the largest weather company you've probably never heard of.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best extreme weather tech: Top gear for power outages Some of us like to go off the grid, while others find themselves forced off the grid. Having the right gear can make a huge difference.  Read now](https://www.zdnet.com/article/best-extreme-weather-tech/)
@@ -20,6 +24,10 @@ What's a good enough weather prediction? That's a question most people probably 
 Case in point: DTN is not included in ForecastWatch's "[Global and Regional Weather Forecast Accuracy Overview 2017 - 2020](https://www.forecastwatch.com/wp-content/uploads/Global%5Fand%5FRegional%5FWeather%5FForecast%5FAccuracy%5FOverview%5F2017-2020.pdf)." The report rates 17 weather forecast providers according to a comprehensive set of criteria, and a thorough data collection and evaluation methodology. So how come a company that started out in the 1980s, serves a global audience, and has always had a strong focus on weather, is not evaluated?
 
 * **See also:** [**US weather, climate forecasting is about to get way better**](https://www.zdnet.com/article/us-weather-climate-forecasting-is-about-to-get-way-better/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Weather forecast as a big data and internet of things problem
 
@@ -46,6 +54,10 @@ In many regards, weather forecasting today is really a big data problem. To some
 As a consequence, producing weather predictions does not just involve the domain expertise of meteorologists, but also the work of a team of data scientists, data engineers, and machine learning/DevOps experts. Like any big data and data science task at scale, there is a trade-off between accuracy and viability.
 
 * [**Best extreme weather tech 2022: Power outage gear**](https://www.zdnet.com/home-and-office/yard-outdoors/best-extreme-weather-tech/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Good enough weather prediction at scale
 
@@ -90,11 +102,29 @@ Coming full circle, Ewe noted that DTN's attention is focused on the company's d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-directing-the-stream-choosing-between-obs-and-twitch-studio/"><u>[New] 2024 Approved Directing the Stream Choosing Between OBS and Twitch Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-monetized-critique-videos-the-truth-unveiled/"><u>[New] Monetized Critique Videos The Truth Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-places-for-accessing-gratis-graphics/"><u>[New] Top 10 Places for Accessing Gratis Graphics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-video-creation-made-simple-integrate-microsofts-movie-maker-in-win11-for-2024/"><u>[New] Video Creation Made Simple Integrate Microsoft's Movie Maker in Win11 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-chuckles-and-pixels-suite/"><u>2024 Approved Ultimate Chuckles and Pixels Suite</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-google-pixel-8-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Google Pixel 8 Pro System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-oppo-reno-8t-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Oppo Reno 8T Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-mouse-related-glitches-found-in-resident-evil-village-gameplay/"><u>Fixes for Mouse-Related Glitches Found in Resident Evil Village Gameplay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-photos-top-6-iphone-tools-for-object-elimination/"><u>In 2024, Streamline Your Photos Top 6 iPhone Tools for Object Elimination</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-encyclopedia-of-motion-sensing-types-and-applications/"><u>In 2024, The Encyclopedia of Motion Sensing Types & Applications</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-pc-vr-headsets-2023-update/"><u>In 2024, Top 10 PC VR Headsets -2023 Update</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-free-cad-programs-ranked-find-your-perfect-match-now/"><u>The Best Free CAD Programs Ranked - Find Your Perfect Match Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-packaging-a-marketing-approach-for-2024/"><u>Unraveling the Packaging A Marketing Approach for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726028027483-youtubevlc/"><u>YouTubeビデオダウンロード手順：VLCメソッドと、成功が不可能な時の解決策</u></a></li>
+</ul></div>
+

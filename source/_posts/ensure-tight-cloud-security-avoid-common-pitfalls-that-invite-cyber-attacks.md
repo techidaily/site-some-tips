@@ -1,7 +1,7 @@
 ---
 title: "Ensure Tight Cloud Security: Avoid Common Pitfalls That Invite Cyber Attacks"
-date: 2024-09-18 16:57:21
-updated: 2024-09-20 11:29:31
+date: 2024-12-18T18:58:23.520Z
+updated: 2024-12-22T04:12:46.891Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 Image: Getty Images
 
 Cloud applications and services provide access to business tools, information and software from anywhere, allowing employees to be productive whether they are [working in the office, remotely or a combination of the two](https://www.zdnet.com/article/remote-work-or-back-to-the-office-the-calculation-just-shifted-again/). Location doesn't matter; everything they need is[just in 'the cloud](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)'.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -46,6 +50,10 @@ And because the cyber criminals are using legitimate usernames and passwords to 
 
 For example, criminals could use access to a [legitimate account to take control of the user's emails and send malicious links to their contacts](https://www.zdnet.com/article/watch-out-for-this-phishing-attack-that-hijacks-your-email-chats-to-spread-malware/), which are designed to steal sensitive information, or plant malware or even ransomware. The target may not question the link because it comes from someone they know and trust. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Security
 
 * [The best VPN services of 2024: Expert tested](https://www.zdnet.com/article/best-vpn/)
@@ -66,9 +74,17 @@ Meanwhile, ransomware campaigns have also been known to [exploit exposed or impr
 
 And it isn't just common cyber criminals who've taken advantage of the rise of remote working and the increase in use of cloud applications: [state-backed hacking and cyber-espionage groups are also exploiting vulnerabilities in cloud](https://www.zdnet.com/article/microsoft-office-365-is-becoming-the-core-of-many-businesses-and-hackers-have-noticed/) as a launchpad for campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Closing the door
 
 But it doesn't have to be this way, and there are several steps that businesses can take to boost the cybersecurity of their cloud applications and software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -91,6 +107,10 @@ And it's imperative for information security teams to have a [good grasp of what
 
 Cloud services can provide significant benefits for both businesses and their employees, but it's vital that the right choices are made to ensure on-demand IT is used in a productive and secure way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -105,11 +125,33 @@ Cloud services can provide significant benefits for both businesses and their em
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-smooth-playback-on-instagram-videos-for-2024/"><u>[New] Mastering Smooth Playback on Instagram Videos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/eamlessly-incorporating-yt-clips-in-slideshows-via-ppt/"><u>[New] Seamlessly Incorporating YT Clips in Slideshows via PPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-audio-transformation-tools-unleash-voices/"><u>[New] Superior Audio Transformation Tools Unleash Voices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-money-potential-a-beginners-guide-on-periscope/"><u>[New] Unlocking Money Potential A Beginner's Guide on Periscope</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebooks-vanished-video-suggestions-explained/"><u>[Updated] 2024 Approved Facebook's Vanished Video Suggestions Explained</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-decoding-firefox-picture-in-picture-a-comprehensive-guide-for-2024/"><u>[Updated] Decoding Firefox Picture-in-Picture A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-enhancing-your-fb-video-experience-with-1080p-quality/"><u>[Updated] In 2024, Enhancing Your FB Video Experience with 1080P Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-15-advanced-techniques-in-sports-broadcasting/"><u>[Updated] Unveiling 15 Advanced Techniques in Sports Broadcasting</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-immediate-stop-of-automatic-video-capture-in-qt-player/"><u>2024 Approved Immediate Stop of Automatic Video Capture in QT Player</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-new-tech-horizon-with-microsofts-hololens-review/"><u>2024 Approved The New Tech Horizon with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-the-basics-of-motion-design/"><u>2024 Approved Understanding the Basics of Motion Design</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-watch-what-you-liked-no-more-unveiling-yt-deletions-online/"><u>2024 Approved Watch What You Liked No More Unveiling YT Deletions Online</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-to-restore-lost-documents-following-an-accidental-file-removal-by-avast-antivirus-software/"><u>How to Restore Lost Documents Following an Accidental File Removal by Avast Antivirus Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-artists-blueprint-10-tips-for-podcast-cover-success/"><u>In 2024, The Artist's Blueprint 10 Tips for Podcast Cover Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-best-selling-oculus-rift-gaming-experiences/"><u>In 2024, The Best-Selling Oculus Rift Gaming Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-power-of-montage-in-digital-media/"><u>In 2024, Unlock the Power of Montage in Digital Media</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-configuring-windows-hello/"><u>The Essential Guide to Configuring Windows Hello</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-hilarity-driven-ringtones-for-laughter-lovers-for-2024/"><u>Top Picks Hilarity-Driven Ringtones for Laughter Lovers for 2024</u></a></li>
+</ul></div>
+

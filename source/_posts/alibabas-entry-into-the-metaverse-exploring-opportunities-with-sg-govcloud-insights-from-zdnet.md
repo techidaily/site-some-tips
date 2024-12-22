@@ -1,7 +1,7 @@
 ---
 title: "Alibaba's Entry Into the Metaverse: Exploring Opportunities with SG GovCloud - Insights From ZDNet"
-date: 2024-09-18 20:33:32
-updated: 2024-09-20 10:41:17
+date: 2024-12-18T03:20:23.479Z
+updated: 2024-12-22T02:11:34.577Z
 tags:
   - cloud
 categories:
@@ -29,6 +29,10 @@ Stressing that Web3 still was evolving and its development in the early stage, X
 
 This would be centred on the need to build applications quickly on blockchain, he said, adding that Alibaba would look to push out more API services and developer toolkits to support this. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Looking to support Singapore government cloud move
 
 The Chinese cloud vendor also expressed a keen interest to participate in Singapore's efforts to move its government services to cloud platforms. 
@@ -49,6 +53,10 @@ Wang added that Alibaba's research arm Damo Academy has a team in Singapore work
 
 Xiao also pointed to Alibaba's experience in providing e-government services in China and other global markets, offering use cases that could be deployed in Singapore. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Singapore government pushes on with cloud migration](https://www.zdnet.com/article/singapore-government-pushes-on-with-cloud-migration/)
@@ -64,11 +72,30 @@ Xiao also pointed to Alibaba's experience in providing e-government services in 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/thical-approaches-to-extract-and-convert-youtube-videos-for-2024/"><u>[New] Ethical Approaches to Extract and Convert YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rom-draft-to-edit-essential-film-techniques-via-youtube-for-2024/"><u>[New] From Draft to Edit Essential Film Techniques via YouTube for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-top-15-free-budget-friendly-web-photo-editors-2023-review/"><u>[New] In 2024, Top 15 Free, Budget-Friendly Web Photo Editors - 2023 Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-ae-titles-for-striking-visual-impact/"><u>[Updated] Top AE Titles for Striking Visual Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-7-superior-video-players-on-mac/"><u>[Updated] Ultimate Guide to 7 Superior Video Players on Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-superior-console-emulation-best-ps1-games-for-your-pc/"><u>2024 Approved Superior Console Emulation Best PS1 Games for Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-20-tales-on-yt-where-to-find-the-best-storytelling/"><u>2024 Approved Top 20 Tales on YT Where to Find the Best Storytelling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-the-newest-amd-graphics-driver-packs-compatible-with-windows-11-systems/"><u>Get the Newest AMD Graphics Driver Packs Compatible with Windows 11 Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-delete-all-photos-from-iphone-se-2022-beyond-scope-of-recovery-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Delete All Photos from iPhone SE (2022) Beyond Scope of Recovery? | Stellar</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lg-smart-cam-2023-in-depth-analysis-and-updates/"><u>In 2024, LG Smart Cam 2023 In-Depth Analysis & Updates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-photos-repository-hubs/"><u>In 2024, Superior Photos Repository Hubs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-next-generation-of-social-video-periscopes-counterparts/"><u>In 2024, The Next Generation of Social Video Periscope's Counterparts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transformative-talk-20-words-to-bolster-marketing-success/"><u>In 2024, Transformative Talk 20 Words to Bolster Marketing Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-10-hidden-powers-of-photoshop-newbies/"><u>In 2024, Unveiling 10 Hidden Powers of Photoshop Newbies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-setup-adding-an-extra-thunderbolt-display-to-your-m1-mac-mini-a-simple-guide/"><u>Seamless Setup: Adding an Extra Thunderbolt Display to Your M1 Mac Mini - A Simple Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor 100 | Dr.fone</u></a></li>
+</ul></div>
+

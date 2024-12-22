@@ -1,7 +1,7 @@
 ---
 title: "1. Top 5 Critical Improvements for Android's Next Leap Against iOS Dominance: Insights From Tech Experts"
-date: 2024-12-17T22:25:10.112Z
-updated: 2024-12-20T21:05:38.632Z
+date: 2024-12-16T17:02:19.595Z
+updated: 2024-12-22T00:12:32.248Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,24 +126,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-capture-the-catch-5-pro-fish-cameras-unveiled/"><u>[New] Capture the Catch 5 Pro-Fish Cameras Unveiled</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-chill-vibes-top-idle-pc-experiences/"><u>[New] In 2024, Chill Vibes Top Idle PC Experiences</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-laughter-loops-scouring-the-best-chuckles-in-youtube-worlds/"><u>[New] In 2024, Laughter Loops Scouring the Best Chuckles in YouTube Worlds</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-into-the-unknown-how-to-start-and-flourish-as-a-travel-videographer/"><u>[Updated] 2024 Approved Into the Unknown How To Start & Flourish As a Travel Videographer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-10-uplifting-films-for-boosting-your-drive/"><u>[Updated] Top 10 Uplifting Films for Boosting Your Drive</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-top-unboxing-videos-2024-edition/"><u>[Updated] Ultimate Guide to Top Unboxing Videos - 2024 Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-masterful-digital-brushstrokes-essential-top-10-android-graphics-apps/"><u>2024 Approved Masterful Digital Brushstrokes Essential Top 10 Android Graphics Apps</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-exclusive-content-delivery-assessment/"><u>In 2024, Exclusive Content Delivery Assessment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-maximize-your-viewing-experience-with-youtube-scaling/"><u>In 2024, Maximize Your Viewing Experience with YouTube Scaling</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-overcoming-handheld-videography-instability-on-gopro/"><u>In 2024, Overcoming Handheld Videography Instability on GoPro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-compact-guide-to-joining-and-scheduling-zoom-on-your-android-phone/"><u>In 2024, The Compact Guide to Joining & Scheduling Zoom on Your Android Phone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transforming-personal-narratives-best-practices-for-video-praise/"><u>In 2024, Transforming Personal Narratives Best Practices for Video Praise</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-best-viewing-sequence-for-marvels-x-men-universe/"><u>The Best Viewing Sequence for Marvel's X-Men Universe</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-roadmap-to-becoming-an-excellent-interviewer-for-2024/"><u>The Roadmap To Becoming An Excellent Interviewer for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-smart-way-to-save-youtube-sections-for-2024/"><u>The Smart Way to Save YouTube Sections for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-8-subtitle-editors-transforming-into-srt-format-for-windows-and-macos-for-2024/"><u>Top 8 Subtitle Editors Transforming Into SRT Format for Windows & MacOS for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/trendsetting-sky-docks-for-android-users-for-2024/"><u>Trendsetting Sky Docks for Android Users for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-innovative-transitions-for-professional-videos/"><u>[New] Innovative Transitions for Professional Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-a-comprehensive-list-of-frames-to-upgrade-your-photos-on-instagram/"><u>[Updated] In 2024, A Comprehensive List of Frames to Upgrade Your Photos on Instagram</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unleash-the-potential-of-your-notes-use-mematic/"><u>[Updated] Unleash the Potential of Your Notes - Use Mematic</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-your-route-to-youtube-entrepreneurship-top-10-easy-channels/"><u>[Updated] Your Route to YouTube Entrepreneurship Top 10 Easy Channels</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-captivating-content-the-power-of-hashtagging-in-gaming-yt/"><u>2024 Approved Crafting Captivating Content The Power of Hashtagging in Gaming YT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-look-ups-top-15-luts-for-gopro-action-footage/"><u>Cutting-Edge Look-Ups Top 15 LUTs for GoPro Action Footage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-hulus-errorrununk13-heres-how-to-get-your-streams-flowing-smoothly-again/"><u>Deciphering Hulu's ERROR_RUNUNK13? Here’s How to Get Your Streams Flowing Smoothly Again</u></a></li>
+<li><a href="https://some-tips.techidaily.com/embracing-the-reality-electric-vehicle-ranges-may-remain-stable-for-now/"><u>Embracing the Reality: Electric Vehicle Ranges May Remain Stable for Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-visuals-with-our-cutting-edge-fork-of-stable-diffusion-perfect-for-creating-large-format-images-effortlessly/"><u>Enhance Your Visuals with Our Cutting-Edge Fork of Stable Diffusion, Perfect for Creating Large Format Images Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-ai-assistance-bringing-chatgpt-features-into-diverse-applications/"><u>Expanding AI Assistance: Bringing ChatGPT Features Into Diverse Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-the-future-with-taco-bells-ai-powered-drive-thru-system/"><u>Experience the Future with Taco Bell's AI-Powered Drive-Thru System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-unmatched-travel-planning-with-bings-innovative-ai-concierge/"><u>Experience Unmatched Travel Planning with Bing's Innovative AI Concierge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-creality-k1-max-how-this-3d-printer-is-changing-the-game-for-hobbyists-and-professionals-alike/"><u>Exploring the Creality K1 Max: How This 3D Printer Is Changing the Game for Hobbyists and Professionals Alike</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-innovative-strategy-behind-duckduckgos-latest-ai-powered-search-technology/"><u>Exploring the Innovative Strategy Behind DuckDuckGo's Latest AI-Powered Search Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-access-chatgpt-now-offers-customized-gpt-models-to-everyone/"><u>Free Access: ChatGPT Now Offers Customized GPT Models to Everyone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-effectively-recharge-oculus-quest-vr-controllers-a-comprehensive-tutorial/"><u>How To Effectively Recharge Oculus Quest VR Controllers - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-ready-guide-to-cropping-and-exporting-videos/"><u>Instagram-Ready Guide to Cropping & Exporting Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/motion-magic-mixtures/"><u>Motion Magic Mixtures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnet-reveals-apples-shift-from-premium-finewoven-cases-to-new-partnership-with-beats-audio-branding/"><u>ZDnet Reveals Apple's Shift From Premium FineWoven Cases to New Partnership with Beats Audio Branding</u></a></li>
 </ul></div>
 

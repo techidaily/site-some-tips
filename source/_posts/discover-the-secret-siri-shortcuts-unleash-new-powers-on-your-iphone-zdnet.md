@@ -1,7 +1,7 @@
 ---
 title: "Discover the Secret Siri Shortcuts: Unleash New Powers on Your iPhone | ZDNet"
-date: 2024-12-19T03:46:21.476Z
-updated: 2024-12-21T03:44:56.155Z
+date: 2024-12-18T00:35:57.938Z
+updated: 2024-12-21T19:00:13.453Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ As many have come to know, iPhones are amazingly powerful little computers. Many
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -35,7 +35,7 @@ Voice dictation is another voice input mode. This is most often initiated by tap
 As it turns out, though, there's an incredibly powerful voice input mode that's hidden from most users because it's turned off by default. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Introducing Voice Control
@@ -57,7 +57,7 @@ You can say things like "tap number" or "pan up number", "swipe left" with an it
 To find out what commands work with Voice Control, start by saying, "What can I say?" iMore has an [excellent comprehensive list of all the commands](https://www.imore.com/everything-you-can-do-voice-control-iphone-and-ipad). Just point your browser there to see all that's available. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Enabling Voice Control on your phone
@@ -67,7 +67,7 @@ Not only is Voice Control not turned on by default, but the code that runs Voice
 You'll know Voice Control is enabled when there's a little blue microphone icon at the top of your screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Additional features
@@ -110,18 +110,24 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-effective-youtube-card-usage-guide-for-2024/"><u>[Updated] Effective YouTube Card Usage Guide for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-color-contrast-reimagined-choosing-hdr-for-better-videos/"><u>[Updated] In 2024, Color Contrast Reimagined Choosing HDR for Better Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-conquer-business-the-top-12-tycoon-games-for-leaders-in-training/"><u>2024 Approved Conquer Business The Top 12 Tycoon Games for Leaders-in-Training</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-smooth-scene-transitions-with-premieres-fades/"><u>2024 Approved Smooth Scene Transitions with Premiere's Fades</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-ringtones-roundup-elite-download-hubs/"><u>2024 Approved Superior Ringtones Roundup Elite Download Hubs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-art-of-encompassing-vision/"><u>2024 Approved Unveiling the Art of Encompassing Vision</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-techniques-for-optimizing-cpu-performance-and-reducing-load-on-windows-devices/"><u>Essential Techniques for Optimizing CPU Performance and Reducing Load on Windows Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-recommended-apps-and-sites-for-photo-frames-for-2024/"><u>Expert-Recommended Apps & Sites for Photo Frames for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-essential-guide-to-top-16-free-video-enthusiasts/"><u>In 2024, Essential Guide to Top 16 Free Video Enthusiasts</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 13 Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-audio-skills-using-audacity-professionally-for-2024/"><u>Transforming Audio Skills Using Audacity Professionally for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-guide-solving-your-disc-drives-refusal-to-open/"><u>Ultimate Troubleshooting Guide: Solving Your Disc Drive's Refusal to Open</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unveiling-the-best-top-picks-for-samsung-gear-vr/"><u>Unveiling the Best Top Picks for Samsung Gear VR</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-feed-crafting-engaging-instagram-videos/"><u>[New] Elevate Your Feed Crafting Engaging Instagram Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fiscally-flourishing-through-film-reviewing-retail-relics/"><u>[New] In 2024, Fiscally Flourishing Through Film Reviewing Retail Relics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-architects-of-online-marvel-adventures-for-2024/"><u>[Updated] Architects of Online Marvel Adventures for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-youtube-creation-by-merging-media-and-music/"><u>[Updated] In 2024, Elevate Your YouTube Creation by Merging Media and Music</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-essential-distinctions-between-metaverse-and-multimeva/"><u>[Updated] In 2024, The Essential Distinctions Between Metaverse and Multimeva</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unsubscribing-from-youtube-computer-and-mobile-techniques/"><u>[Updated] Unsubscribing From Youtube Computer & Mobile Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/webmmp4-movavi/"><u>自由搜尋線上從WEBM到MP4格式切換 - 採用Movavi解答方案</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-auto-gpt-hold-its-own-without-the-power-of-gpt-a-comprehensive-review/"><u>Can Auto-GPT Hold Its Own Without the Power of GPT-# - A Comprehensive Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descubriendo-el-concepto-del-codec-explicacion-y-significado-detallado/"><u>Descubriendo El Concepto Del Códec: Explicación Y Significado Detallado</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empresa-converter-mpg-para-videos-em-wma-gratis-utilizando-a-ferramenta-on-line-do-movavi/"><u>Empresa Converter MPG Para Vídeos Em WMA Gratis, Utilizando a Ferramenta On-Line Do Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/grau-gmbhs-comprehensive-guide-to-professional-video-repair-techniques-and-tools/"><u>Grau GmbH's Comprehensive Guide to Professional Video Repair Techniques and Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-a14-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy A14 4G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-modern-controllers-with-your-laptop-140-chars/"><u>Integrating Modern Controllers with Your Laptop (140 Chars)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mka-flac-on-line/"><u>MKA FLAC 오디오 파일을 원근금지적으로 변환하는 방법: On-Line 가이드</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pbm/"><u>PBM 이미지를 원격으로 무료 바이트 스트림으로 전환하는 방법 - 모비아비</u></a></li>
+<li><a href="https://some-tips.techidaily.com/section-2c-five-similar-questions-with-solutions/"><u>Section 2C: Five Similar Questions with Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcodificar-video-de-avi-a-wmv-online-sin-coste-guia-paso-a-paso-con-movavi/"><u>Transcodificar Video De AVI a WMV Online Sin Coste: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformez-sans-frais-votre-audio-m4r-en-ogg-grace-a-movavi-online/"><u>Transformez Sans Frais Votre Audio M4R en Ogg Grâce À Movavi Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/who-are-you-really-talking-to-online-the-dead-internet-theory-explained/"><u>Who Are You Really Talking to Online? The Dead Internet Theory Explained</u></a></li>
 </ul></div>
 

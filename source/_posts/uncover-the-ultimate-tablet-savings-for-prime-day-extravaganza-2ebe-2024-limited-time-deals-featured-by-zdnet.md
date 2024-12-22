@@ -1,7 +1,7 @@
 ---
 title: Uncover the Ultimate Tablet Savings for Prime Day Extravaganza 2Ebe 2024 - Limited Time Deals Featured by ZDNet!
-date: 2024-12-19T02:15:03.997Z
-updated: 2024-12-20T18:55:13.196Z
+date: 2024-12-15T16:06:31.053Z
+updated: 2024-12-21T23:01:16.234Z
 tags:
   - apple
 categories:
@@ -23,10 +23,6 @@ While Apple deals can be elusive, Amazon still has some of the best deals we've 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Prime Day Apple deals still available
 
@@ -83,21 +79,25 @@ If you're in the market for a powerful, portable laptop, you can save $200 on a 
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JLWJK%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb417f8f6-8d15-49f8-9b25-a14268bc3874%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day AirPods deals still available
 
 * [Apple AirPods Pro (2nd Generation) for $169 (save $80)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Generation-Cancelling-Transparency-Personalized%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb417f8f6-8d15-49f8-9b25-a14268bc3874%7Cdtp&dtb=1): For a step-up in audio, you can save $80 on a pair of Apple AirPods Pro earbuds -- our pick for the [best AirPods overall](https://www.zdnet.com/article/best-airpods/).
 * [Apple AirPods (3rd Generation) for $120 (save $49)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Generation-Bluetooth-Headphones-Personalized%2Fdp%2FB0D1WXVQTN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb417f8f6-8d15-49f8-9b25-a14268bc3874%7Cdtp&dtb=1): You can save $49 on a pair of third-generation Apple AirPods.
 * [Apple AirPods Max for $395 (save $154)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNew-Apple-AirPods-Max-Blue%2Fdp%2FB08PZJN7BD%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb417f8f6-8d15-49f8-9b25-a14268bc3874%7Cdtp&dtb=1): Don't miss this rare deal for Apple's excellent over-ear headphones.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day MacBook deals still available
 
 * [Apple 2023 MacBook Pro for $1,399 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JLWJK%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb417f8f6-8d15-49f8-9b25-a14268bc3874%7Cdtp&dtb=1): If you're in the market for a powerful, portable laptop, you can save $200 on a 2023 MacBook Pro equipped with an M3 chip, 8GB of RAM, and 512GB of storage. (This is also our pick for [the best laptop you can buy](https://www.zdnet.com/article/best-laptop/).)
 * [Apple MacBook Air for $799 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb417f8f6-8d15-49f8-9b25-a14268bc3874%7Cdtp&dtb=1): If you need a budget-friendly laptop suitable for work and travel, you can save on a 2022 model with an M2 chip, 8GB of RAM, and 256GB of storage.
 * [Apple 2023 MacBook Pro for $2,050 (save $650)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-12%E2%80%91core-19%E2%80%91core%2Fdp%2FB0BSHDPX7Z%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb417f8f6-8d15-49f8-9b25-a14268bc3874%7Cdtp&dtb=1): If you need a premium laptop that will last you for years, consider this $650 discount on a MacBook Pro with top specs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prime Day AirTags deals still available
 
@@ -114,15 +114,15 @@ If you're in the market for a powerful, portable laptop, you can save $200 on a 
 * [Apple iPad Pro 13-inch (M4) for $1,749 (save $150)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-13-Inch-Landscape%2Fdp%2FB0D3J82K45%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb417f8f6-8d15-49f8-9b25-a14268bc3874%7Cdtp&dtb=1): For a top-quality iPad, consider this Pro model with a 13-inch Ultra Retina XDR display and 1TB of storage, powered by Apple's M4 chip.
 * [Apple iPad Pro 13-inch (M4) for $2,304 (save $196)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-13-Inch-Landscape%2Fdp%2FB0D3J9H49F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb417f8f6-8d15-49f8-9b25-a14268bc3874%7Cdtp&dtb=1): This iPad Pro, available with a discount of over $100, offers a 13-inch Ultra Retina XDR display, 2TB of storage space, and an M4 processor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Apple Watch deals still available
 
 * [Apple Watch Series 9 for $280 (save $119)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Smartwatch-Midnight-Aluminum-Fitness%2Fdp%2FB0CSTJML9X%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb417f8f6-8d15-49f8-9b25-a14268bc3874%7Cdtp&dtb=1): We often see sales on Apple Watches during shopping events, and this year is no exception. You can still save over $100 on an Apple Watch Series 9 -- our pick for the [best Apple Watch for most people](https://www.zdnet.com/article/best-apple-watch/).
 * [Apple Watch Series 8, GPS, 41mm for $336 (save $63)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-Midnight-Aluminum-Always%2Fdp%2FB0BDJBG74R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb417f8f6-8d15-49f8-9b25-a14268bc3874%7Cdtp&dtb=1): If you're happy with a model that is GPS only, you can save $63 on an Apple Watch Series 8 with a Midnight sports band.
 * [Apple Watch Series 8, GPS + Cellular, 45mm for $579 (save $170)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Silver-Stainless-Always%2Fdp%2FB0BDJ3FXJV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb417f8f6-8d15-49f8-9b25-a14268bc3874%7Cdtp&dtb=1): Alternatively, you can save $170 on an Apple Watch Series 8 with both GPS and cellular connectivity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Prime Day Apple deals still available
 
@@ -134,11 +134,11 @@ Adam Breeden/ZDNET
 * [Apple Magic Mouse for $88 (save $11)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Magic-Mouse-Wireless-Rechargable%2Fdp%2FB09V4LZS9S%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb417f8f6-8d15-49f8-9b25-a14268bc3874%7Cdtp&dtb=1): To go with your new trackpad, Apple's branded mouse, a sleek, modern device, is available for a small discount.
 * [Apple TV 4K for $145 (save $5 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1731227-REG%2Fapple%5Fmn893ll%5Fa%5Fapple%5Ftv%5F4k%5F3rd.html): We haven't seen many Apple TV deals during Prime Day, but if you're in the market, you can find a small discount here.
 
-## FAQs
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQs
 
 ### When is Amazon Prime Day 2024?
 
@@ -148,13 +148,13 @@ Amazon Prime Day 2024 [officially ran](https://www.zdnet.com/article/amazon-prim
 
 Apple rarely offers sales and discounts on its products, and considering the generally high price point, you might wait a while before upgrading your gear. So events such as Prime Day and Black Friday are great opportunities to save -- but discounts are often still low, with many deals we've observed offering roughly 5% to 20% off, at most. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Will iPads be on sale on Prime Day?
 
 Yes. Even after Prime Day, there are many iPad deals still live. These tablets are popular and considering how many options are now on the market -- including iPad minis, the standard iPad, and iPad Pro models -- we can reliably expect discounts to appear each year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -226,21 +226,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-leveraging-likes-and-comments-enhancing-engagement-on-instagram-stories/"><u>[New] 2024 Approved Leveraging Likes and Comments Enhancing Engagement on Instagram Stories</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-advanced-practices-for-capturing-iptv-visuals/"><u>[New] In 2024, Advanced Practices for Capturing IPTV Visuals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-sunset-symphony-cinematic-darkening-in-pro/"><u>[New] Sunset Symphony Cinematic Darkening in Pro</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-combating-content-id-blocks-on-youtube-with-knowledge/"><u>[Updated] Combating Content ID Blocks on YouTube with Knowledge</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/1716070041248-updated-in-2024-discover-the-best-mac-gif-recorders-now/"><u>[Updated] In 2024, Discover the Best Mac GIF Recorders Now!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-swift-top-tier-photo-viewing-app/"><u>[Updated] Swift Top-Tier Photo Viewing App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-for-transforming-twitter-vids-to-mp3-audios/"><u>2024 Approved Techniques for Transforming Twitter Vids to MP3 Audios</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-13-pro-maxwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone 13 Pro Max/Windows/Mac</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-steps-to-avoid-automatic-podcast-suggestions-on-spotify/"><u>In 2024, Steps to Avoid Automatic Podcast Suggestions on Spotify</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-mixing-linktree-and-tiktok-bios/"><u>In 2024, The Essential Guide to Mixing Linktree and TikTok Bios</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-professional-ringtone-designer-guide/"><u>In 2024, Top Picks Professional Ringtone Designer Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-excessive-resource-demands-from-edges-webview2/"><u>Mitigating Excessive Resource Demands From Edge's WebView2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-enable-gpu-usage-for-cyberpunk-2077-in-windows-10/"><u>Resolved: How to Enable GPU Usage for Cyberpunk 2077 in Windows 10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tips-for-sharper-images-during-zoom-calls-for-2024/"><u>Tips for Sharper Images During Zoom Calls for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unmatched-upticks-celebrating-top-10-reddit-discussions-for-2024/"><u>Unmatched Upticks Celebrating Top 10 Reddit Discussions for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-harmony-creating-engaging-and-organized-youtube-playlists/"><u>[New] 2024 Approved Effortless Harmony Creating Engaging and Organized YouTube Playlists</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-insiders-look-at-capturing-roblox-games-for-macos-users/"><u>[New] 2024 Approved The Insider's Look at Capturing Roblox Games for macOS Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-compilation-4-websites-for-ringtone-hunt/"><u>[New] The Ultimate Compilation 4 Websites for Ringtone Hunt</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ranking-the-best-identifying-the-quintessential-5-online-title-designers/"><u>[Updated] 2024 Approved Ranking the Best Identifying the Quintessential 5 Online Title Designers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-game-screens-for-ps5-and-xbox-series-x-revealed/"><u>[Updated] Top Game Screens for PS5 and Xbox Series X Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-secret-sauce-for-stellar-telegram-campaigns/"><u>2024 Approved The Secret Sauce for Stellar Telegram Campaigns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-facetune-guide-elevating-your-image-quality/"><u>2024 Approved Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-itel-a60-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Itel A60 Phone that is Locked?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x50-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor X50 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-9-proplus-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Nubia Red Magic 9 Pro+ Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi 13T Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-blueprint-for-successful-individual-podcasts/"><u>In 2024, The Blueprint for Successful Individual Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-macos-big-sur-minimum-requirements/"><u>In 2024, Understanding MacOS Big Sur Minimum Requirements</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-for-fast-and-easy-dvd-cloning-on-windows-11-pcs/"><u>Step-by-Step Tutorial for Fast and Easy DVD Cloning on Windows 11 PCs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-driver-refresh-for-logitech-sound-equipment/"><u>Swift Driver Refresh for Logitech Sound Equipment</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Slack Alerts: A Step-by-Step Guide for Your Apple Watch - Insights From ZDNet"
-date: 2024-12-14T20:11:43.949Z
-updated: 2024-12-21T03:52:28.231Z
+date: 2024-12-15T22:58:07.146Z
+updated: 2024-12-21T17:11:46.123Z
 tags:
   - apple
 categories:
@@ -45,22 +45,22 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -80,10 +80,6 @@ Screenshot by David Gewirtz/ZDNET
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -101,10 +97,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -126,12 +118,16 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -139,6 +135,10 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,14 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-maximizing-video-playback-speed-on-facebook-for-2024/"><u>[New] Maximizing Video Playback Speed on Facebook for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-obs-vs-wirecast-which-should-you-trust-for-live/"><u>2024 Approved OBS Vs. Wirecast - Which Should You Trust for Live?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/discovered-backdoor-shadowplay-controls/"><u>Discovered Backdoor: ShadowPlay Controls</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/hitting-the-high-notes-in-instagram-photography-for-2024/"><u>Hitting the High Notes in Instagram Photography for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-camera-operational-obs-challenge-won/"><u>In 2024, Camera Operational OBS Challenge Won</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamline-caption-insertion-photos-app-tutorials-for-win-11/"><u>In 2024, Streamline Caption Insertion Photos App Tutorials for WIN 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-thrill-in-the-cold-olympic-showcase-snowboarders-at-peak-performance/"><u>In 2024, Thrill in the Cold Olympic Showcase - Snowboarders at Peak Performance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-your-creativity-with-photoshops-radial-blur-and-shadow-tools/"><u>In 2024, Unlock Your Creativity with Photoshop's Radial Blur & Shadow Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-vlcs-full-potential-for-transforming-mp4-and-various-formats-for-2024/"><u>Unlocking VLC's Full Potential for Transforming MP4 & Various Formats for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-charting-the-course-visual-content-in-educational-endeavors/"><u>[New] In 2024, Charting the Course Visual Content in Educational Endeavors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-powerful-tactics-leveraging-youtube-links-for-fb-exposure/"><u>[New] Powerful Tactics Leveraging YouTube Links for FB Exposure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-ai-photo-cutting-master/"><u>[New] Superior AI Photo Cutting Master</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-key-to-smooth-segments-crossfade-logic-pro-steps/"><u>[New] The Key to Smooth Segments Crossfade Logic Pro Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-srt-journey-from-novice-to-expert/"><u>[New] The SRT Journey From Novice to Expert</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-resolve-ipadiphone-fb-video-playback-delays/"><u>[Updated] 2024 Approved Resolve iPad/iPhone FB Video Playback Delays</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-digital-dialogue-diaries-the-full-year-tweets-summary/"><u>[Updated] Digital Dialogue Diaries The Full-Year Tweets Summary</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-metaverse-expedition-leading-vr-accessories-reviewed/"><u>[Updated] Metaverse Expedition Leading VR Accessories Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveil-clarity-the-finest-10-online-editing-utilities-ranked/"><u>[Updated] Unveil Clarity The Finest 10 Online Editing Utilities Ranked</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-stepwise-protocols-for-capturing-superior-vimeo-content/"><u>2024 Approved Stepwise Protocols for Capturing Superior Vimeo Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-smooth-video-flow-from-your-photobooth-app/"><u>2024 Approved Unlock Smooth Video Flow From Your Photobooth App</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-note-30-vip-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Note 30 VIP Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-oppo-a56s-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo A56s 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-try-the-top-free-voice-modifier-for-an-edge-in-valorant/"><u>In 2024, Try the Top Free Voice Modifier for an Edge in Valorant</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-channels-to-zero-cost-image-frames/"><u>In 2024, Unveiling Channels to Zero-Cost Image Frames</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mannings-equation-uses-hydraulic-radius-to-calculate-velocity-and-discharge-in-open-channels/"><u>Manning's Equation Uses Hydraulic Radius to Calculate Velocity and Discharge in Open Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-meme-template-toolkit-for-2024/"><u>The Essential Meme Template Toolkit for 2024</u></a></li>
 </ul></div>
 

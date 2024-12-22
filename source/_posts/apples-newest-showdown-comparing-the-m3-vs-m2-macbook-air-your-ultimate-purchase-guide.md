@@ -1,7 +1,7 @@
 ---
 title: "Apple's Newest Showdown: Comparing the M3 vs M2 MacBook Air - Your Ultimate Purchase Guide"
-date: 2024-12-19T00:59:23.468Z
-updated: 2024-12-21T04:05:13.459Z
+date: 2024-12-20T18:38:33.992Z
+updated: 2024-12-22T04:26:03.903Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -56,10 +56,6 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You want the fastest Wi-Fi support available
 
 If you find yourself doing a lot of downloading for work, or you're a gamer, the MacBook Air with M3 features the new [Wi-Fi 6e standard](https://www.zdnet.com/home-and-office/networking/wi-fi-6e-the-future-of-wireless-connectivity-today-with-some-caveats/) that provides faster download speeds and lower latency -- provided you're using a Wi-Fi 6e router, of course. While you might not notice much of a difference for everyday tasks, if you do Wi-Fi-intensive tasks where latency is critical, you'll quickly appreciate the upgrade. 
@@ -71,6 +67,10 @@ One of the biggest advantages of the M3, aside from the purely technical upgrade
 **Also: [This sneaky Best Buy deal lets you snag a free MacBook Air M3 - here's how](https://www.zdnet.com/article/this-sneaky-best-buy-deal-lets-you-snag-a-near-free-macbook-air-m3-heres-how/)**
 
 The M3 MacBook Air has [full connectivity](https://www.zdnet.com/article/you-can-use-your-m3-macbook-pro-with-dual-monitors-now-just-like-the-m3-macbook-air/) for two [external monitors](https://www.zdnet.com/home-and-office/smart-office/apple-studio-display-monitor-review/), so if you frequently work with more than one monitor, it's certainly worth upgrading. There is a small catch in that you can only use two external monitors while the laptop lid is closed. So you don't get your laptop's display _and_ two monitors; you just get the monitors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want the absolute best performance
 
@@ -90,21 +90,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the M2 MacBook Air if...
 
 Cliff Joseph/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. The $100 price difference means a lot
 
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
 
@@ -113,7 +109,7 @@ Will you be mainly using your laptop for web surfing, streaming, listening to mu
 **Also:** [**I recommend this 15-inch MacBook Air to most people, and it's still $250 off**](https://www.zdnet.com/article/i-recommend-this-15-inch-macbook-air-to-most-people-and-its-still-250-off/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You're expecting the M3 to be a bigger upgrade
@@ -121,6 +117,10 @@ Will you be mainly using your laptop for web surfing, streaming, listening to mu
 If you were expecting a radical redesign with the latest MacBook, you won't get it from the M3 Air. It looks nearly identical to the M2, and aside from the anodization seal on the midnight color that reduces fingerprints, even the colors aren't anything new. The real changes are on the inside, so if you want something that simply looks like it's the latest thing, you won't get any benefit from picking the M3 over the M2\. 
 
 [Buy the M2 MacBook Air View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -156,18 +156,22 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-the-vr-lingo-core-terminology-guide/"><u>[New] 2024 Approved Mastering the VR Lingo Core Terminology Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-the-power-of-voice-notes-masterclass/"><u>[New] Unlocking the Power of Voice Notes Masterclass</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/audioadventurers-venturing-without-dacast-for-2024/"><u>AudioAdventurers Venturing Without DaCast for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-line-enhancement-for-taskmanager-windows-11/"><u>Command Line Enhancement for TaskManager (Windows 11)</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/exploring-the-consequences-how-did-the-cultural-revolution-reshape-society/"><u>Exploring the Consequences: How Did the Cultural Revolution Reshape Society?</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-poco-c65-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211323124-9798990055957-how-to-feel-like-yourself-again/"><u>How To Feel Like Yourself Again | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-handbook-for-swapping-music-libraries/"><u>In 2024, The Ultimate Handbook for Swapping Music Libraries</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-pinnacle-guide-to-uncomplicated-online-live-streams-for-2024/"><u>The Pinnacle Guide to Uncomplicated Online Live Streams for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-places-to-find-background-music-for-videos-for-2024/"><u>Top Places to Find Background Music for Videos for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/utilizing-snapchats-prominent-personalities-highlight-for-2024/"><u>Utilizing Snapchat's Prominent Personalities Highlight for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-text-workflow-in-after-effects/"><u>[New] Streamlining Text Workflow in After Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-pros-guide-to-srt-alterations-on-a-macbook/"><u>[New] The Pro's Guide to SRT Alterations on a MacBook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-zoom-calls-enhance-your-visuals-here/"><u>[New] Transforming Zoom Calls Enhance Your Visuals Here</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-frame-it-right-essential-composition-rules-for-youtube-filmmaking-for-2024/"><u>[Updated] Frame It Right Essential Composition Rules for YouTube Filmmaking for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-magix-music-maker-2024-review/"><u>[Updated] The Ultimate Guide to Magix Music Maker 2024 Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-mobile-filming-tools-for-tourists/"><u>2024 Approved Mobile Filming Tools for Tourists</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-magic-behind-the-lens-iphone-xs-groundbreayer-camera-tech/"><u>2024 Approved The Magic Behind the Lens IPhone X's Groundbreayer Camera Tech</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-u23-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does U23 support MOV videos ?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-teardown-of-orange-pis-competitor-decoding-the-power-behind-huaweis-secretive-core/"><u>Exploring the Teardown of Orange Pi's Competitor - Decoding the Power Behind Huawei's Secretive Core</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-8-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 8 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-spectrum-of-perfection-creating-stunning-hdrs-in-lightroom/"><u>In 2024, The Spectrum of Perfection Creating Stunning HDRs in Lightroom</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-budget-and-quality-the-tp-link-archer-a6-ac1200-router-stellar-speeds-for-smarter-spending/"><u>Navigating Budget & Quality: The TP-Link Archer A6 AC1200 Router - Stellar Speeds for Smarter Spending</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solving-the-chatgpt-is-currently-overloaded-issue-in-windows/"><u>Solving the 'ChatGPT Is Currently Overloaded' Issue in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-virtual-evolution-dichotomy-metaverse-and-omniverse-compared-for-2024/"><u>The Virtual Evolution Dichotomy Metaverse & Omniverse Compared for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/translating-a-webpage-in-chrome-firefox-and-edge-easily/"><u>Translating a Webpage in Chrome, Firefox and Edge, Easily!</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/upgrade-your-winx-dvd-ripper-for-mac-to-latest-full-licensed-edition-at-no-extra-cost/"><u>Upgrade Your WinX DVD Ripper for Mac to Latest Full Licensed Edition at No Extra Cost!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Escape Google Drive with This Secure & Private Decentralized Cloud Solution | ZDNet
-date: 2024-09-17 19:13:42
-updated: 2024-09-20 10:16:12
+date: 2024-12-19T23:29:30.546Z
+updated: 2024-12-22T01:07:09.106Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/85dbc25f16275276fad5f8468f096b00df
 ## Escape Google Drive with This Secure & Private Decentralized Cloud Solution | ZDNet
 
 I'm not gonna lie, I depend on Google Drive. I use it every day and have done so for a long time. At the same time, I'm always on the lookout for other services to either take the place of Drive or be used for those instances where I don't necessarily trust my data to Google. If that sounds like you, I have a service you might want to try out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -56,6 +60,10 @@ I did run into an issue with the desktop client on both Pop!\_OS Linux 22.04 and
 
 One final issue is that you have to manually create a bookmark for your Internxt local directory in your file manager. Again, that's not a dealbreaker, but it's something you'll want to know when setting up Internxt on your local machine for an efficient workflow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## My hot take
 
 Internxt isn't perfect, but it is one of the few user-friendly decentralized cloud options on the market. So if you're looking for a more secure service to meet your cloud storage needs, and you don't want to have to work through a large number of configuration options and complex setups, Internxt is a great option. Hopefully, in the future, they'll not only fix the Linux desktop app issue but add file manager integration. If Internxt were to do those two things, their service could be a serious game-changer for cloud-based storage.
@@ -81,11 +89,28 @@ Internxt isn't perfect, but it is one of the few user-friendly decentralized clo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-a-guide-to-the-best-headsets-and-goggles-in-metaverse-for-2024/"><u>[New] A Guide to the Best Headsets and Goggles in Metaverse for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-meme-playbook-no-10-essentials/"><u>[New] The Ultimate Meme Playbook No. 10 Essentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-workings-of-drones-an-introduction-for-beginners/"><u>[New] The Workings of Drones An Introduction for Beginners</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-are-you-violating-copyright-by-screenrecording-youtube/"><u>[Updated] 2024 Approved Are You Violating Copyright by ScreenRecording YouTube?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-synergizing-brands-on-video-platforms/"><u>[Updated] In 2024, Synergizing Brands on Video Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-streaming-high-quality-cricket-matches/"><u>[Updated] The Ultimate Guide to Streaming High-Quality Cricket Matches</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-xcover-7-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-clean-audio-clear-message-removing-unwanted-sounds-in-fcpx/"><u>In 2024, Clean Audio, Clear Message Removing Unwanted Sounds in FCPX</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-worlds-premier-content-creators-ranked-by-subscriber-count/"><u>In 2024, World's Premier Content Creators Ranked By Subscriber Count</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/recording-your-display-essential-tips-for-effective-screen-capture/"><u>Recording Your Display Essential Tips for Effective Screen Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taking-photos-and-posting-youtubes-complete-guidebook-for-2024/"><u>Taking Photos and Posting YouTube's Complete Guidebook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-inshot-on-pcs-and-laptops-for-2024/"><u>The Ultimate Guide to Inshot on PCs and Laptops for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/timing-the-tune-in-ideal-podcast-launches-for-2024/"><u>Timing the Tune-In Ideal Podcast Launches for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-n-a-comparative-study-for-it-pros/"><u>Unveiling Windows N: A Comparative Study for IT Pros</u></a></li>
+</ul></div>
+

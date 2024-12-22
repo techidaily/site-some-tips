@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Securing Your Early Order of iPhone 15 & Apple Watch Series 9 Ultra 2 with Exceptional Offers - Insights From ZDNet"
-date: 2024-12-15T17:22:53.867Z
-updated: 2024-12-21T05:07:26.098Z
+date: 2024-12-14T17:04:06.362Z
+updated: 2024-12-21T23:02:39.799Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here's where you can preorder the latest Apple products, as well as where to fin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone 15 and iPhone 15 Plus
@@ -45,7 +45,7 @@ Apple's entry-level iPhone models received new upgrades like a Dynamic Island di
 [PREORDER NOW Apple Store The iPhone 15 and iPhone 15 Plus are available for preorder now, starting at $799 and $899, respectively. On the Apple Store, you can also get up to $800 off on a new iPhone 15 or iPhone 15 Plus when you trade in an iPhone 11 or newer model. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the iPhone 15 and iPhone 15 Plus starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-iphone-15-128gb-blue-verizon%2F6418073.p%3FskuId%3D6418073&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon New or existing Verizon customers adding a new line on the Unlimited Ultimate plan can get up to $1,000 off the new iPhone 15 line-up when you trade in any old iPhone in any condition. If you are already a Verizon customer and are looking to upgrade, you can get up to $830 off the iPhone 15 line-up with select trade-in and select Unlimited plans. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smartphones/apple-iphone-15-announcement)[PREORDER NOW AT&T At AT&T, both new and existing customers can get the new iPhone 15 through the carrier, as long as they have an eligible trade-in. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/browse/apple/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone 15 Pro and iPhone 15 Pro Max
@@ -72,10 +72,6 @@ The new [Apple Watch Series 9](https://www.zdnet.com/article/apple-watch-series-
 
 [PREORDER NOW Apple Store The Apple Watch Series 9 is available to preorder now and will be available officially on Friday, September 22\. Pricing starts at $399. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Series 9 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series9-gps-45mm-pink-aluminum-case-with-light-pink-sport-band-s-m-pink%2F6340289.p%3FskuId%3D6340289&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Series 9 for less than $6 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/wireless-devices/smart-watches/apple-watch-series-9-announcement/)[PREORDER NOW AT&T AT&T is offering a sort of "Buy one, get one free" deal for all Apple Watches. When you buy an Apple Watch Series 9, you can get the second one for $300 off. View at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/wearables/browse/apple/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Watch Ultra 2
 
 Jason Hiner/ZDNET
@@ -86,10 +82,14 @@ Apple announced the [Apple Watch Ultra](https://www.zdnet.com/article/apple-watc
 
 [PREORDER NOW Apple Store The Apple Watch Ultra 2 is available to preorder now, and will be officially available on Friday, September 22\. It starts at $799. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[PREORDER NOW Best Buy Preorder for the Apple Watch Ultra 2 starts Friday, September 15, at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-ultra-2-gps-cellular-49mm-titanium-case-with-orange-beige-trail-loop-m-l-titanium%2F6560077.p%3FskuId%3D6560077&publisher_slug=itechdaily19598&exclusive=1)[PREORDER NOW Verizon At Verizon, you can get the new Apple Watch Ultra 2 for $14 a month when you purchase select iPhones (with qualified watch trade-in). View at Verizon](https://www.tkqlhce.com/click-9041660-15498661-1682437093000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### PREORDER NOW
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AT&T
@@ -138,18 +138,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-how-to-record-perfect-videos-in-total-quietude-for-2024/"><u>[New] How To Record Perfect Videos in Total Quietude for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-substitutes-for-winmovie-new-windows-editors/"><u>[New] Substitutes for WinMovie New Windows Editors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-top-25-mobile-editors-for-dji-filmmaking/"><u>[New] The Top 25 Mobile Editors for DJi Filmmaking</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-methods-to-revamp-grades-in-photoshop/"><u>[New] Top Methods to Revamp Grades in Photoshop</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-cyber-conference-capture-for-2024/"><u>[Updated] Cyber Conference Capture for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unique-voice-customization-for-chrome-os-5-top-cloud-audio-editors-reviewed/"><u>2024 Approved Unique Voice Customization for Chrome OS 5 Top Cloud Audio Editors Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-crypto-potential-the-ultimate-list-of-nft-engines/"><u>2024 Approved Unlocking Crypto Potential The Ultimate List of NFT Engines</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/clockwise-chronicles-apples-video-reversal-method/"><u>Clockwise Chronicles Apple's Video Reversal Method</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/imovie-windows-pc-imovie/"><u>IMovie ใน Windows: เซ็ก컬 ไส้กระแท่ก ข้อสง่�ใน PC iMovie - ทักษะลึกซาก</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-9-buzzworthy-workout-videos-that-stay-on-top-of-trends/"><u>In 2024, 9 Buzzworthy Workout Videos That Stay on Top of Trends</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-moto-g14-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola Moto G14 FRP Bypass</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-your-office-experience-discover-this-years-underrated-star-2-in-1-device-insights/"><u>Revolutionizing Your Office Experience: Discover This Year's Underrated Star 2-in-1 Device Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/subtitled-success-the-top-8-software-that-swiftly-converts-sub-to-srt-on-pcmacosx-for-2024/"><u>Subtitled Success! The Top 8 Software That Swiftly Converts SUB to SRT on PC/MacOSX for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-breaking-down-how-to-find-your-latest-watched-fb-content/"><u>[New] Breaking Down How to Find Your Latest Watched FB Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-graphic-software-showdown-acid-pros-rivalry/"><u>[New] Graphic Software Showdown ACID Pro's Rivalry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-ordinary-recordings-into-pro-level-with-audacity/"><u>[New] Transforming Ordinary Recordings Into Pro-Level With Audacity</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-50plus-cool-discord-names-to-attract-attention-in-no-time/"><u>[Updated] 2024 Approved 50+ Cool Discord Names to Attract Attention in No Time</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-logitech-webcam-filming-tips-for-clear-visuals-and-smooth-sessions/"><u>[Updated] In 2024, Logitech Webcam Filming Tips for Clear Visuals and Smooth Sessions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-your-audio-potential-pazeras-free-tool-review/"><u>[Updated] Unleash Your Audio Potential Pazera's Free Tool Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-compact-powerhouse-in-flight-dji-sparks-guide-to-aerial-selfies/"><u>2024 Approved The Compact Powerhouse in Flight DJI Spark's Guide to Aerial Selfies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unmatched-mac-streaming-discover-the-1-5-tools/"><u>2024 Approved Unmatched Mac Streaming Discover the #1-5 Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/black-ops-cold-war-update-fixes-critical-display-issue-deactivates-error-27711/"><u>Black Ops Cold War Update Fixes Critical Display Issue, Deactivates Error 27711</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hogwarts-legacy-troubleshooting-8-steps-to-ensure-smooth-startup-performance-for-gamers/"><u>Hogwarts Legacy Troubleshooting: 8 Steps to Ensure Smooth Startup Performance for Gamers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-efficient-obs-fb-streaming-techniques/"><u>In 2024, Efficient OBS-FB Streaming Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-excellent-video-capture-tools-android-edition-five-picks/"><u>In 2024, Excellent Video Capture Tools Android Edition - Five Picks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-polka-dotted-parakeet-party/"><u>In 2024, Polka-Dotted Parakeet Party</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-30-metaverse-gems-diy-meme-ideas-unleashed/"><u>In 2024, Top 30 Metaverse Gems DIY Meme Ideas Unleashed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uncover-roblox-hidden-treasures-with-zoom-techniques/"><u>In 2024, Uncover Roblox Hidden Treasures with Zoom Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-photo-editing-inserting-dates-in-images-for-2024/"><u>Mastering Photo Editing Inserting Dates in Images for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211354346--the-queens-path/"><u>The Queen's Path | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-smart-technique-for-iphone-videos-reduction-and-scaling-for-2024/"><u>The Smart Technique for iPhone Videos Reduction & Scaling for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-your-pcs-boot-issues-insights-from-yl-computing/"><u>Troubleshooting Your PC's Boot Issues - Insights From YL Computing</u></a></li>
 </ul></div>
 

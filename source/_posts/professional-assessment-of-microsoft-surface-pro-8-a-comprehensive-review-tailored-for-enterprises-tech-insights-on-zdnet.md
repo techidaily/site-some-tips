@@ -1,7 +1,7 @@
 ---
 title: "Professional Assessment of Microsoft Surface Pro 8: A Comprehensive Review Tailored for Enterprises | Tech Insights on ZDNet"
-date: 2024-12-17T16:33:14.802Z
-updated: 2024-12-20T21:37:52.740Z
+date: 2024-12-15T00:44:04.350Z
+updated: 2024-12-21T20:27:13.320Z
 tags:
   - apple
 categories:
@@ -42,19 +42,11 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -77,6 +69,10 @@ When you open the kickstand, you'll find a small door in the bottom left corner 
 You don't have to use a physical SIM card thanks to the Pro 8's support for an eSIM, but since I often switch between the Pro X and iPad Pro, I already had a dedicated SIM card with a data-only plan tied to it. 
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -101,6 +97,10 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -136,7 +136,7 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
@@ -151,10 +151,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -167,10 +163,14 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -210,20 +210,16 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-enhancing-engagement-10-must-have-tools-for-ig-gurus/"><u>[New] Enhancing Engagement 10 Must-Have Tools for IG Gurus</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-portable-battery-packs-to-keep-recording-longer/"><u>[New] Portable Battery Packs to Keep Recording Longer</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-prime-tips-for-soundless-videography-for-2024/"><u>[New] Prime Tips for Soundless Videography for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-mastering-youtube-pace-control-top-tips-for-slower-views-48-chars/"><u>[Updated] In 2024, Mastering YouTube Pace Control Top Tips for Slower Views (48 Chars)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-spots-for-classic-ringtone-downloads/"><u>[Updated] Top Spots for Classic Ringtone Downloads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-phone-personalizing-the-ios-alert-sound/"><u>2024 Approved Transform Your Phone Personalizing the iOS Alert Sound</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-showcase-surpassing-a-venerable-standard/"><u>AI Showcase: Surpassing a Venerable Standard</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-uot-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .uot file electronically</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c22-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C22 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-assortment-of-gopro-modifications/"><u>In 2024, Ultimate Assortment of Gopro Modifications</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/installing-and-utilizing-the-yay-tool-in-arch-linux-a-comprehensive-tutorial/"><u>Installing and Utilizing the Yay Tool in Arch Linux – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-permissions-unlocking-trustyinstaller-on-windows-10/"><u>Navigating Permissions: Unlocking TrustyInstaller on Windows 10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/turning-tiktok-hits-into-personal-cellphone-chimes-for-2024/"><u>Turning TikTok Hits Into Personal Cellphone Chimes for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-resource-list-open-source-imagery-sanctuary-for-2024/"><u>Ultimate Resource List Open-Source Imagery Sanctuary for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unparalleled-narratives-yt-channels-worth-watching-in-23-for-2024/"><u>Unparalleled Narratives YT Channels Worth Watching in '23 for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-easy-photo-fixes-an-introduction-to-snapseed-for-2024/"><u>[Updated] Easy Photo Fixes An Introduction to Snapseed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-noble-nine-top-dvd-creation-tools-sierra-edition/"><u>[Updated] Noble Nine Top DVD Creation Tools, Sierra Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-checklist-for-smooth-transitions/"><u>[Updated] The Ultimate Checklist for Smooth Transitions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-every-moment-top-tasks-to-master-while-listening-to-your-favorite-podcasts/"><u>[Updated] Transform Every Moment Top Tasks to Master While Listening to Your Favorite Podcasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-stop-screen-blackouts-with-obs-game-recordings/"><u>2024 Approved Stop Screen Blackouts with OBS Game Recordings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Tecno Spark Go (2024)? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/impact-of-dojs-legal-action-against-apple-consequences-for-iphone-enthusiasts-and-app-creators-techdigest/"><u>Impact of DOJ's Legal Action Against Apple: Consequences for iPhone Enthusiasts & App Creators | TechDigest</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-virtual-meetings-in-google-mail/"><u>In 2024, Streamlining Virtual Meetings in Google Mail</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-the-future-of-computing-a-look-at-2024s-most-outstanding-brand-names/"><u>Navigating the Future of Computing: A Look at 2024'S Most Outstanding Brand Names</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-3d-lut-magic-a-deep-dive-into-photoshop-for-2024/"><u>Unveiling 3D LUT Magic A Deep Dive Into Photoshop for 2024</u></a></li>
 </ul></div>
 

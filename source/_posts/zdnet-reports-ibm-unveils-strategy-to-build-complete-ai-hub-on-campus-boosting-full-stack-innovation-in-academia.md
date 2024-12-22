@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reports: IBM Unveils Strategy to Build Complete AI Hub on Campus, Boosting 'Full Stack' Innovation in Academia"
-date: 2024-09-17 17:47:20
-updated: 2024-09-20 12:17:37
+date: 2024-12-21T04:01:39.959Z
+updated: 2024-12-22T03:24:17.182Z
 tags:
   - cloud
 categories:
@@ -72,11 +72,33 @@ Under the partnership, IBM will [test](https://www.zdnet.com/article/global-play
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-best-12-motion-activated-cameras-featuring-location-tracking/"><u>[New] 2024 Approved Best 12 Motion-Activated Cameras Featuring Location Tracking</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-exploring-fantasy-realms-best-vr-games-across-devices/"><u>[New] Exploring Fantasy Realms Best VR Games Across Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-cutting-edge-techniques-for-stellar-fb-hd-video/"><u>[New] In 2024, Cutting-Edge Techniques for Stellar FB HD Video</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-real-time-broadcasting-a-beginners-guide/"><u>[New] Mastering Real-Time Broadcasting A Beginner's Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-choice-of-steadicams-for-drone-video-shootings/"><u>[New] Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-surge-in-tiktok-like-ratings-with-smart-unboxing/"><u>[New] Surge in TikTok Like Ratings with Smart Unboxing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-upgrade-your-photo-edits-the-ultimate-guide-to-pixlr-power/"><u>[New] Upgrade Your Photo Edits The Ultimate Guide to Pixlr Power</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-lg-360-degree-headset-review-next-gen-immersion/"><u>[Updated] LG 360-Degree Headset Review - Next-Gen Immersion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-perfecting-chromes-sound-best-apps-for-online-text-to-speech-transformation/"><u>[Updated] Perfecting Chrome's Sound Best Apps for Online Text-to-Speech Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-olympic-highlights-thrilling-runs-from-x-games/"><u>2024 Approved Olympic Highlights Thrilling Runs From X Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-sustainable-filmmaking-aids-at-no-charge/"><u>2024 Approved Sustainable Filmmaking Aids at No Charge</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-x-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone X Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-infinix-note-30-vip-racing-edition-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Infinix Note 30 VIP Racing Edition to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-video-editing-with-kinemaster-know-how-and-premier-online-counterparts/"><u>In 2024, Transform Video Editing with KineMaster Know-How & Premier Online Counterparts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-your-potential-for-higher-instagram-video-visibility/"><u>Unlocking Your Potential for Higher Instagram Video Visibility</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Discover Ways to Detect If Someone's Using an Apple AirTag on You: A Guide"
-date: 2024-12-19T18:09:15.747Z
-updated: 2024-12-20T16:43:05.998Z
+date: 2024-12-17T22:41:36.998Z
+updated: 2024-12-22T04:32:46.090Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ In this article, I answer a relatively common reader question: _What does it all
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Understanding the CPU
 
@@ -61,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Multiple cores can increase performance considerably for problems that can be split into parallel processes. Many modern processes work well in parallel, especially graphics, data crunching, AI, ML, and AR-related tasks. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  CPU vs. SoC
@@ -87,7 +83,7 @@ SoCs have enormous performance benefits because all the electrical impulses have
 It wasn't until SoCs could be successfully fabricated with tens of billions of transistors that they were suitable for high-performance personal computers. They can be now, so now they are. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Apple Silicon
@@ -109,6 +105,10 @@ For almost all activities, [the Apple Silicon-based Macs blow away their equival
 They're a win for Apple because the company no longer has to rely on Intel for its chips. To be fair, Apple still doesn't make its own chips. It also doesn't manufacture its own iPhones. The company relies on a vast supply chain to produce in the quantities it sells. But the company now designs its own chips for the Mac. By removing its reliance on Intel's innovation teams, Apple can engineer these components to its specific priorities. The result is apparent. 
 
 However, the Silicon transition was a win for Apple and its customers solely because of something called Rosetta 2\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Rosetta 2
 
@@ -153,7 +153,7 @@ It's a win for both developers and users when code is compiled for Apple Silicon
 I found, for example, that Rosetta-translated Chrome was OK but a bit sluggish. When I replaced that with the Apple Silicon version of Chrome, it was far faster. For help finding out which of your applications are Native, Intel, or "Universal" (meaning the application contains native code for both Intel and Apple Silicon), read "[Sluggish apps on your M1 Mac? Check this first for a possible fix](https://www.zdnet.com/article/the-first-thing-to-check-if-an-app-seems-sluggish-on-your-m1-mac/)." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  M1, M2, M3, Pro, Max, and Ultra
@@ -179,7 +179,7 @@ The M-series processors are SoCs, so memory and storage come right on the chip. 
 The sizes of the chips differ considerably. The base chip is about a quarter the size of the Max model. This makes sense because the Max crams a lot more onto its die. It got smaller between the M2 and M3 generations when the die-production process went from 5-nanometer to 3-nanometer components. But for now, it's just interesting to note that the M3 Max has 92 billion transistors, while the double-chip M2 Ultra has 134 billion transistors -- all in the space of about the size of a fingernail. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Final thoughts
@@ -222,21 +222,16 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-advanced-android-time-lapse-tips-for-professional-results/"><u>[New] In 2024, Advanced Android Time-Lapse Tips for Professional Results</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-seamless-integration-of-phone-and-pc-timelines-with-zoom-meetings/"><u>[New] In 2024, Seamless Integration of Phone & PC Timelines with Zoom Meetings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/everaging-regular-content-posts-for-enhanced-youtube-traffic-for-2024/"><u>[New] Leveraging Regular Content Posts for Enhanced YouTube Traffic for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unrivaled-vr-sets-for-aerial-adventures/"><u>[New] Unrivaled VR Sets for Aerial Adventures</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pcs-prime-screen-capture-software-ranked-1-5/"><u>[Updated] 2024 Approved PC's Prime Screen Capture Software Ranked #1-#5</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-list-empowering-film-suggestions/"><u>2024 Approved The Ultimate List Empowering Film Suggestions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-potential-ae-templates-for-aspiring-artists/"><u>2024 Approved Unleash Potential AE Templates for Aspiring Artists</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-infinix-smart-8-hd-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Infinix Smart 8 HD without App | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209309454-asus-laptop-issues-heres-a-solution-for-non-responsive-fn-keys/"><u>ASUS Laptop Issues? Here's a Solution for Non-Responsive Fn Keys!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-sound-malfunctions-in-the-thrilling-world-of-dying-light/"><u>How to Fix Sound Malfunctions in the Thrilling World of Dying Light</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-galaxy-f14-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Galaxy F14 5G?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-path-to-podcast-success-through-seo-excellence/"><u>In 2024, The Ultimate Path to Podcast Success Through SEO Excellence</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-top-5-virtual-title-designers/"><u>In 2024, Unlocking the Top 5 Virtual Title Designers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-get-your-amd-radeon-rx-6800-driver-up-and-running-for-windows-os-11-10-8-and-7/"><u>Step-by-Step: Get Your AMD Radeon RX 6800 Driver Up and Running for Windows OS (11, 10, 8 & 7)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tips-and-tricks-elevating-your-images-with-text-editing-for-2024/"><u>Tips & Tricks Elevating Your Images with Text Editing for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/trim-videos-with-flair-in-windows-11-photo-apps-for-2024/"><u>Trim Videos with Flair in Windows 11 Photo Apps for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-art-of-audio-design-in-magix-vst-2023/"><u>[New] The Art of Audio Design in Magix VST 2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-guide-to-capturing-and-editing-high-quality-slow-motion-videos-for-instagram/"><u>2024 Approved The Ultimate Guide to Capturing and Editing High-Quality Slow Motion Videos for Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-1-top-11/"><u>2024의 1위: Top 11 동영상 인코딩 소피</u></a></li>
+<li><a href="https://some-tips.techidaily.com/7-best-no-cost-dvd-players-of-202-recommended-software-list/"><u>7 Best No-Cost DVD Players of 202^! Recommended Software List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-f4v-avi/"><u>逐步指南：如何利用 Movavi 轉換器無限制地將 F4V 圖像翻轉成 AVI</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/anointing-editors-without-spending-a-dime-for-2024/"><u>Anointing Editors Without Spending a Dime for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-windows-11s-night-light-feature-failure/"><u>Fixing the Issue: Windows 11'S Night Light Feature Failure</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-x90s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo X90S Quickly? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/la-guia-definitiva-para-reducir-el-tamano-de-archivos-voluminosos-con-los-herramientas-de-compactacion-mas-eficaces/"><u>La Guía Definitiva Para Reducir El Tamaño De Archivos Voluminosos Con Los Herramientas De Compactación Más Eficaces</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-guide-to-easily-reverse-a-video-in-real-time-using-your-computer-or-going-online/"><u>Quick Guide to Easily Reverse a Video in Real-Time Using Your Computer or Going Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/save-your-device-effective-steps-to-revive-soaked-iphones-and-ipods/"><u>Save Your Device: Effective Steps to Revive Soaked iPhones & iPods</u></a></li>
 </ul></div>
 

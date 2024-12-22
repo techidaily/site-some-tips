@@ -1,7 +1,7 @@
 ---
 title: Singapore Companies Grapple with Persistent Cyber Risks - Ransomware and Phishing Exposed by ZDNet
-date: 2024-09-17 15:18:39
-updated: 2024-09-20 12:38:41
+date: 2024-12-15T19:51:19.137Z
+updated: 2024-12-21T18:25:28.839Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ CSA did note that the spike in reported cases also could be attributed to its co
 
 The cybersecurity regulator said while the number of reported ransomware incidents dipped slightly to 132, compared to 137 in 2021, such attacks remained a significant issue in Singapore and worldwide. It pointed to reports from security vendors indicating a 13% climb in ransomware incidents globally last year. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMBs remain hot ransomware targets
 
 Furthermore, figures were unlikely to reflect the full extent of such threats since [not every victim would report an attack](https://www.zdnet.com/article/ransomware-not-enough-victims-are-reporting-attacks-and-that-increases-the-threat-for-everyone/). Citing estimates from the FBI, CSA said just 20% of ransomware victims in the US sought the help of law enforcement. 
@@ -64,6 +68,10 @@ Some 81,500 [infrastructure systems](https://www.zdnet.com/article/singapore-wan
 CSA cautioned, though, that the absolute number of infected systems in the country remains high as it is a data and digital infrastructure hub. "Maintaining good cyber hygiene is crucial as users continue to connect more smart devices to the internet," the regulator said, noting that the average number of connected devices in Singapore households increased to 7 in 2021, up from 6.5 the year before. 
 
 Cobalt Strike was the leading malware family infecting locally hosted C&C (Command and Control) servers, followed by Emotet and Guloader. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Anticipated threats as AI takes form
 
@@ -111,11 +119,27 @@ Singapore also has laid out a years-long roadmap it believes will ensure its dig
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-boost-engagement-stream-live-from-twitch-embed-on-fb/"><u>[New] 2024 Approved Boost Engagement Stream Live From Twitch, Embed on FB</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-future-of-gaming-at-your-fingertips-top-10-vr-headsets-for-pc/"><u>[New] The Future of Gaming at Your Fingertips Top 10 VR Headsets for PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-vr-limitations/"><u>[New] Understanding VR Limitations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-leading-8-multimedia-apps-for-creative-phones-android-ios/"><u>[Updated] The Leading 8 Multimedia Apps for Creative Phones (Android, iOS)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-sharper-images-during-zoom-calls/"><u>2024 Approved Tips for Sharper Images During Zoom Calls</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-twilight-tales-top-hdr-sky-captures-from-leading-portals/"><u>2024 Approved Twilight Tales - Top HDR Sky Captures From Leading Portals</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-analysis-of-wechats-in-built-video-chatting-feature-a-detailed-review/"><u>Comprehensive Analysis of WeChat's In-Built Video Chatting Feature: A Detailed Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-poco-x6-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Poco X6 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-crafting-irresistible-titles/"><u>In 2024, The Ultimate Guide to Crafting Irresistible Titles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/snap-the-truth-your-manual-to-authenticity-on-instagram-for-2024/"><u>Snap the Truth Your Manual to Authenticity on Instagram for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transform-your-archive-with-instagrams-filters-an-easy-guide-for-2024/"><u>Transform Your Archive with Instagram’s Filters – An Easy Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-chatgpt-code-interpreter-its-significance-explained/"><u>Understanding the ChatGPT Code Interpreter: Its Significance Explained</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-seamless-integration-of-audios-in-next-gen-avi-updates/"><u>Updated In 2024, Seamless Integration of Audios in Next-Gen AVI Updates</u></a></li>
+</ul></div>
+

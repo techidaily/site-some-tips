@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Challenge: Modernizing Cybersecurity Expertise Amidst Outdated System Management | ZDNet"
-date: 2024-09-17 15:14:35
-updated: 2024-09-20 10:25:59
+date: 2024-12-19T03:18:04.041Z
+updated: 2024-12-21T21:14:24.614Z
 tags:
   - cloud
 categories:
@@ -42,6 +42,10 @@ Globally, 92% of cybersecurity professionals believe their organization has skil
 This demand will continue to grow as organizations incorporate AI into more processes, further driving the need for cloud computing, and the need for both skillsets, France noted. It means cybersecurity professionals will need to understand how AI is integrated and secure the applications and workflows it powers, he said. 
 
 Left unplugged, gaps in cybersecurity skills and staff will result in teams being overloaded and this can lead to oversights in addressing vulnerabilities, he cautioned. Misconfiguration and falling behind security patches are among the most common mistakes that can lead to breaches, he added. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI adoption driving the need for new skills
 
@@ -94,6 +98,10 @@ Burn further noted: "Most organizations were not prepared for the rapid migratio
 To address these requirements, she said organizations are tapping the knowledge that security operations and software development or product security teams have on infrastructure and adjusting this for the new environments. "So it's about finding the right training and upskilling resources and giving teams the time to train," she added. 
 
 "Having an underskilled team can be as risky as having an understaffed one," she said. Citing Forrester's 2022 Business Technographics survey on data security, she said companies that had six or more data breaches in the past year were more likely to report the unavailability of security employees with the right skills as one of their biggest IT security challenges in the past 12 months. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tech stacks need simplifying to ease security management
 
@@ -171,11 +179,23 @@ Few organizations, unless they have the necessary capabilities, have a collectiv
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-selection-elite-iphone-call-alerts/"><u>[New] Ultimate Selection Elite iPhone Call Alerts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-taking-the-first-steps-towards-vr-technology-mobile-based-headsets-vs-cabled-gear/"><u>[Updated] Taking the First Steps Towards VR Technology Mobile-Based Headsets Vs. Cabled Gear</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unlocking-your-content-with-vimeo-links/"><u>[Updated] Unlocking Your Content with Vimeo Links</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-premier-yt-storytelling-list-to-watch-in-the-year-ahead/"><u>2024 Approved The Premier YT Storytelling List to Watch in the Year Ahead</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-showdown-gpt-plus-against-perplexity/"><u>ChatBot Showdown: GPT Plus Against Perplexity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fade-to-black-in-premiere-pro-for-2024/"><u>Fade To Black In Premiere Pro for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/no-luck-with-roku-app-on-your-smart-tv-unlock-immediate-solutions-now/"><u>No Luck with Roku App on Your Smart TV? Unlock Immediate Solutions Now!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-iphone-file-deletion-top-software-solutions-for-wiping-personal-information/"><u>Secure iPhone File Deletion: Top Software Solutions for Wiping Personal Information</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-magic-v2-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Magic V2 Device</u></a></li>
+</ul></div>
+

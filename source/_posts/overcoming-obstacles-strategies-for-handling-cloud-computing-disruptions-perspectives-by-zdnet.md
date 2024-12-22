@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Obstacles: Strategies for Handling Cloud Computing Disruptions - Perspectives by ZDNET"
-date: 2024-09-17 23:36:59
-updated: 2024-09-20 12:28:36
+date: 2024-12-18T20:55:16.458Z
+updated: 2024-12-22T02:22:15.598Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ The proliferation of cloud means more complications when it comes to running thi
 Joe McKendrick
 
 A few years back, I helped conduct a survey in which we asked IT managers how they first learn of incidents or slowdowns in their services. The leading method was via phone calls or emails from users or customers. The second leading method was via phone calls or emails from (gulp) their top executives.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -82,11 +86,28 @@ Thurai provides the following guidelines for handling incidents:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-achieving-perfect-picture-quality-on-zoom/"><u>[New] 2024 Approved Achieving Perfect Picture Quality on Zoom</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expanding-your-audience-on-youtube-step-by-step/"><u>[New] Expanding Your Audience on Youtube Step by Step</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-iphone-photo-illumination-tricks/"><u>[New] Pro Iphone Photo Illumination Tricks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unlocking-your-potential-with-ez-grabber-software-for-2024/"><u>[New] Unlocking Your Potential with EZ Grabber Software for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-best-10-online-background-variant-software/"><u>[New] Unveiling the Best 10 Online Background Variant Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-mastering-virtual-space-essential-guidelines-9-must-know/"><u>2024 Approved Mastering Virtual Space Essential Guidelines (9 Must Know)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-professionals-guide-to-4k-monitors-spotlight-on-bl2711u-by-benq/"><u>2024 Approved The Professional's Guide to 4K Monitors - Spotlight on BL2711U by BenQ</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/combine-your-passion-for-music-and-exercise-on-the-go-with-the-garmin-vivoactive-3-tracker/"><u>Combine Your Passion for Music and Exercise on the Go with the Garmin Vivoactive 3 Tracker</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-se-2020-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone SE (2020)? Heres the Best Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-optimal-sonic-selections-android-centric/"><u>In 2024, Optimal Sonic Selections, Android-Centric</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-most-compelling-free-vfx-alternatives-for-filmmakers/"><u>In 2024, Unveiling the Most Compelling Free VFX Alternatives for Filmmakers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-soundtrack-strategy-amplifying-unboxing-content/"><u>The Soundtrack Strategy Amplifying Unboxing Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-from-tweet-vids-to-mp3-audio-files-for-2024/"><u>The Ultimate Guide From Tweet Vids to MP3 Audio Files for 2024</u></a></li>
+<li><a href="https://techidaily.com/transform-physical-cards-into-digital-key-unveiling-new-google-wallet-features/"><u>Transform Physical Cards Into Digital Key: Unveiling New Google Wallet Features</u></a></li>
+</ul></div>
+

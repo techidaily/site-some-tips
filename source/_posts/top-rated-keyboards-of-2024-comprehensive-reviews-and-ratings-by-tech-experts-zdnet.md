@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Keyboards of 2024: Comprehensive Reviews and Ratings by Tech Experts | ZDNet"
-date: 2024-12-15T21:44:23.875Z
-updated: 2024-12-21T02:02:14.090Z
+date: 2024-12-18T16:04:29.821Z
+updated: 2024-12-21T21:34:43.902Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ Cons
 * Only one height setting
 
 ## Logitech MX Keys S Wireless Keyboard
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best keyboard overall
 
@@ -134,10 +130,6 @@ Cons
 * Can feel awkward
 * Lacks backlighting
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Sculpt Ergonomic Desktop Keyboard
 
 ### Best ergonomic keyboard
@@ -170,7 +162,7 @@ Cons
 ## Razer Pro Type Ultra Keyboard
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best quiet keyboard
@@ -188,7 +180,7 @@ You can connect up to four devices at once through Bluetooth with the keyboard, 
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best keyboard?
@@ -205,6 +197,10 @@ To see how it compares, here is a look at the best keyboards.
 | Microsoft Sculpt Ergonomic Desktop Keyboard | $93      | Split design | 104                |
 | Razer Pro Type Ultra Keyboard               | $160     | Mechanical   | 104                |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which is the best keyboard for you?
 
 It can be a little tricky differentiating between the different keyboards, even when you have a list of best keyboards from which to choose. To make the decision a little easier, here are some additional considerations to help you find the best keyboard for you.
@@ -218,7 +214,7 @@ It can be a little tricky differentiating between the different keyboards, even 
 | Razer Pro Type Ultra Keyboard               | A whisper-quiet keyboard. This best keyboard won't compete for sound when you are gaming or listening to your favorite content. |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did I choose these best keyboards?
@@ -229,6 +225,10 @@ In my search for the best keyboards, I considered several different factors.
 * **Size:** There are different types of keyboards that you can buy. Compact keyboards are often at a 60%, 68%, or 75% size, while tenkeyless keyboards come in an 80% package. There are also full-size and ergonomic keyboards, like the ones seen here.
 * **Connectivity:** There are both wired and wireless keyboards available, depending on your preference.
 * **Price:** The cost of keyboards can vary significantly, depending on the model and brand that you choose. For example, the Razer and Corsair models will cost you significantly more than the Apple keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What size keyboard should you buy?
 
@@ -241,10 +241,6 @@ There are a few different types of keyboard sizes from which to choose.
 
 Buzzetta agrees, saying it's up to user preference, "You want to take into consideration the size of your hands, the size of your desk space, and what you're comfortable with. It's like a car," he explains, "You really gotta test drive it to get the complete feel."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should I buy a wired or wireless keyboard?
 
 Rosenfeld offers his advice, saying, "Wireless keyboards give you more freedom and help keep your desk clutter-free. But some folks might like the stability and reliability of a wired connection better."
@@ -253,19 +249,23 @@ Buzzetta adds, "Wired keyboards are slightly more responsive and are the best wh
 
 When picking between a wired or wireless keyboard, it's really up to you, says Rosenfeld. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How much do the best keyboards cost?
 
 The cost of keyboards can really run the gamut based on factors like manufacturer, size, type, and features. However, we found that the best keyboards that you can buy range in cost from $83 to $185, depending on the brand and model that you choose. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative best keyboards worth considering?
 
 Logitech is one of the best keyboard manufacturers that you can choose from for your new keyboard. We found many top-rated models that users love, including these models, that may also be a great fit for you.
 
 [Best wireless keyboard alternative Logitech G915 TKL Save yourself a headache by skipping the fuss of wires. This best wireless keyboard keeps things neat. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Tenkeyless-Lightspeed-Mechanical-LIGHTSYNC%2Fdp%2FB085RLZ1C4%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9038beb8-7026-425b-bdfa-e6d6a2964bc5%7Cdtp&dtb=1)[Best compact alternative Logitech MX Keys Mini If space is an issue, this best keyboard won't take up a lot of room. Users love its easy, compact design. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Minimalist-Illuminated-Bluetooth-Compatible%2Fdp%2FB098JPSVKY%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9038beb8-7026-425b-bdfa-e6d6a2964bc5%7Cdtp&dtb=1)[Best mechanical alternative Logitech MX Mechanical Keyboard If you are looking for a mechanical keyboard, Logitech makes that, too. This best mechanical keyboard comes highly recommended. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Mechanical-Illuminated-Performance-Bluetooth%2Fdp%2FB09LJWWX4Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9038beb8-7026-425b-bdfa-e6d6a2964bc5%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Meet the experts
 
@@ -318,21 +318,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-pinnaclepix-z7-pro-elevate-your-photos-dimensions/"><u>[New] PinnaclePix Z7 Pro Elevate Your Photo's Dimensions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-step-by-step-iphone-podcast-audio-enjoyment/"><u>[Updated] In 2024, Step-by-Step IPhone Podcast Audio Enjoyment</u></a></li>
-<li><a href="https://extra-information.techidaily.com/achieving-soft-sound-dissolution-in-audacity/"><u>Achieving Soft Sound Dissolution in Audacity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/descargar-y-convertir-archivos-ogm-a-formatos-de-video-en-linea-sin-coste-con-movavi/"><u>Descargar Y Convertir Archivos OGM a Formatos De Video en Línea Sin Coste Con Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discovering-the-excellence-in-photography-with-fugetek-ft-568-selfie-pro-a-thorough-review-for-tech-enthusiasts/"><u>Discovering the Excellence in Photography with Fugetek FT-568 Selfie Pro - A Thorough Review for Tech Enthusiasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/entendendo-o-formato-de-video-mov-tecnicas-para-abertura-e-conversao/"><u>Entendendo O Formato De Vídeo MOV: Técnicas Para Abertura E Conversão</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-conversion-transforming-ogm-files-into-mpeg-format-with-ease/"><u>Free Online Conversion: Transforming OGM Files Into MPEG Format with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-converter-avi-to-mp4-effortless-video-format-changing-with-movavi/"><u>Free Online Converter: AVI to MP4 - Effortless Video Format Changing with Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratuito-conversor-de-webm-para-ogv-online-moviavi/"><u>Gratuito Conversor De WebM Para OGV Online - Moviávi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/guia-paso-a-paso-para-cargar-videos-en-tiktok-desde-una-computadora/"><u>Guía Paso a Paso Para Cargar Vídeos en TikTok Desde Una Computadora</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-v29e-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo V29e Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-itel-p55-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Itel P55 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-aif-to-mov-file-transformation-no-cost-solution-by-movavi/"><u>Online AIF to MOV File Transformation: No Cost Solution by Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-more-this-season-discover-the-ultimate-list-of-neweggs-best-holiday-offers-insights/"><u>Save More This Season: Discover the Ultimate List of Newegg's Best Holiday Offers | Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/troubleshooting-and-correcting-dvd-region-mismatch-issues-for-optimal-playback/"><u>Troubleshooting and Correcting DVD Region Mismatch Issues for Optimal Playback</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-synthesizing-authenticity-two-paths-to-cloning-human-like-ai-vocalizations/"><u>Updated In 2024, Synthesizing Authenticity Two Paths to Cloning Human-Like AI Vocalizations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-download-instagram-highlights-in-2-ways-for-2024/"><u>[New] How to Download Instagram Highlights in 2 Ways for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-lens-leaders-showcase-unveiling-the-best-6-4k-dslrs/"><u>[New] Lens Leaders Showcase Unveiling the Best 6 4K DSLRs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streaming-wars-the-top-10-platforms-ranked-and-compared/"><u>[New] Streaming Wars The Top 10 Platforms Ranked and Compared</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-the-full-potential-of-your-live-streams-using-onestream/"><u>[New] Unleash the Full Potential of Your Live Streams Using OneStream</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superiorly-crafted-radio-scripts/"><u>[Updated] Superiorly Crafted Radio Scripts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-guide-to-iphone-silhouette-mastery/"><u>[Updated] The Complete Guide to iPhone Silhouette Mastery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lens-leaderships-top-ten-camera-lens-selections-for-photographers/"><u>2024 Approved Lens Leaderships Top Ten Camera Lens Selections for Photographers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-navigating-the-seo-landscape-top-keyword-research-instruments/"><u>2024 Approved Navigating the SEO Landscape Top Keyword Research Instruments</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-the-cycle-from-crashing-in-pc-a-step-by-step-solution/"><u>How To Stop The Cycle From Crashing in PC: A Step-by-Step Solution</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-y02t-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y02T Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-master-the-art-of-streaming-pick-from-the-leading-6-cost-free-and-on-demand-short-video-downloads/"><u>In 2024, Master the Art of Streaming Pick From the Leading 6 Cost-Free & On-Demand Short Video Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-science-of-motion-without-contact/"><u>In 2024, Unraveling the Science of Motion Without Contact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/studio-masterclass-in-depth-xvideostudio-report-for-2024/"><u>Studio Masterclass In-Depth XVideoStudio Report for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-2024-playbook-earning-your-keep-on-youtube-channel/"><u>The 2024 Playbook Earning Your Keep on YouTube Channel</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essentials-of-windows-11-ui/"><u>The Essentials of Windows 11 UI</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-must-play-virtual-reality-titles-for-now-for-2024/"><u>Top 8 Must-Play Virtual Reality Titles for Now for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-editing-efforts-10-text-innovations-for-2024/"><u>Top Editing Efforts 10 Text Innovations for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-top-5-best-tools-to-convert-text-to-audio-online-for-free/"><u>Updated 2024 Approved Top 5 Best Tools to Convert Text to Audio Online for Free</u></a></li>
 </ul></div>
 

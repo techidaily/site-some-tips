@@ -1,7 +1,7 @@
 ---
 title: Rocky Linux Rallies with Key Supporter - The Eminent Backing of CIQ by Seasoned Linux Enthusiasts | ZDNet
-date: 2024-09-17 13:57:10
-updated: 2024-09-20 12:56:54
+date: 2024-12-19T03:31:42.798Z
+updated: 2024-12-21T17:50:26.447Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,29 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-microsofts-hololens-journey-from-vision-to-reality/"><u>[New] Microsoft’s HoloLens Journey – From Vision to Reality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-art-of-documenting-xbox-playtime-online/"><u>[New] The Art of Documenting Xbox Playtime Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-funniest-memes-download-now/"><u>[New] The Funniest Memes, Download Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-ultimate-15-stop-motion-film-collection/"><u>[New] Unveiling the Ultimate 15 Stop-Motion Film Collection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-navigating-360-degree-video-adjustments-using-premiere-pro/"><u>[Updated] Navigating 360-Degree Video Adjustments Using Premiere Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swiftly-freeze-action-in-your-iphone-photography-journey/"><u>[Updated] Swiftly Freeze Action in Your iPhone Photography Journey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-how-to-transfer-playlists-between-music-services-a-detailed-guidance/"><u>2024 Approved How to Transfer Playlists Between Music Services – A Detailed Guidance</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-preventing-shake-in-photographic-imagery/"><u>2024 Approved Preventing Shake in Photographic Imagery</u></a></li>
+<li><a href="https://windows11.techidaily.com/connectivity-problems-windows-solutions/"><u>Connectivity Problems: Windows Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-c53-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Realme C53 Without Password?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-pc-sound-control/"><u>In 2024, Unparalleled PC Sound Control</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-content-sharing-youtube-standards-vs-creative-commons-for-2024/"><u>Navigating Content Sharing YouTube Standards Vs. Creative Commons for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nubia-z50s-pro-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nubia Z50S Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-guide-to-image-spin-on-your-windows-11-pc/"><u>The Complete Guide to Image Spin on Your Windows 11 PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unforgettable-visions-the-top-15-stop-motion-film-classics-for-2024/"><u>Unforgettable Visions The Top 15 Stop-Motion Film Classics for 2024</u></a></li>
+</ul></div>
+

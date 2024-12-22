@@ -1,7 +1,7 @@
 ---
 title: "Singapore and AWS: How an $8B Commitment Is Shaping the Future of Artificial Intelligence in Asia | CNET News"
-date: 2024-09-19 17:18:38
-updated: 2024-09-20 10:18:15
+date: 2024-12-14T20:45:08.717Z
+updated: 2024-12-22T03:43:28.461Z
 tags:
   - cloud
 categories:
@@ -50,6 +50,10 @@ As part of the launch of AI Spring, AWS announced an agreement to partner with n
 The cloud vendor also will work with industry regulator Infocomm Media Development Authority (IMDA) to develop an AI adoption program for local organizations to identify and scale AI use cases, running on Amazon AI platforms that include Amazon Q, Bedrock, and SageMaker. 
 
 Also, AWS will work with Institutes of Higher Learnings (IHLs) and schools such as the Institute of Technical Education (ITE) to train 5,000 individuals a year on AI skills over three years. Its GenAI services will be used to support teachers and students. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Aligning curriculum with GenAI
 
@@ -110,11 +114,30 @@ Cloud vendors play an important role in growing Singapore's digital economy ecos
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-aural-enhancement-for-your-inshot-clips/"><u>[New] 2024 Approved Aural Enhancement for Your Inshot Clips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-headquarters-of-virtual-reality-entertainment/"><u>[New] Headquarters of Virtual Reality Entertainment</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-seamless-fb-content-to-mp3-transfer/"><u>[Updated] 2024 Approved Seamless FB Content-to-MP3 Transfer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tips-for-creating-instagrammable-unboxing-highlights/"><u>2024 Approved Top Tips for Creating Instagrammable Unboxing Highlights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-trimming-the-bends-correcting-gopro-fish-eye-effect/"><u>2024 Approved Trimming the Bends Correcting GoPro Fish Eye Effect</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-pro-tiktok-editing-techniques/"><u>2024 Approved Ultimate Guide Pro TikTok Editing Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-iphone-x-animoji-handbook-for-seamless-experience/"><u>2024 Approved Ultimate iPhone X Animoji Handbook for Seamless Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-uncover-top-8-sites-offering-free-3d-text-psd-images-and-files/"><u>2024 Approved Uncover Top 8 Sites Offering FREE 3D Text PSD Images and Files</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-multilingual-typography-on-windows-systems/"><u>Decoding Multilingual Typography on Windows Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-m34-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy M34 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-stream-side-stacking-pewdiepies-payday-portion/"><u>In 2024, Stream-Side Stacking PewDiePie’s Payday Portion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-stock-photo-memes-and-realities/"><u>In 2024, The Ultimate Guide to Stock Photo Memes & Realities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-tech-marvels-top-picks-for-everyone/"><u>In 2024, Ultimate Tech Marvels Top Picks for Everyone</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-game-crashes-in-multiversus-now-explore-these-8-powerful-fix-techniques/"><u>Stop Game Crashes in MultiVersus Now! Explore These 8 Powerful Fix Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-most-effective-magsafe-energy-devices-for-this-year/"><u>Ultimate Guide to the Most Effective MagSafe Energy Devices for This Year</u></a></li>
+</ul></div>
+

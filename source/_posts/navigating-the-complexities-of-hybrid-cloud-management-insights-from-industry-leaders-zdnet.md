@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Complexities of Hybrid Cloud Management: Insights From Industry Leaders - ZDNet"
-date: 2024-09-18 10:13:55
-updated: 2024-09-20 12:16:38
+date: 2024-12-18T03:41:18.339Z
+updated: 2024-12-22T02:01:16.506Z
 tags:
   - cloud
 categories:
@@ -21,6 +21,10 @@ However, these are largely proprietary, making it difficult to navigate applicat
 
 "When customers think about hybrid, it's about being able to move their workloads between on-premises and public cloud as well as between \[different\] cloud platforms," Yang said in an interview with ZDNET. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cloud
 
 * [​What is digital transformation? Everything you need to know](https://www.zdnet.com/article/what-is-digital-transformation-everything-you-need-to-know-about-how-technology-is-reshaping/)
@@ -37,6 +41,10 @@ He said HPE is looking to plug the gaps and offer a "unified" experience through
 **Also:** [**How edge-to-cloud is driving the next stage of digital transformation**](https://www.zdnet.com/article/how-edge-to-cloud-is-driving-the-next-stage-of-digital-transformation/)
 
 The tech vendor is pitching its [GreenLake](https://www.zdnet.com/article/hpe-expands-greenlake-with-new-cloud-services-silicon-on-demand-and-more/) as a cloud management platform that enables businesses to manage their workloads and data across multiple public clouds, data centers, and edge networks. Its GreenLake Central provides a single, integrated control plane and self-service portal, from which customers get a unified view of their IT operations across the hybrid environments as well as monitor various metrics, including usage, security, cost, and compliance. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Private 5G networks can offer businesses more autonomy
 
@@ -59,6 +67,10 @@ For now, Yang said HPE's Singapore strategy centers around GreenLake alongside d
 When asked about the potential of generative AI such as ChatGPT, he underscored the need to look past the hype and assess its ability to scale. He noted that the compute and storage power that backs ChatGPT is significant, so there is work to be done around sustainability and optimization before it can be scaled. 
 
 There also should be focus on how the data and content that powers ChatGPT can be kept secured, he added. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### RELATED COVERAGE
 
@@ -94,11 +106,31 @@ There also should be focus on how the data and content that powers ChatGPT can b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-reinstating-focus-in-photos-a-comprehensive-guide-to-top-10-online-enhancers/"><u>[New] In 2024, Reinstating Focus in Photos A Comprehensive Guide to Top 10 Online Enhancers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mastering-high-dynamic-range-effects-in-adobes-realm-for-2024/"><u>[Updated] Mastering High Dynamic Range Effects in Adobe's Realm for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-resolving-srt-export-woes-in-adobe-premiere/"><u>[Updated] Resolving SRT Export Woes in Adobe Premiere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-pulse-of-the-population-vllo-analysis/"><u>[Updated] The Pulse of the Population VLLO Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveil-the-power-leveraging-windows-11-and-zoom-maximum/"><u>[Updated] Unveil the Power Leveraging Windows 11 and Zoom Maximum</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-getting-acquainted-with-periscope-costs-benefits-and-account-creation/"><u>2024 Approved Getting Acquainted with Periscope Costs, Benefits & Account Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-no-frills-guide-to-basic-hdr-techniques/"><u>2024 Approved The No-Frills Guide to Basic HDR Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Poco M6 Pro 4G</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-se-2022-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone SE (2022) to Android | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-a14-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy A14 4G Location | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/siege-showdowns-top-10-royale-arena-fighters/"><u>Siege Showdowns Top 10 Royale Arena Fighters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-syma-x8c-user-guide-insights-for-2024/"><u>The Syma X8C User Guide Insights for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-and-tricks-for-effortless-finding-exceptional-pexel-images-for-2024/"><u>Tips and Tricks for Effortless Finding Exceptional Pexel Images for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-frames-per-second-for-slow-clips-for-2024/"><u>Ultimate Frames Per Second for Slow Clips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ustream-live-and-comparable-platforms-for-2024/"><u>Ustream Live & Comparable Platforms for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/winning-tiktok-desktop-strategies-unveiled-for-2024/"><u>Winning TikTok Desktop Strategies Unveiled for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726225504578-flac-m4a-movavi/"><u>무료 원격 소프트웨어로 FLAC에서 M4A를 전환하는 방법 – Movavi</u></a></li>
+</ul></div>
+

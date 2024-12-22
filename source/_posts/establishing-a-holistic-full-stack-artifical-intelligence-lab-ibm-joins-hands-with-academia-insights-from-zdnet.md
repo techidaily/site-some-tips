@@ -1,7 +1,7 @@
 ---
 title: "Establishing a Holistic 'Full Stack' Artifical Intelligence Lab: IBM Joins Hands With Academia – Insights From ZDNet"
-date: 2024-09-18 15:39:42
-updated: 2024-09-20 11:44:42
+date: 2024-12-16T18:29:04.608Z
+updated: 2024-12-21T21:57:59.445Z
 tags:
   - cloud
 categories:
@@ -72,11 +72,30 @@ Under the partnership, IBM will [test](https://www.zdnet.com/article/global-play
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-pros-playbook-mastering-gameplay-logging-in-windows-10-for-2024/"><u>[New] Pro's Playbook Mastering Gameplay Logging in Windows 10 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-potential-angular-video-editing-on-your-android-device/"><u>[Updated] Unlocking Potential Angular Video Editing on Your Android Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/guided-techniques-for-tackling-stale-group-policies-on-desktops/"><u>Guided Techniques for Tackling Stale Group Policies on Desktops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immersive-viewing-ranked-10-best-mac-compatible-screens/"><u>Immersive Viewing Ranked #10, Best Mac-Compatible Screens</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-excellence-in-hd-recording-leading-screen-recorder-options/"><u>In 2024, Excellence in HD Recording Leading Screen Recorder Options</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-mastering-game-capture-windows-11-edition/"><u>In 2024, Mastering Game Capture Windows 11 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-audio-capture-methods-in-windows-11-operating-system/"><u>In 2024, Top 5 Audio Capture Methods in Windows 11 Operating System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techniques-for-softening-volume-in-logic-pro-mixing-for-2024/"><u>Techniques for Softening Volume in Logic Pro Mixing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-secret-pathway-to-premium-pristine-pictures-for-2024/"><u>The Secret Pathway to Premium, Pristine Pictures for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tips-for-meme-magic-with-kinemaster-for-2024/"><u>Top Tips for Meme Magic with KineMaster for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y27 5G | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

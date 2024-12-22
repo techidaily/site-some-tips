@@ -1,7 +1,7 @@
 ---
 title: "Capitalizing on Cloud Industry Growth Spurt: Expert Tips for Securing Winning Contracts | Insights by ZDNET"
-date: 2024-09-18 14:21:22
-updated: 2024-09-20 10:53:33
+date: 2024-12-14T22:44:26.359Z
+updated: 2024-12-22T03:48:29.312Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Photo: Joe McKendrick
 Last month, it was [disclosed](https://www.nextgov.com/emerging-tech/2022/04/nsa-re-awards-secret-10-billion-contract-amazon/366184/) that the National Security Agency re-awarded a massive and hotly contested cloud computing contract worth up to $10 billion to Amazon Web Services. 
 
 One can assume a large government agency procuring $10 billion of cloud services has quite a bit of leverage over the terms of the agreement. However, for mainstream companies, the opposite may be true -- the cloud provider holds many of the cards, in a legal or contractual sense, with terms that may come back to bite the consumer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -59,11 +63,24 @@ Cloud engagements are now the lifeblood of forward-looking enterprises seeking t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-perfect-settings-for-live-broadcasts/"><u>[New] In 2024, Perfect Settings for Live Broadcasts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-step-by-step-guide-to-youtube-shorts-excellence/"><u>2024 Approved A Step-by-Step Guide to YouTube Shorts Excellence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-time-lapse-photography-with-gopro-software/"><u>2024 Approved Streamlining Time-Lapse Photography with GoPro Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-beats-optimal-background-music-for-vids/"><u>2024 Approved Unveiling Beats Optimal Background Music for Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-top-6-head-mounts-expert-reviews-for-action-photography/"><u>2024 Approved Unveiling The Top 6 Head Mounts Expert Reviews for Action Photography</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/abbyy-solution-optimiser-les-services-de-traduction-pour-le-droit-et-la-finance/"><u>ABBYY Solution - Optimiser Les Services De Traduction Pour Le Droit Et La Finance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gradual-volume-reduction-in-studio-projects-using-logic-pro-for-2024/"><u>Gradual Volume Reduction in Studio Projects Using Logic Pro for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-path-to-efficient-workflow-learning-voice-to-text-conversion-in-ms-word/"><u>In 2024, The Path to Efficient Workflow Learning Voice-to-Text Conversion in MS Word</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unlocking-powerful-storytelling-through-screencasts/"><u>Unlocking Powerful Storytelling Through Screencasts</u></a></li>
+</ul></div>
+

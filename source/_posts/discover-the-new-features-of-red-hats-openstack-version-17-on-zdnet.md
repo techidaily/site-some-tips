@@ -1,7 +1,7 @@
 ---
 title: Discover the New Features of Red Hat's OpenStack Version 17 on ZDNet
-date: 2024-09-17 22:45:18
-updated: 2024-09-20 11:13:55
+date: 2024-12-14T19:42:22.999Z
+updated: 2024-12-21T23:21:49.322Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/6939aaf32d60114597d7aa276feeaf67b7
 solarseven/Shutterstock
 
 Some people still insist that [OpenStack](https://www.openstack.org/), the open-source Infrastructure-as-a-Service (IaaS) cloud, is dead. They are so, so wrong. By [Statista](https://www.statista.com/)'s count, [OpenStack is the most popular open-source cloud of all](https://www.statista.com/statistics/511526/worldwide-survey-private-coud-services-running-application/). And what's more important for [Red Hat](https://www.redhat.com/en) is that telecoms, such as [Verizon](https://www.verizon.com/) cellular and 5G networks, live and die by OpenStack. So, it comes as no surprise when [Red Hat rolled out Red Hat OpenStack Platform (RHOP) 17](https://www.redhat.com/en/blog/25-billion-and-counting-red-hat-openstack-platform-continues-deliver-service-providers) at Mobile World Congress in Las Vegas Wednesday, the company talked up how OpenStack and telecom work hand-in-hand. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -47,11 +51,33 @@ While the new RHOP will appeal mostly to telecoms, it remains a solid platform f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/levating-video-revenue-youtubes-path-for-2024/"><u>[New] Elevating Video Revenue YouTube's Path for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-premium-convert-mp4-to-facebook-media/"><u>[New] Premium Convert MP4 to Facebook Media</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/trategies-for-captivating-end-moments-for-2024/"><u>[New] Strategies for Captivating End Moments for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-time-taken-for-a-20mb-video-playback/"><u>[New] Time Taken for a 20MB Video Playback</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-innovative-ai-based-podcast-name-generators/"><u>[New] Top 10 Innovative AI-Based Podcast Name Generators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-in-depth-guide-best-audio-techniques-on-windows/"><u>[Updated] In-Depth Guide Best Audio Techniques on Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-quick-and-free-method-to-spot-fibs-on-your-insta-circle/"><u>[Updated] Quick & Free Method to Spot Fibs on Your Insta Circle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-synchronized-intro-editing-across-all-your-devices-this-year/"><u>[Updated] Synchronized Intro Editing Across All Your Devices This Year</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-foundation-of-motion-visualization/"><u>[Updated] Understanding the Foundation of Motion Visualization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-creativity-best-android-edits/"><u>[Updated] Unleash Creativity Best Android Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-ai-enhanced-photoshop-suite/"><u>2024 Approved Top AI Enhanced Photoshop Suite</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/fixation-on-pcl-xl-a-handy-manual/"><u>Fixation on PCL XL: A Handy Manual</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-10-4g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 10 4G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-visual-verdict-sj6-meets-xiaomis-yi-visionaries/"><u>In 2024, The Ultimate Visual Verdict SJ6 Meets Xiaomi’s Yi Visionaries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-photoshops-magic-with-image-curving/"><u>In 2024, Unraveling Photoshop’s Magic with Image Curving</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-through-auto-gpt-initialization-difficulties-a-guide-to-tackling-6-predominant-issues/"><u>Navigate Through Auto-GPT Initialization Difficulties: A Guide to Tackling 6 Predominant Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-a-dell-wireless-keyboard-expert-tips-for-restoring-connection-and-responsiveness/"><u>Reviving a Dell Wireless Keyboard: Expert Tips for Restoring Connection and Responsiveness</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-exclusion-dilemma-is-someone-hidden-on-snapchat/"><u>The Exclusion Dilemma Is Someone Hidden On Snapchat?</u></a></li>
+</ul></div>
+

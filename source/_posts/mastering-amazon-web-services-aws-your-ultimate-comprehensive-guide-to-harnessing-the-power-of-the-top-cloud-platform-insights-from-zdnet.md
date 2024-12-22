@@ -1,7 +1,7 @@
 ---
 title: "Mastering Amazon Web Services (AWS): Your Ultimate Comprehensive Guide to Harnessing the Power of the Top Cloud Platform - Insights From ZDNet"
-date: 2024-09-19 21:48:16
-updated: 2024-09-20 10:19:35
+date: 2024-12-14T21:33:02.041Z
+updated: 2024-12-21T22:57:33.211Z
 tags:
   - cloud
 categories:
@@ -115,6 +115,10 @@ Amazon is the company most associated with "the cloud," in the minds of the gene
 
 Amazon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Amazon AWS does, generally speaking 
 
 Astonishingly, Amazon as a corporation presents its own cloud business, Amazon Web Services (AWS), as a subsidiary entity — a venture on the side. In over 4,500 words of written testimony submitted by Amazon's then-CEO Bezos in July 2020 to the House Antitrust Subcommittee \[[PDF](https://www.congress.gov/116/meeting/house/110883/witnesses/HHRG-116-JU05-Wstate-BezosJ-20200729.pdf)\], ostensibly about the potentially overbearing and heavy-handed role that Amazon, Google, Facebook, and Apple play in directing the course of technology, the word "cloud" appears but twice. 
@@ -124,6 +128,10 @@ Bezos, who is planning a transition to Executive Chairman of the company in Q3 2
 **LEARN MORE:**
 
 * [Amazon founder Bezos will give CEO role to AWS leader Andy Jassy, become executive chairman](https://www.zdnet.com/article/amazon-q4-revenue-profit/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How Amazon got to this point 
 
@@ -204,6 +212,10 @@ It surprises some to learn that an AWS account is not an Amazon account with ext
 
 There are ways you can use this AWS account to launch yourself into the AWS space without much, or quite likely without any, monetary investment. For the first year of each account, AWS sets aside 750 hours of free usage per month (also known as "the entire month") of a Linux- or Windows-based **t2.micro** virtual machine instance, which is configured like a single-CPU PC with 1 GB of RAM. Using that instance as a virtual server, you're free to set up an instance of an Amazon RDS relational database with up to 20 GB of storage, plus another 5 GB of standard S3 object storage. (You'll see more about these basic services momentarily.) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Where can you learn how to use AWS? 
 
 AWS convenes its own online conference, sometimes live but always recorded, called AWSome Day, whose intent is to teach newcomers about how its services work. That conference may give you a shove in the general direction of what you think you might need to know. If you have a particular business goal in mind, and you're looking for professional instruction, AWS typically sponsors instructional courses worldwide that are conducted in training centers with professional instructors, and streamed to registered students. For example: 
@@ -234,6 +246,10 @@ Cost control is feasible, if you take the time to thoroughly train yourself on t
 Back in the days when software was manufactured, stored in inventory, and placed on retailers' shelves for display, the "platform" was the dependency that was pre-engineered into a product that made it dependent upon others, or made others dependent upon it. MS-DOS was the first truly successful commercial software platform, mostly because of the dependencies it created, and which Microsoft would later exploit more deeply with Windows. 
 
 Amazon's services are not dependent upon one another. On AWS, the platform is the fact that you're being channeled through it as your CSP. Certainly AWS offers third-party services through its [AWS Marketplace](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Faws.amazon.com%2Fmarketplace%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0e840d7e-d0c4-4c8d-917d-efb828978e29%7Cdtp&dtb=1). But this app store-like environment is presented more as a bazaar, adjacent to, though not directly connected to, the principal services Amazon produces and makes available through its cloud console. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Elastic Compute Cloud 
 
@@ -276,6 +292,10 @@ If AWS were to charge one flat fee for data retrieval — say, per megabyte down
 * [Amazon unveils automatic archive to deep storage for AWS S3, and a bevy of other storage enhancements](https://www.zdnet.com/article/amazon-unveils-automatic-archive-to-deep-storage-for-aws-s3-and-a-bevy-of-other-storage-enhancements/)
 * [AWS: S3 storage now holds over 100 trillion objects](https://www.zdnet.com/article/aws-s3-storage-now-holds-over-100-trillion-objects/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  AWS database services 
 
 Here's where Amazon adds a third turnstile to the data model: by offering database engines capable of utilizing the data stored in S3 buckets. An AWS database engine is a specialized instance type: a VM image in which the database management system is already installed. 
@@ -291,6 +311,10 @@ Since data is always being reconstructed as a matter of course, any loss of data
 **LEARN MORE:**
 
 * [AWS starts gluing the gaps between its databases](https://www.zdnet.com/article/aws-starts-gluing-the-gaps-between-its-databases/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Amazon Redshift 
 
@@ -336,6 +360,10 @@ LEARN MORE:
 * [What serverless architecture really means, and where servers enter the picture](https://www.zdnet.com/article/what-serverless-architecture-actually-means-and-where-servers-enter-the-picture/#link={)
 * [To be a microservice: How smaller parts of bigger applications could remake IT](https://www.zdnet.com/article/to-be-a-microservice-how-smaller-parts-of-bigger-applications-could-remake-it/#link={)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Amazon Elastic Container Service for Kubernetes 
 
 As Microsoft so often demonstrated during its reign as the king of the operating system, if you own the underlying platform, you can give away parts of the territory that floats on top of it, secure in the knowledge that you own the kingdom to which those islands belong. 
@@ -363,11 +391,25 @@ So if you have, say, an open source content management system compiled to run in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-insiders-guide-to-slow-motion-with-photos-and-web-tools/"><u>[New] The Insider's Guide to Slow Motion with Photos & Web Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-syma-x8c-user-guide-insights/"><u>[New] The Syma X8C User Guide Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-zoom-strategy-for-fb-live-success/"><u>[New] The Ultimate Zoom Strategy for FB Live Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-isolate-subject-a-step-by-step-guide-to-clear-borders/"><u>[Updated] In 2024, Isolate Subject – A Step-by-Step Guide to Clear Borders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-premier-livestream-services-unveiled/"><u>[Updated] Top 10 Premier Livestream Services Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-podcast-title-selection-strategies-and-examples/"><u>2024 Approved The Essential Guide to Podcast Title Selection Strategies & Examples</u></a></li>
+<li><a href="https://article-tips.techidaily.com/getting-started-with-azure-speech-to-text-service/"><u>Getting Started with Azure Speech-to-Text Service</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-x100-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo X100 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/innovative-approaches-to-powerpoint-video-capture/"><u>Innovative Approaches to PowerPoint Video Capture</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-securely-through-windows-8s-safe-mode-for-graphics-cleanup/"><u>Navigating Securely Through Windows 8’S Safe Mode for Graphics Cleanup</u></a></li>
+<li><a href="https://video-capture.techidaily.com/44ox44ot44ov44kn44od44k344on44ok44or44gr6kal6ycd44gx44op44kk44ow6ywn5lplush44ks5lplusd5a2y44gz44kl44gf44kb44gu5bcc6zaa55qe44ki44ox44ot44o844ob/"><u>プロフェッショナルに見逃しライブ配信を保存するための専門的アプローチ</u></a></li>
+</ul></div>
+

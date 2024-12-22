@@ -1,7 +1,7 @@
 ---
 title: "Navigating Change: Insights From the Latest Tech Team Reshuffles | ZDNet"
-date: 2024-09-19 16:27:46
-updated: 2024-09-20 11:35:20
+date: 2024-12-19T00:32:01.291Z
+updated: 2024-12-22T02:08:44.520Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Photo: Joe McKendrick
 As information technology staff dispersed to remote or work-at-home locations, what was the impact on initiatives such as DevOps and development? There are technology tasks that are well-suited for remote work. Still, there are other aspects of the job that still work better face to face. 
 
 That's the word from [Andy Nallappan](https://www.linkedin.com/in/nallappan/), chief technology officer and head of software business operations at Broadcom Software, one of the world's largest tech employers. I had the chance to chat with Nallappan while at Infosys' recent [Cobalt event](https://www.infosys.com/infosys-cobalt-world-tour-nyc.html), where he shared his experiences with managing a large workforce of technologists and the challenges faced over the past two years. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### executive guide
 
@@ -60,11 +64,23 @@ The important thing about corporate culture, he adds, is that it "should have cl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-top-tips-understanding-asmr-recordings/"><u>[New] 2024 Approved Top Tips Understanding ASMR Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transcription-tech-zero-fee-for-the-user/"><u>[New] Transcription Tech, Zero Fee for the User</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-create-captivating-photos-adding-motion-blur-in-photoshop/"><u>[Updated] 2024 Approved Create Captivating Photos Adding Motion Blur in Photoshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-phone-and-camera-mounts-precision-focus-tracking/"><u>[Updated] Ultimate Phone & Camera Mounts Precision Focus Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-resource-list-of-3d-fonts-online/"><u>2024 Approved Ultimate Resource List of 3D Fonts Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unboxing-opportunities-the-marketing-planning-journey/"><u>2024 Approved Unboxing Opportunities The Marketing Planning Journey</u></a></li>
+<li><a href="https://fox-links.techidaily.com/how-to-make-a-fortune-on-reddit-without-experience-top-13-methods-for-2024/"><u>How to Make a Fortune on Reddit Without Experience - Top 13 Methods for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/troubleshooting-peripheral-recognition-in-windows-a-guide-for-unseen-hardware-detection-problems-by-yl-computing-yl-software-solutions/"><u>Troubleshooting Peripheral Recognition in Windows: A Guide for Unseen Hardware Detection Problems by YL Computing | YL Software Solutions</u></a></li>
+</ul></div>
+

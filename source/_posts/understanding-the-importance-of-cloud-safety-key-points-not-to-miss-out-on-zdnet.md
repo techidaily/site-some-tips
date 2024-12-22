@@ -1,7 +1,7 @@
 ---
 title: Understanding the Importance of Cloud Safety – Key Points Not to Miss Out on (ZDNet)
-date: 2024-09-19 21:18:40
-updated: 2024-09-20 11:35:45
+date: 2024-12-20T02:03:10.536Z
+updated: 2024-12-22T03:57:08.691Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/6324954422fe0f28a7b19fa640b82e20a8
 Image: Getty
 
 As convenient as [cloud computing has become](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/), it isn't without problems. Poor cybersecurity planning for cloud applications, such as allowing users to rely on simple passwords, [failing to use multi-factor authentication](https://www.zdnet.com/article/multi-factor-authentication-use-it-for-all-the-people-that-access-your-network-all-the-time/) or [not applying patches and updates](https://www.zdnet.com/article/youve-still-not-patched-it-hackers-are-using-these-old-software-flaws-to-deliver-ransomware/), can leave you vulnerable to attacks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -46,6 +50,10 @@ The lack of understanding around configuring and securing cloud services can lea
 
 This isn't just a theoretical problem, as cases of misconfigured cloud environments exposing sensitive information are regularly uncovered. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 * [Best VPN services](https://www.zdnet.com/article/best-vpn/)
@@ -56,6 +64,10 @@ This isn't just a theoretical problem, as cases of misconfigured cloud environme
 "Organisations do not completely understand the cloud environment and a lack of expertise and skill set makes it difficult for businesses to identify and implement the right set of security controls to protect their cloud operations," says Prakash Venkata, principal within PwC's cybersecurity, risk and regulatory practice. 
 
 "Companies that seem to be ignoring cloud security altogether may be doing so due to a lack of understanding, a lack of skills and expertise, limited time due to competing corporate initiatives, or limited budget to invest in leading tools," he adds. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Security
 
@@ -76,6 +88,10 @@ If your organisation isn't on top of its cloud security strategy, it could be ea
 There are also additional steps that information security teams can take to bolster cybersecurity defences of cloud services, such as [rolling out multi-factor authentication to all users](https://www.zdnet.com/article/better-than-the-best-password-how-to-use-2fa-to-improve-your-security/). This provides an opportunity to stop and detect malicious intrusions before they happen, because even if the attacker has the correct password, the user has to confirm that it's a legitimate login attempt.
 
 "Identity access management, the ability to ensure that networks' data system services can only be accessed by by authorized parties, that's really the essential bit," says Nurse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -98,6 +114,10 @@ However, your choice of cloud service provider could make a significant differen
 
 Even when you have a cybersecurity strategy around cloud in place, that's not the end of the journey – and much like when you first start using cloud services, you can't just ignore it and hope for the best. Cybersecurity is always evolving, new threats emerge, and new strategies need to be applied to help keep networks and users as safe and secure as possible. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -112,11 +132,29 @@ Even when you have a cybersecurity strategy around cloud in place, that's not th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/udiovisual-virtuoso-capturing-emotion-in-harmony-for-2024/"><u>[New] Audiovisual Virtuoso Capturing Emotion in Harmony for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eamless-video-transfer-from-youtube-to-instagram/"><u>[New] Seamless Video Transfer From YouTube to Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-15-online-haven-for-your-favorite-ringtone-files/"><u>[New] Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-10-best-live-tv-streaming-services-with-comparison/"><u>[Updated] 10 Best Live TV Streaming Services - With Comparison</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-share-audio-waves-with-followers-on-instagram/"><u>[Updated] 2024 Approved Share Audio Waves with Followers on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-content-creation-free-tools-for-downloading-vids-online/"><u>[Updated] Unlocking Content Creation Free Tools for Downloading Vids Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-premium-free-srt-translation-websites-for-business-use/"><u>[Updated] Unveiling Premium Free SRT Translation Websites for Business Use</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-state-of-the-art-gaming-capture-systems-not-just-fbx-files/"><u>2024 Approved State-of-the-Art Gaming Capture Systems, Not Just FBX Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-strategies-to-maximize-win11-usage/"><u>2024 Approved Top Strategies to Maximize Win11 Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/archiving-acumen-covertly-concealing-zip-in-photos-win11/"><u>Archiving Acumen: Covertly Concealing ZIP in Photos (Win11)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unmasking-the-giants-of-live-broadcast-twitch-vs-youtube/"><u>In 2024, Unmasking the Giants of Live Broadcast Twitch Vs YouTube</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-slideshow-magic-on-mac-easy-video-editing-for-beginners/"><u>New In 2024, Slideshow Magic on Mac Easy Video Editing for Beginners</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-resolving-cyberpunk-2077-download-errors-on-steam/"><u>Step-by-Step Guide to Resolving Cyberpunk 2077 Download Errors on Steam</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-post-production-with-after-effects-and-luts-for-2024/"><u>Streamlining Post Production with After Effects and LUTs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-innovation-in-desktop-computers-for-2024/"><u>Ultimate Innovation in Desktop Computers for 2024</u></a></li>
+</ul></div>
+

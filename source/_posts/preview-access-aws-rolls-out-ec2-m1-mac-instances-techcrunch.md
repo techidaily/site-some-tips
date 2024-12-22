@@ -1,7 +1,7 @@
 ---
 title: "Preview Access: AWS Rolls Out EC2 M1 Mac Instances | TechCrunch"
-date: 2024-09-17 12:21:24
-updated: 2024-09-20 10:33:18
+date: 2024-12-14T20:49:36.115Z
+updated: 2024-12-22T03:10:33.438Z
 tags:
   - cloud
 categories:
@@ -52,11 +52,32 @@ The new M1 instances deliver up to 60% better price performance over the x86-bas
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unleash-the-power-of-your-devices-for-effective-fb-streaming/"><u>[Updated] 2024 Approved Unleash the Power of Your Devices for Effective FB Streaming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-a-content-schedule-the-path-to-gaining-traction-on-youtube/"><u>[Updated] In 2024, Crafting a Content Schedule The Path to Gaining Traction on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-innovative-template-packs-for-effective-business-communications/"><u>[Updated] Innovative Template Packs for Effective Business Communications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-subtle-harmonies-on-desktop-systems/"><u>[Updated] Subtle Harmonies on Desktop Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-budget-friendly-timer-tools/"><u>[Updated] Top Budget-Friendly Timer Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-potential-of-text-with-photo-shading-psx/"><u>[Updated] Unlock the Potential of Text with Photo Shading PSX</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-vivo-s17t-by-fonelab-android-recover-video/"><u>How to recover old videos from your Vivo S17t</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unboxing-marketing-strategy/"><u>In 2024, Unboxing Marketing Strategy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-windows-10-sound-capabilities/"><u>In 2024, Unlocking Windows 10 Sound Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-prodigy-strategies-for-enthusiasts-in-seo/"><u>In 2024, Unveiling Prodigy Strategies for Enthusiasts in SEO</u></a></li>
+<li><a href="https://win11.techidaily.com/make-your-pc-cooler-with-personalized-weather-icons-for-windows-11-status-bar/"><u>Make Your PC Cooler with Personalized Weather Icons for Windows 11 Status Bar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-wedding-clock-apps-for-android-and-ios-to-keep-your-day-on-track-for-2024/"><u>Top 10 Wedding Clock Apps for Android & iOS to Keep Your Day on Track for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-voice-over-made-easy-fcp-recording-tips-and-tricks/"><u>Updated 2024 Approved Voice Over Made Easy FCP Recording Tips and Tricks</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

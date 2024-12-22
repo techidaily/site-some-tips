@@ -1,7 +1,7 @@
 ---
 title: Thermal Expansion Must Be Accommodated in the Design Through the Use of Flexible Connectors or Expansion Loops.
-date: 2024-12-17T16:24:48.591Z
-updated: 2024-12-21T00:31:14.263Z
+date: 2024-12-17T17:28:15.390Z
+updated: 2024-12-22T02:24:25.872Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ With my local sales tax, the 512GB model, with the $199 travel case, totaled jus
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Stick with MacOS apps, if you can
@@ -59,7 +59,7 @@ However, the iPad version of the Horizon client available on the Vision Pro is n
 If Apple can add support for multiple virtual displays, much like how I use my MacBook Pro now with several monitors, then that would benefit my workflow immensely.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Native Microsoft apps are fairly limited
@@ -71,7 +71,7 @@ Besides the Horizon client covering my Windows software needs, I also use Outloo
 In addition to the limited feature set, an issue with collaborating on Teams (or any video conferencing service) is Apple's zombie-like Personas. The digital scan reminds me of characters from older gaming consoles, and I will never use it in client meetings or when FaceTiming my wife, who can't take my Persona seriously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Traveling with the Vision Pro
@@ -85,7 +85,7 @@ Matthew Miller/ZDNET
 I also felt cramped sitting in one spot and trying to navigate through multiple applications. On a train, let alone on a plane, I was barely able to move my body around to multitask on Vision OS. One feature I'd love to see is the ability to stack or quickly switch between several open apps. That would be ideal for more confined situations like this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Privacy and security are secretly fantastic
@@ -130,20 +130,21 @@ All that is to say the [Apple Vision Pro](https://apple.sjv.io/c/159047/435031/7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-step-by-step-youtube-image-enlargement-technique/"><u>[Updated] 2024 Approved Step-by-Step Youtube Image Enlargement Technique</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-storyboard-pro-for-win8/"><u>2024 Approved StoryBoard Pro for Win8</u></a></li>
-<li><a href="https://some-tips.techidaily.com/webmmkv-movavi/"><u>無料WebM到MKV同步變更 - 使用Movavi的簡易指南</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mac/"><u>移动碟中文：移視影片編輯器(Mac版) - 對應多种影片和音频格式</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726221222630-mkvwma-movavi/"><u>在線無成本MKV變更為WMA - 利用 Movavi的編輯器</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-upgrades-logic-pro-with-innovative-ai-musicians-to-empower-tablet-and-desktop-producers/"><u>Apple Upgrades Logic Pro with Innovative AI 'Musicians' To Empower Tablet and Desktop Producers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/eliminating-the-app-doesnt-work-on-my-computer-error-quick-fix-tips/"><u>Eliminating the ‘App Doesn’t Work on My Computer’ Error – Quick Fix Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-converter-for-mp3-to-aac-with-opus-support-moveave/"><u>Free Online Converter for MP3 to AAC with Opus Support - Moveave</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-copy-paste-not-working-in-chrome-edge-and-firefox-on-windows/"><u>How to Fix Copy-Paste Not Working in Chrome, Edge, and Firefox on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-motorola-moto-g73-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Moto G73 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-13-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 13 Without Previous Owner?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lightening-up-blacked-out-screen-win10/"><u>Lightening Up Blacked Out Screen Win10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mpg-wav-movavi/"><u>MPG 동메모리 WAV로 전환 - 무료 Movavi 서비스</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-the-distinction-between-wav-and-mp3-file-formats-a-deep-dive/"><u>Understanding the Distinction Between WAV and MP3 File Formats: A Deep Dive</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-discover-the-magic-of-high-dynamic-range-in-photography-for-2024/"><u>[New] Discover the Magic of High Dynamic Range in Photography for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mastery-of-fb-instream-ad-setup-and-evaluation-techniques-in-digital-marketing/"><u>[New] In 2024, Mastery of FB Instream Ad Setup & Evaluation Techniques in Digital Marketing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-right-time-to-invest-in-your-next-4k-lens/"><u>[New] The Right Time to Invest in Your Next 4K Lens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-premiere-pro-planning-and-templates/"><u>[Updated] The Ultimate Guide to Premiere Pro Planning & Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-essentials-an-in-depth-review-of-lightroom-for-android/"><u>[Updated] Unveiling the Essentials An In-Depth Review of Lightroom for Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-a-comprehensible-approach-to-adding-dates-on-youtube-videos/"><u>2024 Approved A Comprehensible Approach to Adding Dates on YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tap-into-the-funny-kapwing-for-meme-makers/"><u>2024 Approved Tap Into the Funny Kapwing for Meme Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-enhanced-audio-visual-sync-subtitle-addition-to-wmp/"><u>2024 Approved Unlock Enhanced Audio-Visual Sync Subtitle Addition to WMP</u></a></li>
+<li><a href="https://win-top.techidaily.com/comment-configurer-une-synchronisation-asynchrone-unidirectionnelle-a-laide-de-qsync-sur-windows-versions-11-10-8-et-7/"><u>Comment Configurer Une Synchronisation Asynchrone Unidirectionnelle À L'aide De Qsync Sur Windows (Versions 11, 10, 8 Et 7)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-conversion-of-mov-video-files-using-moveavi/"><u>Free Online Conversion of MOV Video Files - Using Moveavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-x100-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo X100 Phone Screen?</u></a></li>
+<li><a href="https://common-error.techidaily.com/igfx-module-malfunction-resolved-expert-guidance-for-troubleshooting-steps/"><u>IGFX Module Malfunction Resolved - Expert Guidance for Troubleshooting Steps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-secrets-of-getting-up-close-in-roblox-environments/"><u>In 2024, The Secrets of Getting Up Close in Roblox Environments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-breakdown-of-ussd-insights-into-unstructured-supplementary-service-data-technology/"><u>The Complete Breakdown of USSD: Insights Into Unstructured Supplementary Service Data Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-photographers-list-of-top-10-lenses-for-2024/"><u>The Photographer's List of Top 10 Lenses for 2024</u></a></li>
 </ul></div>
 

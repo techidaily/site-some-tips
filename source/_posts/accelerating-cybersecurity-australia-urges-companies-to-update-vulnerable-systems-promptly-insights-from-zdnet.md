@@ -1,7 +1,7 @@
 ---
 title: "Accelerating Cybersecurity: Australia Urges Companies to Update Vulnerable Systems Promptly - Insights From ZDNet"
-date: 2024-09-18 15:35:53
-updated: 2024-09-20 11:20:11
+date: 2024-12-17T04:31:03.040Z
+updated: 2024-12-21T18:35:12.557Z
 tags:
   - cloud
 categories:
@@ -83,11 +83,34 @@ Under restrictions to administrative privileges, for instance, companies in leve
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-easy-tutorial-uploading-youtube-shorts-video-via-computer-and-phone-for-2024/"><u>[New] Easy Tutorial Uploading YouTube Shorts Video via Computer & Phone for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-audioarchitects-building-without-dacast/"><u>[New] In 2024, AudioArchitects Building Without DaCast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-surpass-everyday-photo-taking-with-ios-11/"><u>[New] Surpass Everyday Photo-Taking with iOS 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-from-first-steps-to-expertise-lenovos-guide-to-recording-success/"><u>[Updated] 2024 Approved From First Steps to Expertise Lenovo’s Guide to Recording Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-money-does-mr-beast-make-for-2024/"><u>[Updated] How Much Money Does Mr. Beast Make for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-10-best-youtube-makeup-artists-you-should-follow/"><u>[Updated] In 2024, 10 Best YouTube Makeup Artists You Should Follow</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-taking-command-with-custom-character-sounds-in-free-fire-no-expense-involved/"><u>[Updated] Taking Command with Custom Character Sounds in Free Fire - No Expense Involved</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-become-a-top-notch-interviewer/"><u>2024 Approved Strategies to Become a Top-Notch Interviewer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-end-to-end-guide-to-picsart/"><u>2024 Approved The End-to-End Guide to PicsArt</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-blueprint-for-sourcing-top-tier-instagram-ringtones-and-crafting-standout-alarms/"><u>2024 Approved The Ultimate Blueprint for Sourcing Top-Tier Instagram Ringtones and Crafting Standout Alarms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-photos-with-easy-online-cropping-steps/"><u>2024 Approved Transforming Photos with Easy Online Cropping Steps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/best-free-srt-translators-online-an-elite-list-of-8/"><u>Best FREE SRT Translators Online An Elite List of 8</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-places-for-accessible-photography-loot/"><u>In 2024, Top 10 Places for Accessible Photography Loot</u></a></li>
+<li><a href="https://fox-access.techidaily.com/prime-portable-canvas-apps-for-windows-free-and-charged-for-2024/"><u>Prime Portable Canvas Apps for Windows Free and Charged for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-master-list-6-digital-hubs-offering-high-resolution-whoosh-audio-effects-updated/"><u>Updated 2024 Approved Master List 6 Digital Hubs Offering High-Resolution Whoosh Audio Effects (Updated )</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

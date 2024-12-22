@@ -1,7 +1,7 @@
 ---
 title: "How a Major Box Retailer Thrives Through Edge-to-Cloud Driven Digital Transformation: Insights From ZDNet"
-date: 2024-09-19 12:51:23
-updated: 2024-09-20 11:21:27
+date: 2024-12-18T22:08:09.355Z
+updated: 2024-12-21T20:18:08.633Z
 tags:
   - cloud
 categories:
@@ -95,6 +95,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F&title= "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F "Twitter") 
@@ -114,6 +118,10 @@ Here at ZDNET, we've taken you through many deep dives into the technologies dri
 In this article, we're going to take a slightly different approach. Rather than start with the technology and what you can do with it, we're going to visit a prototypical business and look at all the technologies it might need to integrate in order to meet its growth and profitability goals.
 
 Because many of these initiatives tend to be confidential inside the real-world companies performing them, in this article we're going to be talking about a fictional distributed home and building goods chain retailer: Home-by-Home. That way, we can dive into some of the areas of business operations that a real enterprise might not be comfortable revealing publicly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Case study: Home-by-Home
 
@@ -145,11 +153,19 @@ Since 2000, Home-by-Home has been converting larger stores into dual-purpose fac
 
 Earlier this year, Home-by-Home acquired a competitor with 450 stores and has begun a considerable migration effort to move them from old point-of-sale systems and central siloed databases to the edge-to-cloud digital transformation that's actively in practice throughout Home-by-Home's operations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## End-to-end integration across all stores and vendors
 
 There is one general operating principle by which Home-by-Home measures all of its IT decisions: everything must integrate, and do so smartly. It's not enough just to have constant streams of data coming from the stores to organization-wide databases. 
 
 That data has to go to the right places at the right time, and trigger the right operations. Data flow also can't just be one way. Data has to move from vendors and suppliers to various corporate departments to stores and back again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -170,6 +186,10 @@ Dynamic provisioning and on-demand infrastructure from edge to cloud is key to i
 
 Seasonal surges are also accommodated, allowing the company to add about 30% additional IT infrastructure resources for the critical home improvement seasons, but then scale back down and reduce spending during the months when consumers are focused on other interests.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edge-to-cloud platforms
 
 HPE GreenLake is an example of one of the companies that offers edge-to-cloud services that bring the centralized dashboard, on-demand provisioning, and pay-as-you-go benefits of public cloud infrastructure to on-premises computing and edge computing installations. This is what a company like Home-by-Home needs to be able to begin provisioning the services for its new acquisition immediately. There is no order-and-wait period for new configurations. 
@@ -186,11 +206,31 @@ Edge-to-cloud platforms help aggregate entire solutions, providing the benefits 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-streamline-video-calls-using-google-hangouts-efficiently/"><u>[New] Streamline Video Calls Using Google Hangouts Efficiently</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-understanding-the-process-of-altering-photo-genders-on-social-networks/"><u>[Updated] In 2024, Understanding the Process of Altering Photo Genders on Social Networks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-japejungle-design-original-content-instantly/"><u>[Updated] JapeJungle Design Original Content Instantly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-sculpted-sentences-turning-text-into-3d-art/"><u>[Updated] Sculpted Sentences Turning Text Into 3D Art</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-insiders-guide-to-uploading-with-google/"><u>[Updated] The Insider’s Guide to Uploading with Google</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-subscriber-sequence-strategizing-success-on-youtube-for-2024/"><u>[Updated] The Subscriber Sequence Strategizing Success on YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-utilizing-luts-for-professional-color-grading/"><u>[Updated] Utilizing LUTs for Professional Color Grading</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-knockout-kings-vs-viewership-titans/"><u>2024 Approved Knockout Kings Vs. Viewership Titans</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-360-live-streaming-cameras-for-youtube-and-facebook/"><u>2024 Approved Top 360 Live Streaming Cameras for YouTube and Facebook</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>In 2024, Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-vision-into-reality-essential-movies-maker-skills-on-windows-8/"><u>In 2024, Transform Your Vision Into Reality Essential Movies Maker Skills on Windows 8</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/quality-microphone-recorders-for-mac-devices-our-five-choices-revealed/"><u>Quality Microphone Recorders for Mac Devices Our Five Choices Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-reality-check-unraveling-six-fallacies-of-mac-gaming/"><u>The Reality Check: Unraveling Six Fallacies of Mac Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-potential-current-vr-innovations-for-2024/"><u>Unleashing Potential Current VR Innovations for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/yuneecs-typhoon-h-uav-a-detailed-performance-breakdown/"><u>Yuneec's Typhoon H UAV A Detailed Performance Breakdown</u></a></li>
+</ul></div>
+

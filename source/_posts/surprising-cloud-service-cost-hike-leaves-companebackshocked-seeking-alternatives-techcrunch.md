@@ -1,7 +1,7 @@
 ---
 title: Surprising Cloud Service Cost Hike Leaves Companebackshocked, Seeking Alternatives | TechCrunch
-date: 2024-09-17 11:36:30
-updated: 2024-09-20 12:10:19
+date: 2024-12-16T20:20:33.529Z
+updated: 2024-12-22T03:36:26.867Z
 tags:
   - cloud
 categories:
@@ -53,6 +53,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How this might affect you
 
 Google is very much _not_ transparent about its Enterprise pricing plans. The [main Google Workspace pricing page](https://workspace.google.com/pricing.html?source=gafb-homepage-faq-en) simply says "Contact Sales." The [Google Workspace blog](https://workspace.google.com/blog/) doesn't mention anything about a price increase, at least as of the time of this writing. 
@@ -66,6 +70,10 @@ It is possible I've been hit with a higher price increase because of the amount 
 The [Fed may think inflation is under control](https://thehill.com/business/4411344-fed-is-within-striking-distance-of-inflation-goal-top-official-says/) at 2-4% annually, but cloudflation certainly still exists. In the last year, [Hulu raised prices](https://www.zdnet.com/home-and-office/home-entertainment/hulus-streaming-bundle-prices-are-going-up-again-heres-why-i-chose-youtubetv/), [Peacock raised prices](https://www.zdnet.com/home-and-office/home-entertainment/peacock-is-raising-subscription-prices-next-month-heres-what-you-need-to-know/), [YouTube Premium raised prices](https://www.zdnet.com/home-and-office/home-entertainment/youtube-premium-quietly-raises-subscription-prices/), [Spotify Premium raised prices](https://www.zdnet.com/home-and-office/home-entertainment/spotify-premium-is-raising-prices-for-the-first-time-ever/), [Apple raised some of its subscription prices](https://www.zdnet.com/home-and-office/home-entertainment/apple-is-raising-the-prices-for-some-of-its-popular-subscription-services/), and [the list goes on](https://www.zdnet.com/article/google-raises-prices-for-nest-aware-subscriptions-but-there-is-good-news/). 
 
 We recently did an audit of our cloud-based monthly expenses, and it's a fairly large percentage of our overall cost of doing business. The fact that it can suddenly balloon by inflation percentages you'd only expect in countries with unstable governments will probably cause every IT manager (and anyone with a cloud budget) to lose sleep at night. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to change your plan 
 
@@ -110,11 +118,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-exploring-the-law-recording-youtube-content-playback/"><u>[New] Exploring the Law Recording YouTube Content Playback</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-twitter-video-download-tool-for-mp3-conversion/"><u>[New] Twitter Video Download Tool for MP3 Conversion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-blueprint-for-obtaining-free-visual-aids/"><u>2024 Approved The Blueprint for Obtaining Free Visual Aids</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/best-practices-and-tools-for-at-home-french-studies/"><u>Best Practices & Tools for At-Home French Studies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/eliminating-noise-in-photos-using-photopeas-tools/"><u>Eliminating Noise in Photos Using Photopea's Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expertly-curated-film-guide-20-choices-to-watch-now-from-lifewire/"><u>Expertly Curated Film Guide: 20 Choices to Watch Now From Lifewire</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-technological-trendsetters-exclusive-picks/"><u>In 2024, Technological Trendsetters - Exclusive Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-android-song-curator/"><u>In 2024, Top-Ranked Android Song Curator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-phone-personalizing-the-ios-alert-sound/"><u>In 2024, Transform Your Phone Personalizing the iOS Alert Sound</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ultimate-sound-editing-solutions-for-online-bloggers/"><u>In 2024, Ultimate Sound Editing Solutions for Online Bloggers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-power-of-slow-mo-with-these-android-hacks/"><u>In 2024, Unlock the Power of Slow Mo with These Android Hacks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-huion-kamvas-gt-191-graphics-pad-stunning-large-digital-canvas/"><u>In-Depth Evaluation of the Huion Kamvas GT-191 Graphics Pad: Stunning Large Digital Canvas</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-the-dnssddll-cannot-be-found-issue/"><u>Step-by-Step Fix for the dnssd.dll Cannot Be Found Issue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-android-time-lapses-innovations-in-video-capture-for-2024/"><u>The Future of Android Time-Lapses Innovations in Video Capture for 2024</u></a></li>
+</ul></div>
+

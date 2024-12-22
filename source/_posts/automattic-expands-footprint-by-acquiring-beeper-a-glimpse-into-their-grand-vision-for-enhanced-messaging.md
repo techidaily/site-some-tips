@@ -1,7 +1,7 @@
 ---
 title: "Automattic Expands Footprint by Acquiring Beeper: A Glimpse Into Their Grand Vision for Enhanced Messaging"
-date: 2024-12-19T21:22:18.361Z
-updated: 2024-12-20T19:04:00.426Z
+date: 2024-12-16T00:47:29.076Z
+updated: 2024-12-21T17:26:23.812Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ In this article, I'll talk about that use case -- and why VPNs are so important 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The killer app for XR (2024 edition)
@@ -63,7 +63,7 @@ Sure, there are many other uses for XR. ZDNET editor-in-chief [Jason Hiner loves
 I would argue that using XR while traveling or living in a small space is, however, the first killer app for these types of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The obvious necessity of a VPN
@@ -81,7 +81,7 @@ Worse, those connections are often shared, and there's a fair chance someone mig
 The primary protection for those who need to travel and go online is using a VPN to encrypt traffic as it leaves your computing device. Some companies require employees to connect to their corporate networks over a VPN for similar reasons. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use a VPN with an XR headset
@@ -109,7 +109,7 @@ Virtual Dude also recommends sideloading an app that lets you sideload Android a
 That said, Virtual Dude's video is a proof of concept that VPNs can work on XR devices like the Quest. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Give it some time
@@ -161,24 +161,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-capturing-creativity-mobile-gadgets-ranking-leaders/"><u>[New] Capturing Creativity Mobile Gadgets Ranking Leaders</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-learning-leaders-expert-picks-of-10-best-classroom-recorders/"><u>[New] Learning Leaders Expert Picks of 10 Best Classroom Recorders</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-master-multi-screen-video-streaming-with-microsoft-edges-pip/"><u>[Updated] In 2024, Master Multi-Screen Video Streaming with Microsoft Edge's PIP</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-screenflow-unleashed-the-ultimate-macos-experience/"><u>[Updated] In 2024, ScreenFlow Unleashed The Ultimate MacOS Experience</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-secrets-unveiled-saving-twitter-gifs-for-later-use/"><u>[Updated] In 2024, Secrets Unveiled Saving Twitter GIFs for Later Use</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-master-control-over-your-youtube-viewing-rhythm/"><u>2024 Approved Master Control Over Your YouTube Viewing Rhythm</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-simplified-guide-to-incorporating-ken-burns-effect-in-camtasa/"><u>2024 Approved Simplified Guide to Incorporating Ken Burns Effect in Camtasa</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-wavram/"><u>網路直接無償轉框音效-MOVAVI 壓縮模式 WAV到RAM</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversione-libera-aiff-a-wmv-su-internet-utilizzando-movavi-il-processo-facile/"><u>Conversione Libera AIFF a WMV Su Internet Utilizzando Movavi - Il Processo Facile!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convertissez-un-fichier-mp2-au-format-mp4-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Un Fichier MP2 Au Format MP4 Gratuitement en Ligne Avec Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-selection-of-no-cost-audio-converters-for-windows-and-macos-including-web-apps-a-review-by-movavi/"><u>Discover the Ultimate Selection of No-Cost Audio Converters for Windows and macOS, Including Web Apps - A Review by Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-selection-3d-animation-software-for-free-in-2/"><u>Discover the Ultimate Selection: 3D Animation Software for Free in 2</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratuito-converter-online-de-midia-do-caf-para-mp3-pelo-movavi/"><u>Gratuito Converter Online De Mídia Do CAF Para MP3 Pelo Movavi</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/is-picku-the-pinnacle-of-editing-excellence-on-android-devices-for-2024/"><u>Is PickU The Pinnacle of Editing Excellence on Android Devices for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/les-6-cartes-graphiques-superieures-pour-un-montage-video-optimal-en-2024-top-picks/"><u>Les 6 Cartes Graphiques Supérieures Pour Un Montage Vidéo Optimal en 2024 : Top Picks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-3gpp-wav/"><u>Movaviですばやく変換! 無料オンライン3GPP WAVファイル - 最適化ガイド付き</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-honor-magic-6-lite-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Honor Magic 6 Lite</u></a></li>
-<li><a href="https://some-tips.techidaily.com/saga-tusentals-vidunderliga-video-sammanslutningar-pa-windows-10-den-basta-7/"><u>Såga Tusentals Vidunderliga Video Sammanslutningar På Windows 10 - Den Bästa 7!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-maximize-content-by-merging-apple-music-to-videos/"><u>[New] 2024 Approved Maximize Content by Merging Apple Music to Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-full-picture-of-ustream-and-analogous-services/"><u>[New] The Full Picture of Ustream & Analogous Services</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-potential-with-instagram-videos-strategic-planning-insights-for-2024/"><u>[New] Unlocking Potential with Instagram Videos Strategic Planning Insights for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers/"><u>[Updated] Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-getting-acquainted-with-periscope-costs-benefits-and-account-creation/"><u>2024 Approved Getting Acquainted with Periscope Costs, Benefits & Account Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-time-lapse-magic-animation-through-the-lens-of-movie-maker/"><u>2024 Approved Time-Lapse Magic Animation Through the Lens of Movie Maker</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/expert-tips-from-yl-software-for-troubleshooting-and-fixing-your-computer-display-problems/"><u>Expert Tips From YL Software for Troubleshooting and Fixing Your Computer Display Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-compile-multiple-jpegs-together-into-one-consolidated-pdf-format/"><u>How to Compile Multiple JPEGs Together Into One Consolidated PDF Format</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-9-live-stream-enhancers-ultimate-filter-guide/"><u>In 2024, Top 9 Live-Stream Enhancers Ultimate Filter Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-collection-top-notch-free-meme-designs/"><u>In 2024, Ultimate Collection Top-Notch FREE Meme Designs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-uplifting-films-for-boosting-your-drive-for-2024/"><u>Top 10 Uplifting Films for Boosting Your Drive for 2024</u></a></li>
 </ul></div>
 

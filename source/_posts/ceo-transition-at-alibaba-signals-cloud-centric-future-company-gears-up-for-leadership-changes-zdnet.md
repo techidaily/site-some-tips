@@ -1,7 +1,7 @@
 ---
 title: CEO Transition at Alibaba Signals Cloud-Centric Future, Company Gears Up for Leadership Changes - ZDNet
-date: 2024-09-19 10:23:57
-updated: 2024-09-20 10:31:53
+date: 2024-12-16T02:58:29.608Z
+updated: 2024-12-22T02:45:21.715Z
 tags:
   - cloud
 categories:
@@ -72,11 +72,33 @@ In explaining the organizational restructure, Zhang previously said it would all
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-dji-spark-ultimate-portable-camera-uav-guide-for-2024/"><u>[New] DJI Spark Ultimate Portable Camera UAV Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-talent-passes-for-independent-film-viewing/"><u>[New] Talent Passes for Independent Film Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-color-theory-and-practical-application-techniques/"><u>[New] The Ultimate Guide to Color Theory and Practical Application Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-11-techniques-for-perfecting-hue-balance/"><u>[New] Top 11 Techniques for Perfecting Hue Balance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-twilight-tones-adobe-premiere-blackouts/"><u>[New] Twilight Tones Adobe Premiere Blackouts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-adoption-trends-for-arvr-shopping/"><u>[Updated] Adoption Trends for AR/VR Shopping</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-classic-cinema-revisited-step-by-step-video-guide/"><u>[Updated] In 2024, Classic Cinema Revisited Step-by-Step Video Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-critical-top-5-minute-tight-video-capturers-guide/"><u>[Updated] In 2024, Critical Top 5 Minute-Tight Video Capturers Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagrams-most-active-hours-for-2024/"><u>[Updated] Mastering Instagram's Most Active Hours for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-jaunt-vr-odyssey-revisited/"><u>[Updated] The Jaunt VR Odyssey Revisited</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlock-the-secrets-of-facebook-live-a-beginners-manual-for-2024/"><u>[Updated] Unlock the Secrets of Facebook Live A Beginner's Manual for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-your-pc-components-easily-determine-cpu-and-motherboard-models-with-proven-strategies-zdnet/"><u>Discover Your PC Components: Easily Determine CPU and Motherboard Models with Proven Strategies | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-turn-daily-life-into-a-comedy-meme/"><u>In 2024, Turn Daily Life Into a Comedy Meme</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-audacity-pro-audio-recording-techniques-focusing-on-computer-sounds/"><u>New Audacity Pro Audio Recording Techniques Focusing on Computer Sounds</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-network-not-available-in-windows-os/"><u>Resolving Network Not Available in Windows OS</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

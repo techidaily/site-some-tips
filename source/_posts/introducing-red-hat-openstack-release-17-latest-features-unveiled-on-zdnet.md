@@ -1,7 +1,7 @@
 ---
 title: Introducing Red Hat OpenStack Release 17 - Latest Features Unveiled on ZDNet
-date: 2024-09-18 13:54:36
-updated: 2024-09-20 10:17:21
+date: 2024-12-16T23:24:44.307Z
+updated: 2024-12-22T02:11:05.349Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/6939aaf32d60114597d7aa276feeaf67b7
 solarseven/Shutterstock
 
 Some people still insist that [OpenStack](https://www.openstack.org/), the open-source Infrastructure-as-a-Service (IaaS) cloud, is dead. They are so, so wrong. By [Statista](https://www.statista.com/)'s count, [OpenStack is the most popular open-source cloud of all](https://www.statista.com/statistics/511526/worldwide-survey-private-coud-services-running-application/). And what's more important for [Red Hat](https://www.redhat.com/en) is that telecoms, such as [Verizon](https://www.verizon.com/) cellular and 5G networks, live and die by OpenStack. So, it comes as no surprise when [Red Hat rolled out Red Hat OpenStack Platform (RHOP) 17](https://www.redhat.com/en/blog/25-billion-and-counting-red-hat-openstack-platform-continues-deliver-service-providers) at Mobile World Congress in Las Vegas Wednesday, the company talked up how OpenStack and telecom work hand-in-hand. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -47,11 +51,29 @@ While the new RHOP will appeal mostly to telecoms, it remains a solid platform f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-stepwise-process-for-capturing-live-soundtracks-online/"><u>[New] Stepwise Process for Capturing Live Soundtracks Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-vanguard-audio-visual-makers-virtual-showcase/"><u>[New] The Vanguard Audio-Visual Makers' Virtual Showcase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-oculus-gaming-guide-best-selling-choices/"><u>[New] Ultimate Oculus Gaming Guide Best-Selling Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-wonders-of-4k-with-benq-bl2711u-review/"><u>[New] Unveiling the Wonders of 4K with BenQ BL2711U Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-compendium-for-professionals-in-vivacut-video-editing-for-2024/"><u>[Updated] The Ultimate Compendium for Professionals in VivaCut Video Editing for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturing-discords-magic-3-steps-for-ensuring-your-live-stream-stays-alive/"><u>2024 Approved Capturing Discord's Magic 3 Steps for Ensuring Your Live Stream Stays Alive</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-navigating-mobile-recorders-to-capture-snapchat-moments/"><u>2024 Approved Navigating Mobile Recorders to Capture Snapchat Moments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tech-gear-review-vr-treadmills-showdown/"><u>2024 Approved Tech Gear Review VR Treadmills Showdown</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-the-world-through-your-camera-lens-a-beginners-roadmap-for-success/"><u>Exploring the World Through Your Camera Lens A Beginner's Roadmap for Success</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-find-x6-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo Find X6 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-s23plus-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-4k-blade-camera-imaging/"><u>In 2024, The Ultimate Guide to 4K Blade Camera Imaging</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-influential-hashtags-on-ig-for-2024/"><u>Mastering the Art of Influential Hashtags on IG for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-social-media-sounds-into-practical-mobile-alerts-for-2024/"><u>Transforming Social Media Sounds Into Practical Mobile Alerts for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/xfx-driver-recovered-from-halt-state/"><u>XFX Driver Recovered From Halt State</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Military Cloud Tech Shuffle: How the Pentagon Divided a Massive Contract Amongst Amazon Web Services, Google Cloud, Oracle, and Microsoft | ZDNet"
-date: 2024-09-18 23:39:18
-updated: 2024-09-20 12:49:19
+date: 2024-12-15T04:18:28.637Z
+updated: 2024-12-21T16:18:59.260Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: Getty Images / iStockphoto
 After canceling its $10bn JEDI contract with Microsoft last year, the Pentagon has now awarded a new $9bn contract to four tech giants that will build its [cloud-computing network](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/).
 
 The contract, formerly named JEDI but now called the Joint Warfighting Cloud Capability (JWCC), has been awarded to Amazon Web Services, Google Support Services, Microsoft, and Oracle. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -63,11 +67,29 @@ Ken Glueck, Executive Vice President at Oracle, said: "Oracle looks forward to c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-enhance-creativity-in-video-editing-these-7-sources/"><u>[New] In 2024, Enhance Creativity in Video Editing - These 7 Sources</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-eye-opening-journey-with-q500/"><u>[New] The Eye-Opening Journey with Q500</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-stabilizer-unmatched-smartphone-tracking/"><u>[New] The Ultimate Stabilizer Unmatched Smartphone Tracking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frugal-flight-experts-choice-under-500-drone-guide/"><u>[Updated] Frugal Flight Experts' Choice Under $500 Drone Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-creators-currency-how-to-turn-streams-into-dollars/"><u>[Updated] In 2024, The Creator’s Currency How To Turn Streams Into Dollars</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-syncing-social-media-zoom-and-facebook-live-interactions/"><u>[Updated] Syncing Social Media Zoom and Facebook Live Interactions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-and-controlling-safaris-pip-feature/"><u>2024 Approved Understanding and Controlling Safari's PIP Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725289583470-digiarty/"><u>如何連絡Digiarty - 完善的接觸方法</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/ensuring-smooth-sailing-for-iphone-xs-face-recognition-for-2024/"><u>Ensuring Smooth Sailing for iPhone X's Face Recognition for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-finding-non-inshot-video-software-for-pcs/"><u>In 2024, Finding Non-Inshot Video Software for PCs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-iphone-6-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your iPhone 6 without Security Questions?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-premier-essentials-seamless-audio-switching/"><u>In 2024, Premier Essentials Seamless Audio Switching</u></a></li>
+<li><a href="https://blog-min.techidaily.com/macx-top-hd-dvd-ripper-and-converter-effortlessly-transferring-your-movies-from-dvd-to-iphone-compatible-with-latest-models-including-xs-xr-x-and-8-on-macos31/"><u>MacX - Top HD DVD Ripper & Converter: Effortlessly Transferring Your Movies From DVD to iPhone, Compatible with Latest Models Including XS, XR, X and 8 on macOS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/seamless-cinema-experience-ultimate-guide-to-streamlining-dvd-viewing-on-an-ipad/"><u>Seamless Cinema Experience: Ultimate Guide to Streamlining DVD Viewing on an iPad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tiktok-mastery-the-art-of-editing-your-number-for-2024/"><u>TikTok Mastery The Art of Editing Your Number for 2024</u></a></li>
+</ul></div>
+

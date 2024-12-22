@@ -1,7 +1,7 @@
 ---
 title: "The Future of Tech with Siri: Understanding Artificial Intelligence Integration in Upcoming iPhone, Mac, and iPad Models"
-date: 2024-12-14T18:14:01.075Z
-updated: 2024-12-20T18:53:21.466Z
+date: 2024-12-17T17:25:43.277Z
+updated: 2024-12-21T19:55:57.178Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,18 +120,22 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-ideal-accessories-for-optimal-gopro-photography-for-2024/"><u>[New] Ideal Accessories for Optimal GoPro Photography for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-lava-blaze-2-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Lava Blaze 2 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/advanced-techniques-for-efficient-use-of-luts-in-cs6cc/"><u>Advanced Techniques for Efficient Use of LUTs in CS6/CC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-panasonic-hx-a1-revolutionizing-wearable-cameras-for-the-outdoors/"><u>In 2024, Panasonic HX-A1 Revolutionizing Wearable Cameras for the Outdoors</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-polishing-and-personalizing-drone-videos/"><u>In 2024, The Art of Polishing and Personalizing Drone Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-to-restore-functionality-in-lenovo-finger-scanning-technology/"><u>Step-by-Step Fixes to Restore Functionality in Lenovo Finger Scanning Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-setting-up-system-restore-on-windows-11/"><u>Step-by-Step Guide to Setting Up System Restore on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-clearing-browsing-data-and-cookies-on-chrome/"><u>Step-by-Step Guide: Clearing Browsing Data and Cookies on Chrome</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-how-to-determine-your-windows-10-edition-and-build/"><u>Step-by-Step Guide: How to Determine Your Windows 10 Edition and Build</u></a></li>
-<li><a href="https://some-tips.techidaily.com/temporary-disabling-of-avg-antivirus-free-2015-a-step-by-step-guide/"><u>Temporary Disabling of AVG AntiVirus Free 2015: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/troubleshoot-and-fix-windows-10-calculator-issues-complete-solution-guide/"><u>Troubleshoot and Fix Windows 10 Calculator Issues – Complete Solution Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-the-ping-tool-a-comprehensive-guide-on-testing-your-online-connectivity/"><u>Understanding the PING Tool: A Comprehensive Guide on Testing Your Online Connectivity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-essential-5-chrome-extensions-seamlessly-access-facebook-videos/"><u>[New] In 2024, Essential 5 Chrome Extensions Seamlessly Access Facebook Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nline-visionaries-subscriber-play-button-triumphs/"><u>[New] Online Visionaries Subscriber, Play Button Triumphs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aking-charge-of-your-visual-brand-identity/"><u>[New] Taking Charge of Your Visual Brand Identity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-visual-treasures-without-cost/"><u>[New] Unlocking Visual Treasures Without Cost</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-optimal-equipment-for-doll-miniaturization-films/"><u>[Updated] 2024 Approved Optimal Equipment for Doll Miniaturization Films</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-game-on-unlock-the-secrets-of-effective-lol-recording/"><u>2024 Approved Game-On! - Unlock the Secrets of Effective LOL Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-choosing-top-8-free-srt-services/"><u>2024 Approved The Ultimate Guide to Choosing Top 8 Free SRT Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-full-potential-of-zoom-in-your-xbox-setup/"><u>2024 Approved Unlock the Full Potential of Zoom in Your Xbox Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-seamless-linktree-addition-in-your-tiktok-profile/"><u>2024 Approved Unlocking Seamless Linktree Addition in Your TikTok Profile</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-launches-gemini-ai-can-it-outperform-chatgpt/"><u>Google Launches Gemini AI – Can It Outperform ChatGPT?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-safeguard-your-pc-by-altering-password-on-win-11/"><u>How to Safeguard Your PC by Altering Password on Win 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-potential-a-guide-for-solitary-showrunners/"><u>In 2024, Unleashing Potential A Guide for Solitary Showrunners</u></a></li>
+<li><a href="https://extra-support.techidaily.com/podcast-dominance-through-effective-seo-strategies-for-2024/"><u>Podcast Dominance Through Effective SEO Strategies for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techniques-to-effortlessly-attain-professional-graphic-content-for-2024/"><u>Techniques to Effortlessly Attain Professional Graphic Content for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-tutorial-for-wm6-setup-for-2024/"><u>Ultimate Tutorial for WM6 Setup for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-full-potential-of-macs-preview-tool-for-2024/"><u>Unlocking Full Potential of Mac's Preview Tool for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-reduce-file-size-not-quality-5-best-free-video-compression-apps-for-ios-for-2024/"><u>Updated Reduce File Size, Not Quality 5 Best Free Video Compression Apps for iOS for 2024</u></a></li>
 </ul></div>
 

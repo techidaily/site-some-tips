@@ -1,7 +1,7 @@
 ---
 title: "Guide: Sending and Receiving iMessages From Your PC with Windows - Expert Tips"
-date: 2024-12-15T18:34:00.531Z
-updated: 2024-12-21T03:26:45.853Z
+date: 2024-12-18T19:13:37.593Z
+updated: 2024-12-21T23:15:43.242Z
 tags:
   - apple
 categories:
@@ -56,19 +56,11 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -79,10 +71,6 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -103,7 +91,7 @@ To access your iPhone's text messages in Phone Link, tap the Messages heading at
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Start a new chat
@@ -111,10 +99,6 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -138,11 +122,19 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -150,11 +142,19 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,24 +192,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-efficiently-expanding-on-stardews-ginger-isle/"><u>[New] 2024 Approved Efficiently Expanding on Stardew's Ginger Isle</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-turn-youtube-live-feeds-into-mp3-with-online-tools-2023/"><u>[New] In 2024, Turn YouTube Live Feeds Into MP3 with Online Tools 2023</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-techniques-to-archive-and-save-video-calls/"><u>[New] Techniques to Archive and Save Video Calls</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-mastering-youtube-monetization-minimum-required-views-to-profit/"><u>[Updated] 2024 Approved Mastering YouTube Monetization Minimum Required Views to Profit</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-revolutionary-methods-for-breaking-barriers-in-gif-making-for-2024/"><u>[Updated] Revolutionary Methods for Breaking Barriers in GIF Making for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/webmmp4-movavi/"><u>自由搜尋線上從WEBM到MP4格式切換 - 採用Movavi解答方案</u></a></li>
-<li><a href="https://some-tips.techidaily.com/descubriendo-el-concepto-del-codec-explicacion-y-significado-detallado/"><u>Descubriendo El Concepto Del Códec: Explicación Y Significado Detallado</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratuit-gif-to-png-online-konvertor-professioneel-werkvormige-opschreven-movavi/"><u>Gratuit GIF-to-PNG Online Konvertor: Professioneel Werkvormige Opschreven - Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratuito-convertitore-online-caf-programma-di-masterizzazione-fatto-in-casa-da-movavi/"><u>Gratuito Convertitore OnLine Caf – Programma Di Masterizzazione Fatto in Casa Da Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-use-luts-from-color-grading-central-to-color-grading-for-movies/"><u>How to Use Luts From Color Grading Central to Color Grading for Movies</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-boosted-visuals-a-beginners-guide-to-gopro-video-editing/"><u>In 2024, Boosted Visuals A Beginner's Guide to GoPro Video Editing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/melhor-editor-de-fotos-para-apple-mac-introducao-ao-melodious-magix-photo-director/"><u>Melhor Editor De Fotos Para Apple MAc: Introdução Ao Melodious Magix Photo Director</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mka-flac-on-line/"><u>MKA FLAC 오디오 파일을 원근금지적으로 변환하는 방법: On-Line 가이드</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726227676149-mp4-mov/"><u>MP4 형식으로 MOV 비디오를 원활하게 전환하기 위한 단계별 가이드</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-cast-it-all-a-step-by-step-guide-to-streaming-any-video-to-chromecast/"><u>New In 2024, Cast It All A Step-by-Step Guide to Streaming Any Video to Chromecast</u></a></li>
-<li><a href="https://some-tips.techidaily.com/pbm/"><u>PBM 이미지를 원격으로 무료 바이트 스트림으로 전환하는 방법 - 모비아비</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-mfc71dll-file-missing-or-cannot-be-located-issues/"><u>Resolving MFC71.DLL File Missing or Cannot Be Located Issues</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-tecno-spark-10-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Tecno Spark 10 5G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transcodificar-video-de-avi-a-wmv-online-sin-coste-guia-paso-a-paso-con-movavi/"><u>Transcodificar Video De AVI a WMV Online Sin Coste: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-workflow-for-embedding-subtitle-track-in-mp4s/"><u>[New] In 2024, Ultimate Workflow for Embedding Subtitle Track in MP4s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-your-movies-at-no-cost-on-various-oses/"><u>[New] Unlock Your Movies at No Cost on Various OSes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-updated-dialogue-tools-to-engage-audio-audiences/"><u>[New] Updated Dialogue Tools to Engage Audio Audiences</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-explore-the-best-and-easiest-youtube-to-mp3-conversion-tech/"><u>[Updated] Explore the Best (and Easiest) YouTube-to-Mp3 Conversion Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-founding-an-indie-review-platform-for-fashion-and-apparel/"><u>[Updated] The Ultimate Guide to Founding an Indie Review Platform for Fashion and Apparel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-twitch-time-travel-retrieve-lost-broadcast-moments/"><u>[Updated] Twitch Time-Travel Retrieve Lost Broadcast Moments</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/comment-resoudre-lincapacite-de-mettre-a-jour-une-partition-reservee-sur-windows-11/"><u>Comment Résoudre L'Incapacité De Mettre À Jour Une Partition Réservée Sur Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-screen-blackness-in-resident-evil-village-for-pc-solutions-and-workarounds/"><u>Complete Screen Blackness in Resident Evil: Village for PC - Solutions & Workarounds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/die-welt-der-4k-ultra-hd-videos-entschlusselt-ihr-umfassender-leitfaden/"><u>Die Welt Der 4K Ultra HD Videos Entschlüsselt: Ihr Umfassender Leitfaden</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tless-entrepreneurship-top-10-easy-to-create-biz-channels-on-youtotube-for-2024/"><u>Effortless Entrepreneurship Top 10 Easy-to-Create Biz Channels on YouToTube for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/simple-steps-adding-comprehensive-captions-to-youtube-videos/"><u>Simple Steps Adding Comprehensive Captions to YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-world-through-360-degree-fisheye-imaging-for-2024/"><u>Unlocking the World Through 360 Degree Fisheye Imaging for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Google Workspace Capacity with Easy Management Techniques: A Comprehensive Guide"
-date: 2024-09-18 23:41:45
-updated: 2024-09-20 11:43:46
+date: 2024-12-19T02:42:10.893Z
+updated: 2024-12-21T23:50:28.434Z
 tags:
   - cloud
 categories:
@@ -39,13 +39,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Let me show you how easy it is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to manage your Google Workspace storage
 
 **What you'll need:** The only things you'll need are a valid Google account and a web browser. This of course can also be done on an Android device with Google One, but I'm going to show you how to take care of the task from within a web browser. You can use any browser that supports Google Workspace (which includes nearly all popular browsers).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open the Storage Manager
 
 The first thing to do is open your default web browser and point it to the [Google Storage Manager](https://one.google.com/storage/management). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clean up by suggested items
 
@@ -64,6 +76,10 @@ Do the same for the other options under Clean up suggested items.
 The fastest way to delete all of your trashed emails is to click Delete All.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clean up by service
 
@@ -100,11 +116,33 @@ And that's how you can easily manage your Google Workspace storage. Keep on top 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-leading-filmmaking-applications-for-gopro/"><u>[New] 2024 Approved Leading Filmmaking Applications for GoPro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-animators-toolkit-windows-movie-maker-for-winning-projects/"><u>[New] The Animator's Toolkit Windows Movie Maker for Winning Projects</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nlocking-visual-potential-the-9-best-mobile-accessories-for-vloggers-for-2024/"><u>[New] Unlocking Visual Potential The 9 Best Mobile Accessories for Vloggers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-get-inspired-from-top-10-recruitment-videos/"><u>[Updated] Get Inspired From Top 10 Recruitment Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-unbiased-and-structured-interviews/"><u>[Updated] Techniques for Unbiased and Structured Interviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-secrets-to-enthralling-unboxing-content-on-insta/"><u>[Updated] Unlock the Secrets to Enthralling Unboxing Content on Insta</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-photopea-guide-to-clean-image-canvases/"><u>2024 Approved Photopea Guide to Clean Image Canvases</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-ranked-5-backdrop-change-apps-for-iphones-x-8-7/"><u>2024 Approved Top-Ranked 5 Backdrop Change Apps for iPhones (X, 8, 7)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-10-essential-podcast-art-creation-techniques/"><u>2024 Approved Unveiling 10 Essential Podcast Art Creation Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-lava-blaze-2-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Lava Blaze 2 5G</u></a></li>
+<li><a href="https://discover-help.techidaily.com/how-to-prepare-when-microsoft-ends-windows-abschneidende-11-support-key-steps-and-tips/"><u>How to Prepare When Microsoft Ends Windows abschneiden.de 11 Support - Key Steps & Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-cutting-edge-speedy-frame-compiler/"><u>In 2024, Cutting Edge Speedy Frame Compiler</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-nokia-xr21-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Nokia XR21 FRP</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/mastering-screen-preferences-easy-tutorial-to-edit-display-settings-in-windows-expertise-from-yl-software-suite/"><u>Mastering Screen Preferences: Easy Tutorial to Edit Display Settings in Windows - Expertise From YL Software Suite</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unbeatable-free-game-video-editing-solutions-for-2024/"><u>New Unbeatable Free Game Video Editing Solutions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-path-to-larger-video-presentation-in-youtube-for-2024/"><u>The Path to Larger Video Presentation in YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-smartphone-list-for-capturing-crystal-clear-video-for-2024/"><u>Ultimate Smartphone List for Capturing Crystal Clear Video for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-hidden-potential-boost-productivity-essential-multitasking-tips-for-podcast-lovers-for-2024/"><u>Unlock Hidden Potential, Boost Productivity Essential Multitasking Tips for Podcast Lovers for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-3d-animation-software-roundup-top-picks-for-every-budget-for-2024/"><u>Updated 3D Animation Software Roundup Top Picks for Every Budget for 2024</u></a></li>
+</ul></div>
+

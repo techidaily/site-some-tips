@@ -1,7 +1,7 @@
 ---
 title: "Deciding Between New Apple Laptops: In-Depth Review and Contrast of M3 Versus M2 MacBook Air | ZDNet"
-date: 2024-12-14T05:03:43.384Z
-updated: 2024-12-21T02:35:01.792Z
+date: 2024-12-17T00:05:26.901Z
+updated: 2024-12-21T18:37:58.831Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -48,10 +48,6 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -68,6 +64,10 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
@@ -75,7 +75,7 @@ Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
@@ -133,7 +133,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -150,6 +150,10 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -161,10 +165,6 @@ Kerry Wan/ZDNET
 Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don't take for granted that fewer animations mean the iPhone 15 is more battery efficient than the Pro, but in a world where even sub-$200 phones have 120Hz displays, I really wish that Apple gave its $800 iPhone something smoother on the eyes.
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final thought
 
@@ -204,21 +204,16 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-no-more-troubles-mastering-ipad-video-captures-now-for-2024/"><u>[New] No More Troubles? Mastering iPad Video Captures Now for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-cinematic-zoom-effect-focus-on-film/"><u>[New] The Cinematic Zoom Effect Focus on Film</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-essential-list-of-religious-ringing-sounds/"><u>[New] The Essential List of Religious Ringing Sounds</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac/"><u>[New] The Ultimate Guide to Leveraging Preview Capabilities on a Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-3-effective-methods-to-archive-itunes-videos/"><u>[Updated] 3 Effective Methods to Archive iTunes Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-transforming-video-tutorials-into-playable-animated-gifs-online/"><u>[Updated] Transforming Video Tutorials Into Playable Animated GIFs Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleash-creativity-in-photography-essential-pixlr-hacks/"><u>[Updated] Unleash Creativity in Photography Essential Pixlr Hacks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-angular-video-compilation-android/"><u>2024 Approved The Essential Guide to Angular Video Compilation (Android)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>2024 Approved Top Picks Explore the Best New Windows 10 Apps and Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-under-100-investments-in-action-cameras-top-selections/"><u>2024 Approved Under $100 Investments in Action Cameras – Top Selections</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-task-managers-welcome-screenscape-in-win11/"><u>Adjusting Task Manager's Welcome Screenscape in Win11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-14-pro-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 14 Pro Max in the Best Ways</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y78tfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y78tFRP Lock</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-maximize-your-online-presence-with-these-5-streaming-techniques/"><u>In 2024, Maximize Your Online Presence with These 5 Streaming Techniques</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-12-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 12 Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/upgrade-your-video-playback-activating-av1-on-youtube-for-2024/"><u>Upgrade Your Video Playback Activating AV1 on YouTube for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-s23plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel S23+ by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-ultimate-converter-mp4-videos-to-facebook/"><u>In 2024, Ultimate Converter MP4 Videos to Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-your-site-performance-using-cookiebots-advanced-analytics-tools/"><u>Optimize Your Site Performance Using Cookiebot's Advanced Analytics Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-your-sites-performance-using-cookiebot-technology/"><u>Optimize Your Site's Performance Using Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-website-analytics-using-the-latest-cookiebot-solutions/"><u>Revolutionize Your Website Analytics Using the Latest Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-accounts-payable-with-abbyy-solutions-the-key-to-streamlining-adactus-housing-groups-bills/"><u>Transform Your Accounts Payable with ABBYY Solutions - The Key to Streamlining Adactus Housing Group's Bills</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-steelseries-arctis-pro-headset-microphone-issues/"><u>Troubleshooting Guide: Fixing SteelSeries Arctis Pro Headset Microphone Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-advanced-traffic-insights-with-our-cookiebot-technology-integration/"><u>Unlocking Advanced Traffic Insights with Our Cookiebot Technology Integration</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-flawless-faces-in-fcpx-a-plugin-free-approach-to-skin-smoothing/"><u>Updated 2024 Approved Flawless Faces in FCPX A Plugin-Free Approach to Skin Smoothing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-make-a-heartfelt-video-montage-with-pictures-and-songs/"><u>Updated Make a Heartfelt Video Montage with Pictures and Songs</u></a></li>
+<li><a href="https://win11.techidaily.com/winrars-file-consistency-fixing-summation-discrepancies/"><u>WinRAR's File Consistency: Fixing Summation Discrepancies</u></a></li>
 </ul></div>
 

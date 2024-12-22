@@ -1,7 +1,7 @@
 ---
 title: "Rocky Linux Secures Key Backing with CIQ as Primary Sponsor: Support From Seasoned Linux Experts"
-date: 2024-09-17 12:23:38
-updated: 2024-09-20 10:45:28
+date: 2024-12-18T02:37:53.835Z
+updated: 2024-12-21T17:09:29.861Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,31 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-visual-storytelling-made-simple-with-windows-10s-tools/"><u>[New] The Art of Visual Storytelling Made Simple with Windows 10'S Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-navigating-self-viewer-phenomenon-in-facebook-live-conversations/"><u>[Updated] Navigating Self-Viewer Phenomenon in Facebook Live Conversations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-navigating-the-latest-pro-cams-for-full-spheres-for-2024/"><u>[Updated] Navigating the Latest Pro Cams for Full Spheres for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-easy-story-making/"><u>[Updated] The Art of Easy Story Making</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-symphony-of-selection-trailer-music-mastery/"><u>[Updated] The Symphony of Selection Trailer Music Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-review-of-asuss-4k-hdr-powerhouse/"><u>[Updated] The Ultimate Review of ASUS's 4K HDR Powerhouse</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-captivate-viewers-adding-animation-to-instagram-text/"><u>2024 Approved Captivate Viewers Adding Animation to Instagram Text</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-enhanced-experience-of-movavi-video-pro/"><u>2024 Approved The Enhanced Experience of Movavi Video Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-quick-and-free-jpeg-to-gif-conversion-services/"><u>2024 Approved Top 10 Quick & Free JPEG-to-GIF Conversion Services</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audiophiles-choice-selecting-superior-oculus-devices-for-2024/"><u>Audiophiles' Choice Selecting Superior Oculus Devices for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-tutorial-install-fubotv-app-on-your-roku-device-or-firestick/"><u>Complete Tutorial: Install FuboTV App on Your Roku Device or Firestick</u></a></li>
+<li><a href="https://article-files.techidaily.com/essential-tips-for-perfect-hdr-shots-with-your-iphone/"><u>Essential Tips for Perfect HDR Shots with Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-the-missing-or-corrupt-mss32dll-error-effectively-and-quickly/"><u>Fix the 'Missing or Corrupt MSS32.dll' Error Effectively and Quickly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/soundtracking-whatsapp-statues-for-2024/"><u>Soundtracking WhatsApp Statues for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/mline-video-analytics-a-guide-to-youtube-statistics-with-social-blade-for-2024/"><u>Streamline Video Analytics A Guide to YouTube Statistics with Social Blade for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/synchronizing-sound-to-pixels-online-for-2024/"><u>Synchronizing Sound to Pixels Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-file-conversion-your-quick-srt-to-text-txt-guide-for-2024/"><u>Transformative File Conversion Your Quick SRT to Text (TXT) Guide for 2024</u></a></li>
+</ul></div>
+

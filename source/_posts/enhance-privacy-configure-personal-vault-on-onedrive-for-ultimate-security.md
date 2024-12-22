@@ -1,7 +1,7 @@
 ---
 title: "Enhance Privacy: Configure Personal Vault on OneDrive for Ultimate Security"
-date: 2024-09-19 12:51:57
-updated: 2024-09-20 11:17:38
+date: 2024-12-16T20:57:24.405Z
+updated: 2024-12-21T21:53:05.597Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/2151304b15358b5e0486365b1b4e0f5fc2185a445
 iStockphoto/Getty Images
 
 I use Microsoft OneDrive to back up and sync my documents, photos, and other files across my different PCs and mobile devices. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -66,6 +70,10 @@ Select folders and files to move to your Personal Vault.
 
 Screenshot by Lance Whitney
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Wait for folders and files to sync to your local OneDrive storage
 
 When done, you should see the folders and files you selected appear in the Personal Vault. Close the online site for OneDrive. Wait for the folders and files to sync to your local OneDrive storage.
@@ -74,6 +82,10 @@ View the folders and files moved to your Personal Vault.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Set the amount of time the Personal Vault will wait to automatically lock
 
 After activating your Personal Vault, there's one setting you'll want to tweak. Right-click the OneDrive System Tray icon and select Settings. Select the Account tab and click the dropdown menu for Personal Vault. Here, you set the amount of time that the Personal Vault will wait to automatically lock after you've unlocked it and have stopped using it. I set mine for 20 minutes to be on the safe side, but you can choose a longer duration if you wish. Click OK.
@@ -81,6 +93,10 @@ After activating your Personal Vault, there's one setting you'll want to tweak. 
 Set the time to automatically lock your Personal Vault.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. To access files in your Personal Vault, select Unlock Personal Vault
 
@@ -99,6 +115,10 @@ Confirm the authentication to unlock your Personal Vault.
 Screenshot by Lance Whitney/ZDNET
 
 **Also:** [**Two-factor authentication is a great idea. But not enough people are using it**](https://www.zdnet.com/article/two-factor-authentication-is-a-great-idea-but-not-enough-people-are-using-it/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. When you're done, wait for the vault to lock automatically or select Lock Personal Vault
 
@@ -146,11 +166,23 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-how-to-avoid-and-reverse-strikes-on-your-youtube-account/"><u>[New] 2024 Approved How to Avoid and Reverse Strikes on Your YouTube Account</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-leveraging-twitters-visual-content-on-snapchat/"><u>[New] 2024 Approved Leveraging Twitter's Visual Content on Snapchat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-avi-conversions-create-gifs-with-filmora-on-pcmac/"><u>[New] Streamlining AVI Conversions Create GIFs with Filmora on PC/Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-beyond-ustream-live-streaming-choices/"><u>[Updated] 2024 Approved Beyond Ustream Live Streaming Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-this-years-premier-trivia-broadcasting-titles/"><u>[Updated] Unveiling This Year's Premier Trivia Broadcasting Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-identifying-lowest-cloud-data-rates/"><u>2024 Approved Strategies for Identifying Lowest Cloud Data Rates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-satire-picture-styler/"><u>2024 Approved Superior Satire Picture Styler</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/quick-tips-for-dissolving-a-facebook-circle/"><u>Quick Tips for Dissolving a Facebook Circle</u></a></li>
+</ul></div>
+

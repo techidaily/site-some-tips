@@ -1,7 +1,7 @@
 ---
 title: Alibaba Group Plans Separation of Cloud Business & Launches Two New Public Offerings
-date: 2024-09-19 19:42:29
-updated: 2024-09-20 11:47:53
+date: 2024-12-17T16:24:51.730Z
+updated: 2024-12-21T21:36:16.286Z
 tags:
   - cloud
 categories:
@@ -94,11 +94,35 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-the-acquisition-of-background-visual-content/"><u>[New] Streamlining the Acquisition of Background Visual Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-q500-typhoon-yuneecs-high-resolution-bliss/"><u>[Updated] In 2024, Q500 Typhoon - Yuneec's High-Resolution Bliss</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-collection-of-top-asmr-microphones/"><u>[Updated] The Ultimate Collection of Top ASMR Microphones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>[Updated] The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-selective-mounting-gopros-best-6-helmet-accessories/"><u>[Updated] The Ultimate Guide to Selective Mounting GoPro's Best 6 Helmet Accessories</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-essential-fixes-to-tackle-fb-story-load-failures/"><u>2024 Approved Essential Fixes to Tackle Fb Story Load Failures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-iphone-framing-finding-the-best-camera-positions/"><u>2024 Approved The Art of iPhone Framing Finding the Best Camera Positions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essence-of-interactive-virtuality/"><u>2024 Approved The Essence of Interactive Virtuality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-wf-2760-driver-installation-for-windows-11-10-and-8-users-step-by-step-guide/"><u>Epson WF 2760 Driver Installation for Windows 11, 10 & 8 Users: Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-s23-tactical-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy S23 Tactical Edition without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-amplify-your-voice-expert-insights-on-podcast-editing-in-garageband/"><u>In 2024, Amplify Your Voice Expert Insights on Podcast Editing in GarageBand</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-excellence-guild-crafting-photos-plus-sounds-visuals/"><u>In 2024, Excellence Guild Crafting Photos + Sounds, Visuals</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-13t-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi 13T Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-text-tools-and-after-effects/"><u>In 2024, Superior Text Tools & After Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-revised-sony-s3700-experience/"><u>In 2024, Unveiling the Revised Sony S3700 Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techniques-of-capturing-emotion-in-digital-gif-formats-for-2024/"><u>Techniques of Capturing Emotion in Digital GIF Formats for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-5-non-flip4mac-solutions-for-watching-wma-and-wmv-files-on-mac-computers/"><u>Top 5 Non-Flip4Mac Solutions for Watching WMA & WMV Files on Mac Computers</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

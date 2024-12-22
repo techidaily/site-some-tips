@@ -1,7 +1,7 @@
 ---
 title: Skyrocketing Expansion of OpenStack Cloud Analyzed on ZDNet - The Future Is Now!
-date: 2024-09-17 11:14:20
-updated: 2024-09-20 12:39:20
+date: 2024-12-15T21:12:03.635Z
+updated: 2024-12-21T18:35:09.288Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/topic/cloud/    https://www.zdnet.com/a/img/res
 OpenStack clouds are heading for multi-billion dollar revenue.
 
 One bit of accepted wisdom in some cloud circles is that [OpenStack](https://www.openstack.org/), the open-source Infrastructure as a Service (IaaS) cloud, is declining. Nothing could be further from the truth. It's alive, well, and growing like crazy. According to the [2022 OpenStack User Survey](https://www.openstack.org/user-survey/2022-user-survey-report), OpenStack now has over 40 million production cores. Or, in other words, it's seen 60% growth since 2021 and a 166% jump since 2020\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -53,11 +57,29 @@ Put it all together, and as OpenInfra Foundation's general manager Thierry Carre
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-brief-methods-for-sending-iphone-media-to-pc/"><u>[New] Brief Methods for Sending iPhone Media to PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-least-expensive-skyvault-service-for-big-files/"><u>[New] The Least Expensive SkyVault Service for Big Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-tutorial-for-applying-video-filters-on-devices/"><u>[New] The Ultimate Tutorial for Applying Video Filters on Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlined-iphones-how-to-grab-your-favorite-podcasts/"><u>[Updated] Streamlined iPhones How to Grab Your Favorite Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-movie-maker-on-windows-8/"><u>[Updated] Unveiling the Secrets of Movie Maker on Windows 8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-synergy-of-software-high-quality-text-plugins-reviewed/"><u>2024 Approved Synergy of Software High-Quality Text Plugins Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-unbiased-freepaid-blu-ray-vids-on-pcmac/"><u>2024 Approved Ultimate Guide Unbiased Free/Paid Blu-Ray Vids on PC/Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-30-new-dimensions-in-metaverse-memes/"><u>2024 Approved Unveiling 30 New Dimensions in Metaverse Memes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/5yid5bplusd6icf44gu44gf44kb44gu5yuv55s75a2x5bmv5oyv44kk5luy44gric0g5a6m5ywo44gq54sh5paz44ks44kk44oj/"><u>初心者のための動画字幕振り付け - 完全な無料ガイド</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-logitech-m525-mouse-drivers-and-installation-software/"><u>Download Logitech M525 Mouse Drivers & Installation Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enthusiast-revamps-faulty-lenovo-laptop-elevates-experience-with-premium-titanium-shell-and-clickity-click-mechanical-keys/"><u>Enthusiast Revamps Faulty Lenovo Laptop, Elevates Experience with Premium Titanium Shell & Clickity-Click Mechanical Keys</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reviving-lost-sms-a-guide-to-retrieving-deleted-texts-across-all-phones/"><u>Reviving Lost SMS: A Guide to Retrieving Deleted Texts Across All Phones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-overcoming-low-frames-per-second-fps-in-valorant-essential-tips-and-techniques/"><u>The Ultimate Fix: Overcoming Low Frames Per Second (FPS) in Valorant - Essential Tips & Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/turn-down-the-volume-xboxs-stealth-mode/"><u>Turn Down the Volume: Xbox's Stealth Mode</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-truth-five-common-errors-in-understanding-data-revenue-strategies-on-zdnet/"><u>Unveiling the Truth: Five Common Errors in Understanding Data Revenue Strategies on ZDNet</u></a></li>
+</ul></div>
+

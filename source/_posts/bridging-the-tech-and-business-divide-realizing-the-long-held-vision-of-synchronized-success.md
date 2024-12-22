@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Tech and Business Divide: Realizing the Long-Held Vision of Synchronized Success"
-date: 2024-09-19 10:12:10
-updated: 2024-09-20 12:22:52
+date: 2024-12-18T04:17:29.221Z
+updated: 2024-12-21T19:24:26.510Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 Business-IT alignment has been a dream talked up for decades by analysts, speakers, technologists and business leaders. Did the Covid situation finally force things into alignment? 
 
 Look to the growing emphasis on customer experience (CX) among technology staffs, which has moved their priorities from the care and feeding of back-end systems to the care and feeding of actual customers. Not every organization is quite there yet, and many tech professionals still feel cut off from the final delivery of products and services to consumers. Nevertheless, the world of tech is changing, requiring new mindsets and ways of working -- including greater collaboration and greater empathy. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -43,11 +47,33 @@ We may eventually see the day when tech and business priorities are indistinguis
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-swift-image-adaptation-techniques-for-iphone-users/"><u>[New] Swift Image Adaptation Techniques for iPhone Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-finest-4k-displays-for-precise-color-control-for-2024/"><u>[New] The Finest 4K Displays for Precise Color Control for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-toolwiz-revolutionizes-camera-use-a-comprehensive-review-for-photographers/"><u>[New] Toolwiz Revolutionizes Camera Use - A Comprehensive Review for Photographers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-8-3d-websites-with-stunning-gold-text-visuals/"><u>[New] Top 8 3D Websites with Stunning Gold Text Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unifying-platforms-the-art-of-incorporating-linktree-in-tiktok-biographies/"><u>[New] Unifying Platforms The Art of Incorporating Linktree in TikTok Biographies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-essential-tips-for-lut-production/"><u>[New] Unleash Creativity Essential Tips for LUT Production</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-instant-techniques-to-shuffle-youtube-song-sequences/"><u>[Updated] 2024 Approved Instant Techniques to Shuffle YouTube Song Sequences</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-enhancing-zoom-picture-resolution-easy-fixes-for-2024/"><u>[Updated] Enhancing Zoom Picture Resolution Easy Fixes for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-rhythmripper-screen-recordings-review/"><u>[Updated] RhythmRipper Screen Recordings Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-offline-speech-to-text-transcription-apps/"><u>[Updated] Top Offline Speech-to-Text Transcription Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-age-of-empires-unleashed-exploring-the-7-greatest-battles/"><u>2024 Approved Age of Empires Unleashed Exploring the 7 Greatest Battles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-decreasing-audio-intensity-in-logic-pro/"><u>2024 Approved The Art of Decreasing Audio Intensity in Logic Pro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dell-optiplex-7010-drivers-download-and-update/"><u>Dell OptiPlex 7010 Drivers Download & Update</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-gt-5-240w-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT 5 (240W) without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/should-i-jump-on-apple-watchs-newest-model/"><u>Should I Jump on Apple Watch's Newest Model?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/squaring-the-circle-of-facebook-engagement-with-visuals-for-2024/"><u>Squaring the Circle of Facebook Engagement with Visuals for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-mac-with-the-latest-macos-11-big-sur-overview-for-2024/"><u>Transform Your Mac with the Latest MacOS 11 Big Sur Overview for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-creative-potential-with-pexels-visuals-for-2024/"><u>Unlocking Creative Potential with Pexels Visuals for 2024</u></a></li>
+</ul></div>
+

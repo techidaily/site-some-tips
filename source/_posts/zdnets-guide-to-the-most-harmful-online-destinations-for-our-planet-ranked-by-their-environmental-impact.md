@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Guide to the Most Harmful Online Destinations for Our Planet, Ranked by Their Environmental Impact
-date: 2024-09-19 15:13:39
-updated: 2024-09-20 10:37:53
+date: 2024-12-14T18:48:07.443Z
+updated: 2024-12-22T04:25:19.212Z
 tags:
   - cloud
 categories:
@@ -17,6 +17,10 @@ Greg Nichols/DALL-E
 
 Poking around online, it's easy to forget that the digital spaces we move through have non-digital consequences. When it comes to the environment, [major websites have a surprising footprint](https://www.zdnet.com/article/google-creates-tools-to-track-carbon-footprint-emissions-data/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [How the New Space Race Will Drive Innovation Some of humanity's greatest innovations have emerged from space exploration. With a new space race led by the next generation of private companies, here's how they're pushing the boundaries again.  Read now](https://www.zdnet.com/topic/how-the-new-space-race-will-drive-innovation/)
@@ -31,6 +35,10 @@ While consumers may not outright avoid, say, a major e-commerce platform because
 
 So how did major websites fair? Spoiler alert: Amazon is a pretty dirty site, but at least two major governmental websites devoted to the environment are downright filthy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Methodology
 
 The clean ranking system used to determine website rank took into account whether or not a site ran on sustainable energy, such as solar and wind, how much CO2 a site produces per visit and per year, and how many trees are needed to absorb a site's CO2 emissions.
@@ -42,6 +50,10 @@ Payless Power relied on the Website Carbon Calculator at [websitecarbon.com](htt
 > From data centres to transmission networks to the billions of connected devices that we hold in our hands, it is all consuming electricity, and in turn producing carbon emissions equal to or greater than the global aviation industry. Yikes!
 > 
 > We developed the first methodology for calculating the carbon emissions attributed to a website and this free website carbon calculator is here to help raise awareness and inspire a more sustainable internet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Results
 
@@ -80,11 +92,25 @@ For a full list of results [check out the report](https://paylesspower.com/blog/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-exclusive-review-best-free-videocall-platforms-w-screen-view/"><u>[New] 2024 Approved Exclusive Review Best Free Videocall Platforms W/ Screen View</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-psd-style-boosting/"><u>[New] Ultimate PSD Style Boosting</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728502394524-4/"><u>【無料ガイド】完全に抹消された写真を元通りにする方法：4コツ大解析！</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-the-best-video-footage-with-gopro/"><u>2024 Approved Unleashing the Best Video Footage with GoPro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-tech-5-must-have-streaming-webcams-for-gamers/"><u>Essential Tech 5 Must-Have Streaming Webcams for Gamers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-tecno-spark-go-2023-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Tecno Spark Go (2023) FRP Locks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-note-12rmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi Note 12RMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-audio-output-device-missing-on-windows-11/"><u>Solving 'Audio Output Device Missing' On Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-mac-mkv-players-compilation-for-2024/"><u>Top Mac MKV Players Compilation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guides-to-3d-type-exploration-for-2024/"><u>Ultimate Guides to 3D Type Exploration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-mechanism-behind-cross-audio-blending-for-2024/"><u>Unveiling the Mechanism Behind Cross-Audio Blending for 2024</u></a></li>
+</ul></div>
+

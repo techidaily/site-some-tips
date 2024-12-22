@@ -1,7 +1,7 @@
 ---
 title: "Taking the Lead in Cloud Gaming: How Microsoft & Samsung Could Revolutionize the Industry"
-date: 2024-09-18 13:28:53
-updated: 2024-09-20 11:41:57
+date: 2024-12-15T18:09:51.638Z
+updated: 2024-12-22T01:39:21.455Z
 tags:
   - cloud
 categories:
@@ -33,9 +33,17 @@ To date, [that list of supported devices](https://www.xbox.com/en-US/xbox-game-p
 
 Microsoft -- Samsung
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Why is this a big deal?** 
 
 People will, generally speaking, take the easiest route to their goal. When that goal is playing video games, the easiest route can still be pretty complicated and quite expensive. To date, playing most cloud-based games on your living room television would have required hooking up an external device, like an NVIDIA Shield or PC, to your TV via HDMI. Either of these would obviously add hundreds of dollars to the cost of entry and would require the technical know-how to complete said hookups. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -61,6 +69,10 @@ This new partnership drops that cost to a bare minimum. Obviously, to game on a 
 
 [The best gaming headsets: Immersive sound for an extra edge Whether your game on a console or PC, a headset can elevate your play.  Read now](https://www.zdnet.com/article/best-gaming-headset/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Ease of use**
 
 Cloud gaming's other biggest benefit is how easy it is to use. Ideally, you should be able to game from anywhere, on a variety of devices, with little to no setup required. Unfortunately, the reality has frequently failed to match those ideals in these early days, especially for those hoping to game on a TV. The aforementioned need for a connected PC or other game streaming devices has undoubtedly turned many less technically-savvy gamers away. And the need to wrangle web apps and browser-based deployments on platforms that don't willingly provide first-party support (I'm looking at you, Apple) can often be a trial.
@@ -81,6 +93,10 @@ We won't know for sure how well Microsoft and Samsung will be able to account fo
 But, even with all involved parties being fully on board, can modern broadband networks and cloud-based gaming technologies truly create an experience close enough to "the real thing" to finally push cloud-based gaming to mainstream status? If you can prove the answer to that, Microsoft, Samsung, and just about every other company in gaming would very likely want to have a conversation with you.
 
 Getty -- MoMo Productions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **What Microsoft and Samsung need to succeed**
 
@@ -103,6 +119,10 @@ How did this shift occur? Well, the mobile games powering these sales have a low
 If Samsung and Microsoft manage to make playing console-quality games just as easy and inexpensive as mobile gaming, there's no reason they can't reap just as many benefits as their smartphone-based counterparts. 
 
 Additionally, casual gamers also tend to be more accepting of the idiosyncrasies that more competitive customers might not accept. That bit of lag that ruined your competitive _Halo Infinite_ match? Not likely to do much to hamper the chill RPG session your friend was enjoying. Your top-tier _Forza Horizon 5_ race performance is suffering from controller latency? The social _Among Us_ player next to you will probably just shrug and wonder what's the big deal. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Competitive gamers**
 
@@ -141,11 +161,27 @@ June 30 isn't too far off. If Microsoft and Samsung leverage the moment just the
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-5-preferred-sites-to-download-dynamic-and-versatile-text-effects-for-2024/"><u>[New] 5 Preferred Sites to Download Dynamic and Versatile Text Effects for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-balancing-core-and-supporting-visual-elements/"><u>[Updated] 2024 Approved Balancing Core & Supporting Visual Elements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-filmmakers-guide-to-enhancing-close-ups-using-kinemaster/"><u>[Updated] The Filmmaker’s Guide to Enhancing Close-Ups Using Kinemaster</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-pathway-to-visual-storytelling-on-youtube/"><u>[Updated] The Ultimate Pathway to Visual Storytelling on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-recorders-bible-for-clear-conversations/"><u>[Updated] The Ultimate Recorder's Bible for Clear Conversations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-potential-of-adobe-and-exploring-others/"><u>[Updated] Unlocking the Potential of Adobe & Exploring Others</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-art-of-radial-filtering-with-photoshop/"><u>2024 Approved Master the Art of Radial Filtering with Photoshop</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-superb-video-connections-adventures/"><u>2024 Approved Superb Video Connections Adventures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generating-conversational-genius-who-will-excel/"><u>Generating Conversational Genius - Who Will Excel?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-note-30-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Note 30 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-lightning-fast-lore-resurrecting-reddit-articles-lost/"><u>In 2024, Lightning-Fast Lore Resurrecting Reddit Articles Lost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-commercial-cloud-vaulting/"><u>In 2024, Superior Commercial Cloud Vaulting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-insiders-guide-to-time-lagged-masterpieces-with-your-android-phone-for-2024/"><u>The Insider's Guide to Time-Lagged Masterpieces with Your Android Phone for 2024</u></a></li>
+</ul></div>
+

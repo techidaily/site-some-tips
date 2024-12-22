@@ -1,7 +1,7 @@
 ---
 title: Cloud Computing Takes the Lead as Singapore Allocates More Funds to ICT - Insights and Analysis | ITInsight
-date: 2024-09-18 22:37:31
-updated: 2024-09-20 11:29:40
+date: 2024-12-20T21:15:42.579Z
+updated: 2024-12-21T17:20:13.425Z
 tags:
   - cloud
 categories:
@@ -82,11 +82,32 @@ In addition, GovTech will assess the use of containers and microservices for app
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-clearsnap-for-windows-quick-and-clean-shots/"><u>[New] ClearSnap for Windows Quick & Clean Shots</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitta-to-trackable-audio-transitions/"><u>[New] In 2024, Twitta to Trackable Audio Transitions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-apex-of-narrative-content-youtubes-finest-in-23/"><u>[New] The Apex of Narrative Content YouTube’s Finest in '23</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-battle-of-av1-and-vp9-outcomes-revealed/"><u>[New] The Battle of AV1 and VP9 Outcomes Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-top-8-online-places-for-free-3d-text-files/"><u>[New] The Ultimate Guide Top 8 Online Places for Free 3D Text Files</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-behind-the-scenes-professional-steam-capture-methods/"><u>[Updated] 2024 Approved Behind the Scenes Professional Steam Capture Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-immediate-ios-screen-playback-guide/"><u>[Updated] In 2024, Immediate iOS Screen Playback Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-strategies-for-podcast-rankings-and-visibility/"><u>2024 Approved Transformative Strategies for Podcast Rankings and Visibility</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-twitch-chat-mysteries-essential-tips-for-new-stream-watchers/"><u>Decoding Twitch Chat Mysteries: Essential Tips for New Stream Watchers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-latest-nvidia-rtx-2080-drivers-compatible-with-windows-8-7-and-10/"><u>Download Latest NVIDIA RTX 2080 Drivers Compatible with Windows 8, 7 & 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-strategies-for-managing-nintendo-console-logins/"><u>Expert Strategies for Managing Nintendo Console Logins</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nubia-red-magic-9-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nubia Red Magic 9 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-audio-modification-software-with-enchanting-features-for-2024/"><u>Superior Audio Modification Software with Enchanting Features for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-video-hue-correction-11-steps-for-2024/"><u>The Essential Guide to Video Hue Correction (11 Steps) for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Struggling with Google Drive Management? Discover the Ultimate Solution That Cleared My Storage Chaos - Featured on ZDNet!
-date: 2024-09-18 20:24:34
-updated: 2024-09-20 12:22:26
+date: 2024-12-20T17:26:13.572Z
+updated: 2024-12-21T18:50:25.263Z
 tags:
   - cloud
 categories:
@@ -41,6 +41,10 @@ But even then, I still face the problem I described above -- how much storage is
 
 Fortunately, while Google doesn't offer a solution, a developer named Brett Batie in Traverse City, MI has come up with a solution. It's called [Filerev](https://filerev.com/) and it does just what you would have expected Google Drive to do. It answers questions and helps manage vast amounts of data. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Understanding (or not understanding) current storage utilization 
 
 When we [last encountered this issue](https://www.zdnet.com/article/the-other-shoe-finally-dropped-on-my-google-enterprise-cloud-storage-plan/), I was trying to optimize my storage utilization, so that it didn't grow beyond its new 75TB bounds. 
@@ -72,6 +76,10 @@ As for the Details pane (pain?), it doesn't contain any data about size at all. 
 Screenshot by David Gewirtz/ZDNET
 
 So, how on Earth can I determine how much storage I am using in each of my folders? We're talking about an enterprise account with 58TB of storage. And yet, there's no visibility into storage utilization. It's not just bizarre, it's deeply inconvenient. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Say hello to Filerev 
 
@@ -123,6 +131,10 @@ As it turns out, that storage category accounts for all my virtual machines. And
 
 It won't be easy to trim down those VM syncs, but it's definitely something I can look at, because I know a bunch of those VMs are very obsolete. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Final thoughts 
 
 I made a few interesting discoveries. My Cloud Backup share isn't the villain I thought it was. That honor goes to the Liberty Backups folder. Second, the biggest category of storage is my storage of old VMs. That's a homework assignment I need to follow up on to clear out more space. 
@@ -143,11 +155,23 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tag-and-showcase-a-podcast-episode/"><u>[New] Tag and Showcase a Podcast Episode</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-eye-catching-vlog-talk-points/"><u>[Updated] 2024 Approved Eye-Catching Vlog Talk Points</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-secrets-unveiled-for-documenting-real-time-sports/"><u>[Updated] 2024 Approved Secrets Unveiled for Documenting Real-Time Sports</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-video-earning-excellence-mastering-youtube-monetization-anywhere/"><u>[Updated] 2024 Approved Video Earning Excellence Mastering YouTube Monetization Anywhere</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-swift-strategies-to-end-windows-10s-unstable-photo-viewing/"><u>[Updated] In 2024, Swift Strategies to End Windows 10'S Unstable Photo Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-spoken-words-into-written-text-using-in-built-tools-of-office-suite-ms-word/"><u>[Updated] Transforming Spoken Words Into Written Text Using In-Built Tools of Office Suite - MS Word</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-your-picks-for-the-best-photovideo-makers-that-tune-in-music/"><u>2024 Approved Your Picks for the Best Photo/Video Makers That Tune in Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/switching-up-your-iphones-call-sound-effectively-for-2024/"><u>Switching up Your iPhone's Call Sound Effectively for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-luxury-cosmetics-series-for-2024/"><u>Ultimate Luxury Cosmetics Series for 2024</u></a></li>
+</ul></div>
+

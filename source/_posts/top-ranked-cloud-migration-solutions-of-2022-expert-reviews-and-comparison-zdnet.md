@@ -1,7 +1,7 @@
 ---
 title: Top-Ranked Cloud Migration Solutions of 2022 – Expert Reviews & Comparison (ZDNet)
-date: 2024-09-19 15:14:16
-updated: 2024-09-20 11:24:10
+date: 2024-12-16T16:52:51.525Z
+updated: 2024-12-22T02:16:38.724Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ According to statistics aggregator service Statistica, [organizations used an av
 I've written before about how cloud vendors can [capriciously change their policies](https://www.zdnet.com/article/a-terabyte-too-tight-small-businesses-beware-the-cloud-storage-ceiling/) and pricing and [how lock-in can arise](https://www.zdnet.com/article/the-cloud-calculation-factor-these-lock-in-and-switching-costs-into-your-cloud-plans/) out of cloud reliance. Once you're fully invested (and therefore fully reliant) on the cloud, this can be a real problem.
 
 But just because the cloud can be a somewhat challenging place when it comes to lock-in and switching costs, that doesn't mean you have to be locked in. This article shows you our pick of services that can help you fight lock-in and switch to other providers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Messaging migration the Google and Microsoft way 
 
@@ -72,6 +76,10 @@ There are also some substantial migration limitations. Shared calendars, cloud a
 * Migration tool doesn't work with records management (MRM) or archival policies
 
 [View now at Microsoft](https://docs.microsoft.com/en-us/exchange/mailbox-migration/perform-g-suite-migration) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Services that can help with migration 
 
@@ -181,15 +189,27 @@ A better solution is doing a cloud-to-cloud migration, where your data never has
 
 [View now at MultiCloud](https://www.multcloud.com/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## What about security? Can I trust these companies with my data?
 
 That's a very good question. Let's be clear: we did _not_ do a security audit for any of these companies. Some companies are in different countries, and those nations may have different data integrity regulations. If you're concerned about security, start a dialog with the vendors, but also look at discussion boards and forums for any user reports. Ask for independent audits, if available. Do your diligence until you feel reasonably secure. But do not forget: your data will traverse the servers of these companies, which means it may well be at some risk. On the other hand, how much due diligence did you do before putting your data in the cloud in the first place?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How fast are the transfers?
 
 There's no set answer to that. It depends on what clouds you're using and moving to, as well as how much data you need to move. I've done a few email migrations for my small company and one big help desk migration. It all took about a week. Most of the time was spent communicating back and forth with the migration vendor and getting the transfer just right. The data movement itself was relatively quick. But moving that 27TB I currently have in cloud file storage would definitely take quite a long while, no matter what service is used.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if I have special needs?
 
@@ -237,11 +257,27 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unique-narratives-increased-channel-visibility/"><u>[New] 2024 Approved Unique Narratives, Increased Channel Visibility</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-exploring-filmora-magic-top-10-intriguing-edits/"><u>[New] Exploring Filmora Magic Top 10 Intriguing Edits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-pinnacle-10-royale-struggle-games/"><u>[New] In 2024, Pinnacle 10 Royale Struggle Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-adding-time-markers-on-youtubes/"><u>[New] The Ultimate Guide to Adding Time Markers on YouTubes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-tactics-in-producing-convincing-customer-testimonial-videos/"><u>[New] Top Tactics in Producing Convincing Customer Testimonial Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-eden-echoes-best-rural-role-playing-realms/"><u>[Updated] 2024 Approved Eden Echoes Best Rural Role-Playing Realms</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-insiders-guide-to-on-screen-text-in-youtube-media/"><u>[Updated] The Insider's Guide to On-Screen Text in YouTube Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-simple-sessions-into-high-end-audacity-recordings/"><u>2024 Approved Transforming Simple Sessions Into High-End Audacity Recordings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-every-frame-best-free-download-apps-for-mobile-devices-for-2024/"><u>Enjoy Every Frame Best Free Download Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upholders-of-popularity-the-10-most-loved-reddit-stories/"><u>In 2024, Upholders of Popularity The 10 Most Loved Reddit Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/opting-for-hdri-a-better-step-forward-in-video-production-for-2024/"><u>Opting for HDRI A Better Step Forward in Video Production for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-driver-changes-in-windows-7/"><u>Simplified Driver Changes in Windows 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-x-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone X?</u></a></li>
+</ul></div>
+

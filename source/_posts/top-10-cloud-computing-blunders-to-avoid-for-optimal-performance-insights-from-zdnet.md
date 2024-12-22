@@ -1,7 +1,7 @@
 ---
 title: Top 10 Cloud Computing Blunders to Avoid for Optimal Performance - Insights From ZDNet
-date: 2024-09-19 14:14:33
-updated: 2024-09-20 10:35:46
+date: 2024-12-15T00:13:28.715Z
+updated: 2024-12-21T17:31:02.912Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: FG Trade/Getty Images
 Tech analyst firm Gartner has set out 10 things you should avoid when [building a cloud-computing strategy](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) in a world that is leaning towards cloud-first. Because being cloud-first doesn't necessarily mean 'cloud only'. 
 
 As cloud becomes the [dominant way of consuming compute, storage and networking](https://www.zdnet.com/article/cloud-computing-is-about-to-hit-another-big-milestone/), organisations should be crafting a concise 10-to-20-page "consumable document" that guides those who implement the strategy, according to Marco Meinardi, vice president analyst at Gartner. "The business strategy should drive the cloud strategy and provide guidance to those who will implement it. It must coexist with other strategic efforts, not try to redo them," [Meinardi notes](https://www.gartner.com/en/newsroom/press-releases/2022-11-21-gartner-highlights-ten-common-cloud-strategy-mistakes). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -84,11 +88,25 @@ Gartner's 10 cloud computing mistakes to avoid:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-navigating-through-self-playing-options-in-fb-videos/"><u>[Updated] 2024 Approved Navigating Through Self-Playing Options in Fb Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-rhythm-of-the-room-mac-audio-guide/"><u>[Updated] 2024 Approved The Rhythm of the Room Mac Audio Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-visual-companion-premium-webcams-for-podcasts/"><u>[Updated] The Ultimate Visual Companion Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-quick-info-on-short-form-media/"><u>2024 Approved Quick Info on Short Form Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-tutorial-for-lut-use-in-after-effects/"><u>2024 Approved The Ultimate Tutorial for LUT Use in After Effects</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-dvd-playback-options-for-windows-10-updated-2023-for-2024/"><u>Best Free DVD Playback Options for Windows 10 (Updated 2023) for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-potential-of-your-podcast-covers-now-for-2024/"><u>Unlock the Potential of Your Podcast Covers Now for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-custom-tunes-for-your-pixel-phone-for-2024/"><u>Unlocking Custom Tunes for Your Pixel Phone for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-skys-bounty-to-brighten-indoors-for-2024/"><u>Utilizing Sky's Bounty to Brighten Indoors for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/walkthrough-to-securing-lower-cost-on-microsoft-products-through-student-savings/"><u>Walkthrough to Securing Lower Cost on Microsoft Products Through Student Savings.</u></a></li>
+</ul></div>
+

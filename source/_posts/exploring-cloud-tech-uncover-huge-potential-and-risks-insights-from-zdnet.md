@@ -1,7 +1,7 @@
 ---
 title: "Exploring Cloud Tech: Uncover Huge Potential & Risks - Insights From ZDNet"
-date: 2024-09-17 10:58:54
-updated: 2024-09-20 10:13:56
+date: 2024-12-18T04:01:36.336Z
+updated: 2024-12-21T21:48:25.691Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/749189d3cf96e07116b3345727ad3fbca6dd8d53d
 Image: Getty Images/Maskot
 
 Shifting applications and infrastructure over to [cloud computing services](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) can make life easier in some ways, it doesn't automatically mean you can give up all responsibility for keeping your organisations's data secure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -87,11 +91,31 @@ Developing the right security posture is hard: some companies worry about sophis
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-craft-captivating-gopro-time-lapse-footage-hacks/"><u>[New] Craft Captivating GoPro Time-Lapse Footage Hacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlined-online-gif-conversion-for-videos-top-5/"><u>[New] Streamlined Online GIF Conversion for Videos (Top 5)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-pathway-to-delicate-audible-reduction-within-lumafusion/"><u>[New] The Pathway to Delicate Audible Reduction Within Lumafusion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-instant-recovery-of-vanished-visuals/"><u>[Updated] In 2024, Instant Recovery of Vanished Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-switch-to-picture-in-picture-for-youtube-videos-on-iphones/"><u>[Updated] Switch to Picture-in-Picture for YouTube Videos on iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thorough-investigation-into-simple-hdr-imaging/"><u>[Updated] Thorough Investigation Into Simple HDR Imaging</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-timeless-1980s-filters-and-techniques-in-editing/"><u>[Updated] Timeless 1980S Filters & Techniques in Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-your-inner-comedy-with-gif-mastery/"><u>[Updated] Unleash Your Inner Comedy with GIF Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-ready-to-play-youtubes-innovative-mini-gaming-tests-announced/"><u>Get Ready to Play: YouTube's Innovative Mini Gaming Tests Announced</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oneplus-nord-n30-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide OnePlus Nord N30 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>In 2024, Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-swiftly-secure-screen-shots-on-windows/"><u>In 2024, Swiftly Secure Screen Shots on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synthesize-sounds-and-images-in-ppts/"><u>In 2024, Synthesize Sounds and Images in PPTS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-affordable-cloud-space-best-of-the-20/"><u>In 2024, The Ultimate Guide to Affordable Cloud Space Best of the 20</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ion-tailgater-plus-portable-speaker-features-performance-and-bass-boosting-capabilities-explored-in-review/"><u>ION Tailgater Plus Portable Speaker: Features, Performance & Bass-Boosting Capabilities Explored in Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimize-your-facebook-routine-using-our-five-key-productivity-hacks/"><u>Optimize Your Facebook Routine Using Our Five Key Productivity Hacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-top-5-elite-slow-camera-systems-for-2024/"><u>Unveiling the Top 5 Elite Slow Camera Systems for 2024</u></a></li>
+</ul></div>
+

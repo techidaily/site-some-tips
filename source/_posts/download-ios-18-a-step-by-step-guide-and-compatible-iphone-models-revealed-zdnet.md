@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: A Step-by-Step Guide and Compatible iPhone Models Revealed | ZDNet"
-date: 2024-12-14T21:12:15.184Z
-updated: 2024-12-21T05:57:25.790Z
+date: 2024-12-15T20:05:08.347Z
+updated: 2024-12-21T20:50:00.447Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
@@ -36,21 +40,17 @@ Jason Hiner/ZDNET
 
 Go to your iPhone's Settings and select General. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -58,10 +58,14 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
@@ -69,7 +73,7 @@ After installing the latest iOS update, your iPhone will restart.
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When was iOS 18 released?
@@ -85,10 +89,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -161,24 +161,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-boosting-your-brand-on-instagram-proven-5-techniques-and-success-stories/"><u>[New] Boosting Your Brand on Instagram Proven 5 Techniques & Success Stories</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-brand-consistency-in-action-inserting-logoswatermarks-into-videos-for-2024/"><u>[New] Brand Consistency in Action Inserting Logos/Watermarks Into Videos for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-seamless-video-transition-tweeting-plus-tumbling-for-2024/"><u>[New] Seamless Video Transition Tweeting + Tumbling for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mastering-the-art-of-frames-with-top-rated-tools-24/"><u>[Updated] 2024 Approved Mastering the Art of Frames with Top-Rated Tools '24</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-beginners-blueprint-to-youtube-streaming-games-for-2024/"><u>[Updated] Beginner's Blueprint to YouTube Streaming Games for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comparing-ultra-hd-understanding-the-shift-from-1080p-to-4k-resolution/"><u>Comparing Ultra HD: Understanding the Shift From 1080P to 4K Resolution</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/converting-vimeo-content-into-itunes-compatible-formats-mp4-mov-mp3/"><u>Converting Vimeo Content Into iTunes Compatible Formats (MP4, MOV, MP3)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/decouvrez-les-17-meilleures-utilitaires-gratuit-pour-capturer-des-ecrans-en-2n24-guide-complet-avec-movavi/"><u>Découvrez Les 17 Meilleures Utilitaires Gratuit Pour Capturer Des Écrans en 2N24 - Guide Complet Avec Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/easy-steps-transferring-video-content-into-imovie-with-a-reliable-converter/"><u>Easy Steps: Transferring Video Content Into iMovie with a Reliable Converter</u></a></li>
-<li><a href="https://some-tips.techidaily.com/hatosagos-movavi-videkedzser-gyujtani-online/"><u>Hatóságos Movavi Vidékedzser - Gyújtani Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/hoelang-zijn-de-eps-bestedingen-open-de-geschiedenis-van-het-eps-formaat-in-kaart-brengen/"><u>Hoelang Zijn De EPS-Bestedingen Open: De Geschiedenis Van Het EPS-Formaat in Kaart Brengen</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/live-feed-capture-via-obs-for-instagram-for-2024/"><u>Live Feed Capture via OBS for Instagram for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/section-3c-qandas-on-carpal-tunnel-syndrome/"><u>Section 3C: Q&As on Carpal Tunnel Syndrome</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-window-resolution-on-windows-11/"><u>Tailoring Window Resolution on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-avi-files-into-wmv-format-at-no-cost-with-movavi-video-editor/"><u>Transform AVI Files Into WMV Format at No Cost with Movavi Video Editor</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-sizing-your-videos-perfectly-for-tiktok-on-any-device/"><u>Ultimate Guide: Sizing Your Videos Perfectly for TikTok on Any Device</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/verstandliche-erklarung-zum-fehlen-der-funktionalitat-des-kopierens-auf-einen-usb-anschluss-bei-mac-computern/"><u>Verständliche Erklärung Zum Fehlen Der Funktionalität Des Kopierens Auf Einen USB-Anschluss Bei Mac-Computern</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726222751600-12/"><u>각인 아카이돔 등급: 12가지 무료 쇼바 드라마 모음 - 저녁 시즌 훌륭한 재미를 만나세요!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-essential-techniques-5-audio-recording-tools-in-windows-11/"><u>[New] 2024 Approved Essential Techniques 5 Audio Recording Tools in Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-webcammastery-practicalrecordingsteps/"><u>[New] 2024 Approved WebCamMastery PracticalRecordingSteps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-time-lapse-tales-smartphone-storytelling-techniques/"><u>[New] Time-Lapse Tales Smartphone Storytelling Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-strategy-for-bio-linking-on-tiktok/"><u>[New] Ultimate Strategy for Bio Linking on TikTok</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-audience-appreciation-assessment-self-and-seekers-vs-rival-repertoires/"><u>[Updated] 2024 Approved Audience Appreciation Assessment Self and Seekers Vs. Rival Repertoires</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essential-guide-to-tapered-music-transitions-in-premiere-pro/"><u>[Updated] The Essential Guide to Tapered Music Transitions in Premiere Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-premier-screen-recording-software-roundup-for-2024/"><u>[Updated] The Premier Screen Recording Software Roundup for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-innovative-methods-to-archive-lol-dueling/"><u>2024 Approved Innovative Methods to Archive LOL Dueling</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-smart-8-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Smart 8 Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside/"><u>In 2024, The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-your-vision-into-stunning-hdr-portraits/"><u>In 2024, Transforming Your Vision Into Stunning HDR Portraits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-facebook-live-presentations-with-manycam-assistance-and-faqs-for-seamless-streaming/"><u>Mastering Facebook Live Presentations with ManyCam: Assistance & FAQs for Seamless Streaming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/reimagine-personal-storytelling-on-snapchat-access-a-library-of-over-120-ideas-to-stand-out/"><u>Reimagine Personal Storytelling on Snapchat Access a Library of Over 120 Ideas to Stand Out</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-dying-light-auditory-glitch-easily-with-our-troubleshooting-steps/"><u>Resolve Your Dying Light Auditory Glitch Easily with Our Troubleshooting Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-blueprint-to-dominate-with-your-spotify-ad-campaign-for-2024/"><u>The Blueprint to Dominate With Your Spotify Ad Campaign for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-selection-of-christian-streaming-sites-for-2024/"><u>The Ultimate Selection of Christian Streaming Sites for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-best-top-9-gamers-hubs-for-2024/"><u>Unlock the Best Top 9 Gamers' Hubs for 2024</u></a></li>
 </ul></div>
 

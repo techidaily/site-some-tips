@@ -1,7 +1,7 @@
 ---
 title: "Discover the Top 5 Exciting Features of Apple's iOS 18 Preview: A Dive Into the Latest Public Beta!"
-date: 2024-12-20T05:52:19.800Z
-updated: 2024-12-20T16:46:21.009Z
+date: 2024-12-14T16:30:01.533Z
+updated: 2024-12-21T18:35:15.480Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,24 +120,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-simplified-conversion-strategies-for-xml-ssa-and-ttml-into-srt/"><u>[New] Simplified Conversion Strategies for XML, SSA & TTML Into SRT</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-10-top-must-have-gear-items-for-youtubers/"><u>[Updated] 2024 Approved 10 Top Must-Have Gear Items for YouTubers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-methods-for-eliminating-invisible-youtube-playback/"><u>[Updated] In 2024, Methods for Eliminating Invisible YouTube Playback</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-sunlit-shades-to-subdued-spectrum-in-photoshop/"><u>[Updated] Sunlit Shades to Subdued Spectrum in Photoshop</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-techniques-for-selective-image-softening-pcmobile/"><u>[Updated] Techniques for Selective Image Softening PC/Mobile</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-visual-clarity-bypassing-background-in-photopea/"><u>[Updated] Unlocking Visual Clarity Bypassing Background in Photopea</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-how-to-efficiently-record-internet-radio/"><u>[Updated] Unveiling the Secrets How To Efficiently Record Internet Radio</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-x-audio-enhancer-for-computer-use/"><u>[Updated] X-Audio Enhancer for Computer Use</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-windows-11-photo-videos/"><u>2024 Approved Streamline Your Windows 11 Photo Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tapping-into-the-funny-side-with-photos/"><u>2024 Approved Tapping Into the Funny Side with Photos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultra-stable-gimbals-for-mobile-and-professional-photography/"><u>2024 Approved Ultra-Stable Gimbals for Mobile & Professional Photography</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-poco-x6-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Poco X6 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722963313670-direct-link-to-eveo-wireless-adapter-driver-download-page-secure-and-fast/"><u>Direct Link to Eveo Wireless Adapter Driver Download Page - Secure & Fast</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-do-you-troubleshoot-gpu-issues-a-comprehamatic-guide-by-yl-software/"><u>How Do You Troubleshoot GPU Issues? A Comprehamatic Guide by YL Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-realme-gt-5-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Realme GT 5 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-six-secrets-to-holding-your-viewers-attention/"><u>In 2024, The Six Secrets to Holding Your Viewers' Attention</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transforming-your-brand-with-smart-spotify-marketing/"><u>In 2024, Transforming Your Brand with Smart Spotify Marketing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/restore-windows-photo-viewer-efficiency-on-windows-10-pcs-for-2024/"><u>Restore Windows Photo Viewer Efficiency on Windows 10 PCs for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-strategies-in-drone-filmmaking-for-2024/"><u>Top Strategies in Drone Filmmaking for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-how-to-change-name-in-google-meet-for-2024/"><u>[New] How to Change Name in Google Meet for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-streamline-your-tweets-with-correct-videography-aspect-ratio/"><u>[New] In 2024, Streamline Your Tweets with Correct Videography (Aspect Ratio)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-snapshot-speaks-the-leading-captioning-apps-iosandroid/"><u>[Updated] Snapshot Speaks The Leading Captioning Apps (iOS/Android)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-next-level-gaming-premium-vr-players-reviewed/"><u>2024 Approved Next-Level Gaming Premium VR Players Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-traffic-boost-with-the-help-of-cookiebot/"><u>Automated Traffic Boost with the Help of Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-business-efficiency-integrating-abbyys-smart-content-into-sap-bot-solutions/"><u>Boosting Business Efficiency: Integrating ABBYY's Smart Content Into SAP Bot Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/clear-instructions-for-repairing-non-responsive-hardware-connections-in-windows/"><u>Clear Instructions for Repairing Non-Responsive Hardware Connections in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-analytics-and-tracking-solutions/"><u>Cookiebot-Driven Analytics and Tracking Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-performance-boosting-web-traffic-effortlessly/"><u>Cookiebot-Driven Performance: Boosting Web Traffic Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-sites-optimized-user-experience/"><u>Cookiebot-Enabled Sites: Optimized User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhance-your-sites-engagement-with-smart-tracking/"><u>Cookiebot-Enabled: Enhance Your Site's Engagement with Smart Tracking</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/playing-4k-hevch265-videos-on-vlc-a-comprehensive-guide-using-the-latest-encoding-standards/"><u>Playing 4K HEVC/H.265 Videos on VLC: A Comprehensive Guide Using the Latest Encoding Standards</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/spotlight-on-11-top-audio-capture-equipments/"><u>Spotlight on 11 Top Audio Capture Equipments</u></a></li>
 </ul></div>
 

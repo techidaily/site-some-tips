@@ -1,7 +1,7 @@
 ---
 title: Persistent Threats of Ransomware and Phishing Targeting Singapore Enterprsures, Reports by ZDNET
-date: 2024-09-18 16:37:31
-updated: 2024-09-20 12:58:13
+date: 2024-12-16T19:26:10.506Z
+updated: 2024-12-21T17:15:13.318Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ CSA did note that the spike in reported cases also could be attributed to its co
 
 The cybersecurity regulator said while the number of reported ransomware incidents dipped slightly to 132, compared to 137 in 2021, such attacks remained a significant issue in Singapore and worldwide. It pointed to reports from security vendors indicating a 13% climb in ransomware incidents globally last year. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMBs remain hot ransomware targets
 
 Furthermore, figures were unlikely to reflect the full extent of such threats since [not every victim would report an attack](https://www.zdnet.com/article/ransomware-not-enough-victims-are-reporting-attacks-and-that-increases-the-threat-for-everyone/). Citing estimates from the FBI, CSA said just 20% of ransomware victims in the US sought the help of law enforcement. 
@@ -64,6 +68,10 @@ Some 81,500 [infrastructure systems](https://www.zdnet.com/article/singapore-wan
 CSA cautioned, though, that the absolute number of infected systems in the country remains high as it is a data and digital infrastructure hub. "Maintaining good cyber hygiene is crucial as users continue to connect more smart devices to the internet," the regulator said, noting that the average number of connected devices in Singapore households increased to 7 in 2021, up from 6.5 the year before. 
 
 Cobalt Strike was the leading malware family infecting locally hosted C&C (Command and Control) servers, followed by Emotet and Guloader. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Anticipated threats as AI takes form
 
@@ -111,11 +119,29 @@ Singapore also has laid out a years-long roadmap it believes will ensure its dig
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-compre-written-by-daniel-kelley-for-2024/"><u>[New] A Compre Written by Daniel Kelley for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-balanced-hue-enhancer-suite/"><u>[New] Balanced Hue Enhancer Suite</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-stardew-on-ginger-islet/"><u>[New] Mastering Stardew on Ginger Islet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>[New] The Playlist Puzzle Assembling Songs in New Spaces</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unlock-fast-video-trimming-in-windows-11-apps-for-2024/"><u>[New] Unlock Fast Video Trimming in Windows 11 Apps for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-from-beginner-to-expert-the-ultimate-guide-to-hp-screen-recording/"><u>[Updated] 2024 Approved From Beginner to Expert The Ultimate Guide to HP Screen Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-leading-audio-editing-software-in-shaping-your-vtuber-image/"><u>[Updated] Leading Audio Editing Software in Shaping Your VTuber Image</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-utilize-snapchats-star-trail-effectively/"><u>[Updated] Utilize Snapchat's Star Trail Effectively</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2023s-ultimate-guide-apeaksoft-screen-capture-tech-unveiled-for-2024/"><u>2023'S Ultimate Guide Apeaksoft Screen Capture Tech Unveiled for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-toolwiz-photosapp-insights-the-full-2023-perspective-on-photography-tools/"><u>In 2024, Toolwiz PhotosApp Insights - The Full 2023 Perspective on Photography Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-animation-set-for-typography/"><u>In 2024, Top-Ranked Animation Set for Typography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-potential-of-ios-albums-ordering-and-cloud-syncing-essentials/"><u>In 2024, Unlocking the Potential of iOS Albums Ordering & Cloud Syncing Essentials</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-guide-for-efficient-documentation-of-your-online-collaborations/"><u>Step-by-Step Guide for Efficient Documentation of Your Online Collaborations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/streaming-star-status-buttons-and-growth-accolades-for-2024/"><u>Streaming Star Status - Buttons & Growth Accolades for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-creative-potential-with-10-best-backdrop-modification-software-for-2024/"><u>Unlock Creative Potential with 10 Best Backdrop Modification Software for 2024</u></a></li>
+</ul></div>
+

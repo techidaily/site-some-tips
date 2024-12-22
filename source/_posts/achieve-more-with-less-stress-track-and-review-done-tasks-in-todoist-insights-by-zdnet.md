@@ -1,7 +1,7 @@
 ---
 title: "Achieve More with Less Stress: Track & Review Done Tasks in Todoist | Insights by ZDNet"
-date: 2024-09-19 12:57:50
-updated: 2024-09-20 12:17:39
+date: 2024-12-18T22:09:38.032Z
+updated: 2024-12-21T22:45:21.977Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 ## Achieve More with Less Stress: Track & Review Done Tasks in Todoist | Insights by ZDNet
 
 In my [recently updated productivity guide](https://www.zdnet.com/article/my-top-productivity-tools-and-tricks-for-managing-my-daily-workflow/), I showed how I use [Todoist](https://todoist.com/) to keep track of my to-do items. But if you've had one of those days where you blast through your to-do items, how can you review what you did? And if you have certain tasks that repeat regularly, how can you have Todoist help you manage those? That's what we'll talk about in this article. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -24,6 +28,10 @@ In any case, what about to-do? As it turns out, it's to-do (with a dash). How do
 That said, the name of the product we're looking at today is conspicuously dashless. Such is the chaotic state of the world today.
 
 **Also:** [**My top productivity tools and tricks for managing my daily workflow (2022 edition)**](https://www.zdnet.com/article/my-top-productivity-tools-and-tricks-for-managing-my-daily-workflow/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to see tasks you've completed 
 
@@ -42,6 +50,10 @@ These are mine so far today:
 Notice that one of the tasks I completed is called "Banks and Bills." I wrote a whole article on that practice, explaining that it's [the single best way to protect yourself against credit card fraud](https://www.zdnet.com/article/the-single-best-way-to-protect-yourself-against-credit-card-fraud/). It's worth a read.
 
 If you want to print that task list to turn it in to your boss, click on your profile icon and hit print. That's all there is to it. You can also save the print as a PDF and email that to your manager. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to repeat tasks 
 
@@ -91,11 +103,23 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-breakdown-xstudio-video-production-mastery/"><u>[New] The Ultimate Breakdown XStudio Video Production Mastery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-decoding-ig-analytics-mastering-the-art-of-social-media-insights/"><u>[Updated] Decoding IG Analytics Mastering the Art of Social Media Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-uncovering-key-differences-in-panoramic-and-vr-filmmaking/"><u>[Updated] In 2024, Uncovering Key Differences in Panoramic & VR Filmmaking</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-perfecting-picture-clarity-efficiently-eradicating-backgrounds-for-2024/"><u>[Updated] Perfecting Picture Clarity Efficiently Eradicating Backgrounds for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-viral-click-title-genie/"><u>2024 Approved Ultimate Viral Click Title Genie</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-chatgpt-conversations-with-our-user-friendly-chrome-extension-quick-and-effective-prompting-made-easy/"><u>Enhance ChatGPT Conversations with Our User-Friendly Chrome Extension – Quick and Effective Prompting Made Easy!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-swift-transition-the-ultimate-guide-to-sierra-on-macs/"><u>In 2024, Swift Transition The Ultimate Guide to Sierra on Macs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-potential-of-audience-feedback-on-youtube/"><u>In 2024, Unlock the Potential of Audience Feedback on YouTube</u></a></li>
+</ul></div>
+

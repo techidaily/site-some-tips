@@ -1,7 +1,7 @@
 ---
 title: "The Eco-Friendly Question of Modern Cloud Computing: Understanding Its True Footprint"
-date: 2024-09-17 17:54:58
-updated: 2024-09-20 12:55:40
+date: 2024-12-17T21:22:49.318Z
+updated: 2024-12-21T19:13:24.311Z
 tags:
   - cloud
 categories:
@@ -25,6 +25,10 @@ Now it's certainly the case that the cloud helps enable a fairly low-carbon foot
 
 Before attempting to determine how green the cloud is, it's worth revisiting just what exactly the 'cloud' is. This somewhat cryptic tech term simply refers to computing services delivered over the internet. That definition covers everything from applications like Instagram or Google Search to foundational computing services like processing power and data storage. Companies can decide to manage their digital operations on their own servers (typically in an on-premises data center) or via a cloud provider like Google Cloud, Amazon Web Services or Microsoft Azure. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More data doesn't equal more energy consumption
 
 Given the way the digital economy has exploded over the past two decades, it'd be easy to assume that the cloud's carbon footprint has also spiked. Luckily, that's not the case. 
@@ -32,6 +36,10 @@ Given the way the digital economy has exploded over the past two decades, it'd b
 Research published in 2020 found that the [computing output of data centers increased 550%](https://science.sciencemag.org/content/367/6481/984) between 2010 and 2018\. However, energy consumption from those data centers grew just 6%. As of 2018, data centers consumed about 1% of the world's electricity output. 
 
 The tech industry has managed to keep its energy consumption requirements in check by making huge energy efficiency improvements, as well as taking a range of other strategic moves. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cloud vs data centers
 
@@ -46,6 +54,10 @@ But mostly organizations aren't moving to make their operations more sustainable
 **Also:** [**Tech for a sustainable future: The challenges and opportunities ahead**](https://www.zdnet.com/home-and-office/sustainability/tech-for-a-sustainable-future-the-challenges-and-opportunities-ahead/)
 
 One major reason service providers could run more efficiently, he says, is simply that their infrastructure is newer and more efficient. Many existing corporate data centers are 30 or 40 years old, meaning they aren't taking advantage of more recent gains in energy efficiency.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Renewable energy
 
@@ -71,6 +83,10 @@ Source: Google
 
 "There's still more work to do," she says. "It's going to be much more regional -- how do we talk with regional stakeholders and utilities as they try to change the grids?"
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where is your cloud running? 
 
 Location is an important aspect to consider for anyone trying to assess just how 'green' a specific cloud is, as Trexier suggests. Some of Google's data centers, in places such as Finland, Toronto and Iowa, have a CFE% above 90\. Others, such as data centers in Singapore, Jakarta and South Carolina, are closer to 10% or 20%. 
@@ -86,6 +102,10 @@ Meanwhile, in places like the US South, Texier says there are fewer options for 
 "Big picture right now, there's a lot of demand for renewable energy, not just from Google, but from a lot of corporations," she says.
 
 "It's really been a booming market, which on one side is is really helpful to accelerate the deployment of more renewable energy. On the other side, what we are realizing now is that the needs of deployment of clean energy and renewable energy cannot be met with the current processes that we have."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting more efficient
 
@@ -118,11 +138,27 @@ Meanwhile, cloud providers are running workloads more efficiently as they design
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-topics-to-cover-in-your-vlogs/"><u>[New] 2024 Approved Fresh Topics to Cover in Your Vlogs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-of-free-vfx-websites/"><u>[New] The Ultimate List of FREE VFX Websites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-film-techniques-on-youtube-by-future-visionaries-for-2024/"><u>[Updated] Essential Film Techniques on YouTube by Future Visionaries for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-elevate-your-digital-self-with-memetic-skills-in-the-metaverse/"><u>2024 Approved How to Elevate Your Digital Self with Memetic Skills in the Metaverse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-panoramic-camera-scrutiny/"><u>2024 Approved Ultimate Panoramic Camera Scrutiny</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-20-word-formula-to-skyrocket-your-business-reach/"><u>In 2024, The 20-Word Formula to Skyrocket Your Business Reach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-selfie-stick-showdown-for-iphone-8-winners/"><u>In 2024, The Ultimate Selfie Stick Showdown for iPhone (#8 Winners)</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-command-line-interface-use-set-as-primary-app/"><u>Optimize Command Line Interface Use: Set As Primary App</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719153085215-revelations-in-technology-youve-overlooked-top-4-must-have-knowledge/"><u>Revelations in Technology You've Overlooked - Top 4 Must-Have Knowledge</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-your-potential-strategies-for-embarking-on-a-professional-prompt-writing-route/"><u>Unlock Your Potential: Strategies for Embarking on a Professional Prompt Writing Route</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-potential-with-top-pixlr-editing-techniques-for-2024/"><u>Unlocking Potential with Top Pixlr Editing Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-to-premieres-full-screen-mode-for-2024/"><u>Unveiling the Secrets to Premiere's Full Screen Mode for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo X100 | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Preventing Excessive Storage Consumption by Google Drive's Desktop App: Effective Strategies"
-date: 2024-09-18 22:17:35
-updated: 2024-09-20 12:56:54
+date: 2024-12-16T23:58:00.489Z
+updated: 2024-12-22T02:09:02.026Z
 tags:
   - cloud
 categories:
@@ -19,6 +19,10 @@ I will assume that you already have the Google Drive Desktop Client installed on
 
 With that taken care of, let's see how we can avoid a storage nightmare.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Streaming vs mirroring
 
 You must understand this most important concept for protecting your storage space with the Google Drive Client. Google offers two different types of sync with the client, which are:
@@ -30,6 +34,10 @@ At this point, I'm certain you know what happened with that earlier installation
 
 Here's what I had to do to fix that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to configure the Google Drive client for streaming
 
 Before I take you down this road, know that the Google Drive client does default to the stream option. However, during my original installation, I opted (for whatever reason) to go with the mirror option. Because I'm absolutely paranoid about my files and folders on Google Drive, I took the safest route possible and first uninstalled the Google Drive client from my MacBook Pro. Once the app was uninstalled, I double-checked to ensure all of my directories and files were safe on Google Drive. They were. Whew.
@@ -37,6 +45,10 @@ Before I take you down this road, know that the Google Drive client does default
 When you opt to stream files, they are saved in a virtual drive that can be mounted and unmounted. However, when you go with the mirror option, those files are saved in /Users/USERNAME/My Drive (Where USERNAME is your macOS username). Once you've uninstalled the Google Drive Client (and you've checked to verify all of your directories and files still exist on your Google Drive cloud account), delete that My Drive directory. Once you've done that, you've freed up the space Google Drive consumed and should be back to a more management disk. 
 
 Re-install the Google Drive client on your machine, and then you can ensure you configure it to stream and not mirror files. Here's how you do that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open preferences
 
@@ -51,6 +63,10 @@ In the next popup menu (**Figure 2**), click Preferences.
 **Figure 2:** The Google Drive Desktop Client popup menu gives you access to the Preferences entry.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Choose the Stream option
 
@@ -91,11 +107,28 @@ And that is all there is to prevent the Google Drive Desktop Client from using u
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-elite-4k-screens-the-ultimate-choice-for-2024/"><u>[New] Elite 4K Screens – The Ultimate Choice for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-platform-debate-which-appliance-prevails-podcast-or-youtube/"><u>[New] The Platform Debate Which Appliance Prevails – Podcast or YouTube?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-breakdown-decoding-comprehensiveness-of-xvideo-hub-review/"><u>[Updated] The Ultimate Breakdown Decoding Comprehensiveness of XVideo Hub Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transcribe-speech-absolutely-gratis/"><u>[Updated] Transcribe Speech, Absolutely Gratis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-beat-potential-explore-these-free-tempo-tracking-tools/"><u>[Updated] Unlock Beat Potential – Explore These Free Tempo Tracking Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-maximizing-profits-the-ultimate-guide-to-youtube-revenue/"><u>2024 Approved Maximizing Profits The Ultimate Guide to YouTube Revenue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>2024 Approved Twilight Crusaders The Darkened Knight vs the Shining One</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/guide-pratique-pour-recuperation-de-correspondance-supprimee-sous-systeme-dexploitation-windows-versions-11-10-8-et-7/"><u>Guide Pratique Pour Récupération De Correspondance Supprimée Sous Système D'Exploitation Windows (Versions 11, 10, 8 Et 7)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-a18-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo A18 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here/"><u>In 2024, How to Transcribe Speech to Text in Microsoft Word Learn It Here</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-store-loading-problems-heres-how-to-fix-them-easily/"><u>Steam Store Loading Problems? Here's How to Fix Them Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-streamers-choice-does-virusmix-or-wirecast-rule-the-game-in-2024/"><u>Top Streamers Choice Does VirusMix or WireCast Rule the Game, In 2024</u></a></li>
+</ul></div>
+

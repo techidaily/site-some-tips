@@ -1,7 +1,7 @@
 ---
 title: "Introducing the New Era: AWS's EC2 M1 Mac Server Instances Now in Beta Mode | Wired"
-date: 2024-09-18 16:25:35
-updated: 2024-09-20 10:26:54
+date: 2024-12-15T01:39:13.007Z
+updated: 2024-12-22T00:01:30.035Z
 tags:
   - cloud
 categories:
@@ -52,11 +52,32 @@ The new M1 instances deliver up to 60% better price performance over the x86-bas
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-30-windows-10-utilities-you-cant-ignore/"><u>[New] Top 30 Windows 10 Utilities You Can't Ignore</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unlock-fast-video-trimming-in-windows-11-apps/"><u>[New] Unlock Fast Video Trimming in Windows 11 Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-studio-magic-comprehensive-xreview/"><u>[New] Unveiling Studio Magic Comprehensive XReview</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-melodic-matchups-finding-the-right-song-for-your-insta-story/"><u>[Updated] In 2024, Melodic Matchups Finding the Right Song for Your Insta Story</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-pinnacle-of-immersion-highest-rated-oculus-headsets-for-2024/"><u>[Updated] The Pinnacle of Immersion Highest-Rated Oculus Headsets for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-pfv-score-for-delayed-visual-sequences/"><u>2024 Approved High PFV Score for Delayed Visual Sequences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-your-sound-potential-a-modern-look-at-pazeras-techniques/"><u>2024 Approved Unlocking Your Sound Potential A Modern Look at Pazera's Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-to-professional-sound-capture-in-audacity/"><u>2024 Approved Unveiling the Secrets to Professional Sound Capture in Audacity</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/decrease-in-recruitment-by-major-tech-firms-should-concern-be-rising-now/"><u>Decrease in Recruitment by Major Tech Firms - Should Concern Be Rising Now?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/design-your-own-ios-1nce-contact-cards-with-namedrop-integration-tutorial-smartphone-hacks/"><u>Design Your Own iOS 1Nce Contact Cards with NameDrop Integration Tutorial | Smartphone Hacks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-power-of-free-countdown-tools-for-time-management/"><u>In 2024, Unveiling the Power of Free Countdown Tools for Time Management</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-finest-10-online-spots-to-download-pristine-photos-for-2024/"><u>The Finest 10 Online Spots to Download Pristine Photos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-sign-in-issues-caused-by-user-profile-service-in-windows-11/"><u>Troubleshooting Sign-In Issues Caused by 'User Profile Service' In Windows 11</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

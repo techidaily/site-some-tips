@@ -1,7 +1,7 @@
 ---
 title: How the Department of Justice's Lawsuit Against Apple Affects iPhone Consumers & Third-Party Developers | Innovation Hub
-date: 2024-12-19T19:26:18.351Z
-updated: 2024-12-21T05:44:05.016Z
+date: 2024-12-16T20:02:05.442Z
+updated: 2024-12-21T16:34:43.232Z
 tags:
   - apple
 categories:
@@ -39,6 +39,10 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
@@ -46,7 +50,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,6 +67,10 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 | Price        | Starting at $799                                  | Starting at $899                                  |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
@@ -125,7 +133,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -142,10 +150,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -158,16 +162,12 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -204,17 +204,18 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-securing-high-quality-sound-from-anywhere/"><u>[Updated] 2024 Approved Securing High-Quality Sound From Anywhere</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-youtube-editing-101-incorporating-time-markers/"><u>[Updated] YouTube Editing 101 Incorporating Time Markers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-prime-choices-for-valheims-agricultural-success/"><u>2024 Approved Prime Choices for Valheim's Agricultural Success</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/affordable-cameras-where-to-buy-economical-gopros-for-2024/"><u>Affordable Cameras Where to Buy Economical GoPros for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversione-gratuita-dei-file-wtv-in-mp4-online-guida-rapida-e-completa-con-movavi-video-converter/"><u>Conversione Gratuita Dei File WTV in MP4 Online: Guida Rapida E Completa Con Movavi Video Converter</u></a></li>
-<li><a href="https://some-tips.techidaily.com/en-ligne-convertissez-rapidement-vos-videos-webm-en-mov-gratuitement-sur-le-site-movavi/"><u>En Ligne : Convertissez Rapidement Vos Vidéos WebM en MOV Gratuitement Sur Le Site Movavi!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exclusive-excel-power-moves-unmatched-by-ai-like-chatgpt/"><u>Exclusive Excel Power Moves Unmatched by AI Like ChatGPT</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-vob-files-on-pc-la-tua-guida-essenziale-ai-letti-multimedia-piu-performanti-per-sistemi-windows-e-macos/"><u>Mastering VOB Files on PC: La Tua Guida Essenziale Ai Letti Multimedia Più Performanti per Sistemi Windows E MacOS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726225704509-mkvmp3-movavi/"><u>MKV到MP3自由下載：使用 Movavi 電影/音頻編碼工具</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-audio-video-converters-with-supported-vob-files-best-for-windows-and-macos/"><u>Top Audio-Video Converters with Supported VOB Files: Best for Windows and macOS</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-little-directors-big-ideas-teaching-kids-to-make-movies-for-2024/"><u>Updated Little Directors, Big Ideas Teaching Kids to Make Movies for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-innovative-youtube-intro-strategies-using-imovie/"><u>[New] 2024 Approved Innovative YouTube Intro Strategies Using iMovie</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-deleted-yt-content-two-simplified-approaches/"><u>[New] Mastering Deleted YT Content Two Simplified Approaches</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-comprehensive-guide-to-legally-sharing-music-on-instagram/"><u>[Updated] The Comprehensive Guide to Legally Sharing Music on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-sound-transformation-app-for-valorant-the-best-free-choice/"><u>[Updated] Ultimate Sound Transformation App for Valorant The Best Free Choice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-superior-video-compression-in-av1/"><u>[Updated] Unveiling the Superior Video Compression in AV1</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-the-secrets-of-inshot-editing-excellence/"><u>2024 Approved Unraveling the Secrets of InShot Editing Excellence</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/achieve-high-rankings-on-youtube-with-top-seo-tips-1-11/"><u>Achieve High Rankings on YouTube with Top SEO Tips (1-11)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-compact-powerhouse-in-flight-dji-sparks-guide-to-aerial-selfies/"><u>In 2024, The Compact Powerhouse in Flight DJI Spark's Guide to Aerial Selfies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-finest-places-to-source-high-quality-vectors/"><u>In 2024, The Finest Places to Source High-Quality Vectors</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-gt-5-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme GT 5</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-merits-of-stabilized-photo-editing-with-adobe/"><u>In 2024, Unraveling the Merits of Stabilized Photo Editing with Adobe</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-90-degree-display-flip-techniques-and-benefits/"><u>Mastering 90-Degree Display Flip: Techniques & Benefits</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-true-score-analyzing-recordcasts-performance/"><u>The True Score Analyzing RecordCast's Performance</u></a></li>
 </ul></div>
 

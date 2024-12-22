@@ -1,7 +1,7 @@
 ---
 title: How iPhone's Journal App Makes Your Device Findable and Why You Should Disable It
-date: 2024-12-14T00:08:00.812Z
-updated: 2024-12-20T19:27:48.101Z
+date: 2024-12-15T02:53:05.271Z
+updated: 2024-12-22T01:23:03.682Z
 tags:
   - apple
 categories:
@@ -40,13 +40,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to disable Apple Journal's 'Discoverable by Others' setting
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Go to your iPhone Settings
 
@@ -54,29 +54,17 @@ To find the Journal app setting, open your Settings app on your iPhone.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Find Privacy & Security
 
 Scroll down and open Privacy & Security within your Apple device's Settings app.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Tap on Journaling Suggestions
 
 Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverable by Others" setting will be enabled until you disable it.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
 
@@ -87,14 +75,22 @@ Maria Diaz/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **FAQ**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
 
@@ -109,6 +105,10 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -148,17 +148,20 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-unraveling-the-mystery-of-effective-gif-communication-for-2024/"><u>[New] Unraveling the Mystery of Effective GIF Communication for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-chuckle-chronicles-hilarious-meme-crafting-simplified/"><u>[Updated] 2024 Approved Chuckle Chronicles Hilarious Meme Crafting Simplified</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-from-picture-to-paragraph-text-on-windows-and-mac-photos/"><u>[Updated] From Picture to Paragraph Text on Windows & Mac Photos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-ultimate-guide-producing-exceptional-igtv-content-on-mobile-and-dslrs/"><u>2024 Approved The Ultimate Guide Producing Exceptional IGTV Content on Mobile & DSLRs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-user-experience-with-advanced-cookiebot-technology/"><u>Enhanced User Experience with Advanced Cookiebot Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhancing-driver-safety-and-productivity-learn-about-mobile-gps-tools-in-car-task-management-and-avoiding-distractions-on-the-road-tips-from-abbyy-experts.m13/"><u>Enhancing Driver Safety & Productivity: Learn About Mobile GPS Tools, In-Car Task Management, and Avoiding Distractions on the Road | Tips From ABBYY Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhancing-medical-efficiency-streamlining-referrals-and-boosting-patient-outcomes/"><u>Enhancing Medical Efficiency: Streamlining Referrals and Boosting Patient Outcomes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/establishing-strong-roots-key-steps-towards-achieving-innovative-change-in-ap-operations/"><u>Establishing Strong Roots: Key Steps Towards Achieving Innovative Change in AP Operations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/harness-the-power-of-cookiebot-for-optimized-website-traffic/"><u>Harness the Power of Cookiebot for Optimized Website Traffic</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-12-pro-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your 12 Pro 5G?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-15-plus-how-to-unlock-a-disabled-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 15 Plus How to Unlock a Disabled Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-poco-x5-pro-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Poco X5 Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-adding-depth-with-3d-text-in-photoshop-workflows/"><u>[New] Adding Depth with 3D Text in Photoshop Workflows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-toontech-full-evaluation-and-how-to-guide-24/"><u>[New] ToonTech Full Evaluation & How-To Guide '24</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-rated-budget-friendly-asmr-gear-for-superior-sound-quality/"><u>[New] Top-Rated Budget-Friendly ASMR Gear for Superior Sound Quality</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ideal-programs-for-vector-drawing-and-design-mastery/"><u>[Updated] Ideal Programs for Vector Drawing and Design Mastery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lightroom-hdr-tutorial-how-to-create-and-merge-stunning-hdr-images-in-lightroom/"><u>[Updated] Lightroom HDR Tutorial How to Create and Merge Stunning HDR Images in Lightroom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-insiders-srt-primer-must-know-elements/"><u>[Updated] The Insider's SRT Primer Must-Know Elements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-user-friendly-budget-optimizing-passport-photo-creators/"><u>[Updated] Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-limitless-creativity-with-free-after-effects-samples/"><u>[Updated] Unlock Limitless Creativity with Free After Effects Samples</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-soloists-path-to-trending-podcasts/"><u>2024 Approved The Soloist's Path to Trending Podcasts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-ipodcast-exploration-techniques-with-the-iphone/"><u>In 2024, IPodcast Exploration Techniques with the iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-subtlety-in-sound-fading-out-effectively-in-logic-pro/"><u>In 2024, Subtlety In Sound Fading Out Effectively in Logic Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-future-at-your-fingertips-mycams-video-recorder-examined/"><u>In 2024, The Future at Your Fingertips – MyCam's Video Recorder Examined</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-honor-90-pro-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Honor 90 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-eliminate-dxgi-device-freeze-in-win1011/"><u>Steps to Eliminate DXGI Device Freeze in Win10/11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-how-to-add-music-background-music-to-video-without-hassle/"><u>Updated In 2024, How to Add Music (Background Music) to Video without Hassle</u></a></li>
 </ul></div>
 

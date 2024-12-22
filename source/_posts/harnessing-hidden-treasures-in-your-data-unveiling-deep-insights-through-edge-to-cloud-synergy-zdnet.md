@@ -1,7 +1,7 @@
 ---
 title: "Harnessing Hidden Treasures in Your Data: Unveiling Deep Insights Through Edge to Cloud Synergy | ZDNET"
-date: 2024-09-17 22:41:58
-updated: 2024-09-20 12:15:27
+date: 2024-12-14T23:57:30.822Z
+updated: 2024-12-21T18:59:55.747Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Getty/sergey-nivens
 Let's talk for a minute about data silos. Real world silos are, of course, those towers on farms that are used to store grain for future use or sale. They're towering buildings that usually contain only one type of raw material. The silo concept generally works as a metaphor for describing large collections of raw data that's stored separately from other raw data.
 
 Servers and devices often silo data. Different machines store data, but don't necessarily share it all with other devices. Applications generate and store data, but only some might…_might_…be shared if a well-written API (application programming interface) is being used. Over time, organizations find themselves with a lot of data, but most of it is isolated, stored in separate metaphorical silos, never to be part of a larger whole.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How edge computing creates the perfect storm for data silos
 
@@ -42,6 +46,10 @@ Neither data set is connected to the other. But [as we explored in some depth a 
 
 But by capturing all the data and making data sets available for analysis (and AI-based correlation and big data processing), insights become possible. In this case, because Home-by-Home made [digital transformation](https://www.zdnet.com/article/what-is-digital-transformation-everything-you-need-to-know-about-how-technology-is-reshaping/) part of its DNA, the company was able to make the connection between factory temperature and returns, and now customers who purchase those lighting fixtures experience far fewer failures. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Your data is everywhere, but is it actionable?
 
 This is just one example of the potential to harvest data from edge-to-cloud. There are a few key ideas here that are all interrelated. 
@@ -53,6 +61,10 @@ This is just one example of the potential to harvest data from edge-to-cloud. Th
 **Insights come when correlating multiple inputs:** While it's possible to subject a single dataset to comprehensive analysis and come up with insights, you're far more likely to see trends when you can relate data from one source to data from other sources. We earlier showed how the temperature of a factory floor has a distant, but measurable, connection to the volume of returns in stores across the nation. 
 
 **To do that, all that data needs to be accessible across your enterprise:** But those correlations and observations are only possible when analysts (both human and AI) can gain access to many sources of data to learn what stories it all tells.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Making data usable and turning it into intelligence
 
@@ -66,6 +78,10 @@ These two issues, the storing of the data and the movement of data both require 
 
 And finally, the fourth factor to consider is **analysis**. It has to be stored in a way that's accessible for analysis, updated often enough, cataloged properly, and curated with care.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A gentle introduction to data modernization
 
 Humans are curious creatures. What we create in real life, we often reproduce in our digital worlds. Many of us have cluttered homes and workplaces because we've never found the perfect storage location for every object. The same, sadly, is often true of how we manage data. 
@@ -73,6 +89,10 @@ Humans are curious creatures. What we create in real life, we often reproduce in
 As we discussed earlier, we've siloed so much of it. But even when we pull all that data into a central data lake, we don't have the best ways to search, sort, and sift through it all. Data modernization is all about updating how we store and retrieve data to make use of modern advances like big data, [machine learning](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/), [AI](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/), and even in-memory databases.
 
 The IT buzz-phrases of data modernization and digital transformation go hand-in-hand. That's because a digital transformation can't take place unless the methodologies of storing and retrieving data are a top (often _the_ top) organizational IT priority. This is called a data-first strategy and it can reap substantial rewards for your business.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -116,11 +136,23 @@ That's where management and infrastructure services like HPE GreenLake and its c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-the-art-of-youtube-teaser-videos/"><u>[New] 2024 Approved Mastering the Art of YouTube Teaser Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-toolwiz-in-pictures-complete-review-unveiled/"><u>[New] Toolwiz in Pictures Complete Review Unveiled</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-easy-way-to-share-instagram-meets-facebook/"><u>[Updated] 2024 Approved The Easy Way to Share Instagram Meets Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-to-effortlessly-insert-music-into-video-editing-sessions/"><u>[Updated] Tips to Effortlessly Insert Music Into Video Editing Sessions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essence-of-sound-diminishment-a-lumafusion-insight/"><u>2024 Approved The Essence of Sound Diminishment A Lumafusion Insight</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-the-screensaver-exploring-the-enigmatic-who-are-you-really-talking-to-in-online-echelons/"><u>Beyond the Screensaver: Exploring the Enigmatic Who Are You Really Talking To? In Online Echelons</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastery-overcoming-adobe-premieres-srt-barriers/"><u>In 2024, Mastery Overcoming Adobe Premiere's SRT Barriers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategic-vr-marketing-manifesto/"><u>In 2024, Strategic VR Marketing Manifesto</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-quickest-quarter-mile-sochi-22/"><u>The Quickest Quarter Mile - Sochi '22</u></a></li>
+</ul></div>
+

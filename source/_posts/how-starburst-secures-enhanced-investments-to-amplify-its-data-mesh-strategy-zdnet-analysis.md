@@ -1,7 +1,7 @@
 ---
 title: How Starburst Secures Enhanced Investments to Amplify Its Data Mesh Strategy | ZDNet Analysis
-date: 2024-09-17 11:58:28
-updated: 2024-09-20 11:50:27
+date: 2024-12-14T16:06:37.433Z
+updated: 2024-12-21T19:28:49.049Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/7b30ded1356833dfaf76c7c0649ae9ac9d
 ## How Starburst Secures Enhanced Investments to Amplify Its Data Mesh Strategy | ZDNet Analysis
 
 [Starburst Data](https://www.starburst.io/) announced this week that it has more than doubled its financing with a new $250 million Series D round being announced this week and opening a new front end portal to its distributed query engine. The company claims this has roughly tripled its previous valuation, for which there were conflicting published numbers ([here](https://www.bloomberg.com/news/articles/2021-01-06/starburst-data-hits-1-2-billion-valuation-as-andreessen-invests?sref=SSBEOKlx) and [here](https://www.theinformation.com/articles/investors-pay-high-price-for-starburst-data-at-1-6-billion-valuation)). The announcements are coming in conjunction with [Datanova](https://www.starburst.io/info/datanova2022/), the company's annual online event.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -82,11 +86,24 @@ Distributed query will be a key part of execution for any data-driven organizati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-essential-gear-guide-uncovering-the-best-streamer-webcams/"><u>[New] 2024 Approved Essential Gear Guide Uncovering the Best Streamer Webcams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-binge-sessions-leveraging-the-power-of-pip-on-netflix/"><u>2024 Approved Streamline Your Binge Sessions Leveraging the Power of PIP on Netflix</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-visual-vaulting-services/"><u>2024 Approved Top-Tier Visual Vaulting Services</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/easy-video-downloads-from-pac-12-how-to-capture-and-transform-videos-into-high-quality-mp4-or-avi-files/"><u>Easy Video Downloads From Pac-12: How to Capture and Transform Videos Into High-Quality MP4 or AVI Files</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-scripting-success-the-art-of-good-documentaries/"><u>In 2024, Scripting Success The Art of Good Documentaries</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/magix-acid-pro-evaluation-with-equivalent-software-for-2024/"><u>Magix ACID Pro Evaluation with Equivalent Software for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-glitch-video-editors-top-picks-for-windows-mac-and-web/"><u>New 2024 Approved The Ultimate Guide to Glitch Video Editors Top Picks for Windows, Mac, and Web</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-insiders-guide-to-clearer-communication-via-voicemod-on-discord/"><u>The Insider's Guide to Clearer Communication via VoiceMod on Discord</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-low-cost-high-definition-cameras-for-2024/"><u>Ultimate List Low-Cost, High Definition Cameras for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-top-5-ios-apps-revolutionizing-podcasts-for-2024/"><u>Unveiling the Top 5 iOS Apps Revolutionizing Podcasts for 2024</u></a></li>
+</ul></div>
+

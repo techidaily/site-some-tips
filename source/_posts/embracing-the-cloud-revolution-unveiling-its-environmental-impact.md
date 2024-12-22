@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Cloud Revolution: Unveiling Its Environmental Impact"
-date: 2024-09-18 23:29:30
-updated: 2024-09-20 11:38:22
+date: 2024-12-20T01:41:41.795Z
+updated: 2024-12-22T01:30:04.074Z
 tags:
   - cloud
 categories:
@@ -25,6 +25,10 @@ Now it's certainly the case that the cloud helps enable a fairly low-carbon foot
 
 Before attempting to determine how green the cloud is, it's worth revisiting just what exactly the 'cloud' is. This somewhat cryptic tech term simply refers to computing services delivered over the internet. That definition covers everything from applications like Instagram or Google Search to foundational computing services like processing power and data storage. Companies can decide to manage their digital operations on their own servers (typically in an on-premises data center) or via a cloud provider like Google Cloud, Amazon Web Services or Microsoft Azure. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More data doesn't equal more energy consumption
 
 Given the way the digital economy has exploded over the past two decades, it'd be easy to assume that the cloud's carbon footprint has also spiked. Luckily, that's not the case. 
@@ -32,6 +36,10 @@ Given the way the digital economy has exploded over the past two decades, it'd b
 Research published in 2020 found that the [computing output of data centers increased 550%](https://science.sciencemag.org/content/367/6481/984) between 2010 and 2018\. However, energy consumption from those data centers grew just 6%. As of 2018, data centers consumed about 1% of the world's electricity output. 
 
 The tech industry has managed to keep its energy consumption requirements in check by making huge energy efficiency improvements, as well as taking a range of other strategic moves. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cloud vs data centers
 
@@ -46,6 +54,10 @@ But mostly organizations aren't moving to make their operations more sustainable
 **Also:** [**Tech for a sustainable future: The challenges and opportunities ahead**](https://www.zdnet.com/home-and-office/sustainability/tech-for-a-sustainable-future-the-challenges-and-opportunities-ahead/)
 
 One major reason service providers could run more efficiently, he says, is simply that their infrastructure is newer and more efficient. Many existing corporate data centers are 30 or 40 years old, meaning they aren't taking advantage of more recent gains in energy efficiency.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Renewable energy
 
@@ -71,6 +83,10 @@ Source: Google
 
 "There's still more work to do," she says. "It's going to be much more regional -- how do we talk with regional stakeholders and utilities as they try to change the grids?"
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where is your cloud running? 
 
 Location is an important aspect to consider for anyone trying to assess just how 'green' a specific cloud is, as Trexier suggests. Some of Google's data centers, in places such as Finland, Toronto and Iowa, have a CFE% above 90\. Others, such as data centers in Singapore, Jakarta and South Carolina, are closer to 10% or 20%. 
@@ -86,6 +102,10 @@ Meanwhile, in places like the US South, Texier says there are fewer options for 
 "Big picture right now, there's a lot of demand for renewable energy, not just from Google, but from a lot of corporations," she says.
 
 "It's really been a booming market, which on one side is is really helpful to accelerate the deployment of more renewable energy. On the other side, what we are realizing now is that the needs of deployment of clean energy and renewable energy cannot be met with the current processes that we have."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting more efficient
 
@@ -118,11 +138,26 @@ Meanwhile, cloud providers are running workloads more efficiently as they design
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-triple-tier-phones-the-best-choice-for-high-quality-videos/"><u>[New] Triple-Tier Phones The Best Choice for High-Quality Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-mac-display-utilizing-picture-in-picture-multimedia-features/"><u>[Updated] Transform Your Mac Display Utilizing Picture in Picture Multimedia Features</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-capitalize-on-your-youtube-shorts-for-cash-flow/"><u>2024 Approved How to Capitalize on Your YouTube Shorts for Cash Flow</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unboxing-marketing-strategy/"><u>2024 Approved Unboxing Marketing Strategy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoiding-suspension-understanding-and-resolving-dota-2s-anti-cheat-mechanism/"><u>Avoiding Suspension: Understanding and Resolving Dota 2'S Anti-Cheat Mechanism</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cast-to-device-not-working-on-windows-11-solved/"><u>Cast to Device Not Working on Windows 11 [Solved]</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/get-fresh-tunes-and-high-quality-music-video-streams-from-vevo-for-no-charge/"><u>Get Fresh Tunes & High-Quality Music Video Streams From Vevo for No Charge!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-prime-collection-of-no-cost-passport-photo-making-software/"><u>In 2024, The Prime Collection of No-Cost Passport Photo Making Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-pixel-performance-from-a-start/"><u>In 2024, Understanding Pixel Performance From a Start</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-and-swift-guide-for-surface-dock-driver-installation-latest-version/"><u>Simple and Swift Guide for Surface Dock Driver Installation - Latest Version!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-guide-for-lost-ubisoft-game-launcher/"><u>Troubleshooting Guide for Lost Ubisoft Game Launcher</u></a></li>
+</ul></div>
+

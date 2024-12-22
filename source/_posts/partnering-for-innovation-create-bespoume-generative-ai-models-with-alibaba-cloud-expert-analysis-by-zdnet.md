@@ -1,7 +1,7 @@
 ---
 title: "Partnering for Innovation: Create Bespoume Generative AI Models with Alibaba Cloud | Expert Analysis by ZDNet"
-date: 2024-09-17 11:45:35
-updated: 2024-09-20 11:12:48
+date: 2024-12-20T00:06:17.894Z
+updated: 2024-12-21T16:30:34.642Z
 tags:
   - cloud
 categories:
@@ -45,6 +45,10 @@ Tongyi Qianwen already powers more than 10 functions on Alibaba's online collabo
 
 Tongyi Qianwen has both Chinese and English language capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Significant price cuts to cloud services
 
 The partnership program was launched at Alibaba Cloud's annual partners summit in Nanjing this week, where the vendor also unveiled price cuts to its core products and services. Ranging from 15% to 50%, the fee adjustments mark the biggest price reduction to date; however, only its customers in China will benefit from the cuts. 
@@ -84,11 +88,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-navigating-the-landscape-of-youtube-advertising-and-banners/"><u>[New] In 2024, Navigating the Landscape of YouTube Advertising & Banners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-frame-rate-in-languid-videos/"><u>[New] Superior Frame Rate in Languid Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-notch-tricks-to-nail-every-green-screen-shot/"><u>[New] Top-Notch Tricks to Nail Every Green Screen Shot</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unlock-snapchat-potential-with-these-ideas/"><u>[Updated] 2024 Approved Unlock Snapchat Potential with These Ideas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-fresh-perspective-on-sony-blu-ray-s6500-features/"><u>[Updated] A Fresh Perspective on Sony Blu-Ray S6500 Features</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-diminutive-directors-script-for-2024/"><u>[Updated] Diminutive Director's Script for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-12-pro-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 12 Pro With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012350331-imbalances-can-lead-to-soil-depletion-or-pest-outbreaks-a-balanced-ecosystem-promotes-healthy-crops-and-resilience-against-diseases/"><u>Imbalances Can Lead to Soil Depletion or Pest Outbreaks; a Balanced Ecosystem Promotes Healthy Crops and Resilience Against Diseases.</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-art-of-youtube-thumbnail-adjustment/"><u>In 2024, Mastering the Art of YouTube Thumbnail Adjustment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-layers-of-a-great-humorous-poster/"><u>In 2024, The Layers of a Great Humorous Poster</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/navigating-the-project-selection-interface-tips-and-tricks/"><u>Navigating the Project Selection Interface: Tips and Tricks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-pinnacle-studio-for-mac-top-competitors-and-options/"><u>New Pinnacle Studio for Mac Top Competitors and Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-nights-reign-black-vs-the-dawns-duty-silver-for-2024/"><u>The Night's Reign (Black) VS The Dawn’s Duty (Silver) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unblemished-visuals-buying-high-quality-images-for-2024/"><u>Unblemished Visuals Buying High-Quality Images for 2024</u></a></li>
+</ul></div>
+

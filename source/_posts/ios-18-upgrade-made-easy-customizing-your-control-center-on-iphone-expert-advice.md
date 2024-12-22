@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Upgrade Made Easy: Customizing Your Control Center on iPhone - Expert Advice"
-date: 2024-12-18T23:32:12.496Z
-updated: 2024-12-20T18:11:53.991Z
+date: 2024-12-15T02:34:56.332Z
+updated: 2024-12-21T18:33:18.967Z
 tags:
   - apple
 categories:
@@ -28,10 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -39,10 +43,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -53,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -62,15 +62,15 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -126,20 +126,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-establishing-value-driven-partnerships-with-brand-sponsors-in-youtubesphere/"><u>[New] 2024 Approved Establishing Value-Driven Partnerships with Brand Sponsors in Youtubesphere</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-straightforward-storyline-outline/"><u>[New] Straightforward Storyline Outline</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-tier-tone-transmitter-for-voice-artists/"><u>[New] Top-Tier Tone Transmitter for Voice Artists</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-art-of-podcast-rss-mastery/"><u>[Updated] Unveiling the Art of Podcast RSS Mastery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creative-stories-zoom-techniques-on-snapchat/"><u>2024 Approved Unleashing Creative Stories Zoom Techniques on Snapchat</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-elite-tablets-face-off-which-ipad-pro-is-best-for-you-insights-and-reviews-by-zdnet/"><u>Apple's Elite Tablets Face-Off: Which iPad Pro Is Best for You? Insights & Reviews by ZDNET</u></a></li>
-<li><a href="https://win-lab.techidaily.com/die-bestehende-top-strategie-fur-die-synchronisation-von-lokalen-ordnern-mit-einem-synology-nas-unter-windows/"><u>Die Bestehende Top-Strategie Für Die Synchronisation Von Lokalen Ordnern Mit Einem Synology NAS Unter Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/interactive-learning-playing-and-streaming-steam-games-mobile-friendly/"><u>Interactive Learning: Playing and Streaming Steam Games Mobile-Friendly</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/t-potential-unlocked-how-to-enroll-in-youtubes-membership/"><u>Profit Potential Unlocked How to Enroll in YouTube's Membership</u></a></li>
-<li><a href="https://some-tips.techidaily.com/quick-catch-up-effective-methods-for-skipping-edgenuity-courses-for-2024/"><u>Quick Catch-Up Effective Methods for Skipping Edgenuity Courses for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/select-selections-ideal-pages-for-acquiring-snapalert-tunes-for-2024/"><u>Select Selections Ideal Pages for Acquiring SnapAlert Tunes for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tap-into-the-latest-gaming-and-app-splash-of-win11-for-2024/"><u>Tap Into the Latest Gaming and App Splash of Win11 for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/understanding-the-parallel-processing-technique-a-comprehensive-guide/"><u>Understanding the Parallel Processing Technique: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-visual-clarity-bypassing-background-in-photopea-for-2024/"><u>Unlocking Visual Clarity Bypassing Background in Photopea for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unraveling-rtmp-streams-overcoming-premieres-export-hurdle-for-2024/"><u>Unraveling RTMP Streams Overcoming Premiere's Export Hurdle for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-deciphering-hidden-content-on-youtube-an-ordered-walkthrough/"><u>[Updated] In 2024, Deciphering Hidden Content on YouTube An Ordered Walkthrough</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-interactive-solutions-with-vr/"><u>2024 Approved Interactive Solutions with VR</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/comment-remplacer-la-memoire-interne-de-votre-ps4-par-un-ssdhdd-pour-une-capacite-amelioree/"><u>Comment Remplacer La Mémoire Interne De Votre PS4 Par Un SSD/HDD Pour Une Capacité Améliorée</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-7-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 7 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unveiling-premium-screen-recorders-in-tech/"><u>In 2024, Unveiling Premium Screen Recorders in Tech</u></a></li>
+<li><a href="https://win-able.techidaily.com/modify-your-desktop-experience-customizing-icon-shortcuts-and-managing-notifications-on-mobile-devices-insights-from-how-to-geek/"><u>Modify Your Desktop Experience: Customizing Icon Shortcuts & Managing Notifications on Mobile Devices - Insights From How-To Geek</u></a></li>
+<li><a href="https://facebook.techidaily.com/quick-guide-expand-your-messenger-circle/"><u>Quick Guide: Expand Your Messenger Circle</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionizing-travel-a-dive-into-vr-tour-possibilities/"><u>Revolutionizing Travel A Dive Into VR Tour Possibilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/samsung-galaxy-z-flip-enhanced-innovation-in-the-next-gen-foldable-phone/"><u>Samsung Galaxy Z Flip: Enhanced Innovation in the Next-Gen Foldable Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-the-google-pixel-lineup-a-look-at-the-pixel-6-pro-after-three-years/"><u>The Evolution of the Google Pixel Lineup: A Look at the Pixel 6 Pro After Three Years</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-secret-behind-my-familys-effortless-coordination-why-we-cant-live-without-cozi/"><u>The Secret Behind My Family's Effortless Coordination: Why We Can't Live Without Cozi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-the-oneplus-11-insights-from-a-yearlong-experience-for-pricing-similarity/"><u>The Ultimate Guide to the OnePlus 11 – Insights From a Yearlong Experience (for Pricing Similarity)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/this-week-in-digital-discoveries-unveiling-new-windows-laptops-and-exclusive-spotify-secrets/"><u>This Week in Digital Discoveries: Unveiling New Windows Laptops and Exclusive Spotify Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-behind-the-google-pixel-tablets-impressive-performance/"><u>Unveiling the Secrets Behind the Google Pixel Tablet's Impressive Performance!</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/verstehen-sie-die-speicherung-von-minecraft-screenshots-methoden-zur-wiederherstellung-verlorener-bilder/"><u>Verstehen Sie Die Speicherung Von Minecraft-Screenshots - Methoden Zur Wiederherstellung Verlorener Bilder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-weekly-tech-update-unpacking-the-atandt-security-leak-and-exciting-releases-from-samsung/"><u>Your Weekly Tech Update: Unpacking the AT&T Security Leak & Exciting Releases From Samsung</u></a></li>
 </ul></div>
 

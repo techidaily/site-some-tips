@@ -1,7 +1,7 @@
 ---
 title: "Exploring Microsoft's Latest Innovation: Two AI Assistants for Better Sales and Support | ZDNET"
-date: 2024-09-19 13:14:17
-updated: 2024-09-20 12:50:45
+date: 2024-12-19T04:14:19.350Z
+updated: 2024-12-21T18:12:59.734Z
 tags:
   - cloud
 categories:
@@ -88,11 +88,35 @@ Also at Ignite, Microsoft emphasized new computing infrastructure for its Azure 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unlockingfullpotentialwithyourcamrecorder/"><u>[New] 2024 Approved UnlockingFullPotentialWithYourCamRecorder</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-exclusive-moba-selection-for-android-gamers/"><u>[New] In 2024, Exclusive MOBA Selection for Android Gamers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-premier-applications-for-video-conferencing/"><u>[New] In 2024, Premier Applications for Video Conferencing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-optimal-obs-configurations-on-budget-computers-for-2024/"><u>[New] Optimal OBS Configurations on Budget Computers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-seamless-content-consumption-configuring-pip-for-youtube-on-iphone/"><u>[New] Seamless Content Consumption Configuring PIP for YouTube on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-through-virtual-lenses-a-historical-view/"><u>[New] Through Virtual Lenses A Historical View</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-hacking-the-scale-large-props-in-tiktok-filmmaking/"><u>[Updated] Hacking the Scale Large Props in TikTok Filmmaking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-seamless-integration-combining-b-roll-and-main-scenes/"><u>[Updated] Seamless Integration Combining B-Roll and Main Scenes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-securing-product-sponsors-on-youtube/"><u>[Updated] Strategies for Securing Product Sponsors on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-editors-ally-smooth-operation-in-m1-with-top-tools/"><u>[Updated] The Editor's Ally Smooth Operation in M1 with Top Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-seamless-media-magic-turning-xml-ssa-into-dynamic-srts/"><u>[Updated] The Seamless Media Magic Turning XML, SSA Into Dynamic SRTs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/arcadia-elite-seamless-full-hd-multi-touch-desktops-for-2024/"><u>Arcadia Elite Seamless, Full HD Multi-Touch Desktops for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tunetracker-outside-of-dacast-realm/"><u>In 2024, TuneTracker Outside of DaCast Realm</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-art-of-customizing-instructions-in-chatgpt-functionality-and-applications-unveiled/"><u>The Art of Customizing Instructions in ChatGPT: Functionality and Applications Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-platforms-for-free-skype-ringtones-for-2024/"><u>Top 4 Platforms for Free Skype Ringtones for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-right-click-function-on-a-mouse-in-windows-11/"><u>Troubleshooting the Right-Click Function on a Mouse in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-apples-latest-ai-breakthrough-successful-progress-amid-areas-requiring-improvement-zdnet/"><u>Unpacking Apple's Latest AI Breakthrough: Successful Progress Amid Areas Requiring Improvement | ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling AWS's Enhanced Approach for Businesses at the Re:Invent 2021 Conference - Insights From ZDNet"
-date: 2024-09-19 17:51:56
-updated: 2024-09-20 10:25:13
+date: 2024-12-19T20:17:22.364Z
+updated: 2024-12-21T16:06:43.318Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/bc22e110eacd1143aa0bdeeb05b2f88960a893ae5
 ![aws-industries.png](https://www.zdnet.com/a/img/resize/7d2ad83651d4d1895bbf3b1b3b3205affc38f7ec/2021/11/30/52c37f70-47ce-45b0-812d-30ead4496223/aws-industries.png?auto=webp&width=1280)
 
 AWS CEO Adam Selipsky went vertical in his keynote. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -40,6 +44,10 @@ What's evolving is that AWS customers are also becoming business partners over t
 
 Nasdaq CEO Adena Friedman said the market operator is a technology provider too. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Nasdaq: Market operator meets SaaS provider
 
 Nasdaq CEO Adena Friedman outlined how the market operator is a SaaS provider to the ecosystem focusing on equities, derivatives, crypto and even sports betting. Nasdaq's reach extends into 130 other markets around the world. 
@@ -49,6 +57,10 @@ The market operator has been an AWS partner since 2008 and has extended its use 
 "We will start with US options markets," said Friedman. "We will be the first market provider that is 100% cloud-enabled." 
 
 Going forward, Nasdaq will build edge compute zones with AWS Outposts and offer a private local zone for global capital markets. In other words, Nasdaq will have AWS as an ingredient brand to export trading and clearing tools to its footprint of 130 markets. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dish: AWS as 5G network backbone
 
@@ -61,6 +73,10 @@ Dish Wireless has enterprise ambitions.
 Rouanne said Dish Wireless is looking to be a network of networks and connect "edge to cloud in a simplified manner." By using AWS as its infrastructure, Dish Wireless aims to deliver data and automation at scale.
 
 If you couple Dish Wireless with partnerships with the likes of Verizon for edge computing, and you can see the AWS telecom ground game improving. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3M eyes digital products too
 
@@ -77,6 +93,10 @@ Going forward, Braun said 3M is looking to be known for its digital products as 
 3M and AWS are providing a digital marketplace for customers so they can access code, models and tools. "Each success builds on the one before it," said Braun. 
 
 These industrial-use cases ultimately become Amazon bundles such as AWS Industrial, which has 5 core services for machine learning, fulfillment networks and equipment management. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### United Airlines: Building out its digital game
 
@@ -123,11 +143,28 @@ The vision: Every company will become a SaaS provider to industries on some leve
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-leverage-the-best-free-pc-sound-capturer-x-recorder-for-2024/"><u>[New] Leverage the Best Free Pc Sound Capturer – X-Recorder for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-guide-to-vitas-complete-video-editing-software/"><u>[New] The Essential Guide to Vita's Complete Video Editing Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-fast-track-setting-up-and-enjoying-ifunny-memes/"><u>[New] The Fast Track Setting Up & Enjoying iFunny Memes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-effortlessly-access-and-apply-instagrams-best-filters/"><u>[Updated] 2024 Approved How to Effortlessly Access and Apply Instagram's Best Filters</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-essential-cameras-of-the-year-top-10-reviewed/"><u>[Updated] In 2024, Essential Cameras of the Year - Top 10 Reviewed</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-optimizing-tweets-a-guide-to-full-hd-video-experience/"><u>[Updated] Optimizing Tweets A Guide to Full HD Video Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-blueprint-for-perfecting-zooms-screen-cast/"><u>[Updated] The Ultimate Blueprint for Perfecting Zoom's Screen Cast</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-cutting-edge-filmmaking-on-your-ios-device/"><u>2024 Approved Cutting-Edge Filmmaking on Your iOS Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-tools-for-enhancing-web-videos/"><u>2024 Approved Top 5 Tools for Enhancing Web Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-visuals-quick-and-costless-video-downloads-on-pinterest/"><u>2024 Approved Unlock Your Visuals Quick & Costless Video Downloads on Pinterest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-viewing-vlc-versus-mx-comparison/"><u>In 2024, Streamlining Your Viewing VLC Versus MX Comparison</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-a-detailed-walkthrough-of-internet-radio-logging/"><u>In 2024, The Ultimate Guide A Detailed Walkthrough of Internet Radio Logging</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/professional-photo-editing-tools-flipbuilder-and-more/"><u>Professional Photo Editing Tools - FlipBuilder & More</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-sound-functionality-on-your-windows-(windowsversion)-10-computer/"><u>Solved! How to Restore Sound Functionality on Your Windows <|Windows_version|> 10 Computer</u></a></li>
+</ul></div>
+

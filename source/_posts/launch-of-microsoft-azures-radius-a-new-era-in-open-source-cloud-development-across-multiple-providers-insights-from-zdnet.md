@@ -1,7 +1,7 @@
 ---
 title: "Launch of Microsoft Azure's Radius: A New Era in Open-Source Cloud Development Across Multiple Providers - Insights From ZDNet"
-date: 2024-09-19 14:42:27
-updated: 2024-09-20 10:11:39
+date: 2024-12-18T16:04:31.004Z
+updated: 2024-12-22T04:13:54.900Z
 tags:
   - cloud
 categories:
@@ -88,11 +88,37 @@ Want to join in and give it a try? Radius's code, which is licensed under the Ap
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-great-livestream-showdown-streamlabs-vs-obs-head-to-head/"><u>[New] 2024 Approved The Great Livestream Showdown Streamlabs Vs. OBS Head-to-Head</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-brand-your-youtube-channel-to-get-more-subscribers-for-2024/"><u>[New] How to Brand Your YouTube Channel to Get More Subscribers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-impact-of-weather-on-syma-x8c-performance/"><u>[New] The Impact of Weather on Syma X8C Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-the-magic-of-videos-on-windows-mobile/"><u>[New] Unleash the Magic of Videos on Windows Mobile</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-beginner-to-expert-choose-studio-or-beta/"><u>[Updated] From Beginner to Expert Choose Studio or Beta</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-visual-impact-blueprint-for-success-in-instagram-video-campaigns/"><u>[Updated] In 2024, Visual Impact Blueprint for Success in Instagram Video Campaigns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-media-transformation-from-xml-to-srt/"><u>[Updated] Streamlining Media Transformation From XML to SRT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-the-potential-effective-pip-use-on-microsoft-edge-browser/"><u>[Updated] Unleash the Potential Effective PIP Use on Microsoft Edge Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlimited-verbal-input-processing-for-free/"><u>[Updated] Unlimited Verbal Input Processing for Free</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-accelerate-with-these-key-windows-10-tricks/"><u>2024 Approved Accelerate with These Key Windows 10 Tricks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-exclusive-leaderboard-luminary-youtube-videographers-guide/"><u>2024 Approved Exclusive Leaderboard Luminary YouTube Videographer's Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-a14-4g-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy A14 4G FRP Bypass</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sightline-synopsis-study/"><u>In 2024, Sightline Synopsis Study</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-subtlety-garagebands-audio-softening/"><u>In 2024, The Art of Subtlety Garageband's Audio Softening</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe/"><u>In 2024, Tips and Tricks for Streamlining Color Grading with LUTs in Adobe</u></a></li>
+<li><a href="https://win-special.techidaily.com/komplette-anleitung-zum-migrationsprozess-transfer-von-android-kontakten-auf-ein-iphone-se-3-effizient/"><u>Komplette Anleitung Zum Migrationsprozess - Transfer Von Android-Kontakten Auf Ein iPhone SE (3) Effizient</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategy-sketches-plotting-the-market-map-for-2024/"><u>Strategy Sketches Plotting the Market Map for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-free-software-for-seamless-usb-flash-drive-auto-backups/"><u>Top Free Software for Seamless USB Flash Drive Auto-Backups</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tactics-for-flawless-solo-streaming-experiences-for-2024/"><u>Top Tactics for Flawless Solo Streaming Experiences for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Cerebras Deploys Andromeda, a Custom-Built Supercomputer for Enhancing AI Language Model Performance
-date: 2024-09-19 18:26:16
-updated: 2024-09-20 11:41:52
+date: 2024-12-18T17:20:07.236Z
+updated: 2024-12-21T16:25:01.459Z
 tags:
   - cloud
 categories:
@@ -26,6 +26,10 @@ For example, Nvidia, the standard bearer in chips for AI, in September announced
 Monday, [Cerebras Systems,](https://www.zdnet.com/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/) the 6-year-old, Sunnyvale, Calif.-based startup that is among a gaggle of companies challenging Nvidia's dominance, [unveiled a supercomputer called Andromeda](https://www.cerebras.net/andromeda/) that performs a quadrillion floating point math operations per second, as much as the top supercomputer in the world, [Frontier](https://en.wikipedia.org/wiki/Frontier%5F%28supercomputer%29), and that can achieve dramatic speed-up on tasks such as LLMs beyond the ability of thousands of GPU chips. 
 
 **Also:** [**AI could have 20% chance of sentience in 10 years, says philosopher David Chalmers**](https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -68,6 +72,10 @@ Cerebras emphasizes the ease of clustering its CS-2s, which doesn't require writ
 Cerebras Systems
 
 Early users such as the Argonne team prove the Andromeda approach can beat out some supercomputers using thousands of Nvidia GPUs, and even perform some tasks that couldn't run on the supercomputers because of memory limitations. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Artificial Intelligence
 
@@ -142,11 +150,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-instantaneously-combine-photos-into-facebook-stories/"><u>[New] Instantaneously Combine Photos Into Facebook Stories</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-pinnacle-guide-to-choosing-top-after-effects-plugins/"><u>[New] The Pinnacle Guide to Choosing Top After Effects Plugins</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-call-of-duty-warzone-crashing-on-pc-2024/"><u>[SOLVED] Call of Duty Warzone Crashing on PC - 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-best-of-the-best-hexacopter-drone-reviews/"><u>[Updated] In 2024, Best of the Best Hexacopter Drone Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-audio-podcasts-made-easy-for-iphones/"><u>[Updated] Streamline Audio Podcasts Made Easy for iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-memory-management-via-mematic/"><u>[Updated] Streamline Memory Management via Mematic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-screenshot-enhancers-ios-and-android-sticker-edition/"><u>[Updated] Top 10 Screenshot Enhancers IOS & Android Sticker Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-color-spaces-srgb-vs-rgb/"><u>[Updated] Understanding Color Spaces Srgb vs Rgb</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhance-branding-the-ultimate-guide-to-custom-urls-for-youtube/"><u>2024 Approved Enhance Branding The Ultimate Guide to Custom URLs for YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-navigating-screen-capture-across-pcs-and-mobile-devices/"><u>2024 Approved Navigating Screen Capture Across PCs and Mobile Devices</u></a></li>
+<li><a href="https://fox-search.techidaily.com/creating-an-engaging-book-trailer-a-step-by-step-guide-for-effective-promotion/"><u>Creating an Engaging Book Trailer: A Step-by-Step Guide for Effective Promotion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-framework-for-fullscreen-proficiency-in-premiere/"><u>In 2024, The Ultimate Framework for Fullscreen Proficiency in Premiere</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-gopro-video-editing-for-dummies-a-free-and-easy-to-follow-guide/"><u>New 2024 Approved GoPro Video Editing for Dummies A Free and Easy-to-Follow Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-6-tools-for-audiovisual-interpretation-for-2024/"><u>Ultimate 6 Tools for Audio/Visual Interpretation for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Folder Selection for Google Drive Desktop Synchronization: A Step-by-Step Guide"
-date: 2024-09-19 21:54:50
-updated: 2024-09-20 10:21:21
+date: 2024-12-19T03:22:57.676Z
+updated: 2024-12-21T17:04:04.492Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad
 ## Mastering Folder Selection for Google Drive Desktop Synchronization: A Step-by-Step Guide
 
 I'm a Google Drive power user. I use the service daily for the majority of my writing needs. During my decade with Drive, I have had one instance where I lost nearly all of my work (thanks to a third-party sync tool that went awry). Since then, I've been diligent about backing up Google Drive. For that, I depend on rclone to backup specific directories in Google Drive to an external drive attached to my [System76 Thelio](https://system76.com/desktops), running [Pop!\_OS](https://pop.system76.com/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Google Docs tips
 
@@ -30,7 +34,15 @@ The only things you'll need are a Google Drive account and the Google Drive Desk
 
 Let's get started.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding a new folder for syncing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Access Settings
 
@@ -54,6 +66,10 @@ Image: Jack Wallen
 
 From that menu, click **Preferences**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Add a new folder
 
 In the new window (**Figure 4**), click **Add folder**.
@@ -71,6 +87,10 @@ Image: Jack Wallen
 Locate and select the new folder you want to sync with Drive and click Open. You'll be taken back to the Google Drive Desktop Client Preferences window, where you'll see the new folder listed. 
 
 Once added, the client will automatically upload the files and sub-directories within the newly-added folder. Depending on how many files (and the size of those files), the initial sync could take some time. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Locating those files in Drive
 
@@ -103,11 +123,25 @@ Congratulations, you've configured the Google Drive Desktop Client to sync added
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-the-art-of-shortening-videos-for-instagram-mac/"><u>[New] Mastering the Art of Shortening Videos for Instagram (Mac)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-earn-on-the-go-snapchats-money-tips/"><u>[Updated] 2024 Approved Earn on the Go Snapchat's Money Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-strategic-placements-for-elevating-youtube-videos/"><u>[Updated] Strategic Placements for Elevating YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-revolutionary-storage-solutions-select-from-the-best-20-free-options-1tbplus/"><u>2024 Approved Revolutionary Storage Solutions - Select From the Best 20 Free Options (1TB+)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-subject-emphasis-background-cleanse/"><u>2024 Approved Subject Emphasis Background Cleanse</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-elevate-your-editing-with-blend-mode-innovations/"><u>In 2024, Elevate Your Editing with Blend Mode Innovations</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-improve-viewability-master-the-art-of-adding-timestamps-to-youtube-urls/"><u>In 2024, Improve Viewability Master the Art of Adding Timestamps to YouTube URLs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-30-pro-windows-10-secrets-revealed/"><u>In 2024, Top 30 Pro Windows 10 Secrets Revealed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/tivo-or-comcast-which-dvr-is-right-for-you/"><u>TiVo or Comcast Which DVR Is Right for You ?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-zero-price-screen-capture-software-for-windows-10-users-for-2024/"><u>Top 5 Zero Price Screen Capture Software for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-creativity-the-top-10-after-effects-templates-for-2024/"><u>Unleashing Creativity The Top 10 After Effects Templates for 2024</u></a></li>
+</ul></div>
+

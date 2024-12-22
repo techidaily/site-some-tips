@@ -1,7 +1,7 @@
 ---
 title: "Beware of Increasingly Sophisticated Mercenary Hackers: How Apple Warns iPhone Users & Steps to Stay Secure | ZDNET"
-date: 2024-12-18T03:18:26.748Z
-updated: 2024-12-20T20:53:48.859Z
+date: 2024-12-15T22:45:19.373Z
+updated: 2024-12-21T19:12:10.060Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,24 +119,17 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-reaper-remixing-rituals-volume-control-chronicles/"><u>[New] 2024 Approved Reaper Remixing Rituals Volume Control Chronicles</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-perfect-your-presentation-essential-strategies-for-video-length-reduction-in-vimeo-for-2024/"><u>[New] Perfect Your Presentation Essential Strategies for Video Length Reduction in Vimeo for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-approach-to-saving-instagram-stories/"><u>[New] Step-by-Step Approach to Saving Instagram Stories</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-swift-tweeting-solutions-with-video-conversion/"><u>[New] Swift Tweeting Solutions with Video Conversion</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-the-lg-bp350-visual-experience/"><u>[New] Ultimate Guide to the LG BP350 Visual Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-hidden-techniques-for-private-anonymous-instagram-live-participation/"><u>[Updated] The Hidden Techniques for Private, Anonymous Instagram Live Participation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-6-best-nft-platforms-for-artists/"><u>[Updated] The Ultimate List of 6 Best NFT Platforms for Artists</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-5-best-tv-for-ps5-and-xbox-series-x-updated-july/"><u>[Updated] Top 5 Best TV for Ps5 and Xbox Series X (Updated July)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-vlog-heroes-the-best-video-capturers-unveiled-for-2024/"><u>[Updated] VLog Heroes The Best Video Capturers Unveiled for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-4-sites-for-free-skype-tones/"><u>2024 Approved Top 4 Sites for Free Skype Tones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-windows-11-potential-with-a-simple-upgrade/"><u>2024 Approved Unlocking Windows 11 Potential with a Simple Upgrade</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/customizing-teams-background-priorpost-meeting-for-2024/"><u>Customizing Teams Background Prior/Post-Meeting for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-t2-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo T2 Pro 5G Phone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings/"><u>In 2024, The Ultimate Guide to Selecting Android and iOS Clocks for Weddings</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-list-of-engaging-history-content-on-youtube/"><u>In 2024, The Ultimate List of Engaging History Content on YouTube</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/kids-and-newbies-the-best-10-drones-out-there-for-2024/"><u>Kids and Newbies The Best 10 Drones Out There for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-newbies-guide-to-understanding-core-filming-techniques-for-2024/"><u>The Newbie's Guide to Understanding Core Filming Techniques for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-3dmakerpros-mole-3d-scanner-a-world-of-scanning-capabilities-in-one-device/"><u>The Ultimate Guide to 3DMakerPro's Mole 3D Scanner - A World of Scanning Capabilities in One Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-screen-recorders-handbook-by-zd-soft-professionals-for-2024/"><u>[New] The Ultimate Screen Recorder’s Handbook by ZD Soft Professionals for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-reddit-triumphs-highly-upvoted-threads-compilation/"><u>[New] Ultimate Reddit Triumphs Highly Upvoted Threads Compilation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-windows-instant-file-review-techniques/"><u>[Updated] In 2024, Windows Instant File Review Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-keywords-in-the-realm-of-virtual-reality/"><u>[Updated] Keywords in the Realm of Virtual Reality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-unlocking-a-new-vocal-identity-in-free-fire-gaming/"><u>2024 Approved The Ultimate Guide to Unlocking a New Vocal Identity in Free Fire Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-crypto-potential-the-ultimate-list-of-nft-engines/"><u>2024 Approved Unlocking Crypto Potential The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y02t-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinnacle-chroma-modifier/"><u>Pinnacle Chroma Modifier</u></a></li>
+<li><a href="https://driver-install.techidaily.com/stepwise-driver-correction-procedure-in-vista-system/"><u>Stepwise Driver Correction Procedure in Vista System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-amplifying-your-minecraft-scene-for-2024/"><u>The Art of Amplifying Your Minecraft Scene for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-gamer-friendly-smartphones-a-comprehensive-review/"><u>Top 5 Gamer-Friendly Smartphones : A Comprehensive Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-vrs-impact-on-digital-cinema-for-2024/"><u>Unraveling VR's Impact on Digital Cinema for 2024</u></a></li>
 </ul></div>
 

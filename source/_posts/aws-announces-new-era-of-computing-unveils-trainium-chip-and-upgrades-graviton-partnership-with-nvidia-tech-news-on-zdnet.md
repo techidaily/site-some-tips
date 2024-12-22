@@ -1,7 +1,7 @@
 ---
 title: "AWS Announces New Era of Computing: Unveils Trainium Chip and Upgrades Graviton Partnership with Nvidia - Tech News on ZDNET"
-date: 2024-09-18 16:30:10
-updated: 2024-09-20 12:46:45
+date: 2024-12-16T17:51:45.564Z
+updated: 2024-12-21T23:09:19.457Z
 tags:
   - cloud
 categories:
@@ -90,11 +90,32 @@ Nvidia said it will make AWS its "primary cloud provider for its ML research and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digital-identity-building-crafting-perfect-channel-images/"><u>[New] 2024 Approved Digital Identity Building Crafting Perfect Channel Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-6-vital-video-forms-for-captivated-viewers-for-2024/"><u>[New] 6 Vital Video Forms for Captivated Viewers for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-perfecting-sound-with-advanced-audacity-methods-for-2024/"><u>[New] Perfecting Sound with Advanced Audacity Methods for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-from-basic-to-brilliant-top-10-pixlr-techniques/"><u>[Updated] From Basic to Brilliant Top 10 Pixlr Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-free-banner-templates-and-makers-for-youtube/"><u>[Updated] In 2024, Free Banner Templates & Makers for YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-secrets-in-watching-the-instagram-story-narrative/"><u>[Updated] In 2024, Secrets in Watching The Instagram Story Narrative</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-transforming-your-living-space-into-a-podcast-studio/"><u>[Updated] In 2024, Transforming Your Living Space Into a Podcast Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-secrets-with-enhanced-scopes-in-roblox-games/"><u>2024 Approved Unveiling Secrets with Enhanced Scopes in Roblox Games</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-assisted-poem-writing-techniques-using-chatgpt/"><u>AI-Assisted Poem Writing Techniques Using ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-concept-to-reality-an-elaborate-breakdown-of-toolwiz-photosapp-2023-edition-for-2024/"><u>From Concept to Reality An Elaborate Breakdown of Toolwiz PhotosApp, 2023 Edition for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-skype-soundtrack-hub-finding-the-right-tones-online/"><u>In 2024, Skype Soundtrack Hub Finding the Right Tones Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-revision-efficient-erasing-techniques-in-psx/"><u>In 2024, The Art of Revision Efficient Erasing Techniques in PSX</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/making-the-most-of-virtual-reality-space/"><u>Making the Most of Virtual Reality Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbeatable-prices-for-top-budget-4k-cameras-(1000-for-2024/"><u>Unbeatable Prices for Top Budget 4K Cameras (<$1,000) for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

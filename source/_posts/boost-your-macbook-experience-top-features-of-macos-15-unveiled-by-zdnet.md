@@ -1,7 +1,7 @@
 ---
 title: "Boost Your MacBook Experience: Top Features of macOS 15 Unveiled by ZDNet"
-date: 2024-12-18T17:29:50.023Z
-updated: 2024-12-21T02:24:29.541Z
+date: 2024-12-16T21:00:10.945Z
+updated: 2024-12-22T03:02:39.015Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Camera Control button
@@ -51,7 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -67,7 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -114,24 +114,18 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-improve-your-channels-meta-description-powerfully/"><u>[New] Improve Your Channel's Meta Description Powerfully</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-style-meets-function-essential-sj4000-gear-selection/"><u>[New] Style Meets Function Essential SJ4000 Gear Selection</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-essential-guide-to-transferring-tunes-across-platforms/"><u>[Updated] The Essential Guide to Transferring Tunes Across Platforms</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-ultimate-guide-to-use-video-enhancer-22/"><u>2024 Approved Ultimate Guide To Use Video Enhancer 2.2</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-uncharted-top-free-speech-to-text-for-mac-users/"><u>2024 Approved Uncharted Top Free Speech-to-Text for Mac Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-this-years-premier-trivia-broadcasting-titles/"><u>2024 Approved Unveiling This Year's Premier Trivia Broadcasting Titles</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/comedic-counterpoints-funny-song-flips-for-2024/"><u>Comedic Counterpoints Funny Song Flips for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/downloading-the-newest-geforce-rtx/"><u>Downloading the Newest GeForce RTX</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-to-increase-frames-per-second-fps-in-the-f1-2021-racing-simulator-for-pc-players/"><u>Expert Tips to Increase Frames Per Second (FPS) in the F1 2021 Racing Simulator for PC Players</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-11-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-troubleshooting-companion-restoring-srt-functionality-in-premiere/"><u>In 2024, The Troubleshooting Companion Restoring SRT Functionality in Premiere</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/promoting-download-and-printing-techniques-for-boosting-user-engagement-with-your-flipbooks-at-flipbuildercom/"><u>Promoting Download and Printing: Techniques for Boosting User Engagement with Your Flipbooks at FlipBuilder.com</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-huawei-p60-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Huawei P60 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-basics-of-picture-in-picture-in-ff-for-2024/"><u>The Basics of Picture-in-Picture in FF for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites-for-2024/"><u>The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tips-to-elevate-your-game-in-subway-surfers-learn-now/"><u>Top Tips to Elevate Your Game in Subway Surfers – Learn Now</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-newest-lg-bp550-specs-for-2024/"><u>Ultimate Guide Newest LG BP550 Specs for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-power-of-zoom-in-enhancing-your-youtube-experience-for-2024/"><u>Unveiling the Power of Zoom in Enhancing Your YouTube Experience for 2024</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/windows-11-wiederherstellung-sicher-ohne-dateien-und-anwendungen-zu-verlieren/"><u>Windows 11 Wiederherstellung Sicher Ohne Dateien Und Anwendungen Zu Verlieren</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-decoding-youtubes-payment-scheme/"><u>[New] In 2024, Decoding YouTube's Payment Scheme</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-secure-your-animated-gifs-with-these-winning-recording-software-on-pc/"><u>[Updated] 2024 Approved Secure Your Animated GIFs with These Winning Recording Software on PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-sizing-up-how-to-make-videos-work-in-instagram-bests/"><u>2024 Approved Sizing Up How to Make Videos Work in Instagram Bests</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210711700-9781454915416-a-little-bit-of-crystals/"><u>A Little Bit of Crystals | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-gratuita-de-archivos-wav-a-mov-online-con-movavi/"><u>Conversión Gratuita De Archivos WAV a MOV Online Con Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/exploring-the-features-of-pcdj-dex-3-with-a-comprehensive-browser-walkthrough-preview-insight-video/"><u>Exploring the Features of PCDJ Dex 3 with a Comprehensive Browser Walkthrough – Preview Insight Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-gebaseerd-konvertor-voor-caf-naar-m4a-formaten-online-tool-van-movavi/"><u>Gratuit Gebaseerd Konvertor Voor CAF Naar M4A-Formaten - Online Tool Van Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/konvertereen-webm-in-een-gif-volopvullend-veiligheid-gratis-en-gemakkelijk-met-movavi-online-tool/"><u>Konvertereen WebM in Een GIF Volopvullend: Veiligheid, Gratis en Gemakkelijk Met Movavi Online-Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726228162859-movavi-mxfmkv/"><u>Movaviの無料サービス: ウェブ上でMXFからMKVへ簡単なファイル変換</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/optimize-your-gaming-by-learning-ps3-video-capture-techniques-for-2024/"><u>Optimize Your Gaming by Learning PS3 Video Capture Techniques for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-start-with-portable-driver-easy-your-essential-guide-to-a-hassle-free-download/"><u>Quick Start with Portable Driver Easy: Your Essential Guide to a Hassle-Free Download</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-remove-drums-from-a-song-online-easy-tips-and-tricks/"><u>Updated 2024 Approved Remove Drums From a Song Online Easy Tips and Tricks</u></a></li>
 </ul></div>
 

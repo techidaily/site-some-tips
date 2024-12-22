@@ -1,7 +1,7 @@
 ---
 title: Alibaba Group Plans Cloud Business Spinoff and Launches IPOs for Duo Initiatives
-date: 2024-09-17 14:35:25
-updated: 2024-09-20 10:48:41
+date: 2024-12-17T03:57:21.190Z
+updated: 2024-12-21T17:22:20.362Z
 tags:
   - cloud
 categories:
@@ -94,11 +94,35 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-maximizing-visibility-post-facebook-update/"><u>[New] In 2024, Maximizing Visibility Post-Facebook Update</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transforming-skincare-secrets-into-social-stardom/"><u>[New] Transforming Skincare Secrets Into Social Stardom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-humor-pay-nothing-easymeme-tools-guide/"><u>[New] Unlock Humor, Pay Nothing EasyMeme Tools Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-navigating-the-world-of-instagram-story-highlights/"><u>[Updated] 2024 Approved Navigating the World of Instagram Story Highlights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tricks-and-tips-to-bypass-hidden-video-barriers/"><u>[Updated] Tricks and Tips to Bypass Hidden Video Barriers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-audience-wave-top-hash-tags-to-swell-youtube-views/"><u>2024 Approved Audience Wave Top Hash Tags to Swell Youtube Views</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-scheduling-zoom-conferences-for-android-users/"><u>2024 Approved Scheduling Zoom Conferences for Android Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlined-steps-wearable-opens-mac-gadget/"><u>2024 Approved Streamlined Steps Wearable Opens Mac Gadget</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>2024 Approved Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/galaxy-s23-and-note-3-pro-revealing-key-insights-on-tomorrows-technology/"><u>Galaxy S23 & Note 3 Pro Revealing Key Insights on Tomorrow's Technology</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-redmi-note-12-pro-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi Redmi Note 12 Pro 5G Device SIM</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-sustaining-wellbeing-in-virtual-reality/"><u>In 2024, Sustaining Wellbeing in Virtual Reality</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-xiaomi-redmi-k70-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Xiaomi Redmi K70 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-moment-in-vr-infinity/"><u>In 2024, Ultimate Moment in VR Infinity</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-a05-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy A05 Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-potential-of-text-with-photo-shading-psx-for-2024/"><u>Unlock the Potential of Text with Photo Shading PSX for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-aerial-precision-mavic-pro-analysis-for-2024/"><u>Unveiling Aerial Precision - Mavic Pro Analysis for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

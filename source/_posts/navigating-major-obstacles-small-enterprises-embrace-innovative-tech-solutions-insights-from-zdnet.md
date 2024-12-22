@@ -1,7 +1,7 @@
 ---
 title: "Navigating Major Obstacles: Small Enterprises Embrace Innovative Tech Solutions - Insights From ZDNet"
-date: 2024-09-19 16:25:27
-updated: 2024-09-20 11:21:53
+date: 2024-12-20T17:12:52.542Z
+updated: 2024-12-22T00:00:30.399Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/1c433afae0f8c316ba83d724b6e1d85b8ae483fb3
 Encouraged by recent successes, small businesses are rushing to [exploit cloud computing](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) like never before – and it's a trend that's set to continue as they look for further digital transformation.
 
 Such is the strength of the shift to the cloud that Laurie McCabe, co-founder and partner at tech analyst SMB Group, suggests on-demand IT might be one of the few areas of tech spending where small businesses are at least keeping pace with their enterprise counterparts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -79,6 +83,10 @@ Trustpilot CISO Stu Hirst says his organisation makes heavy use of on-demand IT 
 
 "That's incredibly powerful for the speed at which we do things. You can then embed guardrails through that process, so security is embedded and there's a set of boundaries within which people can work."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Further reading on SMB Technology essentials:
 
 * **[Small business tech outlook: Here are the challenges and opportunities ahead](https://www.zdnet.com/article/small-business-tech-outlook-challenges-and-opportunities-ahead/)**
@@ -93,11 +101,31 @@ Trustpilot CISO Stu Hirst says his organisation makes heavy use of on-demand IT 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-synthesizing-best-canon-temporal-videography/"><u>[New] Synthesizing Best Canon Temporal Videography</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ransform-your-videos-secrets-of-effective-youtube-seo-tools/"><u>[New] Transform Your Videos Secrets of Effective YouTube SEO Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-turbocharging-fb-media-speed-techniques-revealed/"><u>[New] Turbocharging FB Media Speed Techniques Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-syma-x8c-tech-specifications-study/"><u>[Updated] Syma X8C Tech Specifications Study</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-sierras-icloud-drives-and-shares/"><u>[Updated] The Ultimate Guide to Sierra's iCloud Drives & Shares</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-upload-and-share-your-visual-content-on-youtube/"><u>[Updated] Upload & Share Your Visual Content on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-crafting-a-memorable-look-back-experience-on-fb/"><u>2024 Approved Crafting a Memorable Look Back Experience on FB</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-m1-advantages-in-high-quality-video-production-workstations/"><u>2024 Approved M1 Advantages in High-Quality Video Production Workstations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-reducing-shakiness-on-your-gopro-movie/"><u>2024 Approved The Ultimate Guide to Reducing Shakiness on Your GoPro Movie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-your-windows-services-manager-with-these-top-7-tricks/"><u>Breathe Life Into Your Windows Services Manager with These Top 7 Tricks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-oppo-a1-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Oppo A1 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-v30-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo V30 online without jailbreak</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-audiencier-names-with-top-ai-tools/"><u>In 2024, Transforming Audiencier Names with Top AI Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-create-split-screen-videos-for-free-online-and-offline-editors-for-2024/"><u>New Create Split-Screen Videos for Free Online and Offline Editors for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782135-9781620554166-the-john-michell-reader-2nd-ed/"><u>The John Michell Reader (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unifying-online-collaboration-tools-skype-and-zoom-for-2024/"><u>Unifying Online Collaboration Tools Skype & Zoom for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-upgrading-to-macos-1441-is-now-safer-for-your-apple-device-insights-by-zdnet/"><u>Why Upgrading to macOS 14.4.1 Is Now Safer for Your Apple Device - Insights by ZDNET</u></a></li>
+</ul></div>
+

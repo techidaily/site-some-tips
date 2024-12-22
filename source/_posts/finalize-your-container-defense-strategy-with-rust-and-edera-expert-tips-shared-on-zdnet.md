@@ -1,7 +1,7 @@
 ---
 title: "Finalize Your Container Defense Strategy With Rust and Edera: Expert Tips Shared on ZDNet"
-date: 2024-09-17 20:51:23
-updated: 2024-09-20 12:45:49
+date: 2024-12-15T03:09:12.972Z
+updated: 2024-12-21T18:39:37.445Z
 tags:
   - cloud
 categories:
@@ -26,6 +26,10 @@ If you're a techie, you may think that's true, but aren't hypervisors of both ty
 The foundation of the new program is [Krata](https://github.com/edera-dev/krata). This is a Xen-based, single-host hypervisor built for [Open Container Initiative (OCI)](https://opencontainers.org/)\-compliant containers. It isolates containers with a fully memory-safe Rust control plane to bring Xen tooling into a new, secure era. In addition, Edera uses Lukko, an open-source memory safety runtime library. This library detects memory safety violations at runtime and cleanly terminates programs before they can be exploited.
 
 Edera is secure by design. It's the only independent solution that offers isolation at the container level, making container escapes impossible, no matter where you run your infrastructure: a hyper cloud, a local cloud, or your own servers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Edera's key features
 
@@ -90,11 +94,28 @@ I'm excited to see what they do going forward. This really is a new, innovative 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-exploring-the-mystery-of-the-blue-video-symbol-on-fb-messages/"><u>[New] 2024 Approved Exploring the Mystery of the Blue Video Symbol on FB Messages</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-tailored-soundtracks-at-your-fingertips-constructing-youtube-music-collections-webmobile/"><u>[New] Tailored Soundtracks at Your Fingertips Constructing YouTube Music Collections (Web/Mobile)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-voice-logger-innovations-for-mac-users-unveiling-the-best-5-apps/"><u>[Updated] 2024 Approved Voice Logger Innovations for Mac Users Unveiling the Best 5 Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thrilling-tales-at-the-top-engaging-openers/"><u>[Updated] Thrilling Tales at the Top Engaging Openers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-10-free-instagram-story-viewers-to-watch-instagram-stories-anonymously/"><u>2024 Approved 10 FREE Instagram Story Viewers to Watch Instagram Stories Anonymously</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-amusement-master-memes-with-kapwing/"><u>2024 Approved The Art of Amusement – Master Memes with Kapwing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-flawless-inshot-edit-transitions/"><u>2024 Approved The Art of Flawless Inshot Edit Transitions</u></a></li>
+<li><a href="https://win-great.techidaily.com/fixing-unresponsive-hdmi-devices-on-your-windows-computer-expert-tips-and-tricks/"><u>Fixing Unresponsive HDMI Devices on Your Windows Computer: Expert Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-utilizing-video-resources-in-learning/"><u>In 2024, Strategies for Utilizing Video Resources in Learning</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-top-income-estimator-apps-for-tiktok-content-makers/"><u>In 2024, Top Income Estimator Apps for TikTok Content Makers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-intensify-visual-soundscapes-for-optimal-engagement-for-2024/"><u>New Intensify Visual Soundscapes for Optimal Engagement for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-ignoring-license-expires-messages-in-win11/"><u>Quick Tips: Ignoring ‘License Expires’ Messages in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/skyward-saga-with-gopro-karma-a-comprehensive-review-for-2024/"><u>Skyward Saga with GoPro Karma A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-is-folding-discover-possible-prices-and-launch-dates-for-samsungs-anticipated-galaxy-z-flip-nplus-with-rumored-hardware-upgrades/"><u>The Future Is Folding: Discover Possible Prices and Launch Dates for Samsung's Anticipated Galaxy Z Flip N+ with Rumored Hardware Upgrades</u></a></li>
+</ul></div>
+

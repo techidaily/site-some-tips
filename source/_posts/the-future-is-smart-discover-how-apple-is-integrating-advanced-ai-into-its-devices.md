@@ -1,7 +1,7 @@
 ---
 title: The Future Is Smart - Discover How Apple Is Integrating Advanced AI Into Its Devices
-date: 2024-12-17T03:57:01.676Z
-updated: 2024-12-20T19:40:55.116Z
+date: 2024-12-18T17:00:00.761Z
+updated: 2024-12-22T01:21:42.769Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -33,10 +33,6 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 This year, five topics will likely dominate the headlines, dictate the next industry buzzwords, and be in the minds of every consumer. You'll hear a lot more about the "[AI PC](https://www.zdnet.com/article/nvidia-makes-the-case-for-the-ai-pc-at-ces-2024/)", but don't let that name obscure the reality: Our smartphones -- the most personal of computers -- are also receptive to an artificial intelligence makeover.
 
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
 
@@ -53,7 +49,7 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -72,6 +68,10 @@ Now that the major players have entered the competition, the big question this y
 
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Qi2 bridges a long-standing gap in charging
 
 The iPhone 15 Pro (left) next to the Samsung Galaxy S23 Ultra (right).
@@ -89,7 +89,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -111,7 +111,7 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -168,22 +168,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-optimal-remote-voice-recorders/"><u>[Updated] 2024 Approved Optimal Remote Voice Recorders</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-harnessing-imagination-a-practical-guide-to-professional-gifs/"><u>[Updated] In 2024, Harnessing Imagination A Practical Guide to Professional GIFs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-abbyy-top-choice-for-everest-groups-idp-peak-matrix-evaluation/"><u>1. ABBYY: Top Choice for Everest Group's IDP Peak Matrix Evaluation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-step-by-step-for-attaching-tunes-in-instagram-media/"><u>2024 Approved Step-by-Step for Attaching Tunes in Instagram Media</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbey-jahresumsatz-steigt-um-19-in-deutschland-fur-das-jahr-2018-seo-freundliche-ubersicht/"><u>ABBEY Jahresumsatz Steigt Um 19 % in Deutschland Für Das Jahr 2018 - SEO-Freundliche Übersicht</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-announces-scott-opitz-as-new-cmo-exciting-times-ahead/"><u>ABBYY Announces Scott Opitz as New CMO: Exciting Times Ahead</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-finereader-et-ideticiel-accelere-le-tri-du-courrier-dans-les-communes-avec-larchivage-numerique/"><u>ABBYY FineReader Et IDéticiel Accélère Le Tri Du Courrier Dans Les Communes Avec L'Archivage Numérique</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-finereader-fur-blinde-und-sehschwache-schulerinnen-uberwindet-lernbarrieren-mit-spracherkennungstechnologie/"><u>ABBYY FineReader Für Blinde Und Sehschwache SchülerInnen - Überwindet Lernbarrieren Mit Spracherkennungstechnologie</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-unveils-cutting-edge-digital-tools-to-streamline-legal-practices-during-the-2020-american-bar-association-technology-exhibition/"><u>ABBYY Unveils Cutting-Edge Digital Tools to Streamline Legal Practices During the 2020 American Bar Association Technology Exhibition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1724313333809-cookiebot-enabled-enhance-your-websites-analytics-and-personalization/"><u>Cookiebot-Enabled: Enhance Your Website's Analytics & Personalization</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-tecno-spark-go-2023-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Tecno Spark Go (2023)?</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-personalize-your-youtube-experience-with-altered-rhythms/"><u>In 2024, Personalize Your YouTube Experience with Altered Rhythms</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/linksys-ae25e00-easy-and-fast-download-of-latest-firmware-driver-update/"><u>Linksys AE25e00 - Easy and Fast Download of Latest Firmware Driver Update</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209940611-9781734426533-saying-yes-to-life/"><u>Saying Yes to Life | Free Book</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/simplify-your-pets-diet-using-the-arf-automatic-pet-nourisher/"><u>Simplify Your Pet's Diet Using the Arf Automatic Pet Nourisher</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-timeline-connector-for-alteryx-abbyy/"><u>ビジネス分析を強化するABBYY Timeline Connector for Alteryx® - ABBYYブログでの完全ガイド</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-the-age-update-process-on-tiktok/"><u>[New] Streamline the Age Update Process on TikTok</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles/"><u>[New] Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-convert-youtube-sounds-to-wider-reach-mp3-for-mac-users/"><u>[Updated] 2024 Approved Convert YouTube Sounds to Wider Reach MP3 for Mac Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-stretched-seconds-capturing-slow-mo-videos-using-mobile-apps-and-internet-platforms/"><u>[Updated] The Ultimate Guide to Stretched Seconds Capturing Slow-Mo Videos Using Mobile Apps and Internet Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-cosmic-divides-metaverse-and-multiverse-explained/"><u>[Updated] Unveiling Cosmic Divides Metaverse and Multiverse Explained</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-winning-at-capturing-conversations-windows-vs-mac-recording-tactics/"><u>2024 Approved Winning at Capturing Conversations - Windows vs Mac Recording Tactics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-common-troubles-with-iphoneipad-widgets-the-fast-fixes-you-need/"><u>Bypass Common Troubles with iPhone/iPad Widgets – The Fast Fixes You Need</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creating-flavorful-culinary-videos-top-7-techniques/"><u>Creating Flavorful Culinary Videos - Top 7 Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-skype-messages-not-sending-solved/"><u>How to Fix Skype Messages Not Sending [Solved]</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s Plus to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supreme-narrative-designers-den/"><u>In 2024, Supreme Narrative Designer's Den</u></a></li>
 </ul></div>
 

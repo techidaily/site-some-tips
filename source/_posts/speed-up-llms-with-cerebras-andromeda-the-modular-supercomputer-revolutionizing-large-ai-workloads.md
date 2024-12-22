@@ -1,7 +1,7 @@
 ---
 title: "Speed Up LLMs with Cerebras' 'Andromeda': The Modular Supercomputer Revolutionizing Large AI Workloads"
-date: 2024-09-18 18:55:39
-updated: 2024-09-20 11:48:51
+date: 2024-12-19T00:00:57.297Z
+updated: 2024-12-21T19:33:21.466Z
 tags:
   - cloud
 categories:
@@ -26,6 +26,10 @@ For example, Nvidia, the standard bearer in chips for AI, in September announced
 Monday, [Cerebras Systems,](https://www.zdnet.com/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/) the 6-year-old, Sunnyvale, Calif.-based startup that is among a gaggle of companies challenging Nvidia's dominance, [unveiled a supercomputer called Andromeda](https://www.cerebras.net/andromeda/) that performs a quadrillion floating point math operations per second, as much as the top supercomputer in the world, [Frontier](https://en.wikipedia.org/wiki/Frontier%5F%28supercomputer%29), and that can achieve dramatic speed-up on tasks such as LLMs beyond the ability of thousands of GPU chips. 
 
 **Also:** [**AI could have 20% chance of sentience in 10 years, says philosopher David Chalmers**](https://www.zdnet.com/article/ai-could-have-20-percent-chance-of-sentience-in-10-years-says-philosopher-david-chalmers/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -68,6 +72,10 @@ Cerebras emphasizes the ease of clustering its CS-2s, which doesn't require writ
 Cerebras Systems
 
 Early users such as the Argonne team prove the Andromeda approach can beat out some supercomputers using thousands of Nvidia GPUs, and even perform some tasks that couldn't run on the supercomputers because of memory limitations. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Artificial Intelligence
 
@@ -142,11 +150,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-premier-screen-picks-for-ps5-and-xbox-games/"><u>[New] The Premier Screen Picks for PS5 and Xbox Games</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-select-20-humorous-incarceration-posts-to-infuse-positivity-into-facebook-feeds-for-2024/"><u>[Updated] Select 20 Humorous Incarceration Posts to Infuse Positivity Into Facebook Feeds for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-perusing-past-facebook-pages-to-review-or-not-to/"><u>2024 Approved The Art of Perusing Past Facebook Pages To Review or Not To?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-how-to-on-using-voice-input-in-google-docs/"><u>2024 Approved The Ultimate How-To on Using Voice Input in Google Docs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-game-changer-samsung-ue590-4k-monitor/"><u>2024 Approved Unveiling the Game Changer - Samsung UE590 4K Monitor</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/become-an-fcp-virtuoso-with-this-guide-for-2024/"><u>Become an FCP Virtuoso with This Guide for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-best-practices-for-high-impact-customer-endorsements/"><u>In 2024, Best Practices for High-Impact Customer Endorsements</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-m1-pro-vs-m1-max-a-side-by-side-comparison-of-apple-chip-tech/"><u>In 2024, M1 Pro Vs. M1 Max - A Side-by-Side Comparison of Apple Chip Tech</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-fit2-ultimate-on-the-go-health-monitor/"><u>Samsung Galaxy Fit2: Ultimate On-the-Go Health Monitor</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/up-content-creation-standard-studio-vs-beta-access/"><u>Step-Up Content Creation Standard Studio Vs. Beta Access</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-effective-strategies-for-enhancing-chatgpt-conversations/"><u>Top 7 Effective Strategies for Enhancing ChatGPT Conversations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-sound-with-cloud-tools-top-5-online-text-to-speech-services-reviewed-for-2024/"><u>Transform Sound with Cloud Tools Top 5 Online Text-to-Speech Services Reviewed for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-the-secure-connection-failed-problem-in-firefox-easily/"><u>Troubleshoot and Fix the 'Secure Connection Failed' Problem in Firefox Easily</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/windows-server-2012-r2-upgrade-steps-transitioning-to-the-2022-version/"><u>Windows Server 2012 R2 Upgrade Steps: Transitioning to the 2022 Version</u></a></li>
+</ul></div>
+

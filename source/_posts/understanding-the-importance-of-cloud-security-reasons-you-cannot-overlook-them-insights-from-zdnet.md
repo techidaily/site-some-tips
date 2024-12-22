@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Importance of Cloud Security: Reasons You Cannot Overlook Them - Insights From ZDNet"
-date: 2024-09-18 10:46:38
-updated: 2024-09-20 12:12:44
+date: 2024-12-15T00:34:19.828Z
+updated: 2024-12-21T23:02:54.040Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 Image: Getty
 
 As convenient as [cloud computing has become](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/), it isn't without problems. Poor cybersecurity planning for cloud applications, such as allowing users to rely on simple passwords, [failing to use multi-factor authentication](https://www.zdnet.com/article/multi-factor-authentication-use-it-for-all-the-people-that-access-your-network-all-the-time/) or [not applying patches and updates](https://www.zdnet.com/article/youve-still-not-patched-it-hackers-are-using-these-old-software-flaws-to-deliver-ransomware/), can leave you vulnerable to attacks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -46,6 +50,10 @@ The lack of understanding around configuring and securing cloud services can lea
 
 This isn't just a theoretical problem, as cases of misconfigured cloud environments exposing sensitive information are regularly uncovered. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 * [Best VPN services](https://www.zdnet.com/article/best-vpn/)
@@ -56,6 +64,10 @@ This isn't just a theoretical problem, as cases of misconfigured cloud environme
 "Organisations do not completely understand the cloud environment and a lack of expertise and skill set makes it difficult for businesses to identify and implement the right set of security controls to protect their cloud operations," says Prakash Venkata, principal within PwC's cybersecurity, risk and regulatory practice. 
 
 "Companies that seem to be ignoring cloud security altogether may be doing so due to a lack of understanding, a lack of skills and expertise, limited time due to competing corporate initiatives, or limited budget to invest in leading tools," he adds. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Security
 
@@ -76,6 +88,10 @@ If your organisation isn't on top of its cloud security strategy, it could be ea
 There are also additional steps that information security teams can take to bolster cybersecurity defences of cloud services, such as [rolling out multi-factor authentication to all users](https://www.zdnet.com/article/better-than-the-best-password-how-to-use-2fa-to-improve-your-security/). This provides an opportunity to stop and detect malicious intrusions before they happen, because even if the attacker has the correct password, the user has to confirm that it's a legitimate login attempt.
 
 "Identity access management, the ability to ensure that networks' data system services can only be accessed by by authorized parties, that's really the essential bit," says Nurse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -98,6 +114,10 @@ However, your choice of cloud service provider could make a significant differen
 
 Even when you have a cybersecurity strategy around cloud in place, that's not the end of the journey – and much like when you first start using cloud services, you can't just ignore it and hope for the best. Cybersecurity is always evolving, new threats emerge, and new strategies need to be applied to help keep networks and users as safe and secure as possible. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -112,11 +132,29 @@ Even when you have a cybersecurity strategy around cloud in place, that's not th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-first-foray-into-fashionable-mac-made-videos-for-youtube/"><u>[New] 2024 Approved First Foray Into Fashionable Mac-Made Videos for YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-real-time-photo-editing-on-the-go-cropping-techniques/"><u>[New] 2024 Approved Real-Time Photo Editing On-the-Go Cropping Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-video-storytelling-integrating-audio-narration/"><u>[New] The Art of Video Storytelling Integrating Audio Narration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-closer-look-approach-to-team-collaboration/"><u>[New] The Closer Look Approach to Team Collaboration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-best-4k-monitors/"><u>[Updated] The Ultimate List of Best 4K Monitors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-font-customization-in-ae/"><u>2024 Approved The Ultimate Guide to Font Customization in AE</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-seamless-service-interactions-in-chatgpt-environment/"><u>Ensuring Seamless Service Interactions in ChatGPT Environment</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-y27-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo Y27 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-save-spotify-playlists-as-editable-text-files-for-offline-use/"><u>How To Save Spotify Playlists as Editable Text Files for Offline Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synergy-strategies-for-ig-and-tiktok/"><u>In 2024, Synergy Strategies for IG & TikTok</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-csv-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Online signatures for .csv files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scrutinizing-chatgpt-for-personal-data-exposure/"><u>Scrutinizing ChatGPT for Personal Data Exposure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-visualizing-audio-brilliance-for-2024/"><u>The Ultimate Guide to Visualizing Audio Brilliance for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-digital-art-with-free-versatile-lut-tools-for-2024/"><u>Transforming Digital Art with Free, Versatile LUT Tools for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-windows-11-could-this-be-the-tipping-point-in-microsofts-history-of-mixed-reviews-find-out-now/"><u>Unveiling Windows 11: Could This Be the Tipping Point in Microsoft's History of Mixed Reviews? Find Out Now!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Secure Containers Permanently Using Rust: The Power of Edera Unveiled on ZDNet"
-date: 2024-09-18 23:52:26
-updated: 2024-09-20 11:44:55
+date: 2024-12-20T20:32:25.019Z
+updated: 2024-12-21T18:50:01.641Z
 tags:
   - cloud
 categories:
@@ -26,6 +26,10 @@ If you're a techie, you may think that's true, but aren't hypervisors of both ty
 The foundation of the new program is [Krata](https://github.com/edera-dev/krata). This is a Xen-based, single-host hypervisor built for [Open Container Initiative (OCI)](https://opencontainers.org/)\-compliant containers. It isolates containers with a fully memory-safe Rust control plane to bring Xen tooling into a new, secure era. In addition, Edera uses Lukko, an open-source memory safety runtime library. This library detects memory safety violations at runtime and cleanly terminates programs before they can be exploited.
 
 Edera is secure by design. It's the only independent solution that offers isolation at the container level, making container escapes impossible, no matter where you run your infrastructure: a hyper cloud, a local cloud, or your own servers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Edera's key features
 
@@ -90,11 +94,31 @@ I'm excited to see what they do going forward. This really is a new, innovative 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-best-free-and-paid-blu-ray-video-player-software-for-pcandmac/"><u>[New] Best Free and Paid Blu-Ray Video Player Software for PC&Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategies-for-apple-listed-podcast-success/"><u>[New] Strategies for Apple-Listed Podcast Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unexplained-angle-flip-sideways-vids-in-instagram-world/"><u>[New] Unexplained Angle Flip Sideways Vids in Instagram World</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-expert-insights-on-optimal-fpv-drone-blades/"><u>2024 Approved Expert Insights on Optimal FPV Drone Blades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-powerful-path-to-flawless-photo-edits-mastering-background-eraser-use/"><u>2024 Approved The Powerful Path to Flawless Photo Edits Mastering Background Eraser Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-audio-transformation-software-magic-and-more/"><u>2024 Approved Top Audio Transformation Software Magic and More</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/convert-and-save-mulesoft-tutorials-as-mp4-or-avi-files-windows-and-macos-guide/"><u>Convert & Save MuleSoft Tutorials as MP4 or AVI Files: Windows & macOS Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-tech-behind-gpt-4-vs-gpt-35/"><u>Dissecting the Tech Behind GPT-4 Vs. GPT-3.5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-xiaomi-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Xiaomi ’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-stretching-youtube-videos-to-full-display/"><u>In 2024, Stretching YouTube Videos to Full Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-list-8-ranked-android-video-tile-maker-options-freepaid/"><u>In 2024, The Ultimate List #8 Ranked Android Video Tile Maker Options (Free/Paid)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-photographic-face-off-legend-sj6-vs-xiaomis-yi-kickstarter/"><u>In 2024, Ultimate Photographic Face-Off Legend SJ6 Vs. Xiaomi's Yi Kickstarter</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/legal-tunes-collection-top-10-free-music-for-mindfulness-for-2024/"><u>Legal Tunes Collection – Top 10 Free Music for Mindfulness for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726027928639-obs-studio/"><u>OBS Studio入門：新米ユーザー用の簡単なスクリーン録画ガイド</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-5-essentials-for-prospective-buyers-of-pre-owned-ipads/"><u>Top 5 Essentials for Prospective Buyers of Pre-Owned iPads</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-performance-of-samsungs-cf591-in-modern-gaming-scenarios/"><u>Unveiling the Performance of Samsung's CF591 in Modern Gaming Scenarios</u></a></li>
+</ul></div>
+

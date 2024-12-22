@@ -1,7 +1,7 @@
 ---
 title: "Navigate High-Stakes Bargaining in the Booming Cloud Market: Strategies From ZDNet"
-date: 2024-09-19 12:59:29
-updated: 2024-09-20 10:15:17
+date: 2024-12-18T19:44:56.089Z
+updated: 2024-12-22T01:47:28.602Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Photo: Joe McKendrick
 Last month, it was [disclosed](https://www.nextgov.com/emerging-tech/2022/04/nsa-re-awards-secret-10-billion-contract-amazon/366184/) that the National Security Agency re-awarded a massive and hotly contested cloud computing contract worth up to $10 billion to Amazon Web Services. 
 
 One can assume a large government agency procuring $10 billion of cloud services has quite a bit of leverage over the terms of the agreement. However, for mainstream companies, the opposite may be true -- the cloud provider holds many of the cards, in a legal or contractual sense, with terms that may come back to bite the consumer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -59,11 +63,27 @@ Cloud engagements are now the lifeblood of forward-looking enterprises seeking t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-to-show-or-not-to-display-off-facebook-activities/"><u>[Updated] To Show or Not to Display Off-Facebook Activities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-zoom-a-chromebook-guide/"><u>2024 Approved Streamlining Zoom A Chromebook Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-filmmakers-edge-mastering-kinemasters-zoom-functionality/"><u>2024 Approved The Filmmaker's Edge Mastering Kinemaster's Zoom Functionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-no-charge-subtitle-makers-srt/"><u>2024 Approved The Ultimate Guide to No-Charge Subtitle Makers (SRT)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-world-of-google-ar-accessories-and-beyond/"><u>2024 Approved The World of Google AR Accessories, and Beyond</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-applying-luts-in-film-color-grading/"><u>2024 Approved Tips for Applying LUTs in Film Color Grading</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhance-your-asmr-experience-with-top-tier-mics-for-2024/"><u>Enhance Your ASMR Experience with Top-Tier Mics for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insight-into-auto-gpt-comparative-analysis-with-conversation-ai/"><u>Insight Into Auto-GPT: Comparative Analysis with Conversation AI</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-battlefield-a-comprehensive-guide-to-pokemon-unite-on-pc/"><u>Master the Battlefield: A Comprehensive Guide to Pokémon Unite on PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-mastering-video-editing-in-os-x-mavericks-a-comprehensive-guide/"><u>New In 2024, Mastering Video Editing in OS X Mavericks A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-cache-mismatch-effective-solutions-for-errcachemiss-error-in-chrome/"><u>Overcoming the Cache Mismatch: Effective Solutions for ERR_CACHE_MISS Error in Chrome</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-z-flip-5-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy Z Flip 5 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-gionee-by-fonelab-android-recover-music/"><u>Undelete lost music from Gionee</u></a></li>
+</ul></div>
+

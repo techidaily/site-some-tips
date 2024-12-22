@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Unveiling the Future of Portable Artificial Intelligence Education"
-date: 2024-12-18T17:59:50.606Z
-updated: 2024-12-21T00:56:07.098Z
+date: 2024-12-21T04:05:51.152Z
+updated: 2024-12-22T03:52:19.203Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
 
@@ -75,6 +71,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -88,7 +88,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -103,6 +103,10 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Image Playground?
 
 Apple
@@ -116,7 +120,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -132,7 +136,7 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -165,10 +169,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,17 +210,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-uncomplicated-methodology-turning-clownfish-sounds-on-windows-systems/"><u>[New] Uncomplicated Methodology Turning Clownfish Sounds on Windows Systems</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ranked-5-excellent-webcams-with-professional-microphones/"><u>[Updated] 2024 Approved Ranked 5 Excellent Webcams With Professional Microphones</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-effortless-timelapse-on-ipad-capturing-for-2024/"><u>[Updated] Effortless Timelapse on iPad Capturing for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-comprehensive-guide-to-android-sound-and-ringtone-customization-for-2024/"><u>A Comprehensive Guide to Android Sound and Ringtone Customization for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-a-gamers-guide-easy-and-effective-ways-to-record-your-minecraft-games-macos/"><u>In 2024, A Gamer's Guide Easy & Effective Ways to Record Your Minecraft Games (MacOS)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/masterful-webcam-hacks-for-creative-sessions/"><u>Masterful Webcam Hacks for Creative Sessions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-marketplace-strategies-from-the-abbyy-ai-hub/"><u>Navigating the Marketplace: Strategies From the ABBYY AI Hub</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-through-artificial-intelligence-myths-key-takeaways-from-the-latest-abbyy-ai-summit/"><u>Navigating Through Artificial Intelligence Myths: Key Takeaways From the Latest ABBYY AI Summit</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-technology-the-key-to-customized-user-experience-and-seo-success/"><u>Optimize with Cookiebot Technology: The Key to Customized User Experience and SEO Success</u></a></li>
-<li><a href="https://some-tips.techidaily.com/professionelle-verbesserung-mit-hilfe-digitaler-zwillingsmodelle-fur-ihr-unternehmen/"><u>Professionelle Verbesserung Mit Hilfe Digitaler Zwillingsmodelle Für Ihr Unternehmen</u></a></li>
-<li><a href="https://article-helps.techidaily.com/secrets-to-selecting-a-premier-cinematographer-for-2024/"><u>Secrets to Selecting a Premier Cinematographer for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/unblocking-the-pathway-for-an-obs-camera-feed-for-2024/"><u>Unblocking the Pathway for an OBS Camera Feed for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-ultimate-2023-timeline-turning-srt-into-txt-swiftly/"><u>[Updated] 2024 Approved Ultimate 2023 Timeline Turning SRT Into TXT Swiftly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tailoring-your-headline-for-job-searches/"><u>[Updated] Tailoring Your Headline for Job Searches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-experts-roadmap-to-bulk-downloading-on-tiktok-platform/"><u>[Updated] The Expert's Roadmap to Bulk Downloading on TikTok Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-tips-for-iphones-hdr-images/"><u>[Updated] Ultimate Tips for iPhone's HDR Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-inshot-top-pc-editing-solutions/"><u>2024 Approved Beyond Inshot Top PC Editing Solutions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-top-28-youtube-music-splitters-for-easy-audio-extraction/"><u>2024 Approved Top 28 YouTube Music Splitters for Easy Audio Extraction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-film-aesthetics-using-luts/"><u>2024 Approved Transforming Film Aesthetics Using Luts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlined-browsing-navigating-multi-screen-views-in-chrome/"><u>In 2024, Streamlined Browsing Navigating Multi-Screen Views in Chrome</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/scale-up-channel-followers-faster-and-cheaper/"><u>Scale Up Channel Followers Faster and Cheaper</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-freevista-vistas-treasuring-the-visual-wealth-of-costless-tiktok-screens-for-2024/"><u>The FREEvista Vistas Treasuring the Visual Wealth of Costless TikTok Screens for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-why-is-my-hp-wireless-keyboard-non-responsive/"><u>Troubleshooting Guide: Why Is My HP Wireless Keyboard Non-Responsive?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unlock-seamless-game-sound-integration-with-this-solved-discord-method/"><u>Unlock Seamless Game Sound Integration with This Solved Discord Method!</u></a></li>
 </ul></div>
 

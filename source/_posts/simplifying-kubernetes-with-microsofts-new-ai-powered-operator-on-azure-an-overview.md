@@ -1,7 +1,7 @@
 ---
 title: "Simplifying Kubernetes with Microsoft's New AI-Powered Operator on Azure: An Overview"
-date: 2024-09-17 15:19:11
-updated: 2024-09-20 10:42:32
+date: 2024-12-14T20:16:16.609Z
+updated: 2024-12-21T18:25:27.790Z
 tags:
   - cloud
 categories:
@@ -66,11 +66,29 @@ In short, if you want to do serious work with AI/ML on Azure, the Kubernetes Al 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-engagement-top-5-compelling-book-trailers/"><u>[New] Unlocking Engagement Top 5 Compelling Book Trailers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-20-pubg-moment-snapshots-open-access/"><u>[Updated] Top 20 PUBG Moment Snapshots, Open Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-8-video-boosters-say-goodbye-to-slow-mo/"><u>[Updated] Top 8 Video Boosters Say Goodbye to Slow Mo</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-deciding-on-a-vr-setup-going-wireless-mobile-or-connected-tethered/"><u>2024 Approved Deciding on a VR Setup Going Wireless (Mobile) or Connected (Tethered)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-top-7-utilities-of-samsungs-texting-service/"><u>Discover the Top 7 Utilities of Samsung's Texting Service</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-tutorial-navigating-mobizen-recording-features/"><u>Essential Tutorial Navigating Mobizen Recording Features</u></a></li>
+<li><a href="https://win-help.techidaily.com/is-it-possible-for-malware-to-propagate-via-wi-fi-networks-without-physical-connection/"><u>Is It Possible for Malware to Propagate via Wi-Fi Networks Without Physical Connection?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/pcinstagram/"><u>PCやスマートフォンによるInstagramリール動画閲覧＆保存ガイド</u></a></li>
+<li><a href="https://fox-search.techidaily.com/seamless-data-protection-with-aomei-backupper-expert-level-ease-of-use-and-universal-restoration-for-all-windows-systems/"><u>Seamless Data Protection with AOMEI Backupper - Expert-Level Ease of Use and Universal Restoration for All Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-gopros-time-lapse-technology-for-2024/"><u>Unleash Creativity with GoPro's Time-Lapse Technology for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-virtual-potential-with-kinemasters-latest-android-release-for-2024/"><u>Unlocking Virtual Potential with KineMaster's Latest Android Release for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

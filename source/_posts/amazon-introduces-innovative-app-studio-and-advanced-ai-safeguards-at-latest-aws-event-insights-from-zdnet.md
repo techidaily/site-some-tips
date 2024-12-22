@@ -1,7 +1,7 @@
 ---
 title: Amazon Introduces Innovative App Studio & Advanced AI Safeguards at Latest AWS Event - Insights From ZDNet
-date: 2024-09-19 13:34:42
-updated: 2024-09-20 12:22:31
+date: 2024-12-14T21:33:43.701Z
+updated: 2024-12-21T16:07:55.540Z
 tags:
   - cloud
 categories:
@@ -25,6 +25,10 @@ During the Summit keynote address, Dr. Matt Wood, vice president for AI Products
 
 Here are the biggest highlights from AWS Summit 2024\. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  AWS App Studio 
 
 Radhika Rajkumar/ZDNET
@@ -36,6 +40,10 @@ In a demo at AWS Summit, Amazon showed ZDNET how App Studio can take a request f
 App Studio also integrates with third-party services and AWS through connectors. Adam Seligman, vice president of developer experience at AWS, told ZDNET at the summit that the company anticipates App Studio will evolve to feature more integrations based on customer feedback. 
 
 **Also:** [**Make room for RAG: How GenAI's balance of power is shifting**](https://www.zdnet.com/article/make-room-for-rag-how-gen-ais-balance-of-power-is-shifting/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Amazon Q updates 
 
@@ -55,6 +63,10 @@ Another reveal was that Amazon Q Apps, a feature of Amazon Q Business, is now [g
 
 The release follows the trend of implementing AI assistants across industries and skill levels to offload work from all kinds of employees. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Amazon Bedrock updates 
 
 The company also announced updates to [Bedrock](https://www.zdnet.com/article/4-ways-amazon-bedrock-can-help-businesses-use-generative-ai-tools/), its enterprise platform for building and scaling generative AI applications. Bedrock provides a broad range of models for every use case, allowing companies to build with one or multiple based on their needs. 
@@ -64,6 +76,10 @@ As of Wednesday, users can fine-tune Anthropic's [Claude 3 Haiku](https://www.zd
 **Also:** [**What is AI? Everything to know about artificial intelligence**](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/)
 
 As we know, better data means better generative AI output. Amazon is adding new data sources to Knowledge Bases for Amazon Bedrock, including connectors for Confluence, SharePoint, and Salesforce, as well as custom web sources and improved accuracy for CSV and PDF data. This allows organizations to further customize their models with more business data. Knowledge Bases already connects to private sources like Amazon Aurora, MongoDB, Pinecone, and more. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  New capabilities for Agents 
 
@@ -76,6 +92,10 @@ With memory retention, Agents can now remember where a user query last left off,
 Wood noted in the keynote that AWS customers are interested in having agents performing complex analytics, beyond simple automated tasks. To address this, AWS leveraged Agents' ability to write code; they can now generate and execute code in a sandboxed environment. This allows agents to analyze data and create graphs "to tackle complex data-driven use cases, such as data analysis, data visualization, text processing, solving equations, and optimization problems," Sivasubramanian said in the [release](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Faws.amazon.com%2Fblogs%2Fmachine-learning%2Fempowering-everyone-with-genai-to-rapidly-build-customize-and-deploy-apps-securely-highlights-from-the-aws-new-york-summit%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7bb03bec-5f9e-4b41-98d8-6c0f77b47c29%7Cdtp&dtb=1). For instance, this capability could allow for the analysis of real estate price data to help make investment decisions. 
 
 Code interpretation is limited to a sandboxed environment to avoid potential chaos from agents creating and executing unvetted code. Amazon also noted that users can directly upload documents, making instructing agents more straightforward. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Updates to Guardrails 
 
@@ -124,11 +144,29 @@ As part of [AI Ready](https://www.zdnet.com/article/amazon-just-rolled-out-more-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-best-practices-for-capturing-vimeo-content/"><u>[New] 2024 Approved Best Practices for Capturing Vimeo Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-visualize-and-save-premium-free-screen-capture-software-on-pcmac/"><u>[New] 2024 Approved Visualize and Save - Premium Free Screen Capture Software on PC/Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ipad-timelapse-essentials-for-beginners-for-2024/"><u>[New] IPad Timelapse Essentials for Beginners for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-your-contents-potential-for-1m-views-on-youtube/"><u>[New] Unleash Your Content's Potential for 1M Views on YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-a-complete-breakdown-of-freelens-cam-software/"><u>[Updated] 2024 Approved A Complete Breakdown of Freelens Cam Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-demystifying-facebooks-new-short-form-video-model/"><u>[Updated] In 2024, Demystifying Facebook's New Short-Form Video Model</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-fostering-followers-with-flashy-instagram-puzzles-that-stand-out/"><u>[Updated] In 2024, Fostering Followers with Flashy Instagram Puzzles that Stand Out</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-orchestrate-audio-amidst-slides/"><u>[Updated] Orchestrate Audio Amidst Slides</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-camera-guide-2024s-premium-choices/"><u>[Updated] Ultimate Camera Guide 2024'S Premium Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-6-tools-for-video-language-shift/"><u>2024 Approved Superior 6 Tools for Video Language Shift</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-reclaiming-gone-reddit-content-a-time-saving-guide/"><u>In 2024, Reclaiming Gone-Reddit Content A Time-Saving Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-revolutionizing-how-you-record-and-archive-ps3-gaming/"><u>In 2024, Revolutionizing How You Record and Archive PS3 Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-zoom-features-on-your-chromebook-for-2024/"><u>Streamlining Zoom Features on Your Chromebook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-images-and-footage-on-iphone-for-2024/"><u>Syncing Images and Footage on iPhone for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-vectors-alternatives-to-the-classic-acid-pro-for-2024/"><u>Top Vectors Alternatives to the Classic ACID Pro for 2024</u></a></li>
+</ul></div>
+

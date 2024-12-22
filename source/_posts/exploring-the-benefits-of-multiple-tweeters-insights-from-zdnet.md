@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Benefits of Multiple Tweeters: Insights From ZDNet"
-date: 2024-09-17 20:35:12
-updated: 2024-09-20 10:22:43
+date: 2024-12-19T01:42:50.221Z
+updated: 2024-12-21T22:36:01.710Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 So I'm not going to take the "[Let's all quit Twitter](https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Let's%20all%20quit%20Twitter%22%7D)" viewpoint, or "[Elon Musk should be prohibited from buying Twitter](https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Elon%20Musk%20should%20be%20prohibited%20from%20buying%20Twitter%22%7D)" standpoint, or even the "[Twitter is going to hell in a neoconservative handbasket](https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Twitter%20is%20going%20to%20hell%20in%20a%20neoconservative%20handbasket%22%7D)" perspective. 
 
 But we should examine why we care about Twitter at all. It serves an important function, as an instantaneous publicly viewable broadcast message bus, for individuals, brands, governments, and everything in-between. But it also has many weaknesses, including that it is not a public good -- it is a corporation, and if Elon Musk gets his way, it will be again a privately owned one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Twitter
 
@@ -87,11 +91,31 @@ The time is now. Let's build a better internet together.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-beyond-boundaries-recognizing-leading-women-in-digital-storytelling/"><u>[New] In 2024, Beyond Boundaries Recognizing Leading Women in Digital Storytelling</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-pro-vlc-top-10-hidden-player-powers/"><u>[New] Pro-VLC Top 10 Hidden Player Powers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-sharing-the-spotlight-involving-viewers-in-your-journey/"><u>[New] Sharing the Spotlight Involving Viewers in Your Journey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-cinematographers-blueprint-for-simple-water-vids/"><u>[New] The Cinematographer's Blueprint for Simple Water Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-2024-cloud-sync-tools-for-android-devices/"><u>[New] Top 2024 Cloud Sync Tools for Android Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-the-power-of-online-livestreams-with-us-today/"><u>[New] Unleash the Power of Online Livestreams with Us Today</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-recommended-videos-block-the-videos-for-2024/"><u>[New] YouTube Recommended Videos - Block the Videos for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-budget-video-editing-made-simple-with-vimeo-free-service-for-2024/"><u>[Updated] Budget Video Editing Made Simple with Vimeo Free Service for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-topview-assessment-report/"><u>[Updated] TopView Assessment Report</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-magic-of-moving-texts-a-guide-for-insta-pros/"><u>[Updated] Unveiling the Magic of Moving Texts A Guide for Insta Pros</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-in-ar-a-comprehensive-guide-to-lut-tools/"><u>2024 Approved Unleashing Creativity in AR A Comprehensive Guide to LUT Tools</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/flash-sale-alert-up-to-30-off-on-your-next-4-decks-dex3-bundle-for-just-149/"><u>Flash Sale Alert! Up To $30 Off on Your Next 4 Decks - DEX3 Bundle for Just $149!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/summer-survival-kit-discover-the-7-key-elements-for-your-daily-travel-pack/"><u>Summer Survival Kit: Discover the 7 Key Elements for Your Daily Travel Pack</u></a></li>
+<li><a href="https://fox-info.techidaily.com/title-genius-a-comprehensive-guide-for-2024/"><u>Title Genius A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-criteria-for-choosing-a-premier-streamer-network-for-2024/"><u>Top 10 Criteria for Choosing a Premier Streamer Network for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-sources-to-harvest-enhanced-text-files-for-2024/"><u>Top Sources to Harvest Enhanced Text Files for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unravel-windows-user-entry-attempts-successes-and-setbacks/"><u>Unravel Windows User Entry Attempts: Successes and Setbacks</u></a></li>
+</ul></div>
+

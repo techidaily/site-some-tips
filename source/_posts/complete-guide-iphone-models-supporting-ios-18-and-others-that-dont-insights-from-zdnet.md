@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: IPhone Models Supporting iOS 18 and Others That Don't - Insights From ZDNet"
-date: 2024-12-15T20:21:27.017Z
-updated: 2024-12-21T04:00:18.594Z
+date: 2024-12-14T19:01:02.811Z
+updated: 2024-12-21T19:24:56.853Z
 tags:
   - apple
 categories:
@@ -76,10 +76,6 @@ According to Apple, these iPhone models can get iOS 18 now that it's become wide
 
 Notably, the once-popular iPhone X model is not on the list. Older devices like the iPhone 8 series also didn't make the cut this year. As for what's to come, Apple's new [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/) lineup will launch with iOS 18 out of the box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iOS 18 beta vs full release: What's the difference?
 
 The iOS 18 beta version differs slightly from the general release. Beta testers are given a release that has recently exited its alpha phase, so problems and bugs are expected to arise. The purpose of the beta phase is to gather user feedback to repair these bugs and address any user interface issues before the software is massively distributed.
@@ -93,7 +89,7 @@ The general release will have ironed out most of these bugs and problems using t
 One example of this process is when Apple released the iOS 17 beta version in 2023\. The early beta version featured the "End" button during a call that had moved from the center to the right, which was a big change for iPhone users. Disapproving feedback from beta testers resulted in [Apple moving the "End" button back to the center of the screen](https://www.zdnet.com/article/apple-moved-iphones-end-call-button-again-is-this-spot-less-weird/), where users had been accustomed to.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When was iOS 18 released?
@@ -105,7 +101,7 @@ Apple typically releases its new operating systems for public beta access a few 
 Apple released iOS 18 out of beta on September 16, a week after its ["Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). The Apple Intelligence features will be available in stages for qualifying devices and are expected to roll out gradually over the coming months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a software beta?
@@ -117,7 +113,7 @@ A software beta is a version of a program or operating system initially released
 The beta phase follows alpha testing, where software is developed and tested internally within the company. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone models will get Apple Intelligence?
@@ -129,12 +125,16 @@ While many iPhone models support iOS 18, very few will support Apple Intelligenc
 Apple Intelligence will be part of iOS 18, iPadOS18, and macOS Sequoia, but will be released over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone models will no longer be supported?
 
 iOS 18 will not be supported in the iPhone X, iPhone 8, or earlier models. The new iOS version will only be available for iPhones sporting an A12 Bionic chip or newer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What should you do with your outdated iPhone?
 
@@ -176,14 +176,18 @@ If you're looking to maintain or obtain a service provider, you can check your i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-superior-mp4-streamer-to-fb/"><u>[New] 2024 Approved Superior MP4 Streamer to FB</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-uav-technology-unveiled-the-yuneec-4k-journey/"><u>[New] 2024 Approved UAV Technology Unveiled The Yuneec 4K Journey</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-comprehensive-guide-to-legally-sharing-music-on-instagram/"><u>[New] The Comprehensive Guide to Legally Sharing Music on Instagram</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-compreehensive-guide-to-youtube-thumbnail-creation-mac/"><u>[Updated] 2024 Approved A Compreehensive Guide to YouTube Thumbnail Creation (Mac)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-lgs-monitor-revolution-the-complete-examination-of-a-4k-screen/"><u>[Updated] LG's Monitor Revolution The Complete Examination of a 4K Screen</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-to-amplify-gopro-battery-duration/"><u>2024 Approved Techniques to Amplify GoPro Battery Duration</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/hear-the-difference-with-airpods-pro-2s-new-hearing-aid-feature-at-an-unbeatable-price-save-24-now-special-deal/"><u>Hear the Difference with AirPods Pro 2'S New Hearing Aid Feature at an Unbeatable Price: Save 24% Now Special Deal!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-comprehensive-blueprint-to-powerdirectors-full-potential/"><u>In 2024, The Comprehensive Blueprint to PowerDirector's Full Potential</u></a></li>
-<li><a href="https://games-able.techidaily.com/remedy-for-games-ignored-by-steam-system/"><u>Remedy for Games Ignored by Steam System</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-vimeo-story-a-hub-for-exclusive-film-content/"><u>[New] 2024 Approved The Vimeo Story A Hub for Exclusive Film Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unleashing-potential-best-macos-recording-apps-analysis/"><u>[New] 2024 Approved Unleashing Potential Best macOS Recording Apps Analysis</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-virtual-reality-archivists-handbook-for-game-recordings-for-2024/"><u>[New] The Virtual Reality Archivist's Handbook for Game Recordings for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-lean-cloud-archive-efficient-low-cost-large-data/"><u>[Updated] 2024 Approved Lean Cloud Archive Efficient, Low-Cost Large Data</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/discover-scenic-views-of-banff-national-park-in-your-pc-screensaver-with-yl-softwares-digital-art-collection/"><u>Discover Scenic Views of Banff National Park in Your PC Screensaver with YL Software's Digital Art Collection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effective-solutions-for-diagnosing-and-correcting-dpc-watchdog-errors-in-windows-10/"><u>Effective Solutions for Diagnosing and Correcting DPC Watchdog Errors in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficient-file-removal-techniques-with-windows-powershell-commands/"><u>Efficient File Removal Techniques with Windows PowerShell Commands</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-gameplay-by-resolving-outriders-audio-problems-a-step-by-step-guide/"><u>Enhancing Gameplay by Resolving Outriders' Audio Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-8-tips-for-dust-free-spotless-macbook-care-that-guarantees-no-damage-to-your-device/"><u>Essential 8 Tips for Dust-Free, Spotless MacBook Care That Guarantees No Damage to Your Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exciting-new-enhancements-coming-soon-microsoft-improves-snipping-tool-and-paint-on-windows-11/"><u>Exciting New Enhancements Coming Soon: Microsoft Improves Snipping Tool & Paint on Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-the-ultimate-value-with-the-amazfit-bip-smartwatch-a-comprehensive-review/"><u>Experience the Ultimate Value with the Amazfit BIP Smartwatch - A Comprehensive Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/voice-transcription-appraisal/"><u>Voice Transcription Appraisal</u></a></li>
 </ul></div>
 

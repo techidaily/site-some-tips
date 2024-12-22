@@ -1,7 +1,7 @@
 ---
 title: "Common Lamentations: Why Upgrading to iPhone iOS 18 Left Us Wanting More - Shared Experiences"
-date: 2024-12-19T19:15:29.406Z
-updated: 2024-12-20T22:12:51.746Z
+date: 2024-12-14T17:50:19.046Z
+updated: 2024-12-21T18:52:23.214Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,14 +109,19 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/acktrack-your-youtube-queue-swiftly-and-sweetly/"><u>[New] Backtrack Your YouTube Queue, Swiftly & Sweetly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-revolutionaries-building-virtual-realms/"><u>[New] Revolutionaries Building Virtual Realms</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-add-music-to-facebook-videos/"><u>[Updated] How to Add Music to Facebook Videos?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-10-criteria-for-choosing-a-premier-streamer-network/"><u>[Updated] Top 10 Criteria for Choosing a Premier Streamer Network</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-essence-of-color-in-photography-top-11-tutorials/"><u>In 2024, The Essence of Color in Photography (Top 11 Tutorials)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-success-with-effective-video-praise-techniques/"><u>In 2024, Unlocking Success with Effective Video Praise Techniques</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-asus-rog-phone-8-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Asus ROG Phone 8 ProFRP Lock</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/steps-to-recover-sms-history-from-your-previous-mobile-number/"><u>Steps to Recover SMS History From Your Previous Mobile Number</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-complete-survey-lightroom-app-unpacked-android/"><u>[Updated] Complete Survey Lightroom App Unpacked (Android)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-engage-and-inspire-viewers-animated-subscribers-in-filmora-explained/"><u>[Updated] In 2024, Engage and Inspire Viewers - Animated Subscribers in Filmora Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-webmswf/"><u>網路上自由下載MOVAVI WebM到SWF的轉換工具</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726222800570-movavi/"><u>与 Movavi 精心设计的联锁营销 - 量身定制深度链接生成</u></a></li>
+<li><a href="https://games-able.techidaily.com/constraining-background-observations-by-game-bar-on-os-11/"><u>Constraining Background Observations by Game Bar on OS 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decouvrez-les-meilleures-versions-gratuites-de-convertisseur-mov-mac-oswindowsen-ligne-classement-des-experts/"><u>Découvrez Les Meilleures Versions Gratuites De Convertisseur MOV [Mac OS/Windows/En Ligne] : Classement Des Experts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/elite-free-screen-partnership-adventures-for-2024/"><u>Elite Free Screen Partnership Adventures for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/entendendo-o-formato-de-video-mov-tecnicas-para-abertura-e-conversao/"><u>Entendendo O Formato De Vídeo MOV: Técnicas Para Abertura E Conversão</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-honor-x8b-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Honor X8b Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-lava-blaze-2-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Lava Blaze 2 5G Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-windows-pc-with-broadcoms-bluetooth-device-driver/"><u>How to Update Your Windows PC with Broadcom's Bluetooth Device Driver</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-6s-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 6s to PC | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sedis-doma-a-chces-nahradit-schuzi-bez-povoleni-pokus-se-zoom-na-movavi-navrhovaci-prukladky/"><u>Sedíš Doma a Chceš Nahradit Schůzi Bez Povolení? Pokus Se Zoom Na Movavi - Návrhovací Průkladky</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-beginners-handbook-to-effortless-screen-capturing-on-personal-computers/"><u>The Beginner's Handbook to Effortless Screen Capturing on Personal Computers</u></a></li>
 </ul></div>
 

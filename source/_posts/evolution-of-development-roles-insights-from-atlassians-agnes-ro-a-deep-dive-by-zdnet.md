@@ -1,7 +1,7 @@
 ---
 title: "Evolution of Development Roles: Insights From Atlassian's Agnes Ro - A Deep Dive by ZDNet"
-date: 2024-09-19 17:13:44
-updated: 2024-09-20 12:57:41
+date: 2024-12-19T02:32:46.201Z
+updated: 2024-12-21T21:13:22.411Z
 tags:
   - cloud
 categories:
@@ -17,11 +17,19 @@ Image: Atlassian
 
 The last decade has seen the role of software developers evolve at a rapid pace as more and more organisations aimed to deliver new iterations of applications faster and more frequently than ever before.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Software development: Emerging trends and changing roles ZDNet takes an in-depth look at key trends in software development and how developers are changing the tech industry.  Read now](https://www.zdnet.com/topic/software-development-emerging-trends-and-changing-roles/)
 
 Atlassian's head of engineering Agnes Ro has experienced this first-hand. Ro has spent the last 15 years working at the software company -- initially as a graduate developer, before rising up the ranks to oversee a team of 100 engineers for a department called Foundational Collaboration that sits within Atlassian's cloud platform. Some of her key responsibilities include delivering common experiences and backend services for Atlassian products, such as rich text editors in JIRA and Confluence, as well as file and storage experiences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The need for speed
 
@@ -39,12 +47,20 @@ Frameworks to support the language that developers write, especially in the fron
 
 "Browser standards are very standardised today, so engineers today deal with more different challenges."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Developer
 
 * [It's the end of programming as we know it -- again](https://www.zdnet.com/article/its-the-end-of-programming-as-we-know-it-again/)
 * [Developers feel secure in their jobs, but they're still thinking about quitting](https://www.zdnet.com/article/developers-feel-secure-in-their-jobs-but-theyre-still-thinking-about-quitting/)
 * [The future of the web will need a different sort of software developer](https://www.zdnet.com/article/the-future-of-the-web-will-need-a-different-sort-of-software-developer/)
 * [The best Linux laptops for consumers and developers](https://www.zdnet.com/article/best-linux-laptop/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Teamwork makes the dream work
 
@@ -57,6 +73,10 @@ These days prior to developing any products, a more coordinated approach is take
 She pointed out, for instance, how security is now top of mind during any development stage. 
 
 "Security has become much more ingrained," Ro said. "I would say to all of our engineering teams it's the number-one priority for Atlassian. We've come to understand that it's not just the responsibility within a separate security department; it's everyone's responsibility, and so we do a lot to ensure we're constantly testing and trying to ship the best and secure products for our customers."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A seat at the table
 
@@ -80,11 +100,27 @@ Ro believes software developers are no longer outliers within an organisation, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-smooth-telegram-web-use/"><u>[New] Unveiling the Secrets of Smooth Telegram Web Use</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-digital-documentation-mobile-and-desktop-meeting-recordings/"><u>[Updated] 2024 Approved Digital Documentation Mobile & Desktop Meeting Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-optimal-frames-per-second-in-cinema-slow-mo/"><u>[Updated] Understanding Optimal Frames Per Second in Cinema Slow-Mo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-5-tactics-from-experts-a-journey-of-online-brand-growth/"><u>2024 Approved Top 5 Tactics From Experts A Journey of Online Brand Growth</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-a05s-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel A05s Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973394495-flexural-bending-failure-occurs-when-bending-moments-exceed-material-capacity-leading-to-cracking-and-deformation-of-beams-and-columns/"><u>Flexural (Bending) Failure Occurs when Bending Moments Exceed Material Capacity, Leading to Cracking and Deformation of Beams and Columns</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-essential-skills-for-3d-lut-making/"><u>In 2024, Essential Skills for 3D LUT Making</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-essential-checklist-for-consistent-content-creators/"><u>In 2024, The Essential Checklist for Consistent Content Creators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-video-editing-on-windows-11s-movie-maker-for-2024/"><u>Streamlining Video Editing on Windows 11'S Movie Maker for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-creating-flawless-passport-photos-for-free-for-2024/"><u>The Ultimate Guide to Creating Flawless Passport Photos for Free for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-gratis-lut-files-comprehensive-analysis-and-downloads-for-2024/"><u>Top 10 Gratis LUT Files - Comprehensive Analysis & Downloads for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ultrawide-tech-for-next-level-graphics-performance/"><u>Top Ultrawide Tech for Next-Level Graphics Performance</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/unveiling-consequences-the-aftermath-of-the-1989-tiananmen-protests-on-sino-foreign-relations-insights-from-yl-software/"><u>Unveiling Consequences: The Aftermath of the 1989 Tiananmen Protests on Sino Foreign Relations – Insights From YL Software</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Get Ahead of the Hype: Secure Your Apple Watch Series 10 Today with Savings Tips Inside - Learn More on ZDNet"
-date: 2024-12-18T21:41:03.134Z
-updated: 2024-12-20T23:19:28.013Z
+date: 2024-12-18T16:13:12.280Z
+updated: 2024-12-21T18:10:53.642Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -37,10 +37,6 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -67,7 +63,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -86,6 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,24 +158,14 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-elevate-podcasting-quality-selecting-the-right-interface/"><u>[New] Elevate Podcasting Quality Selecting the Right Interface</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-from-novice-to-expert-advanced-screencasting-steps/"><u>[New] From Novice to Expert Advanced Screencasting Steps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-urban-jungles-and-beyond-top-10-without-gta/"><u>[New] In 2024, Urban Jungles and Beyond - Top 10 Without GTA</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exquisite-airplay-scripts-for-listeners/"><u>[Updated] Exquisite Airplay Scripts for Listeners</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-to-increasing-fb-likes-with-top-apps/"><u>[Updated] The Ultimate Guide to Increasing FB Likes with Top Apps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-tips-for-endlessly-playing-facebook-videos/"><u>2024 Approved Tips for Endlessly Playing Facebook Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convert-videos-for-free-in-real-time-mp4-avi-to-mpg-secure-site-by-movavi/"><u>Convert Videos for Free in Real Time (MP4, AVI to MPG) - Secure Site by Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/easy-steps-transforming-your-old-vhs-tapes-into-digital-files-with-top-conversion-tools/"><u>Easy Steps: Transforming Your Old VHS Tapes Into Digital Files with Top Conversion Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratuita-conversion-de-archivo-mp4-a-avi-online-con-movavi/"><u>Gratuita Conversión De Archivo MP4 a AVI Online Con Movavi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-x7b-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor X7b Phone Now with These Tips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-setting-up-a-professional-grade-stream-setup/"><u>In 2024, Setting Up a Professional-Grade Stream Setup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-checklist-for-finding-film-specialists/"><u>In 2024, The Ultimate Checklist for Finding Film Specialists</u></a></li>
-<li><a href="https://some-tips.techidaily.com/las-5-formas-mas-efectivas-de-transformar-archivos-avi-en-mp4-usando-tu-mac/"><u>Las 5 Formas Más Efectivas De Transformar Archivos AVI en MP4 Usando Tu Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-ferramenta-segura-e-facil-de-uso-para-converte-las-do-formato-bmp-para-png-sem-custo/"><u>Movavi: Ferramenta Segura E Fácil De Uso Para Convertê-Las Do Formato BMP Para PNG Sem Custo</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-transformacao-livre-webp-em-jpeg-na-web/"><u>Movavi: Transformação Livre WebP Em JPEG Na Web</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-doom-eternal-crashes-step-by-step-troubleshooting-guide/"><u>Solving DOOM Eternal Crashes: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-13-free-dvd-conversion-tools-compatible-with-windows-and-macos/"><u>Top 13 Free DVD Conversion Tools Compatible with Windows and macOS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transcode-avi-a-laide-de-wmv-gratuite-sur-internet-movavi/"><u>Transcode AVI À L'aide De WMV Gratuite Sur Internet - Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/wmv-mkv-wmvmkv/"><u>WMV 및 MKV를 원격용 WMV/MKV 형식으로 구동 가능한 무료 전환기</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-photographers-toolkit-polarr-edition/"><u>[New] The Essential Photographer's Toolkit - Polarr Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-grasping-basic-motion-design-fundamentals/"><u>[Updated] 2024 Approved Grasping Basic Motion Design Fundamentals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlining-your-youtube-earnings-post-monetization-processes/"><u>[Updated] Streamlining Your YouTube Earnings Post-Monetization Processes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-streaming-with-integrated-local-channels-future-edition/"><u>2024 Approved Superior Streaming with Integrated Local Channels, Future Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-turn-off-youtube-video-preview-all-platform-solution-for-2024/"><u>How to Turn Off YouTube Video Preview? [All Platform Solution] for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategizing-visibility-for-podcasts-through-design/"><u>In 2024, Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-xr-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone XR Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/timeless-telephony-a-compilation-of-calls-for-2024/"><u>Timeless Telephony A Compilation of Calls for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-budget-breakdown-how-much-does-it-cost-to-start-a-podcast-in-2024/"><u>Ultimate Budget Breakdown How Much Does It Cost To Start a Podcast, In 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ZDNet Highlights the New Launch of Red Hat's OpenStack Version 17
-date: 2024-09-17 20:16:55
-updated: 2024-09-20 10:19:23
+date: 2024-12-19T16:00:29.430Z
+updated: 2024-12-21T18:24:29.652Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/6939aaf32d60114597d7aa276feeaf67b7
 solarseven/Shutterstock
 
 Some people still insist that [OpenStack](https://www.openstack.org/), the open-source Infrastructure-as-a-Service (IaaS) cloud, is dead. They are so, so wrong. By [Statista](https://www.statista.com/)'s count, [OpenStack is the most popular open-source cloud of all](https://www.statista.com/statistics/511526/worldwide-survey-private-coud-services-running-application/). And what's more important for [Red Hat](https://www.redhat.com/en) is that telecoms, such as [Verizon](https://www.verizon.com/) cellular and 5G networks, live and die by OpenStack. So, it comes as no surprise when [Red Hat rolled out Red Hat OpenStack Platform (RHOP) 17](https://www.redhat.com/en/blog/25-billion-and-counting-red-hat-openstack-platform-continues-deliver-service-providers) at Mobile World Congress in Las Vegas Wednesday, the company talked up how OpenStack and telecom work hand-in-hand. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -47,11 +51,25 @@ While the new RHOP will appeal mostly to telecoms, it remains a solid platform f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-visuals-10-must-try-text-upgrades-in-videos/"><u>2024 Approved Transforming Visuals 10 Must-Try Text Upgrades in Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/apowersofts-role-in-screen-capture-analysis-and-comparisons/"><u>Apowersoft's Role in Screen Capture Analysis & Comparisons</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-new-linguistic-horizons-with-google-picked-mondly/"><u>Discovering New Linguistic Horizons with Google-Picked Mondly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-techniques-for-downloading-converting-and-saving-vids-on-twitter-as-mp3s/"><u>In 2024, Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-terracore-pros-fusion-of-touch-and-high-definition/"><u>In 2024, TerraCore Pros Fusion of Touch & High Definition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-impressive-hdr-portraits-explained/"><u>In 2024, The Art of Impressive HDR Portraits Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-your-storytelling-potential/"><u>In 2024, Unlock Your Storytelling Potential</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/pre-upgrade-essentials-a-comprehensive-guide-for-2024/"><u>Pre-Upgrade Essentials A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/samsung-ubd-k8500-review-for-2024/"><u>Samsung UBD-K8500 Review for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-showbox-replacements-for-mobile-and-desktop-users-find-your-perfect-fit/"><u>Top ShowBox Replacements for Mobile and Desktop Users - Find Your Perfect Fit!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Polluting Website URLs: An Eco-Unfriendly Ranking Exposed - Insights by ZDNet"
-date: 2024-09-17 10:57:28
-updated: 2024-09-20 12:15:47
+date: 2024-12-17T01:48:06.870Z
+updated: 2024-12-21T20:47:14.067Z
 tags:
   - cloud
 categories:
@@ -17,6 +17,10 @@ Greg Nichols/DALL-E
 
 Poking around online, it's easy to forget that the digital spaces we move through have non-digital consequences. When it comes to the environment, [major websites have a surprising footprint](https://www.zdnet.com/article/google-creates-tools-to-track-carbon-footprint-emissions-data/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [How the New Space Race Will Drive Innovation Some of humanity's greatest innovations have emerged from space exploration. With a new space race led by the next generation of private companies, here's how they're pushing the boundaries again.  Read now](https://www.zdnet.com/topic/how-the-new-space-race-will-drive-innovation/)
@@ -31,6 +35,10 @@ While consumers may not outright avoid, say, a major e-commerce platform because
 
 So how did major websites fair? Spoiler alert: Amazon is a pretty dirty site, but at least two major governmental websites devoted to the environment are downright filthy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Methodology
 
 The clean ranking system used to determine website rank took into account whether or not a site ran on sustainable energy, such as solar and wind, how much CO2 a site produces per visit and per year, and how many trees are needed to absorb a site's CO2 emissions.
@@ -42,6 +50,10 @@ Payless Power relied on the Website Carbon Calculator at [websitecarbon.com](htt
 > From data centres to transmission networks to the billions of connected devices that we hold in our hands, it is all consuming electricity, and in turn producing carbon emissions equal to or greater than the global aviation industry. Yikes!
 > 
 > We developed the first methodology for calculating the carbon emissions attributed to a website and this free website carbon calculator is here to help raise awareness and inspire a more sustainable internet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Results
 
@@ -80,11 +92,26 @@ For a full list of results [check out the report](https://paylesspower.com/blog/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-mechanism-behind-cross-audio-blending/"><u>[New] Unveiling the Mechanism Behind Cross-Audio Blending</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-evaluating-macs-leading-snipping-tools-compilation/"><u>[Updated] 2024 Approved Evaluating Mac's Leading Snipping Tools Compilation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-windows-10-gamers-guide-to-effective-video-capture/"><u>[Updated] 2024 Approved Windows 10 Gamers' Guide to Effective Video Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-metaverse-and-multiplemetaverse-explained-key-contrasts-highlighted/"><u>[Updated] The Metaverse & MultipleMetaverse Explained Key Contrasts Highlighted</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unearthing-the-potential-of-htc-vive-for-immersive-gaming/"><u>[Updated] Unearthing the Potential of HTC Vive for Immersive Gaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-top-8-collaborative-video-collage-android-apps-freepremium/"><u>[Updated] Unveiling Top 8 Collaborative Video Collage Android Apps (Free/Premium)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-5-book-video-promotions-ever-made/"><u>2024 Approved The Best 5 Book Video Promotions Ever Made</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-ios-podcast-acquisition/"><u>2024 Approved The Essential Guide to iOS Podcast Acquisition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capture-and-compose-best-writing-apps-for-photos-iosandroid/"><u>In 2024, Capture and Compose Best Writing Apps for Photos (iOS/Android)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sharpen-your-interview-edge-chatgpts-role-in-practice/"><u>Sharpen Your Interview Edge: ChatGPT's Role in Practice</u></a></li>
+<li><a href="https://solve-help.techidaily.com/the-leading-4-free-e-book-authoring-platforms-unveiling-the-best-picks/"><u>The Leading 4 Free E-Book Authoring Platforms - Unveiling the Best Picks</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-motorola-edge-40-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Motorola Edge 40</u></a></li>
+</ul></div>
+

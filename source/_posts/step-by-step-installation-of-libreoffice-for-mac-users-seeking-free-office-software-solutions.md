@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Installation of LibreOffice for Mac Users Seeking Free Office Software Solutions
-date: 2024-12-16T19:25:44.133Z
-updated: 2024-12-20T20:43:02.576Z
+date: 2024-12-16T01:48:40.484Z
+updated: 2024-12-21T18:22:52.153Z
 tags:
   - apple
 categories:
@@ -17,6 +17,10 @@ Although I rely heavily on Google Docs, it's not the only office suite I use. Th
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -43,14 +47,10 @@ LibreOffice includes a user-configurable interface, so you can configure it as a
 The only thing you'll need is a macOS device (MacBook or iMac). With that in hand, let's get to the installation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Installing LibreOffice
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Download the installer
 
@@ -61,6 +61,10 @@ Although your browser should detect this, you must download the file for the arc
 Downloading LibreOffice from the official site.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Install LibreOffice
 
@@ -78,7 +82,7 @@ Installing LibreOffice to macOS.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Delete the installer file
@@ -88,10 +92,6 @@ When the installation completes (it'll take a minute or so), close out the insta
 Ejecting the mounted installer after the fact.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to open LibreOffice
 
@@ -108,7 +108,7 @@ Image: Jack Wallen
 Click Open and LibreOffice will finally open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Create a new file
@@ -151,24 +151,22 @@ And that, my friends, is how you install and get started with LibreOffice on mac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-optidrive-specialists-judgment/"><u>[New] In 2024, OptiDrive Specialists Judgment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-platform-prowess-twitch-vs-youtube-comparison/"><u>[New] The Platform Prowess Twitch vs YouTube Comparison</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-mi-drone-4k-experience/"><u>[New] The Ultimate Guide to Mi Drone 4K Experience</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-tailor-your-space-the-best-apps-to-create-engaging-youtube-themes-for-2024/"><u>[Updated] Tailor Your Space The Best Apps to Create Engaging YouTube Themes for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-srt-to-subc-innovative-techniques-explored/"><u>[Updated] The Art of SRT to SUBC Innovative Techniques Explored</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-tips-for-zoom-on-chrome-devices/"><u>[Updated] Top Tips for Zoom on Chrome Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>[Updated] Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-why-choose-youtubes-av1-for-impeccable-video-playback/"><u>[Updated] Why Choose YouTube's AV1 for Impeccable Video Playback?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-teachers-guide-to-use-video-in-teaching/"><u>2024 Approved Teacher's Guide To Use Video In Teaching</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-ipad-slow-motion-techniques-for-filming-and-video-modification/"><u>2024 Approved The Ultimate iPad Slow Motion Techniques for Filming and Video Modification</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/detecting-outages-in-microsoft-teams-understanding-connectivity-issues/"><u>Detecting Outages in Microsoft Teams - Understanding Connectivity Issues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-conversational-mastery-step-by-step-guide-to-free-voice-modification-tools/"><u>In 2024, Crafting Conversational Mastery Step-by-Step Guide to Free Voice Modification Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-lava-blaze-curve-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Lava Blaze Curve 5G</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-synopsis-of-crowd-opinions-on-vllo/"><u>In 2024, Synopsis of Crowd Opinions on VLLO</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/masterclass-on-the-dji-phantom-4-pro-v2-approaching-perfection-in-aerial-innovation/"><u>Masterclass on the DJI Phantom 4 Pro v2: Approaching Perfection in Aerial Innovation</u></a></li>
-<li><a href="https://howto.techidaily.com/oppo-f25-pro-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo F25 Pro 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/swiftly-upload-to-twitter-premium-video-convertors-guide-for-2024/"><u>Swiftly Upload to Twitter Premium Video Convertors Guide for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-4-techniques-for-seamless-mp4-file-transfer-to-your-iphone-no-data-lost/"><u>Top 4 Techniques for Seamless MP4 File Transfer to Your iPhone - No Data Lost!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-expert-guide-to-enhance-your-iphone-x-animoji-skills/"><u>[New] 2024 Approved Expert Guide to Enhance Your iPhone X Animoji Skills</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-masterclass-splitting-your-screen-for-maximum-impact-on-facebook-live/"><u>[Updated] Masterclass Splitting Your Screen for Maximum Impact on Facebook Live</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-maximizing-visibility-with-smart-hashtag-use-in-fb-advertising/"><u>[Updated] Maximizing Visibility with Smart Hashtag Use in FB Advertising</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1726030005616-mp3/"><u>「MP3プレイヤーで音楽を再生するたびに解決法」</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-total-control-guide-powerdirector-user-manual/"><u>2024 Approved Total Control Guide PowerDirector User Manual</u></a></li>
+<li><a href="https://driver-download.techidaily.com/efficiently-installing-updated-printer-drivers-for-hp-officejet-pro-8720-on-window-systems/"><u>Efficiently Installing Updated Printer Drivers for HP OfficeJet Pro 8720 on Window Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-civic-challenge-champions-premier-elections-videogames/"><u>In 2024, Civic Challenge Champions Premier Elections Videogames</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-14-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 14 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-unlocking-efficiency-incorporating-zoom-into-your-gmail-routine/"><u>In 2024, Unlocking Efficiency Incorporating Zoom Into Your Gmail Routine</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-setting-up-system-restore-on-windows-11/"><u>Step-by-Step Guide to Setting Up System Restore on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-how-to-determine-your-windows-10-edition-and-build/"><u>Step-by-Step Guide: How to Determine Your Windows 10 Edition and Build</u></a></li>
+<li><a href="https://some-tips.techidaily.com/temporary-disabling-of-avg-antivirus-free-2015-a-step-by-step-guide/"><u>Temporary Disabling of AVG AntiVirus Free 2015: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/troubleshoot-and-fix-windows-10-calculator-issues-complete-solution-guide/"><u>Troubleshoot and Fix Windows 10 Calculator Issues – Complete Solution Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-ping-tool-a-comprehensive-guide-on-testing-your-online-connectivity/"><u>Understanding the PING Tool: A Comprehensive Guide on Testing Your Online Connectivity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/windows-11-creators-update-troubleshooting-fixing-downloads-and-audio-problems/"><u>Windows 11 Creators Update Troubleshooting: Fixing Downloads and Audio Problems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/windows-11-creators-update-download-stuck-and-no-sound-issues-fixed/"><u>Windows 11 Creators Update: Download Stuck & No Sound Issues [Fixed]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/windows-11-essentials-executing-a-pristine-system-reboot/"><u>Windows 11 Essentials: Executing a Pristine System Reboot</u></a></li>
 </ul></div>
 

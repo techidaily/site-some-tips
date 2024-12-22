@@ -1,7 +1,7 @@
 ---
 title: Meta & Amazon Web Services Intensify Collaboration, Pushing Forward PyTorch Adoption | The Latest on Tech with ZDNet
-date: 2024-09-18 12:43:20
-updated: 2024-09-20 10:43:53
+date: 2024-12-18T00:41:47.297Z
+updated: 2024-12-21T16:59:03.041Z
 tags:
   - cloud
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/9db30fdf1330cb4c86972fb409a69c7f93
 ---
 
 ## Meta & Amazon Web Services Intensify Collaboration, Pushing Forward PyTorch Adoption | The Latest on Tech with ZDNet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Social Media
 
@@ -85,11 +89,31 @@ PyTorch is already attracting a lot of enterprise attention as companies try to 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-teaching-with-video-effective-editing-methods/"><u>[New] Teaching with Video Effective Editing Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-camera-elite-the-premier-selection-of-4k-dslr-mounts/"><u>[Updated] Camera Elite The Premier Selection of 4K DSLR Mounts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-elevate-your-videos-mastering-the-art-of-srt-in-mp4-for-2024/"><u>[Updated] Elevate Your Videos Mastering the Art of SRT in MP4 for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-setting-up-your-footprint-a-complete-guide-to-fb-instream-ad-configuration/"><u>[Updated] In 2024, Setting Up Your Footprint A Complete Guide to FB Instream Ad Configuration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-ideas-into-impactful-scenes-through-dialogue/"><u>[Updated] Transforming Ideas Into Impactful Scenes Through Dialogue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-visualizer-speedster-for-windows-10/"><u>[Updated] Ultimate Visualizer - Speedster for Windows 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-discover-the-leading-vr-bike-simulations/"><u>2024 Approved Discover the Leading VR Bike Simulations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-product-placement/"><u>2024 Approved The Art of Product Placement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-crafting-exquisite-hdr-portraits/"><u>2024 Approved The Ultimate Guide to Crafting Exquisite HDR Portraits</u></a></li>
+<li><a href="https://win-web3.techidaily.com/57at5lplusu5pa55rov77ya5aac5l2v6ycg6l2j6kqk6kej5p6q55qe5li76kab56ob5y2a5yig5ymy5lul5yplusk6ycy6kgm56gs56kf5yig5ymy55qe5ouv5pwr5oqa6kgt/"><u>維修方法：如何逆轉誤解析的主要磁區分割以及進行硬碟分割的拯救技術</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-c51-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme C51 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-basics-of-narrative-crafting/"><u>In 2024, Basics of Narrative Crafting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-png-to-bmp/"><u>Movaviですぐにアクセス可能なオンライン画像形式変換 – PNG to BMP自由化</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techniques-for-swapping-video-content-in-android-for-2024/"><u>Techniques for Swapping Video Content in Android for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-apps-accelerating-slow-motion-footage-for-2024/"><u>Top 8 Apps Accelerating Slow Motion Footage for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trending-14-moving-text-design-illustrations-for-2024/"><u>Trending 14 Moving Text Design Illustrations for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/why-real-peoples-testimonial-videos-matter-for-2024/"><u>Why Real People's Testimonial Videos Matter for 2024</u></a></li>
+</ul></div>
+

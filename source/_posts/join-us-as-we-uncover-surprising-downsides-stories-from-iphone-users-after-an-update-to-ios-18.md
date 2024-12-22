@@ -1,7 +1,7 @@
 ---
 title: Join Us as We Uncover Surprising Downsides - Stories From iPhone Users After an Update to iOS 18
-date: 2024-12-14T02:10:26.286Z
-updated: 2024-12-21T04:20:45.762Z
+date: 2024-12-15T17:00:23.853Z
+updated: 2024-12-21T19:12:28.716Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,15 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-pigments-and-perceptions-mastering-image-colorization/"><u>[New] Pigments & Perceptions Mastering Image Colorization</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-power-of-perception-iconic-podcast-design-tips/"><u>[New] The Power of Perception Iconic Podcast Design Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-5-best-non-samsung-camera-picks-for-gear-enthusiasts/"><u>[New] Unveiling 5 Best Non-Samsung Camera Picks for Gear Enthusiasts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-comic-creators-charter-zero-cost-endless-laughs/"><u>[Updated] 2024 Approved Comic Creators' Charter Zero Cost, Endless Laughs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhance-engagement-learn-to-dim-youtube-video-backgrounds/"><u>[Updated] 2024 Approved Enhance Engagement Learn to Dim YouTube Video Backgrounds</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-zooms-potential-learn-how-to-use-video-filters/"><u>[Updated] Unlocking Zoom's Potential Learn How to Use Video Filters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>2024 Approved Twitch vs YouTube An In-Depth Comparative Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/converter-gratuito-de-mpg-para-vob-pela-movavi-online-e-rapido/"><u>Converter Gratuito De MPG Para VOB Pela Movavi - Online E Rápido</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/creating-cohesive-content-with-soundtracks-on-instagram-for-2024/"><u>Creating Cohesive Content with Soundtracks on Instagram for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/o-make-video-thumbnails-for-youtube-for-2024/"><u>How to Make Video Thumbnails for YouTube for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-blend-audio-and-visuals-editing-music-in-canva-videos/"><u>In 2024, Blend Audio & Visuals Editing Music in Canva Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-speech-to-text-processing-in-powerpoint/"><u>In 2024, Streamlining Speech-To-Text Processing in Powerpoint</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-talk-turned-type-essential-apps-for-offline-speech-recognition/"><u>In 2024, Talk Turned Type Essential Apps for Offline Speech Recognition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-apps-upgrade-your-mobile-movies-instantly/"><u>In 2024, Top Apps Upgrade Your Mobile Movies Instantly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722987466898-mount-and-blade-ii-bannerlord-fixed-no-more-freezing-issues/"><u>Mount & Blade II: Bannerlord Fixed – No More Freezing Issues</u></a></li>
-<li><a href="https://fox-links.techidaily.com/perfect-tiktok-bio-link-strategy-for-2024/"><u>Perfect TikTok Bio Link Strategy for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-remedy-for-steams-secured-content-error-enjoy-unrestricted-access-now/"><u>Step-by-Step Remedy for Steam's Secured Content Error: Enjoy Unrestricted Access Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-11-must-have-windows-and-macos-applications-and-tools-insights-from-zdnet/"><u>Top 11 Must-Have Windows & macOS Applications and Tools - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unboxing-pureaudiofinder-a-look-into-the-latest-release-for-2024/"><u>Unboxing PureAudioFinder A Look Into the Latest Release for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-venturing-beyond-reality-understanding-vr-basics/"><u>[Updated] Venturing Beyond Reality Understanding VR Basics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-freely-stream-your-films-easy-to-use-mov-player-software/"><u>2024 Approved Freely Stream Your Films Easy-to-Use MOV PLAYER Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-gratuita-dei-file-wtv-in-mp4-online-guida-rapida-e-completa-con-movavi-video-converter/"><u>Conversione Gratuita Dei File WTV in MP4 Online: Guida Rapida E Completa Con Movavi Video Converter</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-t-series-youtube-profit-strategy/"><u>Exploring T-Series YouTube Profit Strategy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instant-iphone-success-proven-tips-for-making-professional-photo-collagues/"><u>In 2024, Instant iPhone Success Proven Tips for Making Professional Photo Collagues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-vob-files-on-pc-la-tua-guida-essenziale-ai-letti-multimedia-piu-performanti-per-sistemi-windows-e-macos/"><u>Mastering VOB Files on PC: La Tua Guida Essenziale Ai Letti Multimedia Più Performanti per Sistemi Windows E MacOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225704509-mkvmp3-movavi/"><u>MKV到MP3自由下載：使用 Movavi 電影/音頻編碼工具</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-instagram-edge-bulk-image-and-video-post-strategies-explored/"><u>The Instagram Edge Bulk Image and Video Post Strategies Explored</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-compact-digital-cameras/"><u>Top Rated Compact Digital Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-transforming-mts-into-mp4-easy-steps-for-windows-and-mac-users/"><u>Ultimate Guide: Transforming MTS Into MP4 - Easy Steps for Windows & Mac Users</u></a></li>
 </ul></div>
 

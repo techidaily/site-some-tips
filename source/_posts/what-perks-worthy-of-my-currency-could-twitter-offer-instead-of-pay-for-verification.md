@@ -1,7 +1,7 @@
 ---
 title: What Perks Worthy of My Currency Could Twitter Offer Instead of Pay-for-Verification?
-date: 2024-09-19 16:21:27
-updated: 2024-09-20 10:27:47
+date: 2024-12-16T01:39:26.453Z
+updated: 2024-12-22T01:47:55.765Z
 tags:
   - cloud
 categories:
@@ -21,6 +21,10 @@ But Twitter has been under the proverbial microscope ever since Elon Musk announ
 
 **Also:** [**Elon Musk promises not to make Twitter a 'free-for-all hellscape'**](https://www.zdnet.com/article/elon-musk-promises-not-to-make-twitter-a-free-for-all-hellscape/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [Wi-Fi problems? Add a wired network to your home without Ethernet cable - here's how](https://www.zdnet.com/article/wi-fi-problems-how-to-add-a-wired-network-to-your-home-without-ethernet-cable/)
@@ -37,6 +41,10 @@ So, for the company to be profitable in the long term, it needs an income stream
 While I will not rule out either of these two reasons as part of Musk's billionaire logic to justify his purchase of Twitter, let's take the acquisition at face value that the privatization of the company also means he wants to turn it around and transform the service into something people actually want to pay to use.
 
 **Also: [How to secure your Twitter account without two-factor authentication](https://www.zdnet.com/article/how-to-protect-your-twitter-account-without-sms-two-factor-authentication/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does Twitter verification mean?
 
@@ -56,7 +64,15 @@ Other services like LinkedIn understand this need to sponsor the press and offer
 
 But what does paying to play for verification mean? Does it devalue those of us that "earned" that verification, the journalists and celebs with large fan bases? If anyone can be verified, that just means you have money to blow on a stupid icon. That includes hate-spewing misogynists, racists, antisemites, anti-LGBTQ+, and other extremists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What I would pay for 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -80,11 +96,25 @@ _When it is released, will you "pay to play" for Twitter verification? Tell me b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-finest-zero-cost-digital-darkroom-tools/"><u>[New] Unveiling the Finest Zero-Cost Digital Darkroom Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-immersions-analyzing-google-and-samsung-rvr/"><u>2024 Approved Innovative Immersions Analyzing Google and Samsung RVR</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-dazzling-images-a-guide-to-pexels-mastery/"><u>Discovering Dazzling Images A Guide to Pexels Mastery</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-4-ways-to-set-up-your-talking-head-shots-for-youtube/"><u>In 2024, 4 Ways To Set Up Your Talking-Head Shots For YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-choices-full-sweep-video-recording-systems/"><u>In 2024, Top Choices Full Sweep Video Recording Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-list-of-no-cost-vectors-and-design-portals-online/"><u>In 2024, Ultimate List of No-Cost Vectors and Design Portals Online</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-driver-updates-for-windows-10-devices-with-revouninstaller/"><u>Mastering the Art of Driver Updates for Windows 10 Devices with RevoUninstaller</u></a></li>
+<li><a href="https://win-web.techidaily.com/recuperare-la-partizione-perduta-di-refs-metodo-per-ripristinare-rapidamente-i-dati/"><u>Recuperare La Partizione Perduta Di ReFS: Metodo per Ripristinare Rapidamente I Dati</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smoothest-android-3d-video-streaming-for-2024/"><u>Smoothest Android 3D Video Streaming for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-secrets-to-gently-fading-audio-in-audacity-for-2024/"><u>Unraveling the Secrets to Gently Fading Audio in Audacity for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-nintendo-switch-wont-connect-to-the-internet-heres-what-to-do/"><u>Your Nintendo Switch Won't Connect to the Internet? Here's What to Do</u></a></li>
+</ul></div>
+

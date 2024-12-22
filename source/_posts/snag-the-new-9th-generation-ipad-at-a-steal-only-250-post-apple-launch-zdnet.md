@@ -1,7 +1,7 @@
 ---
 title: Snag the New 9Th Generation iPad at a Steal - Only $250 Post-Apple Launch | ZDNet
-date: 2024-12-19T21:18:15.222Z
-updated: 2024-12-20T21:23:27.153Z
+date: 2024-12-15T23:19:45.394Z
+updated: 2024-12-21T19:43:02.766Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ The [Apple iPad (9th Generation)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 If the 9th Gen is too outdated for your liking, the [iPad 10th Gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8a5530fd-5ec6-459a-ad07-d932b49b5eab%7Cdtp&dtb=1) is also discounted right now, down to only $349 after Apple [dropped the price by $100](https://www.zdnet.com/article/this-349-ipad-was-secretly-the-best-announcement-during-the-apple-event/) following the announcement of their new iPads. This model features a 10.9-inch Liquid Retina display with 64GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,20 +69,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-make-your-periscope-stream-swifter/"><u>[New] How to Make Your Periscope Stream Swifter</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-creme-de-la-cream-of-online-tv-services/"><u>[New] The Crème De La Cream of Online TV Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-metaverse-mirth-making-manual-top-funny-imagery-and-techniques/"><u>[New] The Metaverse Mirth-Making Manual Top Funny Imagery & Techniques</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-streamlined-video-submission-mmc-to-vimeo-journey-explained/"><u>[Updated] 2024 Approved Streamlined Video Submission MMC to Vimeo Journey Explained</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-selection-of-mac-clipping-tools/"><u>[Updated] 2024 Approved The Ultimate Selection of Mac Clipping Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-insider-guide-whatsapp-audio-talks/"><u>[Updated] The Insider Guide WhatsApp Audio Talks</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-captivating-your-audience-youtube-intro-excellence-with-imovie/"><u>In 2024, Captivating Your Audience YouTube Intro Excellence with iMovie</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-sound-on-a-dime-top-value-asmr-gear-uncovered-here/"><u>In 2024, Premium Sound on a Dime Top Value ASMR Gear Uncovered Here</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-quest-for-perfection-topiary-angles-in-mobile-photography/"><u>In 2024, The Quest for Perfection Topiary Angles in Mobile Photography</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-y200-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Y200</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/snapframes-xd-excellent-show-wallets-not-so-hot/"><u>SnapFrames XD: Excellent Show, Wallet's Not So Hot</u></a></li>
-<li><a href="https://some-tips.techidaily.com/strategies-for-effective-b-roll-application-for-2024/"><u>Strategies for Effective B-Roll Application for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-role-of-authenticity-in-client-generated-marketing-for-2024/"><u>The Role of Authenticity in Client-Generated Marketing for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/time-saving-tips-regaining-archived-reddit-posts-for-2024/"><u>Time-Saving Tips Regaining Archived Reddit Posts for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-picks-best-lgbtqplus-series-streaming-on-netflix-in-july-2024/"><u>Top Picks: Best LGBTQ+ Series Streaming on Netflix in July 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-an-anthology-of-admiration-highlighting-top-10-reddit-threads/"><u>[New] 2024 Approved An Anthology of Admiration Highlighting Top 10 Reddit Threads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-ordinary-snaps-the-top-10-snapshot-enhancers-apps/"><u>[New] Transform Ordinary Snaps The Top 10 Snapshot Enhancers Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-your-potential-with-outstanding-android-time-lapse-videos/"><u>[New] Unleash Your Potential with Outstanding Android Time-Lapse Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-15-budget-friendly-webm-players-that-work-flawlessly/"><u>[Updated] Top 15 Budget-Friendly WebM Players That Work Flawlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-twitch-time-jump-recapturing-lost-moments/"><u>[Updated] Twitch Time Jump Recapturing Lost Moments</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-perfect-pairings-of-sound-and-sight-on-social-platforms/"><u>2024 Approved Perfect Pairings of Sound and Sight on Social Platforms</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-what-is-color-finale/"><u>2024 Approved What Is Color Finale</u></a></li>
+<li><a href="https://media-tips.techidaily.com/do-virtual-private-networks-keep-your-online-usage-private-from-internet-service-providers-and-telecom-companies/"><u>Do Virtual Private Networks Keep Your Online Usage Private From Internet Service Providers & Telecom Companies?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-children-can-stay-protected-with-these-5-safe-uses-of-chatgpt/"><u>How Children Can Stay Protected with These 5 Safe Uses of ChatGPT</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-save-your-gameplay-moments-with-xbox-screen-recordings/"><u>In 2024, Save Your Gameplay Moments with Xbox Screen Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-testing-titans-in-depth-comparison-of-gopros-hero5b-and-session/"><u>In 2024, Testing Titans In-Depth Comparison of GoPro's Hero5B & Session</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis/"><u>In 2024, The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tiktoks-best-practices-for-stellar-edits/"><u>In 2024, TikTok's Best Practices for Stellar Edits</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-legal-to-record-youtube-for-2024/"><u>Is It Legal to Record YouTube for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-on-projecting-laptop-display-onto-hdtv/"><u>Step-by-Step Instructions on Projecting Laptop Display Onto HDTV</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-roadmap-to-thriving-in-digital-advertising-for-2024/"><u>The Roadmap to Thriving in Digital Advertising for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-creativity-boost-productivity-essential-tasks-for-the-modern-listener-for-2024/"><u>Unleash Creativity, Boost Productivity Essential Tasks for the Modern Listener for 2024</u></a></li>
 </ul></div>
 

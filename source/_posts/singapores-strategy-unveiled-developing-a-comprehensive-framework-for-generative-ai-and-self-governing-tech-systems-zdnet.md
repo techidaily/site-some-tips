@@ -1,7 +1,7 @@
 ---
 title: "Singapore's Strategy Unveiled: Developing a Comprehensive Framework for Generative AI & Self-Governing Tech Systems | ZDNET"
-date: 2024-09-18 19:36:31
-updated: 2024-09-20 12:20:37
+date: 2024-12-17T19:34:34.451Z
+updated: 2024-12-22T01:03:56.626Z
 tags:
   - cloud
 categories:
@@ -43,6 +43,10 @@ There also will be initiatives in other nascent areas, such as quantum computing
 
 The government agency said plans are in place to [pilot quantum-safe networks](https://www.zdnet.com/article/singapore-to-build-quantum-safe-network-for-critical-infrastructure-trials/) and quantum-as-a-service applications for commercial customers. "Known as the National Quantum Safe Network Plus (NQSN+), this will allow us to test, innovate and push the boundaries on both technical and commercial deployments," it said. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Launch of innovation center with AWS
 
 IMDA on Monday also announced its partnership with Amazon Web Services (AWS) through the launch of a joint innovation center. Pitched as a launchpad for businesses and startups in Southeast Asia, the new site houses various specialized labs, including 5G as well as augmented and virtual reality. It also has usability-testing facilities. 
@@ -76,11 +80,29 @@ Companies can use the center to develop proof-of-concepts in a sandbox environme
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-decoding-youtubes-revenue-model-for-video-clips/"><u>[New] 2024 Approved Decoding YouTube's Revenue Model for Video Clips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-techniques-for-successfully-incorporating-a-streaming-youtube-playlist/"><u>[New] 2024 Approved Techniques for Successfully Incorporating a Streaming YouTube Playlist</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elevate-your-pc-best-8-video-capture-tools-for-windows-10/"><u>[New] Elevate Your PC Best 8 Video Capture Tools for Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-your-subtitles-top-10-web-based-editors-reviewed/"><u>[New] Streamlining Your Subtitles Top 10 Web-Based Editors Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-adding-soundtracks-to-instagram-visuals/"><u>[New] The Art of Adding Soundtracks to Instagram Visuals</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-earning-expertise-short-video-revenue-boosting/"><u>[Updated] 2024 Approved Earning Expertise Short Video Revenue Boosting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-screensnatchers-guide-to-beautifully-free-bgs-on-tiktok/"><u>2024 Approved ScreenSnatchers' Guide to Beautifully Free BGs on TikTok</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725287080110-digiarty/"><u>如何順利接洽 Digiarty - 提高商業互動效果</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargar-e-imprimir-su-archivo-pgf-sin-coste-adicional-con-herramientas-de-conversion-en-linea/"><u>Descargar E Imprimir Su Archivo PGF Sin Coste Adicional Con Herramientas De Conversión en Línea</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-decoding-the-usefulness-what-does-fbs-blue-icon-mean/"><u>In 2024, Decoding the Usefulness What Does FB’s Blue Icon Mean?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-perfect-picks-microphones-for-diverse-online-audiences/"><u>In 2024, Perfect Picks Microphones for Diverse Online Audiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-vector-file-polishing/"><u>In 2024, Superior Vector File Polishing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-instagram-stardom-unleash-your-potential-with-9-key-strategies/"><u>In 2024, The Ultimate Guide to Instagram Stardom - Unleash Your Potential with 9 Key Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-selection-of-top-5-best-android-photo-apps/"><u>In 2024, The Ultimate Selection of Top 5 Best Android Photo Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-smart-way-to-scale-and-slash-iphone-videos-for-2024/"><u>The Smart Way to Scale & Slash iPhone Videos for 2024</u></a></li>
+</ul></div>
+

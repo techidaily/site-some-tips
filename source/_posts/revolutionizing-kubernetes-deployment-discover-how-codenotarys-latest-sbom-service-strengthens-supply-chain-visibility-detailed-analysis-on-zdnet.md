@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Kubernetes Deployment: Discover How Codenotary's Latest SBOM Service Strengthens Supply Chain Visibility - Detailed Analysis on ZDNET"
-date: 2024-09-18 14:34:48
-updated: 2024-09-20 10:35:10
+date: 2024-12-18T21:32:07.459Z
+updated: 2024-12-21T21:34:08.692Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/40db9e7f14d32360658bd45a85fa8baf591a4c124
 ## Revolutionizing Kubernetes Deployment: Discover How Codenotary's Latest SBOM Service Strengthens Supply Chain Visibility - Detailed Analysis on ZDNET
 
 Software Bill of Materials (SBOM)s aren't optional anymore. If we really want the applications we're running in containers to be secure, we must know what's what within them. To make that easier, [Codenotary](https://codenotary.com/), a leading software supply chain security company, is launching its new [SBOM Operator](https://github.com/ckotzbauer/sbom-operator) for Kubernetes in both its open-source [Community Attestation Service](https://cas.codenotary.com/) and its flagship service, Codenotary's [Trustcenter](https://codenotary.com/products/ci-cd/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Open Source
 
@@ -48,11 +52,30 @@ This is another step forward in Codenotary's efforts to provide comprehensive to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-discover-picsarts-features-in-full-guide-update/"><u>[New] Discover PicsArt's Features in Full - Guide Update</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-quickest-way-to-entertain-kapwing-memes/"><u>[New] In 2024, The Quickest Way to Entertain - Kapwing Memes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-subreddit-landscape-a-step-by-step-approach/"><u>[New] Navigating the Subreddit Landscape A Step-by-Step Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos/"><u>[New] The Choreography of Audio and Visuals A Guide to Editing Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-momentum-at-rest-best-idle-pc-games/"><u>[Updated] In 2024, Momentum at Rest Best Idle PC Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-superior-methods-for-soundless-footage/"><u>[Updated] In 2024, Superior Methods for Soundless Footage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-humor-the-kapwing-meme-builder-way/"><u>[Updated] Unleashing Humor The Kapwing Meme Builder Way</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-canvas-into-magic-the-best-mac-drawing-apps/"><u>2024 Approved Transform Canvas Into Magic - The Best Mac Drawing Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-with-aes-best-text-presets/"><u>2024 Approved Unleashing Creativity with AE's Best Text Presets</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/achieve-youtube-profitability-the-milestone-of-500plus-subscribers-unlocked-for-2024/"><u>Achieve Youtube Profitability The Milestone of 500+ Subscribers Unlocked for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/biometric-failure-in-windows-system/"><u>Biometric Failure in Windows System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-melody-in-motion-iphones-role-in-making-music-videos/"><u>In 2024, Melody in Motion IPhone's Role in Making Music Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tips-and-solutions-for-common-vlc-issues-on-mac/"><u>In 2024, Top Tips & Solutions for Common VLC Issues on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-vibrance-grading-secrets-in-ps/"><u>In 2024, Unleashing Vibrance Grading Secrets in PS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/thaumaturge-crash-guide-top-strategies-for-a-stable-pc-experience/"><u>Thaumaturge Crash Guide: Top Strategies for a Stable PC Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/three-key-strategies-for-acquiring-youtube-srt-files-for-2024/"><u>Three Key Strategies for Acquiring YouTube SRT Files for 2024</u></a></li>
+</ul></div>
+

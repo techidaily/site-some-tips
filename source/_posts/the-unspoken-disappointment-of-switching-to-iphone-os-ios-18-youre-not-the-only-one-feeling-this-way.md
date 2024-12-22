@@ -1,7 +1,7 @@
 ---
 title: The Unspoken Disappointment of Switching to iPhone OS iOS 18 - You're Not the Only One Feeling This Way!
-date: 2024-12-20T02:05:58.136Z
-updated: 2024-12-21T03:17:09.599Z
+date: 2024-12-15T21:58:53.891Z
+updated: 2024-12-22T04:06:59.416Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,21 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-infusing-vitality-into-text-an-animated-adventure/"><u>[New] In 2024, Infusing Vitality Into Text An Animated Adventure</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-huawei-p10-performance-metrics/"><u>[New] The Ultimate Guide to Huawei P10 Performance Metrics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe/"><u>[New] Tips and Tricks for Streamlining Color Grading with LUTs in Adobe</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-video-perfection-streamlined-subtitlecc-implementation-on-youtube/"><u>[New] Video Perfection Streamlined Subtitle/CC Implementation on YouTube</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-premier-selection-top-8-fb-film-extractors/"><u>[Updated] 2024 Approved The Premier Selection Top 8 FB Film Extractors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-10-facelift-tech-for-iphones-and-android-phones/"><u>[Updated] Best 10 Facelift Tech for iPhones and Android Phones</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-frameinspector-appraisal-suite/"><u>[Updated] In 2024, FrameInspector Appraisal Suite</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-prime-image-hoarders-destination-list/"><u>[Updated] Prime Image Hoarders' Destination List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x/"><u>[Updated] Unveiling Mastery The Ultimate Animoji Guide for iPhone X</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-finest-selection-of-economical-free-lut-tools/"><u>[Updated] Unveiling the Finest Selection of Economical, Free LUT Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/create-quality-dvds-with-winx-dvd-author-user-friendly-hd-content-dvd-burner-for-pc-users-on-windows-1011-free-download/"><u>Create Quality DVDs with WinX DVD Author: User-Friendly HD Content DVD Burner for PC Users on Windows 10/11, Free Download</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/enhancing-customer-engagement-with-snapchat-tactics/"><u>Enhancing Customer Engagement with Snapchat Tactics</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-most-reliable-gopro-cases-1-10-showdown/"><u>The Most Reliable GoPro Cases - #1-10 Showdown</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-writers-journey-through-podcast-production-for-2024/"><u>The Writer's Journey Through Podcast Production for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tips-for-iphone-users-converting-standard-speed-to-slow-scenes-for-2024/"><u>Tips for iPhone Users Converting Standard Speed to Slow Scenes for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/title-elevate-your-gaming-with-the-asus-rog-strix-xg27acs-a-review-of-its-dynamic-qhd-display-and-robust-accuracy/"><u>Title: Elevate Your Gaming with the Asus ROG Strix XG27ACS: A Review of Its Dynamic QHD Display and Robust Accuracy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-traffic-cams-for-superior-vehicle-tracking-for-2024/"><u>Top 10 Traffic Cams for Superior Vehicle Tracking for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-viewership-elevate-your-live-stream-game-with-just-a-few-supporters-for-2024/"><u>Transform Viewership Elevate Your Live Stream Game with Just a Few Supporters for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-apple-watch-sync-errors-addressing-unrecognized-activity-detection/"><u>Troubleshooting Apple Watch Sync Errors: Addressing Unrecognized Activity Detection</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-rapid-review-windows-files-made-simple/"><u>[New] In 2024, Rapid Review Windows Files Made Simple</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/found000/"><u>重要指南：緊急救援 Found.000夾文件內遺失檔案</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-boost-your-sites-engagement/"><u>Cookiebot-Enhanced User Experience: Boost Your Site's Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-enhancing-your-websites-seo-and-conversion-rates/"><u>Cookiebot-Enhanced: Enhancing Your Website's SEO and Conversion Rates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-fueled-optimize-your-website-with-advanced-tracking-tools/"><u>Cookiebot-Fueled: Optimize Your Website with Advanced Tracking Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevating-robotic-process-automation-outcomes-with-cutting-edge-process-analytics-abbyy/"><u>Elevating Robotic Process Automation Outcomes with Cutting-Edge Process Analytics | ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowerment/"><u>Empowerment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-site-functionality-with-our-cookiebot-integration-solutions/"><u>Enhance Site Functionality with Our Cookiebot Integration Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-sites-traffic-with-cutting-edge-cookiebot-technology/"><u>Enhance Your Site's Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://win-answers.techidaily.com/free-conversion-tools-effortlessly-switching-from-mp4-to-ts-file-types-heres-how/"><u>Free Conversion Tools: Effortlessly Switching From MP4 to TS File Types, Here's How</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-claude-ai-surpasses-chatgpt-exploring-four-key-differences/"><u>How Claude AI Surpasses ChatGPT: Exploring Four Key Differences</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-7-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 7 Plus and iPad?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-itel-p55-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Itel P55? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-online.techidaily.com/overcome-gameplay-problems-on-windows-11-with-these-6-effective-fixes/"><u>Overcome Gameplay Problems on Windows 11 with These 6 Effective Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-purity-drive-excluding-polityfaith-talk/"><u>Social Media Purity Drive: Excluding Polity/Faith Talk</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-free-video-fx-apps-for-ios-and-android/"><u>Updated The Ultimate Guide to Free Video FX Apps for iOS and Android</u></a></li>
 </ul></div>
 

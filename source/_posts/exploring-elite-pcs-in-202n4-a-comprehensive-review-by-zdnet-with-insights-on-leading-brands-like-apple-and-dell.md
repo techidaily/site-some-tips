@@ -1,7 +1,7 @@
 ---
 title: "Exploring Elite PCs in 202N4: A Comprehensive Review by ZDNet with Insights on Leading Brands Like Apple and Dell"
-date: 2024-12-14T20:23:06.655Z
-updated: 2024-12-20T21:30:36.539Z
+date: 2024-12-21T03:17:56.901Z
+updated: 2024-12-21T19:20:59.434Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
 
@@ -55,6 +59,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -71,10 +79,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -86,6 +90,10 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -100,7 +108,7 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -115,10 +123,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -130,10 +134,6 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -151,6 +151,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -165,10 +169,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,16 +210,17 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-camera-operational-obs-challenge-won-for-2024/"><u>[New] Camera Operational OBS Challenge Won for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-for-sound-alteration-applications-in-vtubing/"><u>[New] The Ultimate List for Sound Alteration Applications in VTubing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-top-10-action-cameras-for-surfing-2023-update/"><u>[New] Top 10 Action Cameras for Surfing -2023 Update</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-unveiling-the-most-innovative-free-video-editors-for-idevices/"><u>[Updated] Unveiling the Most Innovative Free Video Editors for iDevices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-record-breaking-reddit-threads-ranked-1-10/"><u>2024 Approved Record-Breaking Reddit Threads Ranked 1-10</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sound-sculpting-crafting-harmony-in-audiovox-studio/"><u>2024 Approved Sound Sculpting Crafting Harmony in Audiovox Studio</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-netflixs-floating-window-feature-effectively/"><u>2024 Approved Utilizing Netflix's Floating Window Feature Effectively</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/conversion-facile-des-fichiers-dts-en-wav-gratuite-guides-et-outils-en-ligne-avec-movavi/"><u>Conversion Facile Des Fichiers DTS en WAV Gratuite - Guides Et Outils en Ligne Avec Movavi</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/humble-beginnings-to-sponsored-success-channels-blueprint/"><u>From Humble Beginnings to Sponsored Success Channels' Blueprint</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-to-perfect-green-screen-in-kinemaster/"><u>In 2024, Unveiling the Secrets to Perfect Green Screen in Kinemaster</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-software-guide-to-gamers-broadcast-for-2024/"><u>Ultimate Software Guide to Gamers' Broadcast for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-filmmakers-dream-the-8-best-no-fee-video-editors-on-the-market/"><u>[New] In 2024, A Filmmaker's Dream The 8 Best No-Fee Video Editors on the Market</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-precisionscreenrecorder-capture-anytime/"><u>[Updated] 2024 Approved PrecisionScreenRecorder - Capture Anytime</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-from-filters-to-fun-factors-maximizing-iphones-gif-capabilities-for-2024/"><u>[Updated] From Filters to Fun Factors Maximizing iPhone's GIF Capabilities for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-step-by-step-guide-to-swap-fins-sounds-on-windows/"><u>[Updated] In 2024, Step-by-Step Guide to Swap Fins' Sounds on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-conversion-tracking-with-the-latest-cookiebot-integration/"><u>Enhanced Conversion Tracking with the Latest Cookiebot Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-with-advanced-web-tracking-technology-experience-seamless-user-targeting/"><u>Enhanced with Advanced Web Tracking Technology: Experience Seamless User Targeting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-online-engagement-with-our-cookiebot-seo-solutions/"><u>Experience Enhanced Online Engagement with Our Cookiebot SEO Solutions!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-ahead-with-the-new-apple-watch-series-10-prep-for-release-now-and-discover-top-money-saving-strategies-zdnet/"><u>Get Ahead with the New Apple Watch Series 10 - Prep for Release Now and Discover Top Money-Saving Strategies | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-the-power-of-cookiebot-elevate-your-website-experience/"><u>Harnessing the Power of Cookiebot: Elevate Your Website Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-key-techniques-for-assessing-youtube-engagement-and-profitability/"><u>In 2024, Key Techniques for Assessing YouTube Engagement and Profitability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-oncology-center-enhances-treatment-outcomes-using-advanced-abbyy-idp-solutions/"><u>Innovative Oncology Center Enhances Treatment Outcomes Using Advanced ABBYY IDP Solutions</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/transferring-video-files-between-devices-using-windows-a-comprehensive-guide-yl-tech-solutions/"><u>Transferring Video Files Between Devices Using Windows: A Comprehensive Guide - YL Tech Solutions</u></a></li>
 </ul></div>
 

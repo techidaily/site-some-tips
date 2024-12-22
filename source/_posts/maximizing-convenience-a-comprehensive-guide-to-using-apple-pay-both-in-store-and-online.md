@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Convenience: A Comprehensive Guide to Using Apple Pay Both In-Store and Online"
-date: 2024-12-20T01:27:35.520Z
-updated: 2024-12-21T02:22:47.967Z
+date: 2024-12-20T16:58:10.916Z
+updated: 2024-12-22T00:23:10.498Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
 
@@ -71,10 +75,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -87,10 +87,6 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does systemwide AI text generation work?
 
 Apple
@@ -102,6 +98,10 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -116,7 +116,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -132,7 +132,7 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -152,7 +152,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -210,16 +210,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-best-picks-the-most-acclaimed-10-online-vimeo-video-harvesters/"><u>[Updated] In 2024, Best Picks The Most Acclaimed 10 Online Vimeo Video Harvesters</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-realizing-dreamscapes-picks-of-the-best-tools-for-animation-artists/"><u>[Updated] Realizing Dreamscapes Picks of the Best Tools for Animation Artists</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-itel-p40plus-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Itel P40+ to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-privacy-protection-101-how-to-blur-faces-in-photos-and-videos-with-these-10-free-tools/"><u>New 2024 Approved Privacy Protection 101 How to Blur Faces in Photos and Videos with These 10 Free Tools</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-neon-text-generators-the-9-easiest-online-tools-to-use-this-year-for-2024/"><u>New Neon Text Generators The 9 Easiest Online Tools to Use This Year for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revamping-your-know-your-customer-approach-with-the-latest-techniques-insights-from-abbyy/"><u>Revamping Your Know-Your-Customer Approach with the Latest Techniques - Insights From ABBYY</u></a></li>
-<li><a href="https://some-tips.techidaily.com/strategies-to-enhance-page-ranking-and-web-traffic-through-seo-techniques/"><u>Strategies to Enhance Page Ranking and Web Traffic Through SEO Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamline-legal-processes-using-abbyys-innovative-contract-analysis-platform/"><u>Streamline Legal Processes Using ABBYY's Innovative Contract Analysis Platform</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-evolution-of-trade-finance-adaptive-strategies-for-emerging-obstacles-and-opportunities/"><u>The Evolution of Trade Finance: Adaptive Strategies for Emerging Obstacles and Opportunities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-ai-the-key-to-unlocking-iot-potential-insights-from-abbyy/"><u>Unleashing the Power of AI: The Key to Unlocking IoT Potential - Insights From ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-powerdirector-2024-guide/"><u>[New] The Complete PowerDirector 2024 Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-creating-stunning-3d-text-with-ps/"><u>[Updated] Creating Stunning 3D Text with PS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-20-incredible-no-cost-storage-platforms-1tbplus/"><u>[Updated] Ultimate Guide 20 Incredible No-Cost Storage Platforms (1TB+)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-creative-naming-top-10-ai-podcast-names/"><u>[Updated] Unleashing Creative Naming Top 10 AI Podcast Names</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-view-adding-captions-on-windows-media-player/"><u>2024 Approved Streamline Your View Adding Captions on Windows Media Player</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-8-online-photo-montage-maker/"><u>2024 Approved Top 8 Online Photo Montage Maker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-speed-in-video-production/"><u>2024 Approved Unlock the Power of Speed in Video Production</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/copyright-clearance-for-creative-uploads-on-tiktok/"><u>Copyright Clearance for Creative Uploads on TikTok</u></a></li>
+<li><a href="https://win-top.techidaily.com/defining-cold-email-blasts-with-massmail-software-efficient-strategies-for-impersonal-bulk-messaging/"><u>Defining Cold Email Blasts with MassMail Software: Efficient Strategies for Impersonal Bulk Messaging</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-microsoft-surface-pro-4-touchscreen-issues-with-these-simple-steps/"><u>Fix Your Microsoft Surface Pro #4 Touchscreen Issues with These Simple Steps!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-handle-apple-photo-imports-that-go-wrong-on-pcs-windows/"><u>How to Handle Apple Photo Imports That Go Wrong on PCs (Windows)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-revolutionizing-video-quality-on-tiktok/"><u>In 2024, Revolutionizing Video Quality on TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-aspects-in-deciding-on-chatgpts-role-in-psychological-care/"><u>Key Aspects in Deciding on ChatGPT's Role in Psychological Care</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/rapid-growth-on-youtube-harnessing-the-potential-of-outros/"><u>Rapid Growth on YouTube Harnessing the Potential of Outros</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-advanced-splitting-with-non-xsplit-apps-for-2024/"><u>Unlock Advanced Splitting with Non-Xsplit Apps for 2024</u></a></li>
 </ul></div>
 

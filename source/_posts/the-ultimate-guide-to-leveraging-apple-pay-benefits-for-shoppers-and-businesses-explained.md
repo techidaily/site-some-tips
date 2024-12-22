@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Leveraging Apple Pay - Benefits for Shoppers and Businesses Explained!
-date: 2024-12-18T01:56:50.801Z
-updated: 2024-12-21T06:11:24.443Z
+date: 2024-12-20T03:08:26.766Z
+updated: 2024-12-21T20:44:22.407Z
 tags:
   - apple
 categories:
@@ -31,6 +31,10 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -62,10 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -75,7 +75,7 @@ Double-press the iPhone's right-side button to access Apple Pay.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
@@ -100,6 +100,10 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -111,12 +115,16 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is NFC?
@@ -141,10 +149,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use Apple Pay on your Apple Watch
 
 The days of "I forgot my wallet" are long gone. Once you add a card to your Apple Wallet, you enable Apple Pay on your iPhone. But if you have an active Apple Watch linked to that iPhone, you can also use Apple Pay with just your watch, even if you don't have your iPhone with you when you check out. 
@@ -158,10 +162,6 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,22 +197,20 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unforeseen-tiktok-reset-are-posts-retrievable/"><u>[New] 2024 Approved Unforeseen TikTok Reset – Are Posts Retrievable?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-crafting-compelling-online-presentations-using-zoom-for-youtube-broadcasts-for-2024/"><u>[New] Crafting Compelling Online Presentations Using Zoom for YouTube Broadcasts for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-instagram-edge-a-quick-guide-to-editing-vertical-footage-in-final-cut/"><u>[New] In 2024, The Instagram Edge A Quick Guide to Editing Vertical Footage in Final Cut</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-gameplay-videos-the-ultimate-collection-of-freefire-tags-for-2024/"><u>[Updated] Elevate Your Gameplay Videos The Ultimate Collection of FreeFire Tags for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/beatit-bt-powrboost-dual-11-review-mighty-performance-in-your-pocket/"><u>Beatit BT-PowrBoost Dual 11 Review: Mighty Performance in Your Pocket!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/como-convertir-archivos-mkv-a-linea-con-gratuidad-mediante-movavi/"><u>Cómo Convertir Archivos MKV a Línea Con Gratuidad Mediante Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversion-libre-y-gratuita-de-m4v-a-flv-en-linea-con-la-herramienta-de-movavi/"><u>Conversión Libre Y Gratuita: De M4V a FLV en Línea Con La Herramienta De Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-enhanced-functionalities-in-the-chatgpt-desktop-versus-web-platforms/"><u>Exploring Enhanced Functionalities in the ChatGPT Desktop Versus Web Platforms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-converter-change-your-audio-files-from-mp3-to-video-format-avi-with-ease/"><u>Free Online Converter: Change Your Audio Files From MP3 to Video Format (AVI) with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-image-converter-convert-pdf-gif-and-more-to-jpeg-with-movavi/"><u>Free Online Image Converter: Convert PDF, GIF & More To JPEG with Movavi</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-boost-your-video-subtitle-skills-using-these-top-online-aids/"><u>In 2024, Boost Your Video Subtitle Skills Using These Top Online Aids</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-70off/"><u>Movavi 動画変換ソフトの特別オファー: 限定期間で最大70%OFF!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-pdf-naar-png-converteer-gratis-simpelweg-en-krachtig-met-movavi/"><u>Online-PDF Naar PNG Converteer Gratis - Simpelweg en Krachtig Met Movavi</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211202034-9781616147426-the-science-of-miracles/"><u>The Science of Miracles | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uniendo-videos-eficientemente-tecnicas-faciles-y-rapidas-de-movavi/"><u>Uniendo Videos Eficientemente: Técnicas Fáciles Y Rápidas De Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/vuurproffen-movavi-video-editor-bestel-duitslands-bijna-gewaardeid-zeer-veilig-kaufeexperte/"><u>Vuurproffen Movavi Video Editor Bestel: Duitsland's Bijna Gewaardeid Zeer Veilig Kaufeexperte</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-insta-story-focus-zooming-in-and-out-techniques/"><u>[New] Mastering Insta Story Focus Zooming In & Out Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-battle-of-broadcasting-is-obs-or-twitch-studio-superior-in-2024/"><u>[Updated] Battle of Broadcasting Is OBS or Twitch Studio Superior, In 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-action-cam-showdown-2022-hero5-black-vs-ultra-30-streaming/"><u>[Updated] In 2024, Action Cam Showdown 2022 Hero5 Black Vs. Ultra 30 Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-converting-photographs-into-cinematic-videography-with-pixiz/"><u>2024 Approved The Art of Converting Photographs Into Cinematic Videography with Pixiz</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-building-blocks-of-graphic-animation/"><u>2024 Approved The Building Blocks of Graphic Animation</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 6 to Android? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-10-key-steps-for-optimal-stream-service-picks/"><u>In 2024, The 10 Key Steps for Optimal Stream Service Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-strategic-approach-to-advertising-on-spotify/"><u>In 2024, The Strategic Approach to Advertising on Spotify</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterful-ways-of-scrolling-through-appreciated-youtube-feedback/"><u>Masterful Ways of Scrolling Through Appreciated YouTube Feedback</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-0x800704cf-error-from-microsoft-store/"><u>Overcoming the 0X800704CF Error From Microsoft Store</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/quelles-etapes-suivre-si-vous-rencontrez-des-difficultes-a-ouvrir-un-document-pdf/"><u>Quelles Étapes Suivre Si Vous Rencontrez Des Difficultés À Ouvrir Un Document PDF ?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-bg3-pc-freezing-issues-a-step-by-step-guide/"><u>Solving BG3 PC Freezing Issues - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-foundation-defining-electronic-storytelling-for-2024/"><u>The Foundation Defining Electronic Storytelling for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-handbook-ios-photo-alignment-and-cloud-synchronization-for-2024/"><u>The Ultimate Handbook IOS Photo Alignment & Cloud Synchronization for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-top-voice-change-programs-for-2024/"><u>Ultimate List of Top Voice-Change Programs for 2024</u></a></li>
 </ul></div>
 

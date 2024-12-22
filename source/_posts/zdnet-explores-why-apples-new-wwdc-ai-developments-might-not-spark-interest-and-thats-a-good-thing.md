@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores Why Apple's New WWDC AI Developments Might Not Spark Interest (And That's a Good Thing)
-date: 2024-12-17T20:04:03.387Z
-updated: 2024-12-20T21:47:10.895Z
+date: 2024-12-21T02:19:11.998Z
+updated: 2024-12-21T23:49:33.384Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,21 +146,15 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-digital-talk-initiator/"><u>[New] Ideal Digital Talk Initiator</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-inside-outlook-a-study-of-vivavideo-functionality/"><u>[Updated] In 2024, Inside Outlook A Study of VivaVideo Functionality</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-quick-fixes-the-hands-on-guide-to-generating-timely-captions-on-fb-media/"><u>[Updated] Quick Fixes The Hands-On Guide to Generating Timely Captions on FB Media</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movaviwtvmpgmp4/"><u>「Movaviプログラムを使用したオンデマンドWTVファイルからMPG/MP4への自由解放変換ガイド」</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-steadicam-systems-for-drone-cinematography-aficionados/"><u>2024 Approved Top-Ranked Steadicam Systems for Drone Cinematography Aficionados</u></a></li>
-<li><a href="https://some-tips.techidaily.com/7-best-no-cost-dvd-players-of-202-recommended-software-list/"><u>7 Best No-Cost DVD Players of 202^! Recommended Software List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-f4v-avi/"><u>逐步指南：如何利用 Movavi 轉換器無限制地將 F4V 圖像翻轉成 AVI</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratuitas-conversor-de-mp4-para-wmv-online-utilizar-o-moviemaker-pelo-movavi/"><u>Gratuitas Conversor De MP4 Para WMV Online - Utilizar O MovieMaker Pelo Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/het-beste-software-voor-het-behandelen-van-stamppuntsproblemen-eenlijst/"><u>Het Beste Software Voor Het Behandelen Van Stamppuntsproblemen: Eenlijst!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-tale-of-two-platforms-youtube-and-dailymention/"><u>In 2024, The Tale of Two Platforms YouTube and DailyMention</u></a></li>
-<li><a href="https://some-tips.techidaily.com/la-guia-definitiva-para-reducir-el-tamano-de-archivos-voluminosos-con-los-herramientas-de-compactacion-mas-eficaces/"><u>La Guía Definitiva Para Reducir El Tamaño De Archivos Voluminosos Con Los Herramientas De Compactación Más Eficaces</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/navigating-video-issues-correcting-error-0xc10100be/"><u>Navigating Video Issues: Correcting Error 0XC10100be</u></a></li>
-<li><a href="https://some-tips.techidaily.com/quick-guide-to-easily-reverse-a-video-in-real-time-using-your-computer-or-going-online/"><u>Quick Guide to Easily Reverse a Video in Real-Time Using Your Computer or Going Online</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-nokia-c12-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Nokia C12 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-community-resource-playing-games-without-limits-for-2024/"><u>[Updated] Community Resource Playing Games without Limits for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-best-online-choice-for-quick-hassle-free-gif-conversion-to-video-for-2024/"><u>[Updated] The Best Online Choice for Quick, Hassle-Free GIF Conversion to Video for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-sideways-surprise-decoding-instagram-video-strange-behavior/"><u>[Updated] The Sideways Surprise Decoding Instagram Video Strange Behavior</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>[Updated] Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
+<li><a href="https://article-helps.techidaily.com/capture-and-safeguard-periscope-videos-effectively-for-2024/"><u>Capture & Safeguard Periscope Videos Effectively for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/fix-your-slow-internet-connection-solutions-for-network-adapter-issues-from-yl-computing/"><u>Fix Your Slow Internet Connection: Solutions for Network Adapter Issues From YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-itel-p40plus-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Itel P40+ Phones? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-visual-testimonial-advantage/"><u>In 2024, The Visual Testimonial Advantage</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-get-ahead-in-video-editing-6-insider-adobe-premiere-tips-and-techniques/"><u>New 2024 Approved Get Ahead in Video Editing 6 Insider Adobe Premiere Tips and Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/soaring-high-with-q500s-4k-vision-for-2024/"><u>Soaring High with Q500's 4K Vision for 2024</u></a></li>
 </ul></div>
 

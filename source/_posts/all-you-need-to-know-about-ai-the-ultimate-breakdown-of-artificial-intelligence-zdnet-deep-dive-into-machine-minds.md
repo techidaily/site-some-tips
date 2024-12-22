@@ -1,7 +1,7 @@
 ---
 title: "All You Need to Know About AI: The Ultimate Breakdown of Artificial Intelligence | ZDNET Deep Dive Into Machine Minds"
-date: 2024-09-18 13:47:50
-updated: 2024-09-20 12:38:50
+date: 2024-12-14T17:38:16.116Z
+updated: 2024-12-21T19:18:35.387Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11f
 ![gettyimages-1888972727](https://www.zdnet.com/a/img/resize/ada36a8ca094a512f972578b7b4742f38ac90b5c/2024/05/28/95683789-ebda-4272-964e-ce5d1a5a000f/gettyimages-1888972727.jpg?auto=webp&width=1280)
 
 Weiquan Lin/Getty Images
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is artificial intelligence?
 
@@ -57,6 +61,10 @@ A major function of AI in consumer products is personalization, whether for targ
 
 On a bigger scale, marketing and content teams can use AI to [streamline production](https://www.zdnet.com/article/what-adobes-new-ai-powered-express-for-enterprise-can-do-for-business-teams/), while developers [write and execute code](https://www.zdnet.com/article/github-releases-an-ai-powered-tool-that-is-a-radically-new-way-of-building-software/) with it. AI can also exponentially increase the speed and efficiency of [medical research](https://www.zdnet.com/article/how-ai-hallucinations-could-help-create-life-saving-antibiotics/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is machine learning (ML)?
 
 Bing Image Creator/ZDNET
@@ -89,6 +97,10 @@ The algorithms aren't programmed in advance to pick out specific types of data; 
 
 **Also:** [**Machine learning is going real-time: Here's why and how**](https://www.zdnet.com/article/machine-learning-is-going-real-time-heres-why-and-how/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Reinforcement learning**
 
 In reinforcement learning, the system is trained to maximize a reward based on input data, going through a trial-and-error process until it arrives at the best possible outcome.
@@ -101,6 +113,10 @@ Reinforcement learning is also used in research, where it can help teach autonom
 
 Artificial intelligence can be divided into three subcategories: narrow AI, general AI, and super AI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is narrow AI?
 
 June Wan/ZDNET
@@ -112,6 +128,10 @@ ANI is sometimes called weak AI, as it doesn't possess general intelligence. But
 ChatGPT is also an example of ANI, as it is programmed to perform a specific task: generate text responses to prompts it's given.
 
 **Also: [Microsoft Copilot Pro vs. OpenAI's ChatGPT Plus](https://www.zdnet.com/article/microsoft-copilot-pro-vs-openais-chatgpt-plus-which-is-worth-your-20-a-month/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is general AI?
 
@@ -134,6 +154,10 @@ Artificial superintelligence (ASI) would be a machine intelligence that surpasse
 **Also: [Mechanics of the future: Meet the specialists assembling AI](https://www.zdnet.com/article/mechanics-of-the-future-meet-the-specialists-assembling-ai/)**
 
 An intelligent system that can learn and continuously improve itself is still a hypothetical concept. However, if applied effectively and ethically, the system could lead to extraordinary progress and achievements in medicine, technology, and more. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are some recent examples of AI?
 
@@ -205,6 +229,10 @@ These networks comprise interconnected layers of algorithms that feed data into 
 
 At that point, the network will have 'learned' how to carry out a particular task. The desired output could be anything from correctly labeling fruit in an image to predicting when an elevator might fail based on its sensor data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is deep learning?
 
 Deep learning is part of the ML family and involves training artificial neural networks with three or more layers to perform different tasks. These neural networks are expanded into sprawling networks with a large number of deep layers that are trained using massive amounts of data. 
@@ -214,6 +242,10 @@ Deep learning models tend to have more than three layers at least and can have h
 **Also:** [**What is deep learning? Everything you need to know**](https://www.zdnet.com/article/what-is-deep-learning-everything-you-need-to-know/)
 
 Because deep learning technology can learn to recognize complex patterns in data using AI, it is often used in natural language processing (NLP), speech recognition, and image recognition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is conversational AI?
 
@@ -253,6 +285,10 @@ Unsurprisingly, OpenAI has made a huge impact in AI after making its powerful ge
 
 Anthropic created [Claude](https://www.zdnet.com/article/anthropic-launches-a-free-claude-ios-app-and-team-its-first-enterprise-plan/), a powerful group of LLMs, and is considered a primary competitor of OpenAI. The company focuses on safety and ethical concerns in its AI research. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Alphabet
 
 Google's parent company, Alphabet, has its hands in several different AI systems through companies including DeepMind, Waymo, and Google. 
@@ -274,6 +310,10 @@ Aside from creating Microsoft Copilot, the company provides a suite of AI tools 
 **Also:** [**Microsoft CEO Nadella: 'Expect us to incorporate AI in every layer of the stack'**](https://www.zdnet.com/article/microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack/)
 
 Microsoft has also invested heavily in OpenAI's development. The tech giant uses GPT-4 in [Copilot, formerly known as Bing chat](https://www.zdnet.com/article/how-to-use-the-new-bing-and-how-its-different-from-chatgpt/), and in an advanced version of Dall-E 3 to generate images through [Microsoft Designer](https://www.zdnet.com/article/how-to-use-bing-image-creator/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Apple
 
@@ -340,11 +380,28 @@ There is a broad range of opinions among AI experts about how quickly artificial
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-enhance-performance-with-macos-sierra-upgrade/"><u>[New] In 2024, Enhance Performance with MacOS Sierra Upgrade</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tech-tips-how-to-get-fcp-without-money/"><u>[New] Tech Tips How to Get FCP Without Money</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-5-gaming-monitors-for-playstation-and-xbox/"><u>[New] The Ultimate 5 Gaming Monitors for PlayStation & Xbox</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-top-10-4k-screens/"><u>[New] The Ultimate Guide to #Top 10 4K Screens</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastering-device-independent-techniques-for-capturing-youtube-live-streams/"><u>[Updated] 2024 Approved Mastering Device-Independent Techniques for Capturing YouTube Live Streams</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-fiery-friendship-keeping-your-snapstreak-hot-and-steady-for-2024/"><u>[Updated] Fiery Friendship Keeping Your Snapstreak Hot and Steady for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-subtlety-in-sound-fading-out-effectively-in-logic-pro/"><u>[Updated] Subtlety In Sound Fading Out Effectively in Logic Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supreme-audiovisual-hints-pack/"><u>[Updated] Supreme Audiovisual Hints Pack</u></a></li>
+<li><a href="https://blog-min.techidaily.com/iuoajoocrplusodquocqoocpoodhuocoplusodluodqeodnowlleeuuplusockuocueodooodvoocuuobqplusocreodoplusodlplusodgeodozrjg5njgrnjg4jjgqljg7pjgrxjg7zjgafjgihov4xpgj18/"><u>「クリエイティブラボ動画をスムーズにキャプチャ:ベストアンサーで、迅速かつ効果的な記録方法と提案のツール」</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-roadmap-to-crafting-a-dynamic-youtube-presence-for-enterprise-and-individuals/"><u>2024 Approved The Roadmap to Crafting a Dynamic YouTube Presence for Enterprise & Individuals</u></a></li>
+<li><a href="https://facebook.techidaily.com/amplify-voices-not-alone-the-power-of-fb-clubs/"><u>Amplify Voices, Not Alone: The Power of FB Clubs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-sony-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Sony ?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-fundamentals-of-starting-an-instantaneous-broadcast/"><u>In 2024, The Fundamentals of Starting an Instantaneous Broadcast</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-trouble-free-play-no-more-runescape-game-disruptions/"><u>Mastering Trouble-Free Play: No More RuneScape Game Disruptions</u></a></li>
+</ul></div>
+

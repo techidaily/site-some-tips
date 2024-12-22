@@ -1,7 +1,7 @@
 ---
 title: How To Secure Your Own Apple Gift Card Worth $150 For Educational Use | ZDNet
-date: 2024-12-15T01:58:07.691Z
-updated: 2024-12-21T01:59:35.196Z
+date: 2024-12-16T03:29:38.621Z
+updated: 2024-12-22T03:03:12.133Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,18 +146,24 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-jokes-in-jams-best-funny-video-concepts-under-five-minutes/"><u>[New] Jokes in Jams Best Funny Video Concepts Under Five Minutes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-the-full-content-masterful-techniques-to-download-igtv-videos-for-2024/"><u>[New] Unlock the Full Content Masterful Techniques to Download IGTV Videos for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-checklist-for-smooth-transitions/"><u>[Updated] The Ultimate Checklist for Smooth Transitions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-sky-high-drone-competition-guide-plus-5-innovative-fpv-systems/"><u>2024 Approved Sky High Drone Competition Guide + 5 Innovative FPV Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-potential-best-video-editing-hacks/"><u>2024 Approved Unlock Your Potential Best Video Editing Hacks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/bringing-back-usb-connections-to-outdated-windows/"><u>Bringing Back USB Connections to Outdated Windows</u></a></li>
-<li><a href="https://fox-access.techidaily.com/cinematic-narratives-mastering-screenplays-for-2024/"><u>Cinematic Narratives Mastering Screenplays for 2024</u></a></li>
-<li><a href="https://fox-place.techidaily.com/essential-features-understanding-the-requirements-section/"><u>Essential Features: Understanding the Requirement's Section</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-12-simple-tricks-to-make-your-youtube-videos-go-viral/"><u>In 2024, 12 Simple Tricks to Make Your YouTube Videos Go Viral</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-dji-phantom-4-extension-kit-list/"><u>In 2024, The Ultimate DJI Phantom 4 Extension Kit List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlining-data-management-5-leading-cloud-providers-for-2024/"><u>Streamlining Data Management 5 Leading Cloud Providers for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-honor-x50-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Honor X50 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unmatched-motion-blur-free-videos-top-phones-with-ois-technology-advantage-for-2024/"><u>Unmatched Motion Blur-Free Videos Top Phones with OIS Technology Advantage for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-game-changing-strategies-for-effective-video-capture/"><u>[New] Game-Changing Strategies for Effective Video Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-9-live-stream-networks-revealed-secrets/"><u>[New] Top 9 Live Stream Networks - Revealed Secrets</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-technique-to-implement-youtube-playlists-smoothly-into-web-pages/"><u>[Updated] 2024 Approved Technique to Implement YouTube Playlists Smoothly Into Web Pages</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-5-top-3d-design-apps-for-engaging-youtube-beginnings-for-2024/"><u>[Updated] 5 Top 3D Design Apps for Engaging YouTube Beginnings for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-selecting-the-finest-portable-cinema-tools-for-2024/"><u>[Updated] Selecting the Finest Portable Cinema Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-in-frame-multimedia-experience-on-mac/"><u>[Updated] The Ultimate Guide to In-Frame Multimedia Experience on Mac</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-demystifying-the-purpose-of-slug-lines-in-screenplay/"><u>2024 Approved Demystifying the Purpose of Slug Lines in Screenplay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-window-to-world-class-video-playback/"><u>2024 Approved Ultimate Window to World-Class Video Playback</u></a></li>
+<li><a href="https://win-top.techidaily.com/comment-redemarrer-le-demarrage-de-windows-11-pour-assurer-la-securite/"><u>Comment Redémarrer Le Démarrage De Windows 11 Pour Assurer La Sécurité</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/deciphering-digital-assets-how-coins-differ-from-tokens-and-altcoins-insights-from-yl-software/"><u>Deciphering Digital Assets: How Coins Differ From Tokens and Altcoins – Insights From YL Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fast-facial-masking-on-piscart-a-convenient-guide-for-2024/"><u>Fast Facial Masking on PiscArt A Convenient Guide for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-honor-magic-6-lite-by-drfone-android/"><u>How to Bypass FRP on Honor Magic 6 Lite?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-quest-for-perfect-balance-top-gimbals-in-dronescapes/"><u>In 2024, The Quest for Perfect Balance Top Gimbals in Dronescapes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unique-iphone-photo-style-adding-dynamic-motion-effects/"><u>In 2024, Unique iPhone Photo Style Adding Dynamic Motion Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unprecedented-capacity-choices-elite-cloud-services/"><u>In 2024, Unprecedented Capacity Choices Elite Cloud Services</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pioneering-photography-with-quantum-hdr-tech/"><u>Pioneering Photography with Quantum HDR Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-closer-look-approach-to-team-collaboration-for-2024/"><u>The Closer Look Approach to Team Collaboration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-adding-video-filter-magic-to-zoom-meetings-for-2024/"><u>The Complete Guide to Adding Video Filter Magic to Zoom Meetings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-experts-manual-for-fusing-linktree-and-tiktok-biographies-for-2024/"><u>The Expert's Manual for Fusing Linktree and TikTok Biographies for 2024</u></a></li>
 </ul></div>
 

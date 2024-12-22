@@ -1,7 +1,7 @@
 ---
 title: "Building on the Edge of Tomorrow: Google's Latest Aid to Blockchain Platform Developers Highlighted by ZDNet"
-date: 2024-09-19 19:19:30
-updated: 2024-09-20 11:18:24
+date: 2024-12-16T23:35:57.121Z
+updated: 2024-12-21T22:57:16.195Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: ArtemisDiana/Getty Images
 Google Cloud on Thursday unveiled Blockchain Node Engine -- a fully managed service for Web3 developers that want to build and manage products for blockchain-based platforms. Cryptocurrency giant Ethereum will be the first platform supported by the new service. 
 
 "Blockchain is changing the way the world stores and moves its information," Google's Amit Zavery and James Tromans wrote in a blog post, explaining the company's interest in supporting Web3 developers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Crypto
 
@@ -65,11 +69,30 @@ To ensure availability, Google Cloud actively monitors the nodes and restarts th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-a-trifecta-guide-for-extracting-youtube-subtitled-content/"><u>[New] A Trifecta Guide for Extracting YouTube Subtitled Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inside-vr-contemporary-insights-and-upcoming-struggles/"><u>[New] Inside VR Contemporary Insights & Upcoming Struggles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essence-of-effortless-live-broadcasts-with-one-device-use/"><u>[New] The Essence of Effortless Live Broadcasts with One-Device Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-videos-with-magix-video-pro-x/"><u>[New] Transform Your Videos with Magix Video Pro X</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-ultimate-visual-companion-premium-webcams-for-podcasts/"><u>[Updated] 2024 Approved The Ultimate Visual Companion Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-top-10-vr-360-video-players-for-pc-reviews/"><u>2024 Approved Top 10 VR (360 Video) Players for PC Reviews</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-upgrading-visual-appeal-a-how-to-guide-for-twitter-video-image-changes/"><u>2024 Approved Upgrading Visual Appeal A How-To Guide for Twitter Video Image Changes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-most-effective-cable-modem-models-reviewed-for-optimal-internet-speed/"><u>2024'S Most Effective Cable Modem Models Reviewed for Optimal Internet Speed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-k850-ultrahd-samsung-2023-tech-review/"><u>In 2024, K850 UltraHD Samsung 2023 Tech Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-role-of-authenticity-in-client-generated-marketing/"><u>In 2024, The Role of Authenticity in Client-Generated Marketing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-screen-showdown-top-6-hdmi-21-monitors-reviewed/"><u>In 2024, The Ultimate Screen Showdown Top 6 HDMI 2.1 Monitors Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-text-tilt-treasures/"><u>In 2024, Top Text Tilt Treasures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-camera-tech-s-filmmaking/"><u>In 2024, Unparalleled Camera Tech 'S Filmmaking</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/kinetic-illustration-101-core-skills-and-concepts-for-2024/"><u>Kinetic Illustration 101 Core Skills & Concepts for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-video-tactics-for-small-enterprises-for-2024/"><u>SMART Video Tactics for Small Enterprises for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-pc-cases-an-insightful-review-of-the-lian-li-hydroshift-360s-model-with-lcd-display/"><u>The Future of PC Cases: An Insightful Review of the Lian Li Hydroshift 360S Model with LCD Display</u></a></li>
+</ul></div>
+

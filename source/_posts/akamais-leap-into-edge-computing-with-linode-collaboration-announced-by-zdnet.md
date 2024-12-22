@@ -1,7 +1,7 @@
 ---
 title: Akamai's Leap Into Edge Computing with Linode Collaboration Announced by ZDNet
-date: 2024-09-17 22:54:25
-updated: 2024-09-20 10:52:54
+date: 2024-12-15T02:15:36.340Z
+updated: 2024-12-21T20:27:58.246Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/d79beeb4abcfd05636355f94742171c61e
 Akamai
 
 Earlier this year, when [Akamai bought infrastructure-as-a-service (IaaS) cloud platform provider Linode](https://www.zdnet.com/article/akamai-acquires-infrastructure-as-a-service-provider-linode-for-900-million/) for about $900 million, it wasn't clear how Akamai's content delivery network (CDN) and security services would work well with Linode's developer-friendly, Linux-based, Infrastructure-as-a-Service (IaaS) cloud. Now, we know Akamai wasn't just adding a cloud; it was working on edge computing and cloud development synergies. The company is [adding more than a dozen new Linode data centers](https://www.akamai.com/blog/cloud/akamai-turns-up-linode-past-11) around the world by the end of 2023.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -56,11 +60,25 @@ While I don't expect Akamai to appear in a Marvel movie anytime soon, it does ap
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-reality-jaunt-vr-breakdown/"><u>[New] Beyond Reality Jaunt VR Breakdown</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-full-guide-streamlining-your-files-in-the-digital-age-with-adobe-and-beyond-for-2024/"><u>[New] Full Guide Streamlining Your Files in the Digital Age with Adobe & Beyond for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-techniques-for-fast-forwarding-in-spotify/"><u>[New] The Essential Techniques for Fast-Forwarding in Spotify</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-tier-innovations-in-virtual-reality-setup/"><u>[New] Top-Tier Innovations in Virtual Reality Setup</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-ultimate-playlist-15-ways-to-revamp-a-live-stream/"><u>[Updated] In 2024, The Ultimate Playlist 15 Ways to Revamp a Live Stream</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-impact-and-innovations-in-vegaspro-a-2019-review/"><u>2024 Approved The Impact and Innovations in VegasPro A 2019 Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cracking-the-code-on-campus-how-students-can-earn-less-for-lenovo-tech/"><u>Cracking the Code on Campus: How Students Can Earn Less for Lenovo Tech</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/rank-the-best-comparative-study-of-6-hdmi-21-monitors-for-2024/"><u>Rank the Best Comparative Study of 6 HDMI 2.1 Monitors for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-fixes-to-get-the-chatgpt-app-running-smoothly-on-ios/"><u>Step-by-Step Fixes to Get the ChatGPT App Running Smoothly on iOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-images-top-5-android-tools-for-2024/"><u>Transform Images Top 5 Android Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/videovisionary-toolkit-for-2024/"><u>VideoVisionary Toolkit for 2024</u></a></li>
+</ul></div>
+

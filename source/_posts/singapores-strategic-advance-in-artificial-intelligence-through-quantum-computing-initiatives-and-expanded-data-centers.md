@@ -1,7 +1,7 @@
 ---
 title: Singapore's Strategic Advance in Artificial Intelligence Through Quantum Computing Initiatives & Expanded Data Centers
-date: 2024-09-19 12:10:26
-updated: 2024-09-20 10:25:36
+date: 2024-12-18T20:00:03.064Z
+updated: 2024-12-21T19:22:48.516Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ ZDNET understands Singapore's target is to have the first prototype ready in the
 
 The government in 2022 unveiled a three-year initiative to [build a quantum-safe network](https://www.zdnet.com/article/singapore-to-build-quantum-safe-network-for-critical-infrastructure-trials/) that it hopes will showcase "crypto-agile connectivity" and facilitate trials with both public and private organizations. The initiative also includes a quantum security lab for vulnerability research. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Laying the ground for green data centers
 
 Singapore last week also launched its [green data center roadmap](https://www.imda.gov.sg/-/media/imda/files/how-we-can-help/green-dc-roadmap/green-dc-roadmap.pdf) to chart "digital sustainability and chart green growth pathways" for such facilities, supporting AI and computing developments. 
@@ -86,6 +90,10 @@ He said technologies that drive the country's digital economy, such as cloud and
 "There is a need to balance the economic and social benefits of digital applications with the environmental effects from the resultant emissions," he said, noting that Singapore has committed to a net-zero target by 2050\. 
 
 "The \[green data center\] roadmap sets out low-carbon energy sources that data centers can explore, which include bioenergy, fuel cells with carbon capture, low-carbon hydrogen and ammonia for a start," Puthucheary explained. "We welcome proposals from the industry to push boundaries in realizing these pathways in Singapore."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Charting global test standards for AI models
 
@@ -130,11 +138,31 @@ IMDA said it is working with companies such as Anthropic to develop a practical 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-google-pixel-rhythms-the-ideal-online-source/"><u>[New] Google Pixel Rhythms The Ideal Online Source</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-innovative-approaches-for-image-collections-acquisition/"><u>[New] In 2024, Innovative Approaches for Image Collections Acquisition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing/"><u>[New] Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-synchronizing-sequential-images-for-impactful-storytelling/"><u>[New] Synchronizing Sequential Images for Impactful Storytelling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-expert-guide-to-navigating-win11-easily/"><u>[New] The Expert Guide to Navigating Win11 Easily</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-breakthrough-14-text-animation-samples/"><u>[Updated] Breakthrough 14 Text Animation Samples</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-tech-handbook-working-with-srt-files-on-a-mac/"><u>[Updated] The Ultimate Tech Handbook Working with SRT Files on a Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-easy-android-image-fixes/"><u>[Updated] Top 5 Easy Android Image Fixes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-y27-4g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo Y27 4G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-stock-apps-on-an-iphone-removable-or-deletable/"><u>Are Stock Apps On an iPhone Removable or Deletable?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exclusive-insights-the-highest-rated-vr-games/"><u>Exclusive Insights The Highest-Rated VR Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-list-of-tools-for-accelerating-your-facebook-vids/"><u>In 2024, The Expert's List of Tools for Accelerating Your Facebook Vids</u></a></li>
+<li><a href="https://win11.techidaily.com/reboot-for-richness-regain-windows-11s-vanished-enhancement-options/"><u>Reboot for Richness: Regain Windows 11'S Vanished Enhancement Options</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/supercharge-your-channels-mastering-youtube-traffic-boosts-for-2024/"><u>Supercharge Your Channels Mastering YouTube Traffic Boosts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-online-portals-for-text-artistry-for-2024/"><u>Ultimate Guide to Online Portals for Text Artistry for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-spotifys-ad-platform-for-marketers-for-2024/"><u>Unleashing the Power of Spotify's Ad Platform for Marketers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-modern-standby-explained-and-its-flaws-explored/"><u>Windows Modern Standby Explained & Its Flaws Explored</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Boosting Productivity at Work: Top Tools and Smart Strategies to Optimize Your Daily Routine | Guided by ZDNet Expertise"
-date: 2024-09-17 12:41:34
-updated: 2024-09-20 11:49:43
+date: 2024-12-16T21:02:32.768Z
+updated: 2024-12-22T03:29:15.802Z
 tags:
   - cloud
 categories:
@@ -26,6 +26,10 @@ Before I take you through both the tools and my "process," let me point out that
 Today, I coordinate with teams, rather than manage them. I have students rather than employees. I research projects rather than launch products. My daily productivity flow reflects the changes in career as I've evolved from founder to advisor, manager to professor, and publisher to columnist. 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What do I mean by my flow? 
 
@@ -52,6 +56,10 @@ In any case, what that means is that instead of my escalating ranking of phones,
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -94,6 +102,10 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -144,6 +156,10 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -166,6 +182,10 @@ By the way, this is also a great way to think about users, which I initially was
 * [Wiping a Windows laptop? Here's the safest free way to erase your personal data](https://www.zdnet.com/article/wiping-a-windows-laptop-heres-the-safest-free-way-to-erase-your-personal-data/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -196,6 +216,10 @@ Notion is also available on Android and iOS as well as web platforms, so once ag
 I've set up a bunch of Notion pages and all the items that "should be on the list" but aren't actionable this week or next go onto a Notion. I regularly dig into those pages, particularly when I'm working on a corresponding project, and pull items from the page and assign them to Todoist -- but only if I intend to work on them right away, that week. 
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -237,11 +261,29 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-flip-side-when-vr-becomes-a-stumbling-block/"><u>[New] The Flip Side When VR Becomes a Stumbling Block</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-whatsapp-audio-conversations/"><u>[New] Unveiling the Secrets of WhatsApp Audio Conversations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-maximize-your-vr-journey-oculus-rift-readiness/"><u>[Updated] In 2024, Maximize Your VR Journey Oculus Rift Readiness</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-iphone-photography-top-angles-for-stunning-images/"><u>[Updated] Unlock iPhone Photography Top Angles for Stunning Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-reviewing-the-high-quality-video-on-galaxy-s8/"><u>2024 Approved Reviewing the High-Quality Video on Galaxy S8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-skyline-spectacular-the-gopro-karma-edition/"><u>2024 Approved Skyline Spectacular The GoPro Karma Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-snapchat-a-comprehensive-cheat-sheet-on-emojis/"><u>Decoding Snapchat: A Comprehensive Cheat Sheet on Emojis</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-phantom-v-flip-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Phantom V Flip Without Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-honor-magic-5-lite-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Honor Magic 5 Lite Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-free-hilarious-memetic-art/"><u>In 2024, The Ultimate Guide to Free, Hilarious Memetic Art</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-phone-into-a-funimate-portal-via-apk-for-2024/"><u>Transform Your Phone Into a Funimate Portal via APK for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-discover-these-12-free-movie-streaming-platforms/"><u>Ultimate Guide: Discover These 12 Free Movie Streaming Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-are-large-language-models-llms-and-how-do-they-work/"><u>What Are Large Language Models (LLMs) and How Do They Work?</u></a></li>
+</ul></div>
+

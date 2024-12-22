@@ -1,7 +1,7 @@
 ---
 title: "Securing the Skies of Data: The Quintessential 5-Step Guide by ZDNet"
-date: 2024-09-18 23:39:27
-updated: 2024-09-20 10:14:59
+date: 2024-12-15T02:01:15.286Z
+updated: 2024-12-22T01:16:24.792Z
 tags:
   - cloud
 categories:
@@ -48,6 +48,10 @@ It's vital that any cloud accounts are secured properly, using a complex, unique
 
 Organisations should also consider providing staff with [password manager software](https://www.zdnet.com/article/best-password-manager/), so users don't need to remember passwords, leaving them free to create longer, more complex passwords that are less likely to be breached.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **2\. Don't give every user the keys to the kingdom**
 
 Cloud applications and services are convenient, providing users with a variety of tools they need to be productive, all in one place. But different users have different needs and most users don't need high-level privileges – particularly when that access [could easily be abused by an unauthorized user](https://www.zdnet.com/article/admin-rights-key-to-mitigating-vulnerabilities-study-shows/) who has hacked or otherwise taken control of an account with admin rights. 
@@ -62,6 +66,10 @@ Cloud applications and services are convenient, providing users with a variety o
 
 It is, therefore, imperative for IT and information security teams to ensure that administrator privileges are only available for those who really need them – and that any account with administrator privileges is properly secured, so attackers are unable to gain access and abuse high-level accounts -- to create additional accounts they could use to secretly go about their business, for example. It's also important that regular users don't have the power to escalate their own privileges or create new accounts. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **3\. Don't leave cloud applications unmonitored – and know who is using them**
 
 Companies use a wide variety of cloud-computing services, but the more applications that are being used, the more difficult it is to keep track of them. And that could provide a gateway for malicious users to enter the network undetected. 
@@ -74,9 +82,17 @@ It's also important to ensure that cloud applications aren't [misconfigured](htt
 
 In the worst-case scenario, a misconfigured cloud application facing the open internet may not require login details at all, meaning anyone can gain access. It's vital that organisations are aware of how their cloud services interact with the open web and that only those who need these services can access them. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **4\. Don't ignore security updates and patches – cloud software needs them, too**
 
 One of the most important things you can do to improve the cybersecurity of your network is to [apply security updates and patches as soon as possible](https://www.zdnet.com/article/this-one-change-could-protect-your-systems-from-attack-so-why-dont-more-companies-do-it/). Cyber criminals regularly look to exploit known vulnerabilities in applications to breach networks and lay the foundation for cyberattacks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -101,6 +117,10 @@ No matter how strong your cybersecurity controls are, protecting cloud accounts 
 
 Not only is it important to regularly save backups – so the restore point is as recent as possible, meaning everything is as close to being up-to-date as it can be – those backups should also be tested regularly. After all, there's no point keeping backups if it turns out that they don't work when they're actually needed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -115,11 +135,29 @@ Not only is it important to regularly save backups – so the restore point is a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unveiling-the-top-6-nft-environments-for-creatives/"><u>[New] 2024 Approved Unveiling the Top 6 NFT Environments for Creatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-gaze-field-vr-device-overview/"><u>[Updated] Total Gaze Field VR Device Overview</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unravel-the-best-ps2-emulation-on-ios-devices/"><u>[Updated] Unravel the Best PS2 Emulation on iOS Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-drone-accessory-guide-10-must-haves-revealed/"><u>2024 Approved The Ultimate Drone Accessory Guide - 10 Must-Haves Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-ar-a-modern-illusionists-toolkit/"><u>2024 Approved Unveiling AR A Modern Illusionist's Toolkit</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/addressing-audio-disturbances-in-the-latest-version-of-new-world-a-comprehensive-guide/"><u>Addressing Audio Disturbances in the Latest Version of New World: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enhance-your-listeners-experience-with-great-summaries/"><u>Enhance Your Listeners' Experience with Great Summaries</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-nokia-150-2023-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Nokia 150 (2023) to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-studio-techniques-decoded-xvideostudio-edition/"><u>In 2024, Studio Techniques Decoded XVideoStudio Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-spots-for-classic-ringtone-downloads/"><u>In 2024, Top Spots for Classic Ringtone Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unified-imagery-the-ultimate-blend-strategy/"><u>In 2024, Unified Imagery The Ultimate Blend Strategy</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-11s-screen-configurations-a-guide-to-10-methods/"><u>Mastering Window 11'S Screen Configurations: A Guide to 10 Methods</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/optimize-your-instagram-media-flow-desktopmobile/"><u>Optimize Your Instagram Media Flow (Desktop/Mobile)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-youtube-seo-methods-for-video-rankings/"><u>Proven YouTube SEO Methods for Video Rankings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-3d-typographic-sites-for-2024/"><u>Ultimate List of 3D Typographic Sites for 2024</u></a></li>
+</ul></div>
+

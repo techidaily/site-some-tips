@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Upgraded Features of 3Rd Generation Apple AirPods: An In-Depth Analysis by ZDNET"
-date: 2024-12-18T00:14:00.946Z
-updated: 2024-12-21T03:47:58.750Z
+date: 2024-12-15T21:13:41.368Z
+updated: 2024-12-22T01:57:41.007Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,18 +191,18 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-exquisite-stardew-valley-enhancements-revealed-top-7/"><u>[New] Exquisite Stardew Valley Enhancements Revealed (Top 7)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-perfecting-the-art-of-online-broadcasts-utilizing-zoom-and-youtube-for-2024/"><u>[New] Perfecting the Art of Online Broadcasts Utilizing Zoom and YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-blurring-the-focus-bokeh-wonders-in-stories/"><u>[Updated] In 2024, Blurring the Focus Bokeh Wonders in Stories</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oneplus-12r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On OnePlus 12R without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-picture-perfection-the-finest-10-sites-reviewed-for-2024/"><u>Free Picture Perfection The Finest 10 Sites Reviewed for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/mastering-hue-transformations-expert-tactics-revealed/"><u>Mastering Hue Transformations Expert Tactics Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726220252063-movavi/"><u>Movavi 소프트웨어: 최고의 리뷰와 추천을 위해 선택하세요!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-razer-blackshark-v2-microphone-a-comprehhavisnce-on-troubleshooting-techniques/"><u>Reviving Your Razer Blackshark V2 Microphone: A Comprehhavisnce on Troubleshooting Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-non-functional-windows-11-keys/"><u>Tackling Non-Functional Windows 11 Keys</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-selecting-superior-ancestry-tracking-tools-top-10-picks/"><u>The Ultimate Guide to Selecting Superior Ancestry Tracking Tools (Top 10 Picks)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformacion-gratuita-de-archivos-aac-a-formatos-flac-en-linea-con-movavi/"><u>Transformación Gratuita De Archivos AAC a Formatos FLAC en Línea Con Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/trasforma-i-tuoi-file-wma-nel-formato-vob-senza-costi-movavi/"><u>Trasforma I Tuoi File WMA Nel Formato VOB Senza Costi - Movavi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726030394527-wmv/"><u>WMVビデオ編集手順：トリミングから回転までのテクニック</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quick-mac-mastering-screen-recording-via-shortcuts-for-2024/"><u>[New] Quick Mac Mastering Screen Recording via Shortcuts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unboxing-mastery-the-soundtrack-selection-guidebook/"><u>[New] Unboxing Mastery The Soundtrack Selection Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-the-power-of-social-proof-tips-to-amplify-brand-visibility/"><u>[New] Unleashing the Power of Social Proof Tips to Amplify Brand Visibility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-loop-maker-assembly/"><u>[Updated] Loop Maker Assembly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mac-users-manual-recording-high-quality-audio-with-audacity/"><u>[Updated] Mac Users' Manual Recording High-Quality Audio with Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-virtual-background-magic-a-streamers-guide-to-chroma-key/"><u>[Updated] Unveiling Virtual Background Magic A Streamer's Guide to Chroma Key</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-costlesscapture-revolutionizing-how-you-record-play/"><u>2024 Approved CostlessCapture Revolutionizing How You Record Play</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clarity-in-functionality-gpt4all-explored/"><u>Clarity in Functionality: GPT4All Explored</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-techniques-for-seamless-dell-monitor-driver-update/"><u>Expert Techniques for Seamless Dell Monitor Driver Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-launching-age-of-empires-iv-successfully-after-previous-issues/"><u>Expert Tips for Launching Age of Empires IV Successfully After Previous Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-find-n3-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Oppo Find N3 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-itel-p55plus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Itel P55+ Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instant-access-to-razer-mamba-drivers-a-quick-download-process/"><u>Instant Access to Razer Mamba Drivers – A Quick Download Process</u></a></li>
 </ul></div>
 

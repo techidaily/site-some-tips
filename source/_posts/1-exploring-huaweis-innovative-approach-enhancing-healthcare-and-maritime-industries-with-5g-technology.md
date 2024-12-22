@@ -1,7 +1,7 @@
 ---
 title: "1. Exploring Huawei's Innovative Approach: Enhancing Healthcare and Maritime Industries with 5G Technology"
-date: 2024-09-19 21:32:20
-updated: 2024-09-20 11:50:47
+date: 2024-12-18T18:12:26.754Z
+updated: 2024-12-21T21:30:53.614Z
 tags:
   - cloud
 categories:
@@ -45,6 +45,10 @@ This had added complexity as storage vendors currently adopted different data st
 
 It also was assessing how data should be secured and was exploring various options, including working with local telcos to roll out private [5G networks](https://www.zdnet.com/article/security-crucial-as-5g-connects-more-industries-devices/) and using VPNs. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Security critical when traditional, digital realms converge
 
 Cybersecurity risks will inevitably increase as traditional industries go through digital transformation and [OT (operational technology) systems converge with IT systems](https://www.zdnet.com/article/singapore-talks-up-ot-security-looks-to-add-medical-devices-to-labelling-scheme/), said Yue Kun, Huawei's CTO for smart road, waterway, and port. 
@@ -71,6 +75,10 @@ Singapore's container port operator, PSA is in the midst of [relocating its oper
 
 _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 2023 in Barcelona, Spain, on the invitation of Huawei Technologies._ 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Security crucial as 5G connects more industries, devices](https://www.zdnet.com/article/security-crucial-as-5g-connects-more-industries-devices/)
@@ -86,11 +94,31 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 202
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unparalleled-20-anime-series-themes/"><u>[New] Unparalleled 20 Anime Series Themes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-disguise-techniques-in-picart/"><u>[Updated] Disguise Techniques in PicArt</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-can-a-brief-subscribe-boost-your-content-viewing/"><u>[Updated] In 2024, Can a Brief Subscribe Boost Your Content Viewing?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-restore-lost-fb-watch-video-button/"><u>[Updated] Restore Lost FB Watch Video Button</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-linguistic-leaders-list-of-top-33-apps-that-turn-videos-into-text/"><u>[Updated] The Linguistic Leaders' List of Top 33 Apps That Turn Videos Into Text</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-slow-mo-with-these-android-hacks/"><u>2024 Approved Unlock the Power of Slow Mo with These Android Hacks</u></a></li>
+<li><a href="https://win-top.techidaily.com/conversion-rapide-installer-facilement-os-et-logiciels-sur-ssd-samsung-via-clonage-du-disque-dur-existant/"><u>Conversion Rapide : Installer Facilement OS Et Logiciels Sur SSD Samsung via Clonage Du Disque Dur Existant</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-gamesir-x2s-type-c-mousepad-ideal-for-all-hand-sizes/"><u>Expert Analysis of GameSir X2s Type-C Mousepad - Ideal for All Hand Sizes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expertise-in-iphones-high-dynamic-range-photography/"><u>Expertise in iPhone's High-Dynamic Range Photography</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-g42-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Nokia G42 5G Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-photo-editing-key-pixlr-insights/"><u>In 2024, Streamline Photo Editing Key Pixlr Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-comprehen-word-limit-reached-continuation-in-the-next-step/"><u>In 2024, The Comprehen... (Word Limit Reached, Continuation in the Next Step)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/simple-solutions-repairing-a-damaged-steam-game-disk-with-minimal-hassle/"><u>Simple Solutions: Repairing a Damaged Steam Game Disk with Minimal Hassle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fastest-methods-to-uncover-hidden-reddit-articles-for-2024/"><u>The Fastest Methods to Uncover Hidden Reddit Articles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-free-vfx-websites-for-2024/"><u>The Ultimate List of FREE VFX Websites for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleashing-creativity-with-the-new-apple-macbook-pro-16-inch-m2-max-chip-expert-review-zdnet/"><u>Unleashing Creativity with the New Apple MacBook Pro 16-Inch M2 Max Chip | Expert Review - ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-best-vr-game-engines-of-2023-for-2024/"><u>Unveiling the Best VR Game Engines of 2023 for 2024</u></a></li>
+</ul></div>
+

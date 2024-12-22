@@ -1,7 +1,7 @@
 ---
 title: Leveraging Artificnial Intelligence for Universal Music Streaming Success, Unveiled on ZDNet
-date: 2024-09-18 21:17:10
-updated: 2024-09-20 11:35:11
+date: 2024-12-20T21:33:37.014Z
+updated: 2024-12-21T22:48:11.646Z
 tags:
   - cloud
 categories:
@@ -98,6 +98,10 @@ I wanted the music to be _my_ music. Especially in this time of [generative AI](
 
 That said, while no AI was used in the creation or mixing of this music, I used the heck out of AI for the creation of album covers, website graphics, and related promotional text. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Album covers 
 
 The first step for which I turned to AI was in creating the album covers. In fact, it was the AI's work product that helped me refine the release strategy for my music. 
@@ -127,6 +131,10 @@ Eventually, I settled on this cover (I added the text in Photoshop), which was c
 David Gewirtz via Midjourney/ZDNET
 
 There are four additional images I'll be using over the next year, but you'll have to wait and see those when they are released with the music. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Identifying musical genres 
 
@@ -180,6 +188,10 @@ You can see the result on the House of the Head website, on [the bio page](https
 
 We'll be spending some more time there next. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The three types of AI website support 
 
 Most musicians need a website for promotion. It's a place where all the information needed by journalists, fans, and playlist curators can go to find out about your music. 
@@ -232,6 +244,10 @@ They're meant to convey an impression of the artist that's not exactly tied to t
 
 To pull it off, I spent a lot of time in [Midjourney](https://www.zdnet.com/article/how-to-use-midjourney-to-generate-amazing-images-and-art/), with the help of [Insight FaceSwap](https://insightface.ai/) and [Adobe Generative Fill](https://www.zdnet.com/article/how-to-use-photoshops-generative-fill-ai-tool-to-easily-transform-your-boring-photos/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Midjourney for the main profile image 
 
 Midjourney allows you to upload an image, which the tool will then incorporate into its AI generation of new images. I started with this basic image of me talking into a mic, which I've been using as my social media profile image. 
@@ -264,6 +280,10 @@ But I loaded the image into Photoshop, added more canvas space on either side of
 
 Sweet. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Faceswap for the hacker image 
 
 Since my music bio talked about my techie roots, I decided that it needed a picture of me with a keyboard. Rather than starting with the previous radio show image I used to generate my hero image, I used the Midjourney URL of the actual hero image itself. I then fed Midjourney a ton of prompts until I arrived at: 
@@ -287,6 +307,10 @@ Then, using the /swapid command, I uploaded the hacker image from above and let 
 The original is on the left. The face match version is on the right. Because the one on the left is also based on my face, they're similar. But the one on the right is a bit more me.
 
 David Gewirtz via Midjourney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Midjourney, FaceSwap, and Generative Fill for the car image 
 
@@ -383,11 +407,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-quintessential-stop-motion-gems-for-cinephiles/"><u>[New] 2024 Approved Quintessential Stop-Motion Gems for Cinephiles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-guide-to-blur-techniques-for-dynamic-artwork/"><u>[New] The Essential Guide to Blur Techniques for Dynamic Artwork</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-altering-voices-for-a-competitive-edge-in-free-fire/"><u>[New] The Ultimate Guide Altering Voices for a Competitive Edge in Free Fire</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-cutting-edge-text-motion-designs-for-2024/"><u>[Updated] Cutting-Edge Text Motion Designs for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-evaluating-youtubes-monthly-creator-payments/"><u>[Updated] Evaluating YouTube's Monthly Creator Payments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-creative-edge-advanced-tips-for-shooting-with-gopro-hero5-black/"><u>[Updated] The Creative Edge Advanced Tips for Shooting with GoPro Hero5 Black</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-vector-graphics-innovation-top-apps-to-transform-your-creations/"><u>[Updated] Vector Graphics Innovation Top Apps to Transform Your Creations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-avoiding-camera-induced-image-disruption/"><u>2024 Approved Avoiding Camera-Induced Image Disruption</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-convert-facebook-to-mp4-hack-for-quick-access/"><u>2024 Approved Convert Facebook to MP4 – Hack for Quick Access</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-hottest-8-video-clips-trending-today-online/"><u>2024 Approved The Hottest 8 Video Clips Trending Today Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/direct-to-pc-unplugged-controller-setup-guide/"><u>Direct-to-PC: Unplugged Controller Setup Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-rookie-riches-profitable-sites-for-beginnere-buyouts/"><u>In 2024, Rookie Riches Profitable Sites for Beginner'e Buyouts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-image-editing-luts-in-adobe-photoshop-cc/"><u>In 2024, Streamlining Image Editing LUTs in Adobe PhotoShop CC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-windows-11-audio-record-process/"><u>In 2024, The Complete Windows 11 Audio Record Process</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones/"><u>In 2024, Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-your-viewing-vlc-versus-mx-comparison-for-2024/"><u>Streamlining Your Viewing VLC Versus MX Comparison for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superbackground-cleanup-suite-for-2024/"><u>SuperBackground Cleanup Suite for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tamiltunes-handbook-downloading-and-trimming-melodies-for-calls-for-2024/"><u>TamilTunes Handbook Downloading & Trimming Melodies for Calls for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-apple-computers-a-comprehensive-guide-zdnet/"><u>Top-Rated Apple Computers : A Comprehensive Guide - ZDNet</u></a></li>
+</ul></div>
+

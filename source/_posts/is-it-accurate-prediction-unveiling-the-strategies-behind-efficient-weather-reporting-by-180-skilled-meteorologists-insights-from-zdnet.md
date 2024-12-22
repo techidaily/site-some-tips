@@ -1,7 +1,7 @@
 ---
 title: Is It Accurate Prediction? Unveiling the Strategies Behind Efficient Weather Reporting by 180 Skilled Meteorologists - Insights From ZDNet
-date: 2024-09-19 23:55:59
-updated: 2024-09-20 10:51:29
+date: 2024-12-14T17:44:38.862Z
+updated: 2024-12-21T23:21:39.792Z
 tags:
   - cloud
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/965ac34e7c203b27ce0e30a0e9c41cd225
 
 What's a good enough weather prediction? That's a question most people probably don't give much thought to, as the answer seems obvious -- an accurate one. But then again, most people are not CTOs at DTN. Lars Ewe is, and his answer may be different than most people's. With 180 meteorologists on staff providing weather predictions worldwide, [DTN](https://www.dtn.com/) is the largest weather company you've probably never heard of.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best extreme weather tech: Top gear for power outages Some of us like to go off the grid, while others find themselves forced off the grid. Having the right gear can make a huge difference.  Read now](https://www.zdnet.com/article/best-extreme-weather-tech/)
@@ -20,6 +24,10 @@ What's a good enough weather prediction? That's a question most people probably 
 Case in point: DTN is not included in ForecastWatch's "[Global and Regional Weather Forecast Accuracy Overview 2017 - 2020](https://www.forecastwatch.com/wp-content/uploads/Global%5Fand%5FRegional%5FWeather%5FForecast%5FAccuracy%5FOverview%5F2017-2020.pdf)." The report rates 17 weather forecast providers according to a comprehensive set of criteria, and a thorough data collection and evaluation methodology. So how come a company that started out in the 1980s, serves a global audience, and has always had a strong focus on weather, is not evaluated?
 
 * **See also:** [**US weather, climate forecasting is about to get way better**](https://www.zdnet.com/article/us-weather-climate-forecasting-is-about-to-get-way-better/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Weather forecast as a big data and internet of things problem
 
@@ -46,6 +54,10 @@ In many regards, weather forecasting today is really a big data problem. To some
 As a consequence, producing weather predictions does not just involve the domain expertise of meteorologists, but also the work of a team of data scientists, data engineers, and machine learning/DevOps experts. Like any big data and data science task at scale, there is a trade-off between accuracy and viability.
 
 * [**Best extreme weather tech 2022: Power outage gear**](https://www.zdnet.com/home-and-office/yard-outdoors/best-extreme-weather-tech/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Good enough weather prediction at scale
 
@@ -90,11 +102,28 @@ Coming full circle, Ewe noted that DTN's attention is focused on the company's d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-maximizing-facebook-viewability-with-ideal-verticalhorizontal-videos/"><u>[New] 2024 Approved Maximizing Facebook Viewability with Ideal Vertical/Horizontal Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-slick-facebook-downloaders-top-8-free-and-easy-online-accessories/"><u>[New] 2024 Approved Slick Facebook Downloaders Top 8 Free & Easy Online Accessories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-invisible-snapshotting-hidden-image-recording-on-snapchat/"><u>[New] In 2024, Invisible Snapshotting Hidden Image Recording on Snapchat</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-econo-audio-amps-for-youtubers-with-limited-dough/"><u>[Updated] Econo Audio Amps for Youtubers with Limited Dough</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-tech-savvy-gaming-windows-10-video-capture-tactics/"><u>[Updated] In 2024, Tech-Savvy Gaming Windows 10 Video Capture Tactics</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-linkedin-luminaries-chatting-with-snapchat/"><u>[Updated] LinkedIn Luminaries Chatting with Snapchat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-approach-expert-color-alteration-tactics/"><u>2024 Approved The Artisan's Approach Expert Color Alteration Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-adding-linktree-to-tiktok-bios/"><u>2024 Approved The Ultimate Guide to Adding Linktree to TikTok Bios</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-meme-design-props/"><u>In 2024, The Ultimate Guide to Meme Design Props</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-csgo-lag-and-improve-ping-performance-on-your-gaming-rig/"><u>Solve CS:GO Lag & Improve Ping Performance on Your Gaming Rig</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-1212-pro-protection-gear-ultimate-guide-zdnet/"><u>Top-Rated iPhone 12/12 Pro Protection Gear: Ultimate Guide - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-the-power-of-engaging-headline-crafting-for-2024/"><u>Unleash the Power of Engaging Headline Crafting for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-ultimate-iphone-selfie-sticks-8-for-2024/"><u>Unveiling the Ultimate IPhone Selfie Sticks (#8) for 2024</u></a></li>
+</ul></div>
+

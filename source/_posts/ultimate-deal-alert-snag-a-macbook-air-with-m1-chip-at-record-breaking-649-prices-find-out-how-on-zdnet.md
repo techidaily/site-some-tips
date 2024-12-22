@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Deal Alert: Snag a MacBook Air with M1 Chip at Record-Breaking $649 Prices – Find Out How on ZDNet!"
-date: 2024-12-18T00:30:23.643Z
-updated: 2024-12-20T23:29:45.971Z
+date: 2024-12-19T22:11:13.044Z
+updated: 2024-12-22T01:53:46.406Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,22 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-breaking-boundaries-top-6-artists-leading-nft-frontier/"><u>[Updated] In 2024, Breaking Boundaries Top 6 Artists Leading NFT Frontier</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tailoring-your-multi-task-experience-safe-area-and-pip-settings/"><u>[Updated] Tailoring Your Multi-Task Experience Safe Area & PIP Settings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-subtle-soundplayback/"><u>[Updated] The Art of Subtle Soundplayback</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-personalized-phone-tones-for-android-users/"><u>[Updated] The Ultimate Guide to Personalized Phone Tones for Android Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-securing-and-optimizing-virtual-meetings-with-zoom-on-windows-11/"><u>2024 Approved Securing and Optimizing Virtual Meetings with Zoom on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-finest-4-sites-for-tones/"><u>2024 Approved Unveiling the Finest 4 Sites for Tones</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-a2-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo A2 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dealing-with-non-responsive-microsoft-word-files-tips-and-solutions/"><u>Dealing with Non-Responsive Microsoft Word Files: Tips and Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-hp-laserjet-pro-m428fdw-printer-drivers-compatible-with-windows-10-11-and-7/"><u>Download HP LaserJet Pro M428fdw Printer Drivers: Compatible with Windows 10, 11 & 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-your-laptops-malfunctioning-microphone-step-by-step-guide/"><u>Fixing Your Laptop's Malfunctioning Microphone - Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-guide-for-downloading-and-updating-amd-smbus-drivers/"><u>Hassle-Free Guide for Downloading and Updating AMD SMBus Drivers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-initiate-internet-income-low-cost-youtube-channel-buys/"><u>In 2024, Initiate Internet Income Low-Cost YouTube Channel Buys</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-solution-for-stopping-youtube-video-previews/"><u>In 2024, The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
-<li><a href="https://win-latest.techidaily.com/protecting-information-integrity-comprehensive-instructions-for-pre-factory-reset-system-backups-on-computers/"><u>Protecting Information Integrity: Comprehensive Instructions for Pre-Factory Reset System Backups on Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-restore-functionality-of-a-defective-headset-mic/"><u>Quick Fixes to Restore Functionality of a Defective Headset Mic</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers-for-2024/"><u>Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-top-tales-youtubes-best-narrative-channels-this-year-for-2024/"><u>The Top Tales YouTube’s Best Narrative Channels This Year for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-invisible-social-signals-in-online-media-for-2024/"><u>Understanding Invisible Social Signals in Online Media for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/value-capture-affordable-cam-options-for-2024/"><u>Value Capture Affordable Cam Options for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-animation-advantage-boosting-profits-in-social-media-ads/"><u>[New] 2024 Approved The Animation Advantage Boosting Profits in Social Media Ads</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-effortless-steps-to-obtain-free-audio-for-videos/"><u>[New] In 2024, Effortless Steps to Obtain Free Audio for Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rofessional-audio-tactics-achieving-excellence-without-a-microphone-for-2024/"><u>[New] Professional Audio Tactics Achieving Excellence without a Microphone for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/iny-snippets-deciphered-important-facts-for-2024/"><u>[New] Tiny Snippets Deciphered Important Facts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-visionmaster-vs-screencapturer/"><u>[Updated] In 2024, VisionMaster vs ScreenCapturer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-smartphone-intro-maker-tools-choosing-the-right-one/"><u>[Updated] Smartphone Intro Maker Tools Choosing the Right One</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-expert-advice-for-aspiring-youtube-stars-the-art-of-reaction-videos-3-essential-steps/"><u>2024 Approved Expert Advice for Aspiring YouTube Stars - The Art of Reaction Videos (3 Essential Steps)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/identifying-genuine-interactions-distinguishing-authentic-chatgpt-communications-from-fake-ones/"><u>Identifying Genuine Interactions: Distinguishing Authentic ChatGPT Communications From Fake Ones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-apples-anticipated-vision-pro-glasses-a-comprehensive-review/"><u>Introducing Apple's Anticipated Vision Pro Glasses: A Comprehensive Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-stable-diffusion-3-next-level-ai-innovation-unveiled/"><u>Introducing Stable Diffusion 3: Next-Level AI Innovation Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-investing-in-a-virtual-reality-vr-headset-worth-it/"><u>Is Investing in a Virtual Reality (VR) Headset Worth It?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/join-the-universal-zero-cost-meta-vr-community-a-new-era-of-virtual-interaction-begins/"><u>Join the Universal, Zero-Cost Meta VR Community - A New Era of Virtual Interaction Begins!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-personalized-text-generation-emulating-your-writing-style-with-chatgpt/"><u>Mastering Personalized Text Generation: Emulating Your Writing Style with ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-your-creative-outputs-mastering-the-synergy-of-chatgpt-dall-e-ter-and-midjourney/"><u>Maximizing Your Creative Outputs: Mastering the Synergy of ChatGPT, Dall-E Ter, and MidJourney</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-disappointing-experience-with-online-car-shopping-at-carvana-vs-traditional-dealers/"><u>My Disappointing Experience with Online Car Shopping at Carvana Vs. Traditional Dealers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimal-hrt-for-sedimentation-tanks-ensures-effective-settling-of-particles/"><u>Optimal HRT for Sedimentation Tanks Ensures Effective Settling of Particles.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo Find N3 Flip | Dr.fone</u></a></li>
 </ul></div>
 

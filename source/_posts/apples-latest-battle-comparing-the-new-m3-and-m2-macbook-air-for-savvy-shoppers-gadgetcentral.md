@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the New M3 and M2 MacBook Air for Savvy Shoppers | GadgetCentral"
-date: 2024-12-18T02:11:21.436Z
-updated: 2024-12-21T02:52:26.151Z
+date: 2024-12-20T03:55:02.476Z
+updated: 2024-12-22T02:59:20.900Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
@@ -54,7 +54,7 @@ To help you make this decision, we've broken down all of the most important deta
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
@@ -65,10 +65,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -78,7 +74,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -100,7 +96,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
@@ -122,6 +118,10 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,17 +157,24 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-transform-stories-in-a-flash-free-extensions-and-mobile-magic/"><u>[New] 2024 Approved Transform Stories in a Flash – Free Extensions & Mobile Magic</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hidden-havens-of-hand-drawn-harmony-techniques/"><u>[Updated] Hidden Havens of Hand-Drawn Harmony Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elite-editing-selection-quality-software-for-youtubers/"><u>[Updated] In 2024, Elite Editing Selection Quality Software for YouTubers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-graphics-a-guide-to-a-flourishing-career/"><u>2024 Approved Mastering Graphics A Guide to a Flourishing Career</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-best-printing-experience-epson-xp-420-drivers-downloaded-here/"><u>Get the Best Printing Experience: Epson XP 420 Drivers Downloaded Here</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-enable-and-create-restore-points-in-windows-10/"><u>How to Enable and Create Restore Points in Windows 10?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-open-command-prompt-as-administrator-in-windows-11-8-and-81/"><u>How to Open Command Prompt as Administrator in Windows 11, 8 & 8.1</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-stop-avg-free-edition-2015-temporarily/"><u>How to Stop AVG Free Edition 2015 Temporarily</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-digital-sticky-notes-a-comprehensive-tutorial-for-microsoft-edge-users/"><u>Mastering Digital Sticky Notes: A Comprehensive Tutorial for Microsoft Edge Users</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-honor-magic-5-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor Magic 5? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-solutions-repairing-your-imessage-issues-on-iphoneipadmac/"><u>Quick Solutions: Repairing Your iMessage Issues on iPhone/iPad/Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/set-up-remote-desktop-connection-rdc-in-windows-11/"><u>Set up Remote Desktop Connection (RDC) in Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-boost-ig-content-three-steps-for-compelling-video-descriptions-for-2024/"><u>[New] Boost IG Content - Three Steps for Compelling Video Descriptions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-zooming-in-youtube-videos/"><u>[New] The Art of Zooming in YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-secret-to-love-in-video-editing-filmoras-best-aspects/"><u>[New] The Secret to Love in Video Editing Filmora's Best Aspects</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-embark-on-a-wanderlust-adventure-becoming-a-professional-travel-vlogger/"><u>[Updated] 2024 Approved Embark on a Wanderlust Adventure Becoming A Professional Travel Vlogger</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-iphone-tips-bringing-out-the-best-with-hdr-photography/"><u>[Updated] IPhone Tips Bringing Out the Best with HDR Photography</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-social-potential-xbox-games-via-facebook-livestream/"><u>[Updated] Unlock Social Potential Xbox Games via Facebook Livestream</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unraveling-best-practices-for-effective-fb-healthcare-promos/"><u>[Updated] Unraveling Best Practices for Effective FB Healthcare Promos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44cm44kq44oz44op44kk44oz5yuv55s75asj5oplusb44k144o844ot44k544ks5yip55so44gx44gf6zqb44gu44km44kk44or44k56kkr5a6z44gr44gk44ge44gm772e5lqi6ziy44go5zue6yg5pa55r27/"><u>「オンライン動画変換サービスを利用した際のウイルス被害について～予防と回避方法」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-studio-tracker-xvideoexploration/"><u>2024 Approved Ultimate Studio Tracker XVideoExploration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveil-clearer-visuals-essential-tips-for-zooming-on-snapchat/"><u>2024 Approved Unveil Clearer Visuals Essential Tips for Zooming on Snapchat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-top-9-webcam-filters-for-professional-streamers/"><u>2024 Approved Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/discovering-your-windows-11-license-code-a-step-by-step-guide/"><u>Discovering Your Windows 11 License Code: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-saving-photo-enhancement-adding-dates-to-pictures/"><u>In 2024, Time-Saving Photo Enhancement Adding Dates to Pictures</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210705711-9791029914324-life-and-destiny/"><u>Life and Destiny | Free Book</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-tutorial-for-impeccable-screen-recording-on-microsofts-latest-operating-systems/"><u>Step-by-Step Tutorial for Impeccable Screen Recording on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-strategy-to-seamlessly-upload-srt-subtitles-online/"><u>The Ultimate Strategy to Seamlessly Upload SRT Subtitles Online</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-honor-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor Android SIM Unlock APK</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-streaming-contenders-face-off-roku-vs-amazon-fire-tv-stick/"><u>Top Streaming Contenders Face-Off: Roku vs Amazon Fire TV Stick</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-photo-editing-potential-with-these-clever-pixlr-techniques-for-2024/"><u>Unlock Photo Editing Potential with These Clever Pixlr Techniques for 2024</u></a></li>
 </ul></div>
 

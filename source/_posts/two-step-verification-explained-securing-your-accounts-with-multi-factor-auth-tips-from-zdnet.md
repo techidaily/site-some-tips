@@ -1,7 +1,7 @@
 ---
 title: "Two-Step Verification Explained: Securing Your Accounts with Multi-Factor Auth, Tips From ZDNet"
-date: 2024-09-19 12:22:42
-updated: 2024-09-20 12:35:42
+date: 2024-12-17T17:31:12.490Z
+updated: 2024-12-22T03:31:03.569Z
 tags:
   - cloud
 categories:
@@ -77,6 +77,10 @@ When you set up this form of 2FA on an account for the first time, you're typica
 
 Some services allow you to set up a trusted email address to receive authentication codes. The process is identical to the one for using text messages. Enter your preferred email address, wait for a code to arrive in your email app, and enter the code to confirm that this method works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I set up 2FA with an authenticator app?
 
 To set up an authenticator app as a trusted device, you have to first prove that you can sign into the service using your password, then prove that you are who you say you are on the trusted device, using biometrics or a PIN.
@@ -114,6 +118,10 @@ Some 2FA settings include an option to generate special app passwords for use wi
 
 As part of the 2FA setup process, you should also generate one or more recovery codes, which you can print out and store in a safe place. In the event your smartphone is lost or damaged, you can use those codes to regain access to your account. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I transfer 2FA accounts to a new smartphone?
 
 If you use SMS text messages as a second factor for authentication, transferring your number to the new phone will seamlessly transfer your 2FA setup too.
@@ -130,6 +138,10 @@ Turning on 2FA for a service changes the security requirements, forcing you to p
 
 Most (but not all) services that support 2FA offer a choice of authentication methods. Google and Microsoft, for example, can both push notifications to a trusted device; you tap the notification to approve the sign-in. An increasing number of services support the use of hardware security keys (see: ["YubiKey hands-on: Hardware-based 2FA is more secure, but watch out for these gotchas."](https://www.zdnet.com/article/yubikey-hands-on-hardware-based-2fa-is-more-secure-but-watch-out-for-these-gotchas/))
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which authentication method is best?
 
 The best authentication method is the one you're most comfortable with, assuming you have a choice at all. Whenever possible, you should set up at least two verification options, to avoid the risk of being locked out of your account.
@@ -143,6 +155,10 @@ The most popular 2FA app is Google Authenticator, which is available on iOS and 
 Or maybe you don't need a dedicated authenticator app at all. Increasingly, password managers like [Bitwarden](https://bitwarden.com/help/authenticator-keys/) and [1Password](https://support.1password.com/one-time-passwords/) include the ability to generate 2FA codes and sync them along with the password repository.
 
 If you prefer, you can also mix and match authenticator apps on a trusted device. I use 1Password to save both passwords and 2FA codes for most sites and services, making sign-in even more seamless. However, I use the separate [Microsoft Authenticator](https://www.microsoft.com/en-us/account/authenticator) app for high-value accounts, including verification codes for setting up 1Password on a new device. I go into more detail about your authenticator app options here: ["Protect yourself: How to choose the right two-factor authenticator app."](https://www.zdnet.com/article/protect-yourself-how-to-choose-the-right-two-factor-authenticator-app/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I know which services support 2FA?
 
@@ -158,6 +174,10 @@ When I started writing about this technology, more than a decade ago, 2FA suppor
 2FA support is ubiquitous among social media services (Facebook, X/Twitter, Instagram, and so on). Every online storage service worth considering supports 2FA, as do most domain registrars and web hosting companies. If you're unsure about a specific service, the best place to check is a superb open source information repository called the [2FA Directory](https://2fa.directory/), which is run by a [Swedish nonprofit, the 2factorauth group](https://2fa.directory/about/), and [maintained on GitHub](https://github.com/2factorauth/twofactorauth).
 
 And if a high-value service you rely on doesn't support 2FA, well, maybe you should consider switching to one that does. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which services should I protect first?
 
@@ -203,11 +223,30 @@ You probably have login credentials at dozens of online services that support 2F
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-from-filming-to-fame-discovering-the-top-10-ladies-on-youtube/"><u>[New] 2024 Approved From Filming to Fame Discovering the Top 10 Ladies on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-seamless-youtube-experience-on-apple-gear-downloading-made-easy/"><u>[New] Seamless Youtube Experience on Apple Gear Downloading Made Easy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>[New] Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-earning-equations-decoding-the-mathematics-behind-youtube-income-monitoring-for-2024/"><u>[Updated] Earning Equations Decoding the Mathematics Behind YouTube Income Monitoring for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-debunking-myths-top-10-realities-of-instagram-reels/"><u>[Updated] In 2024, Debunking Myths Top 10 Realities of Instagram Reels</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-video-collage-app-how-to-make-split-screen-videos-for-2024/"><u>[Updated] Instagram Video Collage App How to Make Split Screen Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-laying-down-the-law-vegas-pro-21-edition-reviewed/"><u>[Updated] Laying Down the Law VEGAS Pro '21 Edition Reviewed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-art-of-facebook-video-coverage-standout-tips-and-tricks-for-2024/"><u>[Updated] The Art of Facebook Video Coverage Standout Tips & Tricks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-premier-guide-to-high-definition-android-viewing-tools/"><u>[Updated] The Premier Guide to High-Definition Android Viewing Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-zip-to-srt-file-transition/"><u>[Updated] Understanding the Zip to Srt File Transition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-ace-your-gameplay-innovative-tvs-to-boost-your-xbox-series-x-adventure/"><u>2024 Approved Ace Your Gameplay Innovative TVs to Boost Your Xbox Series X Adventure</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-latest-marvel-dive-into-rumored-specs-expected-price-point-and-release-date-of-the-new-apple-watch-series-x/"><u>Apple's Latest Marvel? Dive Into Rumored Specs, Expected Price Point, and Release Date of the New Apple Watch Series X!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-journey-to-zoom-mastery/"><u>In 2024, Streamline Your Journey to Zoom Mastery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-visionary-verdicts-expert-picks-for-the-top-10-cameras/"><u>In 2024, Visionary Verdicts Expert Picks for the Top 10 Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/instantaneous-installation-laugh-with-ifunny-memes-easily-for-2024/"><u>Instantaneous Installation Laugh with iFunny Memes Easily for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-critical-factors-for-upgrading-your-4k-lens-for-2024/"><u>The Critical Factors for Upgrading Your 4K Lens for 2024</u></a></li>
+</ul></div>
+

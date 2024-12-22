@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Analysis of WP Engine as a Reliable WordPress Hosting Solution – Insights From ZDNet
-date: 2024-09-19 12:19:52
-updated: 2024-09-20 12:35:14
+date: 2024-12-18T19:14:58.620Z
+updated: 2024-12-22T00:57:58.932Z
 tags:
   - cloud
 categories:
@@ -22,6 +22,10 @@ In this review, we're going to dive into [WP Engine's offerings](https://shareas
 Normally, to get a better feel for each individual provider, I set up the most basic account possible and performed a series of tests. But WP Engine is a more specialized host, primarily offering managed WordPress hosting.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## WP Engine at a glance
 
@@ -88,6 +92,10 @@ Screenshot by David Gewirtz/ZDNET
 
 Overall, the WordPress install in WP Engine was clean and without either muss or fuss. It's definitely workable. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The rest of the WP Engine dashboard 
 
 The first thing I like to do when looking at a new hosting provider is exploring their dashboard. Is it an old friend, like cPanel? Is it some sort of janky, barely configured open source, or homegrown mess? Or is it a carefully crafted custom dashboard? These are often the ones that worry me the most because they almost always hide restrictions that I'm going to have to work around somehow. 
@@ -105,6 +113,10 @@ All told, WP Engine seems to be quite comprehensive in terms of what it allows s
 This might also be a good place to mention that WP Engine produces the [Local WordPress hosting environment](https://localwp.com/), for hosting WordPress on your development machine. This product used to be Local by Flywheel before WP Engine acquired it. 
 
 I can personally attest to the quality of the Local implementation. As I mentioned in [my development tools article](https://www.zdnet.com/article/one-developers-favorite-mac-coding-tools-for-php-and-web-development/), I use Local every day for coding and maintenance of the WordPress plugins I manage. It's a very helpful tool. And, it's free. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Quick security checks with WP Engine
 
@@ -143,6 +155,10 @@ Also, Brent Stackhouse, VP of Security and IT at WP Engine, tells us:
 
 The bottom line is that WP Engine is on track for the core WordPress components and a little behind on supporting encryption and data transfer, but testing shows it's not far enough behind to cause a security threat. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Performance testing WP Engine
 
 Next, I wanted to see how the site performed using some online performance testing tools. It's important not to take these tests too seriously. These are just quick tests on a site with no traffic.
@@ -172,6 +188,10 @@ I say this a lot in my reviews, but take advantage of the money-back time period
 WP Engine does have 24/7/365 live chat support. I tried it out at 1 a.m. on a Sunday morning (what? I'm a night person) and found the support representative to be both knowledgeable and friendly.
 
 WP Engine offers a 60-day money-back guarantee. Here's a [blog post that explains how to cancel](https://wpengine.com/support/cancel/) the various types of service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Overall conclusion: No complaints
 
@@ -227,11 +247,31 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-insider-guide-to-listening-to-podcasts-on-your-iphone/"><u>[New] 2024 Approved The Insider Guide to Listening to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-chromebook-screenshot-hacks-in-four-steps-for-2024/"><u>[New] Chromebook Screenshot Hacks in Four Steps for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-branding-in-videos-incorporating-logoswatermarks-for-youtube-content/"><u>[New] In 2024, Branding in Videos Incorporating Logos/Watermarks for YouTube Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-quickest-windowed-image-analyzer/"><u>[New] Quickest Windowed Image Analyzer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-animation-styles-pack/"><u>[New] Ultimate Animation Styles Pack</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-collective-views-on-vllo/"><u>[New] Understanding Collective Views on VLLO</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-modern-techniques-for-gesture-interpretation/"><u>[New] Unveiling Modern Techniques for Gesture Interpretation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-insiders-handbook-acquiring-high-quality-cost-free-images/"><u>[Updated] The Insider's Handbook Acquiring High-Quality, Cost-Free Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transitioning-shadows-a-minute-later/"><u>[Updated] Transitioning Shadows A Minute Later</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-verdant-visualizations-compiling-30plus-free-screen-templates-for-videographers/"><u>[Updated] Verdant Visualizations Compiling 30+ Free Screen Templates for Videographers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-vlogger-vogue-launching-your-cosmetic-channel/"><u>2024 Approved The Ultimate Guide to Vlogger Vogue Launching Your Cosmetic Channel</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-methods-for-converting-flv-files-into-wav-format/"><u>Easy Methods for Converting FLV Files Into WAV Format</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-pc-audio-with-simple-techniques/"><u>In 2024, Streamline Your PC Audio with Simple Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-stunning-upcoming-intel-motherboard-gigabytes-z790-aorus-xtreme-x-with-gold-sockets-and-enormous-heatsinks/"><u>Introducing the Stunning Upcoming Intel Motherboard - Gigabyte's Z790 Aorus Xtreme X with Gold Sockets and Enormous Heatsinks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/leverage-likes-and-brands-to-boost-ig-income-for-2024/"><u>Leverage Likes and Brands to Boost IG Income for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-controllers-your-switchs-new-friends/"><u>PlayStation Controllers: Your Switch's New Friends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-your-graphics-card-potential-in-cyberpunk-2077-for-windows-11-users/"><u>Unlock Your Graphics Card Potential in Cyberpunk 2077 for Windows 11 Users</u></a></li>
+</ul></div>
+

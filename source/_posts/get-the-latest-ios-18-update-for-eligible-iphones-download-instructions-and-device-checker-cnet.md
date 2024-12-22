@@ -1,7 +1,7 @@
 ---
 title: Get the Latest iOS 18 Update for Eligible iPhones - Download Instructions and Device Checker | CNET
-date: 2024-12-16T03:01:11.647Z
-updated: 2024-12-20T23:24:40.607Z
+date: 2024-12-15T23:22:15.976Z
+updated: 2024-12-22T03:20:40.292Z
 tags:
   - apple
 categories:
@@ -33,16 +33,12 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -60,10 +56,6 @@ After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
@@ -74,6 +66,10 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Can you still download the iOS 18 public beta?
 
 You can always be part of the Apple Beta program to get the latest beta versions of iOS. Before you download a beta version of an operating system, you should have some housekeeping items in mind:
@@ -83,7 +79,7 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
@@ -96,6 +92,10 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -114,7 +114,7 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -161,20 +161,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-simplifying-gif-design-for-beginners/"><u>[New] Simplifying GIF Design for Beginners</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-slow-motion-spectrum-top-cams-reviewed-by-experts/"><u>[New] The Slow-Motion Spectrum Top Cams Reviewed by Experts</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-art-of-audio-integration-tunes-for-your-microsoft-slides-for-2024/"><u>[Updated] The Art of Audio Integration Tunes for Your Microsoft Slides for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unraveling-the-mystery-of-apples-new-ios-camera/"><u>[Updated] Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-roundup-unleashing-the-best-5-online-title-makers/"><u>2024 Approved The Ultimate Roundup Unleashing the Best 5 Online Title Makers</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/cookiebot-seamless-web-analytics-and-conversion-optimization-tool/"><u>Cookiebot: Seamless Web Analytics and Conversion Optimization Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-restoring-ethernet-connections-for-windows-10-and-7-computers/"><u>Diagnosing and Restoring Ethernet Connections for Windows 10 and 7 Computers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-redmi-k70-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi Redmi K70</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-elevate-views-and-subscribers-a-list-of-proven-youtube-techniques/"><u>In 2024, Elevate Views and Subscribers A List of Proven YouTube Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-basics-of-digital-imagery-sizes/"><u>In 2024, Unveiling the Basics of Digital Imagery Sizes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-and-understanding-shared-link-concept-in-gpt-3/"><u>Navigating and Understanding Shared Link Concept in GPT-3</u></a></li>
-<li><a href="https://some-tips.techidaily.com/supreme-creation-studio-test-for-2024/"><u>Supreme Creation Studio Test for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/swift-shadowing-in-1-minute-for-2024/"><u>Swift Shadowing in 1 Minute for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-complete-windows-10-hacks-playbook/"><u>The Complete Windows 10 Hacks Playbook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-hand-tracker-potential-guide-for-2024/"><u>Unlock Hand Tracker Potential Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-guiding-iphone-and-android-owners-to-fix-video-sending-problems-in-fb-chat/"><u>[New] Guiding iPhone & Android Owners to Fix Video Sending Problems in FB Chat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-and-enhance-your-filmmaking-an-intro-to-final-cut-pro/"><u>[New] Streamline and Enhance Your Filmmaking An Intro to Final Cut Pro</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-experts-handbook-for-srt-file-conversions-for-2024/"><u>[New] The Expert's Handbook for SRT File Conversions for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boost-creativity-how-to-use-movie-maker-on-windows-8/"><u>[Updated] Boost Creativity How to Use Movie Maker on Windows 8</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-fb-video-conversion-to-mp3-format/"><u>[Updated] Step-by-Step FB Video Conversion to MP3 Format</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-artists-chromatic-companion/"><u>[Updated] The Artist's Chromatic Companion</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-process-making-high-impact-educational-videos-on-youtube/"><u>[Updated] Unveiling the Process Making High-Impact Educational Videos on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tips-for-zoom-on-chrome-devices/"><u>2024 Approved Top Tips for Zoom on Chrome Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tuneful-texts-musical-infusion-on-whatsapp/"><u>2024 Approved Tuneful Texts Musical Infusion on WhatsApp</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-vector-insight-for-beginners-basic-forms-and-choice-tools/"><u>2024 Approved Vector Insight for Beginners Basic Forms and Choice Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975121669-access-the-newest-compatible-gigabyte-network-drivers-download-now/"><u>Access the Newest Compatible Gigabyte Network Drivers – Download Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-poco-c65-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Poco C65 Phone that is Locked?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-reimagining-mobile-photoshopping-iphone-x-insights/"><u>In 2024, Reimagining Mobile Photoshopping IPhone X Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tweaking-video-speed-settings-on-netflix-mobile-and-desktop-app/"><u>In 2024, Tweaking Video Speed Settings on Netflix Mobile & Desktop App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creativity-with-our-selection-of-18-premier-cam-recording-apps/"><u>In 2024, Unleash Creativity with Our Selection of #18 Premier Cam Recording Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ase-clicks-and-watch-time-with-best-in-class-thumbnails-for-youtube/"><u>Increase Clicks and Watch Time with Best-in-Class Thumbnails for YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/filmed-flair-tips-for-captivating-solo-videos-for-2024/"><u>Self-Filmed Flair Tips for Captivating Solo Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swinging-sparrow-suites-for-2024/"><u>Swinging Sparrow Suites for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-creative-potential-with-top-rated-gif-makers-for-2024/"><u>Unlocking Creative Potential with Top-Rated GIF Makers for 2024</u></a></li>
 </ul></div>
 

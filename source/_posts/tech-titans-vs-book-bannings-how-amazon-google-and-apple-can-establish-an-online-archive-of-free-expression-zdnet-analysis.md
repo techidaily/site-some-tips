@@ -1,7 +1,7 @@
 ---
 title: "Tech Titans Vs. Book Bannings: How Amazon, Google, and Apple Can Establish an Online Archive of Free Expression | ZDNet Analysis"
-date: 2024-09-19 23:39:20
-updated: 2024-09-20 11:27:13
+date: 2024-12-20T20:55:36.058Z
+updated: 2024-12-21T19:49:58.552Z
 tags:
   - cloud
 categories:
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/cc7f1b37ab48f04be05ddbd8e5dcdb53a3b08ee53
 
 Hardly a day goes by when we don't hear from a school or library somewhere in the United States that they've removed a book [from circulation](http://blog.archive.org/2021/11/24/as-calls-to-ban-books-intensify-digital-librarians-offer-perspective/) following complaints from parents or constituents. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Close-up of an older woman making a video call on her Amazon Fire HD 10 tablet](https://www.zdnet.com/a/img/resize/6bdb7e14441d186907874239c1c732cb2cd64744/2022/08/01/9ca7b5c8-47e7-4e90-817f-8491229fe0c4/amazon-fire-hd-10-2.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Last week, in a school district in Tennessee, it was [the removal of MAUS](https://slate.com/human-interest/2022/01/maus-banned-tennessee-holocaust-graphic-novel.html), the Pulitzer Prize-winning graphic novel by Art Spiegelman, that retells the Holocaust story through the eyes of mice oppressed by fascist cats. 
 
@@ -66,11 +74,31 @@ Do the e-book giants need to fight book banning by taking the battle to the digi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-essential-guide-to-the-top-6-head-mounted-gopro-options/"><u>[New] Essential Guide to the Top 6 Head-Mounted GoPro Options</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-charisma-techniques-for-amplifying-youtube-visibility/"><u>[New] In 2024, Channel Charisma Techniques for Amplifying YouTube Visibility</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-top-80s-cinematic-elements-for-modern-editing/"><u>[Updated] 2024 Approved Top 80S Cinematic Elements for Modern Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-sound-speeds-in-spotify-without-compromise/"><u>[Updated] Streamlining Sound Speeds in Spotify Without Compromise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-transferring-tunes-between-platforms/"><u>[Updated] The Art of Transferring Tunes Between Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-riders-eye-view-unveiling-23s-finest-action-camera-hats-for-bike-enthusiasts/"><u>2024 Approved The Rider's Eye View – Unveiling '23’S Finest Action Camera Hats for Bike Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-twitch-loophole-reviving-forgotten-chats/"><u>2024 Approved The Twitch Loophole Reviving Forgotten Chats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-secure-cloud-stores-for-your-android-compiled/"><u>2024 Approved Top Secure Cloud Stores for Your Android - Compiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-images-basic-tips-with-lunapic/"><u>2024 Approved Transform Your Images Basic Tips with LunaPic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-art-of-flawless-instantaneous-iphone-podcast-downloads/"><u>2024 Approved Unlocking the Art of Flawless, Instantaneous iPhone Podcast Downloads</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-resolving-windows-audio-glitches-error-code-9999/"><u>Efficiently Resolving Windows Audio Glitches: Error Code 9999</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-with-excellence-the-ultimate-guide-to-motivational-films/"><u>Elevate with Excellence The Ultimate Guide to Motivational Films</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-perform-a-total-clean-sweep-of-your-inbox-in-the-gmail-app/"><u>How to Perform a Total Clean Sweep of Your Inbox in the Gmail App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mac-dvdtop5/"><u>Mac DVD作成最強無料ソフト集！必見のTop5選💿</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-here-you-will-find-top-10-best-free-and-paid-final-cut-pro-x-alternatives-that-you-can-use-on-windows-mac-or-linux-computer-for-2024/"><u>New Here, You Will Find Top 10 Best Free and Paid Final Cut Pro X Alternatives that You Can Use on Windows, Mac or Linux Computer for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/step-by-step-process-converting-vms-to-isos-best-practices-and-workarounds/"><u>Step-by-Step Process: Converting VMS to ISOs – Best Practices & Workarounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/text-temporal-tinkering-tools-for-2024/"><u>Text Temporal Tinkering Tools for 2024</u></a></li>
+</ul></div>
+

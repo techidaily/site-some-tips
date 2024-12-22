@@ -1,7 +1,7 @@
 ---
 title: The Latest Transformation of My Google Enterprise Cloud Storage Solution Explained
-date: 2024-09-19 22:48:42
-updated: 2024-09-20 12:41:19
+date: 2024-12-16T22:12:26.865Z
+updated: 2024-12-21T17:25:56.707Z
 tags:
   - cloud
 categories:
@@ -39,6 +39,10 @@ You can catch up on the history of my deep dive into the situation here:
 * [Re-homing G Suite storage: No, you can't find out how much storage your folders use](https://www.zdnet.com/article/re-homing-g-suite-storage-no-you-cant-find-out-how-much-storage-your-folders-use/)
 * [Re-homing G Suite storage: Enterprise plan options seem unnecessarily murky](https://www.zdnet.com/article/re-homing-g-suite-storage-why-the-enterprise-plan-options-seem-unnecessarily-murky/)
 * [Why my two-person company bought a Google Workspace Enterprise plan](https://www.zdnet.com/article/why-my-two-person-company-bought-a-google-workspace-enterprise-plan/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Backgrounder
 
@@ -83,6 +87,10 @@ And yes, I knew it might all go bad. I said as much, too:
 > In the meantime, I hope we've at least bought ourselves a couple of years before having to address the cloud storage problem again. 
 
 18 months. I got 18 months, almost to the day. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  SitRep (situation report) 
 
@@ -130,11 +138,19 @@ Twelve hours later, this appeared in my inbox:
 
 I tried rescheduling. It's now been four days. I've sent two additional email requests to have that phone conversation he wanted, and still no further response. That's where the situation lives right now. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The rest of the story
 
 Roughly 12 hours after I first posted this article, a senior technician from Google Workspace Support reached out to tell me my storage had been increased by another 25TB and the freeze warning was shut off. I'd like to think this was just their process and not the result of my article, but we'll never know. 
 
 Nonetheless, needing 10TB+ more storage every year clearly isn't sustainable, so I'm going to audit my backup use and see if there's any way I can reduce my overall storage footprint.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What I'm going to do about it 
 
@@ -167,6 +183,10 @@ Screenshot by David Gewirtz/ZDNET
 My current plan is to delete the entire Cloud Backup directory. Although I have no way of knowing how much is stored there until I delete it, I'm guessing it's probably roughly half of the overall storage footprint. I'm still backing up, in that I have mirrors of the local servers. The only thing I won't have is the ability to roll back a backup and recover older, lost data. 
 
 That's certainly not ideal, but faced with the choice of having my entire Google infrastructure frozen on August 26, or giving up on backup rollbacks, I guess I'll give up on backup rollbacks. I still have all my local backups. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  My one remaining worry and thoughts about what this all means 
 
@@ -209,11 +229,33 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-first-captured-visual-saga-critique-with-alternate-views/"><u>[New] 2024 Approved First Captured Visual Saga Critique with Alternate Views</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-ultimate-showdown-midnight-warrior-vs-sunlight-champion/"><u>[New] 2024 Approved The Ultimate Showdown Midnight Warrior vs Sunlight Champion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-mastering-overlay-techniques-for-video-and-image-enhancement-with-windows-10/"><u>[New] Mastering Overlay Techniques for Video and Image Enhancement with Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-supernatural-video-slowdown-handbook/"><u>[New] Supernatural Video Slowdown Handbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-syncopation-and-screenplay-directing-music-videos-with-ios/"><u>[New] Syncopation & Screenplay Directing Music Videos with iOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncovering-8-superior-online-srt-translation-tools/"><u>[New] Uncovering 8 Superior Online SRT Translation Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-creativity-harnessing-the-full-potential-of-movie-maker-windows-8/"><u>[New] Unleashing Creativity Harnessing the Full Potential of Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-obs-scheduling-mastery-implementing-a-countdown-clock-for-2024/"><u>[Updated] Obs Scheduling Mastery Implementing a Countdown Clock for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-incorporating-s2t-features-into-ppt/"><u>2024 Approved The Art of Incorporating S2T Features Into PPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-selection-best-photo-frame-software/"><u>2024 Approved The Artisan's Selection Best Photo Frame Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-top-hdr-camera-brands-and-features/"><u>2024 Approved Unraveling Top HDR Camera Brands and Features</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-honor-magic-vs-2-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-power-and-efficiency-intel-unveils-high-performance-bean-canyon-nucs/"><u>Enhanced Power and Efficiency: Intel Unveils High-Performance Bean Canyon NUCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-edge-2023-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Edge 2023 Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essentials-of-crafting-impactful-spotify-ads/"><u>In 2024, The Essentials of Crafting Impactful Spotify Ads</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-motorola-moto-g34-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Motorola Moto G34 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fastest-way-to-scan-windows-files-for-2024/"><u>The Fastest Way to Scan Windows Files for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-methods-for-effective-youtube-transcoding/"><u>Top 10 Methods for Effective YouTube Transcoding</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlock-the-power-of-personal-narratives-master-facebook-bios-for-maximum-impact/"><u>Unlock the Power of Personal Narratives Master Facebook Bios for Maximum Impact</u></a></li>
+</ul></div>
+

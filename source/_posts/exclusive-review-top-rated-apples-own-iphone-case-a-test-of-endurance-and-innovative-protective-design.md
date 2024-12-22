@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Review: Top-Rated Apple's Own iPhone Case - A Test of Endurance & Innovative Protective Design"
-date: 2024-12-17T19:41:38.964Z
-updated: 2024-12-21T03:35:42.890Z
+date: 2024-12-18T00:10:39.412Z
+updated: 2024-12-21T17:35:32.302Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ When I upgraded to the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-
 [ZDNET RECOMMENDS Tech21 FlexPro Tech21's FlexPro is one of the most advanced cases on the market, combining sustainability with amazing impact protection, boasting an impressive 20ft FlexShock multi-drop feature. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tech 21 FlexPro features
@@ -90,7 +90,7 @@ This case can also take quite a beating. In the few months that I've owned the i
 For the record, I'm using a screen protector for added durability. I think this case is certainly one of the best I've tested in a long time, and the first in quite a while that I felt compelled to write about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -129,18 +129,18 @@ My testing suggests cases don't get much better than the [Tech 21's FlexPro](htt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-secrets-unveiled-top-five-mac-techniques-for-capturing-gameplay-for-2024/"><u>[New] Secrets Unveiled Top Five Mac Techniques for Capturing Gameplay for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/outube-snippets-guide-essential-info-inside/"><u>[New] YouTube Snippets Guide Essential Info Inside</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-mastering-photo-enhancement-with-complete-guide-to-facetune/"><u>[Updated] Mastering Photo Enhancement with Complete Guide to Facetune</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tales-that-echo-through-time-top-8-halls-for-storytellers/"><u>[Updated] Tales That Echo Through Time Top 8 Halls for Storytellers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-10-online-stores-for-personalized-box-designs/"><u>[Updated] Top 10 Online Stores for Personalized Box Designs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transform-srt-to-video-top-10-free-subtitle-tools/"><u>[Updated] Transform SRT to Video - Top 10 FREE Subtitle Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-you-authentically-enjoy-immersive-dolby-atmos-surround-sound/"><u>Can You Authentically Enjoy Immersive Dolby Atmos Surround Sound?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-integration-blocked-for-win10-device/"><u>Graphics Integration Blocked for Win10 Device</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-tecno-pova-5-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Tecno Pova 5 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-f23-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo F23 5G Bootloader Easily</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-wonders-mastering-firefox-x-pie-mode/"><u>In 2024, Unveiling the Wonders Mastering Firefox X-Pie Mode</u></a></li>
-<li><a href="https://some-tips.techidaily.com/strengthening-your-presence-networking-techniques-for-youtubers-for-2024/"><u>Strengthening Your Presence Networking Techniques for YouTubers for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtualblender-for-all-operating-systems/"><u>VirtualBlender for All Operating Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-voice-over-text-made-easy-choosing-the-best-mac-translation-software/"><u>[New] In 2024, Voice Over Text Made Easy Choosing the Best Mac Translation Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-mastering-mobile-camera-best-android-practices/"><u>[Updated] 2024 Approved Mastering Mobile Camera Best Android Practices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-realme-12-proplus-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparando-a-eficiencia-de-extracao-7-zip-winrar-e-winzip-explicados/"><u>Comparando a Eficiência De Extração: 7-Zip, WinRAR E WinZip Explicados</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guia-facil-de-reproducir-archivos-mp4-en-sistemas-operativos-windows-10-8-y-7/"><u>Guía Fácil De Reproducir Archivos MP4 en Sistemas Operativos Windows 10, 8 Y 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-zoom-beszelgetesek-bevezetesenek-szuksegtelen-gyakorlati-tizenletenek-tanacsa/"><u>Movavi Zoom Beszélgetések Bevezetésének Szükségtelen Gyakorlati Tizenlétének Tanácsa</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/wing-down-the-video-platform-wars-youtube-shorts-against-tiktok-for-2024/"><u>Narrowing Down the Video Platform Wars YouTube Shorts Against TikTok for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-record-your-desktop-like-a-pro-a-filmora-scrn-guide/"><u>New Record Your Desktop Like a Pro A Filmora Scrn Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformer-un-fichier-aiff-en-format-wmv-gratuitement-facile-et-rapide-avec-movavi/"><u>Transformer Un Fichier AIFF en Format WMV Gratuitement - Facile Et Rapide Avec Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-your-video-potential-with-free-enhancers-for-2024/"><u>Unleash Your Video Potential with Free Enhancers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlock-the-power-of-slow-mo-with-these-android-hacks/"><u>Unlock the Power of Slow Mo with These Android Hacks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
 </ul></div>
 

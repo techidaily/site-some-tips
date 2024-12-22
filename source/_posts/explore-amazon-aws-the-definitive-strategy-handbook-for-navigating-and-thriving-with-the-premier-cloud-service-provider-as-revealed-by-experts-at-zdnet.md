@@ -1,7 +1,7 @@
 ---
 title: "Explore Amazon AWS: The Definitive Strategy Handbook for Navigating and Thriving with the Premier Cloud Service Provider, as Revealed by Experts at ZDNet"
-date: 2024-09-18 10:22:58
-updated: 2024-09-20 12:29:57
+date: 2024-12-20T21:07:50.025Z
+updated: 2024-12-21T22:38:24.876Z
 tags:
   - cloud
 categories:
@@ -94,6 +94,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Faws-the-guide-to-the-worlds-most-powerful-cloud-service%2F&title= "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Faws-the-guide-to-the-worlds-most-powerful-cloud-service%2F "Twitter") 
@@ -157,6 +161,10 @@ Amazon did not invent this business model. Engineers and business visionaries di
 
 * [How Amazon exposed its guts: The history of AWS' EC2](https://www.zdnet.com/article/how-amazon-exposed-its-guts-the-history-of-awss-ec2/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  How AWS' cloud business model works today 
 
 While AWS still hosts VM-based Web sites, its modern business model is centered around delivering functionality to individuals and organizations, using the Web as its transit medium. Here, we mean "the Web" in its technical sense: the servers that use HTTP and HTTPS protocols to transact, and to exchange data packets. Folks often talk about the Web as the place where ZDNet is published. But modern software communicates with its user through the Web. 
@@ -179,6 +187,10 @@ Most importantly today, no CSP is forced to offer its services from some remote 
 * [SaaS, PaaS, and IaaS: Understand the differences](https://www.zdnet.com/article/saas-paas-and-iaas-understand-the-differences/)
 * [What is an 'edge cloud?' The wild card that could upend the cloud](https://www.zdnet.com/article/what-is-an-edge-cloud-the-wild-card-that-could-upend-the-cloud/)
 * [AWS Outposts brings AWS cloud hardware on-premises](https://www.zdnet.com/article/aws-outpost-brings-its-cloud-hardware-on-premises/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  What is AWS' place in a multicloud environment? 
 
@@ -203,6 +215,10 @@ Amazon
 It surprises some to learn that an AWS account is not an Amazon account with extra privileges. It's a security account that centralizes the access you're given to AWS services, and associates that access with a billable address. Not a shipping address, like a destination for goods ordered from Amazon.com, but rather a login like the one you may use for Windows. 
 
 There are ways you can use this AWS account to launch yourself into the AWS space without much, or quite likely without any, monetary investment. For the first year of each account, AWS sets aside 750 hours of free usage per month (also known as "the entire month") of a Linux- or Windows-based **t2.micro** virtual machine instance, which is configured like a single-CPU PC with 1 GB of RAM. Using that instance as a virtual server, you're free to set up an instance of an Amazon RDS relational database with up to 20 GB of storage, plus another 5 GB of standard S3 object storage. (You'll see more about these basic services momentarily.) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Where can you learn how to use AWS? 
 
@@ -247,6 +263,10 @@ You then pay for the resources that instance uses, literally on a _per-second_ b
 
 * [AWS' Mac EC2 instances now support macOS Big Sur](https://www.zdnet.com/article/aws-mac-ec2-instances-now-support-macos-big-sur/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Elastic Container Service 
 
 Virtual machines gave organizations a way to deliver functionality through the Internet without having to change the way their applications were architected. They still "believe" they're running in a manufactured server. 
@@ -276,6 +296,10 @@ If AWS were to charge one flat fee for data retrieval — say, per megabyte down
 * [Amazon unveils automatic archive to deep storage for AWS S3, and a bevy of other storage enhancements](https://www.zdnet.com/article/amazon-unveils-automatic-archive-to-deep-storage-for-aws-s3-and-a-bevy-of-other-storage-enhancements/)
 * [AWS: S3 storage now holds over 100 trillion objects](https://www.zdnet.com/article/aws-s3-storage-now-holds-over-100-trillion-objects/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  AWS database services 
 
 Here's where Amazon adds a third turnstile to the data model: by offering database engines capable of utilizing the data stored in S3 buckets. An AWS database engine is a specialized instance type: a VM image in which the database management system is already installed. 
@@ -291,6 +315,10 @@ Since data is always being reconstructed as a matter of course, any loss of data
 **LEARN MORE:**
 
 * [AWS starts gluing the gaps between its databases](https://www.zdnet.com/article/aws-starts-gluing-the-gaps-between-its-databases/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Amazon Redshift 
 
@@ -363,11 +391,33 @@ So if you have, say, an open source content management system compiled to run in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-inverted-screen-changing-video-ordering/"><u>[New] Inverted Screen Changing Video Ordering</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-path-to-larger-video-presentation-in-youtube/"><u>[New] The Path to Larger Video Presentation in YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-cutting-edge-creativity-choosing-high-quality-camera-lenses/"><u>[Updated] 2024 Approved Cutting Edge Creativity Choosing High-Quality Camera Lenses</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-building-your-screencasting-skills-from-the-ground-up-for-2024/"><u>[Updated] Building Your Screencasting Skills From the Ground Up for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhance-your-images-choosing-great-border-options-on-ig-for-2024/"><u>[Updated] Enhance Your Images Choosing Great Border Options on IG for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-enhanced-experience-of-movavi-video-pro/"><u>[Updated] The Enhanced Experience of Movavi Video Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skyline-success-on-iphone-top-landscape-shots-techniques/"><u>2024 Approved Skyline Success on iPhone Top Landscape Shots Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-instagram-image-addition-playbook/"><u>2024 Approved The Instagram Image Addition Playbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-turning-live-radio-into-a-personal-archive-step-by-step-instructions/"><u>2024 Approved Turning Live Radio Into a Personal Archive Step-by-Step Instructions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-podcast-rankings-seo-techniques-uncovered/"><u>2024 Approved Ultimate Podcast Rankings SEO Techniques Uncovered</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-inner-meme-maestro-with-these-9gag-insights/"><u>2024 Approved Unlock Your Inner Meme Maestro with These 9GAG Insights</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/aktualisierung-ihrer-alten-festplatte-schritt-fur-schritt-anleitung-zum-ausschneiden-und-einfugen-von-daten/"><u>Aktualisierung Ihrer Alten Festplatte: Schritt-Für-Schritt-Anleitung Zum Ausschneiden Und Einfügen Von Daten</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/banish-flickering-effect-in-visuals/"><u>Banish Flickering Effect in Visuals</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-redmi-note-12-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Redmi Note 12 Pro 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-media-lens-adjustment-software/"><u>In 2024, Media Lens Adjustment Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-selection-budget-friendly-4k-cameras-(1k/"><u>In 2024, Ultimate Selection Budget-Friendly 4K Cameras <$1K</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-best-front-row-activities-that-arent-games/"><u>The Best Front-Row Activities That Aren't Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-zip-to-srt-file-transition-for-2024/"><u>Understanding the Zip to Srt File Transition for 2024</u></a></li>
+</ul></div>
+

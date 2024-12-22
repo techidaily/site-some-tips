@@ -1,7 +1,7 @@
 ---
 title: How China Plans to Harness Supercomputing Power for a Swiftly Advancing Digital Era - Analysis by ZDNet
-date: 2024-09-19 22:38:35
-updated: 2024-09-20 11:40:41
+date: 2024-12-14T16:21:10.796Z
+updated: 2024-12-21T21:36:47.635Z
 tags:
   - cloud
 categories:
@@ -68,11 +68,37 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-ultimate-budget-friendly-high-definition-action-cams/"><u>[New] 2024 Approved Ultimate Budget-Friendly High Definition Action Cams</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-transform-your-vids-for-social-scenes-with-tunes-for-2024/"><u>[New] Transform Your Vids for Social Scenes With Tunes for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweet-titans-social-networks-10-most-shared-posts-for-2024/"><u>[New] Tweet Titans Social Network’s 10 Most Shared Posts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-cropping-settings-in-digital-editors/"><u>[New] Understanding Cropping Settings in Digital Editors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-screenshot-success-a-guide-to-capturing-your-display/"><u>[Updated] In 2024, Screenshot Success A Guide to Capturing Your Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-unusual-upward-turning-of-ig-video-images/"><u>[Updated] The Unusual Upward Turning of IG Video Images</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-elevated-experiences-through-listening-to-podcasts/"><u>2024 Approved Elevated Experiences Through Listening to Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-pinnacle-of-scripts-across-the-cinematic-universes-sections/"><u>2024 Approved The Pinnacle of Scripts Across the Cinematic Universe's Sections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-sound-savvy-mastering-podcast-playback-on-iphones/"><u>2024 Approved The Sound Savvy Mastering Podcast Playback on iPhones</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-lava-storm-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Lava Storm 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>In 2024, Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-error-messages-a-comprehnive-solution-for-the-absence-of-binkw32dll-file/"><u>Overcoming Error Messages: A Comprehnive Solution for the Absence of Binkw32.dll File</u></a></li>
+<li><a href="https://some-tips.techidaily.com/photos-that-speak-volumes-starting-with-lunapics-tutorial-for-2024/"><u>Photos That Speak Volumes Starting with LunaPic's Tutorial for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-non-receipt-issues-for-your-inbox-on-yahoo-mail-platform/"><u>Resolving Non-Receipt Issues for Your Inbox on Yahoo Mail Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-hand-tracking-encyclopedia-for-2024/"><u>The Complete Hand-Tracking Encyclopedia for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-most-reliable-and-affordable-passport-photo-makers-ranked-for-2024/"><u>The Most Reliable and Affordable Passport Photo Makers Ranked for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-skyward-voyage-of-gopro-karma-analysis-for-2024/"><u>The Skyward Voyage of GoPro Karma Analysis for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/troubleshooting-character-set-challenges-for-list-boxes-in-emeditor-text-editor/"><u>Troubleshooting Character Set Challenges for List Boxes in EmEditor Text Editor</u></a></li>
+<li><a href="https://win-docs.techidaily.com/understanding-the-danger-methods-of-email-borne-malware-proliferation-and-effective-defense-strategies/"><u>Understanding the Danger: Methods of Email-Borne Malware Proliferation & Effective Defense Strategies</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

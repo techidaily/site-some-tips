@@ -1,7 +1,7 @@
 ---
 title: "Transforming Google Tasks Into a Kanban System: A Guide Using TasksBoard - Tips & Tricks"
-date: 2024-09-17 23:51:19
-updated: 2024-09-20 10:42:57
+date: 2024-12-15T00:56:54.239Z
+updated: 2024-12-21T19:32:14.246Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-streamlining-access-to-fb-live-via-roku/"><u>[New] 2024 Approved Streamlining Access to FB Live via Roku</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-adding-youtube-music-to-video-for-2024/"><u>[New] Adding YouTube Music To Video for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlined-method-windows-clown-fish-audio-tweaker/"><u>[New] Streamlined Method Windows Clown Fish Audio Tweaker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-vectors-demystified-starting-point-and-software-selection-tips/"><u>[New] Vectors Demystified Starting Point & Software Selection Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-financial-frontier-youtubes-pay-structure-at-the-1m-mark/"><u>[Updated] 2024 Approved The Financial Frontier Youtube's Pay Structure at the 1M Mark</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-capture-the-moment-in-squares-mastering-imovie-for-instagram-video/"><u>[Updated] In 2024, Capture the Moment in Squares Mastering iMovie for Instagram Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-for-crafting-top-charting-youtube-titles/"><u>[Updated] Ultimate Guide for Crafting Top-Charting YouTube Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-free-top-ranked-image-overlays-for-androidandios/"><u>2024 Approved Ultimate FREE Top-Ranked Image Overlays for Android&iOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-volume-decrease-effects-within-audacity/"><u>2024 Approved Utilizing Volume Decrease Effects Within Audacity</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/masterclass-of-marksmen-select-7-superior-fps-for-2024/"><u>Masterclass of Marksmen Select 7 Superior FPS for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/seeking-truth-in-hate-for-global-network-engagement-tools/"><u>Seeking Truth in Hate for Global Network Engagement Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-missing-camera-in-windows-11/"><u>Troubleshooting Missing Camera in Windows 11</u></a></li>
+</ul></div>
+

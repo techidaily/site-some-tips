@@ -1,7 +1,7 @@
 ---
 title: "Achieving Synergy: The Journey of Tying Tech Innovations with Corporate Strategy"
-date: 2024-09-18 16:53:44
-updated: 2024-09-20 10:24:20
+date: 2024-12-15T00:57:14.811Z
+updated: 2024-12-22T00:09:53.156Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/b97dc23b10dda7eac6c715a762ae77f278d32f493
 Business-IT alignment has been a dream talked up for decades by analysts, speakers, technologists and business leaders. Did the Covid situation finally force things into alignment? 
 
 Look to the growing emphasis on customer experience (CX) among technology staffs, which has moved their priorities from the care and feeding of back-end systems to the care and feeding of actual customers. Not every organization is quite there yet, and many tech professionals still feel cut off from the final delivery of products and services to consumers. Nevertheless, the world of tech is changing, requiring new mindsets and ways of working -- including greater collaboration and greater empathy. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -43,11 +47,29 @@ We may eventually see the day when tech and business priorities are indistinguis
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-expert-iphone-photography-using-hdr/"><u>[New] Expert iPhone Photography Using HDR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-monitors-unveiled-the-ultimate-guide-for-sourcing-a-stellar-4k-screen/"><u>[New] Monitors Unveiled The Ultimate Guide for Sourcing a Stellar 4K Screen</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unique-30-names-that-skyrocket-your-tiktok-popularity/"><u>[New] Unique 30 Names That Skyrocket Your TikTok Popularity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-premium-free-srt-translation-services/"><u>[New] Unveiling Premium Free SRT Translation Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-choosing-video-aspect-ratios/"><u>[Updated] The Art of Choosing Video Aspect Ratios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-comprehensive-guide-to-editing-hauls-for-online-audiences/"><u>[Updated] The Comprehensive Guide to Editing Hauls for Online Audiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-attention-grabber-composer/"><u>2024 Approved Top Attention Grabber Composer</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ultimate-drone-shopping-list-ready/"><u>2024 Approved Ultimate Drone Shopping List Ready</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-s24-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp-for-2024/"><u>From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-xiaomi-redmi-a2plus-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-13-pro-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 13 Pro to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-exploring-trending-video-reactions/"><u>In 2024, Exploring Trending Video Reactions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unhackable-blueprint-for-inserting-your-tiktok-links/"><u>In 2024, Unhackable Blueprint for Inserting Your TikTok Links</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-green-screen-expertise-with-kinemaster-for-2024/"><u>The Ultimate Guide to Green Screen Expertise with Kinemaster for 2024</u></a></li>
+</ul></div>
+

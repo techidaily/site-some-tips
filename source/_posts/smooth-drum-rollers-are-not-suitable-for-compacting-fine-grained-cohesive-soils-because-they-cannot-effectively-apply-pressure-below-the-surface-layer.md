@@ -1,7 +1,7 @@
 ---
 title: Smooth Drum Rollers Are Not Suitable for Compacting Fine-Grained, Cohesive Soils because They Cannot Effectively Apply Pressure Below the Surface Layer.
-date: 2024-09-17 14:42:53
-updated: 2024-09-20 10:26:47
+date: 2024-12-16T03:32:44.479Z
+updated: 2024-12-22T01:34:35.077Z
 tags:
   - cloud
 categories:
@@ -82,11 +82,35 @@ Could there be a mainframe in your future? I cut my computing teeth on mainframe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-haunting-horrors-the-ultimate-list-of-engaging-zombie-games-for-2024/"><u>[New] Haunting Horrors The Ultimate List of Engaging Zombie Games for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-access-high-quality-youtube-images-without-paying-a-dime/"><u>[New] In 2024, Access High-Quality YouTube Images Without Paying a Dime</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/usic-upload-essentials-your-youtube-journey/"><u>[New] Music Upload Essentials Your YouTube Journey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tiktok-linking-made-simple-and-irreversible/"><u>[New] TikTok Linking Made Simple and Irreversible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-8-immersive-virtual-reality-adventures-on-oculus/"><u>[New] Top 8 Immersive Virtual Reality Adventures on Oculus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-describing-your-podcast-with-flair/"><u>[Updated] The Art of Describing Your Podcast with Flair</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-places-for-free-text-visual-enhancements/"><u>[Updated] Top Places for Free Text Visual Enhancements</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/free-online-music-archives-copyright-free-gaming-tunes-for-2024/"><u>Free Online Music Archives (Copyright-Free Gaming Tunes) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-wd-my-passport-ultra-detected-in-windows-after-all-solutions-revealed/"><u>How to Get WD My Passport Ultra Detected in Windows After All - Solutions Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-intricate-dance-of-photos-into-a-unified-display/"><u>In 2024, The Intricate Dance of Photos Into a Unified Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-role-of-burst-mode-in-action-sports-filming/"><u>In 2024, The Role of Burst Mode in Action Sports Filming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-custom-tunes-for-your-pixel-phone/"><u>In 2024, Unlocking Custom Tunes for Your Pixel Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online-for-2024/"><u>Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-downloading-and-installing-latest-ios-updates/"><u>Step-by-Step Guide: Downloading & Installing Latest iOS Updates</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-motorola-moto-g-stylus-2023-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Motorola Moto G Stylus (2023)? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-screenplays-distributed-among-classified-types-for-2024/"><u>Superior Screenplays Distributed Among Classified Types for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-powerhouse-performance-for-less-secure-your-new-hp-victus-15-laptop-today-for-a-low-price-of-515-with-this-special-deal-at-best-buy-on-prime-day/"><u>Unleash Powerhouse Performance for Less: Secure Your New HP Victus 15 Laptop Today for a Low Price of $515 with This Special Deal at Best Buy on Prime Day</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

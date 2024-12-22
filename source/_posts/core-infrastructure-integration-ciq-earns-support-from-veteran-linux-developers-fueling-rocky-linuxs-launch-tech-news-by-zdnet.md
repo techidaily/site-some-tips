@@ -1,7 +1,7 @@
 ---
 title: Core Infrastructure Integration (CIQ) Earns Support From Veteran Linux Developers, Fueling Rocky Linux's Launch | Tech News by ZDNet
-date: 2024-09-18 15:41:29
-updated: 2024-09-20 12:36:48
+date: 2024-12-20T21:42:29.380Z
+updated: 2024-12-22T01:53:56.723Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,33 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-virtual-horizons-unveiled-critics-top-oculus-headsets/"><u>[New] 2024 Approved Virtual Horizons Unveiled Critics' Top Oculus Headsets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-premium-sound-to-text-converters/"><u>[New] Premium Sound to Text Converters</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-quick-guide-lecture-capture-with-your-computer-mac-for-2024/"><u>[New] Quick Guide Lecture Capture with Your Computer (Mac) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-kids-drones/"><u>[Updated] The Ultimate Guide to Kids' Drones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-efficiency-incorporating-zoom-into-your-gmail-routine/"><u>[Updated] Unlocking Efficiency Incorporating Zoom Into Your Gmail Routine</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-stabilizing-aerial-vision-a-comprehensive-guide-to-choosing-a-gimbal/"><u>2024 Approved Stabilizing Aerial Vision A Comprehensive Guide to Choosing a Gimbal</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-steering-clear-of-stereotypes-with-your-youtube-channel-name/"><u>2024 Approved Steering Clear of Stereotypes with Your YouTube Channel Name</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-the-experience-top-9-streams/"><u>2024 Approved Unleash the Experience Top 9 Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-most-enlightening-general-knowledge-trivia-channels-in-24/"><u>2024 Approved Unveiling the Most Enlightening General Knowledge Trivia Channels in '24</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/efficient-tools-and-tips-for-webp-to-jpeg-transformation-for-2024/"><u>Efficient Tools and Tips for WebP to JPEG Transformation for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-achieve-a-3-screen-display-connecting-monitors-with-your-device/"><u>How To Achieve A 3-Screen Display: Connecting Monitors With Your Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-video-card-error-on-the-sims-4-platform/"><u>How to Fix 'Video Card Error' On The Sims 4 Platform</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-troubleshooting-when-your-wii-console-cant-read-discs/"><u>Solving Common Issues: Troubleshooting When Your Wii Console Can't Read Discs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tales-on-the-silver-screen-writing-for-cinema-for-2024/"><u>Tales on the Silver Screen Writing for Cinema for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-wagering-vegas-pros-evolution-in-21-for-2024/"><u>The Future of Wagering Vegas Pro's Evolution in '21 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-closer-insight-in-roblox-games-for-2024/"><u>The Ultimate Guide to Closer Insight in Roblox Games for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-samsung-galaxy-a14-4g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Samsung Galaxy A14 4G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+</ul></div>
+

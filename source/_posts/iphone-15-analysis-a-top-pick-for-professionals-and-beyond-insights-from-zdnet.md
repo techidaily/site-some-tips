@@ -1,7 +1,7 @@
 ---
 title: "IPhone 15 Analysis: A Top Pick for Professionals and Beyond – Insights From ZDNet"
-date: 2024-12-18T05:50:39.253Z
-updated: 2024-12-20T17:07:17.363Z
+date: 2024-12-14T20:35:49.218Z
+updated: 2024-12-21T21:39:33.964Z
 tags:
   - apple
 categories:
@@ -45,6 +45,10 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | iPhone 15    | iPhone 15 Plus                                    |                                                   |
@@ -60,10 +64,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
@@ -71,7 +71,7 @@ Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
@@ -128,6 +128,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -142,10 +146,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -159,7 +159,7 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -167,7 +167,7 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -204,19 +204,24 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-detailed-walkthrough-timer-creation-in-obs-broadcasts/"><u>[New] In 2024, Detailed Walkthrough Timer Creation in OBS Broadcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-definitive-guide-to-iphones-how-to-grab-podcast-episodes/"><u>[New] The Definitive Guide to iPhones How to Grab Podcast Episodes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-efficiently-incorporate-media-in-your-tweets/"><u>[Updated] 2024 Approved Efficiently Incorporate Media in Your Tweets</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-years-finest-photo-framers-and-organizers-compilation/"><u>[Updated] The Year's Finest Photo Framers & Organizers Compilation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-adjusting-windows-11-settings-for-adaptive-hdr/"><u>2024 Approved Adjusting Windows 11 Settings for Adaptive HDR</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-eyeball-enticer-author/"><u>2024 Approved Top-Tier Eyeball Enticer Author</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/alexa-and-ultra-hd-combined-insignias-budget-friendly-fire-tv-ns-43df710na19-an-in-depth-analysis/"><u>Alexa & Ultra HD Combined: Insignia's Budget-Friendly Fire TV NS-43DF710NA19 - An In-Depth Analysis</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-performance-with-updated-lenovo-w11-drivers/"><u>Boost Performance with Updated Lenovo W11 Drivers</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/can-adobe-premiere-pro-handle-av1-video-formats-for-import-and-export-tasks/"><u>Can Adobe Premiere Pro Handle AV1 Video Formats for Import and Export Tasks?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-shorts-revenue-sharing-how-much-do-creators-get-paid-in-2024/"><u>[New] YouTube Shorts Revenue Sharing How Much Do Creators Get Paid, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-top-6-video-editing-apps-for-macos-big-sur-11/"><u>[Updated] 2024 Approved Top 6 Video Editing Apps for macOS Big Sur 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-picture-a-review-of-dji-inspire-2/"><u>[Updated] Full Picture A Review of DJI Inspire 2</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-gameplay-streaming-tools-revealed-obs-or-fraps/"><u>[Updated] Gameplay Streaming Tools Revealed OBS or Fraps?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/best-ios-video-editing-cameo-vs-filmorago-for-2024/"><u>Best iOS Video Editing Cameo Vs. FilmoraGo for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-a05s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy A05s Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://tech-recovery.techidaily.com/dont-let-ios-upgrade-ruin-your-ipad-key-steps-for-a-smooth-transition-to-ios-14/"><u>Don't Let iOS Upgrade Ruin Your iPad! Key Steps for a Smooth Transition to iOS 14</u></a></li>
-<li><a href="https://some-tips.techidaily.com/perfecting-onscreen-image-clarity-and-detail-for-2024/"><u>Perfecting Onscreen Image Clarity and Detail for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfecting-your-content-time-stamping-in-online-vids/"><u>Perfecting Your Content Time Stamping in Online Vids</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-vectors-first-steps-and-essential-apps-for-2024/"><u>Understanding Vectors First Steps and Essential Apps for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-your-creativity-innovative-online-crop-strategies-for-2024/"><u>Unleash Your Creativity - Innovative Online Crop Strategies for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvddvd14/"><u>DVDクローニング：正式許可を得た上での無料DVDコピー方法：14ページ</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rotating-your-pictures-with-ease-a-step-by-step-guide-for-windows-11-users/"><u>Rotating Your Pictures with Ease: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solving-the-problem-unsuccessful-booting-in-windows-systems/"><u>Solving the Problem: Unsuccessful Booting in Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-restoring-headphone-functionality-on-windows-11-systems/"><u>Step-by-Step Guide: Restoring Headphone Functionality on Windows 11 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-reasons-behind-my-choice-avoiding-iphone-and-ipad-applications-on-my-mac/"><u>The Reasons Behind My Choice: Avoiding iPhone and iPad Applications on My Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-essential-steps-for-optimizing-your-new-windows-pc/"><u>Top 8 Essential Steps for Optimizing Your New Windows PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-9-methods-for-accessing-powershell-on-windows-10/"><u>Top 9 Methods for Accessing PowerShell on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transitioning-kodi-the-shift-from-debian-packages-to-flatpak-on-linux-systems/"><u>Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-premium-mac-screens-and-monitors/"><u>Ultimate Selection: Premium Mac Screens and Monitors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-hidden-gems-essential-yet-overlooked-windows-shortcuts/"><u>Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-mac-os-slideshow-creator-turn-memories-into-stunning-videos/"><u>Updated Mac OS Slideshow Creator Turn Memories Into Stunning Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Huawei Is Revolutionizing Healthcare and Maritime Industries with 5G Technology
-date: 2024-09-18 20:37:54
-updated: 2024-09-20 11:26:53
+date: 2024-12-16T20:20:55.458Z
+updated: 2024-12-21T21:08:43.975Z
 tags:
   - cloud
 categories:
@@ -45,6 +45,10 @@ This had added complexity as storage vendors currently adopted different data st
 
 It also was assessing how data should be secured and was exploring various options, including working with local telcos to roll out private [5G networks](https://www.zdnet.com/article/security-crucial-as-5g-connects-more-industries-devices/) and using VPNs. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Security critical when traditional, digital realms converge
 
 Cybersecurity risks will inevitably increase as traditional industries go through digital transformation and [OT (operational technology) systems converge with IT systems](https://www.zdnet.com/article/singapore-talks-up-ot-security-looks-to-add-medical-devices-to-labelling-scheme/), said Yue Kun, Huawei's CTO for smart road, waterway, and port. 
@@ -71,6 +75,10 @@ Singapore's container port operator, PSA is in the midst of [relocating its oper
 
 _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 2023 in Barcelona, Spain, on the invitation of Huawei Technologies._ 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Security crucial as 5G connects more industries, devices](https://www.zdnet.com/article/security-crucial-as-5g-connects-more-industries-devices/)
@@ -86,11 +94,29 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 202
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-future-in-focus-premium-360-degree-professionals-cameras-2023/"><u>[New] The Future in Focus Premium 360-Degree Professionals' Cameras, 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-comprehensive-guide-to-dji-phantom-3-testing/"><u>[Updated] The Comprehensive Guide to DJI Phantom 3 Testing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essential-breakdown-of-dji-phantom-3-mechanics/"><u>[Updated] The Essential Breakdown of DJI Phantom 3 Mechanics</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-videoharvester-fb-groups/"><u>[Updated] VideoHarvester FB Groups</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-master-the-art-of-cutting-the-ultimate-list-of-youtube-short-editors/"><u>2024 Approved Master the Art of Cutting The Ultimate List of YouTube Short Editors</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-initiating-the-snip-and-sketch-function-on-win-11/"><u>Efficiently Initiating the Snip and Sketch Function on Win 11</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/erstellen-sie-kostenlose-windows-11-backups-mit-top-software-ihre-besten-optionen/"><u>Erstellen Sie Kostenlose Windows 11 Backups Mit Top-Software: Ihre Besten Optionen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-lost-bluetooth-functionality-on-windows-10-fast-and-easy/"><u>How to Restore Lost Bluetooth Functionality on Windows 10, Fast and Easy</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-leveraging-slack-and-filmora-a-path-to-scheduling-excellence/"><u>In 2024, Leveraging Slack and Filmora A Path to Scheduling Excellence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-talent-release-form-for-filming-and-video-to-free-download/"><u>In 2024, Talent Release Form for Filming and Video to Free Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-mastering-videos-with-vida/"><u>In 2024, The Ultimate Guide to Mastering Videos with Vida</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photo-text-editing-made-simple-tools-and-techniques/"><u>Photo Text Editing Made Simple Tools & Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-free-screen-recorders-on-windows-11-2023-update-for-2024/"><u>Top 5 Free Screen Recorders on Windows 11-2023 Update for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-avi-player-the-perfect-match-for-pcmobile-for-2024/"><u>Ultimate AVi Player The Perfect Match for PC/Mobile for 2024</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/understanding-the-mp4-format-benefits-comparisons-and-applications/"><u>Understanding the MP4 Format: Benefits, Comparisons & Applications</u></a></li>
+</ul></div>
+

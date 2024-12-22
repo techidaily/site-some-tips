@@ -1,7 +1,7 @@
 ---
 title: Singaporean Companies Battle Onslaugt of Cyberattacks as Ransomware and Phishing Persist | ZDNET Report
-date: 2024-09-18 10:33:49
-updated: 2024-09-20 11:23:12
+date: 2024-12-19T21:25:48.565Z
+updated: 2024-12-21T16:07:45.192Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ CSA did note that the spike in reported cases also could be attributed to its co
 
 The cybersecurity regulator said while the number of reported ransomware incidents dipped slightly to 132, compared to 137 in 2021, such attacks remained a significant issue in Singapore and worldwide. It pointed to reports from security vendors indicating a 13% climb in ransomware incidents globally last year. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMBs remain hot ransomware targets
 
 Furthermore, figures were unlikely to reflect the full extent of such threats since [not every victim would report an attack](https://www.zdnet.com/article/ransomware-not-enough-victims-are-reporting-attacks-and-that-increases-the-threat-for-everyone/). Citing estimates from the FBI, CSA said just 20% of ransomware victims in the US sought the help of law enforcement. 
@@ -64,6 +68,10 @@ Some 81,500 [infrastructure systems](https://www.zdnet.com/article/singapore-wan
 CSA cautioned, though, that the absolute number of infected systems in the country remains high as it is a data and digital infrastructure hub. "Maintaining good cyber hygiene is crucial as users continue to connect more smart devices to the internet," the regulator said, noting that the average number of connected devices in Singapore households increased to 7 in 2021, up from 6.5 the year before. 
 
 Cobalt Strike was the leading malware family infecting locally hosted C&C (Command and Control) servers, followed by Emotet and Guloader. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Anticipated threats as AI takes form
 
@@ -111,11 +119,27 @@ Singapore also has laid out a years-long roadmap it believes will ensure its dig
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-quick-guide-how-to-download-windows-movie-maker-6/"><u>[New] Quick Guide How to Download Windows Movie Maker 6</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-conducting-a-cross-platform-playlist-symphony/"><u>[Updated] Conducting a Cross-Platform Playlist Symphony</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-essential-guide-to-compositing-using-blending-modes/"><u>[Updated] In 2024, Essential Guide to Compositing Using Blending Modes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-next-step-in-virtual-reality-jaunt-vr-review/"><u>[Updated] The Next Step in Virtual Reality Jaunt VR Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-honoring-heritage-photo-conversion-and-visual-storytelling/"><u>2024 Approved Honoring Heritage Photo Conversion and Visual Storytelling</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-revisiting-old-photos-sending-them-as-snaps-on-snapchat/"><u>2024 Approved Revisiting Old Photos Sending Them as Snaps on Snapchat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-color-spaces-srgb-vs-rgb/"><u>2024 Approved Understanding Color Spaces Srgb vs Rgb</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guide-dexperts-comment-utiliser-wbadmin-pour-proteger-et-recuperer-votre-serveur-windows-server-2016/"><u>Guide D'Experts: Comment Utiliser WBAdmin Pour Protéger Et Récupérer Votre Serveur Windows Server 2016</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-5-ways-to-record-roblox-gameplay-on-mac/"><u>In 2024, 5 Ways to Record Roblox Gameplay on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-professional-iphoneipad-podcast-production/"><u>In 2024, The Ultimate Guide to Professional iPhone/iPad Podcast Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>In 2024, Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-selecting-high-performance-fpv-drone-propellers-for-2024/"><u>The Complete Guide to Selecting High-Performance FPV Drone Propellers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-video-text-upgrades-for-professionals-for-2024/"><u>Top 10 Video Text Upgrades for Professionals for 2024</u></a></li>
+</ul></div>
+

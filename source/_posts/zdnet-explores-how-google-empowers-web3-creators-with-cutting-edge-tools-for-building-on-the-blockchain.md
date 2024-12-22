@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Explores: How Google Empowers Web3 Creators with Cutting-Edge Tools for Building on the Blockchain"
-date: 2024-09-18 19:12:41
-updated: 2024-09-20 12:43:17
+date: 2024-12-19T23:49:50.908Z
+updated: 2024-12-21T17:45:46.468Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: ArtemisDiana/Getty Images
 Google Cloud on Thursday unveiled Blockchain Node Engine -- a fully managed service for Web3 developers that want to build and manage products for blockchain-based platforms. Cryptocurrency giant Ethereum will be the first platform supported by the new service. 
 
 "Blockchain is changing the way the world stores and moves its information," Google's Amit Zavery and James Tromans wrote in a blog post, explaining the company's interest in supporting Web3 developers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Crypto
 
@@ -65,11 +69,31 @@ To ensure availability, Google Cloud actively monitors the nodes and restarts th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-discovering-the-30-most-recommended-steadicams-for-dslr-cinematographers/"><u>[New] In 2024, Discovering the 30 Most Recommended Steadicams for DSLR Cinematographers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-your-creative-process-with-instagrams-photography-tips/"><u>[New] Streamline Your Creative Process with Instagram's Photography Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-cheat-sheet-mastering-googles-voice-transcription-tool/"><u>[New] The Complete Cheat Sheet Mastering Google's Voice Transcription Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-itunes-radio-downloading-blueprint/"><u>[New] The Complete iTunes Radio Downloading Blueprint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-editors-ally-smooth-operation-in-m1-with-top-tools/"><u>[New] The Editor's Ally Smooth Operation in M1 with Top Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flight-to-film-expert-techniques-for-video-editors-using-drones/"><u>[Updated] Flight to Film Expert Techniques for Video Editors Using Drones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-guide-for-posting-photos-online/"><u>[Updated] The Complete Guide for Posting Photos Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-style-in-ae-title-design/"><u>[Updated] The Essence of Style in AE Title Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-upside-down-visuals-unraveling-instagram-video-confusion/"><u>[Updated] Upside Down Visuals Unraveling Instagram Video Confusion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-snipers-manual-to-capturing-live-online-music/"><u>2024 Approved The Sniper’s Manual to Capturing Live Online Music</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-nokia-c300-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-find-x6-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo Find X6 Phone When You Forget the Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone SE (2020)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/step-by-step-tutorial-enable-mp4-video-support-in-windows-media-player/"><u>Step-by-Step Tutorial: Enable MP4 Video Support in Windows Media Player</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-insiders-view-advanced-strategies-for-successful-storytelling-in-social-media-for-2024/"><u>The Insider’s View Advanced Strategies for Successful Storytelling in Social Media for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-gaming-on-a-budget-top-10-free-game-download-sites-for-pc-and-android/"><u>Updated In 2024, Gaming on a Budget Top 10 Free Game Download Sites for PC and Android</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Section 4A: Advanced Soil Mechanics and Compaction Modeling"
-date: 2024-09-18 11:39:39
-updated: 2024-09-20 10:34:19
+date: 2024-12-19T21:49:48.115Z
+updated: 2024-12-21T22:46:28.788Z
 tags:
   - cloud
 categories:
@@ -82,11 +82,29 @@ Could there be a mainframe in your future? I cut my computing teeth on mainframe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-secrets-to-successful-hash-tag-application-for-improved-campaigns-on-facebook-for-2024/"><u>[New] Secrets to Successful Hash Tag Application for Improved Campaigns on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-revenue-making-youtube-visionary/"><u>[New] Top Revenue-Making YouTube Visionary</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-comic-strip-editor/"><u>[New] Ultimate Comic Strip Editor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-best-fast-photo-viewer-for-windows-10/"><u>[Updated] Top Best Fast Photo Viewer for Windows 10?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-venn-of-virtuality-metaverse-and-multiverse-analysis/"><u>2024 Approved The Venn of Virtuality Metaverse & Multiverse Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-photos-using-adobes-power/"><u>2024 Approved Transform Your Photos Using Adobe's Power</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-great-sound-on-a-shoestring-the-senso-way/"><u>Get Great Sound on a Shoestring: The Senso Way</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-selective-enhancements-for-optimal-gopro-use/"><u>In 2024, Selective Enhancements for Optimal Gopro Use</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-metaverse-and-multiplemetaverse-explained-key-contrasts-highlighted/"><u>In 2024, The Metaverse & MultipleMetaverse Explained Key Contrasts Highlighted</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-tips-for-iphones-hdr-images-for-2024/"><u>Ultimate Tips for iPhone's HDR Images for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Sync Preferences Tuning: Managing Google Drive Folder Sync on PC and Mac with Ease"
-date: 2024-09-19 19:40:42
-updated: 2024-09-20 11:33:51
+date: 2024-12-14T23:07:36.948Z
+updated: 2024-12-21T18:31:56.979Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 ## Sync Preferences Tuning: Managing Google Drive Folder Sync on PC and Mac with Ease
 
 I'm a Google Drive power user. I use the service daily for the majority of my writing needs. During my decade with Drive, I have had one instance where I lost nearly all of my work (thanks to a third-party sync tool that went awry). Since then, I've been diligent about backing up Google Drive. For that, I depend on rclone to backup specific directories in Google Drive to an external drive attached to my [System76 Thelio](https://system76.com/desktops), running [Pop!\_OS](https://pop.system76.com/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Google Docs tips
 
@@ -30,7 +34,15 @@ The only things you'll need are a Google Drive account and the Google Drive Desk
 
 Let's get started.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding a new folder for syncing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Access Settings
 
@@ -54,6 +66,10 @@ Image: Jack Wallen
 
 From that menu, click **Preferences**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Add a new folder
 
 In the new window (**Figure 4**), click **Add folder**.
@@ -71,6 +87,10 @@ Image: Jack Wallen
 Locate and select the new folder you want to sync with Drive and click Open. You'll be taken back to the Google Drive Desktop Client Preferences window, where you'll see the new folder listed. 
 
 Once added, the client will automatically upload the files and sub-directories within the newly-added folder. Depending on how many files (and the size of those files), the initial sync could take some time. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Locating those files in Drive
 
@@ -103,11 +123,29 @@ Congratulations, you've configured the Google Drive Desktop Client to sync added
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-optimizing-data-preservation-top-5-cloud-storage-providers/"><u>[New] 2024 Approved Optimizing Data Preservation Top 5 Cloud Storage Providers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-backdrop-change-kit-pixelpioneers-reveal/"><u>[New] Ultimate Backdrop Change Kit PixelPioneer's Reveal</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-android-tips-flipping-video-images-for-2024/"><u>[Updated] Android Tips Flipping Video Images for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>[Updated] The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-accompanying-visual-content-with-music/"><u>2024 Approved The Art of Accompanying Visual Content with Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-marketing-playbook-for-digital-beginners-on-reddit/"><u>2024 Approved The Ultimate Marketing Playbook for Digital Beginners on Reddit</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/capture-the-inspired-moment-essential-photos-for-ig/"><u>Capture the Inspired Moment Essential Photos for IG</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-realtek-network-adapter-drivers-for-windows-7-and-10/"><u>Download the Latest Realtek Network Adapter Drivers for Windows 7 & 10</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XR without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagram-video-load-times-desktop-advice/"><u>In 2024, Mastering Instagram Video Load Times Desktop Advice</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-outstanding-storytelling-on-screen/"><u>In 2024, Outstanding Storytelling on Screen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-list-top-10-subtitle-editors-web/"><u>In 2024, Ultimate List Top 10 Subtitle Editors Web</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-or-reinstall-your-logitech-brio-webcam-driver-on-windows-7-8-10-and-11/"><u>Install or Reinstall Your Logitech Brio Webcam Driver on Windows 7, 8, 10 & 11</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-harmonizing-visuals-and-sounds-displaying-audio-waves-and-adding-expressive-animation-in-magix-movie-edit-pro/"><u>New 2024 Approved Harmonizing Visuals & Sounds Displaying Audio Waves & Adding Expressive Animation in Magix Movie Edit Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-video-editing-apps-for-macos-big-sur-11-for-2024/"><u>Top 6 Video Editing Apps for macOS Big Sur 11 for 2024</u></a></li>
+</ul></div>
+
