@@ -1,7 +1,7 @@
 ---
 title: "Transforming Google Tasks Into a Kanban System Using TasksBoard: A Step-by-Step Guide - ZDNet"
-date: 2024-09-18 18:33:25
-updated: 2024-09-20 12:16:45
+date: 2024-12-22T16:37:45.586Z
+updated: 2024-12-27T17:14:37.479Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-producing-high-quality-hdr-photographs-with-lightroom/"><u>[New] Tips for Producing High-Quality HDR Photographs with Lightroom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-pages-for-stylish-shiny-3d-type-creations/"><u>[New] Top Pages for Stylish, Shiny 3D Type Creations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-love-ballads-ideal-tunes-for-a-heartfelt-proposal/"><u>[New] Ultimate Love Ballads Ideal Tunes for a Heartfelt Proposal</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-scripting-journalisms-closing-statements/"><u>[Updated] In 2024, Scripting Journalism's Closing Statements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-budding-filmmakers-companion-understanding-display-quality-101/"><u>[Updated] The Budding Filmmaker’s Companion Understanding Display Quality 101</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-shareable-humorous-content/"><u>[Updated] The Essence of Shareable Humorous Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-future-of-flight-hubsans-revolutionary-h501s-explored/"><u>[Updated] The Future of Flight - Hubsan's Revolutionary H501S Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-underrated-downsides-of-vr/"><u>[Updated] Understanding the Underrated Downsides of VR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-responsible-ways-to-use-ai-as-a-content-writer-or-editor/"><u>7 Responsible Ways to Use AI as a Content Writer or Editor</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728507317598-nas/"><u>三种转移NAS台贴雲存储中文档案至外置硬盘的最佳方式</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-display-quality-using-latest-windows-drivers/"><u>Enhance Display Quality Using Latest Windows Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-uninterrupted-gameplay-fixing-crashes-in-forza-horizon-5-for-pc-users/"><u>Ensuring Uninterrupted Gameplay: Fixing Crashes in Forza Horizon 5 for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-mfsx-2020-from-continuously-crashing-on-your-pc/"><u>Fixes & Solutions: How To Stop MFSX 2020 From Continuously Crashing On Your PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/from-sound-to-size-analyzing-the-key-differences-between-echo-pop-and-echo-dot/"><u>From Sound to Size - Analyzing the Key Differences Between Echo Pop & Echo Dot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-through-a-photographers-eye-our-best-10-lenses-list/"><u>In 2024, Through a Photographer's Eye Our Best 10 Lenses List</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upload-like-a-pro-the-ultimate-guide-to-photo-videos-and-online-success/"><u>In 2024, Upload Like a Pro The Ultimate Guide to Photo Videos and Online Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-comprehensive-selection-of-top-10-free-srt-changers-for-2024/"><u>The Comprehensive Selection of Top 10 FREE SRT Changers for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-for-filmmakers-revolutionizing-visual-storytelling/"><u>Youtube for Filmmakers Revolutionizing Visual Storytelling</u></a></li>
+</ul></div>
+

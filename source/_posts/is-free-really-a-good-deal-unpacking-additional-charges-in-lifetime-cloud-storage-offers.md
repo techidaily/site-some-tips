@@ -1,7 +1,7 @@
 ---
 title: Is Free Really a Good Deal? Unpacking Additional Charges in 'Lifetime' Cloud Storage Offers
-date: 2024-09-19 19:23:14
-updated: 2024-09-20 10:41:44
+date: 2024-12-25T16:23:12.238Z
+updated: 2024-12-27T17:02:28.794Z
 tags:
   - cloud
 categories:
@@ -35,6 +35,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Degoo Cloud 
 
 Let's start with Degoo. I found it on a marketplace for all sorts of intriguing offers. Here, the marketplace is offering a 10TB lifetime storage plan for $99\. As long as you access your account once a year, it will remain active. 
@@ -65,6 +69,10 @@ Clearly, $99 for 10TB is not sustainable. My bet is that storage vendors offerin
 
 Even so, Degoo's unlimited deals don't come close to covering their costs for storage. Keep that in mind as we move on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Prism Drive 
 
 Next up is Prism Drive. Here, we have [a deal for 10TB](https://shop.sweetdeals.com/sales/prism-drive-secure-cloud-storage-lifetime-subscription-10-tb) for even less than Degoo. Found on another marketplace site, Prism Drive provides 10TB of lifetime storage for $89.99\. Revenue from the marketplace sites selling these products generally comes from direct product sales, affiliate commissions, and partnerships with content creators. 
@@ -84,6 +92,10 @@ Then, there's the Trustpilot rating of 1.3 out of five. The leading review is "T
 There is no About page. WHOIS provides no identity, other than showing that its site is a SquareSpace-based site. I found no details about what storage infrastructure Prism Drive uses. I also looked on LinkedIn for anyone who listed their employer as Prism Drive (or PrismDrive). No joy. Zero listings. What I did find was a ton of affiliate listings on tech websites hawking PrismDrive. 
 
 So there's that. On to our third and final company. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Polar Backup 
 
@@ -109,6 +121,10 @@ Another clue that Polar might be using AWS for infrastructure is the mention of 
 
 That's it. That's all I could find. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  So, are these rip-offs? 
 
 Not necessarily. But I do have concerns: 
@@ -126,6 +142,10 @@ If the vendor were huge, like an Amazon or a Google, and they offered a loss lea
 But are they rip-offs? Are these vendors creating these deals and businesses with the express purpose of stealing from the folks who use them? I don't know, maybe not. That said, the vendors in question are also probably not going out of their way to build sustainable trustworthy businesses. 
 
 And really, that's my concern for you. These companies are offering a large amount of data storage for very little money. What happens if they go out of business? What happens to your data? 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What could possibly go wrong?
 
@@ -168,11 +188,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-12-tactics-to-reveal-facebook-videos-not-displaying-2023-edition/"><u>[New] 12 Tactics to Reveal Facebook Videos Not Displaying, 2023 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-humor-image-creator/"><u>[New] Ultimate Humor Image Creator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-using-srt-audio-on-windows-and-macos-devices/"><u>[New] Using SRT Audio on Windows & macOS Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-best-idevice-custom-alerts/"><u>[Updated] Ultimate Selection Best iDevice Custom Alerts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-learning-photography-on-the-go-the-lunapic-approach/"><u>2024 Approved Learning Photography on the Go The LunaPic Approach</u></a></li>
+<li><a href="https://win-bits.techidaily.com/windows-1-1/"><u>如何在 Windows 1 1上抹保存：以外置硬碟為基礎的製作技巧（兩種途徑）</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-oneplus-11-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do OnePlus 11 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-fix-eefineshorehistoricalfunctionality-problems-in-emeditor-v12-text-editor/"><u>How to Fix EeFineshoreHistoricalFunctionality Problems in EmEditor V12 Text Editor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tailoring-drone-video-quality-with-expert-gimbal-choices/"><u>In 2024, Tailoring Drone Video Quality with Expert Gimbal Choices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-darkness-a-comprehensive-guide-to-resolve-league-of-legends-screen-issues/"><u>Navigating Through Darkness: A Comprehensive Guide to Resolve League of Legends' Screen Issues</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-10-trending-memes-right-now-include-image-gifvideo/"><u>New 10 Trending Memes Right Now (Include Image/ GIF/Video)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-asus-bluetooth-drivers-free-download-and-update-guide/"><u>Simple ASUS Bluetooth Drivers: Free Download and Update Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-online-sources-for-high-quality-vector-illustrations/"><u>Top Online Sources for High-Quality Vector Illustrations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-quality-video-uplift-immaculate-resolution-for-2024/"><u>Top Quality Video Uplift Immaculate Resolution for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-srt-editing-techniques-for-apple-devices-for-2024/"><u>Transformative SRT Editing Techniques for Apple Devices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-zoom-meetings-for-2024/"><u>Unlocking the Potential of Zoom Meetings for 2024</u></a></li>
+</ul></div>
+

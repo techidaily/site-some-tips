@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Price Increase Alert: Google's Workspace Enterprise Fees Soar by 38%% – Insights From ZDNET"
-date: 2024-09-17 14:14:26
-updated: 2024-09-20 12:17:40
+date: 2024-12-26T16:31:02.248Z
+updated: 2024-12-27T16:42:09.659Z
 tags:
   - cloud
 categories:
@@ -53,6 +53,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How this might affect you
 
 Google is very much _not_ transparent about its Enterprise pricing plans. The [main Google Workspace pricing page](https://workspace.google.com/pricing.html?source=gafb-homepage-faq-en) simply says "Contact Sales." The [Google Workspace blog](https://workspace.google.com/blog/) doesn't mention anything about a price increase, at least as of the time of this writing. 
@@ -66,6 +70,10 @@ It is possible I've been hit with a higher price increase because of the amount 
 The [Fed may think inflation is under control](https://thehill.com/business/4411344-fed-is-within-striking-distance-of-inflation-goal-top-official-says/) at 2-4% annually, but cloudflation certainly still exists. In the last year, [Hulu raised prices](https://www.zdnet.com/home-and-office/home-entertainment/hulus-streaming-bundle-prices-are-going-up-again-heres-why-i-chose-youtubetv/), [Peacock raised prices](https://www.zdnet.com/home-and-office/home-entertainment/peacock-is-raising-subscription-prices-next-month-heres-what-you-need-to-know/), [YouTube Premium raised prices](https://www.zdnet.com/home-and-office/home-entertainment/youtube-premium-quietly-raises-subscription-prices/), [Spotify Premium raised prices](https://www.zdnet.com/home-and-office/home-entertainment/spotify-premium-is-raising-prices-for-the-first-time-ever/), [Apple raised some of its subscription prices](https://www.zdnet.com/home-and-office/home-entertainment/apple-is-raising-the-prices-for-some-of-its-popular-subscription-services/), and [the list goes on](https://www.zdnet.com/article/google-raises-prices-for-nest-aware-subscriptions-but-there-is-good-news/). 
 
 We recently did an audit of our cloud-based monthly expenses, and it's a fairly large percentage of our overall cost of doing business. The fact that it can suddenly balloon by inflation percentages you'd only expect in countries with unstable governments will probably cause every IT manager (and anyone with a cloud budget) to lose sleep at night. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to change your plan 
 
@@ -110,11 +118,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-the-insiders-guide-to-uploading-with-google/"><u>[Updated] The Insider’s Guide to Uploading with Google</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fast-easy-free-uncovering-the-best-10-image-converters/"><u>2024 Approved Fast, Easy, FREE Uncovering the Best 10 Image Converters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-knockout-kings-vs-viewership-titans/"><u>2024 Approved Knockout Kings Vs. Viewership Titans</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-secrets-revealed-6-strategies-to-keep-your-youtube-audience-hooked-and-returning/"><u>2024 Approved Secrets Revealed 6 Strategies to Keep Your YouTube Audience Hooked and Returning</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-blueprint-for-attracting-brands-as-youtube-affiliates/"><u>2024 Approved The Blueprint for Attracting Brands as Youtube Affiliates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-360-live-streaming-cameras-for-youtube-and-facebook/"><u>2024 Approved Top 360 Live Streaming Cameras for YouTube and Facebook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dialogue-design-mastery-using-gpt-to-build-unique-bots/"><u>Dialogue Design Mastery: Using GPT to Build Unique Bots</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-hero5-black-showdown-with-hero4-silver/"><u>In 2024, GoPro Hero5 Black Showdown with Hero4 Silver</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>In 2024, Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-vision-into-reality-essential-movies-maker-skills-on-windows-8/"><u>In 2024, Transform Your Vision Into Reality Essential Movies Maker Skills on Windows 8</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-streaming-experience-a-review-of-the-fire-tv-edition-toshiba-55lf711u20-ideal-for-amazon-prime-subscribers/"><u>Ultimate Streaming Experience: A Review of the Fire TV Edition Toshiba 55LF711U20, Ideal for Amazon Prime Subscribers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-potential-current-vr-innovations-for-2024/"><u>Unleashing Potential Current VR Innovations for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-mastering-sound-a-comprehensive-guide-to-normalizing-audio-in-multimedia-content/"><u>Updated In 2024, Mastering Sound A Comprehensive Guide to Normalizing Audio in Multimedia Content</u></a></li>
+</ul></div>
+

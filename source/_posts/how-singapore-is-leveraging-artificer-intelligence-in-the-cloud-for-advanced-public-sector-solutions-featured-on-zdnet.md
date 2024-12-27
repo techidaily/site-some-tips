@@ -1,7 +1,7 @@
 ---
 title: How Singapore Is Leveraging Artificer Intelligence in the Cloud for Advanced Public Sector Solutions | Featured on ZDNET
-date: 2024-09-18 20:29:30
-updated: 2024-09-20 11:43:58
+date: 2024-12-22T17:02:28.305Z
+updated: 2024-12-27T17:17:21.345Z
 tags:
   - cloud
 categories:
@@ -62,6 +62,10 @@ In addition, the Monetary Authority of Singapore (MAS) is working with Google to
 Noting that competition remained tough and the global landscape is constantly evolving, he added that AI will play a key role for Singapore moving forward. 
 
 He said MAS will use the collaboration with Google to identify generative AI use cases that will allow it to work more efficiently and provide foundational models that prioritise data security and AI governance. "Through this, we hope to inspire greater adoption of [responsible generative AI in the financial](https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/) sector," Loy said.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Doing things differently with AI
 
@@ -134,11 +138,25 @@ Commenting on the vendor's collaboration with the Singapore government, Ng said:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-cut-the-confusion-learn-quickly-how-to-add-timestamps-in-videos/"><u>[New] In 2024, Cut the Confusion Learn Quickly How to Add Timestamps in Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unwind-and-learn-your-guide-to-podcasting-multitasking/"><u>[Updated] Unwind and Learn Your Guide to Podcasting Multitasking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-subtle-shadows-perfectly-blurred-iphone-photos-explained/"><u>2024 Approved Subtle Shadows Perfectly Blurred iPhone Photos Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transitioning-photos-from-physical-to-digital-storage/"><u>2024 Approved Transitioning Photos From Physical to Digital Storage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/arctis-5-wireless-headset-mic-repair-guide-tips-and-tricks-for-optimal-performance/"><u>Arctis 5 Wireless Headset Mic Repair Guide: Tips and Tricks for Optimal Performance</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/exclusive-preview-anticipated-features-in-future-full-zombie-dex-35-skin-edition/"><u>Exclusive Preview: Anticipated Features in Future FULL ZOMBIE - DEX 3.5 Skin Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-tutorial-from-gif-art-to-sticky-fun-on-social-media/"><u>In 2024, The Essential Tutorial From GIF Art to Sticky Fun on Social Media</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pioneering-pixels-a-detailed-analysis-of-8k-tvs-for-2024/"><u>Pioneering Pixels A Detailed Analysis of 8K TVs for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ss-in-phrasing-best-tags-for-gamer-videos-for-2024/"><u>Prowess in Phrasing Best Tags for Gamer Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-address-persistent-freezes-during-gta-v-sessions/"><u>Troubleshooting Guide: How to Address Persistent Freezes During GTA V Sessions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resetting-your-facebook-account-key/"><u>Ultimate Guide: Resetting Your Facebook Account Key</u></a></li>
+</ul></div>
+

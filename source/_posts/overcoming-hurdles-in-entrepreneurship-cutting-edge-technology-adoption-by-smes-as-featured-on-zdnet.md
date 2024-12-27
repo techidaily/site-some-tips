@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Hurdles in Entrepreneurship: Cutting-Edge Technology Adoption by SMEs as Featured on ZDNET"
-date: 2024-09-19 14:33:43
-updated: 2024-09-20 11:42:15
+date: 2024-12-23T16:06:38.566Z
+updated: 2024-12-27T16:12:09.609Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/37869e8fa5678b06fcfcd68ab91a0c5d831e481d4
 Encouraged by recent successes, small businesses are rushing to [exploit cloud computing](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) like never before – and it's a trend that's set to continue as they look for further digital transformation.
 
 Such is the strength of the shift to the cloud that Laurie McCabe, co-founder and partner at tech analyst SMB Group, suggests on-demand IT might be one of the few areas of tech spending where small businesses are at least keeping pace with their enterprise counterparts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -79,6 +83,10 @@ Trustpilot CISO Stu Hirst says his organisation makes heavy use of on-demand IT 
 
 "That's incredibly powerful for the speed at which we do things. You can then embed guardrails through that process, so security is embedded and there's a set of boundaries within which people can work."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Further reading on SMB Technology essentials:
 
 * **[Small business tech outlook: Here are the challenges and opportunities ahead](https://www.zdnet.com/article/small-business-tech-outlook-challenges-and-opportunities-ahead/)**
@@ -93,11 +101,29 @@ Trustpilot CISO Stu Hirst says his organisation makes heavy use of on-demand IT 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-edge-enhancing-vertical-videos-using-fcpx-techniques/"><u>[New] 2024 Approved Instagram Edge Enhancing Vertical Videos Using FCPX Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/earning-made-easy-utilizing-youtube-for-dynamic-classrooms-for-2024/"><u>[New] Learning Made Easy Utilizing YouTube for Dynamic Classrooms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-stay-focused-with-no-youtube-thumbnail-view/"><u>[New] Stay Focused with No YouTube Thumbnail View</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-composers-toolkit-for-flawless-image-finishing/"><u>[New] The Composer's Toolkit for Flawless Image Finishing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-secrets-to-penning-popular-vlog-dialogue-plans/"><u>[New] The Secrets to Penning Popular Vlog Dialogue Plans</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-and-tricks-for-effective-azure-speech-to-text-use/"><u>[New] Tips and Tricks for Effective Azure Speech-to-Text Use</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-shooting-canons-time-lapse-techniques/"><u>[Updated] Streamline Your Shooting Canon's Time-Lapse Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-comprehensive-list-of-cam-accessories-for-2024/"><u>[Updated] The Comprehensive List of Cam Accessories for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-dji-spark-compact-drone-mastery-for-photographers/"><u>[Updated] Unveiling the DJI Spark Compact Drone Mastery for Photographers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-luts-transforming-images-magic/"><u>2024 Approved Understanding LUTs Transforming Images Magic</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-print-efficiency-latest-windows-10-laserjet-drivers/"><u>Boost Print Efficiency: Latest Windows 10 Laserjet Drivers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-a-comprehensive-guide-to-producing-engaging-subtitles-and-captions-for-fb/"><u>In 2024, A Comprehensive Guide to Producing Engaging Subtitles and Captions for FB</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-visual-mastery-crop-and-edit-videos-like-pros/"><u>In 2024, Instagram Visual Mastery Crop and Edit Videos Like Pros</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-online-meetings-zoom-for-win10/"><u>In 2024, Streamlining Online Meetings Zoom for WIN10</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-rebuilding-your-windows-installation-tips-from-yl-computing/"><u>Step-by-Step Guide: Rebuilding Your Windows Installation - Tips From YL Computing</u></a></li>
+</ul></div>
+

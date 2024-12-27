@@ -1,7 +1,7 @@
 ---
 title: "Exploring Huawei's Innovative Applications of 5G: Transforming Healthcare and the Maritime Industry - Insights From ZDNet"
-date: 2024-09-17 22:52:39
-updated: 2024-09-20 11:26:11
+date: 2024-12-22T17:21:58.031Z
+updated: 2024-12-27T17:16:23.697Z
 tags:
   - cloud
 categories:
@@ -45,6 +45,10 @@ This had added complexity as storage vendors currently adopted different data st
 
 It also was assessing how data should be secured and was exploring various options, including working with local telcos to roll out private [5G networks](https://www.zdnet.com/article/security-crucial-as-5g-connects-more-industries-devices/) and using VPNs. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Security critical when traditional, digital realms converge
 
 Cybersecurity risks will inevitably increase as traditional industries go through digital transformation and [OT (operational technology) systems converge with IT systems](https://www.zdnet.com/article/singapore-talks-up-ot-security-looks-to-add-medical-devices-to-labelling-scheme/), said Yue Kun, Huawei's CTO for smart road, waterway, and port. 
@@ -71,6 +75,10 @@ Singapore's container port operator, PSA is in the midst of [relocating its oper
 
 _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 2023 in Barcelona, Spain, on the invitation of Huawei Technologies._ 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Security crucial as 5G connects more industries, devices](https://www.zdnet.com/article/security-crucial-as-5g-connects-more-industries-devices/)
@@ -86,11 +94,25 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 202
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elite-online-collection-of-video-downloader-tools/"><u>[New] In 2024, Elite Online Collection of Video Downloader Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-innovators-crafting-next-gen-virtual-worlds/"><u>[New] In 2024, Innovators Crafting Next-Gen Virtual Worlds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thorough-investigation-dji-inspire-1-reviewed/"><u>[Updated] Thorough Investigation DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-visuals-10-must-try-text-upgrades-in-videos/"><u>2024 Approved Transforming Visuals 10 Must-Try Text Upgrades in Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-for-videos-vlc-or-mx/"><u>In 2024, Best for Videos VLC or MX?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-techniques-for-downloading-converting-and-saving-vids-on-twitter-as-mp3s/"><u>In 2024, Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-terracore-pros-fusion-of-touch-and-high-definition/"><u>In 2024, TerraCore Pros Fusion of Touch & High Definition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-impressive-hdr-portraits-explained/"><u>In 2024, The Art of Impressive HDR Portraits Explained</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-xbox-extended-storage-5-must-have-hdds/"><u>In 2024, Xbox Extended Storage 5 Must-Have HDDs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/metro-and-t-mobile-collaboration-insights-on-the-rules-governing-unlimited-data-roaming-practices/"><u>Metro and T-Mobile Collaboration: Insights on the Rules Governing Unlimited Data Roaming Practices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-setting-up-automatic-repeat-alerts-on-your-ios-devices/"><u>Step-by-Step Guide: Setting up Automatic Repeat Alerts on Your iOS Devices</u></a></li>
+</ul></div>
+

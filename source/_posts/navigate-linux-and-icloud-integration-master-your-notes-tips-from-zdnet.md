@@ -1,7 +1,7 @@
 ---
 title: "Navigate Linux & iCloud Integration: Master Your Notes - Tips From ZDNet"
-date: 2024-09-18 22:13:51
-updated: 2024-09-20 12:34:47
+date: 2024-12-23T16:16:00.239Z
+updated: 2024-12-27T17:10:24.008Z
 tags:
   - cloud
 categories:
@@ -56,6 +56,10 @@ So, without further ado, let's get this app installed.
 
 **Also: [The best note-taking apps for iPad: Ditch the pen and paper](https://www.zdnet.com/article/best-note-taking-app-for-ipad/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iCloud Notes on Linux
 
 **What you'll need:** You'll need three things for this: a Linux distribution that supports Snap applications, an iCloud account, and a user with sudo privileges. You do not need to do anything from the MacOS side of things (other than authenticate the login process).
@@ -65,6 +69,10 @@ That's it. Let's install!
 ## 1\. Open a terminal window
 
 The first thing to do is open your terminal window app. If your distribution has Snap support built into the GUI app store, you could search the store for iCloud Notes and install from there; otherwise, you'll need to do this from the command line.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install iCloud Notes
 
@@ -76,9 +84,17 @@ When the installation finishes, you can close your terminal window.
 
 **Also: [Thinking about switching to Linux? 9 things you need to know](https://www.zdnet.com/article/thinking-about-switching-to-linux-9-things-you-need-to-know/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Logging into iCloud
 
 The next thing you'll need to do is log into your iCloud account. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open iCloud Notes
 
@@ -87,6 +103,10 @@ From your desktop menu, open the iCloud Notes app. You should be presented with 
 The sign-in process for iCloud Notes is very simple.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Authenticate your login
 
@@ -127,11 +147,27 @@ So far I've been very pleased with this app. Although it doesn't include all of 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-a-novices-approach-to-acquiring-picture-frames/"><u>[New] 2024 Approved A Novice's Approach to Acquiring Picture Frames</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-syma-x8c-performance-breakdown/"><u>[New] Syma X8C Performance Breakdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-effective-film-production-using-movie-maker-windows-8/"><u>[Updated] The Ultimate Guide to Effective Film Production Using Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-create-gripping-documentary-scenes/"><u>2024 Approved Strategies to Create Gripping Documentary Scenes</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/descubre-el-equivalente-a-windows-11-time-machine-en-macos-con-esta-guia-detallada/"><u>Descubre El Equivalente a Windows 11 Time Machine en macOS Con Esta Guía Detallada</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-12-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi 12 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-breaking-boundaries-custom-font-use-in-after-effects/"><u>In 2024, Breaking Boundaries Custom Font Use in After Effects</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-c67-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme C67 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-a1x-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo A1x 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oneplus-nord-3-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-swift-shift-from-srt-to-text-your-modern-guide-for-speed/"><u>In 2024, Swift Shift From SRT to Text Your Modern Guide for Speed</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-maximizing-quality-and-efficiency-with-compressor-in-final-cut-pro-x/"><u>Updated In 2024, Maximizing Quality and Efficiency with Compressor in Final Cut Pro X</u></a></li>
+</ul></div>
+

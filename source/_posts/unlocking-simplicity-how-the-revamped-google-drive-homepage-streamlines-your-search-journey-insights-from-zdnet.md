@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Simplicity: How the Revamped Google Drive Homepage Streamlines Your Search Journey - Insights From ZDNet"
-date: 2024-09-17 21:54:23
-updated: 2024-09-20 12:11:11
+date: 2024-12-25T16:29:15.732Z
+updated: 2024-12-27T17:14:27.413Z
 tags:
   - cloud
 categories:
@@ -43,9 +43,17 @@ Maybe in time.
 
 Until then, let me show you around the new Home option in Google Drive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Google Drive Home
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser with which to view Drive. Let's go home, shall we?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open Google Drive
 
@@ -55,6 +63,10 @@ The new Google Drive home page makes it easier to find what you need.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Choose what you want to see
 
 Say, for instance, you only want to view your folders. For that, click Folders and what you should see are the folders you access the most. This is a great option because my Drive account is packed with folders I haven't used in a long time but need to keep around (either for reference or "just in case"). For instance, by default, I see 76 folders in the root folder of my Drive account. If I go to Home and click Folders, I see only 10\. I can also click Show More Folders and Home will then allow me to modify what I see (such as by modification, people, or location).
@@ -63,6 +75,10 @@ After clicking Folders, I have quick access to my most-used folders.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. The To do option
 
 One interesting option in Home is To do. This option is only revealed if you click Folders > Show More Folders. Click the To do drop-down and you can then select from Pending my approval, Requested by me, Suggestions, Comments assigned to me, and Review and accept. Interestingly enough, although the To do drop-down only appears in folders, when you select an option, it applies to both folders _and_ files. This is a great way to see all files that include changes awaiting your attention.
@@ -70,6 +86,10 @@ One interesting option in Home is To do. This option is only revealed if you cli
 The To-do drop-down gives you quick access to files and folders that need your attention.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Opt out of Home
 
@@ -104,11 +124,26 @@ When I first saw the new Home default, I was certain I'd be opting out of it and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-sonic-sweets-best-romantic-melodies-for-your-pledged-life/"><u>[New] 2024 Approved Sonic Sweets Best Romantic Melodies for Your Pledged Life</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-talk-shows/"><u>[New] The Secret Ingredient to Success 15 Activities that Enhance Learning While Listening to Talk Shows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-portable-video-player-mkv-format/"><u>[New] Ultimate Portable Video Player (MKV Format)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-source-guide-buying-and-downloading-your-favorite-youtube-rings/"><u>[New] Ultimate Source Guide Buying and Downloading Your Favorite YouTube Rings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-maximizing-your-time-free-countdown-essentials/"><u>[Updated] Maximizing Your Time Free Countdown Essentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-precision-cuts-and-transitions-for-premier-users/"><u>[Updated] Precision Cuts & Transitions for Premier Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-solve-invisible-buffer-problems-in-video-games/"><u>2024 Approved Solve Invisible Buffer Problems in Video Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enabling-dark-theme-on-your-iphone-a-step-by-step-guide/"><u>Enabling Dark Theme on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-scene-reduction-unveiling-imovies-cropping-logic/"><u>In 2024, Scene Reduction Unveiling iMovie's Cropping Logic</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-y28-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo Y28 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/warframe-update-not-working-heres-how-you-can-successfully-retry-the-process/"><u>Warframe Update Not Working? Here's How You Can Successfully Retry the Process</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Definitive History of the 2Cuationary Collision Between CrowdStrike & Windows Meltdown , as Covered by ZDNET
-date: 2024-12-19T23:12:24.275Z
-updated: 2024-12-21T21:11:33.914Z
+date: 2024-12-20T16:59:54.065Z
+updated: 2024-12-27T16:42:41.190Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,24 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-selection-of-top-5-best-android-photo-apps/"><u>[New] The Ultimate Selection of Top 5 Best Android Photo Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-assortment-of-gopro-modifications/"><u>[New] Ultimate Assortment of Gopro Modifications</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-social-media-stardom-essential-strategies-for-instagram-fame/"><u>[New] Unlocking Social Media Stardom Essential Strategies for Instagram Fame</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-gold-strategies-for-financial-flourishing/"><u>[New] YouTube Gold Strategies for Financial Flourishing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unravel-the-mysteries-of-morphvox-the-ultimate-guide-to-voice-modification/"><u>[Updated] Unravel the Mysteries of MorphVOX The Ultimate Guide to Voice Modification</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-manual-on-motion-detection-techniques/"><u>2024 Approved The Essential Manual on Motion Detection Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-quickest-way-to-entertain-kapwing-memes/"><u>2024 Approved The Quickest Way to Entertain - Kapwing Memes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-fisheye-camera-capabilities/"><u>2024 Approved The Ultimate Guide to Fisheye Camera Capabilities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tutorial-for-downloading-wm6/"><u>2024 Approved Ultimate Tutorial for Downloading WM6</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choose-the-ideal-2022-credit-card-reader-a-comprehensive-review-by-zdnet/"><u>Choose the Ideal 2022 Credit Card Reader: A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-secure-your-data-enabling-icloud-backups-for-iphone-ipad-and-ipod-touch/"><u>Easy Steps to Secure Your Data: Enabling iCloud Backups for iPhone, iPad & iPod Touch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-exceptional-display-quality-high-performance-lightweight-laptop-at-a-steep-discount-dont-miss-out/"><u>Experience Exceptional Display Quality: High-Performance Lightweight Laptop at a Steep Discount – Don’t Miss Out!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-on-how-to-repair-voice-communication-in-counter-strike-2/"><u>Guide on How to Repair Voice Communication in Counter-Strike 2</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-15-plus-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 15 Plus Stuck On Activation Lock?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini Passcode without Computer?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/international-love-jargon-for-a-special-day/"><u>International Love Jargon for a Special Day</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-call-capture-tutorial-is-it-legal-expert-advice/"><u>IPhone Call Capture Tutorial: Is It Legal? - Expert Advice</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/screen-time-secrets-in-depth-recorder-guide-for-2024/"><u>Screen Time Secrets In-Depth Recorder Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-bulk-tiktok-media-extraction-for-2024/"><u>Unlocking the Potential of Bulk TikTok Media Extraction for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-dissecting-obs-technology-for-top-level-recording/"><u>[New] In 2024, Dissecting OBS Technology for Top-Level Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pro-level-text-templates-for-adobe-ae/"><u>[New] Pro-Level Text Templates for Adobe AE</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-step-by-step-capturing-powerful-presentations-in-adobe-presenter/"><u>[New] Step-by-Step Capturing Powerful Presentations in Adobe Presenter</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-value-for-money-top-6-budget-4k-projector-models/"><u>[Updated] 2024 Approved Best Value for Money Top 6 Budget 4K Projector Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-slow-mo-with-these-android-hacks/"><u>2024 Approved Unlock the Power of Slow Mo with These Android Hacks</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/alleviate-problem-buffering-tweets-in-chromebook-for-2024/"><u>Alleviate Problem Buffering Tweets in Chromebook for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-infinix-smart-8-hd-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Infinix Smart 8 HD Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-photo-editing-key-pixlr-insights/"><u>In 2024, Streamline Photo Editing Key Pixlr Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-vlcs-potential-for-mpeg-4-and-diverse-file-alterations/"><u>In 2024, Unlocking VLC's Potential for MPEG-4 and Diverse File Alterations</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ering-youtube-success-stories-via-tubebuddy-for-2024/"><u>Pioneering YouTube Success Stories via TubeBuddy for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/step-by-step-for-powerpoint-voiceover-excellence-for-2024/"><u>Step-by-Step for PowerPoint Voiceover Excellence for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-free-vfx-websites-for-2024/"><u>The Ultimate List of FREE VFX Websites for 2024</u></a></li>
 </ul></div>
 

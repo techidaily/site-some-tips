@@ -1,7 +1,7 @@
 ---
 title: Data Breach Expenses Surge by 10%% Despite AI Interventions - Insights From ZDNet
-date: 2024-09-19 20:50:22
-updated: 2024-09-20 12:57:13
+date: 2024-12-24T16:30:07.316Z
+updated: 2024-12-27T17:26:01.291Z
 tags:
   - cloud
 categories:
@@ -100,11 +100,37 @@ To stay ahead, Skapinetz urged organizations to invest in [AI-driven defenses](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-the-art-of-image-editing-in-depth-analysis-of-adobe-ps-background-removal-tool-for-2024/"><u>[New] Mastering the Art of Image Editing In-Depth Analysis of Adobe PS Background Removal Tool for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-10-most-advanced-hashtag-monitors-on-social-media-sites-fbtweetinsta-for-2024/"><u>[Updated] 10 Most Advanced Hashtag Monitors on Social Media Sites (FB/Tweet/Insta) for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-analyzing-user-feedback-the-latest-on-lg-bp350-display-tech/"><u>[Updated] 2024 Approved Analyzing User Feedback The Latest on LG BP350 Display Tech</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-twist-tactics-achieving-angles-that-stand-out-on-social-media/"><u>[Updated] In 2024, Twist Tactics Achieving Angles That Stand Out on Social Media</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-selecting-the-best-free-melodies-for-your-youtube-video-for-2024/"><u>[Updated] Selecting the Best Free Melodies for Your YouTube Video for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-websites-aimed-at-enhancing-text-appearance/"><u>2024 Approved Top Websites Aimed at Enhancing Text Appearance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-strategies-for-impartiating-patient-narratives/"><u>2024 Approved Transformative Strategies for Impartiating Patient Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-uhd-precision-converter-clearer-sharper-visuals/"><u>2024 Approved UHD Precision Converter Clearer, Sharper Visuals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-the-legitimacy-of-truthgpt-tokens/"><u>Evaluating the Legitimacy of TruthGPT Tokens</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-a05-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy A05 Device SIM</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-mkv-players-macos-edition/"><u>In 2024, Top-Tier MKV Players MacOS Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creativity-a-detailed-look-at-vsco-features/"><u>In 2024, Unleash Creativity A Detailed Look at VSCO Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplified-approach-to-download-youtube-captions-3-proven-methods-for-2024/"><u>Simplified Approach to Download YouTube Captions 3 Proven Methods for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swift-and-smooth-your-ultimate-guide-to-iphone-podcast-downloading-for-2024/"><u>Swift & Smooth Your Ultimate Guide to iPhone Podcast Downloading for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-iphone-cinematography-transforming-fast-motion-into-sluggish-sequences-for-2024/"><u>The Art of iPhone Cinematography Transforming Fast Motion Into Sluggish Sequences for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-complete-insight-into-vivacut-2024-features-and-functionality/"><u>The Complete Insight Into VivaCut 2024 Features & Functionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-imaging-expertise-in-adobes-high-dynamic-range-for-2024/"><u>Transform Imaging Expertise in Adobe's High Dynamic Range for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/m4a-wma-movavi/"><u>무료 인터넷 블로그에서 원통물 변환: M4A WMA 전환기 - Movavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

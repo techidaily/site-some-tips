@@ -1,7 +1,7 @@
 ---
 title: "Edge-to-Cloud Mastery: Unleash Data Potential & Gain Key Perspectives | Guided by ZDNet Experts"
-date: 2024-09-18 16:21:21
-updated: 2024-09-20 11:20:51
+date: 2024-12-24T17:16:43.119Z
+updated: 2024-12-27T16:20:03.302Z
 tags:
   - cloud
 categories:
@@ -29,6 +29,10 @@ But insights and actionable strategies come when all data across the enterprise 
 
 Home-by-Home sells a wall mounted lighting fixture that uses plastic brackets to affix it to the wall. Usually, it's a great seller. But in March and April every year, the company gets a flood of returns because the brackets crack. The returns are from all over the country, from Miami to Seattle. That's our first data set, and it's known to the stores themselves.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Digital Transformation
 
 * [Demand for blockchain skills shot up 552% in 2022\. Here's why](https://www.zdnet.com/article/demand-for-blockchain-skills-shot-up-552-in-2022-heres-why/)
@@ -42,6 +46,10 @@ Neither data set is connected to the other. But [as we explored in some depth a 
 
 But by capturing all the data and making data sets available for analysis (and AI-based correlation and big data processing), insights become possible. In this case, because Home-by-Home made [digital transformation](https://www.zdnet.com/article/what-is-digital-transformation-everything-you-need-to-know-about-how-technology-is-reshaping/) part of its DNA, the company was able to make the connection between factory temperature and returns, and now customers who purchase those lighting fixtures experience far fewer failures. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Your data is everywhere, but is it actionable?
 
 This is just one example of the potential to harvest data from edge-to-cloud. There are a few key ideas here that are all interrelated. 
@@ -53,6 +61,10 @@ This is just one example of the potential to harvest data from edge-to-cloud. Th
 **Insights come when correlating multiple inputs:** While it's possible to subject a single dataset to comprehensive analysis and come up with insights, you're far more likely to see trends when you can relate data from one source to data from other sources. We earlier showed how the temperature of a factory floor has a distant, but measurable, connection to the volume of returns in stores across the nation. 
 
 **To do that, all that data needs to be accessible across your enterprise:** But those correlations and observations are only possible when analysts (both human and AI) can gain access to many sources of data to learn what stories it all tells.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Making data usable and turning it into intelligence
 
@@ -74,6 +86,10 @@ As we discussed earlier, we've siloed so much of it. But even when we pull all t
 
 The IT buzz-phrases of data modernization and digital transformation go hand-in-hand. That's because a digital transformation can't take place unless the methodologies of storing and retrieving data are a top (often _the_ top) organizational IT priority. This is called a data-first strategy and it can reap substantial rewards for your business.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [How to disable ACR (and greatly reduce ads) on every TV model - and why you should](https://www.zdnet.com/article/how-to-disable-acr-and-greatly-reduce-ads-on-every-tv-model-and-why-you-should/)
@@ -86,6 +102,10 @@ See, here's the thing. If your data is tied up and trapped, you can't use it eff
 Not only that, poorly managed data can be a time sink for your professional IT staff. Instead of working to drive the organization forward through innovation, they're spending time managing all these different systems, databases, and interfaces, and troubleshooting all the different ways they can break.
 
 Modernizing your data not only means you can innovate, it also means you can free up your time to think instead of react. That also provides you time to deploy more applications and features that can open new horizons for your business.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Find the value and actionable insights hidden in your data
 
@@ -116,11 +136,33 @@ That's where management and infrastructure services like HPE GreenLake and its c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-strategizing-superior-screen-snatchers/"><u>[New] Strategizing Superior Screen-Snatchers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-essential-guide-to-iphone-voice-recording-techniques/"><u>[Updated] 2024 Approved Essential Guide to iPhone Voice Recording Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-best-gopro-hero5-black-batteries-and-chargers-official-and-3rd-party-for-2024/"><u>[Updated] Best GoPro Hero5 Black Batteries & Chargers Official and 3Rd Party for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-metaverse-masterpieces-top-ten-films-that-reimagine-realities/"><u>[Updated] Metaverse Masterpieces Top Ten Films That Reimagine Realities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-beginners-guide-to-stunning-slow-motion-shooting-with-an-android/"><u>[Updated] The Beginner's Guide to Stunning Slow-Motion Shooting with an Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-comprehensive-guide-to-changing-console-voice/"><u>[Updated] The Comprehensive Guide to Changing Console Voice</u></a></li>
+<li><a href="https://video-capture.techidaily.com/beyondbaselinecameras-whats-upnext-in-2024/"><u>BeyondBaselineCameras What's UpNext, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-dji-inspire-1-review-insights/"><u>Complete DJI Inspire 1 Review Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synthesizing-clarity-a-complete-voice-note-taking-course/"><u>In 2024, Synthesizing Clarity A Complete Voice Note-Taking Course</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-nubia-z50-ultra-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Nubia Z50 Ultra Android SIM Unlock APK</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transformative-meme-making-discovering-the-best-8-tools/"><u>In 2024, Transformative Meme-Making Discovering the Best 8 Tools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/optimize-tiktok-performance-the-ultimate-toolkit-for-2024/"><u>Optimize TikTok Performance The Ultimate Toolkit for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/premium-collection-of-animated-texts-for-2024/"><u>Premium Collection of Animated Texts for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-infinix-note-30-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Infinix Note 30 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-itunes-podcast-upload-for-2024/"><u>The Complete Guide to iTunes Podcast Upload for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-digital-battlefield-surge-of-gaming-cyberattacks/"><u>The Digital Battlefield: Surge of Gaming Cyberattacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-mastery-in-cinematic-productions-with-kinemaster-for-2024/"><u>Transition Mastery in Cinematic Productions with Kinemaster for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-free-access-a-guide-on-getting-netflix-without-costs/"><u>Unlocking Free Access: A Guide on Getting Netflix Without Costs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-im-continuously-choosing-the-apple-watch-series-7-over-upcoming-series-10/"><u>Why I'm Continuously Choosing the Apple Watch Series 7 Over Upcoming Series 10</u></a></li>
+</ul></div>
+

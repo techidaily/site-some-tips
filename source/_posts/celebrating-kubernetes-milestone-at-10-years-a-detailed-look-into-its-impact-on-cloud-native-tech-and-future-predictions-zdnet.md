@@ -1,7 +1,7 @@
 ---
 title: "Celebrating Kubernetes Milestone at 10 Years: A Detailed Look Into Its Impact on Cloud-Native Tech & Future Predictions | ZDNet"
-date: 2024-09-19 13:57:51
-updated: 2024-09-20 12:49:31
+date: 2024-12-25T17:43:41.296Z
+updated: 2024-12-27T17:10:20.858Z
 tags:
   - cloud
 categories:
@@ -39,6 +39,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Kubernetes' genesis
 
 The story of Kubernetes begins in the early 2010s at Google, where engineers were grappling with the challenges of managing large-scale containerized applications. Everyone recognized how important containers were and that we needed a way to manage them. 
@@ -61,6 +65,10 @@ Even in those early days, though, I thought Kubernetes would be the clear winner
 
 Kubernetes quickly gained traction. The name "Kubernetes'' comes from the Greek word for "helmsman" or "pilot," symbolizing its role in steering containerized applications. The Kubernetes logo, a seven-spoke ship's wheel, pays homage to its Borg heritage and its first name, Seven of Nine, a friendly Borg from Star Trek, which was dropped for obvious trademark reasons. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Rapid adoption and community growth 
 
 Kubernetes' open-source nature and robust feature set made it an instant hit among developers and enterprises. By 2015, Kubernetes had reached version 1.0, and Google partnered with the Linux Foundation to form the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/), with Kubernetes as its seed technology. This move was pivotal in fostering a vibrant community around Kubernetes, leading to rapid innovation and widespread adoption. 
@@ -70,6 +78,10 @@ Kubernetes' open-source nature and robust feature set made it an instant hit amo
 While other container orchestration programs are still with us, in 2017 Amazon Web Services [(AWS) announced Elastic Container Service for Kubernetes (EKS)](https://www.zdnet.com/article/aws-launches-elastic-container-service-for-kubernetes/), and everyone could read the writing on the wall. Kubernetes would dominate the cloud-native world. 
 
 Simultaneously, the CNCF nurtured the Kubernetes ecosystem. Today, hundreds of cloud-native programs all depend on Kubernetes. Today, there are no major cloud providers that don't rely on Kubernetes. It's become the go-to container orchestration platform. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Transforming cloud-native development 
 
@@ -82,6 +94,10 @@ Another key Kubernetes advantage is its portability. Applications deployed on Ku
 Over the years, in addition to related cloud-native programs, Kubernetes has spawned a rich ecosystem of tools and projects that extend its capabilities. These include [Helm](https://helm.sh/), the Kubernetes package manager that simplifies application deployment and management by providing reusable charts, and [Prometheus](https://prometheus.io/), the powerful Kubernetes environment monitoring and alerting program. 
 
 The rise of Kubernetes has also given birth to new paradigms like [GitOps](https://about.gitlab.com/topics/gitops/), which leverages Git as the single source of truth for declarative infrastructure and application management. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The future of Kubernetes
 
@@ -130,11 +146,25 @@ Kubernetes's future is bright. With ongoing innovation and a thriving ecosystem,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-mastering-overlay-techniques-for-video-and-image-enhancement-with-windows-10/"><u>[New] Mastering Overlay Techniques for Video and Image Enhancement with Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncovering-8-superior-online-srt-translation-tools/"><u>[New] Uncovering 8 Superior Online SRT Translation Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-streamlining-windows-photos-experience-with-added-filtersmusic-for-2024/"><u>[Updated] Streamlining Windows Photos Experience with Added Filters/Music for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-marketing-playbook-for-digital-beginners-on-reddit/"><u>2024 Approved The Ultimate Marketing Playbook for Digital Beginners on Reddit</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/8-critical-reasons-for-speaking-beyond-your-mother-tongue/"><u>8 Critical Reasons for Speaking Beyond Your Mother Tongue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-edge-40-neo-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Edge 40 Neo to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essentials-of-crafting-impactful-spotify-ads/"><u>In 2024, The Essentials of Crafting Impactful Spotify Ads</u></a></li>
+<li><a href="https://win-webster.techidaily.com/lip-reading-tech-shakes-up-the-market-the-game-changing-competitor-to-zoom-and-ms-teams-unveiled-on-zdnet/"><u>Lip-Reading Tech Shakes Up the Market: The Game-Changing Competitor to Zoom and MS Teams Unveiled on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fastest-way-to-scan-windows-files-for-2024/"><u>The Fastest Way to Scan Windows Files for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-samsung-galaxy-z-flip-6-specs-launch-timeline-and-latest-updates/"><u>Unveiling the Samsung Galaxy Z Flip 6 - Specs, Launch Timeline & Latest Updates</u></a></li>
+</ul></div>
+

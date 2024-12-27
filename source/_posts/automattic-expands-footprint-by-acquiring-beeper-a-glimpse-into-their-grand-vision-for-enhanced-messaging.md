@@ -1,7 +1,7 @@
 ---
 title: "Automattic Expands Footprint by Acquiring Beeper: A Glimpse Into Their Grand Vision for Enhanced Messaging"
-date: 2024-12-16T00:47:29.076Z
-updated: 2024-12-21T17:26:23.812Z
+date: 2024-12-20T16:21:24.771Z
+updated: 2024-12-27T17:33:47.664Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ In this article, I'll talk about that use case -- and why VPNs are so important 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The killer app for XR (2024 edition)
@@ -63,7 +63,7 @@ Sure, there are many other uses for XR. ZDNET editor-in-chief [Jason Hiner loves
 I would argue that using XR while traveling or living in a small space is, however, the first killer app for these types of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The obvious necessity of a VPN
@@ -81,7 +81,7 @@ Worse, those connections are often shared, and there's a fair chance someone mig
 The primary protection for those who need to travel and go online is using a VPN to encrypt traffic as it leaves your computing device. Some companies require employees to connect to their corporate networks over a VPN for similar reasons. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use a VPN with an XR headset
@@ -109,7 +109,7 @@ Virtual Dude also recommends sideloading an app that lets you sideload Android a
 That said, Virtual Dude's video is a proof of concept that VPNs can work on XR devices like the Quest. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Give it some time
@@ -161,17 +161,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-maximize-content-by-merging-apple-music-to-videos/"><u>[New] 2024 Approved Maximize Content by Merging Apple Music to Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-full-picture-of-ustream-and-analogous-services/"><u>[New] The Full Picture of Ustream & Analogous Services</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-potential-with-instagram-videos-strategic-planning-insights-for-2024/"><u>[New] Unlocking Potential with Instagram Videos Strategic Planning Insights for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers/"><u>[Updated] Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-getting-acquainted-with-periscope-costs-benefits-and-account-creation/"><u>2024 Approved Getting Acquainted with Periscope Costs, Benefits & Account Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-time-lapse-magic-animation-through-the-lens-of-movie-maker/"><u>2024 Approved Time-Lapse Magic Animation Through the Lens of Movie Maker</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/expert-tips-from-yl-software-for-troubleshooting-and-fixing-your-computer-display-problems/"><u>Expert Tips From YL Software for Troubleshooting and Fixing Your Computer Display Problems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-compile-multiple-jpegs-together-into-one-consolidated-pdf-format/"><u>How to Compile Multiple JPEGs Together Into One Consolidated PDF Format</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-9-live-stream-enhancers-ultimate-filter-guide/"><u>In 2024, Top 9 Live-Stream Enhancers Ultimate Filter Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-collection-top-notch-free-meme-designs/"><u>In 2024, Ultimate Collection Top-Notch FREE Meme Designs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-uplifting-films-for-boosting-your-drive-for-2024/"><u>Top 10 Uplifting Films for Boosting Your Drive for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-master-your-captions-the-top-10-precision-subtitle-editors/"><u>[New] 2024 Approved Master Your Captions The Top 10 Precision Subtitle Editors</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stream-titling-service/"><u>[New] Stream Titling Service</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uniquely-branding-podcasts-expert-led-logo-insights/"><u>[New] Uniquely Branding Podcasts Expert-Led Logo Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-superior-hd-videos-on-android-devices/"><u>[New] Unleash Superior HD Videos on Android Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-owner-uncovering-your-subscribers/"><u>[Updated] In 2024, Channel Owner Uncovering Your Subscribers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-for-crafting-top-charting-youtube-titles/"><u>[Updated] Ultimate Guide for Crafting Top-Charting YouTube Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-using-srt-audio-on-windows-and-macos-devices/"><u>[Updated] Using SRT Audio on Windows & macOS Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-a-space-for-feedback-talking-with-your-viewers/"><u>Creating a Space for Feedback Talking with Your Viewers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-collection-of-christmas-time-roku-promotions-curated-by-experts-at-zdnet/"><u>Discover the Ultimate Collection of Christmas Time Roku Promotions Curated by Experts at ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-10-premium-image-editing-overlays-free-for-android-and-iphone-users/"><u>In 2024, 10 Premium Image Editing Overlays Free for Android & iPhone Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-selective-alert-tunes-prime-audio-spots/"><u>In 2024, Selective Alert Tunes Prime Audio Spots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-adding-a-link-in-your-tiktok-bio/"><u>In 2024, The Ultimate Guide to Adding a Link in Your TikTok Bio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tactics-in-producing-convincing-customer-testimonial-videos/"><u>In 2024, Top Tactics in Producing Convincing Customer Testimonial Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-vr-treadmills-review/"><u>In 2024, Top VR Treadmills Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uniting-platforms-the-seamless-addition-of-linktree-to-tiktok/"><u>In 2024, Uniting Platforms The Seamless Addition of Linktree to TikTok</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/troubleshooting-tips-for-razer-kraken-headset-mic-issues/"><u>Troubleshooting Tips for Razer Kraken Headset Mic Issues</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ultimate-user-manual-mastering-your-apowertrans-experience/"><u>Ultimate User Manual: Mastering Your ApowerTrans Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-creative-potential-with-pexels-visuals-for-2024/"><u>Unlocking Creative Potential with Pexels Visuals for 2024</u></a></li>
 </ul></div>
 

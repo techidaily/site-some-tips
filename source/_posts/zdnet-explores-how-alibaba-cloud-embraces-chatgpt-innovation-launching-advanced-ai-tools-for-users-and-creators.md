@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores How Alibaba Cloud Embraces ChatGPT Innovation, Launching Advanced AI Tools for Users and Creators
-date: 2024-09-19 22:44:11
-updated: 2024-09-20 11:16:23
+date: 2024-12-23T17:09:42.044Z
+updated: 2024-12-27T17:16:13.338Z
 tags:
   - cloud
 categories:
@@ -41,6 +41,10 @@ The six business entities encompass: Cloud Intelligence Group; Taobao Tmall Comm
 
 Describing the move as the most significant governance overhaul in Alibaba's 24-year history, the Chinese tech giant said the restructure would place the company in a position to "capture market opportunities and further stimulate growth". 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Alibaba Cloud to build own servers with new in-house chip](https://www.zdnet.com/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/)
@@ -56,11 +60,30 @@ Describing the move as the most significant governance overhaul in Alibaba's 24-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-deep-windows-11-secrets-effortless-media-upload-made-simple/"><u>[New] In 2024, Deep Windows 11 Secrets Effortless Media Upload Made Simple</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-choice-of-steadicams-for-drone-video-shootings/"><u>[New] Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-surge-in-tiktok-like-ratings-with-smart-unboxing/"><u>[New] Surge in TikTok Like Ratings with Smart Unboxing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-breakdown-xstudio-video-production-mastery/"><u>[New] The Ultimate Breakdown XStudio Video Production Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-upgrade-your-photo-edits-the-ultimate-guide-to-pixlr-power/"><u>[New] Upgrade Your Photo Edits The Ultimate Guide to Pixlr Power</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-lg-360-degree-headset-review-next-gen-immersion/"><u>[Updated] LG 360-Degree Headset Review - Next-Gen Immersion</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-best-10-free-jpg-to-gif-conversion-tools/"><u>2024 Approved Best 10 Free JPG to GIF Conversion Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-olympic-highlights-thrilling-runs-from-x-games/"><u>2024 Approved Olympic Highlights Thrilling Runs From X Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-sustainable-filmmaking-aids-at-no-charge/"><u>2024 Approved Sustainable Filmmaking Aids at No Charge</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-of-the-best-professional-animation-software-for-mac-and-windows/"><u>Best of the Best Professional Animation Software for Mac and Windows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/brief-sequences-lasting-impressions-time-lapse-with-samsung/"><u>Brief Sequences, Lasting Impressions Time-Lapse with Samsung</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-lava-blaze-2-5g-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Lava Blaze 2 5G</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sion-and-performance-gamers-equipment-showcase-for-2024/"><u>Precision & Performance Gamer's Equipment Showcase for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-steps-to-resolve-msvcr100dll-file-cannot-be-found/"><u>Solving the Mystery: Steps to Resolve 'Msvcr100.dll' File Cannot Be Found</u></a></li>
+<li><a href="https://article-helps.techidaily.com/stellar-photo-alterations-frameshift-prowess-for-2024/"><u>Stellar Photo Alterations FrameShift Prowess for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-iphone-bargains-in-july-2024-exclusive-offers-curated/"><u>Top-Rated iPhone Bargains in July 2024: Exclusive Offers Curated</u></a></li>
+</ul></div>
+

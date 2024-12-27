@@ -1,7 +1,7 @@
 ---
 title: "Solution: Civil Engineers Review the Quality Control Test Results to Ensure They Meet Project Specifications and Decide Whether Further Compaction Is Necessary Based on the Data."
-date: 2024-09-18 22:27:50
-updated: 2024-09-20 10:45:28
+date: 2024-12-21T16:25:59.275Z
+updated: 2024-12-27T16:21:39.933Z
 tags:
   - cloud
 categories:
@@ -82,11 +82,35 @@ Could there be a mainframe in your future? I cut my computing teeth on mainframe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-offline-android-games-dive-into-the-fun-without-a-network/"><u>[New] Best Offline Android Games - Dive Into the Fun Without a Network</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-snapshot-solution-how-to-swiftly-switch-your-gif-for-a-sticker/"><u>[New] The Snapshot Solution How to Swiftly Switch Your GIF for a Sticker</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-checklist-for-movie-maker-videos-on-vimeo-for-2024/"><u>[New] The Ultimate Checklist for Movie Maker Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-10-best-terraria-mods/"><u>[Updated] In 2024, Top 10 Best Terraria Mods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-take-your-imagery-to-new-heights-photoshops-3d-text-technique/"><u>[Updated] Take Your Imagery to New Heights Photoshop’s 3D Text Technique</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-sound-of-serenity-windowsmac-adjustments/"><u>2024 Approved The Sound of Serenity Windows/Mac Adjustments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-5-pro-drone-selections-for-professionals/"><u>2024 Approved Top 5 Pro Drone Selections for Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-power-in-valorant-the-best-voice-modifier-without-payment/"><u>2024 Approved Unleash Power in Valorant The Best Voice Modifier Without Payment</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ready-set-fly-dji-spark-reviewed-for-selfie-enthusiasts-and-photographers-alike/"><u>In 2024, Ready, Set, Fly DJI Spark Reviewed for Selfie Enthusiasts and Photographers Alike</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-soundtracks-into-professional-podcasts/"><u>In 2024, Transforming Soundtracks Into Professional Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-free-secure-vlc-player-access-on-apple-devices/"><u>In 2024, Unlocking Free, Secure VLC Player Access on Apple Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-the-best-livestreaming-video-tech-for-2024/"><u>In-Depth Analysis The Best Livestreaming Video Tech for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/recuperation-de-donnees-avec-aomei-onekey-online-achat-facile-et-securise/"><u>Récupération De Données Avec AOMEI OneKey Online : Achat Facile Et Sécurisé</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-perfect-pairing-of-xbox-and-zooming-techniques-for-gaming-for-2024/"><u>The Perfect Pairing of Xbox and Zooming Techniques for Gaming for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/timeline-tales-the-fascinating-historical-saga-of-electric-automobiles/"><u>Timeline Tales: The Fascinating Historical Saga of Electric Automobiles</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtube-money-matters-how-to-understand-your-partner-payouts/"><u>YouTube Money Matters How to Understand Your Partner Payouts</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Singapore Enhances Government Services with Cloud-Based AI Technology - Insights From ZDNet
-date: 2024-09-18 11:30:18
-updated: 2024-09-20 12:29:10
+date: 2024-12-21T16:55:53.450Z
+updated: 2024-12-27T16:28:24.504Z
 tags:
   - cloud
 categories:
@@ -62,6 +62,10 @@ In addition, the Monetary Authority of Singapore (MAS) is working with Google to
 Noting that competition remained tough and the global landscape is constantly evolving, he added that AI will play a key role for Singapore moving forward. 
 
 He said MAS will use the collaboration with Google to identify generative AI use cases that will allow it to work more efficiently and provide foundational models that prioritise data security and AI governance. "Through this, we hope to inspire greater adoption of [responsible generative AI in the financial](https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/) sector," Loy said.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Doing things differently with AI
 
@@ -134,11 +138,28 @@ Commenting on the vendor's collaboration with the Singapore government, Ng said:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-voice-change-masters-the-hottest-chromebook-extensions-for-you-for-2024/"><u>[New] Voice Change Masters The Hottest Chromebook Extensions for You for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlimited-potential-with-best-in-class-pp-templates/"><u>[Updated] Unlimited Potential with Best-in-Class PP Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocked-gems-seeking-free-tiktok-picture-perfections/"><u>[Updated] Unlocked Gems Seeking Free TikTok Picture Perfections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-list-for-google-pixel-tunes/"><u>2024 Approved The Ultimate List for Google Pixel Tunes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-oneplus-nord-ce-3-5g-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your OnePlus Nord CE 3 5G lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-dot-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .dot file</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/innovative-fb-video-editors-for-high-impact-advertising-campaigns-for-2024/"><u>Innovative Fb Video Editors for High-Impact Advertising Campaigns for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pure-base-500dx-mid-tower-desktop-chassis-steal-the-deal-at-only-84/"><u>Pure Base 500DX Mid Tower Desktop Chassis - Steal the Deal at Only $84!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-top-10-tips-for-troubleshooting-apple-pay-problems/"><u>Quick Solutions: Top 10 Tips for Troubleshooting Apple Pay Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-charging-solutions-discover-how-esrs-new-qi2-magsafe-adapters-power-up-iphone-16-devices-quickly-and-coolly-exclusive-on-zdnet/"><u>Revolutionary Charging Solutions: Discover How ESR's New Qi2 MagSafe Adapters Power Up iPhone 16 Devices Quickly and Coolly – Exclusive on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rhythmic-resonance-the-ultimate-site-list-for-downloads-for-2024/"><u>Rhythmic Resonance The Ultimate Site List for Downloads for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-foundations-of-vsco-photo-manipulation-for-2024/"><u>The Foundations of VSCO Photo Manipulation for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/turbo-anthem-sidestep-hiccups/"><u>Turbo Anthem: Sidestep Hiccups</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-update-essentials-repair-and-restoration-successfully-completed/"><u>Windows Update Essentials: Repair and Restoration Successfully Completed</u></a></li>
+</ul></div>
+

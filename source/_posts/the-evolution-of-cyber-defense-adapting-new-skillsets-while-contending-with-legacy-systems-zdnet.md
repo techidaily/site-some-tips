@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Cyber Defense: Adapting New Skillsets While Contending with Legacy Systems | ZDNet"
-date: 2024-09-19 16:48:49
-updated: 2024-09-20 12:36:12
+date: 2024-12-24T17:10:48.429Z
+updated: 2024-12-27T17:27:21.293Z
 tags:
   - cloud
 categories:
@@ -42,6 +42,10 @@ Globally, 92% of cybersecurity professionals believe their organization has skil
 This demand will continue to grow as organizations incorporate AI into more processes, further driving the need for cloud computing, and the need for both skillsets, France noted. It means cybersecurity professionals will need to understand how AI is integrated and secure the applications and workflows it powers, he said. 
 
 Left unplugged, gaps in cybersecurity skills and staff will result in teams being overloaded and this can lead to oversights in addressing vulnerabilities, he cautioned. Misconfiguration and falling behind security patches are among the most common mistakes that can lead to breaches, he added. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI adoption driving the need for new skills
 
@@ -94,6 +98,10 @@ Burn further noted: "Most organizations were not prepared for the rapid migratio
 To address these requirements, she said organizations are tapping the knowledge that security operations and software development or product security teams have on infrastructure and adjusting this for the new environments. "So it's about finding the right training and upskilling resources and giving teams the time to train," she added. 
 
 "Having an underskilled team can be as risky as having an understaffed one," she said. Citing Forrester's 2022 Business Technographics survey on data security, she said companies that had six or more data breaches in the past year were more likely to report the unavailability of security employees with the right skills as one of their biggest IT security challenges in the past 12 months. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tech stacks need simplifying to ease security management
 
@@ -171,11 +179,33 @@ Few organizations, unless they have the necessary capabilities, have a collectiv
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-ranking-videos-youtubes-everlasting-classics/"><u>[New] In 2024, High-Ranking Videos YouTube’s Everlasting Classics</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-the-exchange-of-fb-vids-on-whatsapp/"><u>[New] Mastering the Exchange of FB Vids on WhatsApp</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-pro-level-photovideo-creators-with-soundtracks/"><u>[New] Top 5 Pro-Level Photo/Video Creators with Soundtracks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-understanding-instagrams-max-video-length-guide-for-2024/"><u>[New] Understanding Instagram's Max Video Length Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-picture-in-progressive-screen-mastery-for-chrome-users-across-platforms/"><u>[Updated] In 2024, Picture in Progressive Screen Mastery for Chrome Users Across Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-exclusive-guide-to-best-4k-screens-for-mac-devotees/"><u>[Updated] The Exclusive Guide to Best 4K Screens for Mac Devotees</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-digital-storefronts-for-exquisite-presentation-boxes/"><u>[Updated] Top 10 Digital Storefronts for Exquisite Presentation Boxes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-live-methods-for-quieter-track-output/"><u>2024 Approved Live Methods for Quieter Track Output</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-mute-auto-generated-youtube-content-trails/"><u>2024 Approved Mute Auto-Generated YouTube Content Trails</u></a></li>
+<li><a href="https://article-files.techidaily.com/cosmetics-creativity-guides-for-2024/"><u>Cosmetics Creativity Guides for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-protecting-content-avoiding-premature-deletions/"><u>In 2024, Protecting Content Avoiding Premature Deletions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-editing-with-vita-a-complete-review/"><u>In 2024, The Future of Editing with Vita - A Complete Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-this-video-will-get-you-100000-views-on-youtube/"><u>In 2024, This Video Will Get You 100000 Views on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/instant-identity-protection-blur-image-edges-for-2024/"><u>Instant Identity Protection Blur Image Edges for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2613504-9781442676275-into-the-daylight/"><u>Into the Daylight | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-fixing-a-non-responsive-windows-11-start-button-and-menu/"><u>Solutions for Fixing a Non-Responsive Windows 11 Start Button and Menu</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-guide-effortless-dvd-and-cd-copying-ripping-and-recording-methods/"><u>Ultimate Guide: Effortless DVD & CD Copying, Ripping, and Recording Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uniting-single-scenes-iphone-multi-media-magic-for-2024/"><u>Uniting Single Scenes IPhone Multi-Media Magic for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-best-18-online-video-recorders-for-clear-captures-for-2024/"><u>Unveiling the Best 18 Online Video Recorders for Clear Captures for 2024</u></a></li>
+</ul></div>
+

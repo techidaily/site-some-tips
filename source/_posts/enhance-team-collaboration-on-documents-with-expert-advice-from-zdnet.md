@@ -1,7 +1,7 @@
 ---
 title: Enhance Team Collaboration on Documents with Expert Advice From ZDNet
-date: 2024-09-19 22:14:58
-updated: 2024-09-20 12:30:58
+date: 2024-12-22T17:34:12.640Z
+updated: 2024-12-27T17:18:09.528Z
 tags:
   - cloud
 categories:
@@ -47,9 +47,17 @@ But it's not my place to tell a fellow writer how to do his thing. Writers are a
 
 Ready?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use the same tool
 
 This is an "if possible" situation. I know it's not always possible for all collaborators to use the same office suite. I say "possible" quite loosely, because it actually is possible. In this day of cloud-based office suites, there's absolutely no reason why anyone should have to struggle with the whole, "You need to use the same tool I'm using!" thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -66,6 +74,10 @@ If all involved in the collaboration don't have Microsoft Office or Apple Pages,
 
 While you're at it, make sure you're using the latest version of whatever tool you have. If you're using a version that is two iterations out of date, you're missing out on not only security updates and new features, but also formatting updates and file compatibility fixes. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use copy and paste only when absolutely necessary
 
 This is probably the biggest issue I've had to deal with. I'll be collaborating with someone in Google Docs, only to find out they are writing their portion in a locally installed word processor, and copying and pasting it into the Google Doc. 
@@ -78,6 +90,10 @@ The problem with copy and paste is that it can cause problems with formatting. I
 
 So, if you must copy and paste, paste without formatting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use the same file format
 
 Don't mix and match your file formats. If you are working in LibreOffice, saving as an ODT file, and your collaborator is working with MS Word and DOCX, you're going to have problems. LibreOffice can easily save in DOCX format and Office 365 can work with ODT files. 
@@ -85,6 +101,10 @@ Don't mix and match your file formats. If you are working in LibreOffice, saving
 **Also:** [**How to configure LibreOffice to default to MS Office file formats**](https://www.zdnet.com/home-and-office/work-life/how-to-configure-libreoffice-to-default-to-ms-office-file-formats/)
 
 Or, if you want to use a format that's better capable of going back and forth between applications, save as an RTF (Rich Text Format) file until the collaboration is complete. Once finished and properly formatted, you can export that RTF file into whatever file type you need, even PDF. If you use a mixture of file types, you will inevitably run into issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use the cloud
 
@@ -121,11 +141,23 @@ Collaboration doesn't have to be a hair-pulling experience. With just a bit of p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-gopro-potential-model-by-model-insight/"><u>[New] Unlocking Gopro Potential Model By Model Insight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-notch-graphic-retouches/"><u>[Updated] Top-Notch Graphic Retouches</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevate-social-media-engagement-cutting-edge-fb-ad-techniques-for-2024/"><u>Elevate Social Media Engagement Cutting-Edge FB Ad Techniques for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-html5-video-platforms-a-comprehensive-list/"><u>Essential HTML5 Video Platforms A Comprehensive List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-understanding-and-using-instagrams-music-features/"><u>In 2024, The Essential Guide to Understanding and Using Instagram's Music Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-music-sync-for-windows-for-2024/"><u>Superior Music Sync for Windows for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-9-live-game-streaming-platform-you-should-know-for-2024/"><u>Top 9 Live Game Streaming Platform You Should Know for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-efficiency-incorporating-zoom-into-your-gmail-routine-for-2024/"><u>Unlocking Efficiency Incorporating Zoom Into Your Gmail Routine for 2024</u></a></li>
+</ul></div>
+

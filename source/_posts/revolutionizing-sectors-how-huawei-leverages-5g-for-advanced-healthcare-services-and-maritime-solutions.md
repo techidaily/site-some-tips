@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Sectors: How Huawei Leverages 5G for Advanced Healthcare Services & Maritime Solutions"
-date: 2024-09-19 23:59:45
-updated: 2024-09-20 10:21:27
+date: 2024-12-25T17:17:44.144Z
+updated: 2024-12-27T16:00:54.282Z
 tags:
   - cloud
 categories:
@@ -45,6 +45,10 @@ This had added complexity as storage vendors currently adopted different data st
 
 It also was assessing how data should be secured and was exploring various options, including working with local telcos to roll out private [5G networks](https://www.zdnet.com/article/security-crucial-as-5g-connects-more-industries-devices/) and using VPNs. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Security critical when traditional, digital realms converge
 
 Cybersecurity risks will inevitably increase as traditional industries go through digital transformation and [OT (operational technology) systems converge with IT systems](https://www.zdnet.com/article/singapore-talks-up-ot-security-looks-to-add-medical-devices-to-labelling-scheme/), said Yue Kun, Huawei's CTO for smart road, waterway, and port. 
@@ -71,6 +75,10 @@ Singapore's container port operator, PSA is in the midst of [relocating its oper
 
 _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 2023 in Barcelona, Spain, on the invitation of Huawei Technologies._ 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Security crucial as 5G connects more industries, devices](https://www.zdnet.com/article/security-crucial-as-5g-connects-more-industries-devices/)
@@ -86,11 +94,31 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 202
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/igh-ranking-videos-youtubes-everlasting-classics/"><u>[New] High-Ranking Videos YouTube’s Everlasting Classics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-accelerate-thumbnail-designs-for-professional-valorant-portraits/"><u>[New] In 2024, Accelerate Thumbnail Designs for Professional Valorant Portraits</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-deciding-between-30fps-and-60fps-whats-best-for-video/"><u>[New] In 2024, Deciding Between 30Fps and 60Fps What's Best For Video?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transcoding-ttml-and-ssa-into-easy-to-use-srt-format/"><u>[New] Transcoding TTML & SSA Into Easy-to-Use SRT Format</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-revolutionary-guide-to-iphone-x-animoji-mastery/"><u>[Updated] In 2024, Revolutionary Guide to iPhone X Animoji Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-clearing-out-the-unwanted-space-around-images-with-affinity/"><u>[Updated] The Ultimate Guide Clearing Out the Unwanted Space Around Images with Affinity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-timeless-stop-motion-films-a-celebratory-15-list/"><u>[Updated] Timeless Stop-Motion Films - A Celebratory 15 List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/"><u>[Updated] Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-the-potential-of-your-notes-use-mematic/"><u>[Updated] Unleash the Potential of Your Notes - Use Mematic</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-curating-the-best-video-game-openers-on-yt-no-money-max-impact/"><u>2024 Approved Curating the Best Video Game Openers on YT No Money, Max Impact?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-essential-video-editors-to-make-your-snapchats-pop-on-phones/"><u>2024 Approved Essential Video Editors to Make Your Snapchats Pop on Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-easy-path-to-great-audio-recordings-in-windows-11/"><u>2024 Approved The Easy Path to Great Audio Recordings in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-premium-free-srt-translation-websites-for-business-use/"><u>2024 Approved Unveiling Premium Free SRT Translation Websites for Business Use</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-10-essential-iphone-photo-layout-principles/"><u>In 2024, 10 Essential iPhone Photo Layout Principles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tackling-blurred-images-in-online-meetings-with-zoom-techniques/"><u>In 2024, Tackling Blurred Images in Online Meetings with Zoom Techniques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/insight-into-the-t6-dslr-budget-friendly-model/"><u>Insight Into the T6 DSLR: Budget-Friendly Model</u></a></li>
+</ul></div>
+

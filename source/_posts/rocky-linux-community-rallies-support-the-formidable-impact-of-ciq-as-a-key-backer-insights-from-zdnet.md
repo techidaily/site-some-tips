@@ -1,7 +1,7 @@
 ---
 title: "Rocky Linux Community Rallies Support: The Formidable Impact of CIQ as a Key Backer - Insights From ZDNet"
-date: 2024-09-17 20:47:32
-updated: 2024-09-20 12:25:27
+date: 2024-12-20T16:40:14.480Z
+updated: 2024-12-27T17:39:38.065Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,31 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-beyond-illusory-boundaries-understanding-the-spectrum-vr-ar-and-mr/"><u>[New] Beyond Illusory Boundaries Understanding the Spectrum (VR, AR, & MR)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-professional-text-design-in-10-minutes-or-less-ae-style-for-2024/"><u>[New] Professional Text Design in 10 Minutes or Less (AE Style) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-full-review-of-lgs-high-definition-monitoring-experience/"><u>[New] The Full Review of LG's High Definition Monitoring Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-utilizing-b-footage-an-essential-filmmaking-skill/"><u>[New] Utilizing B-Footage An Essential Filmmaking Skill</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-augment-your-audibility-the-leading-android-tools-for-voice-recording-change-for-2024/"><u>[Updated] Augment Your Audibility The Leading Android Tools for Voice Recording Change for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-illuminate-your-content-creation/"><u>[Updated] Illuminate Your Content Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-turning-youtube-hosted-tweets-into-audio-files/"><u>[Updated] Techniques for Turning YouTube-Hosted Tweets Into Audio Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-azure-guide-to-speech-to-text-integration/"><u>2024 Approved The Complete Azure Guide to Speech-to-Text Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-spreading-online-jokes-fast/"><u>2024 Approved The Key to Spreading Online Jokes Fast</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ultimate-lg-screen-chronicles-a-complete-review-of-4k-quality/"><u>2024 Approved The Ultimate LG Screen Chronicles A Complete Review of 4K Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unravel-multilingual-mysteries-with-these-top-35-video-translation-solutions/"><u>2024 Approved Unravel Multilingual Mysteries with These Top 35 Video Translation Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-11-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone 11 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/direct-data-delivery-five-simple-steps-to-computer-transfer-for-2024/"><u>Direct Data Delivery Five Simple Steps to Computer Transfer for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-tos-for-immersive-nba-livestream-watching/"><u>How-To's for Immersive NBA Livestream Watching</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-delving-deep-wirecast-and-its-broader-scope/"><u>In 2024, Delving Deep WireCast & Its Broader Scope</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-for-a-solo-show-that-stands-out-for-2024/"><u>The Ultimate Guide for a Solo Show that Stands Out for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-viral-stock-images-and-stories-for-2024/"><u>The Ultimate List of Viral Stock Images & Stories for 2024</u></a></li>
+</ul></div>
+

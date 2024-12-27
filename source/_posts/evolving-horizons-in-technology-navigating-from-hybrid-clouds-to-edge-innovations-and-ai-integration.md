@@ -1,7 +1,7 @@
 ---
 title: "Evolving Horizons in Technology: Navigating From Hybrid Clouds to Edge Innovations and AI Integration"
-date: 2024-09-18 23:36:23
-updated: 2024-09-20 11:27:14
+date: 2024-12-23T17:23:34.196Z
+updated: 2024-12-27T16:32:04.286Z
 tags:
   - cloud
 categories:
@@ -24,6 +24,10 @@ In 1997, Professor Ramnath K. Chellappa, now of Emory University, [used the term
 **Also:** [**How edge-to-cloud is driving the next stage of digital transformation**](https://www.zdnet.com/article/how-edge-to-cloud-is-driving-the-next-stage-of-digital-transformation/)
 
 What does the future of cloud computing look like in the next 3-5 years? It's gotten even more interesting since the pandemic. Since 2020, cloud computing has taken a tremendous leap forward, with many businesses fulfilling their ten year road maps in ten months -- or, for some, even in ten weeks -- because of the massive growth in demand for digital information and e-commerce.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The meaning of cloud computing is changing
 
@@ -57,6 +61,10 @@ Expect edge devices to be more connected, and to be left unattended more often. 
 
 This is where 5G (and eventually 6G) come into play. 5G handles intermittent connections better, and has the ability to switch frequency and "[beamform](https://www.zdnet.com/article/5g-new-radio-the-technical-background/)" to reach areas traditional cellular connectivity hasn't been able to reach. 5G is also putting far more intelligence into the field, which will substantially reduce latency, allowing edge devices to communicate with "the mother ship" far more quickly and with far greater responsiveness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The growth of AI in cloud management
 
 Increased reliance on complex cloud environments will increase the management challenges. Here, AI can help in at least four ways:
@@ -71,6 +79,10 @@ Then, of course, there's security. With a [security skills shortage and ever-inc
 Even small companies are now managing a mind-boggling amount of information, both in motion and at rest. We're talking about terabytes, petabytes, and exabytes of both flow and storage. The only way data of that volume, moving at high velocity, can be managed is through software. But with the rapid changes and growth in bad actor sophistication, regular programming and pattern identification protection will simply not keep up.
 
 This is one of those cases where AI isn't just optional or nice to have. AI will become the bulwark required to protect businesses where nothing else can move fast enough.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cloud vendors will have to change, too
 
@@ -87,6 +99,10 @@ Moving forward, expect GreenLake to offer more tools and resources, as well as b
 As we look forward 3-5 years, the watchword is "more." More connections, more power, more AI, more security challenges, more nodes, more devices, more locations, more options, more money, more efficiency, more bang-for-the-buck, more vendors – more, more, more. And, of course, more complex challenges in managing it all.
 
 ![](https://www.zdnet.com/a/img/resize/684dc5b99439a2c7dc917b4d65f353dbb9ab10fe/2022/12/20/976203f6-d704-4320-9337-9c31848a214c/getty-metamorworks-edge-computing.jpg?auto=webp&fit=cover&height=482&width=856)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Analyst: The edge-to-cloud evolution is promising, when we overcome these challenges
 
@@ -172,6 +188,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F "Twitter") 
@@ -186,11 +206,29 @@ Close Modal Dialog
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-direct-from-mobile-how-to-upload-videos-on-twit/"><u>[Updated] 2024 Approved Direct From Mobile How to Upload Videos on Twit</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-enhance-your-snaps-learn-video-slowdown-magic/"><u>[Updated] Enhance Your Snaps Learn Video Slowdown Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thriving-livestreams-strategies-for-beginners-with-low-followers/"><u>[Updated] Thriving Livestreams Strategies for Beginners with Low Followers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-mastering-movements-intova-xs-video-excellence/"><u>2024 Approved Mastering Movements Intova X's Video Excellence</u></a></li>
+<li><a href="https://win-unique.techidaily.com/adapting-to-the-ebb-and-flow-of-cryptocurrency-trading-with-tips-from-yl-software-professionals/"><u>Adapting to the Ebb and Flow of Cryptocurrency Trading with Tips From YL Software Professionals</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/ejecucion-de-windows-10-en-modo-seguro-para-la-restauracion-del-sistema-pasos-faciles/"><u>Ejecución De Windows 10 en Modo Seguro Para La Restauración Del Sistema: Pasos Fáciles</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-tutorial-for-updating-windows-battery-management-drivers/"><u>Hassle-Free Tutorial for Updating Windows Battery Management Drivers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-the-art-of-uploading-videos-into-personalized-playlists/"><u>In 2024, Mastering the Art of Uploading Videos Into Personalized Playlists</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-world-of-no-fee-visual-aids-for-2024/"><u>Navigating the World of No-Fee Visual Aids for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/step-by-step-guide-quick-and-effective-techniques-for-changing-mjpeg-videos-to-mp4/"><u>Step-by-Step Guide: Quick & Effective Techniques for Changing MJPEG Videos to MP4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tales-before-twilight-a-review-of-video-driven-narratives-for-2024/"><u>Tales Before Twilight A Review of Video-Driven Narratives for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-years-finest-photo-framers-and-organizers-compilation-for-2024/"><u>The Year's Finest Photo Framers & Organizers Compilation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-smooth-transitioning-from-zoom-to-fb-live-events-for-2024/"><u>Tips for Smooth Transitioning From ZOOM to FB Live Events for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-analysis-of-hardware-products/"><u>Tom's Tech Reviews: In-Depth Analysis of Hardware Products</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turn-out-clearer-snaps-ranking-the-most-effective-online-editors-for-2024/"><u>Turn Out Clearer Snaps Ranking the Most Effective Online Editors for 2024</u></a></li>
+</ul></div>
+

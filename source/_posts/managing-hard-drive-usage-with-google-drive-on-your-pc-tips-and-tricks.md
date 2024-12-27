@@ -1,7 +1,7 @@
 ---
 title: "Managing Hard Drive Usage with Google Drive on Your PC: Tips & Tricks"
-date: 2024-09-18 16:31:39
-updated: 2024-09-20 11:49:50
+date: 2024-12-22T17:35:06.156Z
+updated: 2024-12-27T16:42:23.253Z
 tags:
   - cloud
 categories:
@@ -19,6 +19,10 @@ I will assume that you already have the Google Drive Desktop Client installed on
 
 With that taken care of, let's see how we can avoid a storage nightmare.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Streaming vs mirroring
 
 You must understand this most important concept for protecting your storage space with the Google Drive Client. Google offers two different types of sync with the client, which are:
@@ -30,6 +34,10 @@ At this point, I'm certain you know what happened with that earlier installation
 
 Here's what I had to do to fix that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to configure the Google Drive client for streaming
 
 Before I take you down this road, know that the Google Drive client does default to the stream option. However, during my original installation, I opted (for whatever reason) to go with the mirror option. Because I'm absolutely paranoid about my files and folders on Google Drive, I took the safest route possible and first uninstalled the Google Drive client from my MacBook Pro. Once the app was uninstalled, I double-checked to ensure all of my directories and files were safe on Google Drive. They were. Whew.
@@ -37,6 +45,10 @@ Before I take you down this road, know that the Google Drive client does default
 When you opt to stream files, they are saved in a virtual drive that can be mounted and unmounted. However, when you go with the mirror option, those files are saved in /Users/USERNAME/My Drive (Where USERNAME is your macOS username). Once you've uninstalled the Google Drive Client (and you've checked to verify all of your directories and files still exist on your Google Drive cloud account), delete that My Drive directory. Once you've done that, you've freed up the space Google Drive consumed and should be back to a more management disk. 
 
 Re-install the Google Drive client on your machine, and then you can ensure you configure it to stream and not mirror files. Here's how you do that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open preferences
 
@@ -51,6 +63,10 @@ In the next popup menu (**Figure 2**), click Preferences.
 **Figure 2:** The Google Drive Desktop Client popup menu gives you access to the Preferences entry.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Choose the Stream option
 
@@ -91,11 +107,33 @@ And that is all there is to prevent the Google Drive Desktop Client from using u
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-transforming-education-with-instructional-videos/"><u>[New] Transforming Education with Instructional Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unlocking-obs-studios-full-creative-potential-with-top-methods/"><u>[Updated] 2024 Approved Unlocking OBS Studio's Full Creative Potential with Top Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-minimap-memories-mastering-6-ways-to-record-your-gameplay/"><u>[Updated] Minimap Memories Mastering 6 Ways to Record Your Gameplay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlined-video-calls-synchronizing-zoom-and-gmail-for-better-communication/"><u>[Updated] Streamlined Video Calls Synchronizing Zoom & Gmail for Better Communication</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swiftly-restore-working-airdrop-between-apple-gadgets-and-macs/"><u>[Updated] Swiftly Restore Working AirDrop Between Apple Gadgets & Macs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-iphone-hdr-mastery/"><u>[Updated] The Ultimate Guide to iPhone HDR Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-8-preferred-mp3-grabbers-android/"><u>[Updated] Ultimate Selection 8 Preferred MP3 Grabbers (Android)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-creative-energy-video-creation-tips-on-the-latest-windows-10-edition/"><u>[Updated] Unleash Creative Energy Video Creation Tips on the Latest Windows 10 Edition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-swipe-right-to-fb-vids-swipe-left-for-mp4s/"><u>2024 Approved Swipe Right to FB Vids, Swipe Left for MP4s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transitioning-away-from-newest-sierra-version-back-to-1010/"><u>2024 Approved Transitioning Away From Newest Sierra Version Back to 10.10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazon-prime-day-exclusive-ultimate-guide-to-buying-high-tech-products-at-great-prices/"><u>Amazon Prime Day Exclusive: Ultimate Guide to Buying High-Tech Products at Great Prices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-oppo-find-x6-screen-sharing-drfone-by-drfone-android/"><u>How To Do Oppo Find X6 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-samsung-galaxy-a15-4g-by-fonelab-android-recover-music/"><u>How to recover old music from your Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-power-of-pause-time-mastering-art-of-slow-motion-videos-using-photos-apps-and-websites/"><u>In 2024, Unlocking the Power of Pause Time Mastering Art of Slow Motion Videos Using Photos Apps and Websites</u></a></li>
+<li><a href="https://windows11.techidaily.com/monitoring-for-failed-windows-logins-a-security-checkers-guide/"><u>Monitoring for Failed Windows Logins: A Security Checker's Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012238916-quick-solutions-for-sekiro-crash-problems-no-hassle/"><u>Quick Solutions for Sekiro Crash Problems - No Hassle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-chroma-shift-4k-vistas-unveiled-by-blade-technology-for-2024/"><u>The Chroma Shift 4K Vistas Unveiled by Blade Technology for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-innovations-a-comparative-look-at-apples-new-airpods-4-versus-earlier-generations/"><u>Unveiling the Innovations: A Comparative Look at Apple's New AirPods 4 Versus Earlier Generations</u></a></li>
+<li><a href="https://techidaily.com/update-drivers-with-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Update drivers with Device Manager in Windows 10 & 7</u></a></li>
+</ul></div>
+

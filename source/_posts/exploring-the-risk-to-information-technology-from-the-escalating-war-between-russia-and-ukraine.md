@@ -1,7 +1,7 @@
 ---
 title: Exploring the Risk to Information Technology From the Escalating War Between Russia and Ukraine
-date: 2024-09-18 20:31:42
-updated: 2024-09-20 10:53:39
+date: 2024-12-25T16:16:34.257Z
+updated: 2024-12-27T17:21:27.391Z
 tags:
   - cloud
 categories:
@@ -23,12 +23,20 @@ In the five years since I first explored the potential impact of a Digital Cold 
 
 Under Vladimir Putin's leadership, the nation has focused on [international cybersecurity activity for many years.](https://www.cbsnews.com/news/cia-mike-pompeo-russian-election-meddling-theyve-been-at-this-a-hell-of-a-long-time/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ukraine Crisis
 
 * [Coding inside a war zone](https://www.zdnet.com/article/ukrainian-software-developers-share-their-stories-and-photos-from-the-war-zone/)
 * [How you can help: Donation sites and resources](https://www.zdnet.com/article/how-you-can-help-ukraine-donation-sites-and-resources/)
 * [Ukrainian police take down phishing gang behind payments scam](https://www.zdnet.com/article/ukrainian-police-takes-down-phishing-gang-behind-payments-scam/)
 * [International Refugee Assistance Project partners with Rosetta Stone to aid refugees](https://www.zdnet.com/article/international-refugee-assistance-project-rosetta-stone-partnership-aid-refugees/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Ukraine invasion
 
@@ -41,6 +49,10 @@ On February the 23rd, President Biden [condemned the military action](https://ww
 The economic impacts of this conflict will likely be significant, including a halt on Russian oil and natural gas exports to Western Europe and, presumably, the denial of civil and commercial air transit to Asia through Russian airspace. Although the United States, unlike Europe, is not a major consumer of Russian energy exports, it would be simplistic to say that Russia has no impact on US business at all.
 
 An extended conflict with Russia -- coupled with the imposition of wide-ranging sanctions -- will have a tangible impact on the global technology industry.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Software companies with concerns about Russian connections
 
@@ -60,6 +72,10 @@ It's also important to note that companies with no evidence of any wrongdoing ar
 
 [Acronis](http://en.wikipedia.org/wiki/Acronis), like Parallels, is another company founded by Beloussov. After founding Parallels in 1999, and being involved with both companies for some time, he became CEO of Acronis in May of 2013\. The company specializes in cybersecurity products for end-to-end device protection, and in the past, has had bare-metal systems imaging, systems deployment, and storage management products for Microsoft Windows and Linux. The company maintains its global headquarters in Singapore. However, it has substantial R&D operations in Eastern Europe in addition to operations in Israel, Singapore, and the US.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special feature
 
 [Cyberwar and the Future of Cybersecurity Today's security threats have expanded in scope and seriousness. There can now be millions -- or even billions -- of dollars at risk when information security isn't handled properly.  Read now](https://www.zdnet.com/topic/cyberwar-and-the-future-of-cybersecurity/)
@@ -71,6 +87,10 @@ These are only just a few examples. Numerous Russian software firms generate bil
 It should also be noted that many mobile apps -- including entertainment software for iOS, Android, Windows -- also originate in Russia.
 
 * [How to secure your home and office network: The best DNS blockers and firewalls](https://www.zdnet.com/article/how-to-secure-your-home-and-office-network-the-best-dns-blockers-and-firewalls/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Russian services firms will also be impacted
 
@@ -130,11 +150,29 @@ Will Russian software and services become the first victim in a Digital War? _Ta
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-audience-allure-video-marketing-strategies-for-youtube-trailers-via-filmora/"><u>[New] 2024 Approved Audience Allure Video Marketing Strategies for YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-step-by-step-approach-for-thumbnail-creation-professionals/"><u>[New] A Step-By-Step Approach for Thumbnail Creation Professionals</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-how-much-wealth-can-you-generate-on-youtube-using-cpm/"><u>[New] In 2024, How Much Wealth Can You Generate on YouTube Using CPM?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-must-know-windows-10-tips-and-tricks/"><u>[New] Must-Know Windows 10 Tips and Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-power-of-consistency-steps-to-increase-youtube-views-and-subscriptions/"><u>[New] The Power of Consistency Steps to Increase YouTube Views and Subscriptions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-an-in-depth-look-at-video-apps-for-iphone-and-android-users/"><u>[Updated] An In-Depth Look at Video Apps for iPhone & Android Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-hidden-potential-snapchat-zooming-tips/"><u>[Updated] Unlock Hidden Potential Snapchat Zooming Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-advanced-techniques-to-silence-background-noise-in-media/"><u>2024 Approved Advanced Techniques to Silence Background Noise in Media</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-building-a-powerhouse-business-channel-in-under-5-minutes/"><u>2024 Approved Building a Powerhouse Business Channel in Under 5 Minutes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-stabilizing-shaky-images-a-realistic-benefit-or-hype/"><u>2024 Approved Stabilizing Shaky Images A Realistic Benefit or Hype?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-syncopating-youtube-melodies-with-visuals/"><u>2024 Approved Syncopating YouTube Melodies with Visuals</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-proven-strategies-for-restoring-iphone-voicemail-functionality/"><u>9 Proven Strategies for Restoring iPhone Voicemail Functionality</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-after-effects-templates-crafting-stories-one-text-at-a-time/"><u>In 2024, After Effects Templates Crafting Stories One Text at a Time</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-secrets-of-editing-numerical-data-in-tiktoks/"><u>In 2024, The Secrets of Editing Numerical Data in TikToks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unusual-sideway-photos-in-instagram-storytelling-for-2024/"><u>Unusual Sideway Photos in Instagram Storytelling for 2024</u></a></li>
+</ul></div>
+

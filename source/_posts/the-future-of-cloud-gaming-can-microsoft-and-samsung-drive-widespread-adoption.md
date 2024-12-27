@@ -1,7 +1,7 @@
 ---
 title: "The Future of Cloud Gaming: Can Microsoft and Samsung Drive Widespread Adoption?"
-date: 2024-09-19 16:33:40
-updated: 2024-09-20 11:44:22
+date: 2024-12-22T16:05:45.893Z
+updated: 2024-12-27T17:24:10.325Z
 tags:
   - cloud
 categories:
@@ -47,9 +47,17 @@ As a partner for Microsoft's Xbox Game Pass and Cloud Gaming ambitions, Samsung 
 
 Combine this level of TV sales with the 25 million Xbox Game Pass subscribers (not all of which are on the Ultimate tier, to be clear), and you have a convergence that promises to put a dirt-cheap entry point to cloud-based gaming in front of millions more users over the course of the next year. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Will this really bring cloud gaming into the mainstream?** 
 
 It certainly has the potential to, but many obstacles that have plagued cloud-based gaming ambitions from the start still remain. The new partnership between Microsoft and Samsung offers solutions to some of these problems, while others are a bit murkier. Let's look at a few of the most pressing matters:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Cost**
 
@@ -60,6 +68,10 @@ This new partnership drops that cost to a bare minimum. Obviously, to game on a 
 ### **ZDNET** Recommends
 
 [The best gaming headsets: Immersive sound for an extra edge Whether your game on a console or PC, a headset can elevate your play.  Read now](https://www.zdnet.com/article/best-gaming-headset/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Ease of use**
 
@@ -86,6 +98,10 @@ Getty -- MoMo Productions
 
 In order for this duo to be at the forefront of the first wave of legitimately widespread cloud gaming adoption, they need to successfully court two very important, but very different groups: casual gamers and competitive gamers. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Casual gamers**
 
 In many ways, this will likely be the easier of the two groups to capture. Years ago, casual gamers were often dismissed by game developers and hardware makers. They were undeservedly seen as being irrelevant to the industry, having their tastes for mobile games and simpler titles dismissed by the AAA studios, who were targeting only the most hardcore gamers via PC and console. 
@@ -111,6 +127,10 @@ To be clear, Microsoft, Samsung, and anyone else that wants to succeed in the cl
 Casual gamers can, however, provide a stop-gap source of revenue to keep cloud-based gaming alive and well while the kinks continue to be worked out. But they should never be seen as the end goal for the industry. Just like online video streaming eventually evolved from the 240p, incessantly-buffering mess it once was to the 4K, HDR-enabled tech today, so too will cloud-based gaming inevitably evolve from its current teething period to a technology that might eventually replace physical PCs and consoles in the same way Netflix has replaced your DVD collection. 
 
 Samsung -- Microsoft
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Wrap up**
 
@@ -141,11 +161,27 @@ June 30 isn't too far off. If Microsoft and Samsung leverage the moment just the
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-complete-analysis-gopro-silver-edition-hero4-assessment/"><u>[New] Complete Analysis GoPro Silver Edition HERO4 Assessment</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-25-ultimate-android-and-ios-downloading-tools-reviewed/"><u>[Updated] 2024 Approved 25 Ultimate Android & iOS Downloading Tools Reviewed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-hear-got-music-top-sites-to-download-ringtones-for-2024/"><u>[Updated] Hear GoT Music - Top Sites to Download Ringtones for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-upgrading-effortlessly-with-a-focus-on-key-lens-features/"><u>[Updated] Upgrading Effortlessly with a Focus on Key Lens Features</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-visualsizetweak-mastering-your-instagram-media/"><u>[Updated] VisualSizeTweak Mastering Your Instagram Media</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-your-images-top-10-pixlr-hacks-revealed/"><u>2024 Approved Master Your Images Top 10 Pixlr Hacks Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-phone-personalizing-the-ios-alert-sound/"><u>2024 Approved Transform Your Phone Personalizing the iOS Alert Sound</u></a></li>
+<li><a href="https://games-able.techidaily.com/dxgierror-0x887a0006-fix-in-windows-step-by-step/"><u>DXGI_ERROR 0X887A0006 Fix in Windows: Step by Step</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-motorola-moto-g14mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Motorola Moto G14Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-assortment-of-gopro-modifications/"><u>In 2024, Ultimate Assortment of Gopro Modifications</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-evaluation-of-the-ps4-pro-achieving-4k-visuals/"><u>Ultimate Evaluation of the PS4 Pro: Achieving 4K Visuals</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-bios-a-deep-dive-with-revo-uninstaller/"><u>Understanding BIOS: A Deep Dive with Revo Uninstaller</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secret-seeing-popular-youtube-reactions-for-2024/"><u>Unveiling the Secret Seeing Popular YouTube Reactions for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Leveraging Paris Games Analytics for Enhanced Energy Efficiency at Subsequent Olympic Venues - ZDNet
-date: 2024-09-17 21:20:12
-updated: 2024-09-20 10:32:48
+date: 2024-12-21T17:29:59.336Z
+updated: 2024-12-27T16:33:55.307Z
 tags:
   - cloud
 categories:
@@ -78,11 +78,29 @@ Alibaba added that Content+ offers features that allow media rights-holders to g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-navigate-and-dominate-with-youtube-studios-advanced-editing-features/"><u>[Updated] 2024 Approved Navigate and Dominate with YouTube Studio's Advanced Editing Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-premium-enterprise-sky-saver-guide/"><u>[Updated] Premium Enterprise Sky Saver Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lightning-fast-the-art-of-windows-file-scanning/"><u>2024 Approved Lightning-Fast The Art of Windows File Scanning</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-content-conversion-top-5-online-gif-to-video-hubs/"><u>2024 Approved Streamline Your Content Conversion Top 5 Online GIF-to-Video Hubs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-crafting-superior-srt-documents/"><u>2024 Approved The Art of Crafting Superior SRT Documents</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-vectors-sourcebook-top-10-list/"><u>2024 Approved The Ultimate Vectors Sourcebook - Top 10 List</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/checking-your-processors-compatibility-with-current-windows-tips-from-yl-computing/"><u>Checking Your Processor's Compatibility with Current Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/photography-at-the-tip-of-your-fingers-top-10-apps-for-2024/"><u>Photography at the Tip of Your Fingers – Top 10 Apps for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/techniques-to-develop-engaging-vlogger-conversations/"><u>Techniques to Develop Engaging Vlogger Conversations</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-guide-freeing-up-space-by-deleting-win-11-memory-dumps/"><u>Troubleshooting Guide: Freeing Up Space by Deleting Win 11 Memory Dumps</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

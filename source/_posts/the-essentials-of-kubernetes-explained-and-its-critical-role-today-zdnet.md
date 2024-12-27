@@ -1,7 +1,7 @@
 ---
 title: The Essentials of Kubernetes Explained & Its Critical Role Today | ZDNet
-date: 2024-09-19 12:10:24
-updated: 2024-09-20 11:36:58
+date: 2024-12-20T17:24:58.399Z
+updated: 2024-12-27T17:28:30.221Z
 tags:
   - cloud
 categories:
@@ -37,6 +37,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Kubernetes? 
 
 Kubernetes coordinates the operation of all the parts in an application for maximum efficiency and smooth performance. In cloud-native computing, these parts are often distributed widely among several locations. An orchestrator assembles all the resources that applications require to perform.
@@ -44,6 +48,10 @@ Kubernetes coordinates the operation of all the parts in an application for maxi
 **Also: [5 ways to save your Windows 10 PC in 2025 - and most are free](https://www.zdnet.com/article/5-ways-to-save-your-windows-10-pc-in-2025-and-most-are-free/)**
 
 That definition might make you think Kubernetes is a scaled-up operating system. It's not. Kubernetes is software that oversees infrastructure resources scattered across servers. It ensures applications get the processing power, memory, storage, and networking facilities to accomplish their tasks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Kubernetes' top tech features
 
@@ -53,6 +61,10 @@ Kubernetes provides the following four key features:
 2. **Self-healing capabilities**: The platform can automatically restart failed containers, replace or reschedule containers when nodes die, and kill containers that don't respond to health checks.
 3. **Service discovery and load balancing**: Kubernetes can expose containers using Domain Name System (DNS) names or Internet Protocol (IP) addresses and distribute network traffic across multiple containers.
 4. **Storage choice**: Orchestration allows you to automatically mount storage systems of your choice, such as local storage, public cloud providers, or network storage systems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why is Kubernetes important?
 
@@ -66,6 +78,10 @@ Here are six reasons why Kubernetes is so important:
 4. **Resource efficiency**: By efficiently managing container placement and scaling, Kubernetes helps organizations optimize their infrastructure usage, potentially leading to significant cost savings.
 5. **DevOps enabler**: Kubernetes facilitates [DevOps](https://www.zdnet.com/article/what-is-devops-an-executive-guide-to-agile-development-and-it-operations/) practices by providing a consistent platform for development, testing, and production. Kubernetes supports [continuous integration and continuous delivery (CI/CD](https://practical-tech.com/2018/07/10/continuous-integration-and-delivery-tool-basics/)) workflows, enabling faster and more reliable software releases.
 6. **Hybrid Cloud**: Kubernetes helps businesses avoid cloud vendor lock-in by enabling them to build [Kubernetes-based hybrid clouds](https://www.zdnet.com/article/what-is-the-kubernetes-hybrid-cloud-and-why-it-matters/). This approach can be a real money-saver for companies using more than one cloud.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The future of Kubernetes
 
@@ -102,11 +118,28 @@ Kubernetes will undoubtedly continue to play a pivotal role in shaping the futur
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-gameplay-journey-top-10-adventures-in-gaming/"><u>[New] The Ultimate Gameplay Journey Top 10 Adventures in Gaming</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-elevating-systems-essential-tips-for-successful-upgrades/"><u>[Updated] 2024 Approved Elevating Systems Essential Tips for Successful Upgrades</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-pioneering-strategies-for-success-in-the-spotify-ad-arena-for-2024/"><u>[Updated] Pioneering Strategies for Success in the Spotify Ad Arena for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-on-how-skip-edgenuity-videos-easily/"><u>[Updated] Tips on How Skip Edgenuity Videos Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-best-unlimited-cloud-storage-service-recommendations/"><u>2024 Approved Best Unlimited Cloud Storage Service Recommendations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-master-image-tweaks-with-snapseed-for-newbies/"><u>2024 Approved Master Image Tweaks with Snapseed for Newbies</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723025392421-compact-fast-and-cheap-the-most-affordable-in-car-car-chargers-reviewed-discover-the-best/"><u>Compact, Fast & Cheap: The Most Affordable In-Car Car Chargers Reviewed - Discover the Best!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-iphoneandroid-sharing-videos-on-twitter-without-retweeting/"><u>In 2024, IPhone/Android Sharing Videos On Twitter Without Retweeting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-journey-to-visual-vigor-a-beginners-guidebook/"><u>In 2024, Journey to Visual Vigor A Beginner's Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-variants-of-moviemaker-pro-on-windows/"><u>In 2024, Variants of MovieMaker Pro on WIndows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ipad-timelapse-a-beginners-handbook-to-filming-for-2024/"><u>IPad Timelapse A Beginner's Handbook to Filming for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kicking-off-with-keyframe-quality-controls-for-2024/"><u>Kicking Off with Keyframe Quality Controls for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-podcast-blurbs-techniques-and-illustrations-for-2024/"><u>The Art of Podcast Blurbs Techniques and Illustrations for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ideo-gurus-playbook-smooth-transition-to-easy-youtube-cc-and-subtitles-for-2024/"><u>The Video Guru's Playbook Smooth Transition to Easy YouTube CC & Subtitles for 2024</u></a></li>
+</ul></div>
+

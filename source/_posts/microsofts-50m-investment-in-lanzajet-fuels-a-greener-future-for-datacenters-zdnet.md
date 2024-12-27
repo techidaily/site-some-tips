@@ -1,7 +1,7 @@
 ---
 title: Microsoft's $50M Investment in LanzaJet Fuels a Greener Future for Datacenters | ZDNet
-date: 2024-09-19 16:16:47
-updated: 2024-09-20 10:55:53
+date: 2024-12-22T16:50:27.068Z
+updated: 2024-12-27T16:04:36.339Z
 tags:
   - cloud
 categories:
@@ -44,11 +44,33 @@ In 2020, Microsoft officials said they were testing [hydrogen fuel cells as a po
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-real-time-facebook-footage-the-top-5-live-streaming-apps/"><u>[New] In 2024, Real-Time Facebook Footage The Top 5 Live-Streaming Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-8-immersive-virtual-reality-adventures-on-oculus/"><u>[New] Top 8 Immersive Virtual Reality Adventures on Oculus</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-easy-techniques-for-using-screencastify-app-for-2024/"><u>[Updated] Easy Techniques for Using Screencastify App for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-describing-your-podcast-with-flair/"><u>[Updated] The Art of Describing Your Podcast with Flair</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-places-for-free-text-visual-enhancements/"><u>[Updated] Top Places for Free Text Visual Enhancements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-camera-duel-sj6-against-xiaomis-yi-visionary/"><u>2024 Approved The Ultimate Camera Duel SJ6 Against Xiaomi's Yi Visionary</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-by-mastering-task-management-on-a-windows-11-pc/"><u>Boost Productivity by Mastering Task Management on a Windows 11 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-choice-the-ultimate-list-of-budget-friendly-portable-batteries-in-202n4-comprehensive-reviews-zdnet/"><u>Experts' Choice: The Ultimate List of Budget-Friendly Portable Batteries in 202N4 - Comprehensive Reviews | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-intricate-dance-of-photos-into-a-unified-display/"><u>In 2024, The Intricate Dance of Photos Into a Unified Display</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-soundtrack-strategy-addmpy-in-videos-on-fb/"><u>In 2024, The Soundtrack Strategy Addmpy in Videos on FB</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/latest-enhancements-in-windows-11-unveiled-a-comprehensive-guide-by-yl-computing/"><u>Latest Enhancements in Windows 11 Unveiled: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-s17e-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo S17e? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-video-to-text-technology-now/"><u>Prime Video-to-Text Technology, Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-screenplays-distributed-among-classified-types-for-2024/"><u>Superior Screenplays Distributed Among Classified Types for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-3-free-video-players-face-off-vlc-vs-mpc-showdown-for-2024/"><u>Top 3 FREE Video Players Face Off VLC Vs. MPC Showdown for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

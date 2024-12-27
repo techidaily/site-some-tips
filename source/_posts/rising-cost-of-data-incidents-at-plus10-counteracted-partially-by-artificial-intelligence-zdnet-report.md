@@ -1,7 +1,7 @@
 ---
 title: Rising Cost of Data Incidents at +10%%, Counteracted Partially by Artificial Intelligence | ZDNET Report
-date: 2024-09-17 12:41:48
-updated: 2024-09-20 10:29:56
+date: 2024-12-24T16:36:04.687Z
+updated: 2024-12-27T16:05:19.402Z
 tags:
   - cloud
 categories:
@@ -100,11 +100,31 @@ To stay ahead, Skapinetz urged organizations to invest in [AI-driven defenses](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-interactivemix-for-all-systems/"><u>[New] InteractiveMix for All Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-how-asmr-can-benefit-your-life/"><u>[New] Understanding How ASMR Can Benefit Your Life</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhancing-video-aesthetics-incorporating-lc-and-bb-in-facebook-posts/"><u>[Updated] 2024 Approved Enhancing Video Aesthetics Incorporating LC and BB in Facebook Posts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-simplified-social-syncing-from-instagram-to-facebook/"><u>[Updated] 2024 Approved Simplified Social Syncing From Instagram To Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-video-upgrade-with-enhancer-22/"><u>2024 Approved The Ultimate Video Upgrade with Enhancer 2.2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-storytelling-into-cinematic-art/"><u>2024 Approved Transforming Storytelling Into Cinematic Art</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-video-editing-on-windows-11-for-professionals/"><u>2024 Approved Unlocking Video Editing on Windows 11 for Professionals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-auto-gpt-configuration-for-ubuntu-enthusiasts/"><u>Mastering Auto-GPT Configuration for Ubuntu Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfecting-the-art-of-podcast-title-creation-essential-tips-and-inspirations-for-2024/"><u>Perfecting the Art of Podcast Title Creation Essential Tips & Inspirations for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pioneering-mobile-tech-androids-role-in-vr360-videos-update-2023-for-2024/"><u>Pioneering Mobile Tech Android's Role in VR/360 Videos (Update 2023) for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/social-determinants-of-health-a-critical-review/"><u>Social Determinants of Health: A Critical Review.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-netflix-volume-woes-simple-tweaks-for-crystal-clear-audio/"><u>Solve Your Netflix Volume Woes – Simple Tweaks for Crystal Clear Audio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-battle-of-accessible-viewerships-google-vs-samsung-headsets-for-2024/"><u>The Battle of Accessible Viewerships Google Vs. Samsung Headsets for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Obstacles: Key Technological Solutions Empowering Small Businesses Today | ZDNet"
-date: 2024-09-17 10:29:30
-updated: 2024-09-20 11:40:23
+date: 2024-12-23T16:59:05.929Z
+updated: 2024-12-27T17:38:33.447Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 Encouraged by recent successes, small businesses are rushing to [exploit cloud computing](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) like never before – and it's a trend that's set to continue as they look for further digital transformation.
 
 Such is the strength of the shift to the cloud that Laurie McCabe, co-founder and partner at tech analyst SMB Group, suggests on-demand IT might be one of the few areas of tech spending where small businesses are at least keeping pace with their enterprise counterparts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -79,6 +83,10 @@ Trustpilot CISO Stu Hirst says his organisation makes heavy use of on-demand IT 
 
 "That's incredibly powerful for the speed at which we do things. You can then embed guardrails through that process, so security is embedded and there's a set of boundaries within which people can work."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Further reading on SMB Technology essentials:
 
 * **[Small business tech outlook: Here are the challenges and opportunities ahead](https://www.zdnet.com/article/small-business-tech-outlook-challenges-and-opportunities-ahead/)**
@@ -93,11 +101,31 @@ Trustpilot CISO Stu Hirst says his organisation makes heavy use of on-demand IT 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-enhancing-video-engagement-with-correctly-uploaded-srt-files/"><u>[New] In 2024, Enhancing Video Engagement with Correctly Uploaded SRT Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-for-sound-alteration-applications-in-vtubing/"><u>[New] The Ultimate List for Sound Alteration Applications in VTubing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-obs-studio-explained-capturing-ps4-playthroughs/"><u>[Updated] In 2024, OBS Studio Explained Capturing PS4 Playthroughs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-masterpiece-narratives-across-the-eightfold-genre-spectrum/"><u>[Updated] Masterpiece Narratives Across the Eightfold Genre Spectrum</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-best-of-the-rest-cutting-edge-vr-games-for-google-cardboard/"><u>2024 Approved Best of the Rest Cutting-Edge VR Games for Google Cardboard</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-how-to-take-long-exposure-shots-with-iphone/"><u>2024 Approved How to Take Long Exposure Shots with iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-procedure-of-ending-linkedin-services-and-deletion-process/"><u>2024 Approved Procedure of Ending LinkedIn Services and Deletion Process</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-record-breaking-reddit-threads-ranked-1-10/"><u>2024 Approved Record-Breaking Reddit Threads Ranked 1-10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-successfully-upgrade-to-windows-10-20h2-with-updated-connexant-drivers/"><u>How to Successfully Upgrade to Windows 10 20H2 with Updated Connexant Drivers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-g2-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo G2 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-manual-for-using-speech-recognition-in-google-documents/"><u>In 2024, The Complete Manual for Using Speech Recognition in Google Documents</u></a></li>
+<li><a href="https://fox-making.techidaily.com/maximizing-your-music-production-how-pcdj-works-on-windows-11-systems/"><u>Maximizing Your Music Production: How PCDJ Works on Windows 11 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos-for-2024/"><u>The New Dawn of Creativity Spotlight on Six Visionary NFTOs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-devices-for-global-video-communication-for-2024/"><u>Top 6 Devices for Global Video Communication for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-resolving-issues-with-non-responsive-mozilla-thunderbird/"><u>Troubleshooting Tips: Resolving Issues with Non-Responsive Mozilla Thunderbird</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-software-guide-to-gamers-broadcast-for-2024/"><u>Ultimate Software Guide to Gamers' Broadcast for 2024</u></a></li>
+</ul></div>
+

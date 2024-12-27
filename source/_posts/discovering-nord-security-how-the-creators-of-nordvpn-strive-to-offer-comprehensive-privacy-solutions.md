@@ -1,7 +1,7 @@
 ---
 title: "Discovering Nord Security: How the Creators of NordVPN Strive to Offer Comprehensive Privacy Solutions"
-date: 2024-09-19 15:35:28
-updated: 2024-09-20 10:24:24
+date: 2024-12-25T17:03:57.273Z
+updated: 2024-12-27T17:25:55.917Z
 tags:
   - cloud
 categories:
@@ -30,6 +30,10 @@ Welcome to our in-depth look at the folks behind NordVPN. As the company moves i
 Today, Okman oversees one of [the most popular virtual private network services globally](https://www.zdnet.com/article/best-vpn/). NordVPN protects data transmitted to and from the internet for approximately 14 million consumers. Now, the people who make NordVPN want to store and protect all your passwords, your confidential files, and want to extend NordVPN's protections to small and large businesses. 
 
 But what is NordVPN? The answer turns out to be less clear than you might expect and requires taking a short dive into [VPN culture](https://www.zdnet.com/article/what-is-a-vpn-and-how-does-it-work/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The VPN boom
 
@@ -64,6 +68,10 @@ Okman told me his co-founder is a guy named Eimantas (surname-redacted), who is 
 I was provided with a link to Eimantas' LinkedIn page, which also shows him as a co-founder of Nord Security since 2017 and a co-founder of Tesonet since 2008\.   
   
  Both Tom Okman and Eimantas attended Vilnius University, founded in the 16th century and located in Vilnius, Lithuania. Eimantas attended from 2002 to 2006 and received a Bachelor's degree in computer science, while Tom attended from 2006 to 2011 and earned a Bachelor's in history. Okman also picked up a Master's in e-business management from Mykolas Romeris University, also in Vilnius. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### NordSec, Tesonet, and Tefincom -- and Panama, Cyprus, and Lithuania
 
@@ -121,6 +129,10 @@ We'll discuss each of these in-depth in a moment, but first I want to touch on a
 
 ### Independent audits
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best antivirus software and apps A roundup of the best software and apps for Windows and Mac computers, as well as iOS and Android devices, to keep yourself safe from malware and viruses.  Read now](https://www.zdnet.com/article/best-antivirus/)
@@ -152,6 +164,10 @@ We're not going to go into too much detail here, because we've covered NordVPN i
 * [**Inside a VPN service: How NordVPN conducts the business of Internet privacy**](https://www.zdnet.com/article/inside-a-vpn-service-how-nordvpn-conducts-the-business-of-internet-privacy/)
 * [**NordVPN review: Revamping security practices, but still useful**](https://www.zdnet.com/article/nord-vpn-review-an-in-depth-look-at-a-popular-vpn/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NordVPN Teams
 
 Launched in 2019, [NordVPN Teams](https://nordvpnteams.com/) is Nord Security's first push into SMB and enterprise offerings. The company's goal, according to Okman, was to create a competitive B2B VPN service that would keep all the best characteristics of business VPNs, but at the same time would be cloud-based, and easy to configure and use. 
@@ -169,6 +185,10 @@ Given the [move to remote work](https://www.zdnet.com/topic/working-from-home-th
 ### NordLynx
 
 When it comes to tracking where Nord Security is going in the VPN market, we have to discuss the company's adoption of [WireGuard](https://www.wireguard.com/) technology. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -242,6 +262,10 @@ Okman tells us that Nord Security is discussing future integration of NordVPN wi
 
 Finally, Okman tells us Nord Security is considering entering the secure hosting field. We'll be watching closely for more news on that possible development. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NordSec in 2025
 
 We asked Okman to speculate about Nord Security's long term growth and evolution. We wanted to get an idea of what Okman's vision was for the company. Most companies never provide any forward-looking views into their product plans, so we were impressed that Okman gave us his future product vision. 
@@ -284,11 +308,30 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-navigating-the-maze-of-communication-features-on-snapchat/"><u>[New] 2024 Approved Navigating the Maze of Communication Features on Snapchat</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-balancing-act-proper-techniques-for-stable-photos/"><u>[Updated] 2024 Approved Balancing Act Proper Techniques for Stable Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-visual-clarity-bypassing-background-in-photopea/"><u>[Updated] Unlocking Visual Clarity Bypassing Background in Photopea</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-aerial-filmmaking-techniques/"><u>2024 Approved The Essentials of Aerial Filmmaking Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-science-of-choosing-music-for-movie-previews/"><u>2024 Approved The Science of Choosing Music for Movie Previews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultra-stable-gimbals-for-mobile-and-professional-photography/"><u>2024 Approved Ultra-Stable Gimbals for Mobile & Professional Photography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvdwindows10dvd/"><u>DVDにビデオコンバート！Windows10マシンから高品質なDVDへの移行手順：スペシャル無料ツールパターン</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/how-to-fix-nonfunctional-hyperlinks-in-your-flipbook-ebook-on-flipbuilder/"><u>How to Fix Nonfunctional Hyperlinks in Your Flipbook eBook on FlipBuilder</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-securely-downloading-youtube-audios-3-easy-and-reliable-methods/"><u>In 2024, Securely Downloading YouTube Audios 3 Easy & Reliable Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-secrets-of-your-lost-iphone-x/"><u>In 2024, Unlock the Secrets of Your Lost iPhone X</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-avs-video-editor-review-does-it-live-up-to-expectations/"><u>New AVS Video Editor Review Does It Live Up to Expectations?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-call-of-duty-warzone-crashing-issues-on-pc-a-complete-guide/"><u>Overcoming Call of Duty: Warzone Crashing Issues on PC – A Complete Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/pinpointing-precision-with-minecrafts-zoom-feature/"><u>Pinpointing Precision with Minecraft's Zoom Feature</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/streamline-metadata-ranking-of-7-leading-online-youtube-tag-extractors-for-2024/"><u>Streamline Metadata Ranking of 7 Leading Online Youtube Tag Extractors for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-methods-to-record-high-quality-audio-on-windows-for-2024/"><u>Top 5 Methods to Record High-Quality Audio on Windows for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-strategies-in-drone-filmmaking-for-2024/"><u>Top Strategies in Drone Filmmaking for 2024</u></a></li>
+</ul></div>
+

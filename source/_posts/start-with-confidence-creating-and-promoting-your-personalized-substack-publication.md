@@ -1,7 +1,7 @@
 ---
 title: "Start with Confidence: Creating and Promoting Your Personalized Substack Publication"
-date: 2024-09-18 20:15:43
-updated: 2024-09-20 11:58:56
+date: 2024-12-21T17:10:41.336Z
+updated: 2024-12-27T16:45:18.710Z
 tags:
   - cloud
 categories:
@@ -63,6 +63,10 @@ Screenshot by David Gewirtz/ZDNET
 
 There you go. Now, it's time to customize your newsletter. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Customize your newsletter
 
 You can go to relatively considerable lengths to customize the look and feel of your Substack account and newsletter. I just wanted something simple, so customization was very straightforward.
@@ -97,6 +101,10 @@ I put a picture up, said a little bit about myself, and then described my plans 
 
 And that's it. Now people know what it's all about. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Prepare your first newsletter
 
 If you've ever made a post on Facebook, you're ready for Substack. It's that simple.
@@ -129,15 +137,27 @@ Finally, when you're ready to publish, press (3) Continue. That will present a s
 
 It's pretty much that simple. If you create a nice Substack, feel free to comment below or drop a comment on mine. I'd love to see what you're working on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Can I import my existing lists? 
 
 Yes, but Substack is fussy. They will only import lists where they can verify that all email addresses have previously opted in. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How can I turn off the requests for pledges or subscription money? 
 
 This took me a few minutes to find. Go back to Settings on your Dashboard, scroll down to Payments, and uncheck "Allow readers to pledge subscriptions". Those payment/pledge requests will no longer be presented to new subscribers. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How does Substack make money? 
 
@@ -157,11 +177,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-download-panopto-screen-recorder-and-record-video/"><u>[New] In 2024, Download Panopto Screen Recorder and Record Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncover-the-best-5-ios-applications-for-easy-podcasting/"><u>[New] Uncover the Best 5 iOS Applications for Easy Podcasting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-directrecorderw11-streamlined-windows-11-capture-software/"><u>[Updated] 2024 Approved DirectRecorderW11 Streamlined Windows 11 Capture Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-secret-sauce-of-successful-pixlr-editing/"><u>[Updated] In 2024, The Secret Sauce of Successful Pixlr Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thank-you-in-motion-templates-for-every-budget-level/"><u>[Updated] Thank You in Motion Templates for Every Budget Level</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-timeline-enhancement-incor-written-by-assistant/"><u>[Updated] Timeline Enhancement Incor Written by Assistant</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-real-time-media-streamers/"><u>2024 Approved Superior Real-Time Media Streamers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/champion-avc-player-for-seamless-viewing/"><u>Champion AVC Player for Seamless Viewing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comment-accelerer-lencodage-hevch265-pour-de-meilleures-performances-video/"><u>Comment Accélérer L'Encodage HEVC/H.265 Pour De Meilleures Performances Vidéo</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/from-concept-to-screen-writing-a-winning-docu-script-for-2024/"><u>From Concept to Screen Writing a Winning Docu-Script for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/innovative-approaches-for-rising-through-the-rankings-for-2024/"><u>Innovative Approaches for Rising Through the Rankings for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionary-makeover-google-tv-introduces-a-brand-new-streamlined-home-interface/"><u>Revolutionary Makeover: Google TV Introduces a Brand New Streamlined Home Interface</u></a></li>
+<li><a href="https://win-forum.techidaily.com/support-for-healthcare-systems/"><u>Support for Healthcare Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-roadmap-to-crafting-high-quality-srt-files-for-2024/"><u>The Ultimate Roadmap to Crafting High-Quality SRT Files for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-video-translation-playbook-with-13-expert-recommended-apps-for-2024/"><u>The Ultimate Video Translation Playbook with 13 Expert-Recommended Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turning-twitter-videos-into-audible-mp3s-for-2024/"><u>Turning Twitter Videos Into Audible MP3s for 2024</u></a></li>
+</ul></div>
+

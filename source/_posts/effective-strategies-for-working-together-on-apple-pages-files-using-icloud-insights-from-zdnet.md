@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Working Together on Apple Pages Files Using iCloud - Insights From ZDNet
-date: 2024-12-16T04:07:57.577Z
-updated: 2024-12-22T02:56:44.524Z
+date: 2024-12-24T16:51:50.455Z
+updated: 2024-12-27T16:03:09.694Z
 tags:
   - apple
 categories:
@@ -27,6 +27,10 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -45,10 +49,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -58,10 +58,14 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -72,7 +76,7 @@ The first thing you must do is open the Pages document that will be shared with 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
@@ -82,10 +86,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -106,7 +106,7 @@ Make sure to configure both the Who Can Access and Permission options. Here, you
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stop sharing
@@ -149,24 +149,20 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mixing-music-into-your-instagram-visuals/"><u>[New] 2024 Approved Mixing Music Into Your Instagram Visuals</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-effective-use-of-snap-camera-for-team-collaboration-for-2024/"><u>[New] Effective Use of Snap Camera for Team Collaboration for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-masterpiece-makers-editing-images-with-invisible-text/"><u>[New] In 2024, Masterpiece Makers Editing Images with Invisible Text</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-subtly-lowering-volume-alives-guide/"><u>[New] Subtly Lowering Volume Alive’s Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-improving-chromebook-tone-with-top-voice-extensions/"><u>[New] The Ultimate Guide to Improving Chromebook Tone with Top Voice Extensions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-understanding-sns-hdr-pros-role-in-hdr-editing/"><u>[New] Understanding SNS HDR Pro's Role in HDR Editing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-pioneering-visibility-on-youtube-through-proven-methods/"><u>[Updated] In 2024, Pioneering Visibility on YouTube Through Proven Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-future-of-mp4s-seamless-srt-incorporation-techniques/"><u>[Updated] The Future of MP4s Seamless SRT Incorporation Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-strategies-for-boosting-handp-healthcare-fb-campaigns/"><u>2024 Approved Top Strategies for Boosting H&P Healthcare FB Campaigns</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-drones-their-functionality-explored/"><u>2024 Approved Understanding Drones Their Functionality Explored</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-stabilizing-your-heart-of-iron-iv-experience/"><u>Effective Solutions for Stabilizing Your Heart of Iron IV Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-dealing-with-the-notorious-0x8000ffff-windows-error-a-comprehensive-guide/"><u>Expert Advice on Dealing with the Notorious 0X8000ffff Windows Error – A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-emulate-old-pokemon-games-on-your-android-phone/"><u>How to Emulate Old Pokemon Games on Your Android Phone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-pova-6-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Pova 6 Pro 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-how-to-use-zoom-on-xbox-one/"><u>In 2024, How to Use Zoom on Xbox One</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-zoom-presentations-with-stunning-visuals/"><u>In 2024, Transform Your Zoom Presentations with Stunning Visuals</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/testing-the-capabilities-of-magix-image-viewer-for-2024/"><u>Testing the Capabilities of MAGIX Image Viewer for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-list-of-8-gratis-corporate-video-conferencing-software-for-2024/"><u>The Ultimate List of 8 Gratis Corporate Video Conferencing Software for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unparalleled-20-anime-series-themes/"><u>[New] Unparalleled 20 Anime Series Themes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-linguistic-leaders-list-of-top-33-apps-that-turn-videos-into-text/"><u>[Updated] The Linguistic Leaders' List of Top 33 Apps That Turn Videos Into Text</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-beyond-mainstream-a-list-of-6-exclusive-icon-and-logo-providers/"><u>2024 Approved Beyond Mainstream A List of 6 Exclusive Icon & Logo Providers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-exclusive-roundup-best-windows-11-video-recording-options/"><u>2024 Approved Exclusive Roundup Best Windows 11 Video Recording Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-unbiased-freepaid-blu-ray-vids-on-pcmac/"><u>2024 Approved Ultimate Guide Unbiased Free/Paid Blu-Ray Vids on PC/Mac</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-12-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 12 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gigglegridiron-craft-memes-from-anywhere-anytime/"><u>In 2024, GiggleGridiron Craft Memes From Anywhere, Anytime</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-mixing-techniques-with-logics-audio-fading/"><u>In 2024, Precision Mixing Techniques with Logic's Audio Fading</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-comprehen-word-limit-reached-continuation-in-the-next-step/"><u>In 2024, The Comprehen... (Word Limit Reached, Continuation in the Next Step)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Which is the Best Fake GPS Joystick App On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/onderliggende-voornemen-beoefening-movavi-hoelang-hebben-we-nog-een-kans/"><u>Onderliggende Voornemen Beoefening Movavi: Hoelang Hebben We Nog Een Kans?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/seamless-conversion-ideal-tweeter-video-solution-providers/"><u>Seamless Conversion Ideal Tweeter Video Solution Providers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fastest-methods-to-uncover-hidden-reddit-articles-for-2024/"><u>The Fastest Methods to Uncover Hidden Reddit Articles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-best-vr-game-engines-of-2023-for-2024/"><u>Unveiling the Best VR Game Engines of 2023 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-hidden-charge-discover-the-special-thunderbolt-docks-secret-windows-benefit-insider/"><u>Unveiling the Hidden Charge: Discover the Special Thunderbolt Dock's Secret Windows Benefit Insider</u></a></li>
 </ul></div>
 

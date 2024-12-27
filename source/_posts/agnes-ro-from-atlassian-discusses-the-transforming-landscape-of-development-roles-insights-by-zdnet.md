@@ -1,7 +1,7 @@
 ---
 title: Agnes Ro From Atlassian Discusses the Transforming Landscape of Development Roles - Insights by ZDNet
-date: 2024-09-18 23:43:38
-updated: 2024-09-20 11:15:41
+date: 2024-12-22T17:10:41.886Z
+updated: 2024-12-27T16:28:34.524Z
 tags:
   - cloud
 categories:
@@ -17,11 +17,19 @@ Image: Atlassian
 
 The last decade has seen the role of software developers evolve at a rapid pace as more and more organisations aimed to deliver new iterations of applications faster and more frequently than ever before.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Software development: Emerging trends and changing roles ZDNet takes an in-depth look at key trends in software development and how developers are changing the tech industry.  Read now](https://www.zdnet.com/topic/software-development-emerging-trends-and-changing-roles/)
 
 Atlassian's head of engineering Agnes Ro has experienced this first-hand. Ro has spent the last 15 years working at the software company -- initially as a graduate developer, before rising up the ranks to oversee a team of 100 engineers for a department called Foundational Collaboration that sits within Atlassian's cloud platform. Some of her key responsibilities include delivering common experiences and backend services for Atlassian products, such as rich text editors in JIRA and Confluence, as well as file and storage experiences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The need for speed
 
@@ -39,12 +47,20 @@ Frameworks to support the language that developers write, especially in the fron
 
 "Browser standards are very standardised today, so engineers today deal with more different challenges."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Developer
 
 * [It's the end of programming as we know it -- again](https://www.zdnet.com/article/its-the-end-of-programming-as-we-know-it-again/)
 * [Developers feel secure in their jobs, but they're still thinking about quitting](https://www.zdnet.com/article/developers-feel-secure-in-their-jobs-but-theyre-still-thinking-about-quitting/)
 * [The future of the web will need a different sort of software developer](https://www.zdnet.com/article/the-future-of-the-web-will-need-a-different-sort-of-software-developer/)
 * [The best Linux laptops for consumers and developers](https://www.zdnet.com/article/best-linux-laptop/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Teamwork makes the dream work
 
@@ -66,6 +82,10 @@ Ro believes software developers are no longer outliers within an organisation, b
 
 "They really do have to follow all the way through to shipping and the operational side of things, and making sure that it is reliable, stable, and not just about writing and shipping the code, and so I definitely feel that that's been a huge change and shift."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Related Coverage
 
 * [Why DevOps matter](https://www.zdnet.com/article/why-devops-matters/)
@@ -80,11 +100,31 @@ Ro believes software developers are no longer outliers within an organisation, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-10-tips-for-shooting-profesional-youtube-videos/"><u>[New] 2024 Approved 10 Tips For Shooting Profesional YouTube Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-androids-creme-de-la-creme-for-fast-vid-fixing/"><u>[New] Android's Crème De La Crème for Fast Vid Fixing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ten-steps-to-keeping-vr-healthy/"><u>[New] Ten Steps to Keeping VR Healthy</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unveil-clear-photos-from-iphone-with-our-free-red-eye-corrector-guide-for-2024/"><u>[New] Unveil Clear Photos From iPhone with Our FREE Red-Eye Corrector Guide for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-foodie-frenzy-tiktoks-most-shared-meals-and-munchies/"><u>[Updated] In 2024, Foodie Frenzy TikTok's Most Shared Meals and Munchies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-grasp-growth-with-free-fb-extractor-apps/"><u>[Updated] In 2024, Grasp Growth with Free FB Extractor Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-pioneering-teams-changing-vrs-course/"><u>2024 Approved Pioneering Teams Changing VR's Course</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-list-empowering-film-suggestions/"><u>2024 Approved The Ultimate List Empowering Film Suggestions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-turning-twitter-videos-into-audible-mp3s/"><u>2024 Approved Turning Twitter Videos Into Audible MP3s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-potential-ae-templates-for-aspiring-artists/"><u>2024 Approved Unleash Potential AE Templates for Aspiring Artists</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-8-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 8</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-list-of-top-vector-stock-portals/"><u>In 2024, The Expert's List of Top Vector Stock Portals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-editing-shines-with-magix-video-pro-x-for-2024/"><u>The Future of Editing Shines with Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-and-tricks-elevating-your-images-with-text-editing-for-2024/"><u>Tips & Tricks Elevating Your Images with Text Editing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trim-videos-with-flair-in-windows-11-photo-apps-for-2024/"><u>Trim Videos with Flair in Windows 11 Photo Apps for 2024</u></a></li>
+</ul></div>
+

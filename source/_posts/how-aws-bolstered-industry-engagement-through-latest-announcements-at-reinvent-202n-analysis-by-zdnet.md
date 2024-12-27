@@ -1,7 +1,7 @@
 ---
 title: "How AWS Bolstered Industry Engagement Through Latest Announcements At Re:Invent 202N – Analysis by ZDNet"
-date: 2024-09-17 15:33:50
-updated: 2024-09-20 11:14:12
+date: 2024-12-22T16:51:46.376Z
+updated: 2024-12-27T17:14:50.401Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 ![aws-industries.png](https://www.zdnet.com/a/img/resize/7d2ad83651d4d1895bbf3b1b3b3205affc38f7ec/2021/11/30/52c37f70-47ce-45b0-812d-30ead4496223/aws-industries.png?auto=webp&width=1280)
 
 AWS CEO Adam Selipsky went vertical in his keynote. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -40,6 +44,10 @@ What's evolving is that AWS customers are also becoming business partners over t
 
 Nasdaq CEO Adena Friedman said the market operator is a technology provider too. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Nasdaq: Market operator meets SaaS provider
 
 Nasdaq CEO Adena Friedman outlined how the market operator is a SaaS provider to the ecosystem focusing on equities, derivatives, crypto and even sports betting. Nasdaq's reach extends into 130 other markets around the world. 
@@ -49,6 +57,10 @@ The market operator has been an AWS partner since 2008 and has extended its use 
 "We will start with US options markets," said Friedman. "We will be the first market provider that is 100% cloud-enabled." 
 
 Going forward, Nasdaq will build edge compute zones with AWS Outposts and offer a private local zone for global capital markets. In other words, Nasdaq will have AWS as an ingredient brand to export trading and clearing tools to its footprint of 130 markets. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dish: AWS as 5G network backbone
 
@@ -61,6 +73,10 @@ Dish Wireless has enterprise ambitions.
 Rouanne said Dish Wireless is looking to be a network of networks and connect "edge to cloud in a simplified manner." By using AWS as its infrastructure, Dish Wireless aims to deliver data and automation at scale.
 
 If you couple Dish Wireless with partnerships with the likes of Verizon for edge computing, and you can see the AWS telecom ground game improving. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3M eyes digital products too
 
@@ -77,6 +93,10 @@ Going forward, Braun said 3M is looking to be known for its digital products as 
 3M and AWS are providing a digital marketplace for customers so they can access code, models and tools. "Each success builds on the one before it," said Braun. 
 
 These industrial-use cases ultimately become Amazon bundles such as AWS Industrial, which has 5 core services for machine learning, fulfillment networks and equipment management. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### United Airlines: Building out its digital game
 
@@ -123,11 +143,29 @@ The vision: Every company will become a SaaS provider to industries on some leve
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-how-to-use-green-screen-for-streaming/"><u>[New] How to Use Green Screen for Streaming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-probing-financial-depths-an-analysis-of-mr-beasts-wealth/"><u>[Updated] Probing Financial Depths An Analysis of Mr. Beast's Wealth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-veracity-of-ffmpegs-audio-extraction-techniques/"><u>[Updated] The Veracity of FFmpeg’s Audio Extraction Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-precision-and-vividness-with-the-benq-sw320-4k-monitor/"><u>2024 Approved Precision & Vividness with the BenQ SW320 4K Monitor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-6-hdmi-21-tvs-spec-by-spec-comparison-guide/"><u>2024 Approved Top 6 HDMI 2.1 TVs Spec-by-Spec Comparison Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-zero-cost-digital-picture-upscaler/"><u>2024 Approved Top-Tier Zero-Cost Digital Picture Upscaler</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-top-techniques-for-mastering-srt-file-generation/"><u>2024 Approved Unveiling Top Techniques for Mastering SRT File Generation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-fixes-resolving-common-problems-in-shared-media-access/"><u>Easy Fixes: Resolving Common Problems in Shared Media Access</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/empowering-productivity-gratuitous-clock-use/"><u>Empowering Productivity Gratuitous Clock Use</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-12-vanquished-adventure-resumes-in-mh-world/"><u>Error 12 Vanquished - Adventure Resumes in MH World</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-ensuring-proper-functionality-of-radeon-software-formerly-ryzen-master/"><u>Expert Tips: Ensuring Proper Functionality of Radeon Software (Formerly Ryzen Master)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/guffaw-generator-cyborg-comic-coders/"><u>Guffaw Generator Cyborg Comic Coders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tick-tock-tally-calculating-pewdiepies-cash/"><u>In 2024, Tick-Tock Tally Calculating PewDiePie’s Cash</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-s17-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo S17 Pro Screen | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Protect Your Business From Cyber Threats - Optimize Cloud Security Strategies Now
-date: 2024-09-19 10:57:24
-updated: 2024-09-20 11:31:16
+date: 2024-12-26T17:04:24.106Z
+updated: 2024-12-27T17:06:26.651Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/a6d7390fcfda6941f8e39a947b5866d1ce
 Image: Getty Images
 
 Cloud applications and services provide access to business tools, information and software from anywhere, allowing employees to be productive whether they are [working in the office, remotely or a combination of the two](https://www.zdnet.com/article/remote-work-or-back-to-the-office-the-calculation-just-shifted-again/). Location doesn't matter; everything they need is[just in 'the cloud](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)'.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -46,6 +50,10 @@ And because the cyber criminals are using legitimate usernames and passwords to 
 
 For example, criminals could use access to a [legitimate account to take control of the user's emails and send malicious links to their contacts](https://www.zdnet.com/article/watch-out-for-this-phishing-attack-that-hijacks-your-email-chats-to-spread-malware/), which are designed to steal sensitive information, or plant malware or even ransomware. The target may not question the link because it comes from someone they know and trust. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Security
 
 * [The best VPN services of 2024: Expert tested](https://www.zdnet.com/article/best-vpn/)
@@ -66,9 +74,17 @@ Meanwhile, ransomware campaigns have also been known to [exploit exposed or impr
 
 And it isn't just common cyber criminals who've taken advantage of the rise of remote working and the increase in use of cloud applications: [state-backed hacking and cyber-espionage groups are also exploiting vulnerabilities in cloud](https://www.zdnet.com/article/microsoft-office-365-is-becoming-the-core-of-many-businesses-and-hackers-have-noticed/) as a launchpad for campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Closing the door
 
 But it doesn't have to be this way, and there are several steps that businesses can take to boost the cybersecurity of their cloud applications and software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -91,6 +107,10 @@ And it's imperative for information security teams to have a [good grasp of what
 
 Cloud services can provide significant benefits for both businesses and their employees, but it's vital that the right choices are made to ensure on-demand IT is used in a productive and secure way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -105,11 +125,28 @@ Cloud services can provide significant benefits for both businesses and their em
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-how-to-and-where-download-unboxing-video-background-music/"><u>[New] How To & Where Download Unboxing Video Background Music</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-crafting-the-perfect-picture-for-youtube-upload/"><u>[New] In 2024, Crafting the Perfect Picture for YouTube Upload</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-facebook-decoding-the-new-era-of-bite-sized-videos/"><u>[New] In 2024, Facebook Decoding the New Era of Bite-Sized Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-youtubes-video-editor-integrating-tracks-into-your-videos/"><u>[New] Mastering YouTube's Video Editor Integrating Tracks Into Your Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-next-wave-of-social-media-top-apps-as-periscope-alternates/"><u>[New] The Next Wave of Social Media Top Apps as Periscope Alternates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-add-srt-to-mp4-2024/"><u>[New] Ultimate Guide to Add SRT to MP4 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expertly-selected-asmr-tools-for-androidios/"><u>[Updated] 2024 Approved Expertly Selected ASMR Tools for Android/iOS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-eternal-void-a-complete-ban-on-youtube-short-video-feature/"><u>[Updated] In 2024, Eternal Void A Complete Ban on YouTube Short Video Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-saving-web-radio-broadcasts/"><u>2024 Approved The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-metaverse-vr-gear-list-top-8-choices/"><u>2024 Approved Ultimate Metaverse VR Gear List Top 8 Choices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-the-sealocus-coastal-silvers-slim-profile-and-4k-quality-transform-your-outdoor-entertainment-experience/"><u>How the Sealocus Coastal Silver's Slim Profile & 4K Quality Transform Your Outdoor Entertainment Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/setting-up-voicegpt-your-guide-to-a-speaking-ai-companion-for-android-devices/"><u>Setting Up VoiceGPT: Your Guide to a Speaking AI Companion for Android Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-guide-to-capturing-stunning-time-lapses-on-galaxys/"><u>The Ultimate Guide to Capturing Stunning Time-Lapses on Galaxys</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-the-best-android-photo-editor-does-picku-stand-out-in-2024/"><u>Uncover the Best Android Photo Editor – Does PickU Stand Out, In 2024</u></a></li>
+</ul></div>
+

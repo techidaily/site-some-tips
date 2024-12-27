@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores Why Apple's New WWDC AI Developments Might Not Spark Interest (And That's a Good Thing)
-date: 2024-12-21T02:19:11.998Z
-updated: 2024-12-21T23:49:33.384Z
+date: 2024-12-26T16:11:50.886Z
+updated: 2024-12-27T17:24:23.814Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,15 +146,18 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-community-resource-playing-games-without-limits-for-2024/"><u>[Updated] Community Resource Playing Games without Limits for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-best-online-choice-for-quick-hassle-free-gif-conversion-to-video-for-2024/"><u>[Updated] The Best Online Choice for Quick, Hassle-Free GIF Conversion to Video for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-sideways-surprise-decoding-instagram-video-strange-behavior/"><u>[Updated] The Sideways Surprise Decoding Instagram Video Strange Behavior</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>[Updated] Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
-<li><a href="https://article-helps.techidaily.com/capture-and-safeguard-periscope-videos-effectively-for-2024/"><u>Capture & Safeguard Periscope Videos Effectively for 2024</u></a></li>
-<li><a href="https://discover-community.techidaily.com/fix-your-slow-internet-connection-solutions-for-network-adapter-issues-from-yl-computing/"><u>Fix Your Slow Internet Connection: Solutions for Network Adapter Issues From YL Computing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-itel-p40plus-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Itel P40+ Phones? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-visual-testimonial-advantage/"><u>In 2024, The Visual Testimonial Advantage</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-get-ahead-in-video-editing-6-insider-adobe-premiere-tips-and-techniques/"><u>New 2024 Approved Get Ahead in Video Editing 6 Insider Adobe Premiere Tips and Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/soaring-high-with-q500s-4k-vision-for-2024/"><u>Soaring High with Q500's 4K Vision for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-crafting-a-viral-narrative-on-social-media/"><u>[New] 2024 Approved Crafting a Viral Narrative on Social Media</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-building-your-own-studiopc-an-all-inclusive-guide-for-4k-editors-for-2024/"><u>[New] Building Your Own StudioPC An All-Inclusive Guide for 4K Editors for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-video-storytelling-integrating-audio-narration/"><u>[New] The Art of Video Storytelling Integrating Audio Narration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-closer-look-approach-to-team-collaboration/"><u>[New] The Closer Look Approach to Team Collaboration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-essential-guide-to-webcam-assisted-presentations-for-2024/"><u>[New] The Essential Guide to Webcam-Assisted Presentations for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-techniques-for-fast-vimeo-videos-for-2024/"><u>[Updated] Techniques for Fast Vimeo Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-samsungs-picture-editor-features-and-drawbacks/"><u>[Updated] Unveiling Samsung's Picture Editor Features & Drawbacks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-mastering-motion-blur-in-ps-a-step-by-step-guide/"><u>In 2024, Mastering Motion Blur in PS A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722857473723-the-ultimate-guide-to-samsung-unpacked-2025-what-you-need-to-know-before-the-big-reveal/"><u>The Ultimate Guide to Samsung Unpacked 2025: What You Need to Know Before the Big Reveal!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-visualizing-audio-brilliance-for-2024/"><u>The Ultimate Guide to Visualizing Audio Brilliance for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-digital-art-with-free-versatile-lut-tools-for-2024/"><u>Transforming Digital Art with Free, Versatile LUT Tools for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/trouble-converting-mp4-to-wmv-on-windows-media-player-discover-a-simple-fix/"><u>Trouble Converting MP4 to WMV on Windows Media Player? Discover a Simple Fix!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-11-proplus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme 11 Pro+ Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

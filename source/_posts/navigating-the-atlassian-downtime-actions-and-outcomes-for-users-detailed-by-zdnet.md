@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Atlassian Downtime: Actions & Outcomes for Users Detailed by ZDNet"
-date: 2024-09-19 21:17:19
-updated: 2024-09-20 12:40:22
+date: 2024-12-20T16:10:51.213Z
+updated: 2024-12-27T16:06:22.080Z
 tags:
   - cloud
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
 ## Navigating the Atlassian Downtime: Actions & Outcomes for Users Detailed by ZDNet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What is going on? 
 
 One of our less pleasant responsibilities here at Forrester is commenting on serious business, security, or technical failures in the digital and IT industry. Due to its duration and the implications for a subset of the user base, the current Atlassian outage rises to that level. 
@@ -19,11 +23,19 @@ One of our less pleasant responsibilities here at Forrester is commenting on ser
 
 [![gettyimages-150654701-cloud-locked2.jpg](https://www.zdnet.com/a/img/resize/813e94e5a716a5eaa911ce9a8767d856608b6af3/2022/02/15/2524f6b2-f3b7-4d1b-a416-ef2b51808074/gettyimages-150654701-cloud-locked2.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) Cloud security: More critical than ever All the best tools and practices at your organization's disposal won't ensure an effective cloud security strategy if the tools are unfriendly and the practices daunting.  Read now](https://www.zdnet.com/collection/cloud-security-now-more-than-ever/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Atlassian is staking its future on being a cloud provider — it is transforming all of its products into SaaS offerings and sunsetting most of its traditional support for on-premises.[\[1\]](https://www.forrester.com/blogs/observations-on-the-atlassian-outage/#%5Fftn1) [This week's outage](https://www.zdnet.com/article/atlassian-estimates-cloud-outage-could-take-another-two-weeks-to-fix/) puts intense scrutiny on its abilities to execute, win, and maintain customer trust, despite the reported low number of customers impacted. Atlassian-sourced figures put the number at around 0.2% of its cloud customer base, and it says that it has restored [service to about 45% of its impacted users](https://tools.techidaily.com/atlassian/products/), but the duration of this restoration now makes this an unusually long SaaS outage. 
 
 For those not familiar, 400 customers [lost service](https://tools.techidaily.com/atlassian/products/) on Jira, Jira Service Management, Jira Work Management, Confluence, Opsgenie, Statuspage, and Atlassian Access for a week. The outage is expected to last at least two more weeks for some. 
 
 This outage was particularly ill-timed, occurring during its annual Team '22 customer conference. Before the outage broke, analyst and market reception of Atlassian's business strategy was mixed. While there are natural benefits for customers in moving to a SaaS model (such as reduced admin work), the reputational damage to Atlassian's cloud capabilities is occurring at a particularly contentious time. It seems likely that Atlassian's cloud migration timelines will be adjusted. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What can customers do? 
 
@@ -37,9 +49,17 @@ In the interim, Atlassian customers should take a few steps in response to this 
 * Look for customer compensation beyond the required SLA. How does Atlassian make it right? Does it go above and beyond to repair customer trust, or does it meet the contractual minimums? Just meeting minimums should generate skepticism.
 * Look at how it executes its findings and how it acts to prevent this from happening again. Does it invest significantly in resiliency? Does it hire resiliency experts? Or does it routinely downplay the probability of such a failure happening again? The latter is less encouraging as an existing or potential customer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Can you use other tools? 
 
 Some will undoubtedly consider alternatives to Atlassian. The challenge to this approach is that Atlassian is an increasingly broad and integrated, cross-functional suite (as we can see above). The recent product announcements around [Atlas, Compass, and enhancements to underlying architecture](https://tools.techidaily.com/atlassian/products/) (like the Atlassian Data Lake and Atlassian Analytics) indicate a smart emphasis on this strategy. Acquisitions (especially Opsgenie) are not remaining cohesive and decoupled. Quite the opposite, they are being integrated into the whole. Atlassian increasingly finds itself in the company of vendors like SAP or Salesforce, where replacement is made difficult thanks to their cross-functional capabilities. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What is going to happen next? 
 
@@ -82,11 +102,27 @@ _This post was written by Analyst William McKeon-White and it originally appeare
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-efficient-windows-11-recorders-to-ace-your-content/"><u>[Updated] Efficient Windows 11 Recorders to Ace Your Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fiscal-football-footage-how-to-capture-and-edit-for-dirt-cheap/"><u>[Updated] Fiscal Football Footage How To Capture and Edit for Dirt-Cheap</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-interconnecting-your-music-collection-across-services/"><u>[Updated] Interconnecting Your Music Collection Across Services</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-easy-access-luxury-free-access-to-your-dreamset-of-50-banners/"><u>2024 Approved Easy-Access Luxury - Free Access to Your Dreamset of 50 Banners!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-blueprint-to-surge-in-youtubers-popularity/"><u>2024 Approved The Blueprint to Surge in Youtubers' Popularity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-for-seamless-system-evolutions/"><u>2024 Approved The Essentials for Seamless System Evolutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-in-videos-with-quick-trims-on-windows-11/"><u>2024 Approved Unleash Creativity in Videos with Quick Trims on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-tecno-spark-20-proplus-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-straightforward-approach-to-editing-age-on-tiktok/"><u>In 2024, The Straightforward Approach to Editing Age on TikTok</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-laughing-photo-editing-tools-iosandroid/"><u>In 2024, Ultimate Guide to Laughing Photo Editing Tools (iOS/Android)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ntly-connect-with-viewers-uploading-short-films-online/"><u>Instantly Connect with Viewers Uploading Short Films Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-platforms-for-amplifying-youtube-content-for-2024/"><u>Top Platforms for Amplifying YouTube Content for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unleash-creativity-with-gopros-time-lapse-technology-for-2024/"><u>Unleash Creativity with GoPro's Time-Lapse Technology for 2024</u></a></li>
+</ul></div>
+

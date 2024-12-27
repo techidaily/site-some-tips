@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the New M3 and M2 MacBook Air for Savvy Shoppers | GadgetCentral"
-date: 2024-12-20T03:55:02.476Z
-updated: 2024-12-22T02:59:20.900Z
+date: 2024-12-25T17:27:09.632Z
+updated: 2024-12-27T16:57:40.985Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
@@ -54,7 +54,7 @@ To help you make this decision, we've broken down all of the most important deta
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
@@ -72,10 +72,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -95,13 +91,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -110,6 +106,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 **Also: [iPhone 15 review: Why I recommend this model even to 'Pro' users in 2024](https://www.zdnet.com/article/iphone-15-plus-review/)**
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You're on a budget
 
@@ -120,7 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -157,24 +157,20 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-boost-ig-content-three-steps-for-compelling-video-descriptions-for-2024/"><u>[New] Boost IG Content - Three Steps for Compelling Video Descriptions for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-art-of-zooming-in-youtube-videos/"><u>[New] The Art of Zooming in YouTube Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-secret-to-love-in-video-editing-filmoras-best-aspects/"><u>[New] The Secret to Love in Video Editing Filmora's Best Aspects</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-embark-on-a-wanderlust-adventure-becoming-a-professional-travel-vlogger/"><u>[Updated] 2024 Approved Embark on a Wanderlust Adventure Becoming A Professional Travel Vlogger</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-iphone-tips-bringing-out-the-best-with-hdr-photography/"><u>[Updated] IPhone Tips Bringing Out the Best with HDR Photography</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-social-potential-xbox-games-via-facebook-livestream/"><u>[Updated] Unlock Social Potential Xbox Games via Facebook Livestream</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unraveling-best-practices-for-effective-fb-healthcare-promos/"><u>[Updated] Unraveling Best Practices for Effective FB Healthcare Promos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/44cm44kq44oz44op44kk44oz5yuv55s75asj5oplusb44k144o844ot44k544ks5yip55so44gx44gf6zqb44gu44km44kk44or44k56kkr5a6z44gr44gk44ge44gm772e5lqi6ziy44go5zue6yg5pa55r27/"><u>「オンライン動画変換サービスを利用した際のウイルス被害について～予防と回避方法」</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-studio-tracker-xvideoexploration/"><u>2024 Approved Ultimate Studio Tracker XVideoExploration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveil-clearer-visuals-essential-tips-for-zooming-on-snapchat/"><u>2024 Approved Unveil Clearer Visuals Essential Tips for Zooming on Snapchat</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-top-9-webcam-filters-for-professional-streamers/"><u>2024 Approved Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discovering-your-windows-11-license-code-a-step-by-step-guide/"><u>Discovering Your Windows 11 License Code: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-time-saving-photo-enhancement-adding-dates-to-pictures/"><u>In 2024, Time-Saving Photo Enhancement Adding Dates to Pictures</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210705711-9791029914324-life-and-destiny/"><u>Life and Destiny | Free Book</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-tutorial-for-impeccable-screen-recording-on-microsofts-latest-operating-systems/"><u>Step-by-Step Tutorial for Impeccable Screen Recording on Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-strategy-to-seamlessly-upload-srt-subtitles-online/"><u>The Ultimate Strategy to Seamlessly Upload SRT Subtitles Online</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-honor-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor Android SIM Unlock APK</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-streaming-contenders-face-off-roku-vs-amazon-fire-tv-stick/"><u>Top Streaming Contenders Face-Off: Roku vs Amazon Fire TV Stick</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-photo-editing-potential-with-these-clever-pixlr-techniques-for-2024/"><u>Unlock Photo Editing Potential with These Clever Pixlr Techniques for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-comparative-study-dji-quadcopter-standard-edition-for-2024/"><u>[New] Comparative Study DJI Quadcopter Standard Edition for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-hdr-experience-with-asuss-4k-monitor/"><u>[New] The Ultimate HDR Experience with Asus's 4K Monitor</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-foster-community-with-unique-insta-story-questions/"><u>[Updated] 2024 Approved Foster Community with Unique Insta Story Questions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-streamlined-methods-for-iphone-screen-capture/"><u>[Updated] 2024 Approved Streamlined Methods for iPhone Screen Capture</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-maximize-your-youtube-reach-key-tips-for-enhancing-video-seo/"><u>[Updated] In 2024, Maximize Your YouTube Reach Key Tips for Enhancing Video SEO</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-peak-creative-synopsis-thorough-studio-review-for-the-year-2023/"><u>[Updated] In 2024, Peak Creative Synopsis Thorough Studio Review for the Year 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tech-tips-how-to-get-fcp-without-money/"><u>[Updated] Tech Tips How to Get FCP Without Money</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-palette-primer-compreenasive-guide-to-coloring/"><u>[Updated] The Palette Primer Compreenasive Guide to Coloring</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/how-to-set-a-new-standard-printer-in-windows-tips-from-yl-software-experts/"><u>How To Set a New Standard Printer In Windows: Tips From YL Software Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-best-monitors-for-xbox-series-x/"><u>In 2024, The Best Monitors for Xbox Series X</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-guide-to-gamers-screen-recordings-with-win10/"><u>In 2024, The Ultimate Guide to Gamers' Screen Recordings with Win10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-exciting-photography-aspects-of-ios-11/"><u>In 2024, Unveiling Exciting Photography Aspects of iOS 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-integrity-of-format-with-ffmpegs-audio-recapture-methods-for-2024/"><u>The Integrity of Format with FFmpeg's Audio Recapture Methods for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-android-photo-tech-tips-and-apps-guide-for-2024/"><u>Top Android Photo-Tech Tips & Apps Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-wmvcoredll-missing-errors-tips-and-solutions/"><u>Troubleshooting Wmvcore.dll Missing Errors: Tips and Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling The Next Big Thing in Government Tech: AT&T and IBM Jointly Launch Co-Innovation Laboratory - ZDNET Reports"
-date: 2024-09-18 12:33:46
-updated: 2024-09-20 11:54:49
+date: 2024-12-24T16:19:09.404Z
+updated: 2024-12-27T16:34:06.687Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ AT&T and IBM [launched the collaboration](https://www.zdnet.com/article/ibm-form
 "One of the challenges that enterprises have to face when you think about 5G, cloud and edge computing is that it's accelerating pretty fast," William Stovall, AT&T's VP of mobility & IoT, said to _ZDNet_. "The challenge is, how do I undertake this, and how do I put it into practice. So to give enterprise customers a vehicle to see it in the works, and to have the opportunity to co-create, is a benefit that allows them a better roadmap to actually deploy these technologies."
 
 The co-innovation labs are designed to serve a range of industries, with clear use cases in areas like manufacturing and health care. The public sector has a number of compelling use cases, like delivering 5G-enabled communication services to first responders, or providing AR/VR environments to the military. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### MWC 2022
 
@@ -56,11 +60,25 @@ The opening of the new simulation lab will be particularly timely, given the imp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-platform-prowess-twitch-vs-youtube-comparison/"><u>[New] The Platform Prowess Twitch vs YouTube Comparison</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs/"><u>[Updated] In 2024, Navigating the World of Online Broadcasts on YouTube and Twitch with OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-srt-to-subc-innovative-techniques-explored/"><u>[Updated] The Art of SRT to SUBC Innovative Techniques Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-teachers-guide-to-use-video-in-teaching/"><u>2024 Approved Teacher's Guide To Use Video In Teaching</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-ipad-slow-motion-techniques-for-filming-and-video-modification/"><u>2024 Approved The Ultimate iPad Slow Motion Techniques for Filming and Video Modification</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-ensure-uninterrupted-gameplay-for-king-of-fighters-xv-on-your-computer/"><u>Expert Tips to Ensure Uninterrupted Gameplay for 'King of Fighters XV' On Your Computer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-ringtone-generator-create-personalized-alerts-and-notifications/"><u>Free Ringtone Generator: Create Personalized Alerts and Notifications</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-embedding-yt-playlists-seamlessly-on-webpages/"><u>In 2024, Embedding YT Playlists Seamlessly on Webpages</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synopsis-of-crowd-opinions-on-vllo/"><u>In 2024, Synopsis of Crowd Opinions on VLLO</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/insiders-selection-prime-vr-device-picks/"><u>Insider's Selection Prime VR Device Picks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rful-monetization-crafting-a-revenue-driven-youtube-presence-for-2024/"><u>Masterful Monetization Crafting a Revenue-Driven Youtube Presence for 2024</u></a></li>
+</ul></div>
+

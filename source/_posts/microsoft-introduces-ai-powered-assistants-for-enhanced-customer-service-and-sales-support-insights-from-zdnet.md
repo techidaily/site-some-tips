@@ -1,7 +1,7 @@
 ---
 title: Microsoft Introduces AI-Powered Assistants for Enhanced Customer Service & Sales Support - Insights From ZDNet
-date: 2024-09-19 20:43:20
-updated: 2024-09-20 10:49:53
+date: 2024-12-26T16:31:51.992Z
+updated: 2024-12-27T17:13:22.645Z
 tags:
   - cloud
 categories:
@@ -88,11 +88,33 @@ Also at Ignite, Microsoft emphasized new computing infrastructure for its Azure 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-top-5-free-pinterest-video-downloader-online/"><u>[New] Top 5 Free Pinterest Video Downloader Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-studyhistory-10-essential-youtube-historical-channels/"><u>2024 Approved StudyHistory 10 Essential YouTube Historical Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-story-blueprints-across-8-movie-sectors/"><u>2024 Approved Ultimate Story Blueprints Across 8 Movie Sectors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-process-to-download-and-update-microsoft-surface-drivers/"><u>Hassle-Free Process to Download and Update Microsoft Surface Drivers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-tecno-camon-30-pro-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Tecno Camon 30 Pro 5G Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-mastering-screen-recording-on-imac-with-ease/"><u>In 2024, Mastering Screen Recording on iMac with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-basic-hdr-imaging/"><u>In 2024, The Ultimate Guide to Basic HDR Imaging</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-true-income-potential-in-podcasting/"><u>In 2024, Unveiling the True Income Potential in Podcasting</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovations-in-hrtf-boosting-valorant-gameplay-intelligence/"><u>Innovations in HRTF: Boosting Valorant Gameplay Intelligence</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/iphone-13-assessment-cutting-edge-technology-on-a-silver-platter/"><u>IPhone 13 Assessment: Cutting-Edge Technology on a Silver Platter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-spinning-indie-podcast-hits-for-2024/"><u>The Art of Spinning Indie Podcast Hits for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-zooming-in-youtube-videos-for-2024/"><u>The Art of Zooming in YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/to-turn-off-or-not-navigating-through-your-off-facebook-activities-for-2024/"><u>To Turn Off or Not Navigating Through Your Off-Facebook Activities for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-voice-ms-words-speech-recognition-features-for-2024/"><u>Unleashing the Power of Voice MS Word's Speech Recognition Features for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

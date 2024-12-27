@@ -1,7 +1,7 @@
 ---
 title: Microsoft Introduces Dual AI Co-Pilots Enhancing Service & Sales Guidance - ZDNet
-date: 2024-09-17 13:32:22
-updated: 2024-09-20 12:23:54
+date: 2024-12-25T17:13:19.366Z
+updated: 2024-12-27T16:33:56.466Z
 tags:
   - cloud
 categories:
@@ -88,11 +88,31 @@ Also at Ignite, Microsoft emphasized new computing infrastructure for its Azure 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-breakthrough-techniques-for-outstanding-youtube-openers-technique-1plus2/"><u>[Updated] 2024 Approved Breakthrough Techniques for Outstanding YouTube Openers (Technique 1+2)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-shrinking-or-enlarging-images-on-your-iphone-effortlessly/"><u>[Updated] In 2024, Shrinking or Enlarging Images on Your iPhone Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-old-vhs-with-new-online-techniques/"><u>[Updated] Transform Your Old VHS with New Online Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-traveling-lens-quieter-assistant-360/"><u>[Updated] Traveling Lens Quieter Assistant 360°</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/dealing-with-windows-hardware-issues-expert-advice-and-solutions-by-yl-software-experts/"><u>Dealing with Windows Hardware Issues: Expert Advice and Solutions by YL Software Experts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-live-caption-coder/"><u>In 2024, Live Caption Coder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-caption-insertion-photos-app-tutorials-for-win-11/"><u>In 2024, Streamline Caption Insertion Photos App Tutorials for WIN 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-thrill-in-the-cold-olympic-showcase-snowboarders-at-peak-performance/"><u>In 2024, Thrill in the Cold Olympic Showcase - Snowboarders at Peak Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-your-creativity-with-photoshops-radial-blur-and-shadow-tools/"><u>In 2024, Unlock Your Creativity with Photoshop's Radial Blur & Shadow Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/maximizing-gopro-content-integration-with-social-networks/"><u>Maximizing GoPro Content Integration with Social Networks</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-strategies-for-recovering-damaged-docx-documents-without-spending-a-penny/"><u>Step-by-Step Strategies for Recovering Damaged .docx Documents Without Spending a Penny</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-36-unbeatable-apple-discounts-and-offers-still-up-for-grabs-on-prime-day-shop-smart-with-zdnets-guide/"><u>Top 36 Unbeatable Apple Discounts & Offers Still Up for Grabs on Prime Day - Shop Smart with ZDNet's Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-vlcs-full-potential-for-transforming-mp4-and-various-formats-for-2024/"><u>Unlocking VLC's Full Potential for Transforming MP4 & Various Formats for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

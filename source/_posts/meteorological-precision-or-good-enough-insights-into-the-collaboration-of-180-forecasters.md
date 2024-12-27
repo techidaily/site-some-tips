@@ -1,7 +1,7 @@
 ---
 title: Meteorological Precision or Good Enough? Insights Into the Collaboration of 180 Forecasters
-date: 2024-09-17 16:10:25
-updated: 2024-09-20 12:44:49
+date: 2024-12-23T16:58:39.973Z
+updated: 2024-12-27T16:47:16.646Z
 tags:
   - cloud
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/965ac34e7c203b27ce0e30a0e9c41cd225
 
 What's a good enough weather prediction? That's a question most people probably don't give much thought to, as the answer seems obvious -- an accurate one. But then again, most people are not CTOs at DTN. Lars Ewe is, and his answer may be different than most people's. With 180 meteorologists on staff providing weather predictions worldwide, [DTN](https://www.dtn.com/) is the largest weather company you've probably never heard of.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best extreme weather tech: Top gear for power outages Some of us like to go off the grid, while others find themselves forced off the grid. Having the right gear can make a huge difference.  Read now](https://www.zdnet.com/article/best-extreme-weather-tech/)
@@ -20,6 +24,10 @@ What's a good enough weather prediction? That's a question most people probably 
 Case in point: DTN is not included in ForecastWatch's "[Global and Regional Weather Forecast Accuracy Overview 2017 - 2020](https://www.forecastwatch.com/wp-content/uploads/Global%5Fand%5FRegional%5FWeather%5FForecast%5FAccuracy%5FOverview%5F2017-2020.pdf)." The report rates 17 weather forecast providers according to a comprehensive set of criteria, and a thorough data collection and evaluation methodology. So how come a company that started out in the 1980s, serves a global audience, and has always had a strong focus on weather, is not evaluated?
 
 * **See also:** [**US weather, climate forecasting is about to get way better**](https://www.zdnet.com/article/us-weather-climate-forecasting-is-about-to-get-way-better/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Weather forecast as a big data and internet of things problem
 
@@ -46,6 +54,10 @@ In many regards, weather forecasting today is really a big data problem. To some
 As a consequence, producing weather predictions does not just involve the domain expertise of meteorologists, but also the work of a team of data scientists, data engineers, and machine learning/DevOps experts. Like any big data and data science task at scale, there is a trade-off between accuracy and viability.
 
 * [**Best extreme weather tech 2022: Power outage gear**](https://www.zdnet.com/home-and-office/yard-outdoors/best-extreme-weather-tech/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Good enough weather prediction at scale
 
@@ -90,11 +102,23 @@ Coming full circle, Ewe noted that DTN's attention is focused on the company's d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-mastering-online-meetings-tips-for-chromebook-users/"><u>[Updated] 2024 Approved Mastering Online Meetings Tips for Chromebook Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-storytelling-with-epic-videos/"><u>[Updated] Instagram Storytelling with Epic Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-mastering-pip-a-complete-overview-on-edge-browser/"><u>[Updated] Mastering PIP A Complete Overview on Edge Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-recurrence-installer-collection/"><u>[Updated] Recurrence Installer Collection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-smudge-free-sequence-eliminating-gopro-fog/"><u>[Updated] The Smudge-Free Sequence Eliminating GoPro Fog</u></a></li>
+<li><a href="https://fox-http.techidaily.com/comprehensive-directory-of-pixel-tones-websites/"><u>Comprehensive Directory of Pixel Tones Websites</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-cultivate-connections-top-10-agrigames-for-gathering-pals/"><u>In 2024, Cultivate Connections Top 10 AgriGames for Gathering Pals</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-xs-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone XS Max When You Forget the Passcode?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-creative-potential-installing-windows-movie-maker-on-w11/"><u>In 2024, Unlocking Creative Potential Installing Windows Movie Maker on W11</u></a></li>
+</ul></div>
+

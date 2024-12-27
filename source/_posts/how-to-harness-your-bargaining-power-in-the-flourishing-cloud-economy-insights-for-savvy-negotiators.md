@@ -1,7 +1,7 @@
 ---
 title: How to Harness Your Bargaining Power in the Flourishing Cloud Economy – Insights for Savvy Negotiators
-date: 2024-09-17 16:40:29
-updated: 2024-09-20 11:26:45
+date: 2024-12-21T16:27:31.347Z
+updated: 2024-12-27T16:35:09.012Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Photo: Joe McKendrick
 Last month, it was [disclosed](https://www.nextgov.com/emerging-tech/2022/04/nsa-re-awards-secret-10-billion-contract-amazon/366184/) that the National Security Agency re-awarded a massive and hotly contested cloud computing contract worth up to $10 billion to Amazon Web Services. 
 
 One can assume a large government agency procuring $10 billion of cloud services has quite a bit of leverage over the terms of the agreement. However, for mainstream companies, the opposite may be true -- the cloud provider holds many of the cards, in a legal or contractual sense, with terms that may come back to bite the consumer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -59,11 +63,27 @@ Cloud engagements are now the lifeblood of forward-looking enterprises seeking t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-cinematic-edge-master-the-top-5-camera-skills/"><u>[New] The Cinematic Edge Master the Top 5 Camera Skills</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-visionary-5-android-backdrop-modification-apps-for-iphone-for-2024/"><u>[New] Visionary 5 Android Backdrop Modification Apps for iPhone for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-bring-your-gopro-adventures-online-facebookperiscope-livestream-setup-for-2024/"><u>[Updated] Bring Your Gopro Adventures Online Facebook/Periscope Livestream Setup for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-starting-with-telegram-advertising-essential-steps-for-newbies/"><u>[Updated] Starting with Telegram Advertising Essential Steps for Newbies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-techniques-for-ensuring-unbiased-decision-making-for-2024/"><u>[Updated] Techniques For Ensuring Unbiased Decision-Making for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones/"><u>[Updated] Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1728478031101-aomei-backupper/"><u>解决方案：如何从AOMEI Backupper中移除不需要的文件和文件夹</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-nba-experience-with-these-15-tips/"><u>Elevate Your NBA Experience with These 15 Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ranking-the-ultimate-10-free-online-subtitle-makers-srt/"><u>In 2024, Ranking the Ultimate 10 Free Online Subtitle Makers (Srt)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-iphone-lens-enhancers-x8-series-selection/"><u>In 2024, Top iPhone Lens Enhancers X/8 Series Selection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-ios-how-apples-latest-ocular-commands-empower-users-with-eye-control-on-iphones-and-ipads-insights-from-zdnet/"><u>Revolutionizing iOS: How Apple's Latest Ocular Commands Empower Users with Eye-Control on iPhones and iPads - Insights From ZDNet</u></a></li>
+<li><a href="https://win-updates.techidaily.com/solving-the-mystery-of-persistent-windows-crashes-expert-tips-from-yl-computing/"><u>Solving the Mystery of Persistent Windows Crashes: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/unblock-your-pcs-usb-troubleshooting-guide-for-windows-users/"><u>Unblock Your PC's USB: Troubleshooting Guide for Windows Users</u></a></li>
+</ul></div>
+

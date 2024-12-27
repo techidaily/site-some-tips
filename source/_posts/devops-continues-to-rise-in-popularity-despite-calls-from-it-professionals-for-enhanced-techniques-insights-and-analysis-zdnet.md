@@ -1,7 +1,7 @@
 ---
 title: DevOps Continues to Rise in Popularity Despite Calls From IT Professionals for Enhanced Techniques - Insights & Analysis | ZDNet
-date: 2024-09-17 12:53:17
-updated: 2024-09-20 10:25:18
+date: 2024-12-26T16:21:52.226Z
+updated: 2024-12-27T16:45:59.825Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ To advance in a technology-focused career, it's important to embrace the practic
 DevOps is an important career choice in itself. A recent glance at the Dice technology jobs listing shows more than 7,000 open positions for [DevOps engineers and specialists](https://www.dice.com/jobs/q-DevOps-jobs#dice). Companies are seeking such individuals who can drive "automation and containerization strategies," as well as "collaborate with product owners, developers, cloud engineers, DevOps engineers and operations to plan, design, test and deliver pipelines and infrastructure using [Continuous Integration/Continuous Delivery (CI/CD)](https://www.redhat.com/en/topics/devops/what-is-ci-cd) model."
 
 **Also:** [**Tech jobs are changing. Here are the skills you'll need to get promoted now**](https://www.zdnet.com/article/tech-jobs-are-changing-here-are-the-real-skills-youll-need-to-get-promoted/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -74,11 +78,26 @@ The study's authors paint a profile of the successful DevOps practitioner:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-navigating-zoom-from-novice-to-expert-configurator/"><u>[New] Navigating Zoom From Novice to Expert Configurator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-easy-path-to-observing-well-liked-comments-on-the-video-platform/"><u>[New] The Easy Path to Observing Well-Liked Comments on the Video Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-importance-of-diversity-and-inclusion-in-market-research-samples/"><u>[New] The Importance of Diversity & Inclusion in Market Research Samples</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-comprehensive-tutorial-for-gameplay-logging-enthusiasts/"><u>[Updated] 2024 Approved The Comprehensive Tutorial for Gameplay Logging Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-best-iphone-selfie-devices-ranked-8/"><u>[Updated] The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-revamp-voice-output-with-ease-for-ps5ps4-gamers/"><u>2024 Approved Revamp Voice Output with Ease for PS5/PS4 Gamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-vfx-creation-with-story-remix-and-windows-10-photos/"><u>2024 Approved Streamline Your VFX Creation with Story Remix and Windows 10 Photos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unraveling-the-mystery-of-ad-driven-content-creation-cpm/"><u>2024 Approved Unraveling the Mystery of Ad-Driven Content Creation (CPM)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-notch-tricks-to-nail-every-green-screen-shot/"><u>In 2024, Top-Notch Tricks to Nail Every Green Screen Shot</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>New Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-removing-background-from-images-in-windows-11/"><u>Step-by-Step Guide: Removing Background From Images in Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unravel-time-on-your-screen-fresh-perspectives-to-watch-youtube-backwards-for-2024/"><u>Unravel Time on Your Screen Fresh Perspectives to Watch YouTube Backwards for 2024</u></a></li>
+</ul></div>
+

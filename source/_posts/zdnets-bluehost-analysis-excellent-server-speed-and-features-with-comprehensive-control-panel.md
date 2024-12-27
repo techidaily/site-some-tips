@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Bluehost Analysis: Excellent Server Speed & Features with Comprehensive Control Panel"
-date: 2024-09-19 16:57:47
-updated: 2024-09-20 10:28:58
+date: 2024-12-24T16:35:26.036Z
+updated: 2024-12-27T17:27:09.042Z
 tags:
   - cloud
 categories:
@@ -60,6 +60,10 @@ At least half of the hosting vendors I've looked at over the years do these prom
 
 In any case, let's move on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  What the Bluehost Basic plan includes 
 
 Most bottom-end plans are for one website, and Bluehost is no different. 
@@ -109,6 +113,10 @@ Screenshot by David Gewirtz/ZDNET
 There does not appear to be anything that allows full site customization through something like cPanel. The cPanel email option shown above is for setting up email. But there's not full cPanel interface, which is disappointing. However, I did eventually find a more advanced dashboard. You get to it in the second dashboard shown above, by hitting Settings under the Welcome statement:
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Basic WordPress access with Bluehost
 
@@ -177,6 +185,10 @@ Bluehost says that it's not really a problem, because they [backport](https://do
 
 That's a credible statement, but I still don't like it. If a security product has been obsoleted, it just raises the hairs on the back of my neck to still keep running it, even if a separate team is keeping it secure. I'd be far more comfortable moving to the actively supported code. Based on Lundell's response and [some reading I did on the topic](https://www.redhat.com/en/blog/experience-bringing-openssl-30-rhel-and-fedora), it's quite likely their implementation is safe. Still, it seems wrong somehow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Bluehost performance testing
 
 Next, I wanted to see how the site performed using some online performance testing tools. It's important not to take these tests too seriously. We're purposely looking at the most low-end offerings of hosting vendors, so the sites they produce are expected to be relatively slow. 
@@ -195,9 +207,17 @@ Screenshot by David Gewirtz/ZDNET
 
 Also, definitely good enough for a small site. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Support responsiveness 
 
 There's not much to say here. I had only one interaction, late on a Sunday night. I did get connected with human via chat within about five minutes. The individual was nice and clearly wanted to help. I particularly liked how they let me know that some of the information would take a few minutes to dig up, so I wasn't left hanging, wondering if they'd gone home for the night. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
 
@@ -213,11 +233,30 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-complete-kinetics-exploration/"><u>[New] 2024 Approved Complete Kinetics Exploration</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-turnout-videos-backwards-easily-on-android/"><u>[New] 2024 Approved Turnout Videos Backwards Easily on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-mastering-final-cut-the-ultimate-guide/"><u>[New] Mastering Final Cut The Ultimate Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-learn-to-add-youtube-videos-for-richer-google-slate-decks-for-2024/"><u>[Updated] Learn to Add YouTube Videos for Richer Google Slate Decks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supercharge-image-editing-10-must-know-pixlr-strategies/"><u>[Updated] Supercharge Image Editing 10 Must-Know Pixlr Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-elite-eight-master-your-photos-with-grid-masters/"><u>2024 Approved The Elite Eight Master Your Photos with Grid Masters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tales-best-yt-storytellers-for-23/"><u>2024 Approved Top Tales Best YT Storytellers for '23</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/captivating-hd-wallpapers-of-priyanka-chopra-professional-imagery-collection-by-yl-technologies-in-collaboration-with-yl-software/"><u>Captivating HD Wallpapers of Priyanka Chopra - Professional Imagery Collection by YL Technologies in Collaboration with YL Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-hp-officejet-pro-press-8720-driver-update-and-install-instructions-for-your-windows-computer/"><u>Get the Newest HP OfficeJet Pro Press 8720 Driver Update and Install Instructions for Your Windows Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superb-cyber-shops-for-handcrafted-gift-enclosures/"><u>In 2024, Superb Cyber Shops for Handcrafted Gift Enclosures</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-iphone-14-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your iPhone 14 Is Unlocked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>In 2024, Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recovering-a-missing-or-pilfered-iphone-a-step-by-step-guide-with-the-find-my-app/"><u>Recovering a Missing or Pilfered iPhone: A Step-by-Step Guide with the Find My App</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/tomorrows-reality-progress-in-virtual-worlds/"><u>Tomorrow's Reality Progress in Virtual Worlds</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubled-by-a-disappearing-taskbar-discover-the-best-fixes-for-restoring-icon-visibility-in-windows-10/"><u>Troubled by a Disappearing Taskbar? Discover the Best Fixes for Restoring Icon Visibility in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint-for-2024/"><u>Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint for 2024</u></a></li>
+</ul></div>
+

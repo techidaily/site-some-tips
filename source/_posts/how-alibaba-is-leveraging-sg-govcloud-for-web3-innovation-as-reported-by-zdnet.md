@@ -1,7 +1,7 @@
 ---
 title: How Alibaba Is Leveraging SG GovCloud for Web3 Innovation, As Reported by ZDNET
-date: 2024-09-19 18:22:56
-updated: 2024-09-20 10:44:16
+date: 2024-12-20T16:58:01.910Z
+updated: 2024-12-27T17:20:02.602Z
 tags:
   - cloud
 categories:
@@ -29,6 +29,10 @@ Stressing that Web3 still was evolving and its development in the early stage, X
 
 This would be centred on the need to build applications quickly on blockchain, he said, adding that Alibaba would look to push out more API services and developer toolkits to support this. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Looking to support Singapore government cloud move
 
 The Chinese cloud vendor also expressed a keen interest to participate in Singapore's efforts to move its government services to cloud platforms. 
@@ -49,6 +53,10 @@ Wang added that Alibaba's research arm Damo Academy has a team in Singapore work
 
 Xiao also pointed to Alibaba's experience in providing e-government services in China and other global markets, offering use cases that could be deployed in Singapore. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Singapore government pushes on with cloud migration](https://www.zdnet.com/article/singapore-government-pushes-on-with-cloud-migration/)
@@ -64,11 +72,31 @@ Xiao also pointed to Alibaba's experience in providing e-government services in 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-composing-channel-overview-teaser-clips/"><u>[New] 2024 Approved Composing Channel Overview Teaser Clips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-decoding-the-freeze-in-photo-booth-videos/"><u>[New] 2024 Approved Decoding the Freeze in Photo Booth Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-elite-video-streaming-platforms-for-broadcast-for-2024/"><u>[New] Elite Video Streaming Platforms for Broadcast for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-list-best-video-cameras-s-musical-cinematography/"><u>[New] Ultimate List Best Video Cameras 'S Musical Cinematography</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-how-to-record-console-gameplay-on-computer/"><u>[Updated] 2024 Approved How to Record Console Gameplay on Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flaunt-your-brand-with-ease-the-top-10-youtube-theme-designers/"><u>[Updated] In 2024, Flaunt Your Brand with Ease - The Top 10 YouTube Theme Designers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-viral-visibility-vault-our-compreeher-guide-of-15-proven-methods-to-amass-attention-on-instagram/"><u>[Updated] In 2024, Viral Visibility Vault Our Compreeher Guide of 15 Proven Methods to Amass Attention on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-mememolding-cutter/"><u>[Updated] MemeMolding Cutter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-8-selections-of-subtitle-editors-making-srt-on-windowsmac-a-breeze/"><u>[Updated] Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-lgs-27in-widescreen-4k-display/"><u>2024 Approved The Ultimate Guide to LG's 27in Widescreen 4K Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>2024 Approved Top Picks Explore the Best New Windows 10 Apps and Games</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-converter-change-gifs-into-wmv-format-using-movavi/"><u>Free Online Converter: Change GIFs Into WMV Format Using Movavi</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/how-to-link-multiple-monitors-with-your-pc-running-windows-11-tips-by-yl-computing/"><u>How To Link Multiple Monitors with Your PC Running Windows 11: Tips by YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-titles-superior-blu-ray-players-for-free-and-paid-users/"><u>Ideal Titles Superior Blu-Ray Players for Free and Paid Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-drone-technology-mechanisms-and-applications-demystified/"><u>In 2024, Unraveling Drone Technology Mechanisms and Applications Demystified</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-leading-10-live-streaming-services/"><u>In 2024, Unveiling the Leading 10 Live-Streaming Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-luxury-transforming-standard-shipments-into-memories-for-2024/"><u>Unveiling Luxury Transforming Standard Shipments Into Memories for 2024</u></a></li>
+</ul></div>
+

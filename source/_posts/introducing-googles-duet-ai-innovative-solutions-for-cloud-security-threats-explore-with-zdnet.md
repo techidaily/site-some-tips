@@ -1,7 +1,7 @@
 ---
 title: "Introducing Google's Duet AI: Innovative Solutions for Cloud Security Threats – Explore with ZDNet"
-date: 2024-09-18 20:20:57
-updated: 2024-09-20 10:49:26
+date: 2024-12-24T16:46:57.632Z
+updated: 2024-12-27T17:17:42.984Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ Introduced to Google Workspace and Google Cloud in [May](https://workspace.googl
 
 At Google Next, the company debuted new security-related features to the AI tool. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Introducing Duet AI: Mandiant Threat Intelligence
 
 Google
@@ -58,6 +62,10 @@ Mandiant Threat Intelligence is a service that compiles threat data, including t
 **Also:** [**Google Cloud expands developer tools and data analytics capabilities with generative AI**](https://www.zdnet.com/article/google-cloud-expands-developer-tools-and-data-analytics-capabilities-with-generative-ai/)
 
 Duet Al in Mandiant Threat Intelligence is available now in preview and will be generally available this year. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Duet Al in Chronicle Security Operations
 
@@ -79,6 +87,10 @@ Ed Murphy, Product Manager & Shelly Tzoumas, Senior Product Marketing Manager, c
 
 Duet Al in Chronicle Security Operations is now available in preview and is expected to become generally available this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Duet Al in Security Command Center
 
 Google
@@ -90,6 +102,10 @@ Duet Al is also being integrated into Google Cloud's [Security Command Center](h
 Now, Duet AI will be offered for the "near-instant" analysis of security issues and potential attack paths. Google says that the introduction of AI into Security Command Center will reduce the legwork associated with threat analysis, with summaries allowing defenders to focus on remediation and prevent "critical findings" from being overlooked. 
 
 Furthermore, Google is adding Tenable's agentless vulnerability scanning to the security solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mandiant Hunt for Chronicle
 
@@ -104,6 +120,10 @@ According to Google, Mandiant Hunt, the managed threat-hunting service, now "int
 Google says:
 
 "Mandiant Hunt for Chronicle provides continual threat hunting by Mandiant experts on Chronicle data to expose attacker activity and help reduce business impact. It integrates the latest insights into attacker behavior from Mandiant's frontline experts with Chronicle Security Operations' powerful ability to quickly analyze and search security data. Mandiant Hunt for Chronicle can help organizations close the skills gap and gain elite-level support without the burden of hiring, tooling, and training."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Google Next?
 
@@ -133,11 +153,30 @@ Google says:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-adding-youtube-music-to-video/"><u>[New] Tips For Adding YouTube Music To Video</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ield-cash-reviewing-gadgets-apparel-and-more-on-the-web/"><u>[New] Yield Cash Reviewing Gadgets, Apparel, and More on the Web</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-enhancing-social-media-visibility-with-quality-livestreams-on-wirecast-for-2024/"><u>[Updated] Enhancing Social Media Visibility with Quality Livestreams on Wirecast for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-closer-look-approach-to-team-collaboration/"><u>[Updated] The Closer Look Approach to Team Collaboration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-augmented-reality-and-vr-navigating-2023s-content-on-android/"><u>2024 Approved Augmented Reality & VR Navigating 2023'S Content on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-definitive-list-of-video-stabilizer-brands-for-content-makers/"><u>2024 Approved The Definitive List of Video Stabilizer Brands for Content Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors/"><u>2024 Approved The Photo Keeper’s Companion Unlimited Free Options & Elite Subscription Saviors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tweaking-sound-on-ps5ps4-games/"><u>2024 Approved Tweaking Sound on PS5/PS4 Games</u></a></li>
+<li><a href="https://facebook.techidaily.com/bridging-games-and-networks-social-integration-on-xbox/"><u>Bridging Games and Networks: Social Integration on Xbox</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-beginners-guide-adding-text-overlays-on-youtube/"><u>In 2024, Beginner's Guide Adding Text Overlays on YouTube</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-infinix-zero-30-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Infinix Zero 30 5G FRP</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-hdri-magic-compreranial-sdr-to-high-dynamic-range-upgrade/"><u>In 2024, Unlock HDRI Magic Compreranial SDR to High Dynamic Range Upgrade</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unboxing-the-lg-27ud88uhd-monitor-experience-for-tech-enthusiasts/"><u>Unboxing the LG 27UD88UHD Monitor Experience for Tech Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-storytelling-potential-for-2024/"><u>Unlock Your Storytelling Potential for 2024</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y200e-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y200e 5G | Dr.fone</u></a></li>
+</ul></div>
+

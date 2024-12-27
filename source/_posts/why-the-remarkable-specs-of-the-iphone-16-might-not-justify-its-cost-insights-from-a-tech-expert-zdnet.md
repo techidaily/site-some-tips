@@ -1,7 +1,7 @@
 ---
 title: "Why the Remarkable Specs of the iPhone 16 Might Not Justify Its Cost: Insights From a Tech Expert | ZDNet"
-date: 2024-09-17 12:19:26
-updated: 2024-09-20 12:18:33
+date: 2024-12-20T17:14:28.175Z
+updated: 2024-12-27T16:36:36.126Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Every year, iPhone enthusiasts eagerly await Apple's latest release. But this ye
 **Also: [Everything Apple announced at its 'Glowtime' event](https://www.zdnet.com/article/everything-apple-announced-at-its-glowtime-event-ai-features-airpods-apple-watch-series-10-more/)**
 
 Despite promises of AI advancements, the iPhone 16 seems more like a stepping stone than a game-changer. Even in my household, the decision to upgrade has divided us -- while I'm upgrading for work because I cover the technology, my wife has made it clear: she's skipping this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Great hardware, but a transitional Apple Intelligence product
 
@@ -61,6 +65,10 @@ On the Pro models, you'll find a 5X optical zoom lens, and the new 48-MP "Fusion
 
 But are these improvements enough to justify an upgrade? Probably not if you already own an iPhone 14 or 15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Developer involvement and AI maturity
 
 While the hardware is impressive, the AI features -- centered around Apple Intelligence -- leave something to be desired, especially for those expecting a more mature experience.
@@ -77,6 +85,10 @@ The biggest problem -- other than the fact that you need new iPhone hardware to 
 
 Apple hasn't given developers the ability to integrate their own AI models on the device, so unless third-party apps adopt Apple's APIs, you won't benefit from Apple Intelligence's features if you're not entirely locked into Apple's ecosystem. Google and Microsoft, which both have robust cloud-based AI solutions -- [Gemma 2](https://ai.google.dev/gemma) for Google's [Gemini](https://ai.google.dev/gemini-api) and GPT-4 for Microsoft's [Copilot](https://www.microsoft.com/en-us/microsoft-copilot/meet-copilot) \-- are unlikely to switch to Apple's APIs anytime soon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cloud-based AI writing tools: No need for new hardware
 
 While Apple emphasizes its on-device AI processing, many AI tools people already use today are cloud-based, meaning they don't need the latest hardware. As mentioned earlier, an important distinction about cloud-based gen AI writing tools is that they have much more robust LLMs backing them up, to the tune of hundreds of billions of parameters, compared with the 3B parameter model in Apple Intelligence.
@@ -89,6 +101,10 @@ Google's AI writing tools are currently available on iOS and Android through Gma
 
 Microsoft's [SwiftKey](https://apps.apple.com/us/app/microsoft-swiftkey-ai-keyboard/id911813648) iOS keyboard also brings Copilot AI-powered text generation and rewriting to the platform, making these tools accessible across all iPhone models -- not just the iPhone 16.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smart erase and privacy: Apple vs. Google
 
 I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in iOS 18\. It's been difficult to adjust to, and the [Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) \-- Apple's smart erase feature -- while intriguing, hasn't been the game changer I expected. The tool leaves artifacts in many of the photos I've tried it with on my iPhone 15 Pro Max, which detracts from the experience. 
@@ -96,6 +112,10 @@ I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in i
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Google's Magic Eraser, available in Google Photos for iOS, performs similarly without requiring on-device AI processing. That said, Apple's on-device AI processing offers a privacy advantage -- your data stays on the device and doesn't require additional bandwidth. This is particularly useful if you rely on 5G data instead of Wi-Fi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you upgrade?
 
@@ -128,11 +148,28 @@ Unless you desperately need a new phone, don't rush into buying the iPhone 16\. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-video-without-audible-elements/"><u>[New] In 2024, Mastering Video Without Audible Elements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-uplifting-films-for-boosting-your-drive/"><u>[Updated] Top 10 Uplifting Films for Boosting Your Drive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-top-unboxing-videos-2024-edition/"><u>[Updated] Ultimate Guide to Top Unboxing Videos - 2024 Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boosting-in-house-digital-tv-quality-the-power-of-an-indoor-antenna-guide/"><u>Boosting In-House Digital TV Quality: The Power of an Indoor Antenna Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-methods-for-bypassing-disneys-copyright-security-on-dvds/"><u>Effective Methods for Bypassing Disney's Copyright Security on DVDs</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effortless-methods-for-retrieving-deleted-data-on-your-pcs-storage/"><u>Effortless Methods for Retrieving Deleted Data on Your PC’s Storage</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-motorola-edgeplus-2023-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola Edge+ (2023) Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-blaze-pro-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Blaze Pro 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-maximize-your-viewing-experience-with-youtube-scaling/"><u>In 2024, Maximize Your Viewing Experience with YouTube Scaling</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-stable-shootings-top-brands-for-online-filmmaking/"><u>In 2024, Stable Shootings - Top Brands for Online Filmmaking</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/synergizing-social-media-impact-effective-integration-of-facebook-linkedin-and-youtube-for-greater-visibility/"><u>Synergizing Social Media Impact: Effective Integration of Facebook, LinkedIn & YouTube for Greater Visibility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-roadmap-to-becoming-an-excellent-interviewer-for-2024/"><u>The Roadmap To Becoming An Excellent Interviewer for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-subtitle-editors-transforming-into-srt-format-for-windows-and-macos-for-2024/"><u>Top 8 Subtitle Editors Transforming Into SRT Format for Windows & MacOS for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unlock-creative-potential-utilizing-luts-to-enhance-video-quality-for-2024/"><u>Unlock Creative Potential Utilizing LUTs to Enhance Video Quality for 2024</u></a></li>
+</ul></div>
+

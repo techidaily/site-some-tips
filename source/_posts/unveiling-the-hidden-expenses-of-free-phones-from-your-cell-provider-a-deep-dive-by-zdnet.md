@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Hidden Expenses of 'Free' Phones From Your Cell Provider - A Deep Dive by ZDNet
-date: 2024-12-20T22:46:15.437Z
-updated: 2024-12-21T23:40:38.185Z
+date: 2024-12-25T16:08:11.900Z
+updated: 2024-12-27T17:05:28.240Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ How do you tell the difference?
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How free and low-cost phone offers work
@@ -45,6 +45,10 @@ If you trade your phone for a newer model or switch carriers before the promo pe
 You might be offered a higher-than-expected trade-in value for your current phone, again offered as a series of monthly credits. To qualify for the deal, you might have to add a new line of service or change to a new plan, but you can occasionally find upgrade deals for your current device. And, of course, these deals are only for "well-qualified" customers. If you have so-so credit scores, you might not be able to take advantage of the deal.
 
 In my experience, carriers go out of their way to make these deals complicated, and you need to look carefully to see if there are any hidden gotchas. Here are seven questions to ask up front to make sure you don't encounter an unpleasant surprise later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do I need to add a line to qualify?
 
@@ -60,16 +64,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does my existing plan qualify?
 
 The most attractive upgrade offers are typically only available if you sign up for one of the carrier's premium plans. If you're currently on a low-cost legacy plan from the same carrier or a competitor, be sure to find out how much your monthly payment for mobile service will increase. The difference might be enough to wipe out any savings from the promo credits.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will my new phone be locked to this carrier?
@@ -77,6 +77,10 @@ The most attractive upgrade offers are typically only available if you sign up f
 The carrier is offering that phone at a discount because they want to lock you into a steady stream of monthly service fees. Typically, that means the phone is SIM-locked until it's fully paid off. Consequently, you can't use it with a prepaid SIM card on your overseas trip, nor can you add a second line from a different carrier, even if you have a dual-SIM device.
 
 **Also: [The best iPhone deals of 2024: Free iPhone 15s, free iPads, cheap accessories](https://www.zdnet.com/article/iphone-deals/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How many months does the payment agreement last?
 
@@ -90,16 +94,12 @@ At any time during the agreement, you can pay the remaining balance and ask for 
 
 As an inducement for you to switch, some carriers will offer to reimburse you for your device payoff. Check the terms and conditions carefully before you accept that offer. If you decide to move to a new carrier, don't cancel your line at the old carrier until you've successfully ported your number over; if you do that move in the wrong order you risk losing your current phone number. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can I get a better deal on the phone somewhere else?
 
 Even if your carrier seems to be offering a good deal, be sure to shop around. Apple occasionally offers meaningful discounts on its iPhones, and the price after a trade-in might be good enough to consider, especially when you factor in the savings you get from sticking with a lower-cost legacy plan. Among the top Android device makers, Samsung and Google regularly offer deep discounts that are worth checking out. And all of those device makers offer 0% financing options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I get a better deal selling my phone instead of trading it in?
@@ -140,18 +140,20 @@ The exception to that rule is usually when a new smartphone model comes out; dur
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-blurring-the-line-between-still-and-motion-art/"><u>[New] Blurring the Line Between Still and Motion Art</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-global-leaders-in-real-time-gaming-streams/"><u>[New] In 2024, Global Leaders in Real-Time Gaming Streams</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-strategy-cradle-nurturing-market-gains/"><u>[New] Strategy Cradle Nurturing Market Gains</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-symphony-of-screens-coordinated-content-consumption/"><u>[Updated] 2024 Approved The Symphony of Screens Coordinated Content Consumption</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-20-free-public-domain-pubg-screenshot-slideshows/"><u>[Updated] Top 20 Free Public Domain PUBG Screenshot Slideshows</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-online-meetings-with-these-budget-friendly-video-conferencing-services/"><u>2024 Approved Mastering Online Meetings with These Budget-Friendly Video Conferencing Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-magixs-image-organizer-insights/"><u>2024 Approved Unveiling MAGIX's Image Organizer Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mac-app-removal-guide-step-by-step-instructions/"><u>Mac App Removal Guide: Step-by-Step Instructions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masteringdarkmodesettingforwindowstexteditor/"><u>MasteringDarkModeSettingForWindowsTextEditor</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphone-or-ipad-expert-tips-for-overcoming-disabling-issues/"><u>Revive Your iPhone or iPad: Expert Tips for Overcoming Disabling Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-configuring-two-screens-with-windows-10/"><u>Step-by-Step Guide: Configuring Two Screens with Windows 10</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streaming-software-spectacle-choosing-between-virusmix-and-castpro-for-2024/"><u>Streaming Software Spectacle Choosing Between VirusMix and CastPro for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-potential-with-magix-paint-pro-for-2024/"><u>Unlocking Potential with MAGIX Paint Pro for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-surveying-youtube-interactions/"><u>[New] 2024 Approved Surveying YouTube Interactions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-explore-blurring-techniques-best-app-picks/"><u>[New] In 2024, Explore Blurring Techniques Best App Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-twitter-video-download-tool-for-mp3-conversion/"><u>[New] Twitter Video Download Tool for MP3 Conversion</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-nokia-g22-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nokia G22 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-7-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 7 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-directed-focus-youtubes-easy-ways-for-smoother-borders/"><u>In 2024, Directed Focus YouTube's Easy Ways for Smoother Borders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-technological-trendsetters-exclusive-picks/"><u>In 2024, Technological Trendsetters - Exclusive Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-android-song-curator/"><u>In 2024, Top-Ranked Android Song Curator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-phone-personalizing-the-ios-alert-sound/"><u>In 2024, Transform Your Phone Personalizing the iOS Alert Sound</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-power-of-slow-mo-with-these-android-hacks/"><u>In 2024, Unlock the Power of Slow Mo with These Android Hacks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-gamified-views-selecting-the-best-webcams-for-players/"><u>Mastering Gamified Views Selecting the Best Webcams for Players</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/ultimate-power-supplies-for-hero5-official-and-alternative-models/"><u>Ultimate Power Supplies for Hero5 Official & Alternative Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-tips-for-iphones-hdr-images-for-2024/"><u>Ultimate Tips for iPhone's HDR Images for 2024</u></a></li>
 </ul></div>
 

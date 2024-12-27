@@ -1,7 +1,7 @@
 ---
 title: Experienced Linux Professionals Rally Support for Rocky Linux's Core Sponsorship Initiative | ZDNet Insights
-date: 2024-09-19 19:49:57
-updated: 2024-09-20 11:39:22
+date: 2024-12-24T17:39:49.010Z
+updated: 2024-12-27T17:02:41.725Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,33 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-how-to-crop-image-online-for-2024/"><u>[New] How To Crop Image Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-prime-strategies-in-zoom-video-to-zoom-outcomes/"><u>[New] The Prime Strategies in Zoom Video to Zoom Outcomes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-exploring-instagrams-video-connectivity-techniques/"><u>[Updated] In 2024, Exploring Instagram’s Video Connectivity Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-integrating-linktree-in-your-tiktok-bio-for-maximum-impact/"><u>[Updated] Integrating Linktree in Your TikTok Bio for Maximum Impact</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-key-takeaways-on-youtube-tv-an-overview-of-its-advantages/"><u>[Updated] Key Takeaways on YouTube TV An Overview of Its Advantages</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-premium-rate-free-excellence-criteria-for-top-10-lut-tools/"><u>[Updated] Premium-Rate Free Excellence Criteria for Top 10 LUT Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tales-that-echo-through-time-top-8-halls-for-storytellers/"><u>[Updated] Tales That Echo Through Time Top 8 Halls for Storytellers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-srt-to-video-top-10-free-subtitle-tools/"><u>[Updated] Transform SRT to Video - Top 10 FREE Subtitle Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamsmart-beyond-the-dacast-shell/"><u>2024 Approved StreamSmart Beyond the DaCast Shell</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-vanguard-of-radio-theatre-composition/"><u>2024 Approved The Vanguard of Radio-Theatre Composition</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-v27-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo V27 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-12-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 12 mini? | Stellar</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-optimize-your-youtube-shorts-templates-effectively/"><u>In 2024, How to Optimize Your YouTube Shorts Templates Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-best-practices-in-cds-ripping-and-burning-with-win-media/"><u>In 2024, Unveiling the Best Practices in Cds Ripping & Burning with Win, Media</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-startup-problems-with-humankind-expert-advice-for-gamers/"><u>Overcoming Startup Problems with Humankind - Expert Advice for Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/personalize-sua-estrategia-de-links-fundo-com-a-experiencia-do-movavi-affiliate-program/"><u>Personalize Sua Estratégia De Links Fundo Com a Experiência Do Movavi Affiliate Program</u></a></li>
+<li><a href="https://fox-info.techidaily.com/precision-and-power-in-nikons-d7500/"><u>Precision and Power in Nikon's D7500</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-networks-fueling-business-innovation-and-growth-for-2024/"><u>Top 6 Networks Fueling Business Innovation and Growth for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unplug-and-replay-twitch-livestream-techniques-for-2024/"><u>Unplug and Replay Twitch Livestream Techniques for 2024</u></a></li>
+</ul></div>
+

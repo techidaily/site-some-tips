@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Your Home Office Productivity: Tips on Boosting Network Performance for Effective Telecommuting & Online Education - Insights From ZDNet"
-date: 2024-09-19 21:22:18
-updated: 2024-09-20 11:27:52
+date: 2024-12-20T17:17:15.118Z
+updated: 2024-12-27T17:10:56.611Z
 tags:
   - cloud
 categories:
@@ -22,6 +22,10 @@ _Note: I first published this article on Aug. 18, 2020, when we were starting to
 The COVID-19 pandemic has changed work/life patterns for many of us. While there are some folks out there on the front lines doing dangerous, essential work and moving around in the world, many of us are locked down at home, doing our part to reduce transmission of the virus. 
 
 The home dynamic has changed drastically as well. While some of us have worked from home for years, we've historically been a small fringe of the overall workforce. But since the pandemic hit, working from home has become what marketing folks are calling the "new normal." 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### working from home
 
@@ -95,6 +99,10 @@ A community cluster
 
 When you're purchasing bandwidth, you're purchasing it at point A, to and from your home. Whether your ISP has implemented dedicated fiber lines to each house, or shares a feed among a cluster of homes, could determine how much flow you actually get. If everyone in your cluster is consuming capacity at the same time, you may experience a slowdown simply because the connection point B from the ISP may become overloaded. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### special report
 
 [Back to virtual school: Education embraces remote learning Technology makes the shift possible, but challenges abound.  Read now](https://www.zdnet.com/topic/back-to-virtual-school-education-embraces-remote-learning/)
@@ -104,6 +112,10 @@ That, too, is out of your control. But it helps to find out if you are on a shar
 **Performance tip:** Generally speaking, dedicated fiber will provide you with more reliable service than cable modem. 
 
 Of course, even with fiber, your ISP's upstream connections can become overwhelmed if all their customers are in Zoom conferences at the same time. And let's be clear. Fiber isn't available in many communities, so you're likely to have to live with cable. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Download capacity 
 
@@ -203,6 +215,10 @@ You may need to schedule blackout times where Netflix and YouTube are off-limits
 
 Educate your family members, and if that doesn't work, consider using one of the many parental control options out there. You might need to simply block Facebook, Netflix, YouTube, and all the other streamers during certain times of the day or for certain family members. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Your home network 
 
 Up until now, almost all we've talked about is the connection between your ISP and your house. But there's another aspect of network performance: your internal network. 
@@ -218,6 +234,10 @@ But once you start working and learning from home, many family's home networks h
 A more comprehensive home network
 
 This diagram represents a network with both wired and wireless connections, as well as a wide range of devices on the network, using network capacity. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  What a speed test really measures 
 
@@ -277,6 +297,10 @@ So far, I've talked about increasing the bandwidth you buy from your ISP, adding
 * Be sure to turn off all automatic backups and auto-updates and run them after work hours.
 * Set YouTube to a lower resolution default. If you use Chrome, the plugin Automatic 4K/HD for YouTube will not only allow you to set automatic 4K, but it will let you set any resolution, as little as 144p. Set this to as low as you can stand on all your Chrome devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Tell us what works for you 
 
 Well, that should get you going. If you have any great suggestions for optimizing network performance or getting more done on a budget, please post in the comments below. Let me how you're doing online in these crazy times. Hang in there, folks! 
@@ -318,11 +342,33 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-learning-top-15-youtube-experts-in-science-for-2024/"><u>[New] Elevate Learning Top 15 YouTube Experts in Science for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-sharing-tiktok-on-twitter-quickly/"><u>[New] In 2024, Sharing TikTok on Twitter Quickly</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-world-within-reach-the-most-exciting-psvr-games-ahead/"><u>[New] In 2024, World Within Reach The Most Exciting PSVR Games Ahead</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-tips-for-slow-motion-videos-on-gopro-hero-10/"><u>[New] Pro Tips for Slow Motion Videos on GoPro Hero 10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secrets-of-seamless-video-editing-using-windows-11-tools/"><u>[New] Secrets of Seamless Video Editing Using Windows 11 Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-iphone-7-live-view-recording-tutorial-for-2024/"><u>[Updated] IPhone 7 Live View Recording Tutorial for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-subtlety-garagebands-audio-softening/"><u>[Updated] The Art of Subtlety Garageband's Audio Softening</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-first-steps-to-creating-a-successful-online-stream/"><u>[Updated] The First Steps to Creating a Successful Online Stream</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-remedies-for-iphone-unfocused-shots/"><u>2024 Approved Swift Remedies for iPhone Unfocused Shots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-drone-propellers-selecting-prime-quadcopter-engines/"><u>2024 Approved Top Drone Propellers Selecting Prime Quadcopter Engines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-scripts-across-eight-film-categories/"><u>2024 Approved Top Scripts Across Eight Film Categories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-strategies-to-tackle-vlc-challenges-on-macos/"><u>2024 Approved Top Strategies to Tackle VLC Challenges on macOS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flacogg-movavi/"><u>免費在線Flac到Ogg音樂格式改變 - 利用Movavi 轉換工具</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-canon-mf4500-printer-up-and-running-download-the-latest-drivers/"><u>Get Your Canon MF4500 Printer Up and Running: Download the Latest Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-blueprint-for-lifelong-memories-storing-vintage-photos-digitally/"><u>In 2024, The Blueprint for Lifelong Memories Storing Vintage Photos Digitally</u></a></li>
+<li><a href="https://discover-able.techidaily.com/quick-guide-how-to-save-whatsapp-audio-calls-across-your-smartphone-and-desktop/"><u>Quick Guide: How to Save WhatsApp Audio Calls Across Your Smartphone & Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-method-enablingdisabling-power-saving-modes/"><u>Quick Method: Enabling/Disabling Power Saving Modes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-photo-collages-with-picshot-for-2024/"><u>The Evolution of Photo Collages with Picshot for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-collective-views-on-vllo-for-2024/"><u>Understanding Collective Views on VLLO for 2024</u></a></li>
+</ul></div>
+

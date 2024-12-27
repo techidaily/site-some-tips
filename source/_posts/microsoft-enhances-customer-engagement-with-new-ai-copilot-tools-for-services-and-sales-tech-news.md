@@ -1,7 +1,7 @@
 ---
 title: Microsoft Enhances Customer Engagement with New AI Copilot Tools for Services & Sales | Tech News
-date: 2024-09-18 12:35:53
-updated: 2024-09-20 12:13:37
+date: 2024-12-20T17:42:10.081Z
+updated: 2024-12-27T16:05:55.010Z
 tags:
   - cloud
 categories:
@@ -88,11 +88,35 @@ Also at Ignite, Microsoft emphasized new computing infrastructure for its Azure 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unlocking-the-full-potential-of-tiktok-with-zoom-video-sharing/"><u>[New] In 2024, Unlocking the Full Potential of TikTok with Zoom Video Sharing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tech-trends-unveiled-excellence-in-vr-treadmills/"><u>[New] Tech Trends Unveiled Excellence in VR Treadmills</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-hyperlapse-storytelling/"><u>[New] The Ultimate Guide to Hyperlapse Storytelling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-photos-using-adobes-power/"><u>[New] Transform Your Photos Using Adobe's Power</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-your-creative-genius-with-iphone-x-camera/"><u>[Updated] Unleash Your Creative Genius with iPhone X Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-stabilizing-tech-for-youtube-creators-success/"><u>2024 Approved Top 10 Stabilizing Tech for YouTube Creators' Success</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/como-convertir-archivos-avi-amplios-en-mp4-sin-coste-top-5-metodos/"><u>Cómo Convertir Archivos AVI AMPLIOS en MP4 SIN COSTE: Top 5 Métodos</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effective-strategies-for-saving-your-emails-using-aomei-backupper/"><u>Effective Strategies for Saving Your Emails: Using AOMEI Backupper</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-analysis-iphone-15-unveiled-top-picks-for-seasoned-tech-enthusiasts-zdnet/"><u>Expert Analysis: IPhone 15 Unveiled - Top Picks for Seasoned Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/framefusion-pro-8-crafting-digital-masterpieces-for-2024/"><u>FrameFusion Pro 8 Crafting Digital Masterpieces for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-7-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-future-proof-cpus-get-an-icy-upgrade-the-arctic-freezers-36-are-here-for-your-arrow-lake-and-socket-lga1851-needs/"><u>Intel's Future-Proof CPUs Get an Icy Upgrade: The Arctic Freezers 36 Are Here for Your Arrow Lake & Socket LGA1851 Needs!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-revive-slowq-bittorrent-progress-on-pc/"><u>Strategies to Revive Slowq Bittorrent Progress on PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-quick-convert-guide-transforming-gifs-into-telegram-and-whatsapp-emojis-for-2024/"><u>The Quick-Convert Guide Transforming Gifs Into Telegram and WhatsApp Emojis for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-9-phony-ai-based-threats-how-these-fraudulent-chatgpt-clones-could-compromise-your-information/"><u>Top 9 Phony AI-Based Threats: How These Fraudulent ChatGPT Clones Could Compromise Your Information</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-new-features-tailoring-fn-key-behavior-on-windows-11/"><u>Unlock New Features: Tailoring FN Key Behavior on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-immersive-era-vrs-progress-and-upcoming-struggles-for-2024/"><u>Unveiling the Immersive Era VR's Progress & Upcoming Struggles for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

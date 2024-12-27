@@ -1,7 +1,7 @@
 ---
 title: "Enhanced File Finding with Google Drive's Latest Upgrade: A Smart Search Filter Feature"
-date: 2024-09-18 19:59:42
-updated: 2024-09-20 12:58:50
+date: 2024-12-20T16:29:41.384Z
+updated: 2024-12-27T17:01:38.283Z
 tags:
   - cloud
 categories:
@@ -33,13 +33,25 @@ When you use the Filter Toolbar, it even filters out folders. For example, if yo
 
 Let me show you how easy this new feature is to use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use the new Google Drive Filter Toolbar
 
 **What you'll need:** The only things you'll need are a valid Google account and a web browser. Of course, [you'll want to have files in Drive](https://www.zdnet.com/home-and-office/work-life/how-to-set-up-offline-access-in-google-drive/), otherwise, you'll have nothing to filter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Log into Google Drive
 
 The first thing to do is open your default web browser and log into [Google Drive](https://drive.google.com).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable the Filter Toolbar
 
@@ -48,6 +60,10 @@ If you don't immediately see the Filter Toolbar at the top of Drive, you should 
 If you don't see the Filter Toolbar, click the three-line icon to enable it.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Using the Filter Toolbar
 
@@ -96,11 +112,23 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-secret-sauce-of-compelling-tiktok-footage-on-mac/"><u>[New] The Secret Sauce of Compelling TikTok Footage on Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-pro-level-screen-recording-on-pc-and-mac-uncovered/"><u>[Updated] 2024 Approved Pro-Level Screen Recording on PC & Mac Uncovered</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-transforming-photos-remove-background-with-ease/"><u>[Updated] 2024 Approved Transforming Photos Remove Background with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-excellent-interview-and-journey-audio-recordings/"><u>[Updated] Unveiling the Secrets of Excellent Interview and Journey Audio Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tomorrows-scrutiny-innovative-perspectives/"><u>2024 Approved Tomorrow’s Scrutiny Innovative Perspectives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tutorial-guide-to-fade-out-music-in-premiere-pro/"><u>2024 Approved Tutorial Guide To Fade Out Music In Premiere Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-power-packs-for-black-gopro-hero5-cameras-authenticity-confirmed/"><u>In 2024, Best Power Packs for Black GoPro Hero5 Cameras – Authenticity Confirmed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-incorporating-b-roll-in-video-projects/"><u>In 2024, Strategies for Incorporating B-Roll in Video Projects</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-surface-pro-and-wi-fi-connection-challenges-expert-tips-and-tricks/"><u>Overcoming Surface Pro and Wi-Fi Connection Challenges: Expert Tips & Tricks</u></a></li>
+</ul></div>
+

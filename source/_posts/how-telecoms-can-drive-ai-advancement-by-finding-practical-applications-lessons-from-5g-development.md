@@ -1,7 +1,7 @@
 ---
 title: How Telecoms Can Drive AI Advancement by Finding Practical Applications – Lessons From 5G Development
-date: 2024-09-19 17:44:35
-updated: 2024-09-20 11:22:12
+date: 2024-12-20T16:30:42.373Z
+updated: 2024-12-27T16:36:28.980Z
 tags:
   - cloud
 categories:
@@ -61,6 +61,10 @@ GSMA projects that 5G connections will grow from 1.6 billion to 2.1 billion by t
 
 Jarich noted that use cases can differ for regions and markets, giving local telcos further opportunities to find new revenue. And with most GenAI services running on the cloud, operators can play a differentiating role in facilitating these. For instance, they can provide support for edge computing, which will be important for some GenAI services such as real-time language translation and smaller large language models (LLMs) that can be hosted on the device. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dedicated foundation model for telcos
 
 Domain-specific LLMs also are being made available to help identify GenAI use cases specific to the needs of a particular sector, such as financial or healthcare. 
@@ -118,11 +122,27 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 202
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-adopting-innovations-mask-and-filter-methods-for-google-meet/"><u>[New] 2024 Approved Adopting Innovations Mask & Filter Methods for Google Meet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-hit-top-rank-firstrow-pursuits-outside-sports-for-2024/"><u>[New] Hit Top Rank Firstrow Pursuits Outside Sports for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-editing-software-for-professional-dji-videos/"><u>[New] The Best Editing Software for Professional DJi Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-demystifying-digital-dreamscapes-a-vr-primer/"><u>[Updated] 2024 Approved Demystifying Digital Dreamscapes A VR Primer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-glassify-privacy-webcam-panel/"><u>2024 Approved Glassify Privacy Webcam Panel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tropical-tango-toucan/"><u>2024 Approved Tropical Tango Toucan</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windows-11mp4-to-dvd-windows-11and/"><u>最新Windows 11にMP4 to DVD変換ソフトの活用ガイド - Windows 11で自由にコンパイル&書き込む！</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-12-pro-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 12 Pro or iPad?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-seamlessly-cancel-and-terminate-your-twitch-account/"><u>How To Seamlessly Cancel and Terminate Your Twitch Account</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-updated-list-top-frame-addition-services-for-images/"><u>In 2024, Updated List Top Frame Addition Services for Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-seamless-tutorial-for-image-background-cleanup-on-canva-for-2024/"><u>The Seamless Tutorial for Image Background Cleanup on Canva for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-update-to-sonys-premium-blu-ray-player-for-2024/"><u>Unveiling the Update to Sony’s Premium Blu-Ray Player for 2024</u></a></li>
+</ul></div>
+

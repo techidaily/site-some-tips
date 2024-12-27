@@ -1,7 +1,7 @@
 ---
 title: "Generative AI on the Rise: Amazon Invests $4B in Company Anthropic for Future Innovation | Insights From ZDNet"
-date: 2024-09-19 11:58:37
-updated: 2024-09-20 11:47:13
+date: 2024-12-25T17:32:41.624Z
+updated: 2024-12-27T17:20:09.898Z
 tags:
   - cloud
 categories:
@@ -76,11 +76,30 @@ Commenting on the announcement, Nigel Green, CEO of financial advisory deVere Gr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-finest-6-economical-4k-hd-projector-picks/"><u>[New] Finest 6 Economical 4K HD Projector Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-slow-motion-spectrum-top-cams-reviewed-by-experts/"><u>[New] The Slow-Motion Spectrum Top Cams Reviewed by Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhance-your-online-skills-a-guide-to-youtube-editing-via-sony-vegas/"><u>[Updated] In 2024, Enhance Your Online Skills A Guide to YouTube Editing via Sony Vegas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unraveling-the-mystery-of-apples-new-ios-camera/"><u>[Updated] Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-checklist-for-confirming-yt-account/"><u>2024 Approved The Ultimate Checklist for Confirming YT Account</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-with-these-top-free-slideshow-templates/"><u>2024 Approved Unleash Creativity with These Top Free Slideshow Templates</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-win11-black-out-following-fall-upgrade/"><u>Fixing Win11 Black Out Following Fall Upgrade</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/luxurious-advanced-technology-products-with-affordable-pricing-to-test-out/"><u>Luxurious, Advanced Technology Products with Affordable Pricing to Test Out!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mehrere-effektive-techniken-zur-sicheren-vervielfaltigung-von-kopierschutz-dvds-erlautern/"><u>Mehrere Effektive Techniken Zur Sicheren Vervielfältigung Von Kopierschutz-DVDs Erläutern</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swift-shadowing-in-1-minute-for-2024/"><u>Swift Shadowing in 1 Minute for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-hand-tracker-potential-guide-for-2024/"><u>Unlock Hand Tracker Potential Guide for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

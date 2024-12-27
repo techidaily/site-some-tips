@@ -1,7 +1,7 @@
 ---
 title: "Navigating with Ease: Discover Why Google Drive’s Updated Home Screen Enhances Finding Files & More | Explored by ZDNET"
-date: 2024-09-17 16:54:37
-updated: 2024-09-20 10:40:32
+date: 2024-12-21T16:23:14.049Z
+updated: 2024-12-27T16:49:56.625Z
 tags:
   - cloud
 categories:
@@ -43,9 +43,17 @@ Maybe in time.
 
 Until then, let me show you around the new Home option in Google Drive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Google Drive Home
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser with which to view Drive. Let's go home, shall we?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open Google Drive
 
@@ -55,6 +63,10 @@ The new Google Drive home page makes it easier to find what you need.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Choose what you want to see
 
 Say, for instance, you only want to view your folders. For that, click Folders and what you should see are the folders you access the most. This is a great option because my Drive account is packed with folders I haven't used in a long time but need to keep around (either for reference or "just in case"). For instance, by default, I see 76 folders in the root folder of my Drive account. If I go to Home and click Folders, I see only 10\. I can also click Show More Folders and Home will then allow me to modify what I see (such as by modification, people, or location).
@@ -63,6 +75,10 @@ After clicking Folders, I have quick access to my most-used folders.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. The To do option
 
 One interesting option in Home is To do. This option is only revealed if you click Folders > Show More Folders. Click the To do drop-down and you can then select from Pending my approval, Requested by me, Suggestions, Comments assigned to me, and Review and accept. Interestingly enough, although the To do drop-down only appears in folders, when you select an option, it applies to both folders _and_ files. This is a great way to see all files that include changes awaiting your attention.
@@ -70,6 +86,10 @@ One interesting option in Home is To do. This option is only revealed if you cli
 The To-do drop-down gives you quick access to files and folders that need your attention.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Opt out of Home
 
@@ -104,11 +124,26 @@ When I first saw the new Home default, I was certain I'd be opting out of it and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-loop-artisan-suite/"><u>[New] 2024 Approved Loop Artisan Suite</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-maximize-engagement-uploading-and-posting-funny-gifs-on-instagram-easy-guide-for-2024/"><u>[New] Maximize Engagement Uploading & Posting Funny GIFs on Instagram (Easy Guide) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-of-superior-live-streaming-services/"><u>[New] The Ultimate List of Superior Live Streaming Services</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-art-of-audio-visual-storytelling-with-iphone/"><u>[Updated] 2024 Approved The Art of Audio-Visual Storytelling with iPhone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-classroom-mastery-the-prime-10-audio-visual-aids-for-instructors/"><u>[Updated] Classroom Mastery The Prime 10 Audio-Visual Aids for Instructors</u></a></li>
+<li><a href="https://win-guides.techidaily.com/does-transferring-windows-10-via-usb-erase-all-data/"><u>Does Transferring Windows 10 via USB Erase All Data?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/google-nest-wi-fi-speed-test-review-seamless-multi-room-connectivity-unveiled/"><u>Google Nest Wi-Fi Speed Test Review: Seamless Multi-Room Connectivity Unveiled</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/"><u>In 2024, Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spectrum-sweep-proven-techniques-for-flawless-image-coloration-for-2024/"><u>Spectrum Sweep Proven Techniques for Flawless Image Coloration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tips-for-obtaining-pristine-images-at-no-cost-for-2024/"><u>Top Tips for Obtaining Pristine Images at No Cost for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-imagery-with-these-mobile-montage-leaders-for-2024/"><u>Transform Your Imagery with These Mobile Montage Leaders for 2024</u></a></li>
+</ul></div>
+

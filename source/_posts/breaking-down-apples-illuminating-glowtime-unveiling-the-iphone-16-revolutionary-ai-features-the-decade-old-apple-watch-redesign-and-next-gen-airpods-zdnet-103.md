@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Apple's Illuminating 'Glowtime': Unveiling the iPhone 16, Revolutionary AI Features, The Decade-Old Apple Watch Redesign, and Next-Gen AirPods | ZDNET Insights"
-date: 2024-12-16T21:29:14.679Z
-updated: 2024-12-21T16:54:57.813Z
+date: 2024-12-24T16:37:58.430Z
+updated: 2024-12-27T17:22:39.053Z
 tags:
   - apple
 categories:
@@ -34,21 +34,25 @@ For now, here are the new AI-powered skills you can expect next month with [iOS 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Writing tools
 
 Jason Hiner/ZDNET
 
 Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Notes, Pages, and any supported third-party app. Like other AI-powered editing tools, Apple Intelligence will be able to rewrite, proofread, and summarize your text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Photo features
 
 Apple Intelligence will tap into your photos for a few different tricks. You'll be able to create movies out of photos in your library just by typing a description of what you want to see, much like you would for a [chatbot prompt](https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/). Using natural language, you'll be able to search for specific photos and even find certain moments in a video. 
 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Audio transcriptions
 
@@ -65,12 +69,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Mail assistance
 
@@ -79,10 +87,6 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Siri improvements
 
@@ -98,10 +102,6 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What will come later
 
 ### Image playground
@@ -113,7 +113,7 @@ Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-ap
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Genmoji
@@ -158,14 +158,24 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-shopping-spree-simplified-the-compreenas-guide-to-creating-and-crafting-haul-vids/"><u>[New] 2024 Approved Shopping Spree Simplified The Compreenas Guide to Creating & Crafting Haul Vids</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-comprehensive-guide-to-adding-music-icons-in-instagram-posts/"><u>[New] In 2024, Comprehensive Guide to Adding Music Icons in Instagram Posts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-step-by-step-guide-to-professional-xbox-gameplay-capture-for-2024/"><u>[Updated] Step-by-Step Guide to Professional Xbox Gameplay Capture for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-5-mac-videography-tools-unleashed-in-sierra-os/"><u>[Updated] Top 5 Mac Videography Tools Unleashed in Sierra OS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-latest-take-on-the-sony-bd-play-s3700-review/"><u>2024 Approved The Latest Take on the Sony BD PLAY S3700 Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-fullscreen-editing-with-premiere-pro-experts/"><u>In 2024, The Art of Fullscreen Editing with Premiere Pro Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unmatched-portfolio-boosters-top-free-3d-texts/"><u>In 2024, Unmatched Portfolio Boosters - Top Free 3D Texts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlining-movie-color-correction-through-luts-application-for-2024/"><u>Streamlining Movie Color Correction Through Luts Application for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-infinix-hot-30i-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Infinix Hot 30i IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-your-creative-process-with-instagrams-photography-tips/"><u>[New] Streamline Your Creative Process with Instagram's Photography Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-itunes-radio-downloading-blueprint/"><u>[New] The Complete iTunes Radio Downloading Blueprint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-your-contents-potential-for-1m-views-on-youtube/"><u>[New] Unleash Your Content's Potential for 1M Views on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-comedy-classics-a-curated-15-channel-collection-for-humor-for-2024/"><u>[Updated] Comedy Classics A Curated 15-Channel Collection for Humor for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-easy-recording-setups-for-lol-enthusiasts-3-ways/"><u>[Updated] In 2024, Easy Recording Setups for LOL Enthusiasts (3 Ways)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-camera-guide-2024s-premium-choices/"><u>[Updated] Ultimate Camera Guide 2024'S Premium Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-6-tools-for-video-language-shift/"><u>2024 Approved Superior 6 Tools for Video Language Shift</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-snipers-manual-to-capturing-live-online-music/"><u>2024 Approved The Sniper’s Manual to Capturing Live Online Music</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/compliance-with-standards-for-2024/"><u>Compliance with Standards for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-se-2022-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone SE (2022)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/elevate-your-stream-game-mastering-onestream-platforms-for-2024/"><u>Elevate Your Stream Game Mastering OneStream Platforms for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577154336-heres-how-to-use-mondly-and-get-the-best-out-of-it/"><u>Here’s How to Use Mondly and Get the Best Out of It</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-magic-vs-2-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor Magic Vs 2</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/htful-rank-trackers-unlock-your-videos-potential/"><u>Insightful Rank Trackers - Unlock Your Video's Potential</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95830101-9781944529130-psychokinesis/"><u>Psychokinesis | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-zoom-features-on-your-chromebook-for-2024/"><u>Streamlining Zoom Features on Your Chromebook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-images-and-footage-on-iphone-for-2024/"><u>Syncing Images and Footage on iPhone for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-vectors-alternatives-to-the-classic-acid-pro-for-2024/"><u>Top Vectors Alternatives to the Classic ACID Pro for 2024</u></a></li>
 </ul></div>
 

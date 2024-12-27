@@ -1,7 +1,7 @@
 ---
 title: How Insights From the Paris Olympic Data Can Drive Energy Savings in Future Events - ZDNet
-date: 2024-09-18 18:54:44
-updated: 2024-09-20 11:41:24
+date: 2024-12-26T17:25:19.830Z
+updated: 2024-12-27T16:37:14.020Z
 tags:
   - cloud
 categories:
@@ -78,11 +78,34 @@ Alibaba added that Content+ offers features that allow media rights-holders to g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techidaily.com/fixed-arch-bluetooth-mouse-not-working-after-windows-10-creators-update/"><u>[FIXED] Arch Bluetooth Mouse Not Working After Windows 10 Creators Update</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-from-zero-to-hero-effective-livestream-strategies-without-millions-of-viewers/"><u>[New] From Zero to Hero Effective Livestream Strategies without Millions of Viewers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tiny-feature-plot-outline/"><u>[New] Tiny Feature Plot Outline</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-rated-components-for-smooth-live-transmissions/"><u>[New] Top-Rated Components for Smooth Live Transmissions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/"><u>[New] Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-analytical-approach-to-youtube-content-performance/"><u>[Updated] In 2024, The Analytical Approach to YouTube Content Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-instant-srt-to-txt-efficient-conversion-methods-revealed/"><u>[Updated] Instant SRT to TXT Efficient Conversion Methods Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-windows-10-seamless-media-importation-techniques/"><u>[Updated] Unlocking Windows 10 Seamless Media Importation Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-tips-to-make-your-podcast-teasers-stand-out/"><u>2024 Approved Top 10 Tips to Make Your Podcast Teasers Stand Out</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-reno-9a-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Reno 9A</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-methods-of-digitizing-prints-from-the-office-printer-to-your-laptop/"><u>Comprehensive Methods of Digitizing Prints From the Office Printer to Your Laptop</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/re-the-best-historian-content-top-10-youtube-recommendations-for-2024/"><u>Explore the Best Historian Content Top 10 YouTube Recommendations for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/high-definition-elisha-cuthbert-wallpaper-collection-premium-hd-backgrounds-and-stunning-visual-content-by-yl-computing/"><u>High-Definition Elisha Cuthbert Wallpaper Collection: Premium HD Backgrounds and Stunning Visual Content by YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-asus-rog-phone-8-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Asus ROG Phone 8 to Protect Your Individual Information</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-reddit-potentials-stepwise-procedures-for-sharing/"><u>In 2024, Unlock Reddit Potentials Stepwise Procedures for Sharing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-google-meet-easy-backdrop-swap-for-pc-and-phones/"><u>Mastering Google Meet Easy Backdrop Swap for PC & Phones</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

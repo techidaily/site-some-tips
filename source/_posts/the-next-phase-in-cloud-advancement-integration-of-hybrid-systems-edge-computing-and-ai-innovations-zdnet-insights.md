@@ -1,7 +1,7 @@
 ---
 title: "The Next Phase in Cloud Advancement: Integration of Hybrid Systems, Edge Computing & AI Innovations | ZDNET Insights"
-date: 2024-09-19 16:38:43
-updated: 2024-09-20 10:11:24
+date: 2024-12-21T16:15:04.728Z
+updated: 2024-12-27T17:40:39.707Z
 tags:
   - cloud
 categories:
@@ -24,6 +24,10 @@ In 1997, Professor Ramnath K. Chellappa, now of Emory University, [used the term
 **Also:** [**How edge-to-cloud is driving the next stage of digital transformation**](https://www.zdnet.com/article/how-edge-to-cloud-is-driving-the-next-stage-of-digital-transformation/)
 
 What does the future of cloud computing look like in the next 3-5 years? It's gotten even more interesting since the pandemic. Since 2020, cloud computing has taken a tremendous leap forward, with many businesses fulfilling their ten year road maps in ten months -- or, for some, even in ten weeks -- because of the massive growth in demand for digital information and e-commerce.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The meaning of cloud computing is changing
 
@@ -57,6 +61,10 @@ Expect edge devices to be more connected, and to be left unattended more often. 
 
 This is where 5G (and eventually 6G) come into play. 5G handles intermittent connections better, and has the ability to switch frequency and "[beamform](https://www.zdnet.com/article/5g-new-radio-the-technical-background/)" to reach areas traditional cellular connectivity hasn't been able to reach. 5G is also putting far more intelligence into the field, which will substantially reduce latency, allowing edge devices to communicate with "the mother ship" far more quickly and with far greater responsiveness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The growth of AI in cloud management
 
 Increased reliance on complex cloud environments will increase the management challenges. Here, AI can help in at least four ways:
@@ -71,6 +79,10 @@ Then, of course, there's security. With a [security skills shortage and ever-inc
 Even small companies are now managing a mind-boggling amount of information, both in motion and at rest. We're talking about terabytes, petabytes, and exabytes of both flow and storage. The only way data of that volume, moving at high velocity, can be managed is through software. But with the rapid changes and growth in bad actor sophistication, regular programming and pattern identification protection will simply not keep up.
 
 This is one of those cases where AI isn't just optional or nice to have. AI will become the bulwark required to protect businesses where nothing else can move fast enough.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cloud vendors will have to change, too
 
@@ -87,6 +99,10 @@ Moving forward, expect GreenLake to offer more tools and resources, as well as b
 As we look forward 3-5 years, the watchword is "more." More connections, more power, more AI, more security challenges, more nodes, more devices, more locations, more options, more money, more efficiency, more bang-for-the-buck, more vendors – more, more, more. And, of course, more complex challenges in managing it all.
 
 ![](https://www.zdnet.com/a/img/resize/684dc5b99439a2c7dc917b4d65f353dbb9ab10fe/2022/12/20/976203f6-d704-4320-9337-9c31848a214c/getty-metamorworks-edge-computing.jpg?auto=webp&fit=cover&height=482&width=856)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Analyst: The edge-to-cloud evolution is promising, when we overcome these challenges
 
@@ -172,6 +188,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F "Twitter") 
@@ -186,11 +206,29 @@ Close Modal Dialog
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-enhancing-your-drones-visual-capabilities-with-the-right-camera-gimbals/"><u>[New] Enhancing Your Drones' Visual Capabilities with The Right Camera Gimbals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-the-best-17-picture-filters/"><u>[New] The Ultimate Guide to the Best 17 Picture Filters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tuneful-transmissions-integrating-audio-with-statuses/"><u>[New] Tuneful Transmissions Integrating Audio with Statuses</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-blueprint-for-perfecting-zooms-screen-cast/"><u>[Updated] The Ultimate Blueprint for Perfecting Zoom's Screen Cast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-and-tricks-for-effortless-finding-exceptional-pexel-images/"><u>[Updated] Tips and Tricks for Effortless Finding Exceptional Pexel Images</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-top-15-webcams-for-quality-youtube-live-streams/"><u>2024 Approved Top 15 Webcams for Quality YouTube Live Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-sites-for-stylish-metallic-3d-text-artistry/"><u>2024 Approved Ultimate Sites for Stylish, Metallic 3D Text Artistry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-pip-in-edge-for-a-superior-browsing-experience/"><u>2024 Approved Unlock PIP in Edge for a Superior Browsing Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-razr-40-ultra-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Razr 40 Ultra.</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c12-plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C12 Plus to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-scope-of-panoramic-filmmaking-explained/"><u>In 2024, The Scope of Panoramic Filmmaking Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tomorrows-reflection-varied-solutions-for-2024/"><u>Tomorrow’s Reflection Varied Solutions for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transfer-videos-briskly-easy-steps-for-shifting-content-from-your-computer-to-ios-device-using-windows-10/"><u>Transfer Videos Briskly: Easy Steps for Shifting Content From Your Computer to iOS Device Using Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/using-inshot-for-laptoppc-and-other-video-editing-alternatives-for-2024/"><u>Using Inshot for Laptop/PC and Other Video Editing Alternatives for 2024</u></a></li>
+</ul></div>
+

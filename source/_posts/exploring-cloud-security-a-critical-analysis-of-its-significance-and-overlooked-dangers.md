@@ -1,7 +1,7 @@
 ---
 title: "Exploring Cloud Security: A Critical Analysis of Its Significance and Overlooked Dangers."
-date: 2024-09-19 22:44:49
-updated: 2024-09-20 10:41:36
+date: 2024-12-21T16:20:26.495Z
+updated: 2024-12-27T17:11:48.780Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 Image: Getty
 
 As convenient as [cloud computing has become](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/), it isn't without problems. Poor cybersecurity planning for cloud applications, such as allowing users to rely on simple passwords, [failing to use multi-factor authentication](https://www.zdnet.com/article/multi-factor-authentication-use-it-for-all-the-people-that-access-your-network-all-the-time/) or [not applying patches and updates](https://www.zdnet.com/article/youve-still-not-patched-it-hackers-are-using-these-old-software-flaws-to-deliver-ransomware/), can leave you vulnerable to attacks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -46,6 +50,10 @@ The lack of understanding around configuring and securing cloud services can lea
 
 This isn't just a theoretical problem, as cases of misconfigured cloud environments exposing sensitive information are regularly uncovered. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 * [Best VPN services](https://www.zdnet.com/article/best-vpn/)
@@ -56,6 +64,10 @@ This isn't just a theoretical problem, as cases of misconfigured cloud environme
 "Organisations do not completely understand the cloud environment and a lack of expertise and skill set makes it difficult for businesses to identify and implement the right set of security controls to protect their cloud operations," says Prakash Venkata, principal within PwC's cybersecurity, risk and regulatory practice. 
 
 "Companies that seem to be ignoring cloud security altogether may be doing so due to a lack of understanding, a lack of skills and expertise, limited time due to competing corporate initiatives, or limited budget to invest in leading tools," he adds. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Security
 
@@ -76,6 +88,10 @@ If your organisation isn't on top of its cloud security strategy, it could be ea
 There are also additional steps that information security teams can take to bolster cybersecurity defences of cloud services, such as [rolling out multi-factor authentication to all users](https://www.zdnet.com/article/better-than-the-best-password-how-to-use-2fa-to-improve-your-security/). This provides an opportunity to stop and detect malicious intrusions before they happen, because even if the attacker has the correct password, the user has to confirm that it's a legitimate login attempt.
 
 "Identity access management, the ability to ensure that networks' data system services can only be accessed by by authorized parties, that's really the essential bit," says Nurse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -98,6 +114,10 @@ However, your choice of cloud service provider could make a significant differen
 
 Even when you have a cybersecurity strategy around cloud in place, that's not the end of the journey – and much like when you first start using cloud services, you can't just ignore it and hope for the best. Cybersecurity is always evolving, new threats emerge, and new strategies need to be applied to help keep networks and users as safe and secure as possible. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -112,11 +132,24 @@ Even when you have a cybersecurity strategy around cloud in place, that's not th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-vision-record-studio-2021/"><u>[New] 2024 Approved Vision Record Studio 2021</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-spectral-stories-telling-tales-through-color/"><u>[New] Spectral Stories Telling Tales Through Color</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-restore-windows-photo-viewer-quick-effective-ways-for-win10/"><u>[Updated] Restore Windows Photo Viewer Quick, Effective Ways for Win10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-step-by-step-breakdown-creating-your-best-yt-shorts/"><u>2024 Approved A Step-by-Step Breakdown Creating Your Best YT Shorts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-professionals-guide-to-4k-monitors-spotlight-on-bl2711u-by-benq/"><u>2024 Approved The Professional's Guide to 4K Monitors - Spotlight on BL2711U by BenQ</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-video-editors-aiding-in-app-dev-creation/"><u>2024 Approved Top Video Editors Aiding in App Dev Creation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-infinix-smart-8-plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-optimal-sonic-selections-android-centric/"><u>In 2024, Optimal Sonic Selections, Android-Centric</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-most-compelling-free-vfx-alternatives-for-filmmakers/"><u>In 2024, Unveiling the Most Compelling Free VFX Alternatives for Filmmakers</u></a></li>
+</ul></div>
+

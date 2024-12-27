@@ -1,7 +1,7 @@
 ---
 title: "Introducing Nord Security: From the Founders of NordVPN, A Holistic Approach to Your Digital Safety and Privacy"
-date: 2024-09-19 12:23:29
-updated: 2024-09-20 10:20:16
+date: 2024-12-21T17:07:50.925Z
+updated: 2024-12-27T17:21:56.967Z
 tags:
   - cloud
 categories:
@@ -65,11 +65,19 @@ I was provided with a link to Eimantas' LinkedIn page, which also shows him as a
   
  Both Tom Okman and Eimantas attended Vilnius University, founded in the 16th century and located in Vilnius, Lithuania. Eimantas attended from 2002 to 2006 and received a Bachelor's degree in computer science, while Tom attended from 2006 to 2011 and earned a Bachelor's in history. Okman also picked up a Master's in e-business management from Mykolas Romeris University, also in Vilnius. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NordSec, Tesonet, and Tefincom -- and Panama, Cyprus, and Lithuania
 
 All of that brings us back to [NordSec](https://nordsecurity.com/), which is the name Okman and his team chose to use going forward, at least in 2020 when I interviewed him. Think the name NordSec is familiar? NordSec is also the name of the [Nordic Conference on Secure IT Systems](http://www.nordsec.org/conferences/) and has been in use since 1996\. When I asked Okman about the possible trademark ramifications of using "NordSec," he replied, "we have a pending trademark application, and we provide a different type of service, so we don't think there is anything that could cause a conflict." Clearly, that didn't take, because the company is now known as Nord Security.
 
 Note that when I refer to NordSec in the following sections, it's because that's the name I used to trace these various players. As mentioned, the new name is Nord Security. When I'm using NordSec in the copy, it's referring to the company as it was promoted in 2020.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### working from home
 
@@ -143,6 +151,10 @@ To ensure customer confidence, we encourage Nord Security to conduct these audit
 
 And with that, let's look into each of Nord Security's offerings in detail. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NordVPN
 
 First up is NordVPN, the product/service that started it all. Founded in 2012 by Okman and his partner, the VPN service is in use by millions of users across the world. In an [exclusive report for PCMag](https://www.pcmag.com/news/nordvpn-dominates-vpn-market-share-and-that-will-likely-continue) by analyst firm [VPNpro.com](http://VPNpro.com) , PCMag reported that NordVPN had the most Google interest of any VPN service, with 1.29M searches per month as of February 2019\. 
@@ -151,6 +163,10 @@ We're not going to go into too much detail here, because we've covered NordVPN i
 
 * [**Inside a VPN service: How NordVPN conducts the business of Internet privacy**](https://www.zdnet.com/article/inside-a-vpn-service-how-nordvpn-conducts-the-business-of-internet-privacy/)
 * [**NordVPN review: Revamping security practices, but still useful**](https://www.zdnet.com/article/nord-vpn-review-an-in-depth-look-at-a-popular-vpn/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### NordVPN Teams
 
@@ -165,6 +181,10 @@ Finally, at the enterprise level, Nord Security is offering enterprise-centric f
 Nord Security also offers a special plan for NGOs (non-government organizations, typically nonprofits). 
 
 Given the [move to remote work](https://www.zdnet.com/topic/working-from-home-the-future-of-business-is-remote/) in [the COVID-19 pandemic](https://www.zdnet.com/topic/coronavirus-business-and-technology-in-a-pandemic/), NordVPN Teams could find more of a receptive audience than it would have otherwise. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### NordLynx
 
@@ -205,6 +225,10 @@ It's a big step into a very crowded and entrenched market. Not only are there a 
 That said, Nord Security does have two advantages with NordPass. First, it has an enormous and generally satisfied privacy-minded installed base using its NordVPN service. This gives it a lot of potential customers to tap. Second, the company has implemented .csv (comma-separated values) import templates for many of the top password managers and browser password caches. 
 
 Nord is once again taking security seriously in this implementation. It's built a zero-knowledge NordPass vault that relies on modern ciphers: [XChaCha20](https://libsodium.gitbook.io/doc/advanced/stream%5Fciphers/xchacha20) for encryption and [Argon2](https://argon2.online/) for key derivation. NordPass offers OCR scanning, biometric authorization, and secure password sharing, where Okman says, "shared items cannot be intercepted with man-in-the-middle attacks." 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### NordLocker
 
@@ -284,11 +308,31 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-3-camera-insight-mastering-video-on-the-go-with-ion/"><u>[New] Pro 3 Camera Insight Mastering Video on the Go with ION</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategies-for-apple-listed-podcast-success/"><u>[New] Strategies for Apple-Listed Podcast Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-swift-solutions-for-iphone-photography-misfocus/"><u>[New] Swift Solutions for iPhone Photography Misfocus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-synthesizing-best-canon-temporal-videography/"><u>[New] Synthesizing Best Canon Temporal Videography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-turbocharging-fb-media-speed-techniques-revealed/"><u>[New] Turbocharging FB Media Speed Techniques Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unexplained-angle-flip-sideways-vids-in-instagram-world/"><u>[New] Unexplained Angle Flip Sideways Vids in Instagram World</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-syma-x8c-tech-specifications-study/"><u>[Updated] Syma X8C Tech Specifications Study</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-sierras-icloud-drives-and-shares/"><u>[Updated] The Ultimate Guide to Sierra's iCloud Drives & Shares</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-upload-and-share-your-visual-content-on-youtube/"><u>[Updated] Upload & Share Your Visual Content on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-expert-insights-on-optimal-fpv-drone-blades/"><u>2024 Approved Expert Insights on Optimal FPV Drone Blades</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fading-techniques-for-aural-balance/"><u>2024 Approved Fading Techniques for Aural Balance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premiere-cinematic-glimpses-series/"><u>2024 Approved Premiere Cinematic Glimpses Series</u></a></li>
+<li><a href="https://solve-news.techidaily.com/how-can-you-watch-av1-encoded-movies-and-shows-on-your-plex-media-server/"><u>How Can You Watch AV1 Encoded Movies and Shows on Your Plex Media Server?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-fishing-cameras-the-essentials-of-5/"><u>In 2024, Premier Fishing Cameras - The Essentials of 5</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/recording-success-the-ultimate-guide-for-facetime-conversations-for-2024/"><u>Recording Success The Ultimate Guide for FaceTime Conversations for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revouninstaller-your-tool-for-disentangling-windows-11-installations-and-patches/"><u>RevoUninstaller: Your Tool for Disentangling Windows 11 Installations & Patches</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oneplus-nord-ce-3-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to OnePlus Nord CE 3 5G FRP Bypass Everything You Need to Know</u></a></li>
+</ul></div>
+

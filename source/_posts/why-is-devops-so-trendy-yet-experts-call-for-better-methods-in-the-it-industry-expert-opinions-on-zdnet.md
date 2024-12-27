@@ -1,7 +1,7 @@
 ---
 title: Why Is DevOps So Trendy? Yet, Experts Call for Better Methods in the IT Industry | Expert Opinions on ZDNet
-date: 2024-09-18 12:25:22
-updated: 2024-09-20 11:10:17
+date: 2024-12-20T16:26:02.269Z
+updated: 2024-12-27T16:29:59.924Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ To advance in a technology-focused career, it's important to embrace the practic
 DevOps is an important career choice in itself. A recent glance at the Dice technology jobs listing shows more than 7,000 open positions for [DevOps engineers and specialists](https://www.dice.com/jobs/q-DevOps-jobs#dice). Companies are seeking such individuals who can drive "automation and containerization strategies," as well as "collaborate with product owners, developers, cloud engineers, DevOps engineers and operations to plan, design, test and deliver pipelines and infrastructure using [Continuous Integration/Continuous Delivery (CI/CD)](https://www.redhat.com/en/topics/devops/what-is-ci-cd) model."
 
 **Also:** [**Tech jobs are changing. Here are the skills you'll need to get promoted now**](https://www.zdnet.com/article/tech-jobs-are-changing-here-are-the-real-skills-youll-need-to-get-promoted/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -74,11 +78,26 @@ The study's authors paint a profile of the successful DevOps practitioner:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-top-10-camcorders-to-invest-in-s-video-craze-for-2024/"><u>[New] Top 10 Camcorders to Invest in 'S Video Craze for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-audio-tools-for-professional-podcast-creators/"><u>[New] Top Audio Tools for Professional Podcast Creators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-and-tricks-to-avoid-photo-crashes-on-windows-11/"><u>[Updated] Tips & Tricks to Avoid Photo Crashes on Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-best-auto-tracking-camera-mount/"><u>2024 Approved Best Auto Tracking Camera Mount</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-dji-phantom-3-the-pro-drone-experience-explored/"><u>In 2024, DJI Phantom 3 The Pro Drone Experience Explored</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-effective-guide-to-cast-apple-iphone-11-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>In 2024, Effective Guide to Cast Apple iPhone 11 to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-webcapture-pro-live-chat-videos/"><u>In 2024, WebCapture Pro Live Chat Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/step-by-step-garageband-tutorial-for-podcast-creation-for-2024/"><u>Step-by-Step GarageBand Tutorial for Podcast Creation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fundamentals-of-uncomplicated-hdr-techniques-for-2024/"><u>The Fundamentals of Uncomplicated HDR Techniques for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-mac-vpn-services-comprehensive-expert-reviews-and-comparisons/"><u>Top Rated Mac VPN Services: Comprehensive Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-design-your-own-logos-using-template-assets-free-for-2024/"><u>Unleash Creativity Design Your Own Logos Using Template Assets (Free) for 2024</u></a></li>
+</ul></div>
+

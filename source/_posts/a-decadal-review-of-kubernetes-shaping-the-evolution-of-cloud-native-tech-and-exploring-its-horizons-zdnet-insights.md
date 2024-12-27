@@ -1,7 +1,7 @@
 ---
 title: "A Decadal Review of Kubernetes: Shaping the Evolution of Cloud-Native Tech and Exploring Its Horizons | ZDNET Insights"
-date: 2024-09-19 19:31:31
-updated: 2024-09-20 11:35:18
+date: 2024-12-23T16:44:43.529Z
+updated: 2024-12-27T16:07:50.148Z
 tags:
   - cloud
 categories:
@@ -39,6 +39,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Kubernetes' genesis
 
 The story of Kubernetes begins in the early 2010s at Google, where engineers were grappling with the challenges of managing large-scale containerized applications. Everyone recognized how important containers were and that we needed a way to manage them. 
@@ -61,6 +65,10 @@ Even in those early days, though, I thought Kubernetes would be the clear winner
 
 Kubernetes quickly gained traction. The name "Kubernetes'' comes from the Greek word for "helmsman" or "pilot," symbolizing its role in steering containerized applications. The Kubernetes logo, a seven-spoke ship's wheel, pays homage to its Borg heritage and its first name, Seven of Nine, a friendly Borg from Star Trek, which was dropped for obvious trademark reasons. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Rapid adoption and community growth 
 
 Kubernetes' open-source nature and robust feature set made it an instant hit among developers and enterprises. By 2015, Kubernetes had reached version 1.0, and Google partnered with the Linux Foundation to form the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/), with Kubernetes as its seed technology. This move was pivotal in fostering a vibrant community around Kubernetes, leading to rapid innovation and widespread adoption. 
@@ -70,6 +78,10 @@ Kubernetes' open-source nature and robust feature set made it an instant hit amo
 While other container orchestration programs are still with us, in 2017 Amazon Web Services [(AWS) announced Elastic Container Service for Kubernetes (EKS)](https://www.zdnet.com/article/aws-launches-elastic-container-service-for-kubernetes/), and everyone could read the writing on the wall. Kubernetes would dominate the cloud-native world. 
 
 Simultaneously, the CNCF nurtured the Kubernetes ecosystem. Today, hundreds of cloud-native programs all depend on Kubernetes. Today, there are no major cloud providers that don't rely on Kubernetes. It's become the go-to container orchestration platform. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Transforming cloud-native development 
 
@@ -82,6 +94,10 @@ Another key Kubernetes advantage is its portability. Applications deployed on Ku
 Over the years, in addition to related cloud-native programs, Kubernetes has spawned a rich ecosystem of tools and projects that extend its capabilities. These include [Helm](https://helm.sh/), the Kubernetes package manager that simplifies application deployment and management by providing reusable charts, and [Prometheus](https://prometheus.io/), the powerful Kubernetes environment monitoring and alerting program. 
 
 The rise of Kubernetes has also given birth to new paradigms like [GitOps](https://about.gitlab.com/topics/gitops/), which leverages Git as the single source of truth for declarative infrastructure and application management. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The future of Kubernetes
 
@@ -130,11 +146,28 @@ Kubernetes's future is bright. With ongoing innovation and a thriving ecosystem,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-utilizing-youtubes-annotation-feature/"><u>[New] 2024 Approved Utilizing YouTube's Annotation Feature</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-elevate-ps2-gameplay-on-ios-devices/"><u>[New] In 2024, Elevate PS2 Gameplay on iOS Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-the-art-of-audio-capture-sans-microphone/"><u>[New] In 2024, Mastering the Art of Audio Capture Sans Microphone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-creating-a-vr-ready-environment/"><u>[New] The Complete Guide to Creating a VR-Ready Environment</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-optimize-your-online-presence-youtube-to-dailymotion-video-migration/"><u>[Updated] In 2024, Optimize Your Online Presence YouTube to Dailymotion Video Migration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-elevating-images-premier-frame-apps-in-2e-24/"><u>In 2024, Expertly Elevating Images Premier Frame Apps in 2E '24</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-xiaomi-redmi-13c-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Xiaomi Redmi 13C 5G Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-speech-access-to-no-cost-voice-manipulation-tools/"><u>In 2024, Transform Your Speech Access to No-Cost Voice Manipulation Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-the-perfect-print-driver-the-ultimate-guide-to-setting-up-the-brother-mfc-l2700dw-on-windows-systems/"><u>Installing the Perfect Print Driver: The Ultimate Guide to Setting up the Brother MFC-L2700DW on Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-puzzle-top-11-ways-to-get-borderlands-3-running-smoothly/"><u>Solving the Puzzle: Top 11 Ways to Get Borderlands 3 Running Smoothly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-for-leveraging-azure-voice-to-text-technology-for-2024/"><u>Strategies for Leveraging Azure Voice-to-Text Technology for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-selections-high-capacity-cloud-options-for-2024/"><u>Superior Selections High-Capacity Cloud Options for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-blending-audio-and-visuals-in-a-trailer/"><u>The Art of Blending Audio and Visuals in a Trailer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-creative-potential-with-these-top-7-meme-creation-techniques-for-2024/"><u>Unlock Creative Potential with These Top 7 Meme-Creation Techniques for 2024</u></a></li>
+</ul></div>
+

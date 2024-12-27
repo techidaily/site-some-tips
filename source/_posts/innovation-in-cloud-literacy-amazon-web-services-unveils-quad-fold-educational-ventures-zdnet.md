@@ -1,7 +1,7 @@
 ---
 title: "Innovation in Cloud Literacy: Amazon Web Services Unveils Quad-Fold Educational Ventures - ZDNet"
-date: 2024-09-18 11:28:20
-updated: 2024-09-20 12:52:48
+date: 2024-12-24T16:22:51.234Z
+updated: 2024-12-27T16:06:04.972Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/fa466aca4e0117af9ede098ff5beff07b4b780680
 AWS debuted four new initiatives in its ongoing goal to educate 29 million people on its cloud services platform by the end of 2025\. 
 
 First up, the company showed off its new AWS Skill Builder courses. This novel digital learning tool will be available to users in 200 countries and will provide more than 500 free, on-demand courses to start, with 60 more scheduled to be added this year. Content is available in 16 languages, with support for automatically generated recommendations from AWS on progression paths based around individualized job roles and technology areas. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### executive guide
 
@@ -50,11 +54,31 @@ Additional information about Amazon's aforementioned educational commitment is a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-strategic-brand-alliances-for-video-influencers/"><u>[New] 2024 Approved Strategic Brand Alliances for Video Influencers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-conquer-peak-audiences-setting-yourself-apart-from-tiktok-leaders-for-2024/"><u>[New] Conquer Peak Audiences Setting Yourself Apart From TikTok Leaders for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-obs-adjustments-for-inexpensive-machines/"><u>[Updated] Essential OBS Adjustments for Inexpensive Machines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-stabilizing-drone-footage/"><u>[Updated] Strategies for Stabilizing Drone Footage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-storytellers-portal/"><u>[Updated] Ultimate Storytellers' Portal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-creativity-free-animation-techniques/"><u>[Updated] Unlocking Creativity Free Animation Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>[Updated] Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-updated-inquiry-collection-for-podcast-appeal/"><u>[Updated] Updated Inquiry Collection for Podcast Appeal</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-master-the-art-of-securing-your-digital-assets-a-step-by-step-guide-to-generating-your-own-crypto-wallet-address-techgenius/"><u>1. Master the Art of Securing Your Digital Assets: A Step-by-Step Guide to Generating Your Own Crypto Wallet Address - TechGenius</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fallout-76-stuttering-issues-resolved-enhanced-gameplay-experience/"><u>Fallout 76 Stuttering Issues Resolved: Enhanced Gameplay Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-13-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 13 Pro Max | Stellar</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-tecno-pova-5-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Tecno Pova 5 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-a2plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi A2+ Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-striding-forward-a-comprehensive-review-of-vr-walkers/"><u>In 2024, Striding Forward A Comprehensive Review of VR Walkers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-dialogue-in-film-and-theatre/"><u>In 2024, The Art of Dialogue in Film and Theatre</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-monitors-reimagined-an-insight-into-the-z32x/"><u>In 2024, The Art of Monitors Reimagined An Insight Into the Z32X</u></a></li>
+</ul></div>
+

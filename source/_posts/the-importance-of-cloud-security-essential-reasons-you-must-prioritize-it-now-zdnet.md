@@ -1,7 +1,7 @@
 ---
 title: "The Importance of Cloud Security: Essential Reasons You Must Prioritize It Now | ZDNet"
-date: 2024-09-17 10:54:44
-updated: 2024-09-20 12:49:32
+date: 2024-12-23T17:03:07.596Z
+updated: 2024-12-27T17:16:14.050Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/576613d76775eba96e07a16efe944a1e36820bdf5
 Image: Getty
 
 As convenient as [cloud computing has become](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/), it isn't without problems. Poor cybersecurity planning for cloud applications, such as allowing users to rely on simple passwords, [failing to use multi-factor authentication](https://www.zdnet.com/article/multi-factor-authentication-use-it-for-all-the-people-that-access-your-network-all-the-time/) or [not applying patches and updates](https://www.zdnet.com/article/youve-still-not-patched-it-hackers-are-using-these-old-software-flaws-to-deliver-ransomware/), can leave you vulnerable to attacks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -46,6 +50,10 @@ The lack of understanding around configuring and securing cloud services can lea
 
 This isn't just a theoretical problem, as cases of misconfigured cloud environments exposing sensitive information are regularly uncovered. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 * [Best VPN services](https://www.zdnet.com/article/best-vpn/)
@@ -56,6 +64,10 @@ This isn't just a theoretical problem, as cases of misconfigured cloud environme
 "Organisations do not completely understand the cloud environment and a lack of expertise and skill set makes it difficult for businesses to identify and implement the right set of security controls to protect their cloud operations," says Prakash Venkata, principal within PwC's cybersecurity, risk and regulatory practice. 
 
 "Companies that seem to be ignoring cloud security altogether may be doing so due to a lack of understanding, a lack of skills and expertise, limited time due to competing corporate initiatives, or limited budget to invest in leading tools," he adds. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Security
 
@@ -76,6 +88,10 @@ If your organisation isn't on top of its cloud security strategy, it could be ea
 There are also additional steps that information security teams can take to bolster cybersecurity defences of cloud services, such as [rolling out multi-factor authentication to all users](https://www.zdnet.com/article/better-than-the-best-password-how-to-use-2fa-to-improve-your-security/). This provides an opportunity to stop and detect malicious intrusions before they happen, because even if the attacker has the correct password, the user has to confirm that it's a legitimate login attempt.
 
 "Identity access management, the ability to ensure that networks' data system services can only be accessed by by authorized parties, that's really the essential bit," says Nurse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -98,6 +114,10 @@ However, your choice of cloud service provider could make a significant differen
 
 Even when you have a cybersecurity strategy around cloud in place, that's not the end of the journey – and much like when you first start using cloud services, you can't just ignore it and hope for the best. Cybersecurity is always evolving, new threats emerge, and new strategies need to be applied to help keep networks and users as safe and secure as possible. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -112,11 +132,33 @@ Even when you have a cybersecurity strategy around cloud in place, that's not th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-captivating-subscription-making-an-animated-button-for-youtube-with-filmora/"><u>[New] In 2024, Captivating Subscription Making an Animated Button for YouTube with Filmora</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-syma-x5c-review-best-drone-for-beginner/"><u>[New] Syma X5C Review Best Drone for Beginner</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-video-editors-aiding-in-app-dev-creation/"><u>[New] Top Video Editors Aiding in App Dev Creation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-zoom-class-chronicling/"><u>[Updated] 2024 Approved Zoom Class Chronicling</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-ways-to-transcribe-twitter-videos-into-high-fidelity-mp3s/"><u>[Updated] Best Ways to Transcribe Twitter Videos Into High-Fidelity MP3s</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seeking-freedom-with-videos-which-plays-better-vlc-or-mpc/"><u>[Updated] Seeking Freedom with Videos Which Plays Better, VLC or MPC?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-magic-behind-the-lens-iphone-xs-groundbreayer-camera-tech/"><u>[Updated] The Magic Behind the Lens IPhone X's Groundbreayer Camera Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-allure-of-benq-sw320-4k-pro-display/"><u>2024 Approved The Allure of BenQ SW320 4K Pro Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-ultimate-8-ranked-apps-mobile-video-tile-masters-freepaid/"><u>2024 Approved Unveiling the Ultimate #8 Ranked Apps Mobile Video Tile Masters (Free/Paid)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-vector-fundamentals-unpacked-for-novices-categories-and-software/"><u>2024 Approved Vector Fundamentals Unpacked for Novices, Categories & Software</u></a></li>
+<li><a href="https://win11.techidaily.com/5yq55p6c55qe44gq6zplusz5qw944ov44kh44kk44or5zyn57iu5pa55rovic0g44cm44kq44o844oh44kj44kq5zyn57iu44k944ov44oi44km44kn44ki44cn44ks5yip55so44gx44gf5oml5byv44gn.45/"><u>効果的な音楽ファイル圧縮方法 - 「オーディオ圧縮ソフトウェア」を利用した手引き</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/five-key-words-to-command-the-future-of-conversational-ai/"><u>Five Key Words to Command the Future of Conversational AI</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-and-easy-explore-the-top-webm-video-tools/"><u>Free and Easy Explore the Top WebM Video Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-techniques-for-finding-no-cost-image-frame-films/"><u>In 2024, Techniques for Finding No-Cost Image Frame Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-full-potential-of-windows-11s-video-production-suite/"><u>In 2024, Unlocking the Full Potential of Windows 11'S Video Production Suite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/llm-essentials-understanding-giants-in-ai-language-processing/"><u>LLM Essentials: Understanding Giants in AI Language Processing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-sound-windows-10-recorder-tips/"><u>Mastering Sound Windows 10 Recorder Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-the-best-series-streaming-on-max-at-the-moment/"><u>Top Picks: The Best Series Streaming on Max at the Moment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncovering-images-the-art-of-backdrop-removal-in-picsart-for-2024/"><u>Uncovering Images The Art of Backdrop Removal in Picsart for 2024</u></a></li>
+</ul></div>
+

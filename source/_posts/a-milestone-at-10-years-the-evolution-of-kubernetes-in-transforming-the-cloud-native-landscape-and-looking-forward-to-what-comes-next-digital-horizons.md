@@ -1,7 +1,7 @@
 ---
 title: "A Milestone at 10 Years: The Evolution of Kubernetes in Transforming the Cloud-Native Landscape and Looking Forward to What Comes Next | Digital Horizons"
-date: 2024-09-18 22:11:38
-updated: 2024-09-20 12:14:51
+date: 2024-12-22T17:22:20.483Z
+updated: 2024-12-27T16:08:08.709Z
 tags:
   - cloud
 categories:
@@ -39,6 +39,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Kubernetes' genesis
 
 The story of Kubernetes begins in the early 2010s at Google, where engineers were grappling with the challenges of managing large-scale containerized applications. Everyone recognized how important containers were and that we needed a way to manage them. 
@@ -61,6 +65,10 @@ Even in those early days, though, I thought Kubernetes would be the clear winner
 
 Kubernetes quickly gained traction. The name "Kubernetes'' comes from the Greek word for "helmsman" or "pilot," symbolizing its role in steering containerized applications. The Kubernetes logo, a seven-spoke ship's wheel, pays homage to its Borg heritage and its first name, Seven of Nine, a friendly Borg from Star Trek, which was dropped for obvious trademark reasons. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Rapid adoption and community growth 
 
 Kubernetes' open-source nature and robust feature set made it an instant hit among developers and enterprises. By 2015, Kubernetes had reached version 1.0, and Google partnered with the Linux Foundation to form the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/), with Kubernetes as its seed technology. This move was pivotal in fostering a vibrant community around Kubernetes, leading to rapid innovation and widespread adoption. 
@@ -70,6 +78,10 @@ Kubernetes' open-source nature and robust feature set made it an instant hit amo
 While other container orchestration programs are still with us, in 2017 Amazon Web Services [(AWS) announced Elastic Container Service for Kubernetes (EKS)](https://www.zdnet.com/article/aws-launches-elastic-container-service-for-kubernetes/), and everyone could read the writing on the wall. Kubernetes would dominate the cloud-native world. 
 
 Simultaneously, the CNCF nurtured the Kubernetes ecosystem. Today, hundreds of cloud-native programs all depend on Kubernetes. Today, there are no major cloud providers that don't rely on Kubernetes. It's become the go-to container orchestration platform. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Transforming cloud-native development 
 
@@ -82,6 +94,10 @@ Another key Kubernetes advantage is its portability. Applications deployed on Ku
 Over the years, in addition to related cloud-native programs, Kubernetes has spawned a rich ecosystem of tools and projects that extend its capabilities. These include [Helm](https://helm.sh/), the Kubernetes package manager that simplifies application deployment and management by providing reusable charts, and [Prometheus](https://prometheus.io/), the powerful Kubernetes environment monitoring and alerting program. 
 
 The rise of Kubernetes has also given birth to new paradigms like [GitOps](https://about.gitlab.com/topics/gitops/), which leverages Git as the single source of truth for declarative infrastructure and application management. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The future of Kubernetes
 
@@ -130,11 +146,27 @@ Kubernetes's future is bright. With ongoing innovation and a thriving ecosystem,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-6-best-gopro-helmet-mounts-and-how-to-use-them-for-2024/"><u>[New] 6 Best GoPro Helmet Mounts and How to Use Them for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-exclusive-strategies-for-photovideo-importers-in-win11/"><u>[New] Exclusive Strategies for Photo/Video Importers in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-the-iphones-full-potential-with-10-composition-principles/"><u>[New] Unleashing the iPhone's Full Potential with 10 Composition Principles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-vimeos-end-screens-for-creative-directives-for-2024/"><u>[Updated] Mastering Vimeo's End Screens for Creative Directives for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-nocturnal-landscapes-on-your-iphone/"><u>[Updated] Nocturnal Landscapes on Your iPhone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-logitech-g510-gamepad-drivers-compatible-with-win7-8-and-10/"><u>Download Logitech G510 Gamepad Drivers - Compatible with Win7, 8 & 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-three-no-spend-ways-to-merge-movement-and-melodies-in-your-iphone-video-clips/"><u>In 2024, Three No-Spend Ways to Merge Movement and Melodies in Your iPhone Video Clips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-information-on-apples-latest-creation-touchscreen-macbook-what-to-expect-in-terms-of-cost-date-and-features/"><u>Inside Information on Apple's Latest Creation: Touchscreen MacBook - What to Expect in Terms of Cost, Date, and Features</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/proven-pathway-to-pure-sound-for-2024/"><u>Proven Pathway to Pure Sound for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/synchronizing-airwaves-for-audience-gain-for-2024/"><u>Synchronizing Airwaves for Audience Gain for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/thank-you-in-motion-templates-for-every-budget-level-for-2024/"><u>Thank You in Motion Templates for Every Budget Level for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-mac-video-converter-transform-videos-into-compatible-formats-for-iphone-ipad-apple-tv-and-more/"><u>Ultimate Mac Video Converter: Transform Videos Into Compatible Formats for iPhone, iPad, Apple TV & More</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Singapore's Public Services Through Cloud-Based Artificial Intelligence
-date: 2024-09-17 11:29:47
-updated: 2024-09-20 11:59:47
+date: 2024-12-26T17:02:06.986Z
+updated: 2024-12-27T16:50:27.679Z
 tags:
   - cloud
 categories:
@@ -62,6 +62,10 @@ In addition, the Monetary Authority of Singapore (MAS) is working with Google to
 Noting that competition remained tough and the global landscape is constantly evolving, he added that AI will play a key role for Singapore moving forward. 
 
 He said MAS will use the collaboration with Google to identify generative AI use cases that will allow it to work more efficiently and provide foundational models that prioritise data security and AI governance. "Through this, we hope to inspire greater adoption of [responsible generative AI in the financial](https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/) sector," Loy said.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Doing things differently with AI
 
@@ -134,11 +138,29 @@ Commenting on the vendor's collaboration with the Singapore government, Ng said:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-youtube-title-generator/"><u>[New] Best YouTube Title Generator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-start-with-crypto-and-nfts-your-simple-creation-plan/"><u>[New] Start with Crypto & NFTs Your Simple Creation Plan</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-podcast-scriptwriting-with-10plus-free-examples/"><u>[New] The Ultimate Guide to Podcast Scriptwriting (With 10+ Free Examples)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs/"><u>[Updated] Navigating the World of Online Broadcasts on YouTube and Twitch with OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-snapchats-spotlight-mechanics/"><u>[Updated] Unlocking Snapchat's Spotlight Mechanics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-cutting-edge-360-cameras-for-dynamic-videos/"><u>2024 Approved Cutting-Edge 360 Cameras for Dynamic Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-8-filter-trios-for-broadcast-excellence/"><u>2024 Approved Superior 8 Filter Trios for Broadcast Excellence</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-spark-20-proplus-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://techtrends.techidaily.com/freshly-updated-netgear-default-passwords-for-july-202n4-essential-list/"><u>Freshly Updated NETGEAR Default Passwords for July 202N4 - Essential List</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-nokia-c02-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Nokia C02?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-how-to-for-ifunnys-meme-app/"><u>In 2024, The Ultimate How-To for iFunny's Meme App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-resource-list-of-3d-fonts-online/"><u>In 2024, Ultimate Resource List of 3D Fonts Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-utilizing-picture-in-picture-feature-across-all-chrome-devices/"><u>In 2024, Utilizing Picture In Picture Feature Across All Chrome Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/speaker-crackling-in-windows-117-solved/"><u>Speaker Crackling in Windows 11/7 [SOLVED]</u></a></li>
+</ul></div>
+

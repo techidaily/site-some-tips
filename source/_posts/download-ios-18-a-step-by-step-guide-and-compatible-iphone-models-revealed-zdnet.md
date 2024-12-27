@@ -1,7 +1,7 @@
 ---
 title: "Download IOS 18: A Step-by-Step Guide and Compatible iPhone Models Revealed | ZDNet"
-date: 2024-12-15T20:05:08.347Z
-updated: 2024-12-21T20:50:00.447Z
+date: 2024-12-20T17:31:36.241Z
+updated: 2024-12-27T17:20:06.328Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
@@ -40,10 +36,6 @@ Jason Hiner/ZDNET
 
 Go to your iPhone's Settings and select General. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
@@ -52,6 +44,10 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
@@ -59,22 +55,18 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 After installing the latest iOS update, your iPhone will restart.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -90,6 +82,10 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How do I install the iOS 18 beta version?
 
 You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
@@ -100,6 +96,10 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,22 +161,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-essential-techniques-5-audio-recording-tools-in-windows-11/"><u>[New] 2024 Approved Essential Techniques 5 Audio Recording Tools in Windows 11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-webcammastery-practicalrecordingsteps/"><u>[New] 2024 Approved WebCamMastery PracticalRecordingSteps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-time-lapse-tales-smartphone-storytelling-techniques/"><u>[New] Time-Lapse Tales Smartphone Storytelling Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-strategy-for-bio-linking-on-tiktok/"><u>[New] Ultimate Strategy for Bio Linking on TikTok</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-audience-appreciation-assessment-self-and-seekers-vs-rival-repertoires/"><u>[Updated] 2024 Approved Audience Appreciation Assessment Self and Seekers Vs. Rival Repertoires</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-essential-guide-to-tapered-music-transitions-in-premiere-pro/"><u>[Updated] The Essential Guide to Tapered Music Transitions in Premiere Pro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-premier-screen-recording-software-roundup-for-2024/"><u>[Updated] The Premier Screen Recording Software Roundup for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-innovative-methods-to-archive-lol-dueling/"><u>2024 Approved Innovative Methods to Archive LOL Dueling</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-smart-8-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Smart 8 Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside/"><u>In 2024, The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transforming-your-vision-into-stunning-hdr-portraits/"><u>In 2024, Transforming Your Vision Into Stunning HDR Portraits</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-facebook-live-presentations-with-manycam-assistance-and-faqs-for-seamless-streaming/"><u>Mastering Facebook Live Presentations with ManyCam: Assistance & FAQs for Seamless Streaming</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/reimagine-personal-storytelling-on-snapchat-access-a-library-of-over-120-ideas-to-stand-out/"><u>Reimagine Personal Storytelling on Snapchat Access a Library of Over 120 Ideas to Stand Out</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-your-dying-light-auditory-glitch-easily-with-our-troubleshooting-steps/"><u>Resolve Your Dying Light Auditory Glitch Easily with Our Troubleshooting Steps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-blueprint-to-dominate-with-your-spotify-ad-campaign-for-2024/"><u>The Blueprint to Dominate With Your Spotify Ad Campaign for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-selection-of-christian-streaming-sites-for-2024/"><u>The Ultimate Selection of Christian Streaming Sites for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-best-top-9-gamers-hubs-for-2024/"><u>Unlock the Best Top 9 Gamers' Hubs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlined-method-windows-clown-fish-audio-tweaker/"><u>[New] Streamlined Method Windows Clown Fish Audio Tweaker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-vectors-demystified-starting-point-and-software-selection-tips/"><u>[New] Vectors Demystified Starting Point & Software Selection Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-convert-youtube-videos-to-gifs-no-download/"><u>[Updated] 2024 Approved How to Convert YouTube Videos to GIFs [No Download]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-community-resource-playing-games-without-limits/"><u>[Updated] Community Resource Playing Games without Limits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-metaverse-and-multiplemetaverse-explained-key-contrasts-highlighted/"><u>[Updated] The Metaverse & MultipleMetaverse Explained Key Contrasts Highlighted</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unearthing-the-potential-of-htc-vive-for-immersive-gaming/"><u>[Updated] Unearthing the Potential of HTC Vive for Immersive Gaming</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-30-second-guide-to-fast-fortnite-graphics/"><u>2024 Approved 30-Second Guide to Fast Fortnite Graphics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-art-of-capturing-stories-gopro-hero5-black-in-focus/"><u>2024 Approved The Art of Capturing Stories GoPro Hero5 Black in Focus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-free-top-ranked-image-overlays-for-androidandios/"><u>2024 Approved Ultimate FREE Top-Ranked Image Overlays for Android&iOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-volume-decrease-effects-within-audacity/"><u>2024 Approved Utilizing Volume Decrease Effects Within Audacity</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-v29-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo V29 Without PUK Codes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/introducing-the-simplified-audio-experience-of-sonos-new-s2-app-but-dont-overlook-these-key-limitations-zdnet/"><u>Introducing the Simplified Audio Experience of Sonos' New S2 App - But Don't Overlook These Key Limitations | ZDNET</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-the-copyright-symphony-of-instagrams-sounds-for-2024/"><u>Navigating the Copyright Symphony of Instagram's Sounds for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/solving-your-printout-problem-expert-tips-on-unjamming-stuck-paper-from-printers-guidance-by-yl-computing/"><u>Solving Your Printout Problem: Expert Tips on Unjamming Stuck Paper From Printers - Guidance by YL Computing</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/wie-man-dvd-dateien-effizient-in-digitale-videoformate-unter-windows-11-und-macos-konvertiert/"><u>Wie Man DVD-Dateien Effizient in Digitale Videoformate Unter Windows 11 Und macOS Konvertiert</u></a></li>
 </ul></div>
 

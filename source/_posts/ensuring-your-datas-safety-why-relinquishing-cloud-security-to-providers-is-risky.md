@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Your Data's Safety: Why Relinquishing Cloud Security to Providers Is Risky"
-date: 2024-09-19 16:44:35
-updated: 2024-09-20 11:15:56
+date: 2024-12-26T16:54:43.229Z
+updated: 2024-12-27T16:14:44.570Z
 tags:
   - cloud
 categories:
@@ -96,6 +96,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fcloud-security-is-too-important-to-leave-to-cloud-providers%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fcloud-security-is-too-important-to-leave-to-cloud-providers%2F "Twitter") 
@@ -105,6 +109,10 @@ Direct LinkEmbed Code
 Close Modal Dialog
 
 As cloud rises to encompass to more corporate applications, data and processes, there's potential for end-users to outsource their security to providers as well. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -164,11 +172,31 @@ The latest CSA report highlights this year's leading concerns:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-maximizing-impact-with-tailored-youtube-cards-and-ends/"><u>[New] 2024 Approved Maximizing Impact with Tailored Youtube Cards and Ends</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-seamless-shift-an-introduction-to-crossfades/"><u>[New] The Seamless Shift An Introduction to Crossfades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-tiktok-experience-with-new-user-numbers/"><u>[New] Transform Your TikTok Experience with New User Numbers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>[New] Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-shrinking-or-enlarging-images-on-your-iphone-effortlessly-for-2024/"><u>[Updated] Shrinking or Enlarging Images on Your iPhone Effortlessly for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-smart-shopping-guide-to-best-5k-screens-8/"><u>2024 Approved Smart Shopping Guide to Best 5K Screens #8</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-steps-to-restore-obs-fullscreen/"><u>2024 Approved Steps to Restore OBS Fullscreen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-choice-of-steadicams-for-drone-video-shootings/"><u>2024 Approved Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/thumbnail-extract-from-youtube-videos-today/"><u>Free Thumbnail Extract From YouTube Videos Today!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-taking-command-with-custom-character-sounds-in-free-fire-no-expense-involved/"><u>In 2024, Taking Command with Custom Character Sounds in Free Fire - No Expense Involved</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-raw-footage-an-in-depth-guide-to-applying-lut-filters-in-obs-studio/"><u>In 2024, Transforming Raw Footage An In-Depth Guide to Applying LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-audio-potential-pazeras-free-tool-review/"><u>In 2024, Unleash Your Audio Potential Pazera's Free Tool Review</u></a></li>
+<li><a href="https://win11.techidaily.com/re-engaging-lost-lan-discovery-on-windows/"><u>Re-Engaging Lost LAN Discovery on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-prime-picks-best-storytelling-channels-fans-for-2024/"><u>The Prime Picks Best Storytelling Channels Fans for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1726221516879-wavogg-movavi/"><u>무료 인터넷 속 WAV/OGG 코어 변환기 - Movavi 제공</u></a></li>
+</ul></div>
+

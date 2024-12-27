@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity with Todoist: Tips for Effectively Repeating and Completing Tasks | Strategies From ZDNet"
-date: 2024-09-18 20:59:38
-updated: 2024-09-20 10:59:36
+date: 2024-12-21T17:32:13.476Z
+updated: 2024-12-27T17:14:20.767Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/9677cfb407c0d837c9cc1690f7cf05a933d33e50f
 ## Boost Your Productivity with Todoist: Tips for Effectively Repeating and Completing Tasks | Strategies From ZDNet
 
 In my [recently updated productivity guide](https://www.zdnet.com/article/my-top-productivity-tools-and-tricks-for-managing-my-daily-workflow/), I showed how I use [Todoist](https://todoist.com/) to keep track of my to-do items. But if you've had one of those days where you blast through your to-do items, how can you review what you did? And if you have certain tasks that repeat regularly, how can you have Todoist help you manage those? That's what we'll talk about in this article. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -24,6 +28,10 @@ In any case, what about to-do? As it turns out, it's to-do (with a dash). How do
 That said, the name of the product we're looking at today is conspicuously dashless. Such is the chaotic state of the world today.
 
 **Also:** [**My top productivity tools and tricks for managing my daily workflow (2022 edition)**](https://www.zdnet.com/article/my-top-productivity-tools-and-tricks-for-managing-my-daily-workflow/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to see tasks you've completed 
 
@@ -42,6 +50,10 @@ These are mine so far today:
 Notice that one of the tasks I completed is called "Banks and Bills." I wrote a whole article on that practice, explaining that it's [the single best way to protect yourself against credit card fraud](https://www.zdnet.com/article/the-single-best-way-to-protect-yourself-against-credit-card-fraud/). It's worth a read.
 
 If you want to print that task list to turn it in to your boss, click on your profile icon and hit print. That's all there is to it. You can also save the print as a PDF and email that to your manager. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to repeat tasks 
 
@@ -91,11 +103,33 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-tips-to-find-more-filters-for-free-instagrams-hidden-power/"><u>[New] 2024 Approved Tips to Find More Filters for Free Instagram's Hidden Power</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-budget-conscious-skydrive-keepers-mass-file-basket-savings/"><u>[New] Budget-Conscious Skydrive Keepers Mass File Basket Savings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-power-of-personal-branding-in-making-money-on-snapchat/"><u>[New] In 2024, The Power of Personal Branding in Making Money on Snapchat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-mastery-of-video-sharing-a-guide-to-utilizing-zoom-on-the-youtube-platform/"><u>[New] Mastery of Video Sharing A Guide to Utilizing Zoom on the YouTube Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-playbook-for-watching-live-world-class-cricket-games/"><u>[New] The Ultimate Playbook for Watching Live, World-Class Cricket Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tropical-tango-toucan/"><u>[New] Tropical Tango Toucan</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uniting-sight-and-sound-perfecting-videography-voiceovers/"><u>[New] Uniting Sight & Sound Perfecting Videography Voiceovers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-public-domain-paintings-insights-and-links/"><u>[New] Unveiling Public Domain Paintings Insights & Links</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-inspire-your-recruitment-process-with-pioneering-tapes-for-2024/"><u>[Updated] Inspire Your Recruitment Process with Pioneering Tapes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-alchemy-of-aesthetics-top-1-written-by-an-experienced-graphic-designer/"><u>[Updated] The Alchemy of Aesthetics Top 1 Written by an Experienced Graphic Designer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-subtle-techniques-for-edgenuity-free-study-time/"><u>2024 Approved Subtle Techniques for Edgenuity-Free Study Time</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo S18 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-harmonizing-media-effective-techniques-to-combine-multiple-audio-files-in-videos/"><u>In 2024, Harmonizing Media Effective Techniques to Combine Multiple Audio Files in Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-motorola-razr-40-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Motorola Razr 40 Is Unlocked</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-meme-master-tracking-jake-pauls-youtube-evolution/"><u>In 2024, Meme Master Tracking Jake Paul's YouTube Evolution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-responds-to-chip-performance-issues-with-additional-two-year-warranty-on-current-core-processor-generations/"><u>Intel Responds to Chip Performance Issues with Additional Two-Year Warranty on Current Core Processor Generations</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-four-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Top Four Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-tones-expert-chromatic-conversion-for-2024/"><u>Transformative Tones Expert Chromatic Conversion for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-zooms-potential-by-leveraging-skype-for-2024/"><u>Unlocking Zoom's Potential by Leveraging Skype for 2024</u></a></li>
+</ul></div>
+

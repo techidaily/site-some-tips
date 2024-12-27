@@ -1,7 +1,7 @@
 ---
 title: Malaysia Set to Boost Tech Sector with $2 Billion Google Datacenter & Cloud Expansion Project
-date: 2024-09-19 21:33:33
-updated: 2024-09-20 12:57:41
+date: 2024-12-20T17:23:34.273Z
+updated: 2024-12-27T17:36:28.810Z
 tags:
   - cloud
 categories:
@@ -66,11 +66,29 @@ Google has also been providing on-site AI training and materials to students age
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-path-to-perfected-morphvox-control/"><u>[New] The Ultimate Path to Perfected MorphVOX Control</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-writers-journey-through-podcast-production/"><u>[New] The Writer's Journey Through Podcast Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-aquatic-enhancements-for-gopro-footage/"><u>[New] Ultimate Aquatic Enhancements for GoPro Footage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spotlight-the-premier-5-online-title-crafters/"><u>[Updated] Spotlight The Premier 5 Online Title Crafters</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-newcomer-needs-efficient-purchases-of-monetizing-platforms/"><u>2024 Approved Newcomer Needs Efficient Purchases of Monetizing Platforms</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ideal-gaming-displays-top-5-ps5-edition-for-2024/"><u>Ideal Gaming Displays Top 5 (PS5 Edition) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagram-your-complete-guide-to-making-a-mark-with-reels/"><u>In 2024, Mastering Instagram Your Complete Guide to Making a Mark With Reels</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ustream-overview-plus-similar-services/"><u>In 2024, Ustream Overview + Similar Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-case-for-high-dynamic-range-in-modern-videography-for-2024/"><u>The Case for High Dynamic Range in Modern Videography for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-tiktok-content-with-elite-ring-lights-of-2eighteen-a-comprehensive-guide-for-creators-siliconspectrum/"><u>Upgrade Your TikTok Content with Elite Ring Lights of 2Eighteen: A Comprehensive Guide for Creators | SiliconSpectrum</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

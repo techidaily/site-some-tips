@@ -1,7 +1,7 @@
 ---
 title: "Cloud Adoption Skyrockets: Unveiling Its Environmental Impact - Insights From ZDNet"
-date: 2024-09-19 12:44:31
-updated: 2024-09-20 11:46:16
+date: 2024-12-24T17:13:29.737Z
+updated: 2024-12-27T16:25:14.227Z
 tags:
   - cloud
 categories:
@@ -25,6 +25,10 @@ Now it's certainly the case that the cloud helps enable a fairly low-carbon foot
 
 Before attempting to determine how green the cloud is, it's worth revisiting just what exactly the 'cloud' is. This somewhat cryptic tech term simply refers to computing services delivered over the internet. That definition covers everything from applications like Instagram or Google Search to foundational computing services like processing power and data storage. Companies can decide to manage their digital operations on their own servers (typically in an on-premises data center) or via a cloud provider like Google Cloud, Amazon Web Services or Microsoft Azure. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More data doesn't equal more energy consumption
 
 Given the way the digital economy has exploded over the past two decades, it'd be easy to assume that the cloud's carbon footprint has also spiked. Luckily, that's not the case. 
@@ -32,6 +36,10 @@ Given the way the digital economy has exploded over the past two decades, it'd b
 Research published in 2020 found that the [computing output of data centers increased 550%](https://science.sciencemag.org/content/367/6481/984) between 2010 and 2018\. However, energy consumption from those data centers grew just 6%. As of 2018, data centers consumed about 1% of the world's electricity output. 
 
 The tech industry has managed to keep its energy consumption requirements in check by making huge energy efficiency improvements, as well as taking a range of other strategic moves. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cloud vs data centers
 
@@ -46,6 +54,10 @@ But mostly organizations aren't moving to make their operations more sustainable
 **Also:** [**Tech for a sustainable future: The challenges and opportunities ahead**](https://www.zdnet.com/home-and-office/sustainability/tech-for-a-sustainable-future-the-challenges-and-opportunities-ahead/)
 
 One major reason service providers could run more efficiently, he says, is simply that their infrastructure is newer and more efficient. Many existing corporate data centers are 30 or 40 years old, meaning they aren't taking advantage of more recent gains in energy efficiency.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Renewable energy
 
@@ -71,6 +83,10 @@ Source: Google
 
 "There's still more work to do," she says. "It's going to be much more regional -- how do we talk with regional stakeholders and utilities as they try to change the grids?"
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where is your cloud running? 
 
 Location is an important aspect to consider for anyone trying to assess just how 'green' a specific cloud is, as Trexier suggests. Some of Google's data centers, in places such as Finland, Toronto and Iowa, have a CFE% above 90\. Others, such as data centers in Singapore, Jakarta and South Carolina, are closer to 10% or 20%. 
@@ -86,6 +102,10 @@ Meanwhile, in places like the US South, Texier says there are fewer options for 
 "Big picture right now, there's a lot of demand for renewable energy, not just from Google, but from a lot of corporations," she says.
 
 "It's really been a booming market, which on one side is is really helpful to accelerate the deployment of more renewable energy. On the other side, what we are realizing now is that the needs of deployment of clean energy and renewable energy cannot be met with the current processes that we have."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting more efficient
 
@@ -118,11 +138,24 @@ Meanwhile, cloud providers are running workloads more efficiently as they design
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/levate-your-videos-with-these-proven-seo-tools-for-more-clicks/"><u>[New] Elevate Your Videos with These Proven SEO Tools for More Clicks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-monitor-match-up-recommendations-for-top-tier-xbox-sx-experience/"><u>[New] Ultimate Monitor Match-Up Recommendations for Top-Tier Xbox SX Experience</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-live-streaming-capture-services-for-2024/"><u>[Updated] Live-Streaming Capture Services for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-dji-phantom-3-a-complete-technical-review/"><u>[Updated] Unveiling DJI Phantom 3 A Complete Technical Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-becoming-a-professional-editor-mastering-final-cut-pro/"><u>2024 Approved Becoming a Professional Editor Mastering Final Cut Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-an-instagram-empire-in-just-nine-simple-steps/"><u>Building an Instagram Empire in Just Nine Simple Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-easy-way-to-craft-your-digital-self-in-virtual-worlds/"><u>In 2024, The Easy Way to Craft Your Digital Self in Virtual Worlds</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oneplus-11-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with OnePlus 11 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-50plus-overlays-for-engaging-media-content-for-2024/"><u>Top 50+ Overlays for Engaging Media Content for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-unknown-challenge-facing-southwest-airlines-are-you-informed-as-a-traveler/"><u>Unveiling the Unknown Challenge Facing Southwest Airlines – Are You Informed as a Traveler?</u></a></li>
+</ul></div>
+

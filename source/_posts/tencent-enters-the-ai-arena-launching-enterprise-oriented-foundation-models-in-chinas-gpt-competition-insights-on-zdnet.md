@@ -1,7 +1,7 @@
 ---
 title: "Tencent Enters the AI Arena: Launching Enterprise-Oriented Foundation Models in China's GPT Competition - Insights on ZDNet"
-date: 2024-09-19 14:37:36
-updated: 2024-09-20 12:59:39
+date: 2024-12-23T16:07:29.686Z
+updated: 2024-12-27T17:35:55.950Z
 tags:
   - cloud
 categories:
@@ -80,11 +80,34 @@ Generative AI service providers also assume legal responsibility for the informa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-couch-to-chart-topper-skyrocketing-your-channels-views/"><u>[New] 2024 Approved From Couch to Chart-Topper Skyrocketing Your Channel's Views</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-guide-audio-free-video-recording-methods/"><u>[New] 2024 Approved Guide Audio-Free Video Recording Methods</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-mix-of-youtube-and-instagram-feeds/"><u>[New] 2024 Approved The Ultimate Mix of YouTube & Instagram Feeds</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-depth-exploration-of-theta-s-capabilities/"><u>[New] In-Depth Exploration of Theta S Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-strategy-for-superior-videos-with-vce-22/"><u>[New] The Ultimate Strategy for Superior Videos with VCE 2.2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-plugins-list-after-effects-edition/"><u>2024 Approved Ultimate Plugins List After Effects Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-note-50-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Note 50 To Phone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-11x-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme 11X 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-online-learning-downloading-youtube-srt-subtitles-using-3-simple-methods/"><u>In 2024, Streamline Your Online Learning Downloading YouTube SRT Subtitles Using 3 Simple Methods</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-financial-scale-of-mr-beast/"><u>In 2024, The Financial Scale of Mr. Beast</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-spots-for-boosting-youtube-videos/"><u>In 2024, Top-Ranked Spots for Boosting YouTube Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-performance-how-to-address-and-fix-starfields-cpu-intensive-problems/"><u>Optimizing Performance: How to Address and Fix Starfield's CPU Intensive Problems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-driven-patient-recovery-paths-for-2024/"><u>Tech-Driven Patient Recovery Paths for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-role-of-crossfade-in-modern-music-mixing-for-2024/"><u>The Role of Crossfade in Modern Music Mixing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/title-genius-a-comprehensive-guide-for-2024/"><u>Title Genius A Comprehensive Guide for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

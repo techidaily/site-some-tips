@@ -1,7 +1,7 @@
 ---
 title: Exploring Tencent's Strategic Approach in the Metaverse & Silent Stance on ChatGPT Developments | Tech Insights
-date: 2024-09-18 12:28:48
-updated: 2024-09-20 11:28:53
+date: 2024-12-23T17:36:10.393Z
+updated: 2024-12-27T16:15:29.747Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ Further development in Web3 will lead to more diverse applications, such as the 
 
 Pointing to the metaverse, he said Tencent's experience in online games and communication services spanning text, audio, video, and 3D, will be a competitive advantage. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Tencent Cloud pledges SEA expansion with launch of Indonesia data centre](https://www.zdnet.com/article/tencent-cloud-pledges-sea-expansion-with-launch-of-indonesia-data-centre/)
@@ -61,11 +65,29 @@ Pointing to the metaverse, he said Tencent's experience in online games and comm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-streaming-masterminds-choice-go-with-pmix-or-castpro/"><u>[New] Streaming Masterminds' Choice Go with PMix or CastPro?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-downloading-and-enjoying-ifunny-memes/"><u>[New] The Complete Guide to Downloading and Enjoying iFunny Memes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-standard-edition-review-of-djis-drone-model-3/"><u>[Updated] The Standard Edition Review of DJI's Drone Model 3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-live-soundscape-websites/"><u>[Updated] Ultimate Live Soundscape Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unraveling-the-metaverse-an-analysis-of-6-complex-instances/"><u>[Updated] Unraveling the Metaverse An Analysis of 6 Complex Instances</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-pixlr-essentials-10-pro-tips-to-transform-your-images/"><u>2024 Approved Pixlr Essentials 10 Pro Tips to Transform Your Images</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-record-google-meet-for-2024/"><u>How to Record Google Meet for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-cutting-edge-tech-tweaks-to-maximize-srs-efficiency/"><u>In 2024, Cutting-Edge Tech Tweaks to Maximize SRS Efficiency</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 15</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kid-friendly-top-devices-expert-reviews-of-the-safest-and-most-durable-smartphones/"><u>Kid-Friendly Top Devices: Expert Reviews of the Safest & Most Durable Smartphones</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-windows-10-atheros-wi-fi-driver-refresh-techniques/"><u>Mastering Windows 10: Atheros Wi-Fi Driver Refresh Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-practices-to-personalize-snapchat-video-playback-for-2024/"><u>Top Practices to Personalize Snapchat Video Playback for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-resolving-the-issue-of-humanitys-delayed-takeoff/"><u>Troubleshooting Tips: Resolving the Issue of Humanity's Delayed Takeoff</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/windows-10-photos-guide-snatching-stills-from-video-footage-for-2024/"><u>Windows 10 Photos Guide Snatching Stills From Video Footage for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Beyond a Single Tweet: The Case for Diversified Presence on Twitter, Featured by ZDNet"
-date: 2024-09-19 13:49:28
-updated: 2024-09-20 11:38:57
+date: 2024-12-25T16:57:08.185Z
+updated: 2024-12-27T16:36:24.250Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 So I'm not going to take the "[Let's all quit Twitter](https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Let's%20all%20quit%20Twitter%22%7D)" viewpoint, or "[Elon Musk should be prohibited from buying Twitter](https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Elon%20Musk%20should%20be%20prohibited%20from%20buying%20Twitter%22%7D)" standpoint, or even the "[Twitter is going to hell in a neoconservative handbasket](https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Twitter%20is%20going%20to%20hell%20in%20a%20neoconservative%20handbasket%22%7D)" perspective. 
 
 But we should examine why we care about Twitter at all. It serves an important function, as an instantaneous publicly viewable broadcast message bus, for individuals, brands, governments, and everything in-between. But it also has many weaknesses, including that it is not a public good -- it is a corporation, and if Elon Musk gets his way, it will be again a privately owned one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Twitter
 
@@ -87,11 +91,33 @@ The time is now. Let's build a better internet together.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-frame-it-right-vertical-video-mastery-with-final-cut-pro-x/"><u>[New] In 2024, Frame It Right Vertical Video Mastery with Final Cut Pro X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-mi-drone-4k-experience/"><u>[New] The Ultimate Guide to Mi Drone 4K Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tutorial-on-stopping-automatic-youtube-video-prefaces/"><u>[New] Tutorial on Stopping Automatic YouTube Video Prefaces</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-venture-into-virtuality-comprehensively-reviewing-top-10-vr-streamers/"><u>[New] Venture Into Virtuality Comprehensively Reviewing Top 10 VR Streamers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-video-enlargement-on-youtube/"><u>[Updated] Mastering Video Enlargement on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-text-tips-enhancing-image-descriptions-for-pcmac-users/"><u>[Updated] Text Tips Enhancing Image Descriptions for PC/Mac Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-tips-for-zoom-on-chrome-devices/"><u>[Updated] Top Tips for Zoom on Chrome Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-videos-with-simple-inshot-techniques/"><u>[Updated] Transform Your Videos with Simple Inshot Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-how-to-use-luts-from-color-grading-central-to-color-grading-for-movies/"><u>2024 Approved How to Use Luts From Color Grading Central to Color Grading for Movies</u></a></li>
+<li><a href="https://win11.techidaily.com/blueprint-for-dominance-in-windows-appbrowser-arena/"><u>Blueprint for Dominance in Windows' App/Browser Arena</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensuring-optimal-performance-downloading-the-right-dell-inspiron-15-drivers-for-windows-10-systems/"><u>Ensuring Optimal Performance: Downloading the Right Dell Inspiron 15 Drivers for Windows 10 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-dota-underlord-from-constant-crashing-solutions-explored/"><u>How to Stop Dota Underlord From Constant Crashing - Solutions Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-virtual-realms-of-meta-and-omni/"><u>In 2024, Unveiling the Virtual Realms of Meta and Omni</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/peek-inside-how-do-vr-headsets-connect-in-2024/"><u>Peek Inside How Do VR Headsets Connect, In 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/perfecting-nature-pics-on-iphone-ultimate-photography-guide/"><u>Perfecting Nature Pics on iPhone Ultimate Photography Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-call-issues-on-your-android-device-a-comprehensive-guide/"><u>Solving Call Issues on Your Android Device – A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-windows-11-on-fresh-storage/"><u>Step-by-Step Guide: Setting Up Windows 11 on Fresh Storage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swiftly-upload-to-twitter-premium-video-convertors-guide-for-2024/"><u>Swiftly Upload to Twitter Premium Video Convertors Guide for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/winx-mediatrans/"><u>WinX MediaTrans オーダーガイド - 価格、支払い方法、および正規購入手順</u></a></li>
+</ul></div>
+

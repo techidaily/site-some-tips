@@ -1,7 +1,7 @@
 ---
 title: "Introducing Canonical's Latest Innovation: A Revolutionary Low-Touch Open Source Cloud Platform - ZDNet"
-date: 2024-09-17 21:16:45
-updated: 2024-09-20 11:17:10
+date: 2024-12-25T16:03:03.802Z
+updated: 2024-12-27T17:06:17.500Z
 tags:
   - cloud
 categories:
@@ -66,11 +66,33 @@ Read more about Canonical's MicroCloud from the [official GitHub page](https://g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-15-film-enhancing-luts-for-gopro-cameras/"><u>[Updated] In 2024, Top 15 Film-Enhancing LUTs for GoPro Cameras</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-finding-the-perfect-pitch-discover-no-cost-voice-alteration-apps/"><u>2024 Approved Finding the Perfect Pitch Discover No-Cost Voice Alteration Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-reducing-shakiness-on-your-gopro-movie/"><u>2024 Approved The Ultimate Guide to Reducing Shakiness on Your GoPro Movie</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-6-iphone-tools-for-erasing-unwanted-items-in-images/"><u>2024 Approved Top 6 iPhone Tools for Erasing Unwanted Items in Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-zoom-potential-3-secrets-to-superior-video-changes/"><u>2024 Approved Unlock Zoom Potential 3 Secrets to Superior Video Changes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-7-thrilling-new-capabilities-of-googles-bard-ai-revealed-at-io-2023/"><u>Discover the 7 Thrilling New Capabilities of Google's BARD AI Revealed at IO 2023</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-a59-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo A59 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-audiencier-names-with-top-ai-tools/"><u>In 2024, Transforming Audiencier Names with Top AI Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726029433486-mp4h264/"><u>MP4形式への変換：H.264ビデオファイルの効率的な変換手順</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-master-plugins-for-final-cut-pro-for-2024/"><u>Top 10 Master Plugins for Final Cut Pro for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-20-free-unlicensed-pubg-screenshot-compilations-for-2024/"><u>Top 20 Free Unlicensed PUBG Screenshot Compilations for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solutions-for-a-non-functioning-corsair-hs35-mic-on-windows-systems/"><u>Troubleshooting and Solutions for a Non-Functioning Corsair HS35 Mic on Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-trick-to-stop-all-future-windows-11-update-installations/"><u>Ultimate Trick to Stop All Future Windows 11 Update Installations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unifying-online-collaboration-tools-skype-and-zoom-for-2024/"><u>Unifying Online Collaboration Tools Skype & Zoom for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/king-youtubes-full-potential-advanced-banner-strategies-for-2024/"><u>Unlocking YouTube's Full Potential Advanced Banner Strategies for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

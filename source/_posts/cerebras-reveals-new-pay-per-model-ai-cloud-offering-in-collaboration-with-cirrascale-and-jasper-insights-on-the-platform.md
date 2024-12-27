@@ -1,7 +1,7 @@
 ---
 title: Cerebras Reveals New Pay-Per-Model AI Cloud Offering in Collaboration with Cirrascale and Jasper - Insights on the Platform
-date: 2024-09-17 15:53:52
-updated: 2024-09-20 10:22:36
+date: 2024-12-23T16:00:31.343Z
+updated: 2024-12-27T16:57:56.145Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Cerebras says a partnership with Cirrascale will give researchers access to clus
 Cerebras Systems
 
 Artificial intelligence computer maker Cerebras Systems, which has built chips and computers, and now makes [super-computers dedicated to speeding up deep learning](https://www.zdnet.com/article/ai-challenger-cerebras-assembles-modular-supercomputer-andromeda-to-speed-up-large-language-models/), on Tuesday announced services to speed the use of very large language models that are becoming increasing popular for not only research but also commercial use. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -106,11 +110,27 @@ Both announcements were made on the occasion of the 36th annual Neural Informati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elite-7-dslr-options-superior-for-professional-videography-for-2024/"><u>[New] Elite 7 DSLR Options Superior for Professional Videography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-headline-for-job-searches/"><u>[New] Tailoring Your Headline for Job Searches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-6-premium-video-translation-tools/"><u>2024 Approved Top 6 Premium Video Translation Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-free-editing-sites-your-gateway-to-flawless-visual-content-creation-for-2024/"><u>Best Free Editing Sites - Your Gateway to Flawless Visual Content Creation for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/french-social-grace-understanding-and-using-different-salutations/"><u>French Social Grace: Understanding and Using Different Salutations</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-samsung-cf591-is-it-a-top-contender-for-gamers/"><u>In-Depth Analysis of the Samsung CF591 – Is It a Top Contender for Gamers?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syma-x8c-feature-analysis-for-2024/"><u>Syma X8C Feature Analysis for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-pioneering-project-by-elon-musk/"><u>The Pioneering Project by Elon Musk</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209864195-9780692157671-the-way-and-the-spirit/"><u>The Way and the Spirit | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-parent-approved-internet-safety-tools/"><u>Top 8 Parent-Approved Internet Safety Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-unifying-your-epic-games-profiles/"><u>Ultimate Guide: Unifying Your Epic Games Profiles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-iphones-potential-for-dynamic-shots-for-2024/"><u>Unleashing iPhone’s Potential for Dynamic Shots for 2024</u></a></li>
+</ul></div>
+

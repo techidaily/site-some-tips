@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Significant Obstacles: The Technology Shift for Small Enterprises Featured by ZDNet"
-date: 2024-09-17 18:43:55
-updated: 2024-09-20 12:17:50
+date: 2024-12-26T17:04:32.638Z
+updated: 2024-12-27T17:05:25.878Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/0994f11e3b98aa050445b83a923c27f3f286a1f53
 Encouraged by recent successes, small businesses are rushing to [exploit cloud computing](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) like never before – and it's a trend that's set to continue as they look for further digital transformation.
 
 Such is the strength of the shift to the cloud that Laurie McCabe, co-founder and partner at tech analyst SMB Group, suggests on-demand IT might be one of the few areas of tech spending where small businesses are at least keeping pace with their enterprise counterparts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -79,6 +83,10 @@ Trustpilot CISO Stu Hirst says his organisation makes heavy use of on-demand IT 
 
 "That's incredibly powerful for the speed at which we do things. You can then embed guardrails through that process, so security is embedded and there's a set of boundaries within which people can work."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Further reading on SMB Technology essentials:
 
 * **[Small business tech outlook: Here are the challenges and opportunities ahead](https://www.zdnet.com/article/small-business-tech-outlook-challenges-and-opportunities-ahead/)**
@@ -93,11 +101,31 @@ Trustpilot CISO Stu Hirst says his organisation makes heavy use of on-demand IT 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-path-to-effective-marketing-best-practices-for-health-promos/"><u>[New] The Path to Effective Marketing Best Practices for Health Promos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-creativity-in-iphone-videography-8-best-practices/"><u>[New] Unleashing Creativity in iPhone Videography 8 Best Practices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-hero5-black-vs-hero5-the-duel-for-durability/"><u>[Updated] In 2024, Hero5 Black vs Hero5, The Duel for Durability</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-iphones-path-to-film-retrospection-for-2024/"><u>[Updated] IPhone's Path to Film Retrospection for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-cutting-edge-of-vid-extraction-top-5-free-fast-pinterest-tools/"><u>[Updated] The Cutting Edge of Vid Extraction Top 5 Free, Fast Pinterest Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-years-finest-photo-framers-and-organizers-compilation/"><u>[Updated] The Year's Finest Photo Framers & Organizers Compilation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-code-to-content-creator-commerce-with-carminati-ajay/"><u>[Updated] Unlocking the Code to Content Creator Commerce with Carminati (AJay)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-capture-the-essence-of-your-favorite-series-with-these-extractors/"><u>2024 Approved Capture the Essence of Your Favorite Series with These Extractors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-technicalities-of-podcast-rss-file-design/"><u>2024 Approved The Technicalities of Podcast RSS File Design</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-g54-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola G54 5G FRP</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/immediate-help-for-windows-11-printer-problems/"><u>Immediate Help for Windows 11 Printer Problems</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-from-disjointed-elements-to-a-cohesive-tiktok-narrative/"><u>In 2024, From Disjointed Elements to a Cohesive TikTok Narrative</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-y200e-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Y200e 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-z-flip-5-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy Z Flip 5 Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-free-templates-for-engaging-presentations-and-slideshows/"><u>In 2024, Top 10 Free Templates for Engaging Presentations and Slideshows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-exploring-youtube-comments-for-2024/"><u>The Essential Guide to Exploring YouTube Comments for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-ustreams-offerings-and-opponents-for-2024/"><u>Unveiling Ustream's Offerings and Opponents for 2024</u></a></li>
+</ul></div>
+

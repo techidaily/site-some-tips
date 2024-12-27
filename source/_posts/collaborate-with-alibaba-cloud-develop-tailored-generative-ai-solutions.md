@@ -1,7 +1,7 @@
 ---
 title: "Collaborate with Alibaba Cloud: Develop Tailored Generative AI Solutions"
-date: 2024-09-18 21:33:45
-updated: 2024-09-20 10:35:41
+date: 2024-12-24T17:37:10.203Z
+updated: 2024-12-27T17:05:59.335Z
 tags:
   - cloud
 categories:
@@ -45,6 +45,10 @@ Tongyi Qianwen already powers more than 10 functions on Alibaba's online collabo
 
 Tongyi Qianwen has both Chinese and English language capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Significant price cuts to cloud services
 
 The partnership program was launched at Alibaba Cloud's annual partners summit in Nanjing this week, where the vendor also unveiled price cuts to its core products and services. Ranging from 15% to 50%, the fee adjustments mark the biggest price reduction to date; however, only its customers in China will benefit from the cuts. 
@@ -84,11 +88,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-deciphering-the-multifaceted-nature-of-mixed-reality-for-2024/"><u>[New] Deciphering the Multifaceted Nature of Mixed Reality for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-from-syncing-to-capturing-a-complete-itunes-journey/"><u>[New] From Syncing to Capturing A Complete iTunes Journey</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-streamline-your-media-save-vimeo-to-mp4/"><u>[New] In 2024, Streamline Your Media Save Vimeo to MP4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-vlc-features-in-mac-os/"><u>[New] The Ultimate Guide to VLC Features in Mac OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-instagram-image-addition-playbook/"><u>[Updated] The Instagram Image Addition Playbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tonal-treasures-the-ultimate-list-of-classical-download-sites/"><u>[Updated] Tonal Treasures The Ultimate List of Classical Download Sites</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-elite-6-urban-home-structures-in-minecraft/"><u>2024 Approved Elite 6 Urban Home Structures in Minecraft</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/compatibility-of-flipbuilder-created-ebooks-with-apples-ipad-a-comprehensive-guide/"><u>Compatibility of FlipBuilder Created eBooks with Apple's iPad: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-free-your-pc-unsetting-the-security-pin-in-windows-nvme-10/"><u>How To Free Your PC: Unsetting the Security PIN in Windows Nvme 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-google-pixel-8-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Google Pixel 8 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-crafting-the-core-plotline/"><u>In 2024, Crafting the Core Plotline</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-drone-vr-integration-guide/"><u>In 2024, Ultimate Drone-VR Integration Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/selecting-sacred-melodies-a-christian-ringtones-compendium-for-2024/"><u>Selecting Sacred Melodies A Christian Ringtones Compendium for 2024</u></a></li>
+</ul></div>
+

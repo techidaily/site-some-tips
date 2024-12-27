@@ -1,7 +1,7 @@
 ---
 title: Struggling with Oversized Google Drive Files? Discover How This Handy Tool Saved the Day - A ZDNet Recommendation
-date: 2024-09-17 10:47:34
-updated: 2024-09-20 12:23:34
+date: 2024-12-22T17:23:20.683Z
+updated: 2024-12-27T17:38:42.983Z
 tags:
   - cloud
 categories:
@@ -41,6 +41,10 @@ But even then, I still face the problem I described above -- how much storage is
 
 Fortunately, while Google doesn't offer a solution, a developer named Brett Batie in Traverse City, MI has come up with a solution. It's called [Filerev](https://filerev.com/) and it does just what you would have expected Google Drive to do. It answers questions and helps manage vast amounts of data. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Understanding (or not understanding) current storage utilization 
 
 When we [last encountered this issue](https://www.zdnet.com/article/the-other-shoe-finally-dropped-on-my-google-enterprise-cloud-storage-plan/), I was trying to optimize my storage utilization, so that it didn't grow beyond its new 75TB bounds. 
@@ -72,6 +76,10 @@ As for the Details pane (pain?), it doesn't contain any data about size at all. 
 Screenshot by David Gewirtz/ZDNET
 
 So, how on Earth can I determine how much storage I am using in each of my folders? We're talking about an enterprise account with 58TB of storage. And yet, there's no visibility into storage utilization. It's not just bizarre, it's deeply inconvenient. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Say hello to Filerev 
 
@@ -123,6 +131,10 @@ As it turns out, that storage category accounts for all my virtual machines. And
 
 It won't be easy to trim down those VM syncs, but it's definitely something I can look at, because I know a bunch of those VMs are very obsolete. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Final thoughts 
 
 I made a few interesting discoveries. My Cloud Backup share isn't the villain I thought it was. That honor goes to the Liberty Backups folder. Second, the biggest category of storage is my storage of old VMs. That's a homework assignment I need to follow up on to clear out more space. 
@@ -143,11 +155,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-superior-applications-for-image-driven-video-creation/"><u>[New] Superior Applications for Image-Driven Video Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-transformations-in-vegaspro-19/"><u>[Updated] Understanding the Transformations in VegasPro '19</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unleashing-your-brand-potential-with-advanced-insights-on-instagram-data/"><u>[Updated] Unleashing Your Brand Potential with Advanced Insights on Instagram Data</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-fourfold-path-to-blurring-iphone-images/"><u>2024 Approved The Fourfold Path to Blurring iPhone Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-and-install-virtualdub-for-mac-a-comprehensive-tutorial/"><u>Download & Install VirtualDub for Mac - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimize-capture-smooth-screenshots-with-dell-models/"><u>In 2024, Optimize Capture Smooth Screenshots with Dell Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-iphone-virtual-reality-games-to-beat-your-high-scores/"><u>In 2024, Top 10 iPhone Virtual Reality Games to Beat Your High Scores</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-smooth-ocean-footage-proven-film-makers-methods/"><u>In 2024, Unlocking Smooth Ocean Footage Proven Film-Maker's Methods</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-affordable-and-effective-1byone-amplified-tv-antenna-for-indoors/"><u>In-Depth Analysis of the Affordable and Effective 1Byone Amplified TV Antenna for Indoors</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-video-and-image-sharing-on-fb-mini-hd-tips/"><u>Maximizing Video & Image Sharing on FB Mini: HD Tips</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-secrets-for-tiktok-live-studio-success/"><u>New In 2024, Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-lava-blaze-2-pro-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Lava Blaze 2 Pro ? Fix It Easily | Dr.fone</u></a></li>
+</ul></div>
+

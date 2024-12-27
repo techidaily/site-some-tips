@@ -1,7 +1,7 @@
 ---
 title: "CIQ Emerges as Key Patron for Rocky Linux: Inside Story of Veteran Developers' Support | Featured on ZDNet"
-date: 2024-09-17 23:20:38
-updated: 2024-09-20 12:32:19
+date: 2024-12-25T16:59:44.741Z
+updated: 2024-12-27T16:40:37.931Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,29 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-strategies-for-effortless-insertion-of-videos-into-youtube-compilations/"><u>[New] Strategies for Effortless Insertion of Videos Into YouTube Compilations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-youtube-video-trapping-best-practices-explored/"><u>[New] YouTube Video Trapping Best Practices Explored</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-masterclass-in-digital-animation-the-art-of-creating-gifs/"><u>[Updated] 2024 Approved Masterclass in Digital Animation The Art of Creating GIFs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-seamless-blend-inserting-music-into-fb-video-posts/"><u>[Updated] Seamless Blend Inserting Music Into FB Video Posts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-smooth-srt-exports-post-premiere/"><u>2024 Approved Strategies for Smooth SRT Exports Post-Premiere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-nights-reign-black-vs-the-dawns-duty-silver/"><u>2024 Approved The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-role-of-asmr-in-improving-mental-clarity/"><u>2024 Approved The Role of ASMR in Improving Mental Clarity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-qanda-on-quantum-hdr-technology/"><u>In 2024, The Essential Q&A on Quantum HDR Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creativity-learning-snapseeds-power-tools/"><u>In 2024, Unleash Creativity Learning Snapseed's Power Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/record-speech-review-content/"><u>Record Speech, Review Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-mail-calendar-on-windows-using-chosen-images/"><u>Revamp Mail, Calendar on Windows Using Chosen Images</u></a></li>
+<li><a href="https://video-capture.techidaily.com/soundquality-synopsis-for-2024/"><u>SoundQuality Synopsis for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-instructions-creating-new-browser-windows-instead-of-tabs-in-the-android-version-of-google-chrome/"><u>Step-by-Step Instructions: Creating New Browser Windows Instead of Tabs in the Android Version of Google Chrome</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-world-of-premium-banners-for-media-for-2024/"><u>Unlocking the World of Premium Banners for Media for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-professionals-method-for-soundless-iphone-video-editing/"><u>Updated In 2024, The Professionals Method for Soundless iPhone Video Editing</u></a></li>
+</ul></div>
+

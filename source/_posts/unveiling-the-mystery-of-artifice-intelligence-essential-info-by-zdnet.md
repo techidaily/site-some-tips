@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Mystery of Artifice Intelligence: Essential Info by ZDNet"
-date: 2024-09-19 13:53:44
-updated: 2024-09-20 12:40:58
+date: 2024-12-22T16:45:38.291Z
+updated: 2024-12-27T17:43:18.371Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc
 ![gettyimages-1888972727](https://www.zdnet.com/a/img/resize/ada36a8ca094a512f972578b7b4742f38ac90b5c/2024/05/28/95683789-ebda-4272-964e-ce5d1a5a000f/gettyimages-1888972727.jpg?auto=webp&width=1280)
 
 Weiquan Lin/Getty Images
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is artificial intelligence?
 
@@ -81,6 +85,10 @@ Suppose you wanted to train an ML model to recognize and differentiate images of
 
 The algorithm would then learn from this labeled collection of images to distinguish the shapes and their characteristics: in this case, circles don't have corners, and squares have four equal-length sides. The system can then see a new image and determine the shapes. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Unsupervised learning**
 
 By contrast, unsupervised learning lets algorithms try to identify patterns in unlabeled data by looking for similarities that it can use to categorize the data. 
@@ -112,6 +120,10 @@ ANI is sometimes called weak AI, as it doesn't possess general intelligence. But
 ChatGPT is also an example of ANI, as it is programmed to perform a specific task: generate text responses to prompts it's given.
 
 **Also: [Microsoft Copilot Pro vs. OpenAI's ChatGPT Plus](https://www.zdnet.com/article/microsoft-copilot-pro-vs-openais-chatgpt-plus-which-is-worth-your-20-a-month/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is general AI?
 
@@ -171,6 +183,10 @@ Since then, DeepMind has created [AlphaFold](https://deepmind.google/technologie
 
 **Also: [What is generative AI and why is it so popular? Here's everything you need to know](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are large language models?
 
 A predominant example of AI is large language models (LLMs). These models use unsupervised machine learning and are trained on massive amounts of text to learn how human language works. Tech companies often scrape these texts from the internet for free to keep costs down -- they include articles, books, content from websites and forums, and [more](https://www.zdnet.com/article/openai-and-reddit-have-struck-a-deal-to-train-chatgpt-on-your-posts-heres-what-it-means-for-you/).
@@ -188,6 +204,10 @@ OpenAI's recently released GPT-4o tops the Chatbot Arena leaderboard as of now. 
 > GPT-4o is #1 in English, German, and Spanish. Gemini-1.5-Pro is #1 in Japanese, Chinese, and French. Claude-3 Opus is #1 in Russian. The competition is tight, and we need… [pic.twitter.com/RlNqh0XmMM](https://t.co/RlNqh0XmMM)
 > 
 > — lmsys.org (@lmsysorg) [June 3, 2024](https://twitter.com/lmsysorg/status/1797690251999350875?ref%5Fsrc=twsrc^tfw)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are neural networks?
 
@@ -215,6 +235,10 @@ Deep learning models tend to have more than three layers at least and can have h
 
 Because deep learning technology can learn to recognize complex patterns in data using AI, it is often used in natural language processing (NLP), speech recognition, and image recognition.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is conversational AI?
 
 Conversational AI refers to systems programmed to have conversations with a user and are trained to listen (input) and respond (output) in a conversational manner. Conversational AI uses NLP to understand and respond naturally.
@@ -239,6 +263,10 @@ Here are some common examples of AI available to the public, both free and for a
 
 **Also:** [**The best free AI courses (and whether AI 'micro-degrees' and certificates are worth it)**](https://www.zdnet.com/article/the-best-free-ai-courses/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What company is leading the AI race?
 
 With [generative AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) taking off, several companies are working competitively in the space -- both legacy tech firms and startups. While each is developing too quickly for there to be a static leader, here are some of the major players. 
@@ -248,6 +276,10 @@ With [generative AI](https://www.zdnet.com/article/what-is-generative-ai-and-why
 Unsurprisingly, OpenAI has made a huge impact in AI after making its powerful generative AI tools available for free, including ChatGPT and [Dall-E 3](https://openai.com/index/dall-e-3/), an AI image generator.
 
 **Also: [Have 10 hours? IBM will train you in AI fundamentals - for free](https://www.zdnet.com/article/have-10-hours-ibm-will-train-you-in-ai-fundamentals-for-free/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Anthropic   
 
@@ -279,6 +311,10 @@ Microsoft has also invested heavily in OpenAI's development. The tech giant uses
 
 Apple has also entered the space most recently with its AI-upgraded [line of iPads](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/) and potential [new announcements](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-openai-microsoft-and-google-at-wwdc-2024/) to come at WWDC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Other companies
 
 Other firms are making strides in artificial intelligence, including [Baidu](https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/), [Alibaba](https://www.zdnet.com/article/alibaba-cloud-hops-on-chatgpt-bandwagon-offers-ai-model-to-customers/), [Cruise](https://www.zdnet.com/article/gm-cruise-automated-cars-are-under-federal-investigation-for-hard-braking-stranding-passengers/), [Lenovo](https://www.zdnet.com/article/lenovo-plans-to-add-12000-new-hires-to-r-d-team-in-the-next-three-years/), [Tesla](https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/), and more.
@@ -304,6 +340,10 @@ Neural networks can be used to realistically replicate someone's voice or likene
 Because AI makes automation so easy on a large scale, researchers and tech employees share concerns about its role in [weapons manufacturing](https://www.zdnet.com/article/despite-dall-e-military-pitch-openai-maintains-its-tools-wont-be-used-to-develop-weapons/) and warfare. 
 
 **Also: [The ethics of generative AI: How we can harness this powerful technology](https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will an AI steal your job?
 
@@ -340,11 +380,31 @@ There is a broad range of opinions among AI experts about how quickly artificial
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tale-bearers-school-distinguished-dothee/"><u>[New] Tale Bearers School - Distinguished Dothee</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-2022-winter-games-zenith-of-snowboard-cross/"><u>[New] The 2022 Winter Games Zenith of Snowboard Cross</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-photosegments-evaluation/"><u>[Updated] 2024 Approved PhotoSegments Evaluation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-srt-primer-for-enthusiasts/"><u>[Updated] The Ultimate SRT Primer for Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-visual-journey-of-iphone-photos-with-leading-lines/"><u>[Updated] The Visual Journey of iPhone Photos with Leading Lines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transcription-and-task-execution-on-the-go-fee-free/"><u>[Updated] Transcription and Task Execution on the Go – Fee-Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-guide-to-gopro-max-or-hero-11/"><u>[Updated] Ultimate Guide to GoPro Max or Hero 11?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-youtubes-hidden-gems-the-comment-space/"><u>[Updated] Unveiling YouTube's Hidden Gems The Comment Space</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-bumper-buddies-bonanza-for-youths/"><u>2024 Approved Bumper Buddies Bonanza for Youths</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-xiaomi-14-ultra-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Xiaomi 14 Ultra to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-covert-creativity-easy-photo-fixes-for-starters/"><u>In 2024, Covert Creativity Easy Photo Fixes for Starters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-path-to-larger-video-presentation-in-youtube/"><u>In 2024, The Path to Larger Video Presentation in YouTube</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/pcdj-demo-mastery-of-beat-matching-feature-in-dj-software-automated-mixes-video-guide/"><u>PCDJ Demo: Mastery of Beat-Matching Feature in DJ Software Automated Mixes - Video Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-tutorial-on-how-to-change-an-ogv-video-into-a-gif-format-with-the-most-effective-converters-online/"><u>Step-by-Step Tutorial on How to Change an OGV Video Into a GIF Format with the Most Effective Converters Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-12-gif-creation-tools-for-mac-users-discover-the-ideal-recorder/"><u>Top 12 GIF Creation Tools for Mac Users: Discover the Ideal Recorder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-value-dome-cams-affordable-360-filmmaking-tools-for-2024/"><u>Top Value Dome Cams Affordable 360° Filmmaking Tools for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/unable-to-locate-pages-often-seen-as-404-in-browsers/"><u>Unable To Locate Pages - Often Seen as '404' In Browsers</u></a></li>
+</ul></div>
+

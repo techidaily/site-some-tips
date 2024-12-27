@@ -1,7 +1,7 @@
 ---
 title: "Fast-Track Innovation: Executive Calls to Action for IT Departments - Insights From ZDNet"
-date: 2024-09-18 21:49:36
-updated: 2024-09-20 11:20:12
+date: 2024-12-26T17:35:57.376Z
+updated: 2024-12-27T17:26:56.252Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/e72d3325cc82dd8ab836962e9def246da610dd4ef
 ![A woman touching a futuristic digital display.](https://www.zdnet.com/a/img/resize/f5721c59883284cd25da5bca36a57280621cec63/2022/09/07/867baa95-e405-4e2b-a0e6-3dc9ef55c6f5/a-woman-touching-a-futurisitic-digital-display.jpg?auto=webp&width=1280)
 
 Oscar Wong/Getty
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -85,11 +89,33 @@ The digital core has become "a primary source of competitive advantage," Sweet a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-synchronizing-mac-writers-flows-efficiently-with-mixer/"><u>[New] Synchronizing Mac' Writers' Flows Efficiently With Mixer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-roadmap-for-successful-online-brand-collaborations-on-youtube/"><u>[New] The Roadmap for Successful Online Brand Collaborations on Youtube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-list-for-first-time-film-makers-35mm-to-pands-for-2024/"><u>[New] The Ultimate List for First-Time Film Makers (35Mm to P&S) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-strategy-to-seamlessly-upload-srt-subtitles-online/"><u>[New] The Ultimate Strategy to Seamlessly Upload SRT Subtitles Online</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-evaluating-pixelsnaps-latest-recording-software/"><u>[Updated] Evaluating PixelSnap's Latest Recording Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-best-8-screenshot-and-video-editing-tools-for-phones/"><u>[Updated] The Best 8 Screenshot & Video Editing Tools for Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-kinemaster-potential-how-to-engage-and-top-alternatives-compared/"><u>[Updated] Unlocking KineMaster Potential How To Engage and Top Alternatives Compared</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-innovative-title-generators-for-youtube-visionaries/"><u>2024 Approved Innovative Title Generators for YouTube Visionaries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-smart-users-guide-to-enhancing-technology/"><u>2024 Approved The Smart User's Guide to Enhancing Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-sound-architects-guide-to-memo-mastery/"><u>2024 Approved The Sound Architect's Guide to Memo Mastery</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-guide-to-what-is-bing-by-microsoft/"><u>A Comprehensive Guide to What Is Bing by Microsoft</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-crop-and-color-correct-with-this-lists-top-5-android-apps-for-2024/"><u>Capture, Crop, and Color-Correct with This List's Top 5 Android Apps for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/craft-perfection-transforming-your-vhs-graphics-online-for-2024/"><u>Craft Perfection Transforming Your VHS Graphics Online for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gaming-giants-unite-blizzard-microsoft-and-the-future-of-ai-artistry-podcast-series/"><u>Gaming Giants Unite: Blizzard, Microsoft & The Future of AI Artistry [Podcast Series]</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-best-android-and-ios-apps-for-monitoring-big-day-timers/"><u>In 2024, Unveiling the Best Android & iOS Apps for Monitoring Big Day Timers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/innovative-design-meets-functionality-a-detailed-examination-of-the-tt-dl16-from-taotronics/"><u>Innovative Design Meets Functionality: A Detailed Examination of the TT-DL16 From TaoTronics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-android-games-funimate-pro-apk-deep-dive-for-2024/"><u>Unlock Android Games - Funimate Pro APK Deep Dive for 2024</u></a></li>
+</ul></div>
+

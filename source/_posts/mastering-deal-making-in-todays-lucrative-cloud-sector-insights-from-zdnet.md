@@ -1,7 +1,7 @@
 ---
 title: Mastering Deal-Making in Today's Lucrative Cloud Sector - Insights From ZDNet
-date: 2024-09-17 21:48:30
-updated: 2024-09-20 12:39:55
+date: 2024-12-22T17:07:53.206Z
+updated: 2024-12-27T16:58:09.099Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Photo: Joe McKendrick
 Last month, it was [disclosed](https://www.nextgov.com/emerging-tech/2022/04/nsa-re-awards-secret-10-billion-contract-amazon/366184/) that the National Security Agency re-awarded a massive and hotly contested cloud computing contract worth up to $10 billion to Amazon Web Services. 
 
 One can assume a large government agency procuring $10 billion of cloud services has quite a bit of leverage over the terms of the agreement. However, for mainstream companies, the opposite may be true -- the cloud provider holds many of the cards, in a legal or contractual sense, with terms that may come back to bite the consumer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -59,11 +63,31 @@ Cloud engagements are now the lifeblood of forward-looking enterprises seeking t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tiktok-linking-made-simple-and-irreversible/"><u>[New] TikTok Linking Made Simple and Irreversible</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-benq-sw320-review-a-gateway-to-true-high-definition/"><u>[Updated] 2024 Approved BenQ SW320 Review A Gateway to True High Definition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-x-voice-sync-studio-windows-version/"><u>[Updated] 2024 Approved X-Voice Sync Studio, Windows Version</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-next-step-in-virtual-reality-jaunt-vr-review/"><u>[Updated] The Next Step in Virtual Reality Jaunt VR Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-color-spaces-srgb-vs-rgb/"><u>2024 Approved Understanding Color Spaces Srgb vs Rgb</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/defending-against-mitm-exploits-strategies-for-identifying-and-securing-your-network/"><u>Defending Against MITM Exploits: Strategies for Identifying and Securing Your Network</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embracing-the-night-sky-with-iphone-lengthy-exposures/"><u>Embracing the Night Sky with iPhone Lengthy Exposures</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 13 Pro Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-huawei-nova-y91-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Huawei Nova Y91 Phone that is Locked?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-role-of-burst-mode-in-action-sports-filming/"><u>In 2024, The Role of Burst Mode in Action Sports Filming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-professional-iphoneipad-podcast-production/"><u>In 2024, The Ultimate Guide to Professional iPhone/iPad Podcast Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>In 2024, Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/m06s-bluetooth-excellence-a-sonic-review-insight/"><u>M06's Bluetooth Excellence - A Sonic Review Insight</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/precise-techniques-for-shifting-macscreenshot-filetype-for-2024/"><u>Precise Techniques for Shifting MacScreenshot Filetype for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online-for-2024/"><u>Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-selecting-high-performance-fpv-drone-propellers-for-2024/"><u>The Complete Guide to Selecting High-Performance FPV Drone Propellers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-system-restore-failure-on-windows-11-with-error-code-0x80070091/"><u>Troubleshooting and Correcting System Restore Failure on Windows 11 with Error Code 0X80070091</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Tencent Cloud Amps Up in Virtual Realms; Remains Quiet on Adapting to ChatGPT | ZDNet Insights
-date: 2024-09-19 12:48:32
-updated: 2024-09-20 10:14:49
+date: 2024-12-20T16:13:30.326Z
+updated: 2024-12-27T16:48:06.632Z
 tags:
   - cloud
 categories:
@@ -47,6 +47,10 @@ Further development in Web3 will lead to more diverse applications, such as the 
 
 Pointing to the metaverse, he said Tencent's experience in online games and communication services spanning text, audio, video, and 3D, will be a competitive advantage. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Tencent Cloud pledges SEA expansion with launch of Indonesia data centre](https://www.zdnet.com/article/tencent-cloud-pledges-sea-expansion-with-launch-of-indonesia-data-centre/)
@@ -61,11 +65,31 @@ Pointing to the metaverse, he said Tencent's experience in online games and comm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/0-best-cost-free-subtitle-grabs-from-youtube-for-2024/"><u>[New] 10 Best Cost-Free Subtitle Grabs From YouTube for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-green-visual-sets-accessibility-to-diy-filmmaking-templates-for-2024/"><u>[New] Green Visual Sets Accessibility to DIY Filmmaking Templates for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-video-backgrounds-teammeeting-blurring-guide-for-2024/"><u>[Updated] Mastering Video Backgrounds TeamMeeting Blurring Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlined-processes-for-exporting-video-assets-as-mp3-on-pinterest/"><u>[Updated] Streamlined Processes for Exporting Video Assets as MP3 on Pinterest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-elite-list-15-high-quality-unboxing-vids-of-2024/"><u>[Updated] The Elite List 15 High-Quality Unboxing Vids of 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-high-definition-slow-mo-cams/"><u>[Updated] Ultimate High Definition Slow-Mo Cams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-tv-streaming-guide-international-and-regional-channels/"><u>[Updated] Ultimate TV Streaming Guide International & Regional Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-smooth-scene-transitions-with-premieres-fades/"><u>2024 Approved Smooth Scene Transitions with Premiere's Fades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tailoring-recording-techniques-in-audacity-for-professionals/"><u>2024 Approved Tailoring Recording Techniques in Audacity for Professionals</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discords-solution-for-in-game-music-and-sound-effects-accessibility/"><u>Discord's Solution for In-Game Music and Sound Effects Accessibility</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m34-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M34 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-practices-to-personalize-snapchat-video-playback/"><u>In 2024, Top Practices to Personalize Snapchat Video Playback</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 12</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-of-jaunt-vr/"><u>In 2024, Unveiling the Secrets of Jaunt VR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/newest-anker-chargers-perfect-add-ons-for-your-upcoming-iphone-purchase-tips-and-reviews-techradar/"><u>Newest Anker Chargers: Perfect Add-Ons for Your Upcoming iPhone Purchase - Tips & Reviews | TechRadar</u></a></li>
+<li><a href="https://article-helps.techidaily.com/sleep-well-with-asmr-techniques-and-tips-for-2024/"><u>Sleep Well with ASMR Techniques and Tips for 2024</u></a></li>
+</ul></div>
+

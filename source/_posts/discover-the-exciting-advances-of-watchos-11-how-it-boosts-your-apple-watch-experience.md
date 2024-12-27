@@ -1,7 +1,7 @@
 ---
 title: Discover the Exciting Advances of WatchOS 11 - How It Boosts Your Apple Watch Experience
-date: 2024-12-17T00:21:13.962Z
-updated: 2024-12-21T18:55:35.848Z
+date: 2024-12-24T16:45:47.861Z
+updated: 2024-12-27T17:34:16.375Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -57,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -84,6 +84,10 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. AI-fueled productivity apps
 
 Screenshot by Nina Raemont
@@ -97,7 +101,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -110,10 +114,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -125,7 +125,7 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -162,15 +162,18 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-ditching-the-undesired-backdrop-the-path-less-cluttered/"><u>[Updated] 2024 Approved Ditching the Undesired Backdrop The Path Less Cluttered</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-synching-worlds-instagram-to-tiktok-essentials/"><u>[Updated] Synching Worlds Instagram to TikTok Essentials</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transforming-industries-via-vr/"><u>[Updated] Transforming Industries via VR</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-techniques-for-azure-speech-to-text-use/"><u>Advanced Techniques for Azure Speech to Text Use</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/beginners-cheatsheet-for-fantastic-collage-making/"><u>Beginner's Cheatsheet for Fantastic Collage Making</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138587982-9781452533339-clear-channel/"><u>Clear Channel | Free Book</u></a></li>
-<li><a href="https://article-tips.techidaily.com/crafting-seamless-audiovisual-mixes-in-audacity/"><u>Crafting Seamless Audiovisual Mixes in Audacity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-of-display-technology-with-eizos-high-res-monitor-for-2024/"><u>The Future of Display Technology with EIZO's High-Res Monitor for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-seamless-ocean-footage-with-these-7-hacks-for-2024/"><u>Unlocking Seamless Ocean Footage with These 7 Hacks for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-syncing-sound-with-sight-a-comprehensive-walkthrough-to-enhance-video-content-for-2024/"><u>Updated Syncing Sound with Sight A Comprehensive Walkthrough to Enhance Video Content for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-boosting-instagram-video-speed-onlinemobile/"><u>[New] In 2024, Boosting Instagram Video Speed Online/Mobile</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-streaming-showdown-is-streamlabs-or-obs-your-best-choice-in-2024/"><u>[New] Streaming Showdown Is Streamlabs or OBS Your Best Choice, In 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-6-tech-for-subtitle-creation-in-video/"><u>[New] Ultimate 6 Tech for Subtitle Creation in Video</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-az-capture-tool-full-app-testing-and-options-guide/"><u>[Updated] In 2024, AZ Capture Tool Full App Testing & Options Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-get-and-set-up-microsofts-xp-video-editor-installer/"><u>2024 Approved Get & Set Up Microsoft's XP Video Editor Installer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrated-sound-and-vision-workspace/"><u>2024 Approved Integrated Sound & Vision Workspace</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-mastering-access-free-picturing-content-streams/"><u>2024 Approved Mastering Access Free Picturing Content Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-blueprint-adding-professional-effects-to-your-videos/"><u>2024 Approved The Complete Blueprint Adding Professional Effects to Your Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-path-to-success-starts-on-screen-10-must-see-films/"><u>2024 Approved The Path to Success Starts on Screen 10 Must-See Films</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/efficient-techniques-for-fast-high-definition-conversion-from-ts-to-mp4/"><u>Efficient Techniques for Fast, High-Definition Conversion From .TS to MP4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-topic-titling-artisans-assistant/"><u>In 2024, Topic Titling Artisan's Assistant</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unwind-twitch-feeds-immediately/"><u>In 2024, Unwind Twitch Feeds Immediately</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/language-interpreter-extraordinaire-chatgpts-core-functionality/"><u>Language Interpreter Extraordinaire: ChatGPT's Core Functionality</u></a></li>
 </ul></div>
 

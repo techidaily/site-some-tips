@@ -1,7 +1,7 @@
 ---
 title: Linux Veterans Back CIQ as Premier Partner for Rocky Linux Launch | In-Depth Technology Review
-date: 2024-09-18 11:22:15
-updated: 2024-09-20 10:31:46
+date: 2024-12-25T17:19:35.694Z
+updated: 2024-12-27T16:00:21.287Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,30 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-guide-to-xbox-screen-recording-techniques/"><u>[New] In 2024, Essential Guide to Xbox Screen Recording Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe/"><u>[New] Tips and Tricks for Streamlining Color Grading with LUTs in Adobe</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fix-missing-fb-watch-icon-quick-guide-for-2024/"><u>[Updated] Fix Missing FB Watch Icon - Quick Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-prime-image-hoarders-destination-list/"><u>[Updated] Prime Image Hoarders' Destination List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x/"><u>[Updated] Unveiling Mastery The Ultimate Animoji Guide for iPhone X</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-action-camera-gear-reviewed-by-hunters/"><u>In 2024, Best Action Camera Gear Reviewed by Hunters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-asus-rog-phone-7-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Asus ROG Phone 7 Phone Pattern Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/istruzioni-complete-sulla-tecnica-cinematografica-13-strategie-chiave-da-applicare-a-qualsiasi-scenografia-ripresa/"><u>Istruzioni Complete Sulla Tecnica Cinematografica: 13 Strategie Chiave Da Applicare a Qualsiasi Scenografia Ripresa</u></a></li>
+<li><a href="https://extra-support.techidaily.com/make-your-own-meme-now-for-2024/"><u>Make Your Own Meme Now for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-recovering-secrets-from-apples-macos-keychain-utility/"><u>Step-by-Step Tutorial on Recovering Secrets From Apple's macOS Keychain Utility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-writers-journey-through-podcast-production-for-2024/"><u>The Writer's Journey Through Podcast Production for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-iphone-users-converting-standard-speed-to-slow-scenes-for-2024/"><u>Tips for iPhone Users Converting Standard Speed to Slow Scenes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-traffic-cams-for-superior-vehicle-tracking-for-2024/"><u>Top 10 Traffic Cams for Superior Vehicle Tracking for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-viewership-elevate-your-live-stream-game-with-just-a-few-supporters-for-2024/"><u>Transform Viewership Elevate Your Live Stream Game with Just a Few Supporters for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-shorts-decoding-the-income-distribution-model/"><u>YouTube Shorts Decoding the Income Distribution Model</u></a></li>
+</ul></div>
+

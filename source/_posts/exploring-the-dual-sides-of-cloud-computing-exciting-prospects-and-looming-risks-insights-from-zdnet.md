@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Dual Sides of Cloud Computing: Exciting Prospects & Looming Risks | Insights From ZDNet"
-date: 2024-09-18 23:27:26
-updated: 2024-09-20 12:51:43
+date: 2024-12-23T16:20:52.893Z
+updated: 2024-12-27T17:36:23.459Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 Image: Getty Images/Maskot
 
 Shifting applications and infrastructure over to [cloud computing services](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) can make life easier in some ways, it doesn't automatically mean you can give up all responsibility for keeping your organisations's data secure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -87,11 +91,29 @@ Developing the right security posture is hard: some companies worry about sophis
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-mastering-photo-aesthetics-the-essence-of-luts/"><u>[New] In 2024, Mastering Photo Aesthetics The Essence of LUTs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-visual-brilliance-the-ultimate-10-list-for-mac-monitors/"><u>[New] In 2024, Visual Brilliance The Ultimate #10 List for Mac Monitors</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unlock-new-dimensions-in-tiktok-videos-through-exquisite-bg-selection/"><u>[New] Unlock New Dimensions in TikTok Videos Through Exquisite BG Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ushering-bliss-into-your-unboxing-experience/"><u>[New] Ushering Bliss Into Your Unboxing Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-guide-to-drone-racing-plus-high-speed-fpv-drones/"><u>[Updated] The Complete Guide to Drone Racing + High-Speed FPV Drones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-checklist-for-efficiently-uploading-tracks-on-youtube/"><u>[Updated] The Ultimate Checklist for Efficiently Uploading Tracks on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-6-premium-background-erasers-for-photo-professionals/"><u>[Updated] Unveiling 6 Premium Background Erasers for Photo Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-quick-guide-to-innovative-voice-personalization-techniques/"><u>2024 Approved The Quick Guide to Innovative Voice Personalization Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-c110-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from C110.</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/downloading-facebook-gifs-pc-android-and-ios-guide-for-2024/"><u>Downloading Facebook GIFs PC, Android & iOS Guide for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-realme-c67-4g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Realme C67 4G to iPad | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-roadmap-to-fame-unleashing-instagrams-9-powerful-techniques/"><u>In 2024, The Roadmap to Fame Unleashing Instagram's #9 Powerful Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994482531-pathfinder-wrath-of-the-righteous-no-more-issues-smooth-gaming-experience-on-pc/"><u>Pathfinder: Wrath of the Righteous - No More Issues, Smooth Gaming Experience on PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-for-lengthening-gopros-electric-life-for-2024/"><u>Strategies for Lengthening GoPro's Electric Life for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sh-your-youtube-earnings-a-triad-approach-to-financial-examination-and-analysis-for-2024/"><u>Unleash Your YouTube Earnings A Triad Approach to Financial Examination and Analysis for 2024</u></a></li>
+</ul></div>
+

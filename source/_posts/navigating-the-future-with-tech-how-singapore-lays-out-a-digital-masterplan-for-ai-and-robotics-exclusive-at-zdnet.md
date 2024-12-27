@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Future with Tech: How Singapore Lays Out a Digital Masterplan for AI and Robotics | Exclusive at ZDNET"
-date: 2024-09-19 21:32:36
-updated: 2024-09-20 11:21:21
+date: 2024-12-25T16:20:12.867Z
+updated: 2024-12-27T17:40:16.908Z
 tags:
   - cloud
 categories:
@@ -43,6 +43,10 @@ There also will be initiatives in other nascent areas, such as quantum computing
 
 The government agency said plans are in place to [pilot quantum-safe networks](https://www.zdnet.com/article/singapore-to-build-quantum-safe-network-for-critical-infrastructure-trials/) and quantum-as-a-service applications for commercial customers. "Known as the National Quantum Safe Network Plus (NQSN+), this will allow us to test, innovate and push the boundaries on both technical and commercial deployments," it said. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Launch of innovation center with AWS
 
 IMDA on Monday also announced its partnership with Amazon Web Services (AWS) through the launch of a joint innovation center. Pitched as a launchpad for businesses and startups in Southeast Asia, the new site houses various specialized labs, including 5G as well as augmented and virtual reality. It also has usability-testing facilities. 
@@ -76,11 +80,29 @@ Companies can use the center to develop proof-of-concepts in a sandbox environme
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-leading-ipad-audio-recorder-software-list-3/"><u>[New] 2024 Approved Leading iPad Audio Recorder Software List #3</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-account-takeover-restoring-access-in-the-new-year/"><u>[New] Account Takeover? Restoring Access in the New Year</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-rise-of-remote-therapeutic-platforms/"><u>[New] The Rise of Remote Therapeutic Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-footage-a-step-by-step-guide-to-gopros-timelapse/"><u>[New] Transforming Footage A Step-by-Step Guide to GoPro's Timelapse</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-ultimate-path-to-becoming-an-fcp-specialist/"><u>[Updated] 2024 Approved The Ultimate Path to Becoming an FCP Specialist</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-social-media-fame-on-instagram/"><u>[Updated] In 2024, Mastering Social Media Fame on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-zoom-features-on-windows-11-pcs/"><u>[Updated] Unlocking Zoom Features on Windows 11 PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-creatives-handbook-obtaining-stock-visuals-for-media/"><u>2024 Approved The Creative's Handbook Obtaining Stock Visuals for Media</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-rayman-legends-a-comprehhemous-review-of-a-stunning-2d-gaming-journey/"><u>Exploring Rayman Legends - A Comprehhemous Review of a Stunning 2D Gaming Journey</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-gt-neo-5-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme GT Neo 5 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-blend-into-the-crowd-watching-instagram-live-anonymously/"><u>In 2024, How to Blend Into the Crowd Watching Instagram Live Anonymously</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy XCover 6 Pro Tactical Edition to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveil-clearer-visuals-essential-tips-for-zooming-on-snapchat/"><u>In 2024, Unveil Clearer Visuals Essential Tips for Zooming on Snapchat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ps4-input-customization-enabling-keyboard-and-mouse-controls-for-gaming/"><u>PS4 Input Customization: Enabling Keyboard and Mouse Controls for Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-best-video-software-vlc-against-mx-for-2024/"><u>Unveiling Best Video Software VLC Against MX for 2024</u></a></li>
+</ul></div>
+

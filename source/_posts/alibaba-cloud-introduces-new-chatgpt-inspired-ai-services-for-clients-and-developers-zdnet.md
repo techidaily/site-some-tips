@@ -1,7 +1,7 @@
 ---
 title: Alibaba Cloud Introduces New ChatGPT-Inspired AI Services for Clients & Developers | ZDNet
-date: 2024-09-19 12:24:14
-updated: 2024-09-20 12:44:13
+date: 2024-12-26T16:46:53.943Z
+updated: 2024-12-27T16:17:51.831Z
 tags:
   - cloud
 categories:
@@ -41,6 +41,10 @@ The six business entities encompass: Cloud Intelligence Group; Taobao Tmall Comm
 
 Describing the move as the most significant governance overhaul in Alibaba's 24-year history, the Chinese tech giant said the restructure would place the company in a position to "capture market opportunities and further stimulate growth". 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Alibaba Cloud to build own servers with new in-house chip](https://www.zdnet.com/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/)
@@ -56,11 +60,25 @@ Describing the move as the most significant governance overhaul in Alibaba's 24-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-premier-live-streaming-platforms-revealed/"><u>[New] In 2024, Premier Live Streaming Platforms Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-smartphone-image-editing-ios-and-androids-top-picks-2e-edition/"><u>[New] In 2024, Smartphone Image Editing IOS & Android's Top Picks (2E Edition)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-taming-unwanted-shake-in-drones-visual-outputs/"><u>[New] Taming Unwanted Shake in Drones' Visual Outputs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-iphones-potential-download-itunes-radio-effortlessly/"><u>[New] Unlock iPhone's Potential Download iTunes Radio Effortlessly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-proactive-preservation-ios-photos-to-your-snap-story/"><u>[Updated] 2024 Approved Proactive Preservation IOS Photos to Your Snap Story</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-the-essence-including-dates-in-image-files/"><u>2024 Approved Capturing the Essence Including Dates in Image Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-blueprint-for-striking-image-collage/"><u>2024 Approved The Artisan's Blueprint for Striking Image Collage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-fine-tuning-snapchat-video-velocity/"><u>2024 Approved The Ultimate Guide Fine-Tuning Snapchat Video Velocity</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-gimp-software-assessment-the-ultimate-free-cross-platform-photo-tool/"><u>Comprehensive GIMP Software Assessment: The Ultimate Free Cross-Platform Photo Tool</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oneplus-ace-3-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your OnePlus Ace 3 Phone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-mastering-iphone-video-merging-techniques/"><u>In 2024, Mastering iPhone Video Merging Techniques</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Aligning for Tomorrow: How Alibaba Harnesses AI and Cloud Tech for Growth | Exclusive Analysis by ZDNet"
-date: 2024-09-17 21:19:20
-updated: 2024-09-20 10:33:53
+date: 2024-12-25T16:39:34.345Z
+updated: 2024-12-27T16:55:53.134Z
 tags:
   - cloud
 categories:
@@ -74,11 +74,34 @@ Wu also noted the value of keeping its cloud competencies alongside the developm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-chill-bites-analysis-in-depth-review-of-ice-cream-recorder/"><u>[New] In 2024, Chill Bites Analysis In-Depth Review of Ice Cream Recorder</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-enhance-virtual-interaction-top-techniques-with-zoom-video-editor/"><u>[Updated] 2024 Approved Enhance Virtual Interaction Top Techniques with Zoom Video Editor</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-boosting-your-short-form-video-content-on-youtube/"><u>[Updated] In 2024, Boosting Your Short-Form Video Content on Youtube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-subtle-soundplayback/"><u>[Updated] The Art of Subtle Soundplayback</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-quickening-your-live-feed-on-periscope-platform/"><u>2024 Approved Quickening Your Live Feed on Periscope Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-securing-and-optimizing-virtual-meetings-with-zoom-on-windows-11/"><u>2024 Approved Securing and Optimizing Virtual Meetings with Zoom on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/composing-a-price-plan-for-audio-visual-song-clips/"><u>Composing a Price Plan for Audio-Visual Song Clips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevate-with-these-top-10-igtv-experts-for-2024/"><u>Elevate with These Top 10 IGTV Experts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-solution-for-stopping-youtube-video-previews/"><u>In 2024, The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-your-lg-devices-usb-connection-problem-on-windows-10-11-and-8/"><u>Solving Your LG Device's USB Connection Problem on Windows 10, 11 & 8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers-for-2024/"><u>Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-top-tales-youtubes-best-narrative-channels-this-year-for-2024/"><u>The Top Tales YouTube’s Best Narrative Channels This Year for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-c53-by-drfone-android/"><u>Three Ways to Sim Unlock Realme C53</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-invisible-social-signals-in-online-media-for-2024/"><u>Understanding Invisible Social Signals in Online Media for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/value-capture-affordable-cam-options-for-2024/"><u>Value Capture Affordable Cam Options for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/wie-man-eine-zuverlassige-systemwiederherstellung-fur-windows-11-einrichtet/"><u>Wie Man Eine Zuverlässige Systemwiederherstellung Für Windows 11 Einrichtet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

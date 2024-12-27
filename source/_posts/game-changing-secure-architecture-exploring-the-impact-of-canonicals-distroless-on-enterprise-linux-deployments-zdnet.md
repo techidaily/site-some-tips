@@ -1,7 +1,7 @@
 ---
 title: "Game-Changing Secure Architecture: Exploring the Impact of Canonical's Distroless on Enterprise Linux Deployments | ZDNET"
-date: 2024-09-19 22:53:48
-updated: 2024-09-20 12:23:17
+date: 2024-12-25T17:12:44.342Z
+updated: 2024-12-27T16:59:55.132Z
 tags:
   - cloud
 categories:
@@ -78,11 +78,35 @@ At the same time, Canonical appears to be distancing itself from its Ubuntu bran
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-virtual-studio-compiling-the-best-dj-visuals-for-download/"><u>[New] In 2024, Virtual Studio Compiling the Best DJ Visuals for Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-least-expensive-skyvault-service-for-big-files/"><u>[Updated] The Least Expensive SkyVault Service for Big Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-art-of-podcast-rss-mastery/"><u>[Updated] Unveiling the Art of Podcast RSS Mastery</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-perfecting-your-sound-palette-with-audacity-crossfading/"><u>2024 Approved Perfecting Your Sound Palette with Audacity Crossfading</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-pioneering-editing-snapseed-for-the-newcomer/"><u>2024 Approved Pioneering Editing Snapseed for the Newcomer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creative-stories-zoom-techniques-on-snapchat/"><u>2024 Approved Unleashing Creative Stories Zoom Techniques on Snapchat</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-unleashes-stunning-oled-display-in-their-latest-laptop-a-comprehensive-review-by-a-seasoned-tech-expert/"><u>Asus Unleashes Stunning OLED Display in Their Latest Laptop: A Comprehensive Review by a Seasoned Tech Expert</u></a></li>
+<li><a href="https://video-capture.techidaily.com/bass-brilliance-new-device-overview/"><u>Bass Brilliance New Device Overview</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/decision-guide-is-getting-an-ipad-worth-it/"><u>Decision Guide: Is Getting an iPad Worth It?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-the-ultimate-guide-discover-2022s-finest-outdoor-camping-chairs-as-endorsed-by-zdnet/"><u>Explore the Ultimate Guide: Discover 2022'S Finest Outdoor Camping Chairs, as Endorsed by ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-12-pro-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and iPhone 12 Pro The Right Way</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-stealthy-sound-suppression-techniques-for-fade-out/"><u>In 2024, Stealthy Sound Suppression Techniques for Fade-Out</u></a></li>
+<li><a href="https://article-tips.techidaily.com/optimal-outlooks-ideal-laptops-to-render-hd-videos-quickly/"><u>Optimal Outlooks Ideal Laptops to Render HD Videos Quickly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-catch-up-effective-methods-for-skipping-edgenuity-courses-for-2024/"><u>Quick Catch-Up Effective Methods for Skipping Edgenuity Courses for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tap-into-the-latest-gaming-and-app-splash-of-win11-for-2024/"><u>Tap Into the Latest Gaming and App Splash of Win11 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-visual-clarity-bypassing-background-in-photopea-for-2024/"><u>Unlocking Visual Clarity Bypassing Background in Photopea for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-rtmp-streams-overcoming-premieres-export-hurdle-for-2024/"><u>Unraveling RTMP Streams Overcoming Premiere's Export Hurdle for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

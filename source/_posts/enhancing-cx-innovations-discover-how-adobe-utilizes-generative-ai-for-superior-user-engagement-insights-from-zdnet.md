@@ -1,7 +1,7 @@
 ---
 title: "Enhancing CX Innovations: Discover How Adobe Utilizes Generative AI for Superior User Engagement - Insights From ZDNet"
-date: 2024-09-18 16:42:17
-updated: 2024-09-20 10:45:22
+date: 2024-12-26T16:18:50.105Z
+updated: 2024-12-27T16:47:48.007Z
 tags:
   - cloud
 categories:
@@ -21,6 +21,10 @@ If you think [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-doe
 
 We're looking at an enormous increase in the ability of businesses to meet the unique needs of individual customers, as well as an enormous increase in the capability for businesses to target those customers with psychological and demographic precision. The application of AI to marketing and sales gives a whole new meaning to the phrase "buyer beware."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [How AI is Transforming Organizations Everywhere Some of the world's most effective organizations are putting the latest AI innovations to work in smart -- and sometimes startling -- new ways. We put the spotlight on a diverse range of organizations across different parts of the economy to see how they are automating, streamlining, and transforming the ways things are done.  Read now](https://www.zdnet.com/topic/how-ai-is-transforming-organizations-everywhere/)
@@ -30,6 +34,10 @@ Rather than [general-purpose AI tools](https://www.zdnet.com/article/best-ai-cha
 **Also:** [**The 5 best AI art generators**](https://www.zdnet.com/article/best-ai-art-generator/)
 
 We'll explore what Adobe's doing with [generative AI-driven marketing](http://news.adobe.com/news/news-details/2023/Adobe-Announces-New-Sensei-GenAI-Services-to-Reimagine-End-to-End-Marketing-Workflows/default.aspx) \-- and it's big.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Customer experience management and the buyer's brain 
 
@@ -58,6 +66,10 @@ When customers interact with your company, a lot goes on inside their heads. The
 Companies that maximize the perceived pre-benefit bring in more fresh opportunities. Companies that maximize the actual value benefit reduce support costs and create potential repeat customers. And companies that maximize the post-game engagement create champions, generate word of mouth, and turn customers into fans and enthusiasts. 
 
 That end-to-end experience -- pre, purchase, and post -- constitutes the customer experience. And, all of that brings us back to Adobe's set of announcements. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Tapping the collective zeitgeist with the customer data platform 
 
@@ -100,6 +112,10 @@ Adobe is also pushing its game forward in healthcare, financial services, B2B, a
 **Prospecting, enriching, and activating with partners:** Adobe improves Real-Time CDP with partner enrichments, Amazon Ads, TikTok, and LiveRamp integrations to solve cookieless prospecting challenges for brands. 
 
 This collection of initiatives is how the customer experience and the customer data come together. Customer interactions generate more data. Real-time analytics changes the customer experience dynamically. Wash. Rinse. Repeat. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Adobe's image and text generative AI services 
 
@@ -148,11 +164,27 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-dual-display-dominance-top-videographer-verdict/"><u>[New] Dual Display Dominance Top Videographer Verdict</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ow-often-can-creators-expect-to-be-paid-by-youtube-for-2024/"><u>[New] How Often Can Creators Expect to Be Paid by YouTube for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-solving-isolated-sound-issue/"><u>[New] Solving Isolated Sound Issue</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-playbook-youtube-gaming-success/"><u>[New] The Ultimate Playbook YouTube Gaming Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>[New] Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-efficiently-removing-youtube-channels-a-device-centric-approach/"><u>[Updated] 2024 Approved Efficiently Removing Youtube Channels A Device-Centric Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategizing-visibility-for-podcasts-through-design/"><u>[Updated] Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-10-movie-gems-to-spark-inspiration/"><u>2024 Approved Ultimate List 10 Movie Gems to Spark Inspiration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-jokes-at-your-fingertips-quickmemes-handbook/"><u>In 2024, Free Jokes at Your Fingertips – QuickMemes Handbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-narratives-yt-channels-worth-watching-in-23/"><u>In 2024, Unparalleled Narratives YT Channels Worth Watching in '23</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/iphones-strategic-move-continuous-technological-progress/"><u>IPhone's Strategic Move: Continuous Technological Progress</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secrets-of-single-stream-success-online-broadcast-tips-and-tricks-for-2024/"><u>Secrets of Single-Stream Success Online Broadcast Tips and Tricks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-key-to-accumulating-a-huge-collection-of-tiktok-videos-for-2024/"><u>The Key to Accumulating a Huge Collection of TikTok Videos for 2024</u></a></li>
+</ul></div>
+

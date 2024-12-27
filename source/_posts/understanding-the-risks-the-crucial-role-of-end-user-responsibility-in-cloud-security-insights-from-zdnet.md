@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Risks: The Crucial Role of End-User Responsibility in Cloud Security - Insights From ZDNet"
-date: 2024-09-18 18:57:34
-updated: 2024-09-20 12:49:48
+date: 2024-12-23T16:03:20.577Z
+updated: 2024-12-27T16:53:17.364Z
 tags:
   - cloud
 categories:
@@ -96,6 +96,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fcloud-security-is-too-important-to-leave-to-cloud-providers%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fcloud-security-is-too-important-to-leave-to-cloud-providers%2F "Twitter") 
@@ -105,6 +109,10 @@ Direct LinkEmbed Code
 Close Modal Dialog
 
 As cloud rises to encompass to more corporate applications, data and processes, there's potential for end-users to outsource their security to providers as well. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -164,11 +172,23 @@ The latest CSA report highlights this year's leading concerns:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-bluetooth-remotes-and-controllers-for-easy-shooting/"><u>[New] Bluetooth Remotes and Controllers for Easy Shooting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-guide-to-the-latest-tiktok-screen-art/"><u>[Updated] 2024 Approved Guide to the Latest TikTok Screen Art</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-comprehensive-path-to-instagram-riches/"><u>[Updated] The Ultimate Comprehensive Path to Instagram Riches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-mac-software-for-mkv-files/"><u>[Updated] Top 5 Mac Software for MKV Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-browsing-with-ms-edges-pip/"><u>[Updated] Transform Your Browsing with MS Edge's PIP</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ancestral-marshall-update-sleek-and-dynamic-auditory-experience/"><u>Ancestral Marshall Update: Sleek & Dynamic Auditory Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-using-obs-and-streamlabs-together-mac/"><u>In 2024, The Ultimate Guide to Using OBS and Streamlabs Together (Mac)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-creative-potential-advanced-zooming-on-snapchat/"><u>In 2024, Unlock Creative Potential Advanced Zooming on Snapchat</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagrams-updated-strategy-and-its-effects/"><u>Instagram’s Updated Strategy and Its Effects</u></a></li>
+</ul></div>
+

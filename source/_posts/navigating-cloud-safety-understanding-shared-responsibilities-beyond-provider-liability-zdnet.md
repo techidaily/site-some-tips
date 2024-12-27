@@ -1,7 +1,7 @@
 ---
 title: "Navigating Cloud Safety: Understanding Shared Responsibilities Beyond Provider Liability | ZDNET"
-date: 2024-09-18 15:52:40
-updated: 2024-09-20 12:56:47
+date: 2024-12-20T17:06:24.929Z
+updated: 2024-12-27T17:42:19.970Z
 tags:
   - cloud
 categories:
@@ -96,6 +96,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: Are you prepared for the future of AI, automation, and jobs?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fcloud-security-is-too-important-to-leave-to-cloud-providers%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fcloud-security-is-too-important-to-leave-to-cloud-providers%2F "Twitter") 
@@ -105,6 +109,10 @@ Direct LinkEmbed Code
 Close Modal Dialog
 
 As cloud rises to encompass to more corporate applications, data and processes, there's potential for end-users to outsource their security to providers as well. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -164,11 +172,28 @@ The latest CSA report highlights this year's leading concerns:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-proven-tactics-to-amplify-your-youtube-popularity/"><u>[New] In 2024, Proven Tactics to Amplify Your YouTube Popularity</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-transforming-footage-your-guide-to-ken-burns-in-camtasa-9/"><u>[New] Transforming Footage Your Guide to Ken Burns in Camtasa 9</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-avi-visionary-player-compatible-with-pcmobile/"><u>[Updated] Avi Visionary Player Compatible with PC/Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-limitless-space-choose-from-top-20-free-cloud-providers/"><u>[Updated] Unlock Limitless Space Choose From Top 20 Free Cloud Providers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-quality-video-uplift-immaculate-resolution/"><u>2024 Approved Top Quality Video Uplift Immaculate Resolution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-sources-to-harvest-enhanced-text-files/"><u>2024 Approved Top Sources to Harvest Enhanced Text Files</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/common-causes-for-unresponsive-input-devices-how-to-fix-a-mouse-or-keyboard-that-wont-work-tips-from-yl-software/"><u>Common Causes for Unresponsive Input Devices: How to Fix a Mouse or Keyboard That Won't Work | Tips From YL Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gopros-top-5-subaquatic-filter-choices/"><u>GoPro's Top 5 Subaquatic Filter Choices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-avoiding-fakes-instagram-selfie-wisdom/"><u>In 2024, Avoiding Fakes Instagram Selfie Wisdom</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-examining-instagrams-unusual-video-aspect-ratio-anomalies/"><u>In 2024, Examining Instagram's Unusual Video Aspect Ratio Anomalies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tailored-touch-up-top-6-apps-to-exclude-unwanted-elements-from-photos/"><u>In 2024, Tailored Touch-Up Top 6 Apps to Exclude Unwanted Elements From Photos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-multilingual-advantages-top-6-perks/"><u>Unlocking Multilingual Advantages: Top 6 Perks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-5-compelling-literary-video-tts-for-2024/"><u>Unveiling 5 Compelling Literary Video TTs for 2024</u></a></li>
+</ul></div>
+

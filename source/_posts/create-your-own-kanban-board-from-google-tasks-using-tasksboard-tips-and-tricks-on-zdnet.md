@@ -1,7 +1,7 @@
 ---
 title: Create Your Own Kanban Board From Google Tasks Using TasksBoard - Tips & Tricks on ZDNet
-date: 2024-09-19 19:12:54
-updated: 2024-09-20 12:31:56
+date: 2024-12-26T16:24:59.582Z
+updated: 2024-12-27T17:00:16.624Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-reddit-experts-briefly-meet-at-snapchat/"><u>[New] 2024 Approved Reddit Experts Briefly Meet at Snapchat</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-selecting-the-right-video-subscription-plan-at-vimeo/"><u>[New] 2024 Approved Selecting the Right Video Subscription Plan at Vimeo</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-2023s-ultimate-selection-of-ios-devices-for-classic-psp-games/"><u>[New] In 2024, 2023'S Ultimate Selection of iOS Devices for Classic PSP Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-transformation-of-windows-10-landscape/"><u>[New] The Transformation of Windows 10 Landscape</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-choice-elite-desktop-pcs/"><u>[New] Ultimate Choice Elite Desktop PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-10-stabilized-video-makers/"><u>[New] Ultimate Guide to 10 Stabilized Video Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tickle-tycoon-picture-builder/"><u>[Updated] Tickle Tycoon Picture Builder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-uniting-fans-anime-opening-songs-showcase/"><u>2024 Approved Uniting Fans Anime Opening Songs Showcase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unparalleled-background-music-compilation/"><u>2024 Approved Unparalleled Background Music Compilation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-visuals-through-ai-how-to-use-dall-e-alongside-chatgpt-4-for-stunning-results/"><u>Crafting Visuals Through AI: How to Use DALL-E Alongside ChatGPT-4 for Stunning Results</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-silence-a-boisterous-ps4-system-a-comprehensive-guide/"><u>How to Silence a Boisterous PS4 System: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-apex-creations-workspace-assessment/"><u>In 2024, Apex Creations Workspace Assessment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-windows-11-no-sound-step-by-step-troubleshooting-tips-and-solutions/"><u>Solve 'Windows 11 No Sound' - Step-by-Step Troubleshooting Tips and Solutions</u></a></li>
+</ul></div>
+

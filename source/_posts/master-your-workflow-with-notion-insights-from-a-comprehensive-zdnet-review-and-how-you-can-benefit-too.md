@@ -1,7 +1,7 @@
 ---
 title: "Master Your Workflow with Notion: Insights From a Comprehensive ZDNet Review and How You Can Benefit Too"
-date: 2024-09-19 20:57:24
-updated: 2024-09-20 11:26:58
+date: 2024-12-26T17:31:37.208Z
+updated: 2024-12-27T16:41:40.466Z
 tags:
   - cloud
 categories:
@@ -57,6 +57,10 @@ I also use a similar kanban table to track bug reports for the software products
 
 As you can see, I've set certain tags to specify the product associated with each bug, the urgency level of each bug, as well as the overall category. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Project wiki 
 
 Let's switch over to the page where I organize most of my coding information and notes about each project I'm coding. Here's an overview of it. Notice that there are expand/collapse arrows under most of the sections. 
@@ -71,6 +75,10 @@ For example, here's part of a page with print settings and G-code (the code that
 
 The graphics and code from that set of notes wound up in my [Creality Sermoon D1 article](https://www.zdnet.com/article/creality-sermoon-d1-review-3d-printer-under-700/) and [video](https://youtu.be/7T56N-XZPA0).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Project management database
 
 Another powerful data structure is the table. I use one to track all my assigned projects at ZDNet. 
@@ -80,6 +88,10 @@ One of the most powerful features of Notion is the way it lets you filter data i
 You can even cross-reference tables. For example, I have a set of tables that tracks overall expenses for all the cloud services we use. One table summarizes all the expenses for each category, while another table contains all the detailed information, which can then be sliced up as needed when doing cost management. 
 
 When my firm got involved in an international acquisition last year, I put together a massive table that tracked all the moving parts, had detailed notes in the various fields, and allowed us to manage the transition across continents. That was all managed in Notion. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lab notes
 
@@ -99,7 +111,15 @@ If all you need is a single pinpoint application, Notion can be cumbersome. But 
 
 Also, before I go on, I should mention that Notion does have some wind in its sails. In its [last funding round](https://www.crunchbase.com/organization/notion-so), Notion raised $275 million and has about $340 million in total investment. Its last funding round, from last fall, valued the company at $10 billion. So the services hosting your data are unlikely to be turned off anytime soon. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Ten things I like about Notion
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -173,11 +193,28 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-from-video-content-to-cash-flow-youtubes-profit-mechanics/"><u>[New] In 2024, From Video Content to Cash Flow YouTube's Profit Mechanics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-guide-to-lut-applications-in-photoshop-cs6/"><u>[New] The Essential Guide to LUT Applications in Photoshop CS6</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earning-through-youtube-navigating-revenue-without-ads/"><u>[Updated] 2024 Approved Earning Through YouTube Navigating Revenue Without Ads</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-guide-to-producing-impactful-lifestyle-motivational-content/"><u>[Updated] Guide to Producing Impactful Lifestyle Motivational Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-windows-photo-inspector-fast-edition/"><u>[Updated] Top Windows Photo Inspector, Fast Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-scenes-with-ease-your-gopro-time-lapse-guide/"><u>[Updated] Transforming Scenes with Ease Your GoPro Time-Lapse Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-speakers-guide-to-voiceover-on-microsoft-ppt/"><u>2024 Approved The Speaker's Guide to Voiceover on Microsoft PPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-time-travel-regain-control-over-streams/"><u>2024 Approved Twitch Time Travel Regain Control Over Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-audience-attention-top-6-video-styles/"><u>2024 Approved Unlock Audience Attention Top 6 Video Styles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-no-audio-issue-with-usb-headphones-on-windows-7/"><u>Fixing the No Audio Issue with USB Headphones on Windows 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-color-techniques-for-professional-visual-narratives/"><u>In 2024, Expert Color Techniques for Professional Visual Narratives</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-12-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Apple iPhone 12 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-depth-analysis-of-chatgpt-for-professionals-functionality-value-proposition-and-competitive-edge/"><u>In-Depth Analysis of ChatGPT for Professionals: Functionality, Value Proposition & Competitive Edge</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-honor-magic-v2-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Honor Magic V2 Phone</u></a></li>
+</ul></div>
+

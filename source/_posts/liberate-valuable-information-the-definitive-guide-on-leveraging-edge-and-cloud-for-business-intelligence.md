@@ -1,7 +1,7 @@
 ---
 title: "Liberate Valuable Information: The Definitive Guide on Leveraging Edge and Cloud for Business Intelligence"
-date: 2024-09-19 19:40:42
-updated: 2024-09-20 12:24:20
+date: 2024-12-24T17:04:57.593Z
+updated: 2024-12-27T17:28:07.418Z
 tags:
   - cloud
 categories:
@@ -19,6 +19,10 @@ Let's talk for a minute about data silos. Real world silos are, of course, those
 
 Servers and devices often silo data. Different machines store data, but don't necessarily share it all with other devices. Applications generate and store data, but only some might…_might_…be shared if a well-written API (application programming interface) is being used. Over time, organizations find themselves with a lot of data, but most of it is isolated, stored in separate metaphorical silos, never to be part of a larger whole.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How edge computing creates the perfect storm for data silos
 
 When it comes to enterprise networking, especially edge-to-cloud, data silos occur naturally. Every device at the edge produces data, but much of that data may remain at the device, or at the very least, the cluster of devices at that edge location. The same is true of cloud operations. Data is created and stored at many different cloud providers and, while they sometimes exchange data, most of it lives isolated from the rest of the enterprise.
@@ -28,6 +32,10 @@ When it comes to enterprise networking, especially edge-to-cloud, data silos occ
 But insights and actionable strategies come when all data across the enterprise is accessible to appropriate users and systems. Let's look at one example that might occur at [the fictional home goods retailer, Home-by-Home, we discussed previously](https://www.zdnet.com/article/digital-transformation-powered-by-edge-to-cloud-comes-to-life-in-this-scenario-of-a-big-box-retailer/).
 
 Home-by-Home sells a wall mounted lighting fixture that uses plastic brackets to affix it to the wall. Usually, it's a great seller. But in March and April every year, the company gets a flood of returns because the brackets crack. The returns are from all over the country, from Miami to Seattle. That's our first data set, and it's known to the stores themselves.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Digital Transformation
 
@@ -42,6 +50,10 @@ Neither data set is connected to the other. But [as we explored in some depth a 
 
 But by capturing all the data and making data sets available for analysis (and AI-based correlation and big data processing), insights become possible. In this case, because Home-by-Home made [digital transformation](https://www.zdnet.com/article/what-is-digital-transformation-everything-you-need-to-know-about-how-technology-is-reshaping/) part of its DNA, the company was able to make the connection between factory temperature and returns, and now customers who purchase those lighting fixtures experience far fewer failures. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Your data is everywhere, but is it actionable?
 
 This is just one example of the potential to harvest data from edge-to-cloud. There are a few key ideas here that are all interrelated. 
@@ -53,6 +65,10 @@ This is just one example of the potential to harvest data from edge-to-cloud. Th
 **Insights come when correlating multiple inputs:** While it's possible to subject a single dataset to comprehensive analysis and come up with insights, you're far more likely to see trends when you can relate data from one source to data from other sources. We earlier showed how the temperature of a factory floor has a distant, but measurable, connection to the volume of returns in stores across the nation. 
 
 **To do that, all that data needs to be accessible across your enterprise:** But those correlations and observations are only possible when analysts (both human and AI) can gain access to many sources of data to learn what stories it all tells.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Making data usable and turning it into intelligence
 
@@ -87,6 +103,10 @@ Not only that, poorly managed data can be a time sink for your professional IT s
 
 Modernizing your data not only means you can innovate, it also means you can free up your time to think instead of react. That also provides you time to deploy more applications and features that can open new horizons for your business.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Find the value and actionable insights hidden in your data
 
 The process of data modernization and adopting a data-first strategy can be challenging. Technologies like [cloud services](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) and AI can help. Cloud services can help by providing an on-demand, scale-as-needed infrastructure that can grow as more and more data is harvested. AI can help by providing tools that can sift through all that data and organizing coherently, so your specialists and line-of-business managers can take action.
@@ -116,11 +136,27 @@ That's where management and infrastructure services like HPE GreenLake and its c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-handhayer-reduction-the-top-10-cams-for-filmmaking/"><u>[New] Best Handhayer Reduction The Top 10 Cams for Filmmaking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-zoomed-details-for-team-collaboration-on-ms-teams/"><u>[New] Navigating Zoomed Details for Team Collaboration on MS Teams</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-pinnacle-top-5-ultra-light-action-camera-list-for-2024/"><u>[New] Pinnacle Top 5 Ultra-Light Action Camera List for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essence-of-interactive-virtuality/"><u>[New] The Essence of Interactive Virtuality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-3d-text-a-photoshop-technique/"><u>[Updated] Unleashing 3D Text A Photoshop Technique</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionizing-adventure-recording-with-garmin-ultra-30/"><u>2024 Approved Revolutionizing Adventure Recording with Garmin Ultra 30</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-15-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 15 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-key-to-unlocking-superior-search-engine-rankings/"><u>Cookiebot: The Key to Unlocking Superior Search Engine Rankings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12t-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12T Pro Phone FRP Lock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-secrets-of-effective-job-interview-techniques/"><u>In 2024, Unlocking the Secrets of Effective Job Interview Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-the-beyerdynamic-mmx-300-pro-outstanding-acoustics-with-a-simplistic-approach/"><u>In-Depth Evaluation of the Beyerdynamic MMX 300 Pro - Outstanding Acoustics with a Simplistic Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stream-on-the-go-youtube-via-mobile-for-understaffed-creators-for-2024/"><u>Stream on the Go YouTube via Mobile for Understaffed Creators for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/44gk5a2q44gv44kt44gm5zac44g244ov44oq44o844of44ol44o844k444od44kv44o744ki44ol44ohic0g5bplusr6ygp44gq5pig5yop5l2t6ait44ks57se5p2f44gz44kl44oa44km44oz44ot44o8485/"><u>お子さんが喜ぶフリーミュージック・アニメ - 快適な映像体験を約束するダウンロード方法</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Cerebras Introduces New Pay-Per-Use Model AI Cloud Collaboration with Cirrascale and Jasper - ZDNet Insights
-date: 2024-09-17 15:13:29
-updated: 2024-09-20 12:17:33
+date: 2024-12-26T16:17:34.494Z
+updated: 2024-12-27T17:01:52.033Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Cerebras says a partnership with Cirrascale will give researchers access to clus
 Cerebras Systems
 
 Artificial intelligence computer maker Cerebras Systems, which has built chips and computers, and now makes [super-computers dedicated to speeding up deep learning](https://www.zdnet.com/article/ai-challenger-cerebras-assembles-modular-supercomputer-andromeda-to-speed-up-large-language-models/), on Tuesday announced services to speed the use of very large language models that are becoming increasing popular for not only research but also commercial use. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -106,11 +110,27 @@ Both announcements were made on the occasion of the 36th annual Neural Informati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/hart-success-using-youtube-statistics-to-grow-engagement-for-2024/"><u>[New] Chart Success Using YouTube Statistics to Grow Engagement for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-how-to-buy-1-million-youtube-views-safely-from-trusted-providers-for-2024/"><u>[New] How to Buy 1 Million YouTube Views Safely From Trusted Providers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-realistic-movement-motion-blur-in-facial-images-with-picsart/"><u>[New] Unlocking Realistic Movement Motion Blur in Facial Images with Picsart</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-decoding-skype-call-recordings-optimal-free-and-paid-methods-windowsmac/"><u>[Updated] Decoding Skype Call Recordings Optimal Free and Paid Methods (Windows/Mac)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-mac-screen-recording-apps-without-bandicam/"><u>[Updated] Ultimate Mac Screen Recording Apps Without Bandicam</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertly-selected-10-best-gimbals-for-smartphone-and-dslr-cameras/"><u>2024 Approved Expertly Selected 10 Best Gimbals for Smartphone & DSLR Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-how-to-turn-your-smartphone-into-a-virtual-reality-vr-headset/"><u>2024 Approved How to Turn Your Smartphone Into a Virtual Reality (VR) Headset</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-thrilling-tales-at-the-top-engaging-openers/"><u>2024 Approved Thrilling Tales at the Top Engaging Openers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nokia-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nokia Unlock Without Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-subtitle-mastery-made-easy-10-free-online-tools/"><u>In 2024, Subtitle Mastery Made Easy - 10 Free Online Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-pathway-to-perfect-pitches-insights-from-magix-maker/"><u>In 2024, The Pathway to Perfect Pitches Insights From Magix Maker</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-overcoming-steam-friends-not-available-problems/"><u>Solved! Overcoming 'Steam Friends Not Available' Problems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-soloists-path-to-trending-podcasts-for-2024/"><u>The Soloist's Path to Trending Podcasts for 2024</u></a></li>
+</ul></div>
+

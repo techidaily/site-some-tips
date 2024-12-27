@@ -1,7 +1,7 @@
 ---
 title: "Creating a Locked Personal Vault in OneDrive: A Step-by-Step Guide for Ultimate Security"
-date: 2024-09-17 15:31:33
-updated: 2024-09-20 11:52:35
+date: 2024-12-26T16:24:16.469Z
+updated: 2024-12-27T16:47:08.400Z
 tags:
   - cloud
 categories:
@@ -36,6 +36,10 @@ By default, the vault remains locked until you need it. You unlock it with whate
 
 To take full advantage of the Personal Vault, you need a [Microsoft 365 Family or Personal subscription](https://www.zdnet.com/article/microsoft-launches-defender-for-individuals-for-microsoft-365-personal-and-family-subscribers/). With either plan, you can add as many files to the vault as space allows. Without a Microsoft 365 plan, you can include only three files in your vault, which likely wouldn't do the trick for most people. Further, the Personal Vault is available only with the OneDrive personal app and not with OneDrive for Business. Otherwise, the vault works the same in Windows 10 and 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to secure your sensitive OneDrive files with a Personal Vault
 
 ## 1\. Protect your Microsoft account and OneDrive access
@@ -48,6 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also:** [**Multi-factor authentication: How to enable 2FA to step up your security**](https://www.zdnet.com/article/better-than-the-best-password-how-to-use-2fa-to-improve-your-security/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Right-click the OneDrive System Tray icon and select View online
 
 For the next steps, I'll assume you're already using OneDrive to back up and sync key folders and files. Right-click the OneDrive System Tray icon and select the option for **View online**. Sign in to OneDrive with your Microsoft Account. Under My Files, double-click the folder for Personal Vault. You'll be asked to authenticate this access through the multi-factor authentication in place for your account. Approve the sign-in via the Microsoft Authenticator app on your mobile device.
@@ -55,6 +63,10 @@ For the next steps, I'll assume you're already using OneDrive to back up and syn
 Get ready to move folders and files to your Personal Vault.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Move the files you wish to protect 
 
@@ -82,6 +94,10 @@ Set the time to automatically lock your Personal Vault.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. To access files in your Personal Vault, select Unlock Personal Vault
 
 Now, let's say you need to access certain files in your Personal Vault. Right-click the OneDrive System Tray icon and select **Unlock Personal Vault**.
@@ -107,6 +123,10 @@ The Personal Vault folder pops up in File Explorer to display the folders and fi
 Lock your Personal Vault.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Move folders and files out of Personal Vault that no longer need extra security
 
@@ -146,11 +166,28 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-quick-start-using-ez-grabber-effectively/"><u>[Updated] 2024 Approved Quick Start Using EZ Grabber Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-image-adaptation-techniques-for-iphone-users/"><u>[Updated] Swift Image Adaptation Techniques for iPhone Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-zombification-extravaganza-8-epic-titles-ranked/"><u>[Updated] Zombification Extravaganza - 8 Epic Titles Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-livestreams-with-eco-friendly-screen-effects/"><u>2024 Approved Transform Your Livestreams with Eco-Friendly Screen Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-world-through-360-degree-fisheye-imaging/"><u>2024 Approved Unlocking the World Through 360 Degree Fisheye Imaging</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crypto-insights-unlocked-top-5-gpt-trading-tools/"><u>Crypto Insights Unlocked: Top 5 GPT Trading Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-listener-engagement-through-excellent-intros/"><u>Enhancing Listener Engagement Through Excellent Intros</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-15-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 15 Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>In 2024, The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-power-of-free-screen-recording-in-win11/"><u>In 2024, Unlock the Power of Free Screen Recording in Win11</u></a></li>
+<li><a href="https://facebook.techidaily.com/step-into-the-future-of-socializing-with-ar-in-messenger/"><u>Step Into the Future of Socializing with AR in Messenger</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-professional-quality-images-with-pss-3d-lut-techniques-for-2024/"><u>Unlocking Professional Quality Images with PS's 3D LUT Techniques for 2024</u></a></li>
+</ul></div>
+

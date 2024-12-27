@@ -1,7 +1,7 @@
 ---
 title: "Global Giants' Cyber Defense Strategy: Leveraging SSO and MFA for Enhanced Data Protection | ZDNET"
-date: 2024-09-17 17:33:13
-updated: 2024-09-20 12:18:21
+date: 2024-12-24T16:05:13.078Z
+updated: 2024-12-27T16:02:20.399Z
 tags:
   - cloud
 categories:
@@ -36,6 +36,10 @@ Generali is one of the one of the largest insurance and asset management provide
 But while many businesses suddenly had to shift towards a hybrid model without having planned for it in 2020, Generali was already examining a cloud-based approach to work over a year before that, so the company was in a good place to adapt to the new world of work. 
 
 "We think we were ahead of the curve," says Winter. "We don't have datacenters, everything is in the cloud. It's either software-as-a-service or platform-as-a-service."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -96,11 +100,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unlocking-the-potential-of-audacitys-audio-features/"><u>[New] In 2024, Unlocking the Potential of Audacity's Audio Features</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ixelpie-editor-for-2024/"><u>[New] PixelPie Editor for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-total-capture-trio-setup/"><u>[Updated] 2024 Approved Total Capture Trio Setup</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unveiling-the-power-of-screen-capture-showmores-review-breakdown/"><u>[Updated] In 2024, Unveiling the Power of Screen Capture ShowMore's Review Breakdown</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-revolutionize-digital-diaries-with-complimentary-tools-for-2024/"><u>[Updated] Revolutionize Digital Diaries with Complimentary Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-personalized-phone-tones-for-android-users/"><u>[Updated] The Ultimate Guide to Personalized Phone Tones for Android Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-high-quality-audio-recording-with-these-top-5-windows-11-tips/"><u>2024 Approved Unlock High-Quality Audio Recording with These Top 5 Windows 11 Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-finest-4-sites-for-tones/"><u>2024 Approved Unveiling the Finest 4 Sites for Tones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-sunset-to-silhouette-adobe-guide/"><u>In 2024, Sunset to Silhouette Adobe Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-nine-game-streaming-haven-explored/"><u>In 2024, Top Nine Game Streaming Haven Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-reasons-why-claude-surpasses-chatgpt-as-an-ai-conversationalist/"><u>Top 4 Reasons Why Claude Surpasses ChatGPT as an AI Conversationalist</u></a></li>
+</ul></div>
+

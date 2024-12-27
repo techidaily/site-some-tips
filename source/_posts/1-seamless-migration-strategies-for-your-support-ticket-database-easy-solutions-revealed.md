@@ -1,7 +1,7 @@
 ---
 title: 1. Seamless Migration Strategies for Your Support Ticket Database - Easy Solutions Revealed
-date: 2024-09-17 10:31:25
-updated: 2024-09-20 10:33:42
+date: 2024-12-24T17:31:56.554Z
+updated: 2024-12-27T17:18:27.104Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ By Rawpixel.com -- Shutterstock
 It's a tough decision. On the one hand, you've got a ton of mission-critical data deeply entwined with an existing software solution that manages it all. On the other hand, that software solution is failing, and it looks like it's only going to get worse. Do you migrate (with all the pitfalls that might entail), or do you just ride it down until your solution inevitably crashes and burns? 
 
 I was recently faced with that decision over my help desk software. I had about five years of customer cases tied up inside a product called [Awesome Support](https://wordpress.org/plugins/awesome-support/). This WordPress plugin provides help desk capability right inside the WordPress dashboard. Awesome Support was originally awesome and was still awesome when it worked, but it was starting to fail. Getting support for problems with Awesome Support was anything but awesome. It was nonexistent. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -49,6 +53,10 @@ Spoiler alert: they did. Fabulously.
 
 As you can see from the image below, the company offers a wide range of source and destination services to convert between. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The migration process 
 
 You start by choosing your source platform and providing any necessary credentials or API keys so help-desk-migration.com can read in the data. 
@@ -76,6 +84,10 @@ Here's what it looked like:
 Basically, if there was either a first or a last name, but not both, dumping "Last Name" in the field was troublesome. After some back-and-forth email about what their system could handle and what would work for me, we settled on putting a dash in place if there was no last name in the user record. 
 
 We ran into one more snag where there was a record in my source database that was somehow a problem. The Relokia folks helped me find and clear that record, at which point I was able to fully complete the migration. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The rest of the story 
 
@@ -118,11 +130,29 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-effortless-visual-content-creation-for-instagram-users/"><u>[New] Effortless Visual Content Creation for Instagram Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-comprehensive-directory-for-got-ringtones-download/"><u>[New] The Comprehensive Directory for GoT Ringtones Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-prolonging-gopros-energy-stamina/"><u>[New] Tips for Prolonging GoPro's Energy Stamina</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-av1-an-entry-point-to-encoding/"><u>[New] Unlocking AV1 An Entry Point to Encoding</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-guide-to-reinventing-facebook-video-coverages-step-by-step/"><u>[Updated] 2024 Approved Guide to Reinventing Facebook Video Coverages Step-by-Step</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-comic-strip-editor/"><u>[Updated] Ultimate Comic Strip Editor</u></a></li>
+<li><a href="https://discover-best.techidaily.com/2024vk3/"><u>2024年VKビデオのダウンロード手順ベスト3</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/jest-in-imagery-create-with-kapwing/"><u>Jest in Imagery Create with Kapwing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-memes-on-demand-unlocking-kinemaster-for-2024/"><u>Quick Memes on Demand Unlocking KineMaster for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-8-in-virtual-reality-gaming-for-2024/"><u>The Essential 8 in Virtual Reality Gaming for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-15-cameras-excelling-in-live-streaming-for-2024/"><u>Top 15 Cameras Excelling in Live Streaming for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-unrestricted-data-saver-solutions-for-2024/"><u>Top Unrestricted Data Saver Solutions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultra-fast-windows-view-for-pictures-for-2024/"><u>Ultra-Fast Windows View for Pictures for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-mystery-can-you-detect-when-an-apple-airtag-is-following-your-steps-tips-and-tricks/"><u>Unveiling the Mystery: Can You Detect When an Apple AirTag Is Following Your Steps? - Tips & Tricks</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-audiophiles-manual-to-volume-control-on-digital-media-updated-for-2024/"><u>Updated Audiophiles Manual to Volume Control on Digital Media – Updated for 2024</u></a></li>
+</ul></div>
+

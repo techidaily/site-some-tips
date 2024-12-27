@@ -1,7 +1,7 @@
 ---
 title: The Inclusion of ZDNet Helps with Brand Recognition While Also Leveraging a Known Authority in Tech News for Increased Credibility.
-date: 2024-09-17 15:11:49
-updated: 2024-09-20 12:16:24
+date: 2024-12-24T16:39:46.445Z
+updated: 2024-12-27T16:39:54.970Z
 tags:
   - cloud
 categories:
@@ -37,6 +37,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Kubernetes? 
 
 Kubernetes coordinates the operation of all the parts in an application for maximum efficiency and smooth performance. In cloud-native computing, these parts are often distributed widely among several locations. An orchestrator assembles all the resources that applications require to perform.
@@ -44,6 +48,10 @@ Kubernetes coordinates the operation of all the parts in an application for maxi
 **Also: [5 ways to save your Windows 10 PC in 2025 - and most are free](https://www.zdnet.com/article/5-ways-to-save-your-windows-10-pc-in-2025-and-most-are-free/)**
 
 That definition might make you think Kubernetes is a scaled-up operating system. It's not. Kubernetes is software that oversees infrastructure resources scattered across servers. It ensures applications get the processing power, memory, storage, and networking facilities to accomplish their tasks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Kubernetes' top tech features
 
@@ -53,6 +61,10 @@ Kubernetes provides the following four key features:
 2. **Self-healing capabilities**: The platform can automatically restart failed containers, replace or reschedule containers when nodes die, and kill containers that don't respond to health checks.
 3. **Service discovery and load balancing**: Kubernetes can expose containers using Domain Name System (DNS) names or Internet Protocol (IP) addresses and distribute network traffic across multiple containers.
 4. **Storage choice**: Orchestration allows you to automatically mount storage systems of your choice, such as local storage, public cloud providers, or network storage systems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why is Kubernetes important?
 
@@ -66,6 +78,10 @@ Here are six reasons why Kubernetes is so important:
 4. **Resource efficiency**: By efficiently managing container placement and scaling, Kubernetes helps organizations optimize their infrastructure usage, potentially leading to significant cost savings.
 5. **DevOps enabler**: Kubernetes facilitates [DevOps](https://www.zdnet.com/article/what-is-devops-an-executive-guide-to-agile-development-and-it-operations/) practices by providing a consistent platform for development, testing, and production. Kubernetes supports [continuous integration and continuous delivery (CI/CD](https://practical-tech.com/2018/07/10/continuous-integration-and-delivery-tool-basics/)) workflows, enabling faster and more reliable software releases.
 6. **Hybrid Cloud**: Kubernetes helps businesses avoid cloud vendor lock-in by enabling them to build [Kubernetes-based hybrid clouds](https://www.zdnet.com/article/what-is-the-kubernetes-hybrid-cloud-and-why-it-matters/). This approach can be a real money-saver for companies using more than one cloud.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The future of Kubernetes
 
@@ -102,11 +118,28 @@ Kubernetes will undoubtedly continue to play a pivotal role in shaping the futur
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-pp-playbook-for-silent-scene-transitions/"><u>[New] The Ultimate PP Playbook for Silent Scene Transitions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-group-gallery-video-extractor/"><u>[Updated] 2024 Approved Group Gallery Video Extractor</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-crafting-coolest-mini-houses-in-mc-world-for-2024/"><u>[Updated] Crafting Coolest Mini-Houses in MC World for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-social-simulacrum-sketches-designing-distorted-digital-selves-for-2024/"><u>[Updated] Social Simulacrum Sketches Designing Distorted Digital Selves for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-future-of-flying-games-mavic-air-vs-dji-spark-showdown/"><u>[Updated] The Future of Flying Games Mavic Air Vs. DJI Spark Showdown</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-future-of-virtual-spaces-comparing-meta-and-omniverse/"><u>2024 Approved The Future of Virtual Spaces Comparing Meta and Omniverse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-52024/"><u>無料音声付画面録り:Windows 11 におすすめのトップ5機能【2024新着スキャン】</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-sony-xperia-5-v-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Sony Xperia 5 V</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-functionality-of-unmanned-aerial-vehicles-explored/"><u>In 2024, The Functionality of Unmanned Aerial Vehicles Explored</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-upgrade-playstation-10-best-hard-drive-mods/"><u>In 2024, Upgrade PlayStation #10 Best Hard Drive Mods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/talking-texts-a-beginners-guide-to-animated-instagram-captions-for-2024/"><u>Talking Texts A Beginner's Guide to Animated Instagram Captions for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-checklist-for-youtube-short-success-for-2024/"><u>The Ultimate Checklist for YouTube Short Success for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-collection-of-10-inspirational-movies-for-2024/"><u>The Ultimate Collection of 10 Inspirational Movies for 2024</u></a></li>
+</ul></div>
+
