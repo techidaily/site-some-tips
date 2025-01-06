@@ -1,7 +1,7 @@
 ---
 title: "The Double-Edged Sword of Cloud Technology: Unveiling Massive Potential and Hidden Hazards | Articles by ZDNet"
-date: 2024-09-18 21:36:50
-updated: 2024-09-20 12:11:20
+date: 2025-01-04T21:11:59.412Z
+updated: 2025-01-06T01:34:39.191Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 Image: Getty Images/Maskot
 
 Shifting applications and infrastructure over to [cloud computing services](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) can make life easier in some ways, it doesn't automatically mean you can give up all responsibility for keeping your organisations's data secure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -87,11 +91,25 @@ Developing the right security posture is hard: some companies worry about sophis
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-unlocking-the-full-screen-potential-of-fb-videos/"><u>[New] Unlocking the Full Screen Potential of FB Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-insiders-guide-to-youtube-tv-features-and-functions/"><u>[Updated] In 2024, The Insider's Guide to YouTube TV Features & Functions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-complexities-of-color-correction-using-luts/"><u>[Updated] Navigating the Complexities of Color Correction Using LUTs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-effortless-snapchat-connectivity-step-by-step-guide/"><u>2024 Approved Effortless Snapchat Connectivity Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-huawei-nova-y71-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Huawei Nova Y71 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-blaze-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Blaze Pro 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-16-exceptional-tech-specs-overshadowed-by-competitors-why-you-might-want-to-think-twice/"><u>IPhone 16: Exceptional Tech Specs Overshadowed by Competitors – Why You Might Want To Think Twice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/newly-unveiled-aws-provides-sneak-peek-at-ec2-mac-compute-units-as-detailed-by-zdnet-exclusive-coverage/"><u>Newly Unveiled: AWS Provides Sneak Peek at EC2 Mac Compute Units as Detailed by ZDNet Exclusive Coverage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overwhelmed-by-google-drive-clutter-discover-how-this-powerful-tool-saved-the-day-tech-insights/"><u>Overwhelmed by Google Drive Clutter? Discover How This Powerful Tool Saved the Day! | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/section-4b-five-fact/"><u>Section 4B: Five Fact.</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-accessing-documents-on-your-ios-device/"><u>Step-by-Step Guide: Accessing Documents on Your iOS Device</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Automattic Expands Footprint by Acquiring Beeper: A Glimpse Into Their Grand Vision for Enhanced Messaging"
-date: 2024-12-20T16:21:24.771Z
-updated: 2024-12-27T17:33:47.664Z
+date: 2024-12-30T18:17:22.380Z
+updated: 2025-01-05T20:21:15.085Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ In this article, I'll talk about that use case -- and why VPNs are so important 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The killer app for XR (2024 edition)
@@ -63,7 +63,7 @@ Sure, there are many other uses for XR. ZDNET editor-in-chief [Jason Hiner loves
 I would argue that using XR while traveling or living in a small space is, however, the first killer app for these types of devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The obvious necessity of a VPN
@@ -81,7 +81,7 @@ Worse, those connections are often shared, and there's a fair chance someone mig
 The primary protection for those who need to travel and go online is using a VPN to encrypt traffic as it leaves your computing device. Some companies require employees to connect to their corporate networks over a VPN for similar reasons. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use a VPN with an XR headset
@@ -109,7 +109,7 @@ Virtual Dude also recommends sideloading an app that lets you sideload Android a
 That said, Virtual Dude's video is a proof of concept that VPNs can work on XR devices like the Quest. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Give it some time
@@ -161,24 +161,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-master-your-captions-the-top-10-precision-subtitle-editors/"><u>[New] 2024 Approved Master Your Captions The Top 10 Precision Subtitle Editors</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-stream-titling-service/"><u>[New] Stream Titling Service</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-uniquely-branding-podcasts-expert-led-logo-insights/"><u>[New] Uniquely Branding Podcasts Expert-Led Logo Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleash-superior-hd-videos-on-android-devices/"><u>[New] Unleash Superior HD Videos on Android Devices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-owner-uncovering-your-subscribers/"><u>[Updated] In 2024, Channel Owner Uncovering Your Subscribers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-for-crafting-top-charting-youtube-titles/"><u>[Updated] Ultimate Guide for Crafting Top-Charting YouTube Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-using-srt-audio-on-windows-and-macos-devices/"><u>[Updated] Using SRT Audio on Windows & macOS Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/creating-a-space-for-feedback-talking-with-your-viewers/"><u>Creating a Space for Feedback Talking with Your Viewers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-collection-of-christmas-time-roku-promotions-curated-by-experts-at-zdnet/"><u>Discover the Ultimate Collection of Christmas Time Roku Promotions Curated by Experts at ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-10-premium-image-editing-overlays-free-for-android-and-iphone-users/"><u>In 2024, 10 Premium Image Editing Overlays Free for Android & iPhone Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-selective-alert-tunes-prime-audio-spots/"><u>In 2024, Selective Alert Tunes Prime Audio Spots</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-adding-a-link-in-your-tiktok-bio/"><u>In 2024, The Ultimate Guide to Adding a Link in Your TikTok Bio</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-tactics-in-producing-convincing-customer-testimonial-videos/"><u>In 2024, Top Tactics in Producing Convincing Customer Testimonial Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-vr-treadmills-review/"><u>In 2024, Top VR Treadmills Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-uniting-platforms-the-seamless-addition-of-linktree-to-tiktok/"><u>In 2024, Uniting Platforms The Seamless Addition of Linktree to TikTok</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/troubleshooting-tips-for-razer-kraken-headset-mic-issues/"><u>Troubleshooting Tips for Razer Kraken Headset Mic Issues</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ultimate-user-manual-mastering-your-apowertrans-experience/"><u>Ultimate User Manual: Mastering Your ApowerTrans Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-creative-potential-with-pexels-visuals-for-2024/"><u>Unlocking Creative Potential with Pexels Visuals for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-to-record-lectures-on-mac/"><u>[New] 2024 Approved How to Record Lectures on Mac</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-perfect-timing-for-instagram-loops-key-strategies-revealed/"><u>[New] In 2024, Perfect Timing for Instagram Loops Key Strategies Revealed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-list-10-best-phones-and-pc-for-chatting/"><u>[New] The Ultimate List 10 Best Phones & PC for Chatting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-eternal-display-documentation/"><u>[Updated] 2024 Approved Eternal Display Documentation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-designing-dynamic-podcast-preambles/"><u>[Updated] Designing Dynamic Podcast Preambles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/adapting-to-change-analyzing-upcoming-trends-in-the-data-science-and-artificial-intelligence-market-perspectives-by-zdnet/"><u>Adapting to Change: Analyzing Upcoming Trends in the Data Science and Artificial Intelligence Market | Perspectives by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/addressing-the-crisis-of-programmer-exhaustion-innovative-corporate-solutions-zdnet-analysis/"><u>Addressing the Crisis of Programmer Exhaustion: Innovative Corporate Solutions | ZDNet Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/express-yourself-with-emoji-how-to-enhance-text-messages-on-iphone/"><u>Express Yourself with Emoji: How to Enhance Text Messages on iPhone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/from-turntables-to-tap-playlists-how-downloads-and-streaming-dominate-todays-music-consumption-over-vinyl/"><u>From Turntables to Tap Playlists: How Downloads and Streaming Dominate Today's Music Consumption over Vinyl</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harness-oracles-latest-innovations-unleash-powerful-ai-capabilities-on-your-data-management-with-ease-insights-from-zdnet/"><u>Harness Oracle's Latest Innovations: Unleash Powerful AI Capabilities on Your Data Management with Ease - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/impact-of-russian-ukraine-conflict-on-tech-sector-growth-insights-from-zdnet/"><u>Impact of Russian-Ukraine Conflict on Tech Sector Growth | Insights From ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy A23 5G Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-subscriber-chatter-best-practices-for-comments/"><u>The Art of Subscriber Chatter Best Practices for Comments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-web-hosting-providers-thoroughly-analyzed-and-endorsed-by-experts-techradar/"><u>Top-Ranked Web Hosting Providers : Thoroughly Analyzed & Endorsed by Experts | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-kde-plasma-navigates-familiarity-into-innovation-an-insightful-look-at-my-experience-zdnet/"><u>Why KDE Plasma Navigates Familiarity Into Innovation - An Insightful Look at My Experience | ZDNet</u></a></li>
 </ul></div>
 

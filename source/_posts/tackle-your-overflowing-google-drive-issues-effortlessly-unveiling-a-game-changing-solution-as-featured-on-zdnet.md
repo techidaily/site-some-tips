@@ -1,7 +1,7 @@
 ---
 title: "Tackle Your Overflowing Google Drive Issues Effortlessly: Unveiling a Game-Changing Solution as Featured on ZDNet"
-date: 2024-09-18 14:31:53
-updated: 2024-09-20 10:34:54
+date: 2024-12-30T23:44:10.771Z
+updated: 2025-01-05T21:46:42.080Z
 tags:
   - cloud
 categories:
@@ -41,6 +41,10 @@ But even then, I still face the problem I described above -- how much storage is
 
 Fortunately, while Google doesn't offer a solution, a developer named Brett Batie in Traverse City, MI has come up with a solution. It's called [Filerev](https://filerev.com/) and it does just what you would have expected Google Drive to do. It answers questions and helps manage vast amounts of data. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Understanding (or not understanding) current storage utilization 
 
 When we [last encountered this issue](https://www.zdnet.com/article/the-other-shoe-finally-dropped-on-my-google-enterprise-cloud-storage-plan/), I was trying to optimize my storage utilization, so that it didn't grow beyond its new 75TB bounds. 
@@ -72,6 +76,10 @@ As for the Details pane (pain?), it doesn't contain any data about size at all. 
 Screenshot by David Gewirtz/ZDNET
 
 So, how on Earth can I determine how much storage I am using in each of my folders? We're talking about an enterprise account with 58TB of storage. And yet, there's no visibility into storage utilization. It's not just bizarre, it's deeply inconvenient. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Say hello to Filerev 
 
@@ -123,6 +131,10 @@ As it turns out, that storage category accounts for all my virtual machines. And
 
 It won't be easy to trim down those VM syncs, but it's definitely something I can look at, because I know a bunch of those VMs are very obsolete. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Final thoughts 
 
 I made a few interesting discoveries. My Cloud Backup share isn't the villain I thought it was. That honor goes to the Liberty Backups folder. Second, the biggest category of storage is my storage of old VMs. That's a homework assignment I need to follow up on to clear out more space. 
@@ -143,11 +155,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-broadcast-software-beyond-standard-obs/"><u>[New] 2024 Approved Broadcast Software Beyond Standard OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-break-free-from-youtube-top-5-innovative-video-editing-tools/"><u>[New] In 2024, Break Free From Youtube Top 5 Innovative Video Editing Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-iphone-lens-mastery-unleashing-creativity/"><u>[Updated] 2024 Approved IPhone Lens Mastery - Unleashing Creativity</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-art-of-using-b-roll-to-complement-visuals-effectively/"><u>[Updated] 2024 Approved The Art of Using B-Roll to Complement Visuals Effectively</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-amplify-your-music-experience-with-youtubes-playlist-guide/"><u>[Updated] In 2024, Amplify Your Music Experience with YouTube's Playlist Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoidance-of-windows-updates-interruptions/"><u>Avoidance of Windows Updates Interruptions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ensuring-linux-safety-strategies-beyond-patching-kernel-vulnerabilities-zdnet/"><u>Ensuring Linux Safety: Strategies Beyond Patching Kernel Vulnerabilities | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-mastering-mobile-captions-ios-and-androids-leading-helpers/"><u>In 2024, Mastering Mobile Captions IOS & Android's Leading Helpers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/linus-torvalds-discusses-ai-integration-and-rust-usage-in-linux-evolution-decoding-the-only-thing-that-matters/"><u>Linus Torvalds Discusses AI Integration & Rust Usage in Linux Evolution; Decoding The Only Thing That Matters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/linus-torvalds-on-artificial-intelligence-integrating-rust-in-development-and-decoding-the-essence-of-the-linux-kernel-zdnet-feature-interview/"><u>Linus Torvalds on Artificial Intelligence, Integrating Rust in Development, and Decoding the Essence of the Linux Kernel | ZDNET Feature Interview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/radia-perlman-receives-spotlight-as-a-hidden-hero-for-revolutionizing-lan-technology-insights-from-zdnet/"><u>Radia Perlman Receives Spotlight as a 'Hidden Hero' For Revolutionizing LAN Technology | Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-linux-and-open-source-docs-the-path-to-organized-knowledge-expert-solutions-from-zdnet/"><u>Revolutionizing Linux & Open Source Docs: The Path to Organized Knowledge - Expert Solutions From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-workforce-dynamics-how-ai-agents-define-the-future-of-employment/"><u>Revolutionizing Workforce Dynamics: How AI Agents Define the Future of Employment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-a-dev-role-focus-on-learning-these-key-programming-languages-as-recommended-by-zdnet/"><u>Securing a Dev Role? Focus on Learning These Key Programming Languages, as Recommended by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stack-overflows-expertise-integrated-into-google-clouds-gemini-ai-expanding-your-development-resources/"><u>Stack Overflow's Expertise Integrated Into Google Cloud's Gemini AI: Expanding Your Development Resources</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-web-development-classes-on-zdnet-learn-to-code/"><u>Top-Ranked Web Development Classes on ZDNet - Learn to Code</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creativity-free-premiere-pro-2023-templates-for-2024/"><u>Unleash Creativity Free Premiere Pro 2023 Templates for 2024</u></a></li>
+</ul></div>
+

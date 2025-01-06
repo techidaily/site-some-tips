@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Hype: Why Prospective Buyers Might Want to Think Twice About iPhone 16 | Digital Trends Analysis"
-date: 2024-09-18 13:28:49
-updated: 2024-09-20 10:36:15
+date: 2024-12-31T17:57:28.808Z
+updated: 2025-01-06T02:40:59.884Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Every year, iPhone enthusiasts eagerly await Apple's latest release. But this ye
 **Also: [Everything Apple announced at its 'Glowtime' event](https://www.zdnet.com/article/everything-apple-announced-at-its-glowtime-event-ai-features-airpods-apple-watch-series-10-more/)**
 
 Despite promises of AI advancements, the iPhone 16 seems more like a stepping stone than a game-changer. Even in my household, the decision to upgrade has divided us -- while I'm upgrading for work because I cover the technology, my wife has made it clear: she's skipping this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Great hardware, but a transitional Apple Intelligence product
 
@@ -61,6 +65,10 @@ On the Pro models, you'll find a 5X optical zoom lens, and the new 48-MP "Fusion
 
 But are these improvements enough to justify an upgrade? Probably not if you already own an iPhone 14 or 15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Developer involvement and AI maturity
 
 While the hardware is impressive, the AI features -- centered around Apple Intelligence -- leave something to be desired, especially for those expecting a more mature experience.
@@ -71,11 +79,19 @@ Apple Intelligence is tied to Apple's own 3-billion-parameter foundation model. 
 
 Apple has given [developers access to its AI APIs](https://developer.apple.com/apple-intelligence/), but we're still in the early stages of what Apple Intelligence can do. Most of the exciting features - like Genmoji and App Intents -- won't be available until iOS 18.2\. Even iOS 18.1, which unlocks some of the AI functions, won't arrive until at least October.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Don't like Apple's apps? No Apple Intelligence for you.
 
 The biggest problem -- other than the fact that you need new iPhone hardware to exploit it -- is that Apple Intelligence is deeply tied to Apple's own apps, limiting its usefulness for users who rely on third-party apps like Gmail, Google Docs, or Microsoft 365\. 
 
 Apple hasn't given developers the ability to integrate their own AI models on the device, so unless third-party apps adopt Apple's APIs, you won't benefit from Apple Intelligence's features if you're not entirely locked into Apple's ecosystem. Google and Microsoft, which both have robust cloud-based AI solutions -- [Gemma 2](https://ai.google.dev/gemma) for Google's [Gemini](https://ai.google.dev/gemini-api) and GPT-4 for Microsoft's [Copilot](https://www.microsoft.com/en-us/microsoft-copilot/meet-copilot) \-- are unlikely to switch to Apple's APIs anytime soon.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cloud-based AI writing tools: No need for new hardware
 
@@ -96,6 +112,10 @@ I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in i
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Google's Magic Eraser, available in Google Photos for iOS, performs similarly without requiring on-device AI processing. That said, Apple's on-device AI processing offers a privacy advantage -- your data stays on the device and doesn't require additional bandwidth. This is particularly useful if you rely on 5G data instead of Wi-Fi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you upgrade?
 
@@ -128,11 +148,28 @@ Unless you desperately need a new phone, don't rush into buying the iPhone 16\. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-real-story-exploring-recordcast-features-for-2024/"><u>[New] The Real Story Exploring RecordCast Features for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-practices-for-procuring-customized-text-files/"><u>[Updated] 2024 Approved Best Practices for Procuring Customized Text Files</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-speedy-workshop-converting-your-visuals-into-stellar-youtube-pics/"><u>[Updated] 2024 Approved Speedy Workshop Converting Your Visuals Into Stellar YouTube Pics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-discover-the-enhanced-search-features-of-google-drives-revamped-homepage-a-closer-look-by-zdnet/"><u>1. Discover the Enhanced Search Features of Google Drive's Revamped Homepage: A Closer Look by ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-master-your-message-memes-on-kapwing-pro/"><u>2024 Approved Master Your Message Memes on Kapwing Pro</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-srt-file-playback-windows-and-mac-integration/"><u>2024 Approved SRT File Playback Windows & Mac Integration</u></a></li>
+<li><a href="https://article-files.techidaily.com/elevating-media-output-xml-to-text-to-speech-srt-format/"><u>Elevating Media Output XML to Text-To-Speech (SRT) Format</u></a></li>
+<li><a href="https://win-popular.techidaily.com/expert-aomei-assistance-and-help-desk/"><u>Expert AOMEI Assistance and Help Desk</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-htc-u23-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your HTC U23 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/telnet-access-in-windows-11-made-simple/"><u>Telnet Access in Windows 11 Made Simple</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-cloud-migration-solutions-of-2022-expert-reviews-and-comparison-zdnet/"><u>Top-Ranked Cloud Migration Solutions of 2022 – Expert Reviews & Comparison (ZDNet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cloud-migration-services-of-2022-insights-from-zdnet/"><u>Top-Rated Cloud Migration Services of 2022: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cloud-storage-solutions-industry-experts-reviewed-by-zdnet/"><u>Top-Rated Cloud Storage Solutions : Industry Experts Reviewed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-reports-ibm-unveils-strategy-to-build-complete-ai-hub-on-campus-boosting-full-stack-innovation-in-academia/"><u>ZDNet Reports: IBM Unveils Strategy to Build Complete AI Hub on Campus, Boosting 'Full Stack' Innovation in Academia</u></a></li>
+</ul></div>
+

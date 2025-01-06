@@ -1,7 +1,7 @@
 ---
 title: Exploring Why Single Twitter Channels Aren't Enough - A Discussion Based on ZDNet Articles
-date: 2024-09-19 22:10:55
-updated: 2024-09-20 11:22:42
+date: 2025-01-03T05:52:50.403Z
+updated: 2025-01-05T22:23:47.507Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/48ad0eea0bd314613a096ec100ed2667b4
 So I'm not going to take the "[Let's all quit Twitter](https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Let's%20all%20quit%20Twitter%22%7D)" viewpoint, or "[Elon Musk should be prohibited from buying Twitter](https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Elon%20Musk%20should%20be%20prohibited%20from%20buying%20Twitter%22%7D)" standpoint, or even the "[Twitter is going to hell in a neoconservative handbasket](https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Twitter%20is%20going%20to%20hell%20in%20a%20neoconservative%20handbasket%22%7D)" perspective. 
 
 But we should examine why we care about Twitter at all. It serves an important function, as an instantaneous publicly viewable broadcast message bus, for individuals, brands, governments, and everything in-between. But it also has many weaknesses, including that it is not a public good -- it is a corporation, and if Elon Musk gets his way, it will be again a privately owned one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Twitter
 
@@ -87,11 +91,28 @@ The time is now. Let's build a better internet together.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-improve-airdrop-speed-and-connectivity-on-apple-devices/"><u>[New] How To Improve Airdrop Speed & Connectivity on Apple Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aising-the-bar-youtubes-live-streaming-excellence-for-2024/"><u>[New] Raising the Bar YouTube's Live Streaming Excellence for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-discover-the-top-strategies-for-watching-global-cricket-events-online/"><u>[Updated] 2024 Approved Discover the Top Strategies for Watching Global Cricket Events Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ace-your-savings-with-premier-prime-day-sale-picks-for-gamers-in-october-2024-shop-smartly-with-zdnet-guidance/"><u>Ace Your Savings with Premier Prime Day Sale Picks for Gamers in October 2024 – Shop Smartly with ZDNet Guidance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-aws-local-cloud-zones-launched-a-breakthrough-for-tailored-customers-needs-as-covered-by-zdnet/"><u>Exclusive AWS Local Cloud Zones Launched: A Breakthrough for Tailored Customers' Needs, as Covered by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-importance-of-multiple-accounts-lessons-from-twitter-a-zdnet-insight/"><u>Exploring the Importance of Multiple Accounts: Lessons From Twitter - A ZDNet Insight</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-opt-out-of-emergency-and-amber-programs-on-iphones-easily/"><u>How To Opt Out of Emergency and Amber Programs on iPhones Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/most-cost-effective-web-hosting-solutions-of-2024-in-depth-analysis-and-comparisons-pcmag/"><u>Most Cost-Effective Web Hosting Solutions of 2024: In-Depth Analysis & Comparisons | PCMag</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pro-tip-unveiling-the-best-10-free-image-vaults-for-2024/"><u>Pro Tip Unveiling the Best 10 Free Image Vaults for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solution-found-how-to-overcome-the-missing-share-screen-feature-during-your-zoom-session-zdnet-insights/"><u>Solution Found: How to Overcome the Missing 'Share Screen' Feature During Your Zoom Session | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solution-alternative-soil-improvement-techniques-include-grouting-deep-mixing-with-cementitious-materials-and-incorporating-geosynthetics-to-enhance-stabili36/"><u>Solution: Alternative Soil Improvement Techniques Include Grouting, Deep Mixing with Cementitious Materials, and Incorporating Geosynthetics to Enhance Stability and Load Distribution in Various Ground Conditions.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-inconsistent-copy-and-paste-on-windows-10/"><u>Tackling Inconsistent Copy & Paste on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-tech-careers-the-impact-of-cloud-computing-strategies-zdnet-insights/"><u>Transforming Tech Careers: The Impact of Cloud Computing Strategies | ZDNet Insights</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-rotate-your-videos-for-free-top-picks-for-windows-mac-android-and-iphone/"><u>Updated Rotate Your Videos for Free Top Picks for Windows, Mac, Android, and iPhone</u></a></li>
+</ul></div>
+

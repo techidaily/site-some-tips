@@ -1,7 +1,7 @@
 ---
 title: "The Journey So Far: A Look Back as Kubernetes Hits 10 Years, Driving Cloud Computing Evolution and What Lies Ahead"
-date: 2024-09-17 12:57:37
-updated: 2024-09-20 10:35:50
+date: 2025-01-02T05:41:02.314Z
+updated: 2025-01-05T17:17:10.869Z
 tags:
   - cloud
 categories:
@@ -39,6 +39,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Kubernetes' genesis
 
 The story of Kubernetes begins in the early 2010s at Google, where engineers were grappling with the challenges of managing large-scale containerized applications. Everyone recognized how important containers were and that we needed a way to manage them. 
@@ -61,6 +65,10 @@ Even in those early days, though, I thought Kubernetes would be the clear winner
 
 Kubernetes quickly gained traction. The name "Kubernetes'' comes from the Greek word for "helmsman" or "pilot," symbolizing its role in steering containerized applications. The Kubernetes logo, a seven-spoke ship's wheel, pays homage to its Borg heritage and its first name, Seven of Nine, a friendly Borg from Star Trek, which was dropped for obvious trademark reasons. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Rapid adoption and community growth 
 
 Kubernetes' open-source nature and robust feature set made it an instant hit among developers and enterprises. By 2015, Kubernetes had reached version 1.0, and Google partnered with the Linux Foundation to form the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/), with Kubernetes as its seed technology. This move was pivotal in fostering a vibrant community around Kubernetes, leading to rapid innovation and widespread adoption. 
@@ -70,6 +78,10 @@ Kubernetes' open-source nature and robust feature set made it an instant hit amo
 While other container orchestration programs are still with us, in 2017 Amazon Web Services [(AWS) announced Elastic Container Service for Kubernetes (EKS)](https://www.zdnet.com/article/aws-launches-elastic-container-service-for-kubernetes/), and everyone could read the writing on the wall. Kubernetes would dominate the cloud-native world. 
 
 Simultaneously, the CNCF nurtured the Kubernetes ecosystem. Today, hundreds of cloud-native programs all depend on Kubernetes. Today, there are no major cloud providers that don't rely on Kubernetes. It's become the go-to container orchestration platform. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Transforming cloud-native development 
 
@@ -82,6 +94,10 @@ Another key Kubernetes advantage is its portability. Applications deployed on Ku
 Over the years, in addition to related cloud-native programs, Kubernetes has spawned a rich ecosystem of tools and projects that extend its capabilities. These include [Helm](https://helm.sh/), the Kubernetes package manager that simplifies application deployment and management by providing reusable charts, and [Prometheus](https://prometheus.io/), the powerful Kubernetes environment monitoring and alerting program. 
 
 The rise of Kubernetes has also given birth to new paradigms like [GitOps](https://about.gitlab.com/topics/gitops/), which leverages Git as the single source of truth for declarative infrastructure and application management. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The future of Kubernetes
 
@@ -130,11 +146,28 @@ Kubernetes's future is bright. With ongoing innovation and a thriving ecosystem,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-skyrocket-engagement-key-seo-strategies-for-youtube-videos/"><u>[New] In 2024, Skyrocket Engagement Key SEO Strategies for YouTube Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-visual-guide-to-aspect-ratios-on-platforms-like-youtube/"><u>[New] The Visual Guide to ASPECT RATIOS on Platforms Like YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722142543468-beat-cyber-threats-affordable-mobile-solutions-and-the-power-of-ai-in-our-latest-episode/"><u>Beat Cyber Threats: Affordable Mobile Solutions and the Power of AI in Our Latest Episode!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-vs-bert-face-off-exploring-how-they-stand-out-as-leading-nlp-technologies/"><u>GPT Vs. BERT Face-Off: Exploring How They Stand Out as Leading NLP Technologies</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-official-method-to-unlock-your-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE Official Method to Unlock Your Apple iPhone SE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/outshining-amazon-with-ebays-smart-tactics-a-breakdown-from-zdnet/"><u>Outshining Amazon with Ebay's Smart Tactics: A Breakdown From ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/proven-techniques-for-amplifying-your-impact-on-youtube-shorts/"><u>Proven Techniques for Amplifying Your Impact on YouTube Shorts</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/resolving-audio-issues-how-to-fix-ogg-file-wont-play-error-in-windows-10-version-1903/"><u>Resolving Audio Issues: How to Fix 'OGG File Won't Play' Error in Windows 10 Version 1903</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revealing-two-overlooked-features-that-make-amazon-echoes-a-true-boon-for-shoppers-insights-from-zdnet/"><u>Revealing Two Overlooked Features That Make Amazon Echoes a True Boon for Shoppers - Insights From ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/screening-success-10-movies-that-energize-and-empower/"><u>Screening Success 10 Movies That Energize & Empower</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securely-removing-and-transferring-ownership-of-your-alexa-enabled-echo-step-by-step-guide-for-peace-of-mind/"><u>Securely Removing and Transferring Ownership of Your Alexa-Enabled Echo: Step-by-Step Guide for Peace of Mind</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smart-choice-alert-why-the-amazon-kids-fire-hd-8-is-a-budget-friendly-alternative-to-apples-ipad-tech-insights/"><u>Smart Choice Alert: Why the Amazon Kids Fire HD 8 Is a Budget-Friendly Alternative to Apple's iPad | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/switch-from-spotify-with-ease-access-up-to-6-free-months-on-apple-music-and-amazon-music-unlimited-discover-more-at-zdnet/"><u>Switch From Spotify with Ease: Access Up to 6 Free Months on Apple Music and Amazon Music Unlimited – Discover More at ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo Y27s? | Dr.fone</u></a></li>
+</ul></div>
+

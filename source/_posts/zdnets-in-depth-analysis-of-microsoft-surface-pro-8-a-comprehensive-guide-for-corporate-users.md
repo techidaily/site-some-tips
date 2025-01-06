@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis of Microsoft Surface Pro 8: A Comprehensive Guide for Corporate Users"
-date: 2024-12-23T16:07:05.694Z
-updated: 2024-12-27T17:47:07.536Z
+date: 2025-01-01T05:25:52.781Z
+updated: 2025-01-05T16:34:51.553Z
 tags:
   - apple
 categories:
@@ -42,15 +42,15 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -75,7 +75,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -94,10 +94,6 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -105,6 +101,10 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -153,6 +153,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -165,14 +169,10 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -212,17 +212,16 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-cinematographers-blueprint-for-simple-water-vids/"><u>[New] The Cinematographer's Blueprint for Simple Water Vids</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-2024-cloud-sync-tools-for-android-devices/"><u>[New] Top 2024 Cloud Sync Tools for Android Devices</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-streamlining-youtube-video-transformations-into-mpegs/"><u>[Updated] 2024 Approved Streamlining YouTube Video Transformations Into MPEGs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-topview-assessment-report/"><u>[Updated] TopView Assessment Report</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-in-ar-a-comprehensive-guide-to-lut-tools/"><u>2024 Approved Unleashing Creativity in AR A Comprehensive Guide to LUT Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-huawei-nova-y91-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/guerir-et-proteger-votre-donnees-fifa-strategies-de-sauvegarde-fiables/"><u>Guérir Et Protéger Votre Données FIFA: Stratégies De Sauvegarde Fiables</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/guide-simple-et-pratique-a-la-sauvegarde-incrementielle-de-server-2019/"><u>Guide Simple Et Pratique À La Sauvegarde Incrementielle De Server 2019</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-recover-from-the-persistent-windows-error-0x800704cf-solved/"><u>How to Recover From the Persistent Windows Error: 0X800704CF [Solved]</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issues-with-launching-resident-evil-village-game/"><u>Resolved: Issues with Launching Resident Evil Village Game</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-criteria-for-choosing-a-premier-streamer-network-for-2024/"><u>Top 10 Criteria for Choosing a Premier Streamer Network for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/est-practices-for-choosing-images-that-drive-view-count-updates-for-2024/"><u>YT's Best Practices for Choosing Images That Drive View Count Updates for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-cameras-for-athletic-spectacle/"><u>[New] In 2024, Ultimate Cameras for Athletic Spectacle</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-next-gen-clarity-leading-ps5-compatible-hdmi-21-displays-for-2024/"><u>[New] Next Gen Clarity Leading PS5 Compatible HDMI 2.1 Displays for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-linux-kernel-69-update-tips-and-tricks-a-guide-by-zdnet/"><u>Best Linux Kernel 6.9 Update Tips and Tricks: A Guide by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/challenging-the-compatibility-of-artificular-intelligence-growth-with-agile-methodology-new-study-findings/"><u>Challenging the Compatibility of Artificular Intelligence Growth with Agile Methodology | New Study Findings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-ai-innovations-and-the-surge-of-rust-in-tech-linus-torvalds-on-the-unmatched-importance-of-the-linux-kernel-insights-from-a-developer-legend/"><u>Exploring AI Innovations & The Surge of Rust in Tech: Linus Torvalds on the Unmatched Importance of the Linux Kernel - Insights From a Developer Legend</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oneplus-open-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of OnePlus Open? Try These Fixes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x50i-messages-recovery-recover-deleted-messages-from-honor-x50i-by-fonelab-android-recover-messages/"><u>Honor X50i Messages Recovery - Recover Deleted Messages from Honor X50i</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-meta-optimizes-llms-the-journey-towards-compact-and-efficient-ai-models/"><u>How Meta Optimizes LLMs: The Journey Towards Compact and Efficient AI Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/intels-ai-visionary-wei-li-on-democratizing-ai-supercomputing-for-everyday-use-insights-from-zdnet/"><u>Intel's AI Visionary, Wei Li, on Democratizing AI Supercomputing for Everyday Use - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-phone-debut-a-glimpse-into-cutting-edge-technology-and-design/"><u>Samsung Phone Debut: A Glimpse Into Cutting-Edge Technology and Design</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-phones-for-kids-zdnet/"><u>The Best Phones for Kids | ZDNET.</u></a></li>
 </ul></div>
 

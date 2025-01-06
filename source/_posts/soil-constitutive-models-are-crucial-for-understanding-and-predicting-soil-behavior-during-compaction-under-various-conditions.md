@@ -1,7 +1,7 @@
 ---
 title: Soil Constitutive Models Are Crucial for Understanding and Predicting Soil Behavior During Compaction Under Various Conditions.
-date: 2024-09-18 14:48:16
-updated: 2024-09-20 11:13:50
+date: 2024-12-31T01:24:58.320Z
+updated: 2025-01-06T00:51:10.281Z
 tags:
   - cloud
 categories:
@@ -82,11 +82,30 @@ Could there be a mainframe in your future? I cut my computing teeth on mainframe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-sharp-focus-tech-best-4k-camera-phones-of-the-genre/"><u>[New] In 2024, Sharp Focus Tech Best 4K Camera Phones of the Genre</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-ultimate-playbook-for-splitting-views-in-facebook-livestreams-for-2024/"><u>[Updated] The Ultimate Playbook for Splitting Views in Facebook Livestreams for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-elevate-your-contents-visibility-with-these-gadgets/"><u>2024 Approved Elevate Your Content's Visibility with These Gadgets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experts-choice-7-premium-videos-on-mac/"><u>2024 Approved Expert's Choice 7 Premium Videos on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apples-recent-revamp-of-icloud-for-windows-key-improvements-and-bug-fixes-explained-computing-insights/"><u>Discover Apple's Recent Revamp of iCloud for Windows – Key Improvements & Bug Fixes Explained | Computing Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-latest-google-update-that-retrieves-lost-data-from-local-drives-featured-in-zdnet/"><u>Discover the Latest Google Update That Retrieves Lost Data From Local Drives, Featured in ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-singapores-public-services-through-cloud-based-artificial-intelligence/"><u>Enhancing Singapore's Public Services Through Cloud-Based Artificial Intelligence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-insights-everyone-must-understand-when-exploring-google-gemini-a-guide-for-developers/"><u>Essential Insights Everyone Must Understand When Exploring Google Gemini: A Guide for Developers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-nokia-xr21-frp-by-drfone-android/"><u>How Can We Bypass Nokia XR21 FRP?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-15-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 15 and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-tecno-pova-6-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Tecno Pova 6 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

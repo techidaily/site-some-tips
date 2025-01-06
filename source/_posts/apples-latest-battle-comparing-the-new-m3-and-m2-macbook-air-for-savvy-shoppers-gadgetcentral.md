@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Battle: Comparing the New M3 and M2 MacBook Air for Savvy Shoppers | GadgetCentral"
-date: 2024-12-25T17:27:09.632Z
-updated: 2024-12-27T16:57:40.985Z
+date: 2025-01-05T01:22:38.898Z
+updated: 2025-01-05T19:56:19.957Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -46,16 +50,12 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -64,6 +64,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -91,12 +95,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -107,10 +115,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -118,10 +122,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,20 +157,20 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-comparative-study-dji-quadcopter-standard-edition-for-2024/"><u>[New] Comparative Study DJI Quadcopter Standard Edition for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-hdr-experience-with-asuss-4k-monitor/"><u>[New] The Ultimate HDR Experience with Asus's 4K Monitor</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-foster-community-with-unique-insta-story-questions/"><u>[Updated] 2024 Approved Foster Community with Unique Insta Story Questions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-streamlined-methods-for-iphone-screen-capture/"><u>[Updated] 2024 Approved Streamlined Methods for iPhone Screen Capture</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-maximize-your-youtube-reach-key-tips-for-enhancing-video-seo/"><u>[Updated] In 2024, Maximize Your YouTube Reach Key Tips for Enhancing Video SEO</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-peak-creative-synopsis-thorough-studio-review-for-the-year-2023/"><u>[Updated] In 2024, Peak Creative Synopsis Thorough Studio Review for the Year 2023</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tech-tips-how-to-get-fcp-without-money/"><u>[Updated] Tech Tips How to Get FCP Without Money</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-palette-primer-compreenasive-guide-to-coloring/"><u>[Updated] The Palette Primer Compreenasive Guide to Coloring</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/how-to-set-a-new-standard-printer-in-windows-tips-from-yl-software-experts/"><u>How To Set a New Standard Printer In Windows: Tips From YL Software Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-best-monitors-for-xbox-series-x/"><u>In 2024, The Best Monitors for Xbox Series X</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-guide-to-gamers-screen-recordings-with-win10/"><u>In 2024, The Ultimate Guide to Gamers' Screen Recordings with Win10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-exciting-photography-aspects-of-ios-11/"><u>In 2024, Unveiling Exciting Photography Aspects of iOS 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-integrity-of-format-with-ffmpegs-audio-recapture-methods-for-2024/"><u>The Integrity of Format with FFmpeg's Audio Recapture Methods for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-android-photo-tech-tips-and-apps-guide-for-2024/"><u>Top Android Photo-Tech Tips & Apps Guide for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-wmvcoredll-missing-errors-tips-and-solutions/"><u>Troubleshooting Wmvcore.dll Missing Errors: Tips and Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/celebrating-60-years-of-basic-how-simple-design-propelled-success-and-presented-challenges/"><u>Celebrating 60 Years of BASIC: How Simple Design Propelled Success & Presented Challenges</u></a></li>
+<li><a href="https://some-tips.techidaily.com/combating-developer-burnout-innovative-strategies-employed-by-tech-firms-zdnet/"><u>Combating Developer Burnout: Innovative Strategies Employed by Tech Firms | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-developer-tools-discover-how-googles-project-indexed-idx-now-includes-ios-and-android-emulators-with-enhanced-template-options-zdnet-insights/"><u>Expanding Developer Tools: Discover How Google's Project Indexed (IDX) Now Includes iOS & Android Emulators with Enhanced Template Options - ZDNet Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-picks-5-exceptional-vpns-that-transform-your-youtube-watching-habits/"><u>Expert Picks: 5 Exceptional VPNs That Transform Your YouTube Watching Habits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertly-selected-the-ultimate-list-of-2022s-best-coding-bootcamps-for-your-tech-career-zdnet/"><u>Expertly Selected: The Ultimate List of 2022'S Best Coding Bootcamps for Your Tech Career | ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-a14-4g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-enhance-and-clean-up-youtube-footage-borderless-tutorial/"><u>In 2024, Enhance and Clean Up YouTube Footage Borderless Tutorial</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-6s-plus-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 6s Plus with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-debates-in-defining-open-source-ai-major-strides-and-dissenting-voices-featured-on-zdnet/"><u>Navigating the Debates in Defining Open Source AI: Major Strides & Dissenting Voices | Featured on ZDNET</u></a></li>
+<li><a href="https://solve-info.techidaily.com/recomendacoes-gratis-para-restaurar-itens-apagados-no-windows-10-abordagens-eficazes-em-5-pontos/"><u>Recomendações Grátis Para Restaurar Itens Apagados No Windows 10 - Abordagens Eficazes Em 5 Pontos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-thinkphone-by-fonelab-android-recover-data/"><u>Recover lost data from ThinkPhone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-update-process-for-epson-xp-440-drivers-heres-how/"><u>Seamless Update Process for Epson XP-440 Drivers - Here's How</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726808666644-understanding-immutable-linux-distributions-benefits-and-use-cases/"><u>Understanding Immutable Linux Distributions - Benefits and Use Cases</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-openstack-and-kata-containers-are-catching-on-again-the-new-era-of-enterprise-compute-solutions-zdnet-insights/"><u>Why OpenStack and Kata Containers Are Catching On Again - The New Era of Enterprise Compute Solutions | ZDNET Insights</u></a></li>
 </ul></div>
 

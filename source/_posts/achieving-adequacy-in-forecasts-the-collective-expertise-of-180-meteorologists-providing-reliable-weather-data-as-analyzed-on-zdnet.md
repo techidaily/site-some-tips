@@ -1,7 +1,7 @@
 ---
 title: "Achieving Adequacy in Forecasts: The Collective Expertise of 180 Meteorologists Providing Reliable Weather Data as Analyzed on ZDNet"
-date: 2024-09-18 14:10:34
-updated: 2024-09-20 11:17:33
+date: 2025-01-04T22:00:11.930Z
+updated: 2025-01-05T20:16:46.716Z
 tags:
   - cloud
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/1b197dac261b78f768deb74da8ea7cc5a8aab4e5f
 
 What's a good enough weather prediction? That's a question most people probably don't give much thought to, as the answer seems obvious -- an accurate one. But then again, most people are not CTOs at DTN. Lars Ewe is, and his answer may be different than most people's. With 180 meteorologists on staff providing weather predictions worldwide, [DTN](https://www.dtn.com/) is the largest weather company you've probably never heard of.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best extreme weather tech: Top gear for power outages Some of us like to go off the grid, while others find themselves forced off the grid. Having the right gear can make a huge difference.  Read now](https://www.zdnet.com/article/best-extreme-weather-tech/)
@@ -20,6 +24,10 @@ What's a good enough weather prediction? That's a question most people probably 
 Case in point: DTN is not included in ForecastWatch's "[Global and Regional Weather Forecast Accuracy Overview 2017 - 2020](https://www.forecastwatch.com/wp-content/uploads/Global%5Fand%5FRegional%5FWeather%5FForecast%5FAccuracy%5FOverview%5F2017-2020.pdf)." The report rates 17 weather forecast providers according to a comprehensive set of criteria, and a thorough data collection and evaluation methodology. So how come a company that started out in the 1980s, serves a global audience, and has always had a strong focus on weather, is not evaluated?
 
 * **See also:** [**US weather, climate forecasting is about to get way better**](https://www.zdnet.com/article/us-weather-climate-forecasting-is-about-to-get-way-better/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Weather forecast as a big data and internet of things problem
 
@@ -46,6 +54,10 @@ In many regards, weather forecasting today is really a big data problem. To some
 As a consequence, producing weather predictions does not just involve the domain expertise of meteorologists, but also the work of a team of data scientists, data engineers, and machine learning/DevOps experts. Like any big data and data science task at scale, there is a trade-off between accuracy and viability.
 
 * [**Best extreme weather tech 2022: Power outage gear**](https://www.zdnet.com/home-and-office/yard-outdoors/best-extreme-weather-tech/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Good enough weather prediction at scale
 
@@ -90,11 +102,27 @@ Coming full circle, Ewe noted that DTN's attention is focused on the company's d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-sprinkle-life-into-text-two-methods-for-bouncing-effects/"><u>[New] In 2024, Sprinkle Life Into Text Two Methods for Bouncing Effects</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-revolutionizing-photo-quality-with-auto-and-smart-hdr-features/"><u>[Updated] 2024 Approved Revolutionizing Photo Quality with Auto and Smart HDR Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-case-study-how-to-grow-on-youtube-to-have-millions-of-subs-for-2024/"><u>[Updated] Case Study How to Grow on YouTube to Have Millions of Subs for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-navigating-through-ioss-recording-software-landscape/"><u>[Updated] Navigating Through iOS's Recording Software Landscape</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-video-constructor-suite/"><u>[Updated] Video Constructor Suite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bust-the-broccoli-issue-in-destiny-2-with-our-comprehensive-patch-guide/"><u>Bust the 'Broccoli Issue' In Destiny 2 with Our Comprehensive Patch Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027506252-gopro/"><u>GoProビデオ解像度調整の徹底ガイド</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-nubia-z50-ultra-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Nubia Z50 Ultra PIN</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplifying-international-communication-discover-how-google-workspace-enhances-name-pronunciation-accuracy/"><u>Simplifying International Communication: Discover How Google Workspace Enhances Name Pronunciation Accuracy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tencent-enters-the-fray-launches-enterprise-focused-ai-framework-in-chinas-gpt-contender-sprint/"><u>Tencent Enters the Fray: Launches Enterprise-Focused AI Framework in China's GPT Contender Sprint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-leading-cloud-credentials-featured-on-zdnet/"><u>The Ultimate Guide to Leading Cloud Credentials , Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/us-defense-division-of-cloud-resources-pentagon-splits-significant-deal-with-aws-google-oracle-and-microsoft-inside-look-zdnet/"><u>US Defense Division of Cloud Resources: Pentagon Splits Significant Deal with AWS, Google, Oracle, and Microsoft - Inside Look | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-reports-on-the-new-era-of-privatized-data-centers-aws-rolls-out-local-customer-specific-cloud-zones/"><u>ZDNet Reports on the New Era of Privatized Data Centers: AWS Rolls Out Local Customer-Specific Cloud Zones</u></a></li>
+</ul></div>
+

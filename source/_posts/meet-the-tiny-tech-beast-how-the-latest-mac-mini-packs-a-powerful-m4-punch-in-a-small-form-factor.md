@@ -1,7 +1,7 @@
 ---
 title: "Meet the Tiny Tech Beast: How the Latest Mac Mini Packs a Powerful M4 Punch in a Small Form Factor"
-date: 2024-12-26T16:40:31.993Z
-updated: 2024-12-27T16:31:27.737Z
+date: 2025-01-02T20:18:54.698Z
+updated: 2025-01-05T21:23:00.873Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,18 +146,17 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-cost-effective-streaming-on-low-cost-pcs/"><u>[New] In 2024, Cost-Effective Streaming on Low-Cost PCs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamlining-movie-color-correction-through-luts-application/"><u>[New] Streamlining Movie Color Correction Through Luts Application</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tailoring-your-footage-a-comprehensive-guide-to-gopros-color-adjustment/"><u>[New] Tailoring Your Footage A Comprehensive Guide to GoPro's Color Adjustment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>[Updated] Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-most-acclaimed-cloud-services-on-android-platform/"><u>[Updated] The Most Acclaimed Cloud Services on Android Platform</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-untangling-box-mystery-ideas-to-boost-joy/"><u>[Updated] Untangling Box Mystery Ideas to Boost Joy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition/"><u>2024 Approved The Cinematic Revolution Exploring the Best Shots & Lighting Tips - '24 Edition</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/effortlessly-edit-images-using-snapseed-tips/"><u>Effortlessly Edit Images Using Snapseed Tips</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pinpointing-the-premier-hdr-cameras-for-photography/"><u>In 2024, Pinpointing the Premier HDR Cameras for Photography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-guide-for-subtitles-insertion-in-mp4-files/"><u>In 2024, Precision Guide for Subtitles Insertion in MP4 Files</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782209-9781620552803-the-high-magic-of-talismans-and-amulets/"><u>The High Magic of Talismans and Amulets | Free Book</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnet-recommends-find-the-perfect-gamers-acoustic-companer-at-best-buy-for-an-unparalleled-audio-experience-now-on-discount/"><u>ZDNet Recommends: Find the Perfect Gamers' Acoustic Companer at Best Buy for an Unparalleled Audio Experience, Now on Discount!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-enhancing-video-longeayer-androidmac-app-utilization/"><u>[New] Enhancing Video Longeayer Android/Mac App Utilization</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rime-editing-choosing-the-best-for-youtube-for-2024/"><u>[New] Prime Editing Choosing the Best For YouTube for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-enhancing-your-audacity-sessions-for-excellence/"><u>2024 Approved Enhancing Your Audacity Sessions for Excellence</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-for-lenovos-inoperative-touch-interface/"><u>Fix for Lenovo's Inoperative Touch Interface</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/flashing-feathersticks-short-film-characters-music-for-2024/"><u>Flashing Feathersticks Short Film Characters' Music for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro Max to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-lost-sounds-a-comprehensive-fix-for-silent-hearthstone-battles/"><u>Restoring Lost Sounds: A Comprehensive Fix for Silent Hearthstone Battles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamping-recruitment-strategies-a-new-approach-to-attracting-top-it-professionals/"><u>Revamping Recruitment Strategies: A New Approach to Attracting Top IT Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/scholars-highlight-growing-threats-as-ai-agent-use-expands-insights-from-zdnet/"><u>Scholars Highlight Growing Threats as AI Agent Use Expands - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/six-key-agile-strategies-for-boosting-success-in-software-development-insights-from-zdnet/"><u>Six Key Agile Strategies for Boosting Success in Software Development - Insights From ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/727588-9781446489871-the-secret-path/"><u>The Secret Path | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-java-training-programs-of-2022-insights-from-zdnet/"><u>Top-Rated Java Training Programs of 2022: Insights From ZDNet</u></a></li>
 </ul></div>
 

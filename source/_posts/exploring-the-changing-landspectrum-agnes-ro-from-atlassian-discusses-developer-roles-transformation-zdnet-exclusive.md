@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Changing Landspectrum: Agnes Ro From Atlassian Discusses Developer Roles Transformation | ZDNET Exclusive"
-date: 2024-09-18 12:33:22
-updated: 2024-09-20 12:42:53
+date: 2024-12-31T23:43:44.173Z
+updated: 2025-01-05T18:01:32.738Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 Image: Atlassian
 
 The last decade has seen the role of software developers evolve at a rapid pace as more and more organisations aimed to deliver new iterations of applications faster and more frequently than ever before.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -39,12 +43,20 @@ Frameworks to support the language that developers write, especially in the fron
 
 "Browser standards are very standardised today, so engineers today deal with more different challenges."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Developer
 
 * [It's the end of programming as we know it -- again](https://www.zdnet.com/article/its-the-end-of-programming-as-we-know-it-again/)
 * [Developers feel secure in their jobs, but they're still thinking about quitting](https://www.zdnet.com/article/developers-feel-secure-in-their-jobs-but-theyre-still-thinking-about-quitting/)
 * [The future of the web will need a different sort of software developer](https://www.zdnet.com/article/the-future-of-the-web-will-need-a-different-sort-of-software-developer/)
 * [The best Linux laptops for consumers and developers](https://www.zdnet.com/article/best-linux-laptop/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Teamwork makes the dream work
 
@@ -58,6 +70,10 @@ She pointed out, for instance, how security is now top of mind during any develo
 
 "Security has become much more ingrained," Ro said. "I would say to all of our engineering teams it's the number-one priority for Atlassian. We've come to understand that it's not just the responsibility within a separate security department; it's everyone's responsibility, and so we do a lot to ensure we're constantly testing and trying to ship the best and secure products for our customers."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A seat at the table
 
 Ro believes software developers are no longer outliers within an organisation, but are increasingly playing more crucial roles. 
@@ -65,6 +81,10 @@ Ro believes software developers are no longer outliers within an organisation, b
 "Engineers now feel much more responsible for all parts of the development lifecycle, so they're not just writing code anymore," she said.
 
 "They really do have to follow all the way through to shipping and the operational side of things, and making sure that it is reliable, stable, and not just about writing and shipping the code, and so I definitely feel that that's been a huge change and shift."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Related Coverage
 
@@ -80,11 +100,26 @@ Ro believes software developers are no longer outliers within an organisation, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-instagrams-hashtag-language-for-enhanced-engagement/"><u>[New] 2024 Approved Mastering Instagram's Hashtag Language for Enhanced Engagement</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-viral-victory-restoring-your-facebook-space/"><u>[Updated] In 2024, Viral Victory Restoring Your Facebook Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-interaction-quality-with-ai-unveiling-adobes-strategy-in-customer-experience-enhancement-via-generative-technologies-featured-on-zdnet/"><u>Advancing Interaction Quality with AI: Unveiling Adobe's Strategy in Customer Experience Enhancement via Generative Technologies | Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-web-services-elevates-connectivity-with-new-on-premise-5g-solution-launched-at-reinvent-2021-zdnet-insights/"><u>Amazon Web Services Elevates Connectivity with New On-Premise 5G Solution Launched at Re:Invent 2021 | ZDNet Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/background-excision-tool-affinity-photo-for-2024/"><u>Background Excision Tool Affinity Photo for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/charting-new-horizons-in-tech-the-synergy-between-edge-to-cloud-strategies-sparking-digital-revolution-perspectives-by-zdnet/"><u>Charting New Horizons in Tech: The Synergy Between Edge-to-Cloud Strategies Sparking Digital Revolution | Perspectives by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-evaluation-of-wp-engine-an-ideal-choice-for-wordpress-host-management-techadvisory/"><u>Comprehensive Evaluation of WP Engine: An Ideal Choice for WordPress Host Management | TechAdvisory</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enterprises-get-access-to-new-ai-solutions-as-alibaba-cloud-embraces-chatgpt-innovation-zdnet/"><u>Enterprises Get Access to New AI Solutions as Alibaba Cloud Embraces ChatGPT Innovation | ZDNET</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-a59-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo A59 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-a58-4g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo A58 4G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-look-at-googles-vision-with-the-pixel-n-a-true-android-revival/"><u>Inside Look at Google's Vision with the Pixel N – A True Android Revival</u></a></li>
+</ul></div>
+

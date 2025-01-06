@@ -1,7 +1,7 @@
 ---
 title: "Singapore's Strategic Roadmap: Pioneering Generative AI & Autonomy - Insights From ZDNet"
-date: 2024-09-18 13:23:10
-updated: 2024-09-20 12:12:47
+date: 2024-12-30T01:48:41.905Z
+updated: 2025-01-05T17:02:00.735Z
 tags:
   - cloud
 categories:
@@ -43,6 +43,10 @@ There also will be initiatives in other nascent areas, such as quantum computing
 
 The government agency said plans are in place to [pilot quantum-safe networks](https://www.zdnet.com/article/singapore-to-build-quantum-safe-network-for-critical-infrastructure-trials/) and quantum-as-a-service applications for commercial customers. "Known as the National Quantum Safe Network Plus (NQSN+), this will allow us to test, innovate and push the boundaries on both technical and commercial deployments," it said. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Launch of innovation center with AWS
 
 IMDA on Monday also announced its partnership with Amazon Web Services (AWS) through the launch of a joint innovation center. Pitched as a launchpad for businesses and startups in Southeast Asia, the new site houses various specialized labs, including 5G as well as augmented and virtual reality. It also has usability-testing facilities. 
@@ -76,11 +80,25 @@ Companies can use the center to develop proof-of-concepts in a sandbox environme
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-10-comprehensible-and-cost-free-subtitle-downloader-sites/"><u>[New] 2024 Approved 10 Comprehensible & Cost-Free Subtitle Downloader Sites</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficiently-convert-your-dvds-to-high-quality-avi-files-using-the-leading-programs-for-pcs-windows-1011/"><u>Efficiently Convert Your DVDs to High-Quality AVI Files Using the Leading Programs for PCs (Windows 10/11)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immersion-redefined-vrs-cinematic-promise/"><u>Immersion Redefined VR's Cinematic Promise</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-nailing-the-perfect-aspect-ratio-on-tweets/"><u>In 2024, Nailing the Perfect Aspect Ratio on Tweets</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-quintessential-fb-video-list-for-you/"><u>In 2024, The Quintessential FB Video List for You</u></a></li>
+<li><a href="https://some-tips.techidaily.com/it-experts-face-burnout-yet-possibilities-for-recovery-abound-insights-from-zdnet/"><u>IT Experts Face Burnout Yet Possibilities for Recovery Abound - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-rag-insights-seamlessly-merging-generative-ai-and-enterprise-expertise-techdigest/"><u>Leveraging RAG Insights: Seamlessly Merging Generative AI and Enterprise Expertise | TechDigest</u></a></li>
+<li><a href="https://win-forum.techidaily.com/secrets-to-always-opening-programs-with-full-privileges-in-windows-11/"><u>Secrets to Always Opening Programs with Full Privileges in Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sharpen-your-stream-top-5-video-improvement-tech/"><u>Sharpen Your Stream Top 5 Video Improvement Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-new-potentials-for-apple-enthusiasts-complimentary-ai-integration-in-programming-tools-insights-by-zdnet/"><u>Unlocking New Potentials for Apple Enthusiasts: Complimentary AI Integration in Programming Tools | Insights by ZDNET!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-how-advanced-artificial-intelligence-might-define-success-for-apples-upcoming-iphone-16-insights-by-zdnet/"><u>Unveiling How Advanced Artificial Intelligence Might Define Success for Apple’s Upcoming iPhone 16 - Insights by ZDNet</u></a></li>
+</ul></div>
+

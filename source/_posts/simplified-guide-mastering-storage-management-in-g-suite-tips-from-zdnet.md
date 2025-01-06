@@ -1,7 +1,7 @@
 ---
 title: "Simplified Guide: Mastering Storage Management in G Suite - Tips From ZDNet"
-date: 2024-09-18 11:47:18
-updated: 2024-09-20 11:20:53
+date: 2025-01-02T17:16:32.964Z
+updated: 2025-01-05T20:29:04.011Z
 tags:
   - cloud
 categories:
@@ -39,13 +39,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Let me show you how easy it is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to manage your Google Workspace storage
 
 **What you'll need:** The only things you'll need are a valid Google account and a web browser. This of course can also be done on an Android device with Google One, but I'm going to show you how to take care of the task from within a web browser. You can use any browser that supports Google Workspace (which includes nearly all popular browsers).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open the Storage Manager
 
 The first thing to do is open your default web browser and point it to the [Google Storage Manager](https://one.google.com/storage/management). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clean up by suggested items
 
@@ -64,6 +76,10 @@ Do the same for the other options under Clean up suggested items.
 The fastest way to delete all of your trashed emails is to click Delete All.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clean up by service
 
@@ -100,11 +116,27 @@ And that's how you can easily manage your Google Workspace storage. Keep on top 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-effortless-creativity-premier-pro-free-2023-guide/"><u>[New] 2024 Approved Effortless Creativity - Premier Pro FREE 2023 Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-comprehensive-tips-for-film-recording-on-multiple-platforms-for-2024/"><u>[New] Comprehensive Tips for Film Recording on Multiple Platforms for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-haunting-actions-high-definition-cams/"><u>[New] Haunting Actions High Definition Cams</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-enhance-viewer-engagement-the-top-6-methods-for-higher-youtube-audience-retention/"><u>[Updated] 2024 Approved Enhance Viewer Engagement The Top 6 Methods for Higher YouTube Audience Retention</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-enhancements-linux-kernel-65-unveiled-whats-new-on-zdnet/"><u>Discover the Enhancements: Linux Kernel 6.5 Unveiled - What's New on ZDNet!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-vmwares-fusion-and-workstation-pro-at-no-cost-tips-for-home-use-insights-from-zdnet/"><u>Download VMware's Fusion & Workstation Pro at No Cost: Tips for Home Use - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fluctuating-fortunes-of-programming-languages-a-look-at-the-ups-and-downs-since-2016-insights-from-zdnet/"><u>Fluctuating Fortunes of Programming Languages: A Look at the Ups and Downs Since 2016 - Insights From ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/high-quality-dvd-duplication-secure-and-flawless-transfer-of-data-from-original-to-duplicate-disc/"><u>High-Quality DVD Duplication: Secure & Flawless Transfer of Data From Original to Duplicate Disc</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-breakdown-vsco-photography-tools/"><u>In 2024, Comprehensive Breakdown VSCO Photography Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-ai-smarts-into-your-androids-bing-use/"><u>Integrating AI Smarts Into Your Android's Bing Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-code-elite-web-dev-course-selections-by-zdnet/"><u>Mastering Code: Elite Web Dev Course Selections by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-future-in-coding-the-three-imperative-programming-languages-every-aspiring-developer-should-know/"><u>Secure Your Future in Coding: The Three Imperative Programming Languages Every Aspiring Developer Should Know!</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/solve-your-dvds-sound-issues-tips-to-fix-distorted-or-skipped-audio-during-playback/"><u>Solve Your DVD's Sound Issues: Tips to Fix Distorted or Skipped Audio During Playback</u></a></li>
+</ul></div>
+

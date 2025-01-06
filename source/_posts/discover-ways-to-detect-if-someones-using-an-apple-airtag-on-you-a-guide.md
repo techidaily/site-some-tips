@@ -1,7 +1,7 @@
 ---
 title: "Discover Ways to Detect If Someone's Using an Apple AirTag on You: A Guide"
-date: 2024-12-17T22:41:36.998Z
-updated: 2024-12-22T04:32:46.090Z
+date: 2025-01-03T00:31:51.996Z
+updated: 2025-01-06T01:13:01.949Z
 tags:
   - apple
 categories:
@@ -25,6 +25,10 @@ In this article, I answer a relatively common reader question: _What does it all
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Understanding the CPU
 
@@ -57,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Multiple cores can increase performance considerably for problems that can be split into parallel processes. Many modern processes work well in parallel, especially graphics, data crunching, AI, ML, and AR-related tasks. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  CPU vs. SoC
@@ -83,7 +87,7 @@ SoCs have enormous performance benefits because all the electrical impulses have
 It wasn't until SoCs could be successfully fabricated with tens of billions of transistors that they were suitable for high-performance personal computers. They can be now, so now they are. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Apple Silicon
@@ -107,7 +111,7 @@ They're a win for Apple because the company no longer has to rely on Intel for i
 However, the Silicon transition was a win for Apple and its customers solely because of something called Rosetta 2\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Rosetta 2
@@ -153,7 +157,7 @@ It's a win for both developers and users when code is compiled for Apple Silicon
 I found, for example, that Rosetta-translated Chrome was OK but a bit sluggish. When I replaced that with the Apple Silicon version of Chrome, it was far faster. For help finding out which of your applications are Native, Intel, or "Universal" (meaning the application contains native code for both Intel and Apple Silicon), read "[Sluggish apps on your M1 Mac? Check this first for a possible fix](https://www.zdnet.com/article/the-first-thing-to-check-if-an-app-seems-sluggish-on-your-m1-mac/)." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  M1, M2, M3, Pro, Max, and Ultra
@@ -177,10 +181,6 @@ David Gewirtz/ZDNET
 The M-series processors are SoCs, so memory and storage come right on the chip. Depending on the chip, you can go from 8GB RAM up to 192GB RAM and 256GB of flash storage up to a whopping 8TB on the 16-inch MacBook Pro with M3 Max. That additional storage will cost you, to the tune of a few thousand bucks more. But if you need it, you need it.
 
 The sizes of the chips differ considerably. The base chip is about a quarter the size of the Max model. This makes sense because the Max crams a lot more onto its die. It got smaller between the M2 and M3 generations when the die-production process went from 5-nanometer to 3-nanometer components. But for now, it's just interesting to note that the M3 Max has 92 billion transistors, while the double-chip M2 Ultra has 134 billion transistors -- all in the space of about the size of a fingernail. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Final thoughts
 
@@ -222,16 +222,24 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-the-art-of-audio-design-in-magix-vst-2023/"><u>[New] The Art of Audio Design in Magix VST 2023</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-ultimate-guide-to-capturing-and-editing-high-quality-slow-motion-videos-for-instagram/"><u>2024 Approved The Ultimate Guide to Capturing and Editing High-Quality Slow Motion Videos for Instagram</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-1-top-11/"><u>2024의 1위: Top 11 동영상 인코딩 소피</u></a></li>
-<li><a href="https://some-tips.techidaily.com/7-best-no-cost-dvd-players-of-202-recommended-software-list/"><u>7 Best No-Cost DVD Players of 202^! Recommended Software List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-f4v-avi/"><u>逐步指南：如何利用 Movavi 轉換器無限制地將 F4V 圖像翻轉成 AVI</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/anointing-editors-without-spending-a-dime-for-2024/"><u>Anointing Editors Without Spending a Dime for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-windows-11s-night-light-feature-failure/"><u>Fixing the Issue: Windows 11'S Night Light Feature Failure</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-x90s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo X90S Quickly? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/la-guia-definitiva-para-reducir-el-tamano-de-archivos-voluminosos-con-los-herramientas-de-compactacion-mas-eficaces/"><u>La Guía Definitiva Para Reducir El Tamaño De Archivos Voluminosos Con Los Herramientas De Compactación Más Eficaces</u></a></li>
-<li><a href="https://some-tips.techidaily.com/quick-guide-to-easily-reverse-a-video-in-real-time-using-your-computer-or-going-online/"><u>Quick Guide to Easily Reverse a Video in Real-Time Using Your Computer or Going Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/save-your-device-effective-steps-to-revive-soaked-iphones-and-ipods/"><u>Save Your Device: Effective Steps to Revive Soaked iPhones & iPods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-essential-vsco-editing-techniques-summary/"><u>[New] In 2024, Essential VSCO Editing Techniques Summary</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/adding-value-with-recommendations/"><u>Adding Value with Recommendations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/audiences-guide-to-economical-mobile-power-units-of-2024-ratings-and-test-results-cnet/"><u>Audience's Guide to Economical Mobile Power Units of 2024 - Ratings and Test Results | CNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-high-beam-lanterns-professional-endorsements-gadgetguru-reviews/"><u>Best High-Beam Lanterns : Professional Endorsements | GadgetGuru Reviews</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/chromecast-plus-google-tv-review-the-rising-competition-for-firetv-enthusiasts/"><u>Chromecast + Google TV Review: The Rising Competition for FireTV Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-homegrown-generator-bargains-in-december-2022-in-depth-analysis-and-deals-compilation-by-zdnet/"><u>Discover the Ultimate Homegrown Generator Bargains in December 2022: In-Depth Analysis and Deals Compilation by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-selection-of-affordable-portable-power-solutions-for-holidays-exclusive-offers-inside/"><u>Discover the Ultimate Selection of Affordable Portable Power Solutions for Holidays - Exclusive Offers Inside!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fb-melody-cache-legally/"><u>FB Melody Cache (Legally)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/impeding-green-initiatives-and-ai-progress-the-role-of-inefficient-data-centers-zdnet-insights/"><u>Impeding Green Initiatives & AI Progress: The Role of Inefficient Data Centers | ZDNet Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/section-2a-explanation-of-sweep-frequency-generation/"><u>Section 2A: Explanation of Sweep Frequency Generation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-the-budget-friendly-anker-power-station-model-555-for-a-steal-at-only-799-limited-time-offer/"><u>Secure the Budget-Friendly Anker Power Station Model 555 for a Steal at Only $799 - Limited Time Offer!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-complete-guide-to-gopro-hero5-for-2024/"><u>The Complete Guide to GoPro Hero5 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-portable-power-solutions-comprehensive-evaluation-by-tech-experts-zdnet/"><u>Top-Ranking Portable Power Solutions : Comprehensive Evaluation by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steps-to-resolve-battlenet-login-on-pcs/"><u>Troubleshooting Steps to Resolve Battle.net Login on PCs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722190658936-tweet-no-more-smiley-face-linuss-disclosure-trojan-explanation-and-gpt-problems-uncovered/"><u>Tweet No More Smiley Face, Linus’s Disclosure, Trojan Explanation, & GPT Problems Uncovered.</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ate-guide-to-the-most-effective-16-youtube-intros-for-2024/"><u>Ultimate Guide to the Most Effective 16 YouTube Intros for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-savings-secure-your-ultimate-power-strip-at-20-discount-only-on-amazon-featured-by-zdnet/"><u>Unleash Savings: Secure Your Ultimate Power Strip at 20% Discount Only on Amazon - Featured by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-exclusive-leviton-unveils-cutting-edge-smart-devices-spotlighting-the-innovative-matter-outdoor-plug/"><u>ZDNet Exclusive: Leviton Unveils Cutting-Edge Smart Devices, Spotlighting the Innovative Matter Outdoor Plug</u></a></li>
 </ul></div>
 

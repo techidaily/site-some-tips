@@ -1,7 +1,7 @@
 ---
 title: "Advancing Development & Data Analysis: How Google Cloud Enhances Toolsets & Incorporates Generative AI"
-date: 2024-09-19 22:58:56
-updated: 2024-09-20 11:31:24
+date: 2024-12-31T03:44:15.233Z
+updated: 2025-01-06T00:47:10.775Z
 tags:
   - cloud
 categories:
@@ -37,6 +37,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Duet AI for cloud development 
 
 In May, Google showed how Duet AI can be used for code and chat-level assistance. Since that time, "trusted developers" (their term) have been testing out the capability and providing feedback to Google's engineers. According to Google, Duet AI is intended to provide developer support across the entire development lifecycle, providing help for coding, source citation, test coverage, designing and publishing APIs, migrating and modernizing applications, and more. 
@@ -59,6 +63,10 @@ Calder says: "We have started to work with select enterprises to allow Duet Al t
 
 Another compelling feature is that Duet AI can help developers publish APIs using natural language prompts. Once again, when it works, this has the potential to be a huge time-saver. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Duet AI for databases and data analytics in the cloud 
 
 Google has a laundry list of massive services for data and database management. At Google Next '23, the company indicated it's integrating Duet AI into most of them. 
@@ -75,6 +83,10 @@ Google has announced that Duet AI now supports Cloud Spanner. Duet AI can write 
 **Also: [The other shoe finally dropped on my Google Enterprise cloud storage plan](https://www.zdnet.com/article/the-other-shoe-finally-dropped-on-my-google-enterprise-cloud-storage-plan/)**
 
 The company says Duet AI will also be available for Alloy DB and Cloud SQL, with no delivery date specified yet. Google is offering a Duet AI service to migrate Oracle to AlloyDB and Oracle to Cloud SQL-for-PostgreSQL later this year. If that last sentence lights your fire, then you're a target customer for this new AI service. Expect other legacy systems to benefit from these sort of migrations in the future. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Shifting down instead of shifting left 
 
@@ -98,6 +110,10 @@ Google has announced a number of "shifting down" efforts:
 * **Duet AI for code completion and chat:** We talked about this effort above, and it's intended to offload the work from developers to the AI.
 * **Shifting down interoperability:** Google has announced the general availability of Application Integration, a no-code integration platform-as-a-service offering, that contains a drag-and-drop interface for connecting services together. Think of it as a Zapier for enterprise-level cloud projects. Google also announced that Duet AI will help here, as well.
 * **Cloud workstations:** Although this capability has been around for a while, Google is highlighting that the use of its virtual desktop service can "shift the burden of provisioning, scaling, managing and securing developer environments down to the platform."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  David's hot take 
 
@@ -127,11 +143,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-converting-spotify-playlist-content-for-youtube-music-compatibility/"><u>[New] 2024 Approved Converting Spotify Playlist Content for YouTube Music Compatibility</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nveiling-the-best-mobile-tools-to-pull-videos-from-youtube-for-2024/"><u>[New] Unveiling the Best Mobile Tools to Pull Videos From YouTube for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-auto-play-youtube-iphoneandroid-no-notification-for-2024/"><u>[Updated] Auto-Play YouTube IPhone/Android, No Notification for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-easily-download-specific-youtube-sections-for-2024/"><u>[Updated] Easily Download Specific YouTube Sections for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-quick-setup-obs-and-zoom-coexistence-made-simple-for-2024/"><u>[Updated] Quick Setup OBS & Zoom Coexistence Made Simple for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/agnes-ro-unveiling-the-changing-landscape-of-developer-roles-at-atlassian-insights-from-zdnet/"><u>Agnes Ro: Unveiling the Changing Landscape of Developer Roles at Atlassian - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/and-graviton-4-ai-silicon-technologies/"><u>And Graviton 4 AI Silicon Technologies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aw6-amazons-aws-establishes-presence-in-australia-with-melbourne-region-launch-and-a-45b-dollar-investment-commitment/"><u>AW6: Amazon's AWS Establishes Presence in Australia with Melbourne Region Launch and a 4.5B Dollar Investment Commitment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowering-government-services-through-cloud-based-artificial-intelligence-the-singapore-model-featured-on-zdnet/"><u>Empowering Government Services Through Cloud-Based Artificial Intelligence - The Singapore Model, Featured on ZDNET</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-safety-and-performance-the-complete-guide-to-anker-roav-dash-cam-c1/"><u>Evaluating Safety and Performance - The Complete Guide to Anker Roav Dash Cam C1</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-the-improved-development-toolset-at-microsofts-build-event-won-over-devotees-according-to-zdnet/"><u>How the Improved Development Toolset at Microsoft's Build Event Won Over Devotees, According to ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mac-users-guide-the-full-spectrum-of-screenflow-pro/"><u>Mac Users Guide The Full Spectrum of ScreenFlow Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-complexities-of-hybrid-cloud-management-insights-from-industry-experts-zdnet/"><u>Navigating the Complexities of Hybrid Cloud Management: Insights From Industry Experts - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/office-2016-and-2019-longevity-assured-with-ongoing-microsoft-365-integration-plans-for-next-year-zdnet-insights/"><u>Office 2016 and 2019 Longevity Assured with Ongoing Microsoft 365 Integration Plans for Next Year | ZDNET Insights</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-windows-1-groove-the-storportsys-crash-issue-and-regain-system-stability/"><u>Troubleshooting Windows 1 Groove the storport.sys Crash Issue and Regain System Stability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unexpected-surge-in-googles-monthly-enterprise-spaceship-costs-up-38/"><u>Unexpected Surge in Google's Monthly Enterprise Spaceship Costs - Up 38%</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-winservicesexe-on-windows-heres-how-to-fix-errors-related-to-it/"><u>What Is winservices.exe on Windows? Here's How to Fix Errors Related to It</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-impressive-tech-of-the-iphone-16-might-not-justify-its-price-tag-insights-from-zdnet/"><u>Why the Impressive Tech of the iPhone 16 Might Not Justify Its Price Tag: Insights From ZDNet</u></a></li>
+</ul></div>
+

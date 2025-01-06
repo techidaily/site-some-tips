@@ -1,7 +1,7 @@
 ---
 title: "Exploring Notion: A Comprehensive Guide to Boosting Your Efficiency with One of the Top Workplace Tools - Insights From a Tech Blogger"
-date: 2024-09-18 23:58:33
-updated: 2024-09-20 10:17:31
+date: 2024-12-31T21:56:46.845Z
+updated: 2025-01-05T22:48:26.943Z
 tags:
   - cloud
 categories:
@@ -71,6 +71,10 @@ For example, here's part of a page with print settings and G-code (the code that
 
 The graphics and code from that set of notes wound up in my [Creality Sermoon D1 article](https://www.zdnet.com/article/creality-sermoon-d1-review-3d-printer-under-700/) and [video](https://youtu.be/7T56N-XZPA0).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Project management database
 
 Another powerful data structure is the table. I use one to track all my assigned projects at ZDNet. 
@@ -80,6 +84,10 @@ One of the most powerful features of Notion is the way it lets you filter data i
 You can even cross-reference tables. For example, I have a set of tables that tracks overall expenses for all the cloud services we use. One table summarizes all the expenses for each category, while another table contains all the detailed information, which can then be sliced up as needed when doing cost management. 
 
 When my firm got involved in an international acquisition last year, I put together a massive table that tracked all the moving parts, had detailed notes in the various fields, and allowed us to manage the transition across continents. That was all managed in Notion. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lab notes
 
@@ -101,6 +109,10 @@ Also, before I go on, I should mention that Notion does have some wind in its sa
 
 ## Ten things I like about Notion
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -120,6 +132,10 @@ Here are ten things I really like about Notion in no particular order.
 
 I should also add that there is a wealth of information on using Notion out there. Notion itself does a great job with video training, and there are tons of helpful YouTube videos as well. It also comes with a bunch of moderately useful templates you can copy and customize, so you don't have to start from scratch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Five things I don't like about Notion
 
 This is hard. Overall, I've found Notion to be a powerful tool. That's said, there are a few things I'm not thrilled with: 
@@ -137,6 +153,10 @@ Granted, dot-s-o is being used merely as a vanity top-level domain. Even so, the
 In reality, you don't need to worry. The fact is, Notion is located in San Francisco, and all its data is on AWS, but the optics of the dot-s-o association could still be problematic. I reached out to the company on this issue and will update this article if there's a response. 
 
 [Notion View now at Notion](https://www.notion.so/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -173,11 +193,31 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-broadcast-bunkers-for-facebooks-2023/"><u>[New] Broadcast Bunkers for Facebook's 2023</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-start-screen-special-free-editing-tools/"><u>[Updated] In 2024, Start Screen Special Free Editing Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a15-4g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/atandt-and-ibm-unveil-new-collaborative-innovation-hub-for-government-agencies-insights-from-zdnet/"><u>AT&T & IBM Unveil New Collaborative Innovation Hub for Government Agencies - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/australian-government-rolls-out-essential-cloud-safety-manuals-for-smes-spotlighted-on-zdnet/"><u>Australian Government Rolls Out Essential Cloud Safety Manuals for SMEs, Spotlighted on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-nas-solutions-optimize-your-digital-space-with-reliable-storage-drives/"><u>Best NAS Solutions: Optimize Your Digital Space with Reliable Storage Drives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-analysis-of-wp-engine-as-a-reliable-wordpress-hosting-solution-insights-from-zdnet/"><u>Comprehensive Analysis of WP Engine as a Reliable WordPress Hosting Solution – Insights From ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/disabling-and-activating-scanner-seamlessly-on-windows-11/"><u>Disabling & Activating Scanner Seamlessly on Windows 11</u></a></li>
+<li><a href="https://win-tips.techidaily.com/easy-techniques-for-downloading-asmr-whisper-audio-as-an-mp3-file-on-pc-or-mac/"><u>Easy Techniques for Downloading ASMR Whisper Audio as an MP3 File on PC or Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-insights-is-wp-engine-the-best-choice-for-reliable-wordpress-management/"><u>Expert Insights: Is WP Engine the Best Choice for Reliable WordPress Management?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-microsoft-propels-green-tech-with-a-50-million-infusion-to-lanzajet-detailed-by-zdnet/"><u>How Microsoft Propels Green Tech with a $50 Million Infusion to LanzaJet, Detailed by ZDNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-youtubers-playbook-advanced-techniques-for-engaging-editing/"><u>In 2024, Youtuber's Playbook Advanced Techniques for Engaging Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-and-private-alternative-to-google-drive-explore-the-benefits-of-a-decentralized-cloud-storage-solution/"><u>Secure and Private Alternative to Google Drive - Explore the Benefits of a Decentralized Cloud Storage Solution</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-watermark-your-videos-for-free-top-5-software-options/"><u>Updated Watermark Your Videos for Free Top 5 Software Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-explores-the-unparalleled-container-integration-features-of-rhel-93s-latest-release/"><u>ZDNet Explores the Unparalleled Container Integration Features of RHEL 9.3'S Latest Release</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-reports-on-the-grand-opening-of-the-cutting-edge-tropical-datacenter-in-singapore/"><u>ZDNet Reports on the Grand Opening of the Cutting-Edge Tropical Datacenter in Singapore</u></a></li>
+</ul></div>
+

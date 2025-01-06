@@ -1,7 +1,7 @@
 ---
 title: "The Pricey Truth Behind Low-Cost Lifetime Cloud Solutions: Expert Analysis by ZDNet"
-date: 2024-09-17 20:48:29
-updated: 2024-09-20 11:13:49
+date: 2024-12-30T01:31:38.436Z
+updated: 2025-01-06T03:26:21.050Z
 tags:
   - cloud
 categories:
@@ -35,6 +35,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Degoo Cloud 
 
 Let's start with Degoo. I found it on a marketplace for all sorts of intriguing offers. Here, the marketplace is offering a 10TB lifetime storage plan for $99\. As long as you access your account once a year, it will remain active. 
@@ -65,6 +69,10 @@ Clearly, $99 for 10TB is not sustainable. My bet is that storage vendors offerin
 
 Even so, Degoo's unlimited deals don't come close to covering their costs for storage. Keep that in mind as we move on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Prism Drive 
 
 Next up is Prism Drive. Here, we have [a deal for 10TB](https://shop.sweetdeals.com/sales/prism-drive-secure-cloud-storage-lifetime-subscription-10-tb) for even less than Degoo. Found on another marketplace site, Prism Drive provides 10TB of lifetime storage for $89.99\. Revenue from the marketplace sites selling these products generally comes from direct product sales, affiliate commissions, and partnerships with content creators. 
@@ -84,6 +92,10 @@ Then, there's the Trustpilot rating of 1.3 out of five. The leading review is "T
 There is no About page. WHOIS provides no identity, other than showing that its site is a SquareSpace-based site. I found no details about what storage infrastructure Prism Drive uses. I also looked on LinkedIn for anyone who listed their employer as Prism Drive (or PrismDrive). No joy. Zero listings. What I did find was a ton of affiliate listings on tech websites hawking PrismDrive. 
 
 So there's that. On to our third and final company. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Polar Backup 
 
@@ -109,6 +121,10 @@ Another clue that Polar might be using AWS for infrastructure is the mention of 
 
 That's it. That's all I could find. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  So, are these rip-offs? 
 
 Not necessarily. But I do have concerns: 
@@ -126,6 +142,10 @@ If the vendor were huge, like an Amazon or a Google, and they offered a loss lea
 But are they rip-offs? Are these vendors creating these deals and businesses with the express purpose of stealing from the folks who use them? I don't know, maybe not. That said, the vendors in question are also probably not going out of their way to build sustainable trustworthy businesses. 
 
 And really, that's my concern for you. These companies are offering a large amount of data storage for very little money. What happens if they go out of business? What happens to your data? 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What could possibly go wrong?
 
@@ -168,11 +188,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-immersing-viewers-in-new-realities-the-vr-film-revolution/"><u>[Updated] Immersing Viewers in New Realities The VR Film Revolution</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premium-free-switch-console-emulators-for-2024/"><u>[Updated] Premium Free Switch Console Emulators for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-tailored-approach-software-free-vs-softwares-for-vimeo-download-for-2024/"><u>[Updated] Tailored Approach Software-Free Vs. Softwares For Vimeo Download for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-leading-ai-applications-in-2n-industry-key-insights-and-essential-technologies-zdnet/"><u>1. Leading AI Applications in 2N Industry: Key Insights & Essential Technologies (ZDNet)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210711706-9781454922605-a-little-bit-of-symbols/"><u>A Little Bit of Symbols | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/analyzing-the-ebbs-and-flow-of-programming-languages-since-2016-a-deeper-dive-computerworld/"><u>Analyzing the Ebbs & Flow of Programming Languages Since 2016 - A Deeper Dive | ComputerWorld</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mov-movies-content-on-samsung-galaxy-s23-tactical-edition-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/jim-zemlin-discusses-the-hidden-ingredients-to-successful-open-source-initiatives-with-the-linux-foundation-spotlight-by-zdnet/"><u>Jim Zemlin Discusses the Hidden Ingredients to Successful Open-Source Initiatives with The Linux Foundation | Spotlight by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/linuxs-patent-shield-grows-with-oin-artificial-intelligence-left-unprotected-tech-analysis-by-zdnet/"><u>Linux's Patent Shield Grows with OIN; Artificial Intelligence Left Unprotected | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-the-right-way-to-use-iphone-and-airpods-expert-advice-from-zdnets-latest-article/"><u>Master the Right Way to Use iPhone and AirPods: Expert Advice From ZDNet's Latest Article!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/moments-of-quietude-top-idle-smartphone-games/"><u>Moments of Quietude Top Idle Smartphone Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-tough-times-with-tech-prowess-the-enduring-need-for-open-source-and-linux-skills/"><u>Navigating Tough Times with Tech Prowess: The Enduring Need for Open Source and Linux Skills</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-your-logitech-g230-mic-top-fixes-for-audio-malfunctions-resolved/"><u>Optimizing Your Logitech G230 Mic: Top Fixes for Audio Malfunctions Resolved</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-workforce-revolution-how-ai-agents-redefine-jobs-and-careers/"><u>The Future Workforce Revolution: How AI Agents Redefine Jobs and Careers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-changes-in-popularity-for-programming-languages-since-2016-key-findings-and-implications-zdnet/"><u>Understanding Changes in Popularity for Programming Languages Since 2016: Key Findings & Implications - ZDNet</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-infinix-smart-8-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Infinix Smart 8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/winamps-future-plans-revealed-no-open-source-but-a-surprising-twist-discover-the-strategy-behind-the-shift-on-zdnet/"><u>Winamp's Future Plans Revealed: No Open Source, But A Surprising Twist! Discover the Strategy Behind the Shift on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-guide-to-wp-engine-top-choice-in-managed-hosting-for-wordpress-sites/"><u>ZDNet's Guide to WP Engine: Top Choice in Managed Hosting for WordPress Sites</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Expertly Testing the Ultimate List of 2024'S Best Notetaking Tablets: Detailed Analysis"
-date: 2024-12-16T17:59:24.133Z
-updated: 2024-12-21T23:57:27.117Z
+date: 2025-01-04T18:11:19.143Z
+updated: 2025-01-05T17:34:55.210Z
 tags:
   - apple
 categories:
@@ -48,7 +48,7 @@ Cons
 ## iPhone 15 Pro Max
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best iPhone overall
@@ -81,10 +81,14 @@ Cons
 * Pricer than most flagship smartphones
 * No battery life improvement over prior model
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple iPhone 15
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best iPhone for most people
@@ -119,7 +123,7 @@ Cons
 * Need to buy refurbished
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple iPhone 13 Mini
@@ -157,7 +161,7 @@ Cons
 ## Apple iPhone SE (2022)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best cheap iPhone
@@ -189,10 +193,6 @@ Cons
 * Doesn't have a telephoto lens
 * U.S. customers are locked to eSIM
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple iPhone 14
 
 ### Best old-generation iPhone
@@ -212,7 +212,7 @@ The iPhone 14's dual camera system at the rear has been carried over from the iP
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best iPhone?
@@ -261,10 +261,6 @@ ZDNET's mobile experts also liaise with industry colleagues and analysts who hav
 * **Battery life**: For how reliant we've become on smartphones, the top picks on this list are not only able to last you from morning to night but also support fast charging when it's time to top up.
 * **Price**: What you won't find on this list is a device that's not worth the money or is overcharging you for the hardware-software package you're getting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test iPhones
 
 ZDNET's review team spends upwards of a year testing the ins and outs of every major iPhone release, evaluating the day-to-day performance, camera quality, battery life and endurance, and more. Here's a breakdown of every factor we consider before we make recommendations:
@@ -278,6 +274,10 @@ ZDNET's review team spends upwards of a year testing the ins and outs of every m
 
 For a more extensive breakdown, check out our comprehensive [phone testing methodology page](https://www.zdnet.com/article/how-we-test-phones/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone FAQs
 
 ### How do I take care of my new iPhone?
@@ -287,6 +287,10 @@ There are several ways you can keep your iPhone clean and pristine.
 1. One way is by equipping a protective case and/or screen protector. The [best iPhone cases](https://www.zdnet.com/article/best-iphone-15-case/) offer reliable drop and scratch protection, won't bulk up the phone, and may feature some extra utility like a kickstand or MagSafe ring. As for screen protectors, tempered glass options are your best bet to keep the display underneath free of scratches and cracks. They're relatively affordable, too, often coming in [multi-packs for less than $10](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAilun-Protector-Installation-Friendly-Tempered%2Fdp%2FB0CCYN42DL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc7fd0c8e-545a-4fa8-ad55-c46d143ae855%7Cdtp&dtb=1).
 2. Battery management is another key aspect of iPhone maintenance. To keep your device running for as long as possible, consider charging it between 20% to 80% battery. Overcharging the device would otherwise wear down the battery and reduce the health value (found in Settings). When your iPhone battery health is low (anything less than 75% typically is), it would be helpful to get it replaced at an Apple store or by an Apple-authorized technician.
 3. As stressful as it may be to clear up space to download that software update, you absolutely should. Besides fixing any bugs on your iPhone, software updates also bring with them security patches to reduce the chances of your phone getting hacked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is iOS 18 coming, and will my iPhone support it?
 
@@ -313,6 +317,10 @@ Between the two latest generations of iPhones, here are the key reasons to buy o
 * You can find a good deal on a used, second-hand model
 * You prefer having the lightning port
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lightning port vs. USB-C
 
 One of the biggest upgrades with the latest iPhone 15 series is the [USB-C port](https://www.zdnet.com/article/the-iphone-15s-usb-c-upgrade-may-have-serious-implications-for-the-charging-accessory-future/), a faster, more powerful, and more universal charging standard than the Lightning port on previous models. There's really no argument for the Lightning port unless you still own legacy Apple accessories, like the AirPods, and would much rather stick with the one charging standard. 
@@ -335,10 +343,6 @@ Maurice Klaehne, senior market research analyst at Counterpoint Research, sugges
 
 Trading in an old iPhone is one of the easiest (and safest) ways to replace an otherwise unwanted device with a new, more capable one. Most retailers, including Apple, accept trade-ins of older iPhone models, with store credit ranging from as low as $50 to $800; it all depends on which generation your iPhone is, the condition, and whether it turns on or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Do I really need an iPhone case?
 
 While an iPhone case is not a necessity -- your iPhone will still function normally without it -- having one on greatly reduces the chances of wear and tear. For example, the [best cases](https://www.zdnet.com/article/best-iphone-15-case/) are military-grade certified, meaning they'll keep your iPhone protected from waist-high drops. Not only do cases reduce the chances of your phone getting cracked or scratched, but the plastic/rubberized material often provides more grip than if you hold your iPhone naked.
@@ -350,7 +354,7 @@ At the time of writing, the iPhone 13 is the best phone to buy for a parent. Whi
 The cameras on the iPhone 13 are reliable enough for clear video calls, the occasional outdoor photo, and capturing images of children and pets.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is eSIM?
@@ -362,10 +366,6 @@ Embedded Subscriber Identity Module, or eSIM in short, is the electronic version
 There is one problem that ZDNET editor-in-chief [Jason Hiner](https://www.zdnet.com/meet-the-team/jason-hiner/) sees with Apple forcing eSIM adoption on US consumers. "There are a variety of good reasons why some people will still need or prefer a phone with a physical SIM card. The top reason is privacy. This is especially true for some journalists and populations at risk of persecution around the world. Removing the physical SIM card option reduces privacy for millions of people, especially some of the most vulnerable," said Hiner. 
 
 Note that if you buy an iPhone 14 or 15 anywhere outside of the US, the device will come with a regular SIM card slot. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Which iPhone models support 5G?
 
@@ -441,22 +441,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-optimizing-mov-file-storage-in-windows-10-systems-for-2024/"><u>[New] Optimizing .mov File Storage in Windows 10 Systems for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-beginners-pathway-to-fashionable-snaps-and-lenses/"><u>[Updated] In 2024, The Beginner's Pathway to Fashionable Snaps & Lenses</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unveiling-the-secrets-detailed-guide-on-capturing-screens-with-zd/"><u>[Updated] In 2024, Unveiling the Secrets Detailed Guide on Capturing Screens with ZD</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-maximizing-your-media-library-with-mov-on-windows-10/"><u>[Updated] Maximizing Your Media Library with .mov on Windows 10</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-decoding-the-language-of-asmr-videos/"><u>2024 Approved Decoding the Language of ASMR Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-your-sites-analytics-capabilities-using-cookiebot-technology/"><u>Boost Your Site's Analytics Capabilities Using Cookiebot Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boosting-web-traffic-with-cookiebot-technology-the-smart-way-to-seo-success/"><u>Boosting Web Traffic with Cookiebot Technology – The Smart Way to SEO Success</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cloud-based-identity-confirmation-elevated-with-trustids-integration-of-abbyy-optical-character-recognition-technology/"><u>Cloud-Based Identity Confirmation Elevated with TrustID's Integration of ABBYY Optical Character Recognition Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-experience/"><u>Cookiebot-Driven Personalization Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience/"><u>Cookiebot-Driven Personalization: Enhancing User Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-success-enhancing-user-engagement-with-smart-analytics/"><u>Cookiebot-Driven Success: Enhancing User Engagement with Smart Analytics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-conversion-optimization-boost-your-site-performance-easily/"><u>Cookiebot-Enabled Conversion Optimization: Boost Your Site Performance Easily!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhance-your-websites-performance-and-user-experience/"><u>Cookiebot-Enabled: Enhance Your Website's Performance and User Experience</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/decoding-the-tiananmen-square-event-identifying-those-at-fault-with-insights-from-yl-computing-and-yl-software/"><u>Decoding the Tiananmen Square Event: Identifying Those at Fault with Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/samsung-secrets-crafting-compelling-time-lapses-for-2024/"><u>Samsung Secrets Crafting Compelling Time Lapses for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unlocking-tech-potential-the-in-depth-review-of-the-affordable-equipped-for-creativity-moto-g-stylus-phone/"><u>Unlocking Tech Potential: The In-Depth Review of the Affordable, Equipped-for-Creativity Moto G Stylus Phone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-how-to-innovate-transforming-raw-footage-into-youtube-thumbnails-via-smartphones/"><u>[New] 2024 Approved How to Innovate Transforming Raw Footage Into YouTube Thumbnails via Smartphones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-script-to-screen-mastery-through-vida-writers-guide/"><u>[New] From Script to Screen Mastery Through Vida’ Writers Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beating-the-bug-successful-launch-strategies-for-robocop-rogue-city-on-pc-setup/"><u>Beating the Bug: Successful Launch Strategies for 'RoboCop: Rogue City' On PC Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/big-box-evolution-leveraging-edge-to-cloud-strategies-for-unprecedented-digital-overhaul-in-retail-zdnet-exploration/"><u>Big-Box Evolution: Leveraging Edge-to-Cloud Strategies for Unprecedented Digital Overhaul in Retail | ZDNet Exploration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-skills-explore-beyond-ai-at-the-frontier-of-innovation-with-zdnet/"><u>Elevate Your Skills: Explore Beyond AI at the Frontier of Innovation with ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-singapores-operational-technology-emphasizing-data-exchange-and-strengthening-digital-defense-mechanisms/"><u>Enhanced Singapore's Operational Technology: Emphasizing Data Exchange & Strengthening Digital Defense Mechanisms</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-ready-to-roll-top-20-free-adobe-premiere-intro-templates-2023/"><u>Get Ready to Roll Top 20 Free Adobe Premiere Intro Templates 2023</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-mbox-2-drivers-comprehensive-guide-to-download-and-update-on-windows/"><u>Get the Latest MBox 2 Drivers: Comprehensive Guide to Download & Update on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-itel-p40-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Itel P40 Phone Hassle-Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-phase-in-singapores-cybersecurity-efforts-ot-security-blueprint-aims-for-improved-information-sharing-and-resilience-insights-from-zdnet/"><u>New Phase in Singapore's Cybersecurity Efforts: OT Security Blueprint Aims for Improved Information Sharing and Resilience – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/raspberry-pi-leader-discusses-breakthrough-70-ai-kit-launch-vital-milestone-zdnet/"><u>Raspberry Pi Leader Discusses Breakthrough $70 AI Kit Launch - Vital Milestone | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-ai-efficiency-mit-introduces-sub-photon-level-optical-techniques-for-scalable-deep-learning-at-the-edge/"><u>Revolutionizing AI Efficiency: MIT Introduces Sub-Photon Level Optical Techniques for Scalable Deep Learning at the Edge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-retail-how-edge-to-cloud-digital-transformation-fuels-growth-for-major-big-box-stores-zdnet-insight/"><u>Revolutionizing Retail: How Edge-to-Cloud Digital Transformation Fuels Growth for Major Big Box Stores | ZDNet Insight</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tips-and-tricks-to-attract-product-sponsors-to-your-youtube-channel-for-2024/"><u>Tips and Tricks to Attract Product Sponsors to Your Youtube Channel for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/tips-for-successful-live-streams-on-instagram/"><u>Tips for Successful Live Streams on Instagram</u></a></li>
 </ul></div>
 

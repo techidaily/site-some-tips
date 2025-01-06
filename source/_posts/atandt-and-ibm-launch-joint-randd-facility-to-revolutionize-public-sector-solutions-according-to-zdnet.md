@@ -1,7 +1,7 @@
 ---
 title: AT&T and IBM Launch Joint R&D Facility to Revolutionize Public Sector Solutions, According to ZDNET
-date: 2024-09-17 21:46:32
-updated: 2024-09-20 10:21:18
+date: 2024-12-31T23:37:59.283Z
+updated: 2025-01-06T02:33:31.107Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ AT&T and IBM [launched the collaboration](https://www.zdnet.com/article/ibm-form
 "One of the challenges that enterprises have to face when you think about 5G, cloud and edge computing is that it's accelerating pretty fast," William Stovall, AT&T's VP of mobility & IoT, said to _ZDNet_. "The challenge is, how do I undertake this, and how do I put it into practice. So to give enterprise customers a vehicle to see it in the works, and to have the opportunity to co-create, is a benefit that allows them a better roadmap to actually deploy these technologies."
 
 The co-innovation labs are designed to serve a range of industries, with clear use cases in areas like manufacturing and health care. The public sector has a number of compelling use cases, like delivering 5G-enabled communication services to first responders, or providing AR/VR environments to the military. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### MWC 2022
 
@@ -56,11 +60,30 @@ The opening of the new simulation lab will be particularly timely, given the imp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-full-potential-of-picsart-a-comprehensive-review/"><u>[New] Explore the Full Potential of PicsArt - A Comprehensive Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-delving-into-vimeo-your-ultimate-video-partner/"><u>2024 Approved Delving Into Vimeo Your Ultimate Video Partner</u></a></li>
+<li><a href="https://some-tips.techidaily.com/can-artificial-intelligence-determine-the-fate-of-the-iphone-16-unveiling-apples-innovations-in-ai-zdnet/"><u>Can Artificial Intelligence Determine the Fate of the iPhone 16? Unveiling Apple's Innovations in AI | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/collaborate-easily-on-the-go-protons-free-online-drive-now-offers-shared-folders/"><u>Collaborate Easily on the Go – Proton's Free Online Drive Now Offers Shared Folders!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-document-sharing-top-strategies-revealed-by-zdnet/"><u>Elevate Your Document Sharing: Top Strategies Revealed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-cloud-safety-tips-top-five-strategies-to-secure-your-data-techadvisor/"><u>Essential Cloud Safety Tips: Top Five Strategies to Secure Your Data | TechAdvisor</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-capture-engaging-shots-using-strategic-leading-lines-iphone/"><u>In 2024, Capture Engaging Shots Using Strategic Leading Lines (iPhone)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Samsung Galaxy XCover 6 Pro Tactical Edition to New Phone | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-updater-failures-0xca00a009/"><u>Mastering the Art of Fixing Updater Failures #0xCA00A009</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-azures-growing-resource-constraints-strategies-for-customer-adaptation/"><u>Navigating Azure's Growing Resource Constraints: Strategies for Customer Adaptation</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-text-animation-made-easy-best-motion-tracking-tools/"><u>New 2024 Approved Text Animation Made Easy Best Motion Tracking Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/small-businesses-overlook-cybersecurity-risks-despite-being-prime-attack-vectors-insights-from-zdnet/"><u>Small Businesses Overlook Cybersecurity Risks Despite Being Prime Attack Vectors – Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-tutorial-for-musical-harmony-in-your-facebook-feed/"><u>The Ultimate Tutorial for Musical Harmony in Your Facebook Feed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-verdict-on-vllo-performance/"><u>The Verdict on VLLO Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cloud-hosting-solutions-comprehensive-reviews-and-comparisons-insights-from-tech-experts/"><u>Top-Rated Cloud Hosting Solutions: Comprehensive Reviews and Comparisons - Insights From Tech Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-copy-and-paste-glitches-on-your-latest-windows-operating-system/"><u>Troubleshooting Copy & Paste Glitches on Your Latest Windows Operating System</u></a></li>
+</ul></div>
+

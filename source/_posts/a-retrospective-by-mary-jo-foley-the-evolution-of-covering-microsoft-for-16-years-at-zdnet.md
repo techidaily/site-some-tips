@@ -1,7 +1,7 @@
 ---
 title: "A Retrospective by Mary Jo Foley: The Evolution of Covering Microsoft for 16 Years at ZDNet"
-date: 2024-09-18 11:43:56
-updated: 2024-09-20 12:57:45
+date: 2024-12-29T23:08:49.727Z
+updated: 2025-01-06T03:44:57.225Z
 tags:
   - cloud
 categories:
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/80487076e4697eef4efba80b6644ec3d63e792257
 ## A Retrospective by Mary Jo Foley: The Evolution of Covering Microsoft for 16 Years at ZDNet
 
 When [Mary Jo Foley](https://www.zdnet.com/meet-the-team/mary-jo-foley/) started writing for ZDNET in 2006, Bill Gates was still the CEO of Microsoft, Windows and Office software were the nexus of the company, and Microsoft was the fourth largest business in the world by market cap – chasing giants like Exxon, General Electric, and Walmart. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -67,11 +71,33 @@ Mary Jo Foley on Instagram
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-master-the-craft-refining-title-and-description-in-igtv-videos-for-2024/"><u>[New] Master the Craft Refining Title & Description in IGTV Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-2023-ps3-emulators-for-enhanced-gaming/"><u>[Updated] 2024 Approved Top 2023 Ps3 Emulators for Enhanced Gaming</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-effective-ways-to-capture-and-save-snapchat-media-on-phone/"><u>2024 Approved Effective Ways to Capture and Save Snapchat Media on Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-photo-cropping-apps-how-to-crop-photos-on-iphone/"><u>2024 Approved Photo Cropping Apps How to Crop Photos on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/achieving-adequacy-in-forecasts-the-collective-expertise-of-180-meteorologists-providing-reliable-weather-data-as-analyzed-on-zdnet/"><u>Achieving Adequacy in Forecasts: The Collective Expertise of 180 Meteorologists Providing Reliable Weather Data as Analyzed on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-development-and-data-analysis-how-google-cloud-enhances-toolsets-and-incorporates-generative-ai/"><u>Advancing Development & Data Analysis: How Google Cloud Enhances Toolsets & Incorporates Generative AI</u></a></li>
+<li><a href="https://some-tips.techidaily.com/affordable-cloud-storage-solutions-save-big-with-small-cloud-for-only-80-featured-by-zdnet/"><u>Affordable Cloud Storage Solutions: Save Big with Small Cloud for Only $80, Featured by ZDNet!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibaba-anticipates-executive-changes-with-ceo-transitioning-to-cloud-initiatives-insights-from-zdnet/"><u>Alibaba Anticipates Executive Changes with CEO Transitioning to Cloud Initiatives - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-skies-with-syma-19a64mrc-an-economical-rc-helicopter-journey/"><u>Exploring the Skies with Syma 19A64MRC - An Economical RC Helicopter Journey</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-problem-of-dead-space-remastered-not-starting-expert-advice-2024/"><u>Fixing the Problem of Dead Space Remastered Not Starting - Expert Advice 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719228177134-functions-not-working-on-win10-heres-what-to-do/"><u>Functions Not Working on Win10? Here's What to Do!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/protecting-confidential-data-on-onedrive-a-step-by-step-guide-to-setting-up-a-personal-vault-insights-from-zdnet/"><u>Protecting Confidential Data on OneDrive: A Step-by-Step Guide to Setting Up a Personal Vault - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/respect-your-console-no-microphones-here/"><u>Respect Your Console - No Microphones Here!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tackle-your-overflowing-google-drive-issues-effortlessly-unveiling-a-game-changing-solution-as-featured-on-zdnet/"><u>Tackle Your Overflowing Google Drive Issues Effortlessly: Unveiling a Game-Changing Solution as Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pricey-truth-behind-low-cost-lifetime-cloud-solutions-expert-analysis-by-zdnet/"><u>The Pricey Truth Behind Low-Cost Lifetime Cloud Solutions: Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-title-is-informative-indicating-that-the-content-will-explain-kubernetes-and-its-importance-in-modern-technology/"><u>The Title Is Informative, Indicating that the Content Will Explain Kubernetes and Its Importance in Modern Technology.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/urgent-call-from-c-suite-leaders-to-tech-staff-times-ticking-on-digital-revolution-expert-analysis-at-zdnet/"><u>Urgent Call From C-Suite Leaders to Tech Staff: Time's Ticking on Digital Revolution | Expert Analysis at ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-k70-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+</ul></div>
+

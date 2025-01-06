@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Installation of LibreOffice for Mac Users Seeking Free Office Software Solutions
-date: 2024-12-16T01:48:40.484Z
-updated: 2024-12-21T18:22:52.153Z
+date: 2025-01-02T23:29:31.575Z
+updated: 2025-01-05T19:22:43.251Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ Although I rely heavily on Google Docs, it's not the only office suite I use. Th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -46,11 +46,11 @@ LibreOffice includes a user-configurable interface, so you can configure it as a
 
 The only thing you'll need is a macOS device (MacBook or iMac). With that in hand, let's get to the installation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Installing LibreOffice
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Download the installer
 
@@ -63,7 +63,7 @@ Downloading LibreOffice from the official site.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Install LibreOffice
@@ -81,10 +81,6 @@ Installing LibreOffice to macOS.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Delete the installer file
 
 When the installation completes (it'll take a minute or so), close out the installer, right-click the mounted LibreOffice drive, and select Eject (**Figure 4**).
@@ -94,6 +90,10 @@ Ejecting the mounted installer after the fact.
 Image: Jack Wallen
 
 ## How to open LibreOffice
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open Launchpad
 
@@ -108,7 +108,7 @@ Image: Jack Wallen
 Click Open and LibreOffice will finally open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Create a new file
@@ -151,22 +151,24 @@ And that, my friends, is how you install and get started with LibreOffice on mac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-expert-guide-to-enhance-your-iphone-x-animoji-skills/"><u>[New] 2024 Approved Expert Guide to Enhance Your iPhone X Animoji Skills</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-masterclass-splitting-your-screen-for-maximum-impact-on-facebook-live/"><u>[Updated] Masterclass Splitting Your Screen for Maximum Impact on Facebook Live</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-maximizing-visibility-with-smart-hashtag-use-in-fb-advertising/"><u>[Updated] Maximizing Visibility with Smart Hashtag Use in FB Advertising</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1726030005616-mp3/"><u>「MP3プレイヤーで音楽を再生するたびに解決法」</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-total-control-guide-powerdirector-user-manual/"><u>2024 Approved Total Control Guide PowerDirector User Manual</u></a></li>
-<li><a href="https://driver-download.techidaily.com/efficiently-installing-updated-printer-drivers-for-hp-officejet-pro-8720-on-window-systems/"><u>Efficiently Installing Updated Printer Drivers for HP OfficeJet Pro 8720 on Window Systems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-civic-challenge-champions-premier-elections-videogames/"><u>In 2024, Civic Challenge Champions Premier Elections Videogames</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-14-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 14 Pro iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-unlocking-efficiency-incorporating-zoom-into-your-gmail-routine/"><u>In 2024, Unlocking Efficiency Incorporating Zoom Into Your Gmail Routine</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-setting-up-system-restore-on-windows-11/"><u>Step-by-Step Guide to Setting Up System Restore on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-how-to-determine-your-windows-10-edition-and-build/"><u>Step-by-Step Guide: How to Determine Your Windows 10 Edition and Build</u></a></li>
-<li><a href="https://some-tips.techidaily.com/temporary-disabling-of-avg-antivirus-free-2015-a-step-by-step-guide/"><u>Temporary Disabling of AVG AntiVirus Free 2015: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/troubleshoot-and-fix-windows-10-calculator-issues-complete-solution-guide/"><u>Troubleshoot and Fix Windows 10 Calculator Issues – Complete Solution Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-the-ping-tool-a-comprehensive-guide-on-testing-your-online-connectivity/"><u>Understanding the PING Tool: A Comprehensive Guide on Testing Your Online Connectivity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/windows-11-creators-update-troubleshooting-fixing-downloads-and-audio-problems/"><u>Windows 11 Creators Update Troubleshooting: Fixing Downloads and Audio Problems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/windows-11-creators-update-download-stuck-and-no-sound-issues-fixed/"><u>Windows 11 Creators Update: Download Stuck & No Sound Issues [Fixed]</u></a></li>
-<li><a href="https://some-tips.techidaily.com/windows-11-essentials-executing-a-pristine-system-reboot/"><u>Windows 11 Essentials: Executing a Pristine System Reboot</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-mastering-the-art-of-disconnecting-from-your-old-linkedin-account/"><u>[New] 2024 Approved Mastering the Art of Disconnecting From Your Old LinkedIn Account</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-driving-engagement-and-growth-the-role-of-brand-in-youtube-success/"><u>2024 Approved Driving Engagement and Growth The Role of Brand in YouTube Success</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/free-subtitle-grabbers-from-youtube-archive-for-2024/"><u>Best Free Subtitle Grabbers From YouTube Archive for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/entendiendo-el-clon-de-host-en-vmware-y-pasos-para-replicarlo/"><u>Entendiendo El Clon De Host en VMware Y Pasos Para Replicarlo</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tion-of-engagement-key-post-vidcon-events-for-2024/"><u>Evolution of Engagement Key Post-VidCon Events for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-rectify-disabled-right-click-windows-11-touchpad/"><u>How To Rectify Disabled Right-Click Windows 11 Touchpad</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-maximizing-igtv-impact-effective-tips-for-vertical-video-conversion/"><u>In 2024, Maximizing IGTV Impact Effective Tips for Vertical Video Conversion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/leaked-details-revealed-preview-of-samsungs-latest-galaxy-book4-edge-with-snapdragon-chipset-before-microsoft-unveils-new-hardware/"><u>Leaked Details Revealed: Preview of Samsung's Latest Galaxy Book4 Edge with Snapdragon Chipset Before Microsoft Unveils New Hardware</u></a></li>
+<li><a href="https://some-tips.techidaily.com/managing-power-costs-with-ease-discover-schneider-electrics-strategies-zdnet/"><u>Managing Power Costs with Ease: Discover Schneider Electric's Strategies | ZDNet</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-bring-your-videos-to-life-top-rated-1080p-video-editors/"><u>New 2024 Approved Bring Your Videos to Life Top-Rated 1080P Video Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/slashes-price-save-big-with-govee-smart-space-heater-at-only-60-less-info-at-zdnet/"><u>Slashes Price: Save Big with Govee Smart Space Heater at Only $60 Less - Info at ZDNET</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/step-by-step-guide-to-integrate-youtube-media-into-gslides/"><u>Step-by-Step Guide to Integrate YouTube Media Into GSlides</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-affordable-residential-power-solutions-decembers-exclusive-deals-on-generators-zdnet/"><u>Top 4 Affordable Residential Power Solutions - December's Exclusive Deals on Generators | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-electric-lawn-mowers-expert-reviews-and-comparison/"><u>Top 5 Electric Lawn Mowers : Expert Reviews & Comparison</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-budget-friendly-portable-chargers-comprehensive-expert-reviews-by-zdnet/"><u>Top-Rated Budget-Friendly Portable Chargers : Comprehensive Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-flashlights-comprehensive-review-by-specialists-zdnet/"><u>Top-Rated Flashlights : Comprehensive Review by Specialists | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-portable-car-battery-boosters-professional-reviews-by-zdnet/"><u>Top-Rated Portable Car Battery Boosters - Professional Reviews by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-window-air-conditioners-professional-picks-by-techradar/"><u>Top-Rated Window Air Conditioners : Professional Picks by TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-portable-chargers-for-camping-trips-in-depth-analysis-and-expert-ratings-zdnet/"><u>Ultimate Guide to Choosing the Perfect Portable Chargers for Camping Trips: In-Depth Analysis and Expert Ratings | ZDNET</u></a></li>
 </ul></div>
 

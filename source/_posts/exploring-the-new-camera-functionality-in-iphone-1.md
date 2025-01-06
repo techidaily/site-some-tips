@@ -1,7 +1,7 @@
 ---
 title: Exploring the New Camera Functionality in iPhone 1
-date: 2024-12-24T17:20:09.652Z
-updated: 2024-12-27T16:48:30.430Z
+date: 2025-01-04T02:45:15.360Z
+updated: 2025-01-05T23:11:55.917Z
 tags:
   - apple
 categories:
@@ -30,16 +30,12 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -53,10 +49,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 **Also:** [**I want to be excited about the iPhone 16's new camera button, but can't (for now)**](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/)
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
 
@@ -92,9 +84,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -115,7 +115,7 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -125,7 +125,7 @@ Sometimes it's the most obvious factors that influence our choices. The expense 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
@@ -168,20 +168,24 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-building-a-strong-foundation-for-advertising-deals-using-famebit-methods/"><u>[New] In 2024, Building a Strong Foundation for Advertising Deals Using FameBit Methods</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-tips-to-amplify-your-character-with-easy-pubg-alterations-for-2024/"><u>[New] Tips to Amplify Your Character with Easy PUBG Alterations for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-custom-tunes-for-your-pixel-phone/"><u>[New] Unlocking Custom Tunes for Your Pixel Phone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-premium-download-experience-best-youtube-playlist-extractors-reviewed/"><u>[Updated] In 2024, Premium Download Experience Best YouTube Playlist Extractors Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-transformation-of-windows-10-landscape/"><u>[Updated] The Transformation of Windows 10 Landscape</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-using-azures-voice-recognition/"><u>2024 Approved The Essentials of Using Azure's Voice Recognition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-your-single-picture-into-video-magic-with-pixiz/"><u>2024 Approved Transforming Your Single Picture Into Video Magic with Pixiz</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/6-amazing-alternatives-to-photoshop-enjoy-professional-edits-without-the-price-tag/"><u>6 Amazing Alternatives to Photoshop: Enjoy Professional Edits Without the Price Tag</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-next-generation-of-vr-innovations-reviewed/"><u>In 2024, The Next Generation of VR Innovations Reviewed</u></a></li>
-<li><a href="https://win-dash.techidaily.com/master-the-track-with-logitech-g29-racing-wheel-free-download-instructions-for-windows-users-on-versions-7810/"><u>Master the Track with Logitech G29 Racing Wheel: FREE Download Instructions for Windows Users on Versions 7/8/10</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/revel-in-the-best-of-both-worlds-10-meme-feeds-for-chuckles-and-sobs-for-2024/"><u>Revel in the Best of Both Worlds 10 Meme Feeds for Chuckles & Sobs for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/set-new-save-directory-for-mac-snapshots-for-2024/"><u>Set New Save Directory for Mac Snapshots for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-gopro-max-or-hero-11-for-2024/"><u>Ultimate Guide to GoPro Max or Hero 11 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-creative-potential-with-10-best-backdrop-modification-software-for-2024/"><u>Unlock Creative Potential with 10 Best Backdrop Modification Software for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/worldwide-expansion-abbyys-strategic-restructure-to-accelerate-international-progress-company-statement/"><u>Worldwide Expansion: ABBYY's Strategic Restructure to Accelerate International Progress - Company Statement</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-ten-cost-free-virtual-chat-solutions-for-teams/"><u>[New] 2024 Approved Top Ten Cost-Free Virtual Chat Solutions for Teams</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-unveil-the-quickest-ways-to-transform-your-game-characters-speech-in-pubg/"><u>[New] 2024 Approved Unveil the Quickest Ways to Transform Your Game Characters' Speech in PUBG</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-creating-engaging-gaming-broadcasts-using-ai-faces/"><u>[Updated] 2024 Approved Creating Engaging Gaming Broadcasts Using AI Faces</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fix-disrupted-video-streams-in-instagram-reels/"><u>[Updated] In 2024, Fix Disrupted Video Streams in Instagram Reels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-linus-torvalds-discusses-ai-integration-and-rust-in-linux-ecosystem-the-keystone-of-modern-computing/"><u>1. Linus Torvalds Discusses AI Integration & Rust in Linux Ecosystem: The Keystone of Modern Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-unveiling-ubuntu-2404-lts-a-powerhouse-of-speed-and-security-in-the-linux-world/"><u>1. Unveiling Ubuntu 24.04 LTS: A Powerhouse of Speed and Security in the Linux World</u></a></li>
+<li><a href="https://fox-access.techidaily.com/asus-proart-excellence-in-4k-hdr-monitoring-for-2024/"><u>ASUS ProArt Excellence in 4K HDR Monitoring for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/get-the-last-epoch-running-on-your-pc-solutions-to-the-2024-bugs-and-glitches/"><u>Get The Last Epoch Running on Your PC: Solutions to the 2024 Bugs and Glitches</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-unable-to-play-video-issue-error-224003/"><u>How to Fix the Unable-to-Play Video Issue (Error 224003)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-selecting-6-premium-live-audio-devices/"><u>In 2024, Ultimate Guide to Selecting 6 Premium Live Audio Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unlock-xbox-gaming-memories-with-these-4-methods/"><u>In 2024, Unlock Xbox Gaming Memories with These 4 Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/linux-kernel-v6x-exploring-the-best-version-updates-for-optimal-performance/"><u>Linux Kernel v6.x: Exploring the Best Version Updates for Optimal Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastermind-behind-linux-linus-torvalds-discusses-artificebehavioral-intelligence-choosing-rust-and-linuxs-unmatched-significance-exclusive-by-zdnet/"><u>Mastermind Behind Linux - Linus Torvalds Discusses Artificebehavioral Intelligence, Choosing Rust, and Linux's Unmatched Significance | Exclusive by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-future-of-artificial-intelligence-with-open-source-innovation-an-insightful-perspective-from-zdnet/"><u>Navigating the Future of Artificial Intelligence with Open Source Innovation: An Insightful Perspective From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/open-source-the-catalyst-accelerating-ethical-and-innovative-progress-in-ai-insights-from-zdnet/"><u>Open Source: The Catalyst Accelerating Ethical and Innovative Progress in AI - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-trending-coding-languages-today-understanding-their-significance-an-insightful-analysis-by-zdnet/"><u>Top Trending Coding Languages Today: Understanding Their Significance - An Insightful Analysis by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unavoidable-progress-how-open-source-ai-has-advanced-with-definitive-clarity-at-zdnet/"><u>Unavoidable Progress: How Open Source AI Has Advanced with Definitive Clarity at ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-a34-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy A34 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-limits-of-chatgpts-recall-powers-fascinating-discoveries-from-a-zdnet-investigation/"><u>Unveiling the Limits of ChatGPT's Recall Powers – Fascinating Discoveries From a ZDNet Investigation</u></a></li>
 </ul></div>
 

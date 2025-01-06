@@ -1,7 +1,7 @@
 ---
 title: "Advancing General AI: How Telecom Companies Can Follow 5G's Lead in Finding Profitable Applications"
-date: 2024-09-19 13:36:12
-updated: 2024-09-20 10:20:52
+date: 2024-12-31T00:01:18.944Z
+updated: 2025-01-05T17:27:57.500Z
 tags:
   - cloud
 categories:
@@ -61,6 +61,10 @@ GSMA projects that 5G connections will grow from 1.6 billion to 2.1 billion by t
 
 Jarich noted that use cases can differ for regions and markets, giving local telcos further opportunities to find new revenue. And with most GenAI services running on the cloud, operators can play a differentiating role in facilitating these. For instance, they can provide support for edge computing, which will be important for some GenAI services such as real-time language translation and smaller large language models (LLMs) that can be hosted on the device. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dedicated foundation model for telcos
 
 Domain-specific LLMs also are being made available to help identify GenAI use cases specific to the needs of a particular sector, such as financial or healthcare. 
@@ -118,11 +122,23 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 202
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-amplify-your-contents-reach-with-optimal-publishing-days/"><u>[New] Amplify Your Content's Reach with Optimal Publishing Days</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-marketers-insight-sifting-through-false-social-endorsements-for-2024/"><u>[New] Marketer’s Insight Sifting Through False Social Endorsements for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-world-of-ai-key-concepts-facts-and-analysis-by-experts-at-zdnet/"><u>Exploring the World of AI: Key Concepts, Facts & Analysis by Experts at ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hero5-black-vs-yi-4k-which-takes-the-crown-in-action-cam-war/"><u>Hero5 Black Vs. Yi 4K Which Takes the Crown in Action Cam War?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-lessons-learned-from-paris-olympics-can-lead-to-greater-energy-efficiency-for-upcoming-sporting-events/"><u>How Lessons Learned From Paris Olympics Can Lead to Greater Energy Efficiency for Upcoming Sporting Events</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-motorola-edge-40-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Motorola Edge 40 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-investing-in-google-one-a-smart-choice-uncover-the-details-with-zdnets-insight/"><u>Is Investing in Google One a Smart Choice? Uncover the Details with ZDNet's Insight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsofts-50m-investment-boosts-lanzajet-paving-the-way-for-eco-friendly-datacenter-fuels-insights-on-zdnet/"><u>Microsoft's $50M Investment Boosts LanzaJet, Paving the Way for Eco-Friendly Datacenter Fuels - Insights on ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/peering-into-pixels-with-polaroids-camplus-action-device/"><u>Peering Into Pixels with Polaroid's Cam+ Action Device</u></a></li>
+</ul></div>
+

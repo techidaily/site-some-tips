@@ -1,7 +1,7 @@
 ---
 title: "From Vision to Action: How Today's Initiatives Are Merging Technology with Corporate Strategy."
-date: 2024-09-19 23:48:26
-updated: 2024-09-20 12:31:42
+date: 2025-01-05T03:29:56.670Z
+updated: 2025-01-05T20:53:34.286Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 Business-IT alignment has been a dream talked up for decades by analysts, speakers, technologists and business leaders. Did the Covid situation finally force things into alignment? 
 
 Look to the growing emphasis on customer experience (CX) among technology staffs, which has moved their priorities from the care and feeding of back-end systems to the care and feeding of actual customers. Not every organization is quite there yet, and many tech professionals still feel cut off from the final delivery of products and services to consumers. Nevertheless, the world of tech is changing, requiring new mindsets and ways of working -- including greater collaboration and greater empathy. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -43,11 +47,23 @@ We may eventually see the day when tech and business priorities are indistinguis
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-overcome-blurred-images-the-best-online-enhancers-listed/"><u>[New] Overcome Blurred Images The Best Online Enhancers Listed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhanced-viewing-fb-videos-on-large-displays/"><u>[Updated] 2024 Approved Enhanced Viewing FB Videos On Large Displays</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-mechanics-behind-youtube-income/"><u>[Updated] The Mechanics Behind YouTube Income</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-a-list-platforms-facebook-twitter-instagram-and-youtube-uncovered/"><u>Connect with the A-List Platforms: Facebook, Twitter, Instagram, and Youtube Uncovered</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-affordable-smallcloud-storage-at-just-80-special-deals-on-zdnet/"><u>Get Affordable SmallCloud Storage at Just $80 - Special Deals on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-artificnial-intelligence-for-universal-music-streaming-success-unveiled-on-zdnet/"><u>Leveraging Artificnial Intelligence for Universal Music Streaming Success, Unveiled on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-security-concerns-as-cloud-technology-takes-center-stage-insights-from-zdnet/"><u>Mastering Security Concerns as Cloud Technology Takes Center Stage - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigate-high-stakes-bargaining-in-the-booming-cloud-market-strategies-from-zdnet/"><u>Navigate High-Stakes Bargaining in the Booming Cloud Market: Strategies From ZDNet</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/1726027116224-pc/"><u>オンライン配信を撮影するためのPC・スマートフォン用ガイド</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Importance of Multiple Twitter Accounts: Insights From ZDNet"
-date: 2024-09-18 16:34:24
-updated: 2024-09-20 12:43:21
+date: 2024-12-30T19:56:19.418Z
+updated: 2025-01-05T23:25:41.506Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/8f88442ac6dedc419a65e9e8bd02cadcc874f8f08
 So I'm not going to take the "[Let's all quit Twitter](https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/28/opinion/quitting-twitter.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Let's%20all%20quit%20Twitter%22%7D)" viewpoint, or "[Elon Musk should be prohibited from buying Twitter](https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.washingtonpost.com/technology/2022/04/28/elon-musk-twitter-deal-risks/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Elon%20Musk%20should%20be%20prohibited%20from%20buying%20Twitter%22%7D)" standpoint, or even the "[Twitter is going to hell in a neoconservative handbasket](https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.nytimes.com/2022/04/30/business/twitter-free-speech-musk.html%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Twitter%20is%20going%20to%20hell%20in%20a%20neoconservative%20handbasket%22%7D)" perspective. 
 
 But we should examine why we care about Twitter at all. It serves an important function, as an instantaneous publicly viewable broadcast message bus, for individuals, brands, governments, and everything in-between. But it also has many weaknesses, including that it is not a public good -- it is a corporation, and if Elon Musk gets his way, it will be again a privately owned one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Twitter
 
@@ -87,11 +91,33 @@ The time is now. Let's build a better internet together.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-memorable-moments-quick-and-clean-xbox-screenshots/"><u>[New] Memorable Moments, Quick & Clean Xbox Screenshots</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-quantum-realms-unraveling-new-worlds-with-10-sci-fi-titles-for-2024/"><u>[New] Quantum Realms Unraveling New Worlds with 10 Sci-Fi Titles for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-intro-to-graphic-motion-artistry-and-usage-for-2024/"><u>[Updated] Intro to Graphic Motion Artistry and Usage for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-obs-potential-incorporating-luts-seamlessly/"><u>[Updated] Unlocking OBS' Potential Incorporating LUTs Seamlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/addressing-issues-with-humaneai-pin-timely-solutions-before-a-crisis-unfolds/"><u>Addressing Issues with HumaneAI Pin - Timely Solutions Before a Crisis Unfolds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-specifications-samsung-galaxy-s22-and-s22plus-stack-up-against-iphone-13-detailed-review/"><u>Comparing Specifications: Samsung Galaxy S22 & S22+ Stack Up Against iPhone 13 – Detailed Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-productivity-in-minutes-enhance-learning-in-hours-with-podcasts/"><u>Elevate Productivity in Minutes, Enhance Learning in Hours (with Podcasts)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ensuring-your-datas-safety-why-relinquishing-cloud-security-to-providers-is-risky/"><u>Ensuring Your Data's Safety: Why Relinquishing Cloud Security to Providers Is Risky</u></a></li>
+<li><a href="https://win-special.techidaily.com/erfolgreiches-reparieren-von-windowsold-ohne-cd-auf-windows-11/"><u>Erfolgreiches Reparieren Von Windows.Old Ohne CD Auf Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-telecoms-can-drive-ai-advancement-by-finding-practical-applications-lessons-from-5g-development/"><u>How Telecoms Can Drive AI Advancement by Finding Practical Applications – Lessons From 5G Development</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-compiling-the-best-12-cost-free-video-apps-for-all-platforms/"><u>In 2024, Compiling the Best 12 Cost-Free Video Apps for All Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-k11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo K11 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/indonesian-telecom-giant-singtel-secures-landmark-data-center-construction-deal-insights-from-zdnet/"><u>Indonesian Telecom Giant SingTel Secures Landmark Data Center Construction Deal: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/managing-hard-drive-usage-with-google-drive-on-your-pc-tips-and-tricks/"><u>Managing Hard Drive Usage with Google Drive on Your PC: Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/onedrive-redesigned-by-microsoft-for-seamless-user-experience-and-intelligent-features-expert-analysis-on-zdnet/"><u>OneDrive Redesigned by Microsoft for Seamless User Experience and Intelligent Features | Expert Analysis on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/russian-ukraine-conflict-and-its-dire-consequences-for-information-technology-businesses/"><u>Russian-Ukraine Conflict and Its Dire Consequences for Information Technology Businesses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-inclusion-of-zdnet-helps-with-brand-recognition-while-also-leveraging-a-known-authority-in-tech-news-for-increased-credibility/"><u>The Inclusion of ZDNet Helps with Brand Recognition While Also Leveraging a Known Authority in Tech News for Increased Credibility.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unplugged-and-online-innovative-methods-for-a-wireless-web-connection-at-home-or-office/"><u>Unplugged & Online: Innovative Methods for a Wireless Web Connection at Home or Office</u></a></li>
+</ul></div>
+

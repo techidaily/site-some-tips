@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple Watch's Battery: Top 8 Essential Settings Tweaks Revealed by ZDNet"
-date: 2024-12-25T16:58:57.029Z
-updated: 2024-12-27T17:27:37.337Z
+date: 2025-01-03T16:00:56.223Z
+updated: 2025-01-05T18:48:57.411Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn off the always-on display
@@ -45,10 +45,6 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
 
@@ -67,7 +63,7 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -88,19 +84,11 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -110,6 +98,10 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -118,11 +110,19 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,19 +165,16 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-ranked-the-best-5-iphone-compatible-podcasting-apps/"><u>[New] 2024 Approved Ranked The Best 5 iPhone-Compatible Podcasting Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-gamers-guide-to-boosting-pc-speed-controls/"><u>[New] The Gamer's Guide to Boosting PC Speed Controls</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-unearthly-utility-top-five-terrafirma-maps-for-2024/"><u>[New] Unearthly Utility Top Five Terrafirma Maps for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-uncovering-key-pace-requirements-for-exceptional-slow-motion-videos/"><u>[Updated] Uncovering Key Pace Requirements for Exceptional Slow-Motion Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-iphone-video-potential-mastering-8-essential-filmmaking-skills/"><u>2024 Approved Unlock iPhone Video Potential Mastering 8 Essential Filmmaking Skills</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-foundations-of-virtual-storytelling/"><u>2024 Approved Unveiling the Foundations of Virtual Storytelling</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-vivo-v29-pro-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Vivo V29 Pro Phone Forgot Password</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-cutting-edge-capture-tips-for-professional-sound-recording/"><u>In 2024, Cutting Edge Capture Tips for Professional Sound Recording</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-6-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 6</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-honor-x50-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Honor X50 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/step-by-step-on-finding-and-crafting-spiritual-ringtones/"><u>Step-by-Step on Finding and Crafting Spiritual Ringtones</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-tips-to-overcome-slowness-on-narakas-battlefield/"><u>Step-by-Step Tips to Overcome Slowness on Naraka's Battlefield</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transformative-changes-for-windows-11-optimization-made-simple/"><u>Transformative Changes for Windows 11 Optimization Made Simple</u></a></li>
-<li><a href="https://some-tips.techidaily.com/utilizing-netflixs-floating-window-feature-effectively-for-2024/"><u>Utilizing Netflix's Floating Window Feature Effectively for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-ideal-pc-emulators-for-retro-ps1-gaming/"><u>[New] In 2024, Ideal PC Emulators for Retro PS1 Gaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-tech-tussle-2022-gopro-hero5-clash-with-garmin-virb/"><u>[New] In 2024, Tech Tussle 2022 GoPro Hero5 Clash with Garmin VIRB</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-alchemy-on-a-pc-transforming-footage-into-youtube-gold/"><u>[Updated] Video Alchemy on a PC Transforming Footage Into YouTube Gold</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-user-friendly-charm-of-feren-linux-the-perfect-blend-of-beauty-and-simplicity/"><u>Discover the User-Friendly Charm of Feren Linux: The Perfect Blend of Beauty & Simplicity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowering-synergy-how-ai-enhances-teamwork-between-programmers-and-corporate-stakeholders-insights-from-zdnet/"><u>Empowering Synergy: How AI Enhances Teamwork Between Programmers & Corporate Stakeholders - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/o-add-video-to-text/"><u>How to Add Video to Text</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/linus-torvalds-discusses-ai-integration-and-rust-expansion-in-linux-reveals-core-importance-of-the-linux-kernel-techzoom/"><u>Linus Torvalds Discusses AI Integration & Rust Expansion in Linux; Reveals Core Importance of the Linux Kernel | TechZoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/linus-torvalds-on-artificial-intelligence-and-embracing-rust-unveiling-his-insights-on-the-linux-kernels-pivotal-role-techdigest/"><u>Linus Torvalds on Artificial Intelligence & Embracing Rust: Unveiling His Insights on the Linux Kernel's Pivotal Role | TechDigest</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macos-15-arrives-as-a-complimentary-upgrade-for-macbook-users-discover-the-must-have-functions-zdnet/"><u>MacOS 15 Arrives as a Complimentary Upgrade for MacBook Users - Discover the Must-Have Functions | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unbeatable-june-2024-iphone-bargains-and-top-discounts-on-apple-watch-series-ipad-pro-and-extra-savings-exclusive-insights-from-zdnet/"><u>Unbeatable June 2024 iPhone Bargains & Top Discounts on Apple Watch Series, iPad Pro, and Extra Savings! - Exclusive Insights From ZDNET</u></a></li>
 </ul></div>
 

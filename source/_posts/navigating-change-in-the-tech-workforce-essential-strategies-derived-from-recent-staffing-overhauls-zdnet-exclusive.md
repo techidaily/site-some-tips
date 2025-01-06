@@ -1,7 +1,7 @@
 ---
 title: "Navigating Change in the Tech Workforce: Essential Strategies Derived From Recent Staffing Overhauls | ZDNET Exclusive"
-date: 2024-09-18 21:25:59
-updated: 2024-09-20 12:44:42
+date: 2025-01-03T01:40:09.815Z
+updated: 2025-01-05T20:42:00.480Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Photo: Joe McKendrick
 As information technology staff dispersed to remote or work-at-home locations, what was the impact on initiatives such as DevOps and development? There are technology tasks that are well-suited for remote work. Still, there are other aspects of the job that still work better face to face. 
 
 That's the word from [Andy Nallappan](https://www.linkedin.com/in/nallappan/), chief technology officer and head of software business operations at Broadcom Software, one of the world's largest tech employers. I had the chance to chat with Nallappan while at Infosys' recent [Cobalt event](https://www.infosys.com/infosys-cobalt-world-tour-nyc.html), where he shared his experiences with managing a large workforce of technologists and the challenges faced over the past two years. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### executive guide
 
@@ -60,11 +64,24 @@ The important thing about corporate culture, he adds, is that it "should have cl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-perfecting-designs-a-guide-to-cutting-out-background-in-figma/"><u>[New] 2024 Approved Perfecting Designs A Guide to Cutting Out Background in Figma</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-google-pixel-8-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-tug-of-war-youtube-licensing-versus-cc-principles/"><u>2024 Approved The Tug-of-War Youtube Licensing Versus CC Principles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-errors-in-cloud-strategies-learn-what-not-to-do-according-to-experts-at-zdnet/"><u>Essential Errors in Cloud Strategies: Learn What Not To Do According to Experts at ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-to-correct-the-missing-cygwin1dll-library-on-windows/"><u>Expert Tips to Correct the Missing Cygwin1.dll Library on Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-issues-ensuring-seamless-functionality-of-non-endorsed-iphone-extras/"><u>Fixing Issues: Ensuring Seamless Functionality of Non-Endorsed iPhone Extras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inside-look-making-most-of-firefox-picture-in-picture/"><u>Inside Look Making Most of Firefox Picture-in-Picture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/latest-security-flaws-in-intel-amd-cpus-lead-to-immediate-patches-for-linux-systems-analysis-by-zdnet/"><u>Latest Security Flaws in Intel, AMD CPUs Lead to Immediate Patches for Linux Systems | Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamlessly-integrate-your-icloud-notes-into-linux-expert-tips-and-tricks/"><u>Seamlessly Integrate Your iCloud Notes Into Linux - Expert Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-double-edged-sword-of-cloud-technology-unveiling-massive-potential-and-hidden-hazards-articles-by-zdnet/"><u>The Double-Edged Sword of Cloud Technology: Unveiling Massive Potential and Hidden Hazards | Articles by ZDNet</u></a></li>
+</ul></div>
+

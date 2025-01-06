@@ -1,7 +1,7 @@
 ---
 title: Agnes Ro Discusses Shifts in Developer Responsibilities at Atlassian on ZDNet Feature Article
-date: 2024-09-19 15:39:48
-updated: 2024-09-20 11:50:29
+date: 2024-12-31T01:35:19.744Z
+updated: 2025-01-05T21:10:08.937Z
 tags:
   - cloud
 categories:
@@ -17,11 +17,19 @@ Image: Atlassian
 
 The last decade has seen the role of software developers evolve at a rapid pace as more and more organisations aimed to deliver new iterations of applications faster and more frequently than ever before.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Software development: Emerging trends and changing roles ZDNet takes an in-depth look at key trends in software development and how developers are changing the tech industry.  Read now](https://www.zdnet.com/topic/software-development-emerging-trends-and-changing-roles/)
 
 Atlassian's head of engineering Agnes Ro has experienced this first-hand. Ro has spent the last 15 years working at the software company -- initially as a graduate developer, before rising up the ranks to oversee a team of 100 engineers for a department called Foundational Collaboration that sits within Atlassian's cloud platform. Some of her key responsibilities include delivering common experiences and backend services for Atlassian products, such as rich text editors in JIRA and Confluence, as well as file and storage experiences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The need for speed
 
@@ -39,12 +47,20 @@ Frameworks to support the language that developers write, especially in the fron
 
 "Browser standards are very standardised today, so engineers today deal with more different challenges."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Developer
 
 * [It's the end of programming as we know it -- again](https://www.zdnet.com/article/its-the-end-of-programming-as-we-know-it-again/)
 * [Developers feel secure in their jobs, but they're still thinking about quitting](https://www.zdnet.com/article/developers-feel-secure-in-their-jobs-but-theyre-still-thinking-about-quitting/)
 * [The future of the web will need a different sort of software developer](https://www.zdnet.com/article/the-future-of-the-web-will-need-a-different-sort-of-software-developer/)
 * [The best Linux laptops for consumers and developers](https://www.zdnet.com/article/best-linux-laptop/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Teamwork makes the dream work
 
@@ -57,6 +73,10 @@ These days prior to developing any products, a more coordinated approach is take
 She pointed out, for instance, how security is now top of mind during any development stage. 
 
 "Security has become much more ingrained," Ro said. "I would say to all of our engineering teams it's the number-one priority for Atlassian. We've come to understand that it's not just the responsibility within a separate security department; it's everyone's responsibility, and so we do a lot to ensure we're constantly testing and trying to ship the best and secure products for our customers."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A seat at the table
 
@@ -80,11 +100,30 @@ Ro believes software developers are no longer outliers within an organisation, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elevate-your-digital-presence-with-this-top-7-gear-list/"><u>[New] 2024 Approved Elevate Your Digital Presence with This Top 7 Gear List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-gamers-choice-top-software-for-live-scenes/"><u>[New] Gamers' Choice Top Software for Live Scenes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-efficient-methods-for-android-screen-recordings/"><u>[New] In 2024, Efficient Methods for Android Screen Recordings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-stepwise-approach-to-implementing-youtube-cards-and-annotations/"><u>[Updated] Stepwise Approach to Implementing YouTube Cards & Annotations</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-viral-anime-themed-videos-for-tiktok-success-for-2024/"><u>[Updated] Viral Anime-Themed Videos for TikTok Success for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cto-reveals-secrets-behind-scaling-up-stack-overflow-as-one-of-the-internets-premier-platforms-exclusive-coverage-on-zdnet/"><u>CTO Reveals Secrets Behind Scaling Up Stack Overflow as One of the Internet's Premier Platforms | Exclusive Coverage on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-fluctuating-popularity-of-programming-languages-since-2016-revealing-key-patterns-and-predictions/"><u>Decoding the Fluctuating Popularity of Programming Languages Since 2016 - Revealing Key Patterns and Predictions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/developing-a-mobile-application-with-chatgpt-step-by-step-guide/"><u>Developing a Mobile Application with ChatGPT: Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-become-a-viral-sensation-crafting-impressive-unboxing-videos/"><u>In 2024, Become a Viral Sensation Crafting Impressive Unboxing Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-14-pro-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 14 Pro to iPad? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723009901355-overcoming-launch-problems-in-call-of-duty-black-ops-4-solutions-inside/"><u>Overcoming Launch Problems in Call of Duty Black Ops 4 - Solutions Inside!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-data-with-ssh-understanding-and-implementing-key-concepts-for-safe-network-communication-insights-from-zdnet/"><u>Secure Your Data with SSH: Understanding and Implementing Key Concepts for Safe Network Communication - Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-challenges-of-merging-ai-progression-with-agile-methodology-insights-from-a-recent-zdnet-analysis/"><u>The Challenges of Merging AI Progression with Agile Methodology: Insights From a Recent ZDNet Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-truth-about-linux-vendor-kernels-security-revealed-by-latest-study-is-there-a-solution-zdnet/"><u>The Truth About Linux Vendor Kernels Security Revealed by Latest Study - Is There a Solution? | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-innovative-test-pits-timeless-art-against-modern-tech-chatgpt-fails-to-match-the-sonnets-creativity/"><u>ZDNet's Innovative Test Pits Timeless Art Against Modern Tech: ChatGPT Fails to Match the Sonnet’s Creativity</u></a></li>
+</ul></div>
+

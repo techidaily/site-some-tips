@@ -1,7 +1,7 @@
 ---
 title: "Beginning a Successful Substack Newsletter: A Step-by-Step Guide"
-date: 2024-09-18 11:30:48
-updated: 2024-09-20 10:51:37
+date: 2024-12-30T20:20:17.407Z
+updated: 2025-01-06T03:04:00.012Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Screenshot by David Gewirtz/ZDNET
 **Also: [How to join and use Meta's Twitter rival Threads](https://www.zdnet.com/article/how-to-join-and-use-metas-twitter-rival-threads/)**
 
 I chose Substack primarily because both Jason Perlow and Ed Bott use Substack for their newsletters. Both Jason and Ed have long been colleagues here at ZDNET and are probably two of the most credible technology writers I've ever met. I figured if they like it, I'm sure I'll like it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to get started with Substack 
 
@@ -42,6 +46,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 Substack is also free to use. If you do charge for your newsletter, the company takes a 10% cut. But, if you're like me and want to do something just to connect with your readers, there's no fee. No fee for managing or emailing to a list, and no fee for hosting your content. I like that a lot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Create an account
 
@@ -97,6 +105,10 @@ I put a picture up, said a little bit about myself, and then described my plans 
 
 And that's it. Now people know what it's all about. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Prepare your first newsletter
 
 If you've ever made a post on Facebook, you're ready for Substack. It's that simple.
@@ -129,6 +141,10 @@ Finally, when you're ready to publish, press (3) Continue. That will present a s
 
 It's pretty much that simple. If you create a nice Substack, feel free to comment below or drop a comment on mine. I'd love to see what you're working on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Can I import my existing lists? 
 
 Yes, but Substack is fussy. They will only import lists where they can verify that all email addresses have previously opted in. 
@@ -138,6 +154,10 @@ Yes, but Substack is fussy. They will only import lists where they can verify th
 This took me a few minutes to find. Go back to Settings on your Dashboard, scroll down to Payments, and uncheck "Allow readers to pledge subscriptions". Those payment/pledge requests will no longer be presented to new subscribers. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How does Substack make money? 
 
@@ -157,11 +177,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-exploring-flawless-blending-in-music-production-crossfade-for-2024/"><u>[New] Exploring Flawless Blending in Music Production (Crossfade) for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-making-your-own-youtube-beginnings-and-endings-cheaply/"><u>[Updated] 2024 Approved Making Your Own YouTube Beginnings & Endings Cheaply</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-enhancing-your-spotify-collection-with-youtube-music-integration/"><u>[Updated] In 2024, Enhancing Your Spotify Collection with YouTube Music Integration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-iphone-hacks-for-capturing-stunning-skyline-shots/"><u>[Updated] Top iPhone Hacks for Capturing Stunning Skyline Shots</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-elite-group-16-youtube-entries-boosting-views/"><u>2024 Approved Elite Group 16 YouTube Entries Boosting Views</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-linux-kernel-with-linus-torvalds-delving-into-ai-embracing-rust-and-unveiling-core-priorities-zdnet-deep-dive/"><u>Exploring the Linux Kernel with Linus Torvalds: Delving Into AI, Embracing Rust, and Unveiling Core Priorities | ZDNET Deep Dive</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harnessing-hours-of-light-long-exposure-iphone-tips-for-2024/"><u>Harnessing Hours of Light Long-Exposure iPhone Tips for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-boost-engagement-posting-twitter-videos-on-snapchat/"><u>In 2024, Boost Engagement Posting Twitter Videos on Snapchat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overcoming-it-worker-fatigue-a-silver-lining-perspective-by-zdnet/"><u>Overcoming IT Worker Fatigue: A Silver Lining Perspective by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-leading-cybersecurity-certifications-for-professionals-as-rated-by-zdnet/"><u>The Ultimate List of Leading Cybersecurity Certifications for Professionals, as Rated by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-developer-highlights-from-microsoft-build-2024-key-updates-revealedzdnet-exclusive/"><u>Top 10 Developer Highlights From Microsoft Build 2024 – Key Updates Revealed![ZDNet Exclusive]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-kubernetes-why-this-container-orchestration-platform-is-essential-for-devops-success/"><u>Unveiling Kubernetes: Why This Container Orchestration Platform Is Essential for DevOps Success</u></a></li>
+</ul></div>
+

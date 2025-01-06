@@ -1,7 +1,7 @@
 ---
 title: Alibaba Anticipates Executive Reshuffle with CEO's Strategic Shift to Cloud Services - ZDNet
-date: 2024-09-19 23:21:59
-updated: 2024-09-20 12:54:48
+date: 2024-12-31T00:04:07.200Z
+updated: 2025-01-05T18:22:45.443Z
 tags:
   - cloud
 categories:
@@ -72,11 +72,32 @@ In explaining the organizational restructure, Zhang previously said it would all
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-enablingdisabling-multitasking-feature-a-compreenas-guide/"><u>[New] 2024 Approved Enabling/Disabling Multitasking Feature A Compreenas Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-social-networking-101-registering-with-facebook/"><u>[New] Social Networking 101 Registering with Facebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-expert-tips-for-effortless-access-to-youtube-comments/"><u>[Updated] In 2024, Expert Tips for Effortless Access to YouTube Comments</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-magix-photo-manager-review/"><u>2024 Approved MAGIX Photo Manager Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-v27e-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of V27e</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-factory-reset-windows-10-4-steps/"><u>How to Factory Reset Windows 10 [4 Steps]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-awss-latest-innovations-the-trainium-ai-processor-and-graviton-iv-launches-expanded-collaboration-with-nvidia-highlighted-by-zdnet/"><u>Introducing AWS's Latest Innovations: The Trainium AI Processor & Graviton IV Launches; Expanded Collaboration with Nvidia Highlighted by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-the-new-era-awss-ec2-m1-mac-server-instances-now-in-beta-mode-wired/"><u>Introducing the New Era: AWS's EC2 M1 Mac Server Instances Now in Beta Mode | Wired</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-folder-selection-for-google-drive-desktop-synchronization-a-step-by-step-guide/"><u>Mastering Folder Selection for Google Drive Desktop Synchronization: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/nvidia-collaborates-with-snowflake-on-advanced-llm-ai-initiative-insights-from-zdnet/"><u>Nvidia Collaborates with Snowflake on Advanced LLM AI Initiative: Insights From ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/optimize-your-data-retrieval-with-ifind-premier-data-recovery-tool-across-operating-platforms/"><u>Optimize Your Data Retrieval with iFind - Premier Data Recovery Tool Across Operating Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-tips-for-seamlessly-copying-dvds-onto-your-computers-hard-drive-in-windows-(user/"><u>Quick Tips for Seamlessly Copying DVDs Onto Your Computer's Hard Drive in Windows <|User|)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cloud-hosting-providers-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Rated Cloud Hosting Providers: Comprehensive Analysis by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-trusting-just-cloud-service-providers-isnt-enough-prioritizing-your-own-data-protection-strategies/"><u>Why Trusting Just Cloud Service Providers Isn't Enough: Prioritizing Your Own Data Protection Strategies</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

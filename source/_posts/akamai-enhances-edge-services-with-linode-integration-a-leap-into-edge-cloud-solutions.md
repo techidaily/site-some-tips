@@ -1,7 +1,7 @@
 ---
 title: Akamai Enhances Edge Services with Linode Integration – A Leap Into Edge Cloud Solutions
-date: 2024-09-19 20:15:16
-updated: 2024-09-20 11:28:36
+date: 2024-12-31T23:08:38.390Z
+updated: 2025-01-06T00:39:32.791Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/d79beeb4abcfd05636355f94742171c61e
 Akamai
 
 Earlier this year, when [Akamai bought infrastructure-as-a-service (IaaS) cloud platform provider Linode](https://www.zdnet.com/article/akamai-acquires-infrastructure-as-a-service-provider-linode-for-900-million/) for about $900 million, it wasn't clear how Akamai's content delivery network (CDN) and security services would work well with Linode's developer-friendly, Linux-based, Infrastructure-as-a-Service (IaaS) cloud. Now, we know Akamai wasn't just adding a cloud; it was working on edge computing and cloud development synergies. The company is [adding more than a dozen new Linode data centers](https://www.akamai.com/blog/cloud/akamai-turns-up-linode-past-11) around the world by the end of 2023.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -56,11 +60,31 @@ While I don't expect Akamai to appear in a Marvel movie anytime soon, it does ap
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-deep-dive-into-the-fundamentals-of-youtube-shorts/"><u>[New] In 2024, A Deep Dive Into The Fundamentals of YouTube Shorts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-guide-to-preferred-applications-vtubers-sonic-transformation-journey/"><u>[Updated] Guide to Preferred Applications Vtuber's Sonic Transformation Journey</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigate-discord-with-ease-a-compreeher-guide-to-pins/"><u>[Updated] Navigate Discord with Ease A Compreeher Guide to Pins</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-best-ios-alternatives-to-play-timeless-psp-game-classics/"><u>2024 Approved The Best iOS Alternatives to Play Timeless PSP Game Classics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-bolsters-ai-innovation-with-4-billion-boost-to-anthropic-the-next-leap-in-generative-tech/"><u>Amazon Bolsters AI Innovation with $4 Billion Boost to Anthropic: The Next Leap in Generative Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-invests-8-billion-to-fuel-singapores-ai-ambitions-the-strategic-synergy-explained-techcrunch/"><u>AWS Invests $8 Billion to Fuel Singapore’s AI Ambitions – The Strategic Synergy Explained | TechCrunch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/earning-more-with-ai-expertise-your-job-position-plays-a-key-role-find-out-how-analyzed-on-zdnet/"><u>Earning More with AI Expertise? Your Job Position Plays a Key Role - Find Out How | Analyzed on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-insights-every-developer-needs-before-diving-into-googles-gemini-understanding-your-data/"><u>Essential Insights Every Developer Needs Before Diving Into Google's Gemini: Understanding Your Data</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-garmins-latest-innovation-the-vivosmart-evolved-with-enhanced-battery-and-stress-metrics-tracking/"><u>Explore Garmin's Latest Innovation: The Vivosmart Evolved with Enhanced Battery and Stress Metrics Tracking</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-xiaomi-redmi-note-13-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Xiaomi Redmi Note 13 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-leading-artificeintelligence-video-makers-for-image-based-production/"><u>In-Depth Analysis of Leading ArtificeIntelligence Video Makers for Image-Based Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pioneering-digital-growth-through-edge-and-cloud-integration-the-path-forward-with-zdnet-analysis/"><u>Pioneering Digital Growth Through Edge and Cloud Integration - The Path Forward with ZDNet Analysis</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/stunning-1080p-bmw-e39-m5-hd-screen-savers-and-backgrounds-exclusive-visual-content-from-yl-software-solutions/"><u>Stunning 1080P BMW E39 M5 HD Screen Savers & Backgrounds – Exclusive Visual Content From YL Software Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-google-to-do-lists-into-kanban-boards-with-ease-a-guide-by-tasksboard-zdnet/"><u>Transforming Google To-Do Lists Into Kanban Boards with Ease – A Guide by TasksBoard | ZDNET</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tropical-tango-toucan/"><u>Tropical Tango Toucan</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-mysteries-of-ai-comprehensive-insights-into-artificeblle-intelligence-a-complete-guide/"><u>Unveiling the Mysteries of AI: Comprehensive Insights Into Artificeblle Intelligence - A Complete Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-explores-singapores-pioneering-roadmap-for-autonomous-systems-and-ai-innovation-blueprint/"><u>ZDNet Explores Singapore's Pioneering Roadmap for Autonomous Systems and AI Innovation Blueprint</u></a></li>
+</ul></div>
+

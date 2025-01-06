@@ -1,7 +1,7 @@
 ---
 title: "Urgent Call for Innovation: How Executives Can Empower Tech Teams at Lightning Speed - Insights From ZDNet"
-date: 2024-09-19 10:57:39
-updated: 2024-09-20 11:46:37
+date: 2025-01-03T02:16:20.562Z
+updated: 2025-01-06T03:46:31.641Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 ![A woman touching a futuristic digital display.](https://www.zdnet.com/a/img/resize/f5721c59883284cd25da5bca36a57280621cec63/2022/09/07/867baa95-e405-4e2b-a0e6-3dc9ef55c6f5/a-woman-touching-a-futurisitic-digital-display.jpg?auto=webp&width=1280)
 
 Oscar Wong/Getty
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -85,11 +89,25 @@ The digital core has become "a primary source of competitive advantage," Sweet a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/outubes-favorite-spotlight-equipment-17/"><u>[New] YouTube's Favorite Spotlight Equipment #17</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-master-the-art-of-fighting-top-5-martial-arts-gaming-experience/"><u>[Updated] Master the Art of Fighting Top 5 Martial Arts Gaming Experience</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-exploring-acoustic-illusions-in-motion-techniques-to-illustrate-sound-tracks-via-animated-waveforms-within-premiere-pro-workflow/"><u>2024 Approved Exploring Acoustic Illusions in Motion Techniques to Illustrate Sound Tracks via Animated Waveforms Within Premiere Pro Workflow</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-co-branded-narratives-for-youtube-audiences-for-2024/"><u>Crafting Co-Branded Narratives for YouTube Audiences for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-12-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 12 Pro/iPad | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-repetition-view-your-finished-tasks-easily-with-todoist-zdnet-guide/"><u>Mastering Repetition: View Your Finished Tasks Easily with Todoist | ZDNet Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-bring-your-videos-to-life-the-magic-of-cartoon-conversion-explained-for-2024/"><u>New Bring Your Videos to Life The Magic of Cartoon Conversion Explained for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-years-tech-budgets-increasing-expenditure-with-classic-preferences-leading-the-way-insights-from-zdnet/"><u>Next Year's Tech Budgets: Increasing Expenditure with Classic Preferences Leading the Way - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pentagon-awards-massive-cloud-infrastructure-deal-to-aws-google-oracle-and-microsoft-exclusive-breakdown-by-zdnet/"><u>Pentagon Awards Massive Cloud Infrastructure Deal to AWS, Google, Oracle, and Microsoft – Exclusive Breakdown by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/reflecting-on-two-decades-with-microsoft-mary-jo-foleys-insightful-journey-at-zdnet/"><u>Reflecting on Two Decades with Microsoft - Mary Jo Foley's Insightful Journey at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-containers-permanently-using-rust-framework-edera-a-comprehensive-guide-on-zdnet/"><u>Securing Containers Permanently Using Rust Framework, Edera - A Comprehensive Guide on ZDNet</u></a></li>
+</ul></div>
+

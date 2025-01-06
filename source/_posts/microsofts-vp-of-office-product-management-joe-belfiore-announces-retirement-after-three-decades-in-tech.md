@@ -1,7 +1,7 @@
 ---
 title: Microsoft's VP of Office Product Management, Joe Belfiore, Announces Retirement After Three Decades in Tech
-date: 2024-09-19 13:34:30
-updated: 2024-09-20 12:10:27
+date: 2025-01-05T04:32:06.225Z
+updated: 2025-01-05T20:31:34.997Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Credit: Microsoft
 Joe Belfiore, who has been the Corporate Vice President of Microsoft's Office Group for the past two years and with the company in various roles for 32 years, has announced his retirement. Belfiore and Microsoft management announced his departure on October 27 via internal e-mails.   
   
 Word (pun intended) is this was a personal decision, not a forced one. And that Belfiore's departure won't result in any change of priorities within Office. Belfiore will be handing off his direct reports immediately but stay on until next summer as a senior advisor and coach to help with the transition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -61,11 +65,33 @@ Holecek will remain as Corporate Vice President of the Office Product Group, acc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-download-obs-studio-for-mac-for-2024/"><u>[New] How to Download OBS Studio for Mac for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-screen-driver-crash-in-windows-11/"><u>Addressing Screen Driver Crash in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-mastery-of-amazon-web-services-aws-your-ultimate-guide-to-dominating-the-top-cloud-platform/"><u>Comprehensive Mastery of Amazon Web Services (AWS): Your Ultimate Guide to Dominating the Top Cloud Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/copy-pasting-woes-heres-how-to-fix-it-on-your-windows-11-machine/"><u>Copy-Pasting Woes? Here's How to Fix It on Your Windows 11 Machine</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-remote-work-efficiency-expert-strategies-to-optimize-your-home-internet-connection-and-support-distance-learning-guidance-by-zdnet/"><u>Enhance Remote Work Efficiency: Expert Strategies to Optimize Your Home Internet Connection and Support Distance Learning - Guidance by ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-watch-now-the-ultimate-selection-of-10-iconic-hollywood-horror-flicks/"><u>Free Watch Now! The Ultimate Selection of 10 Iconic Hollywood Horror Flicks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/high-paychecks-await-cloud-expertise-but-diverse-tech-skills-still-offer-valuable-career-pathways-zdnet/"><u>High Paychecks Await Cloud Expertise, but Diverse Tech Skills Still Offer Valuable Career Pathways | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-does-kubernetes-shape-todays-tech-landscape-exploring-its-essentials-and-relevance-according-to-experts-at-zdnet/"><u>How Does Kubernetes Shape Today's Tech Landscape? Exploring Its Essentials & Relevance According to Experts at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-small-businesses-overcome-obstacles-with-tech-climbing-the-ladder-of-success-insights-from-zdnet/"><u>How Small Businesses Overcome Obstacles with Tech: Climbing the Ladder of Success - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/imitation-bot-aid-filches-fb-usernames-and-passes/"><u>Imitation Bot Aid: Filches FB Usernames & Passes</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-mix-fold-3-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-infinix-hot-40imirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Infinix Hot 40iMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamped-icloud-coming-to-windows-apples-latest-enhancements-and-patch-ups-highlighted-on-zdnet/"><u>Revamped iCloud Coming to Windows: Apple's Latest Enhancements & Patch-Ups Highlighted on ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/securely-store-and-download-linkedin-videos-heres-the-top-6-list-for-2024/"><u>Securely Store & Download LinkedIn Videos - Here's the Top 6 List for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-necessity-of-seamless-tech-platforms-for-hybrid-work-success-in-singaporean-companies-zdnet-perspectives/"><u>The Necessity of Seamless Tech Platforms for Hybrid Work Success in Singaporean Companies | ZDNET Perspectives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-revival-of-cloud-tech-how-openstack-and-kata-containers-gain-popularity-again-insights-from-zdnet/"><u>The Revival of Cloud Tech: How OpenStack & Kata Containers Gain Popularity Again - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-20-gratkovanych-videovyho-konvertovace-pro-windows-11-8-nebo-7/"><u>Top 20 Grátkovaných Videovýho Konvertovače Pro Windows 11, 8 Nebo 7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-awss-four-newest-educational-ventures-in-the-cloud-sector-insights-from-zdnet/"><u>Unveiling AWS's Four Newest Educational Ventures in the Cloud Sector - Insights From ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/web-warriors-championing-screen-recording-tools/"><u>Web Warriors Championing Screen Recording Tools</u></a></li>
+</ul></div>
+

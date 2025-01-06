@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Sky: Preventing Cloud Vulnerabilities and Thwarting Hacker Intrusions | ZDNet"
-date: 2024-09-18 12:58:18
-updated: 2024-09-20 12:20:36
+date: 2025-01-02T18:57:36.405Z
+updated: 2025-01-05T20:00:05.582Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/5bf39f94c554a82a4d105671b92aeedfbf496d47a
 Image: Getty Images
 
 Cloud applications and services provide access to business tools, information and software from anywhere, allowing employees to be productive whether they are [working in the office, remotely or a combination of the two](https://www.zdnet.com/article/remote-work-or-back-to-the-office-the-calculation-just-shifted-again/). Location doesn't matter; everything they need is[just in 'the cloud](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)'.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -46,6 +50,10 @@ And because the cyber criminals are using legitimate usernames and passwords to 
 
 For example, criminals could use access to a [legitimate account to take control of the user's emails and send malicious links to their contacts](https://www.zdnet.com/article/watch-out-for-this-phishing-attack-that-hijacks-your-email-chats-to-spread-malware/), which are designed to steal sensitive information, or plant malware or even ransomware. The target may not question the link because it comes from someone they know and trust. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Security
 
 * [The best VPN services of 2024: Expert tested](https://www.zdnet.com/article/best-vpn/)
@@ -66,9 +74,17 @@ Meanwhile, ransomware campaigns have also been known to [exploit exposed or impr
 
 And it isn't just common cyber criminals who've taken advantage of the rise of remote working and the increase in use of cloud applications: [state-backed hacking and cyber-espionage groups are also exploiting vulnerabilities in cloud](https://www.zdnet.com/article/microsoft-office-365-is-becoming-the-core-of-many-businesses-and-hackers-have-noticed/) as a launchpad for campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Closing the door
 
 But it doesn't have to be this way, and there are several steps that businesses can take to boost the cybersecurity of their cloud applications and software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -91,6 +107,10 @@ And it's imperative for information security teams to have a [good grasp of what
 
 Cloud services can provide significant benefits for both businesses and their employees, but it's vital that the right choices are made to ensure on-demand IT is used in a productive and secure way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -105,11 +125,29 @@ Cloud services can provide significant benefits for both businesses and their em
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-back-track-technique-reverse-video-in-ios-devices/"><u>[New] In 2024, Back-Track Technique Reverse Video in iOS Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigating-the-virtual-landscape-an-overview/"><u>[Updated] In 2024, Navigating the Virtual Landscape An Overview</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ultimate-free-drawing-tools-top-mac-apps-listed/"><u>[Updated] Ultimate Free Drawing Tools Top Mac Apps Listed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unplugged-fun-the-best-non-networked-android-apps-for-2024/"><u>[Updated] Unplugged Fun The Best Non-Networked Android Apps for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-ultimate-guide-capturing-images-with-your-hp-pc-8-simple-methods/"><u>1. Ultimate Guide: Capturing Images with Your HP PC - 8 Simple Methods</u></a></li>
+<li><a href="https://driver-error.techidaily.com/blackberry-storm-beta-not-recognized-by-fedora-33-solution-found/"><u>Blackberry Storm Beta Not Recognized by Fedora 33 - Solution Found!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-non-responsive-google-chrome-should-you-restart-the-application-now/"><u>Dealing with Non-Responsive Google Chrome - Should You Restart the Application Now?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-ultimate-guide-to-affordable-and-effective-intros/"><u>In 2024, The Ultimate Guide to Affordable and Effective Intros</u></a></li>
+<li><a href="https://some-tips.techidaily.com/migrating-enterprises-to-the-edge-evaluating-preparedness-for-next-gen-technology-expert-analysis-on-zdnet/"><u>Migrating Enterprises to the Edge: Evaluating Preparedness for Next-Gen Technology | Expert Analysis on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-evolution-of-cloud-technologies-hybrid-edge-and-artificial-intelligence/"><u>Navigating the Evolution of Cloud Technologies: Hybrid, Edge & Artificial Intelligence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-hybrid-cloud-easier-with-new-features-in-red-hats-latest-enterprise-linux-release-techzine/"><u>Navigating the Hybrid Cloud Easier with New Features in Red Hat's Latest Enterprise Linux Release | TechZine</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-your-drive-space-with-these-simple-steps-for-gmail-and-google-docs-insights-by-zdnet/"><u>Optimize Your Drive Space with These Simple Steps for Gmail & Google Docs – Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/oracle-enhances-hr-solutions-with-generative-ai-technology-the-impact-and-future-discussed-on-zdnet/"><u>Oracle Enhances HR Solutions with Generative AI Technology: The Impact and Future Discussed on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/preserving-uncensored-books-the-alliance-of-amazon-google-and-apple-to-create-an-open-access-archive-zdnet-insight/"><u>Preserving Uncensored Books: The Alliance of Amazon, Google, and Apple to Create an Open Access Archive | ZDNET Insight</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/streamlined-conversion-transform-flv-into-aac-file-format-instantly-and-gratis-with-movavi/"><u>Streamlined Conversion: Transform FLV Into AAC File Format Instantly & Gratis with Movavi</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Apple's Newest Showdown: Comparing the M3 vs M2 MacBook Air - Your Ultimate Purchase Guide"
-date: 2024-12-21T16:44:11.848Z
-updated: 2024-12-27T17:27:53.618Z
+date: 2025-01-01T21:33:40.234Z
+updated: 2025-01-05T19:06:21.716Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | **MacBook Air M3** | **MacBook Air M2**                           |                                              |
@@ -47,10 +51,6 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 | **Price**          | Starting at $1,099                           | Starting at $999                             |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy the M3 MacBook Air if...
 
@@ -71,10 +71,6 @@ One of the biggest advantages of the M3, aside from the purely technical upgrade
 **Also: [This sneaky Best Buy deal lets you snag a free MacBook Air M3 - here's how](https://www.zdnet.com/article/this-sneaky-best-buy-deal-lets-you-snag-a-near-free-macbook-air-m3-heres-how/)**
 
 The M3 MacBook Air has [full connectivity](https://www.zdnet.com/article/you-can-use-your-m3-macbook-pro-with-dual-monitors-now-just-like-the-m3-macbook-air/) for two [external monitors](https://www.zdnet.com/home-and-office/smart-office/apple-studio-display-monitor-review/), so if you frequently work with more than one monitor, it's certainly worth upgrading. There is a small catch in that you can only use two external monitors while the laptop lid is closed. So you don't get your laptop's display _and_ two monitors; you just get the monitors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want the absolute best performance
 
@@ -98,19 +94,23 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 Cliff Joseph/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. The $100 price difference means a lot
 
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
 
 Will you be mainly using your laptop for web surfing, streaming, listening to music, or working a remote job? If so, then you probably don't need the power -- and price tag -- of the M3 MacBook Air. For most users, the M2 is a more than reliable machine. It was ZDNET's [2022 product of the year](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/)!
 
 **Also:** [**I recommend this 15-inch MacBook Air to most people, and it's still $250 off**](https://www.zdnet.com/article/i-recommend-this-15-inch-macbook-air-to-most-people-and-its-still-250-off/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. You're expecting the M3 to be a bigger upgrade
 
@@ -119,7 +119,7 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 [Buy the M2 MacBook Air View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -156,24 +156,22 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-rise-of-facebooks-quick-vids/"><u>[Updated] In 2024, The Rise of Facebook's Quick Vids</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-swift-steps-to-personalize-your-in-game-sonic-presence-in-pubg/"><u>[Updated] Swift Steps to Personalize Your In-Game Sonic Presence in PUBG</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-evolution-and-alternatives-to-googles-ar-stickers/"><u>[Updated] The Evolution and Alternatives to Google's AR Stickers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-straightforward-approach-to-editing-age-on-tiktok/"><u>2024 Approved The Straightforward Approach to Editing Age on TikTok</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-footage-with-the-ideal-dimension-proportion/"><u>2024 Approved Transform Your Footage with the Ideal Dimension Proportion</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-11-pro-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 11 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-iphone-15-pro-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From iPhone 15 Pro How to Bypass?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/fixing-half-muted-content-on-twitter-live-streams-for-2024/"><u>Fixing Half-Muted Content on Twitter Live Streams for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/from-novice-to-pro-learning-snapseed-essentials-for-2024/"><u>From Novice to Pro Learning Snapseed Essentials for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-lava-blaze-2-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Lava Blaze 2 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-tecno-spark-20c-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Tecno Spark 20C Device</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-list-low-cost-high-definition-cameras/"><u>In 2024, Ultimate List Low-Cost, High Definition Cameras</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-xbox-series-s-unveiling-its-compact-design-and-powerful-features/"><u>In-Depth Analysis of Xbox Series S: Unveiling Its Compact Design and Powerful Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-balancing-act-managing-your-off-facebook-activity-displays-for-2024/"><u>The Balancing Act Managing Your Off-Facebook Activity Displays for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-highlight-reel-of-2022-skating-stars-for-2024/"><u>Ultimate Highlight Reel of 2022 Skating Stars for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-network-transmission-power-with-vlc-for-2024/"><u>Unlocking Network Transmission Power with VLC for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-smooth-authentication-on-iphone-x-mending-face-id-for-2024/"><u>Unlocking Smooth Authentication on iPhone X Mending Face ID for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-slug-line-formats-in-screenplays-for-2024/"><u>Unlocking the Potential of Slug Line Formats in Screenplays for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/verdict-on-holding-facebook-oversight-on-trump-ban/"><u>Verdict on Holding: Facebook Oversight on Trump Ban</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-global-perspective-inclusive-technology-review/"><u>[New] Global Perspective Inclusive Technology Review</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/treamlining-success-strategies-for-daily-vlog-authenticity/"><u>[New] Streamlining Success Strategies for Daily Vlog Authenticity</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unlock-your-devices-full-potential-with-io-screener/"><u>[New] Unlock Your Device's Full Potential with IO Screener</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-periscope-basics-understanding-costs-benefits-and-account-creation/"><u>2024 Approved Periscope Basics Understanding Costs, Benefits & Account Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/android-devotees-and-innovators-reap-rewards-from-googles-landmark-legal-agreement-zdnet-exclusives/"><u>Android Devotees and Innovators Reap Rewards From Google's Landmark Legal Agreement | ZDNet Exclusives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-product-quests-unveiling-amazons-new-features-to-revolutionize-your-online-experience-zdnet/"><u>Effortless Product Quests: Unveiling Amazon's New Features to Revolutionize Your Online Experience | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/escape-monotonous-workdays-with-the-metaverse-shaping-tomorrows-careers-on-the-horizon-zdnet/"><u>Escape Monotonous Workdays with the Metaverse: Shaping Tomorrow's Careers on the Horizon - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-package-collection-and-delivery-with-doordash-a-comprehensive-guide/"><u>Free Package Collection & Delivery with DoorDash: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-mcdonalds-revolutionized-customer-experience-for-a-few-a-deep-dive-by-zdnet/"><u>How McDonald’s Revolutionized Customer Experience for a Few - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-product-revelation-best-15-unboxing-channels/"><u>In 2024, The Ultimate Guide to Product Revelation Best 15 Unboxing Channels</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instant-fixes-restoring-the-sound-on-your-astro-a50-headphone-speaker/"><u>Instant Fixes: Restoring the Sound on Your Astro A50 Headphone Speaker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsofts-copilot-balancing-user-assistance-with-sales-tactics-insights-from-zdnet/"><u>Microsoft's Copilot: Balancing User Assistance with Sales Tactics - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-full-screen-problems-in-windows-11-sonics/"><u>Overcoming Full-Screen Problems in Windows 11 Sonics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/persistent-store-access-denied-my-ongoing-struggle-with-best-buy-after-a-month/"><u>Persistent Store Access Denied: My Ongoing Struggle with Best Buy After a Month</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smart-shopping-strategies-for-amazon-prime-day-avoid-overspending-with-these-easy-techniques-zdnet-insights/"><u>Smart Shopping Strategies for Amazon Prime Day: Avoid Overspending with These Easy Techniques | ZDNET Insights</u></a></li>
+<li><a href="https://win-popular.techidaily.com/solving-your-pcs-internet-connection-issues-expert-advice-from-yl-computing-and-software/"><u>Solving Your PC's Internet Connection Issues: Expert Advice From YL Computing & Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-substitutes-for-amazon-prime-a-comprehensive-guide/"><u>Top-Rated Substitutes for Amazon Prime: A Comprehensive Guide</u></a></li>
 </ul></div>
 

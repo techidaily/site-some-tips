@@ -1,7 +1,7 @@
 ---
 title: Rising AI Threats Expose Alarming Gaps in Business Cloud Security, Experts Warn | ZDNet
-date: 2024-09-18 15:53:46
-updated: 2024-09-20 10:28:46
+date: 2025-01-02T02:18:50.592Z
+updated: 2025-01-06T02:29:40.936Z
 tags:
   - cloud
 categories:
@@ -103,11 +103,33 @@ Phishing and social engineering was the top concern at 38.5%, followed by ransom
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-do-shopping-blogs-have-a-payment-scheme-for-reports-for-2024/"><u>[New] Do Shopping Blogs Have a Payment Scheme for Reports for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-harmonizing-music-migration-from-one-service-to-another/"><u>[Updated] In 2024, Harmonizing Music Migration From One Service to Another</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-your-guide-to-the-top-5-chromebook-sniping-software/"><u>[Updated] In 2024, Your Guide to the Top 5 Chromebook Sniping Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dev-lift-at-microsofts-build-2023-conference-exploring-the-triumph-of-an-upgraded-development-environment/"><u>Dev Lift at Microsoft's Build 2023 Conference: Exploring the Triumph of an Upgraded Development Environment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-renewed-popularity-openstack-and-kata-containers-joint-comeback-insights-from-zdnet/"><u>Exploring the Renewed Popularity: OpenStack & Kata Containers' Joint Comeback - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/lower-heat-output-in-overheating-w11-computers/"><u>Lower Heat Output in Overheating W11 Computers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-releases-innovative-maia-100-ai-processor-and-cobalt-core-cpu-what-you-need-to-know/"><u>Microsoft Releases Innovative Maia 100 AI Processor & Cobalt Core CPU: What You Need to Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movaviraf/"><u>Movavi提�지緣：優閒線上免費RAF更換解決方案</u></a></li>
+<li><a href="https://some-tips.techidaily.com/nadph-formation/"><u>NADPH Formation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/pathway-to-facebook-success-livestreaming-recorded-visual-narratives-for-2024/"><u>Pathway to Facebook Success Livestreaming Recorded Visual Narratives for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/prevent-future-failures-in-ai-ethics-with-solutions-for-the-humane-ai-pin/"><u>Prevent Future Failures in AI Ethics with Solutions for the Humane AI Pin</u></a></li>
+<li><a href="https://some-tips.techidaily.com/protecting-confidential-onedrive-documents-with-a-private-vault-tips-and-tricks-from-zdnet/"><u>Protecting Confidential OneDrive Documents with a Private Vault: Tips and Tricks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rising-memory-chip-expenses-understanding-the-surge-in-dram-and-nand-prices-amidst-global-manufacturing-reductions/"><u>Rising Memory Chip Expenses: Understanding the Surge in DRAM & NAND Prices Amidst Global Manufacturing Reductions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-crucial-role-of-cloud-security-insights-and-reasons-you-shouldnt-overlook-zdnet/"><u>The Crucial Role of Cloud Security: Insights & Reasons You Shouldn't Overlook (ZDNet)</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

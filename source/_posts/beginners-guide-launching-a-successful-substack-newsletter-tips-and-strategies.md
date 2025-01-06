@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Guide: Launching a Successful Substack Newsletter - Tips & Strategies"
-date: 2024-09-18 14:34:20
-updated: 2024-09-20 12:51:50
+date: 2025-01-01T18:22:03.375Z
+updated: 2025-01-05T16:11:46.471Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Screenshot by David Gewirtz/ZDNET
 **Also: [How to join and use Meta's Twitter rival Threads](https://www.zdnet.com/article/how-to-join-and-use-metas-twitter-rival-threads/)**
 
 I chose Substack primarily because both Jason Perlow and Ed Bott use Substack for their newsletters. Both Jason and Ed have long been colleagues here at ZDNET and are probably two of the most credible technology writers I've ever met. I figured if they like it, I'm sure I'll like it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to get started with Substack 
 
@@ -43,6 +47,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Substack is also free to use. If you do charge for your newsletter, the company takes a 10% cut. But, if you're like me and want to do something just to connect with your readers, there's no fee. No fee for managing or emailing to a list, and no fee for hosting your content. I like that a lot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Create an account
 
 Your first step will be creating an account. Point your browser to [Substack.com](https://substack.com/) and click on the Start writing button.
@@ -62,6 +70,10 @@ After that, you'll be asked to give your publication a name. Once again, I just 
 Screenshot by David Gewirtz/ZDNET
 
 There you go. Now, it's time to customize your newsletter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Customize your newsletter
 
@@ -129,9 +141,17 @@ Finally, when you're ready to publish, press (3) Continue. That will present a s
 
 It's pretty much that simple. If you create a nice Substack, feel free to comment below or drop a comment on mine. I'd love to see what you're working on. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Can I import my existing lists? 
 
 Yes, but Substack is fussy. They will only import lists where they can verify that all email addresses have previously opted in. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How can I turn off the requests for pledges or subscription money? 
 
@@ -157,11 +177,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instaharmony-androidplusios-photo-video-alchemy/"><u>[New] 2024 Approved InstaHarmony Android+iOS Photo-Video Alchemy</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-ultimate-guide-to-selecting-6-premium-live-audio-devices-for-2024/"><u>[New] Ultimate Guide to Selecting 6 Premium Live Audio Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-compreeved-guide-to-creating-stellar-youtube-outros-for-2024/"><u>[Updated] Compreeved Guide to Creating Stellar YouTube Outros for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-cross-play-exclusivity-guide-in-apex-legends-games-for-2024/"><u>[Updated] Cross-Play Exclusivity Guide in Apex Legends Games for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-flawless-screen-capture-s-assassins-creed-odyssey/"><u>2024 Approved Flawless Screen Capture 'S Assassin's Creed Odyssey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-introduces-innovative-app-studio-and-advanced-ai-safeguards-at-latest-aws-event-insights-from-zdnet/"><u>Amazon Introduces Innovative App Studio & Advanced AI Safeguards at Latest AWS Event - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/blueprinting-a-thrilling-film-flashpoint-for-2024/"><u>Blueprinting a Thrilling Film Flashpoint for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-best-free-video-player-vlc-versus-mpc/"><u>In 2024, Unveiling the Best Free Video Player VLC versus MPC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strengthening-synergies-meta-and-aws-bolster-alliance-to-boost-pytorch-integration-zdnet/"><u>Strengthening Synergies: Meta and AWS Bolster Alliance to Boost PyTorch Integration | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-impact-of-apples-cutting-edge-ai-on-the-success-of-iphone-16-an-in-depth-analysis/"><u>The Impact of Apple's Cutting-Edge AI on the Success of iPhone 16: An In-Depth Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-strategy-five-methods-to-tailor-the-xbox-game-bar-on-windows-pcs/"><u>The Ultimate Strategy: Five Methods to Tailor the Xbox Game Bar on Windows PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-cloud-computing-blunders-to-avoid-for-optimal-performance-insights-from-zdnet/"><u>Top 10 Cloud Computing Blunders to Avoid for Optimal Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/two-step-verification-explained-securing-your-accounts-with-multi-factor-auth-tips-from-zdnet/"><u>Two-Step Verification Explained: Securing Your Accounts with Multi-Factor Auth, Tips From ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-collection-no-cost-ae-template-gold-for-2024/"><u>Ultimate Collection No-Cost AE Template Gold for 2024</u></a></li>
+</ul></div>
+

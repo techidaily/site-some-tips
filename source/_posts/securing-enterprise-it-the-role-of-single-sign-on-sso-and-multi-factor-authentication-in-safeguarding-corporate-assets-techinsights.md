@@ -1,7 +1,7 @@
 ---
 title: "Securing Enterprise IT: The Role of Single Sign-On (SSO) & Multi-Factor Authentication in Safeguarding Corporate Assets | TechInsights"
-date: 2024-09-19 14:16:54
-updated: 2024-09-20 12:53:32
+date: 2025-01-04T06:03:03.262Z
+updated: 2025-01-05T17:10:58.251Z
 tags:
   - cloud
 categories:
@@ -36,6 +36,10 @@ Generali is one of the one of the largest insurance and asset management provide
 But while many businesses suddenly had to shift towards a hybrid model without having planned for it in 2020, Generali was already examining a cloud-based approach to work over a year before that, so the company was in a good place to adapt to the new world of work. 
 
 "We think we were ahead of the curve," says Winter. "We don't have datacenters, everything is in the cloud. It's either software-as-a-service or platform-as-a-service."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -96,11 +100,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/ai-proficiency-boosts-worker-paychecks-the-impact-of-roles-determines-earnings-potential-insights-by-zdnet/"><u>AI Proficiency Boosts Worker Paychecks: The Impact of Roles Determines Earnings Potential | Insights by ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-itel-a05s-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Itel A05s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cerebras-reveals-new-pay-per-model-ai-cloud-offering-in-collaboration-with-cirrascale-and-jasper-insights-on-the-platform/"><u>Cerebras Reveals New Pay-Per-Model AI Cloud Offering in Collaboration with Cirrascale and Jasper - Insights on the Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/collaborate-with-alibaba-cloud-develop-tailored-generative-ai-solutions/"><u>Collaborate with Alibaba Cloud: Develop Tailored Generative AI Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-list-of-8-innovative-ai-tools-for-smartphones/"><u>Discover the Ultimate List of 8 Innovative AI Tools for Smartphones</u></a></li>
+<li><a href="https://win-news.techidaily.com/efficiently-handling-system-energy-settings-insights-by-yl-software-experts/"><u>Efficiently Handling System Energy Settings - Insights by YL Software Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-guide-why-you-cant-rely-solely-on-your-cloud-service-provider-for-security/"><u>Essential Guide: Why You Can't Rely Solely on Your Cloud Service Provider for Security</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expert-insights-mastering-your-game-recording-on-windows-10/"><u>Expert Insights Mastering Your Game Recording on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-canonicals-innovative-distroless-linux-images-transform-enterprise-deployments-and-enhance-performance/"><u>How Canonical's Innovative Distroless Linux Images Transform Enterprise Deployments and Enhance Performance</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-leading-5-gaming-screens-with-ps5-support/"><u>In 2024, Leading 5 Gaming Screens with PS5 Support</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-price-tracker-for-cloud-space-services-a-detailed-review/"><u>In 2024, Price Tracker for Cloud Space Services A Detailed Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-tailor-videos-for-impact-on-instagram-feed/"><u>In 2024, Tailor Videos for Impact on Instagram Feed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tencent-enters-the-ai-arena-launching-enterprise-oriented-foundation-models-in-chinas-gpt-competition-insights-on-zdnet/"><u>Tencent Enters the AI Arena: Launching Enterprise-Oriented Foundation Models in China's GPT Competition - Insights on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-mystery-of-artifice-intelligence-essential-info-by-zdnet/"><u>Unveiling the Mystery of Artifice Intelligence: Essential Info by ZDNet</u></a></li>
+<li><a href="https://win-lab.techidaily.com/yl-softwares-insight-identifying-reliable-crypto-information-in-the-digital-age/"><u>YL Software's Insight: Identifying Reliable Crypto Information in the Digital Age</u></a></li>
+</ul></div>
+

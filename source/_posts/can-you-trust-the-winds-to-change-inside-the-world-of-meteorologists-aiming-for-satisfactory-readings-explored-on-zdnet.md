@@ -1,7 +1,7 @@
 ---
 title: Can You Trust the Winds to Change? Inside the World of Meteorologists Aiming for 'Satisfactory' Readings | Explored on ZDNet
-date: 2024-09-18 22:17:22
-updated: 2024-09-20 11:24:59
+date: 2025-01-03T17:04:54.854Z
+updated: 2025-01-05T21:50:53.857Z
 tags:
   - cloud
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/965ac34e7c203b27ce0e30a0e9c41cd225
 
 What's a good enough weather prediction? That's a question most people probably don't give much thought to, as the answer seems obvious -- an accurate one. But then again, most people are not CTOs at DTN. Lars Ewe is, and his answer may be different than most people's. With 180 meteorologists on staff providing weather predictions worldwide, [DTN](https://www.dtn.com/) is the largest weather company you've probably never heard of.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best extreme weather tech: Top gear for power outages Some of us like to go off the grid, while others find themselves forced off the grid. Having the right gear can make a huge difference.  Read now](https://www.zdnet.com/article/best-extreme-weather-tech/)
@@ -20,6 +24,10 @@ What's a good enough weather prediction? That's a question most people probably 
 Case in point: DTN is not included in ForecastWatch's "[Global and Regional Weather Forecast Accuracy Overview 2017 - 2020](https://www.forecastwatch.com/wp-content/uploads/Global%5Fand%5FRegional%5FWeather%5FForecast%5FAccuracy%5FOverview%5F2017-2020.pdf)." The report rates 17 weather forecast providers according to a comprehensive set of criteria, and a thorough data collection and evaluation methodology. So how come a company that started out in the 1980s, serves a global audience, and has always had a strong focus on weather, is not evaluated?
 
 * **See also:** [**US weather, climate forecasting is about to get way better**](https://www.zdnet.com/article/us-weather-climate-forecasting-is-about-to-get-way-better/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Weather forecast as a big data and internet of things problem
 
@@ -46,6 +54,10 @@ In many regards, weather forecasting today is really a big data problem. To some
 As a consequence, producing weather predictions does not just involve the domain expertise of meteorologists, but also the work of a team of data scientists, data engineers, and machine learning/DevOps experts. Like any big data and data science task at scale, there is a trade-off between accuracy and viability.
 
 * [**Best extreme weather tech 2022: Power outage gear**](https://www.zdnet.com/home-and-office/yard-outdoors/best-extreme-weather-tech/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Good enough weather prediction at scale
 
@@ -90,11 +102,33 @@ Coming full circle, Ewe noted that DTN's attention is focused on the company's d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-navigating-your-way-through-screen-recording-on-mac-os-x/"><u>[Updated] 2024 Approved Navigating Your Way Through Screen Recording on Mac OS X</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-easy-tutorial-uploading-youtube-shorts-video-via-computer-and-phone-for-2024/"><u>[Updated] Easy Tutorial Uploading YouTube Shorts Video via Computer & Phone for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-roadmap-to-thriving-in-twitter-live-broadcasts-for-2024/"><u>[Updated] The Roadmap to Thriving in Twitter Live Broadcasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/adapting-cyber-defense-the-essential-evolution-of-skills-amidst-the-challenge-of-outdated-infrastructure/"><u>Adapting Cyber Defense: The Essential Evolution of Skills Amidst the Challenge of Outdated Infrastructure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beyond-the-provider-essential-tips-for-strengthening-your-cloud-security-posture/"><u>Beyond the Provider: Essential Tips for Strengthening Your Cloud Security Posture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/can-artificial-intelligence-mitigate-sky-high-expenses-in-cloud-computing-unveiling-prospects-and-concerns/"><u>Can Artificial Intelligence Mitigate Sky-High Expenses in Cloud Computing? Unveiling Prospects & Concerns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ciqs-endorsement-boosts-rocky-linux-veteran-linux-community-leaders-unite-for-a-new-dawn-in-open-source-os-zdnet/"><u>CIQ's Endorsement Boosts Rocky Linux - Veteran Linux Community Leaders Unite for a New Dawn in Open Source OS | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/engineers-play-a-crucial-role-in-reviewing-test-data-and-making-decebsions-on-additional-compaction-requirements-based-on-project-needs/"><u>Engineers Play a Crucial Role in Reviewing Test Data and Making Decebsions on Additional Compaction Requirements Based on Project Needs.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-screen-flashing-issues-on-windows-10/"><u>How to Fix Screen Flashing Issues on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ibm-cloud-opens-up-adelaide-hub-invests-billions-in-expansion-latest-news-from-techradar/"><u>IBM Cloud Opens Up Adelaide Hub, Invests Billions in Expansion - Latest News From TechRadar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplifying-search-on-google-drive-a-look-at-the-new-home-page-upgrade-and-its-benefits-for-users-zdnet-exclusive-report/"><u>Simplifying Search on Google Drive: A Look at the New 'Home' Page Upgrade and Its Benefits for Users | ZDNet Exclusive Report</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-fix-for-guilty-gear-strive-pc-malfunctions-and-crashes/"><u>Step-by-Step Fix for Guilty Gear Strive PC Malfunctions and Crashes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mlining-your-youtube-vids-for-igtv-adoption-for-2024/"><u>Streamlining Your YouTube Vids for IGTV Adoption for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ever-evolving-microsoft-approach-unveiling-changes-in-their-consumer-tactics-technewszdnet/"><u>The Ever-Evolving Microsoft Approach: Unveiling Changes in Their Consumer Tactics | TechNewsZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-quality-audio-capture-the-ultimate-list-of-streaming-microphones-tech-insights/"><u>Top Quality Audio Capture: The Ultimate List of Streaming Microphones - Tech Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-your-kobo-library-a-step-by-step-guide-for-drm-free-reading/"><u>Unlock Your Kobo Library: A Step-by-Step Guide for DRM-Free Reading</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-hidden-changes-in-my-google-cloud-storage-strategy-insights-and-impact-a-zdnet-expose/"><u>Unveiling the Hidden Changes in My Google Cloud Storage Strategy: Insights & Impact - A ZDNet Expose</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-expert-selection-ultimate-guide-to-elite-gaming-mouse-pads-of-2024/"><u>ZDNET's Expert Selection: Ultimate Guide to Elite Gaming Mouse Pads of 2024</u></a></li>
+</ul></div>
+

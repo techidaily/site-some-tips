@@ -1,7 +1,7 @@
 ---
 title: "Rising Popularity of DevOps: A Survey Reveals Room for Growth in IT Professionals' Techniques | ZDNet"
-date: 2024-09-17 16:26:23
-updated: 2024-09-20 10:17:58
+date: 2025-01-02T01:34:40.293Z
+updated: 2025-01-06T02:37:48.340Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ To advance in a technology-focused career, it's important to embrace the practic
 DevOps is an important career choice in itself. A recent glance at the Dice technology jobs listing shows more than 7,000 open positions for [DevOps engineers and specialists](https://www.dice.com/jobs/q-DevOps-jobs#dice). Companies are seeking such individuals who can drive "automation and containerization strategies," as well as "collaborate with product owners, developers, cloud engineers, DevOps engineers and operations to plan, design, test and deliver pipelines and infrastructure using [Continuous Integration/Continuous Delivery (CI/CD)](https://www.redhat.com/en/topics/devops/what-is-ci-cd) model."
 
 **Also:** [**Tech jobs are changing. Here are the skills you'll need to get promoted now**](https://www.zdnet.com/article/tech-jobs-are-changing-here-are-the-real-skills-youll-need-to-get-promoted/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -74,11 +78,31 @@ The study's authors paint a profile of the successful DevOps practitioner:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-creating-impactful-twitter-campaigns-for-businesses-for-2024/"><u>[New] Creating Impactful Twitter Campaigns for Businesses for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/avigating-the-undisclosed-terrain-of-youtube-archives/"><u>[New] Navigating the Undisclosed Terrain of YouTube Archives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024s-most-reliable-and-performance-optimized-web-hosts-expert-ratings-and-insights-pcmag/"><u>2024'S Most Reliable and Performance-Optimized Web Hosts: Expert Ratings & Insights | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cerebras-introduces-new-pay-per-use-model-ai-cloud-collaboration-with-cirrascale-and-jasper-zdnet-insights/"><u>Cerebras Introduces New Pay-Per-Use Model AI Cloud Collaboration with Cirrascale and Jasper - ZDNet Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-web-interaction-enable-mouse-gestures-in-microsofts-edge-browser/"><u>Elevate Your Web Interaction: Enable Mouse Gestures in Microsoft's Edge Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-container-capabilities-in-red-hat-enterprise-linux-93-a-comprehensive-update-from-zdnet/"><u>Enhanced Container Capabilities in Red Hat Enterprise Linux 9.3: A Comprehensive Update From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-huaweis-innovative-applications-of-5g-transforming-healthcare-and-the-maritime-industry-insights-from-zdnet/"><u>Exploring Huawei's Innovative Applications of 5G: Transforming Healthcare and the Maritime Industry - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gemini-ai-by-google-cloud-now-enhances-capabilities-with-stack-overflows-comprehensive-database-what-you-need-to-know-zdnet/"><u>Gemini AI by Google Cloud Now Enhances Capabilities With Stack Overflow's Comprehensive Database: What You Need to Know [ZDNet]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-aws-bolstered-industry-engagement-through-latest-announcements-at-reinvent-202n-analysis-by-zdnet/"><u>How AWS Bolstered Industry Engagement Through Latest Announcements At Re:Invent 202N – Analysis by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-poco-x6-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Poco X6 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-innovative-8-cameras-transforming-online-broadcasting/"><u>In 2024, Innovative 8 Cameras Transforming Online Broadcasting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/malaysia-set-to-boost-tech-sector-with-2-billion-google-datacenter-and-cloud-expansion-project/"><u>Malaysia Set to Boost Tech Sector with $2 Billion Google Datacenter & Cloud Expansion Project</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-troubleshooting-guide-for-palworld-launch-issues/"><u>Quick Troubleshooting Guide for Palworld Launch Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/regles-de-remboursement-des-logiciels-winxdvd-chez-digiarty-guide-complet/"><u>Règles De Remboursement Des Logiciels WinXDVD Chez Digiarty - Guide Complet</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solution-a-smooth-drum-roller-is-recommended-for-an-initial-pass-over-sandy-soil-due-to-its-ability-to-compact-non-cohesive-granular-soils-effectively/"><u>Solution: A Smooth Drum Roller Is Recommended for an Initial Pass over Sandy Soil Due to Its Ability to Compact Non-Cohesive, Granular Soils Effectively.</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/your-vlogging-journey-starts-here-essentials-for-2024/"><u>Your Vlogging Journey Starts Here Essentials for 2024</u></a></li>
+</ul></div>
+

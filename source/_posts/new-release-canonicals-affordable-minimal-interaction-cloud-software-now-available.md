@@ -1,7 +1,7 @@
 ---
 title: "New Release: Canonical's Affordable, Minimal Interaction Cloud Software Now Available"
-date: 2024-09-19 15:32:55
-updated: 2024-09-20 11:12:59
+date: 2024-12-29T21:47:42.778Z
+updated: 2025-01-06T04:08:13.800Z
 tags:
   - cloud
 categories:
@@ -66,11 +66,31 @@ Read more about Canonical's MicroCloud from the [official GitHub page](https://g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/2024-approved-alight-motion-comprehensive-review/"><u>2024 Approved Alight Motion Comprehensive Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-f14-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy F14 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aoc-screen-issues-on-windows-10-heres-your-step-by-step-solution/"><u>AOC Screen Issues on Windows 10? Here's Your Step-by-Step Solution!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discover-the-ultimate-list-of-no-cost-video-compressors-for-smartphones-top-10-for-android-and-apple-users/"><u>Discover the Ultimate List of No-Cost Video Compressors for Smartphones - Top 10 for Android and Apple Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-free-driver-downloads-for-logitech-t630-on-pc-windows-7-10/"><u>Easy Installation: Free Driver Downloads for Logitech T630 on PC Windows 7-10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-ai-can-mitigate-the-surprise-cost-of-cloud-services-benefits-and-risks-zdnet/"><u>How AI Can Mitigate the Surprise Cost of Cloud Services: Benefits and Risks | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/managing-your-hard-drive-efficiency-with-google-drive-desktop-client/"><u>Managing Your Hard Drive Efficiency with Google Drive Desktop Client</u></a></li>
+<li><a href="https://win-guides.techidaily.com/sichere-backups-schaffen-mit-externen-datentragern-das-optimale-mittel-zur-verfugungstellung-geschutzter-datenablage/"><u>Sichere Backups Schaffen Mit Externen Datenträgern: Das Optimale Mittel Zur Verfügungstellung Geschützter Datenablage.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-managing-win11-applications-via-winget/"><u>The Complete Guide to Managing Win11 Applications via Winget</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cloud-technology-certifications-of-2022-insights-from-zdnet/"><u>Top Rated Cloud Technology Certifications of 2022 - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-risks-the-crucial-role-of-end-user-responsibility-in-cloud-security-insights-from-zdnet/"><u>Understanding the Risks: The Crucial Role of End-User Responsibility in Cloud Security - Insights From ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

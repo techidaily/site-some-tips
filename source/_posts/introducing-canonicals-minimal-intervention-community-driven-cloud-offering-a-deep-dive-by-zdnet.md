@@ -1,7 +1,7 @@
 ---
 title: "Introducing Canonical's Minimal Intervention, Community-Driven Cloud Offering: A Deep Dive by ZDNet"
-date: 2024-09-18 10:20:59
-updated: 2024-09-20 12:13:15
+date: 2024-12-30T20:28:52.097Z
+updated: 2025-01-05T18:37:25.598Z
 tags:
   - cloud
 categories:
@@ -66,11 +66,28 @@ Read more about Canonical's MicroCloud from the [official GitHub page](https://g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-ideal-top-5-ios-apps-for-podcasting/"><u>[New] Ideal Top 5 iOS Apps for Podcasting</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-sounds-policy-explained/"><u>[New] In 2024, Instagram Sounds Policy Explained</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-popular-photos-the-backstory/"><u>[Updated] 2024 Approved Popular Photos The Backstory</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-a-comprehensive-review-of-screenflows-impact-on-mac-professionals-for-2024/"><u>[Updated] A Comprehensive Review of ScreenFlow's Impact on Mac Professionals for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-livestream-landscape-analysis-fb-live-vs-yt-live-and-tweettv/"><u>2024 Approved Livestream Landscape Analysis FB LIVE Vs. YT Live & TweetTV</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-transforms-fire-tv-cube-into-corporate-friendly-device-a-breakthrough-for-business-enterprises-techzdnet/"><u>Amazon Transforms Fire TV Cube Into Corporate-Friendly Device: A Breakthrough for Business Enterprises | TechZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evolving-duties-of-it-crews-in-the-era-of-remote-working-and-cloud-technology-adoption-zdnet/"><u>Evolving Duties of IT Crews in the Era of Remote Working and Cloud Technology Adoption | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsofts-vp-of-office-product-management-joe-belfiore-announces-retirement-after-three-decades-in-tech/"><u>Microsoft's VP of Office Product Management, Joe Belfiore, Announces Retirement After Three Decades in Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rising-ai-threats-expose-alarming-gaps-in-business-cloud-security-experts-warn-zdnet/"><u>Rising AI Threats Expose Alarming Gaps in Business Cloud Security, Experts Warn | ZDNet</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackled-large-screen-distortion-in-windows-10/"><u>Tackled Large Screen Distortion in Windows 10</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

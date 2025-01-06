@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cloud Protection: Top 5 Essentials for Optimal Safety - Insights From ZDNet"
-date: 2024-09-18 12:27:51
-updated: 2024-09-20 12:16:35
+date: 2025-01-03T05:45:55.209Z
+updated: 2025-01-05T20:34:55.603Z
 tags:
   - cloud
 categories:
@@ -24,6 +24,10 @@ The popularity of cloud applications and software [has risen significantly in re
 The ability to log in from anywhere using cloud applications is convenient for employees, [but it's also a potential new opportunity for cyber criminals](https://www.zdnet.com/article/microsoft-office-365-is-becoming-the-core-of-many-businesses-and-hackers-have-noticed/), who, with a set of stolen passwords, could gain access to sensitive information. There's even the prospect of hackers abusing cloud services to launch [ransomware attacks](https://www.zdnet.com/article/ransomware-an-executive-guide-to-one-of-the-biggest-menaces-on-the-web/) and other malware campaigns. 
 
 But there are steps that can be taken -- and mistakes that must be avoided -- to ensure your organisation's cloud security strategy both delivers a productivity boost and keeps users and the network safe from cyberattacks and incidents.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **1\. Don't leave cloud accounts exposed and without security controls**
 
@@ -52,6 +56,10 @@ Organisations should also consider providing staff with [password manager softwa
 
 Cloud applications and services are convenient, providing users with a variety of tools they need to be productive, all in one place. But different users have different needs and most users don't need high-level privileges – particularly when that access [could easily be abused by an unauthorized user](https://www.zdnet.com/article/admin-rights-key-to-mitigating-vulnerabilities-study-shows/) who has hacked or otherwise taken control of an account with admin rights. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Security
 
 * [The best VPN services of 2024: Expert tested](https://www.zdnet.com/article/best-vpn/)
@@ -61,6 +69,10 @@ Cloud applications and services are convenient, providing users with a variety o
 * [How to find and remove spyware from your phone](https://www.zdnet.com/article/how-to-find-and-remove-spyware-from-your-phone/)
 
 It is, therefore, imperative for IT and information security teams to ensure that administrator privileges are only available for those who really need them – and that any account with administrator privileges is properly secured, so attackers are unable to gain access and abuse high-level accounts -- to create additional accounts they could use to secretly go about their business, for example. It's also important that regular users don't have the power to escalate their own privileges or create new accounts. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **3\. Don't leave cloud applications unmonitored – and know who is using them**
 
@@ -74,9 +86,17 @@ It's also important to ensure that cloud applications aren't [misconfigured](htt
 
 In the worst-case scenario, a misconfigured cloud application facing the open internet may not require login details at all, meaning anyone can gain access. It's vital that organisations are aware of how their cloud services interact with the open web and that only those who need these services can access them. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **4\. Don't ignore security updates and patches – cloud software needs them, too**
 
 One of the most important things you can do to improve the cybersecurity of your network is to [apply security updates and patches as soon as possible](https://www.zdnet.com/article/this-one-change-could-protect-your-systems-from-attack-so-why-dont-more-companies-do-it/). Cyber criminals regularly look to exploit known vulnerabilities in applications to breach networks and lay the foundation for cyberattacks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -115,11 +135,30 @@ Not only is it important to regularly save backups – so the restore point is a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/superman-movie-marathon-a-suggested-order-for-fans/"><u>'Superman' Movie Marathon: A Suggested Order for Fans</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-examination-of-fb-video-dimensions/"><u>[Updated] 2024 Approved Examination of FB Video Dimensions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-tiktok-streams-decoded-finding-your-special-hashtag/"><u>[Updated] 2024 Approved TikTok Streams Decoded Finding Your Special Hashtag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibaba-group-plans-separation-of-cloud-business-and-launches-two-new-public-offerings/"><u>Alibaba Group Plans Separation of Cloud Business & Launches Two New Public Offerings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-ai-with-expertise-how-stack-overflows-qanda-repository-boosts-google-clouds-gemini-service/"><u>Enhancing AI with Expertise: How Stack Overflow's Q&A Repository Boosts Google Cloud's Gemini Service</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-reviews-the-leading-cloud-migration-platforms-for-2eplus22-unveiled-by-zdnet/"><u>Expert Reviews: The Leading Cloud Migration Platforms for 2E+22 Unveiled by ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-the-depths-of-adobe-cloud-storages-plus-top-non-adobe-choices/"><u>Exploring the Depths of Adobe Cloud Storages, Plus Top Non-Adobe Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-hidden-treasures-in-your-data-unveiling-deep-insights-through-edge-to-cloud-synergy-zdnet/"><u>Harnessing Hidden Treasures in Your Data: Unveiling Deep Insights Through Edge to Cloud Synergy | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-starburst-secures-enhanced-investments-to-amplify-its-data-mesh-strategy-zdnet-analysis/"><u>How Starburst Secures Enhanced Investments to Amplify Its Data Mesh Strategy | ZDNet Analysis</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ibm-announces-plans-for-comprehensive-full-stack-ai-lab-partnership-with-academia/"><u>IBM Announces Plans for Comprehensive Full-Stack AI Lab Partnership with Academia</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-chat-a-practical-api-overview/"><u>Integrating GPT-Chat: A Practical API Overview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/no-disruption-for-you-how-office-2016-and-2019-will-maintain-uninterrupted-services-with-microsoft-365-next-year-zdnet-coverage/"><u>No Disruption for You: How Office 2016 and 2019 Will Maintain Uninterrupted Services with Microsoft 365 Next Year | ZDNet Coverage</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/superior-video-editing-software-for-online-sessions/"><u>Superior Video Editing Software for Online Sessions</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-50-inch-televisions-the-ultimate-guide-by-tech-experts-zdnet/"><u>Top 50-Inch Televisions : The Ultimate Guide by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-htc-u23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your HTC U23 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
+

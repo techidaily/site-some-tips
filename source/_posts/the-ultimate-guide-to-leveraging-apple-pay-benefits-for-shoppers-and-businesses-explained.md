@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Leveraging Apple Pay - Benefits for Shoppers and Businesses Explained!
-date: 2024-12-24T17:28:00.818Z
-updated: 2024-12-27T17:17:40.398Z
+date: 2025-01-02T23:24:37.681Z
+updated: 2025-01-05T19:53:32.447Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 **What you need:** iPhone, banking information
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
@@ -66,6 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -74,10 +78,6 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -85,10 +85,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -104,6 +100,10 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -115,6 +115,10 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
@@ -124,7 +128,7 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
@@ -158,10 +162,6 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,24 +197,19 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-combat-fuzzy-visuals-facebook-videos-tips-and-tricks/"><u>[New] 2024 Approved Combat Fuzzy Visuals Facebook Videos Tips & Tricks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-youtubes-hidden-view-tracking-method/"><u>[New] 2024 Approved Unlocking YouTube’s Hidden View Tracking Method</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-elite-voice-capture-tech-the-ultimate-5-apps-for-mac-users/"><u>[New] Elite Voice Capture Tech The Ultimate 5 Apps for Mac Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamlining-your-video-editing-with-device-filters/"><u>[New] Streamlining Your Video Editing with Device Filters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-superior-frame-rate-in-languid-videos/"><u>[New] Superior Frame Rate in Languid Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-notch-tricks-to-nail-every-green-screen-shot/"><u>[New] Top-Notch Tricks to Nail Every Green Screen Shot</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-trailer-treasure-chest/"><u>[Updated] Ultimate Trailer Treasure Chest</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-a-million-eyes-engaging-content-strategy/"><u>[Updated] Unlock a Million Eyes Engaging Content Strategy</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-story-tempo-adjusting-video-speed-in-instagram/"><u>2024 Approved Mastering Story Tempo Adjusting Video Speed in Instagram</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-creative-overlays-for-video-content/"><u>2024 Approved Top 10 Creative Overlays for Video Content</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/philes-recommend-top-5-headset-choices-for-2024/"><u>Audiophiles Recommend Top 5 Headset Choices for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/identifying-gaps-in-auto-editing-tools/"><u>Identifying Gaps in Auto-Editing Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gross-income-estimates-for-youtube-star-pewdopeep/"><u>In 2024, Gross Income Estimates for YouTube Star PewDoPeep</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-se-2020-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone SE (2020) to iPad? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-layers-of-a-great-humorous-poster/"><u>In 2024, The Layers of a Great Humorous Poster</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-impact-of-google-gemini-on-ios-functionality-unveiling-apples-strategy-for-a-more-utilitarian-iphone-experience-analysis-by-zdnet/"><u>The Impact of Google Gemini on iOS Functionality: Unveiling Apple's Strategy for a More Utilitarian iPhone Experience | Analysis by ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-checkpoint-a-2021-review-of-vegas-pros-latest-features-for-2024/"><u>The Ultimate Checkpoint A 2021 Review of Vegas Pro's Latest Features for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unblemished-visuals-buying-high-quality-images-for-2024/"><u>Unblemished Visuals Buying High-Quality Images for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-your-first-sound-recording-guide-in-audacity-on-a-mac/"><u>[New] In 2024, Your First Sound Recording Guide in Audacity on a Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-future-of-audio-extraction-with-pazera-tools-analysis/"><u>[Updated] The Future of Audio Extraction with Pazera Tools Analysis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-download-premium-facebook-hd-content-anywhere/"><u>2024 Approved Download Premium Facebook HD Content Anywhere</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725286538929-52024/"><u>未来前5名！推出2024年最热门免费视频记录器选项</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-development-abilities-my-journey-to-mastery-in-python-through-linkedins-gratis-artificial-intelligence-training-insights-featured-by-zdnet/"><u>Boosting Development Abilities: My Journey to Mastery in Python Through LinkedIn’s Gratis Artificial Intelligence Training - Insights Featured by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-software-creation-flow-using-these-6-agile-strategies-for-project-triumph-zdnet/"><u>Elevate Your Software Creation Flow Using These 6 Agile Strategies for Project Triumph | ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratuit-mp4-to-swf-konvertor-en-lijn-veillez-a-la-mouvavi/"><u>Gratuit MP4-to-SWF Konvertor en Lijn - Veillez À La Mouvavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-googles-lamda-truly-sentient-or-just-another-advanced-bot/"><u>Is Google's LaMDA Truly Sentient, or Just Another Advanced Bot?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-chatgpt-for-innovative-app-development-techniques-insights-by-zdnet/"><u>Leveraging ChatGPT for Innovative App Development Techniques - Insights by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/personalize-your-online-journey-a-comprehensive-guide-for-enabling-cookies-in-modern-browsers/"><u>Personalize Your Online Journey: A Comprehensive Guide for Enabling Cookies in Modern Browsers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/recovering-your-missing-texts-and-reminders-from-an-iphone-easily/"><u>Recovering Your Missing Texts and Reminders From an iPhone Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotting-a-stealthy-tracker-how-to-check-for-hidden-airtags-around-you/"><u>Spotting a Stealthy Tracker: How to Check for Hidden AirTags Around You</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-removing-hums-from-your-bass-speakers/"><u>Step-by-Step Instructions: Removing Hums From Your Bass Speakers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-programming-bootcamp-schools-a-comprehensive-review-by-techeducation-insider/"><u>Top 10 Programming Bootcamp Schools : A Comprehensive Review by TechEducation Insider</u></a></li>
 </ul></div>
 

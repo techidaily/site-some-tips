@@ -1,7 +1,7 @@
 ---
 title: "Military Cloud Market Division: Amazon Web Services, Google, Oracle & Microsoft Secure Pentagon's Major Contract - Insights From ZDNet"
-date: 2024-09-18 15:38:34
-updated: 2024-09-20 11:17:16
+date: 2025-01-03T02:17:04.605Z
+updated: 2025-01-06T01:58:02.271Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: Getty Images / iStockphoto
 After canceling its $10bn JEDI contract with Microsoft last year, the Pentagon has now awarded a new $9bn contract to four tech giants that will build its [cloud-computing network](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/).
 
 The contract, formerly named JEDI but now called the Joint Warfighting Cloud Capability (JWCC), has been awarded to Amazon Web Services, Google Support Services, Microsoft, and Oracle. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -63,11 +67,27 @@ Ken Glueck, Executive Vice President at Oracle, said: "Oracle looks forward to c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-complete-guide-to-downloading-youtube-videos-to-iphone-or-ipad/"><u>[Updated] A Complete Guide to Downloading YouTube Videos to iPhone or iPad</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-premiere-your-stories-with-free-templates/"><u>2024 Approved Premiere Your Stories with Free Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/building-tailored-nlp-solutions-googles-alliance-for-custom-local-llm-projects-featured-on-zdnet/"><u>Building Tailored NLP Solutions: Google's Alliance for Custom Local LLM Projects | Featured on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-bluehost-analysis-high-efficiency-streamlined-dashboard-management-and-dependable-helpdesk-support-cnet/"><u>Comprehensive Bluehost Analysis: High Efficiency, Streamlined Dashboard Management & Dependable Helpdesk Support | CNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/demystifying-kubernetes-the-essential-tool-for-cloud-native-applications-techrepublic/"><u>Demystifying Kubernetes: The Essential Tool for Cloud-Native Applications | TechRepublic</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/download-the-latest-lyrx-mac-karaoke-software-v1301-for-enhanced-singing-fun/"><u>Download the Latest LYRX Mac Karaoke Software (v1.3.0.1) for Enhanced Singing Fun!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-epson-l3150-driver-update-for-pcs-running-windows-1187-free-downloads-available/"><u>Get the Newest Epson L3150 Driver Update for PCs Running Windows 11/8/7 - Free Downloads Available</u></a></li>
+<li><a href="https://some-tips.techidaily.com/head-to-head-comparison-iphone-13-stacks-up-against-samsung-galaxy-s22-and-s22plus-a-detailed-breakdown/"><u>Head-to-Head Comparison: IPhone 13 Stacks Up Against Samsung Galaxy S22 & S22+ - A Detailed Breakdown</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/purchase-small-cloud-data-storage-for-only-80-learn-more-on-zdnet/"><u>Purchase Small Cloud Data Storage for Only $80 - Learn More on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solution-civil-engineers-review-the-quality-control-test-results-to-ensure-they-meet-project-specifications-and-decide-whether-further-compaction-is-necessa22/"><u>Solution: Civil Engineers Review the Quality Control Test Results to Ensure They Meet Project Specifications and Decide Whether Further Compaction Is Necessary Based on the Data.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-transition-the-ultimate-guide-to-sierra-on-macs-for-2024/"><u>Swift Transition The Ultimate Guide to Sierra on Macs for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-essential-tips-for-shooting-talking-head-videos/"><u>Updated Essential Tips for Shooting Talking Head Videos</u></a></li>
+</ul></div>
+

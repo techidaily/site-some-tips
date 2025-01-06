@@ -1,7 +1,7 @@
 ---
 title: Exploring the Cause of Recent Disruptions with Microsoft's 365, Teams and Outlook – A Detailed Report From ZDNet
-date: 2024-09-17 23:27:25
-updated: 2024-09-20 11:23:12
+date: 2024-12-29T16:31:57.929Z
+updated: 2025-01-05T23:11:47.145Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: Getty Images
 Microsoft says an update on a router was behind a huge multi-hour outage affecting the Microsoft Wide Area Network (WAN) that made Azure, Microsoft 365 apps, and Power Platform inaccessible to customers across the globe last week. 
 
 The [multi-hour outage last Wednesday](https://www.zdnet.com/article/microsoft-365-outage-hits-teams-and-outlook-users-what-we-know-so-far/) impacted Microsoft Teams, Exchange Online, Outlook, SharePoint Online, OneDrive for Business, Microsoft Graph, PowerBi, M365 Admin Portal, Microsoft Intune, Microsoft Defender for Cloud Apps, and Microsoft Defender for Identity. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -69,11 +73,29 @@ Microsoft plans to publish a final post-incident report within the next two week
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-beginners-guide-steady-sound-volume-rise-in-editing/"><u>[New] Beginner's Guide Steady Sound Volume Rise in Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-farm-fun-and-fellowship-the-ultimate-agritainment-guide/"><u>[New] In 2024, Farm Fun & Fellowship The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-step-by-step-adding-tracks-to-youtubes-playlist/"><u>[Updated] Step-by-Step Adding Tracks to YouTube's Playlist</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-closing-credits-collection-free-to-subscription-choices/"><u>2024 Approved Closing Credits Collection Free to Subscription Choices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-efficient-techniques-for-srt-files-on-twitter-facebook/"><u>2024 Approved Efficient Techniques for SRT Files on Twitter, Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/businesses-transition-to-edge-computing-assessing-readiness-challenges-zdnet-insights/"><u>Businesses Transition to Edge Computing: Assessing Readiness Challenges | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-reliability-and-expertise-of-wp-engine-in-managed-web-hosting-a-detailed-zdnet-review/"><u>Discover the Reliability and Expertise of WP Engine in Managed Web Hosting - A Detailed ZDNet Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/prophetsrishis/"><u>Prophets/Rishis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-cloud-expert-tips-on-preventing-hacker-access-discover-how-with-zdnet/"><u>Secure Your Cloud: Expert Tips on Preventing Hacker Access - Discover How with ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-icloud-notes-with-linux-a-comprehensive-guide-zdnet/"><u>Syncing iCloud Notes with Linux: A Comprehensive Guide - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-cloud-certification-programs-of-2022-insights-from-zdnet/"><u>Top-Ranking Cloud Certification Programs of 2022 - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-essence-of-cozy-gaming/"><u>Understanding the Essence of Cozy Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/urgent-update-upcoming-google-policy-on-abandoned-account-deletion-explained-expert-analysis-and-tips-at-zdnet/"><u>Urgent Update: Upcoming Google Policy on Abandoned Account Deletion Explained | Expert Analysis & Tips at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-dbos-outshines-linux-in-the-cloud-era-experience-a-free-trial-today-on-zdnet/"><u>Why DBOS Outshines Linux in the Cloud Era: Experience a FREE Trial Today on ZDNet!</u></a></li>
+</ul></div>
+

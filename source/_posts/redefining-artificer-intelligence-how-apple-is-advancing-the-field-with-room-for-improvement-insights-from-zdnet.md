@@ -1,7 +1,7 @@
 ---
 title: "Redefining Artificer Intelligence: How Apple Is Advancing the Field with Room for Improvement - Insights From ZDNET"
-date: 2024-12-26T17:38:01.221Z
-updated: 2024-12-27T17:24:34.977Z
+date: 2025-01-02T23:48:05.821Z
+updated: 2025-01-06T03:13:25.997Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 ## What Apple Intelligence will bring to the company's operating system platforms
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI on the device and in the cloud
@@ -64,6 +64,10 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Smart notifications and writing tools
 
 Smart notifications in Apple's operating systems will leverage on-device LLMs to sift through the noise and ensure that only the most important alerts make it through. This is part of the new Reduce Interruptions Focus, which shows users key details for each notification. System-wide writing tools can write, proofread, and summarize text for users, from short messages to long blog posts, with the Rewrite feature providing multiple versions of text based on the intended audience.
@@ -79,7 +83,7 @@ Apple has opened up a world of creative possibilities by integrating the [Image 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
@@ -97,7 +101,7 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI capabilities across Apple products
@@ -109,7 +113,7 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The developer story
@@ -135,10 +139,6 @@ Finally, the new Translation API will be unveiled. It will help developers build
 **Also: [Apple unveils an on-device AI image generator for iPhone, iPad, and Mac](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/)**
 
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
 
@@ -180,18 +180,21 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-how-to-harvest-huge-volumes-of-content-from-tiktok-effortlessly/"><u>[Updated] 2024 Approved How to Harvest Huge Volumes of Content From TikTok Effortlessly</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-stay-snappin-strategies-for-unbroken-streaks-for-2024/"><u>[Updated] Stay Snappin' Strategies for Unbroken Streaks for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-macos-big-sur-minimum-requirements/"><u>2024 Approved Understanding MacOS Big Sur Minimum Requirements</u></a></li>
-<li><a href="https://win-dash.techidaily.com/comprehensive-fix-for-pci-security-device-driver-malfunctions/"><u>Comprehensive Fix for PCI Security Device Driver Malfunctions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehvew-on-how-to-repair-helldivers-2-blue-screen-of-death-error-efficiently/"><u>Comprehvew on How to Repair 'Helldivers 2' Blue Screen of Death Error Efficiently</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-not-found-ssleay32dll-detailed-troubleshooting-processes/"><u>Fixing the Not Found 'ssleay32.dll': Detailed Troubleshooting Processes</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/guia-completa-para-insertar-sincronizacion-de-textos-en-mp4-con-convertidor-de-videos-movavi/"><u>Guía Completa Para Insertar Sincronización De Textos en MP4 Con Convertidor De Videos Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>In 2024, Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-cloud-picks-price-and-performance-comparison/"><u>In 2024, Top Cloud Picks Price & Performance Comparison</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-zooming-elevate-your-tiktok-videos/"><u>The Art of Zooming Elevate Your TikTok Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-ultimate-15-stop-motion-film-collection-for-2024/"><u>Unveiling the Ultimate 15 Stop-Motion Film Collection for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-best-8-youtube-marketing-apps-and-solutions-for-2024/"><u>[New] Best 8 YouTube Marketing Apps & Solutions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-export-live-webcam-video-through-vlc-for-2024/"><u>[Updated] Export Live Webcam Video Through VLC for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-is-there-a-cash-incentive-in-critique-videos/"><u>2024 Approved Is There a Cash Incentive in Critique Videos?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-14-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi 14 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/accelerate-your-coding-speed-using-generative-ai-understand-the-potential-pitfalls-insights-from-zdnet/"><u>Accelerate Your Coding Speed Using Generative AI: Understand the Potential Pitfalls - Insights From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/boost-win11-efficiency-smart-wmi-host-management/"><u>Boost Win11 Efficiency: Smart WMI Host Management</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficiently-operating-multiple-ai-applications-locally-on-macpc-without-external-services/"><u>Efficiently Operating Multiple AI Applications Locally on Mac/PC Without External Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gemini-15-experiences-issues-post-prompt-my-involvement-explained-on-zdnet/"><u>Gemini 1.5 Experiences Issues Post-Prompt: My Involvement Explained on ZDNET</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-hot-30-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix Hot 30 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/interactive-escapes-top-10-virtual-accessories/"><u>Interactive Escapes Top 10 Virtual Accessories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-generative-ai-a-double-edged-sword-understanding-its-impact-on-workload-management/"><u>Is Generative AI a Double-Edged Sword? Understanding Its Impact on Workload Management</u></a></li>
+<li><a href="https://some-tips.techidaily.com/large-spacious/"><u>Large - Spacious</u></a></li>
+<li><a href="https://extra-information.techidaily.com/merge-speeches-and-music-into-slides-sequences/"><u>Merge Speeches and Music Into Slides Sequences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-artificial-intelligence-insights-into-metas-pruning-techniques-for-downscaling-llama-2-model/"><u>Streamlining Artificial Intelligence: Insights Into Meta's Pruning Techniques for Downscaling Llama 2 Model</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/transform-your-tech-skills-mastering-screen-capture-in-macos/"><u>Transform Your Tech Skills Mastering Screen Capture in macOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/what-open-source-developers-value-most-in-career-progression-apart-from-financial-rewards-expert-opinions-on-zdnet/"><u>What Open-Source Developers Value Most in Career Progression, Apart From Financial Rewards | Expert Opinions on ZDNet</u></a></li>
 </ul></div>
 

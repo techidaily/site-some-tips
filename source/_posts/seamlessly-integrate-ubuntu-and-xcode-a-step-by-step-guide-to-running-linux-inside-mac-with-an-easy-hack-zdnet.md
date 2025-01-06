@@ -1,7 +1,7 @@
 ---
 title: "Seamlessly Integrate Ubuntu & Xcode: A Step-by-Step Guide to Running Linux Inside Mac with an Easy Hack | ZDNet"
-date: 2024-12-24T16:05:30.120Z
-updated: 2024-12-27T17:03:27.968Z
+date: 2024-12-30T20:03:51.150Z
+updated: 2025-01-05T22:20:24.307Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -39,10 +43,6 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -75,7 +75,7 @@ Double-press the iPhone's right-side button to access Apple Pay.
 Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
@@ -85,10 +85,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -104,7 +100,15 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I set up Apple Pay from my iPhone Settings?
 
@@ -119,6 +123,10 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
@@ -132,10 +140,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 **Also: [Venmo and PayPal now offer 'Tap to Pay' on iPhone for businesses](https://www.zdnet.com/article/venmo-and-paypal-now-offer-tap-to-pay-on-iphone-for-businesses/)**
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Apple Cash?
 
@@ -158,10 +162,6 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -197,20 +197,22 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-pulse-of-the-population-vllo-analysis/"><u>[New] The Pulse of the Population VLLO Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-the-finest-zero-cost-digital-darkroom-tools/"><u>[New] Unveiling the Finest Zero-Cost Digital Darkroom Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-creating-a-domino-effect-with-memes-for-2024/"><u>[Updated] Creating a Domino Effect with Memes for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-screen-recording-for-professionals-choosing-between-bandicam-and-camtasia/"><u>[Updated] In 2024, Screen Recording for Professionals Choosing Between Bandicam & Camtasia</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations/"><u>[Updated] In 2024, Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/a-perfect-playtime-how-to-take-great-xbox-one-shots/"><u>A Perfect Playtime How to Take Great Xbox One Shots</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-mechanics-of-chatgpt-shared-links-an-insightful-exploration/"><u>Decoding the Mechanics of ChatGPT Shared Links - An Insightful Exploration</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-google-pixel-8-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Google Pixel 8 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-choices-full-sweep-video-recording-systems/"><u>In 2024, Top Choices Full Sweep Video Recording Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-list-of-no-cost-vectors-and-design-portals-online/"><u>In 2024, Ultimate List of No-Cost Vectors and Design Portals Online</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/mic-repository-perfect-dj-templates-instantly-downloadable-for-2024/"><u>Rhythmic Repository Perfect DJ Templates, Instantly Downloadable for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/should-you-opt-for-extended-warranty-with-applecareplus-services/"><u>Should You Opt for Extended Warranty with AppleCare+ Services?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/smoothest-android-3d-video-streaming-for-2024/"><u>Smoothest Android 3D Video Streaming for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trasforma-rapidamente-il-tuo-video-mkc-in-mp4-con-nessuna-perdita-di-chiarezza-e-qualita/"><u>Trasforma Rapidamente Il Tuo Video MKC in MP4 Con Nessuna Perdita Di Chiarezza E Qualità</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unraveling-the-secrets-to-gently-fading-audio-in-audacity-for-2024/"><u>Unraveling the Secrets to Gently Fading Audio in Audacity for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-coping-with-youtube-copyright-claims-a-step-by-step-guide/"><u>[New] 2024 Approved Coping with YouTube Copyright Claims A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-laugh-hard-best-meme-app-for-you/"><u>[New] In 2024, Laugh Hard Best Meme App for You</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-revival-device-pack/"><u>2024 Approved Revival Device Pack</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-lightspeed-by-red-hat-the-ultimate-ai-solution-for-kubernetes-administrators-detailed-insight-from-zdnet/"><u>Discover Lightspeed by Red Hat: The Ultimate AI Solution for Kubernetes Administrators - Detailed Insight From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-software-projects-with-these-6-agile-tactics-a-guide-to-effective-design-processes-by-zdnet-experts/"><u>Elevate Your Software Projects with These 6 Agile Tactics: A Guide to Effective Design Processes by ZDNet Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-anthropics-claude-the-dawn-of-beta-with-cutting-edge-tool-functionality-paving-the-way-for-elite-ai-helpers-as-reported-by-zdnet/"><u>Exploring Anthropic's Claude: The Dawn of Beta with Cutting-Edge Tool Functionality Paving the Way for Elite AI Helpers, as Reported by ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-tech-with-linus-torvalds-decoding-the-significance-of-rust-and-ai-for-linuxs-future/"><u>Inside Tech with Linus Torvalds: Decoding the Significance of Rust and AI for Linux's Future</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-devops-skills-without-breaking-the-bank-linux-foundations-special-offer-unveiled-discover-by-zdnet/"><u>Master DevOps Skills Without Breaking the Bank: Linux Foundation's Special Offer Unveiled | Discover by ZDNET</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-powerhouse-the-ultimate-game-collection-for-2024/"><u>Pixel Powerhouse The Ultimate Game Collection for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/stabilizing-snapshots-preventing-blurry-results/"><u>Stabilizing Snapshots Preventing Blurry Results</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-excellent-ipadiphone-interview-podcast-recording/"><u>Step-by-Step Guide to Excellent iPad/iPhone Interview Podcast Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-restoring-secure-file-connections-on-win/"><u>Strategies for Restoring Secure File Connections on Win</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taming-the-chaos-streamlining-linux-and-open-source-documentation-with-ease-insights-from-zdnet/"><u>Taming the Chaos: Streamlining Linux & Open Source Documentation with Ease | Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-struggle-and-hope-unveiling-the-dual-faces-of-tech-industry-burnout-insights-from-zdnet/"><u>The Struggle and Hope: Unveiling the Dual Faces of Tech Industry Burnout - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-unstoppable-comeback-why-enterprises-are-embracing-openstack-and-kata-containers-anew/"><u>The Unstoppable Comeback: Why Enterprises Are Embracing OpenStack and Kata Containers Anew</u></a></li>
 </ul></div>
 

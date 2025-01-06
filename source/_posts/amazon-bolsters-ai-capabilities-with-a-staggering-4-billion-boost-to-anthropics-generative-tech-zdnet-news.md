@@ -1,7 +1,7 @@
 ---
 title: Amazon Bolsters AI Capabilities with a Staggering $4 Billion Boost to Anthropic's Generative Tech | ZDNet News
-date: 2024-09-18 23:58:52
-updated: 2024-09-20 11:23:22
+date: 2025-01-03T21:33:19.477Z
+updated: 2025-01-05T20:51:27.367Z
 tags:
   - cloud
 categories:
@@ -76,11 +76,35 @@ Commenting on the announcement, Nigel Green, CEO of financial advisory deVere Gr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-nine-crucial-strategies-to-elevate-your-youtube-presence/"><u>[New] In 2024, Nine Crucial Strategies to Elevate Your Youtube Presence</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastery-in-broadcast-4-approaches-for-televised-facebook-lives/"><u>[New] Mastery in Broadcast 4 Approaches for Televised Facebook Lives</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nlocking-creativity-mastering-ios-screen-capture-for-youtube/"><u>[New] Unlocking Creativity Mastering iOS Screen Capture for YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-iphones-artistry-for-time-extended-cinematography/"><u>[Updated] IPhone's Artistry for Time-Extended Cinematography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-introduces-private-cloud-regions-whats-in-store-for-eligible-users-zdnet-coverage/"><u>AWS Introduces Private Cloud Regions: What's in Store for Eligible Users? [ZDNet Coverage]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-power-of-amazon-web-services-latest-innovation-an-ai-chatbot-for-businesses-available-to-test-for-free-zdnet-insights/"><u>Discover the Power of Amazon Web Services' Latest Innovation - An AI Chatbot for Businesses, Available to Test for Free | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimal-e-learning-environments-explored-discover-the-foremost-lms-platforms-according-to-zdnet/"><u>Optimal E-Learning Environments Explored: Discover the Foremost LMS Platforms According to ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/public-sector-unveiling-atandt-and-ibm-launch-revolutionary-co-innovation-lab-together/"><u>Public Sector Unveiling: AT&T & IBM Launch Revolutionary Co-Innovation Lab Together</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-the-pace-of-progress-executive-strategies-for-swiftly-transforming-tech-teams-as-featured-on-zdnet/"><u>Revolutionize the Pace of Progress: Executive Strategies for Swiftly Transforming Tech Teams, as Featured on ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207406237-stuck-on-a-pdf-that-wont-print-easy-remedies-inside/"><u>Stuck On A PDF That Won't Print? Easy Remedies Inside!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-path-for-telcos-with-generative-ai-learning-from-the-commercial-success-of-5g-technologies/"><u>The Path for Telcos with Generative AI: Learning From the Commercial Success of 5G Technologies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/thorough-review-of-videoshow-24-features-and-updates/"><u>Thorough Review of VideoShow '24 Features & Updates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tips-and-tricks-to-prevent-rainbow-six-extraction-from-freezing-or-crashing-on-pc-setup/"><u>Tips and Tricks to Prevent Rainbow Six Extraction From Freezing or Crashing on PC Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-and-overcoming-current-azure-capacity-challenges-as-a-client/"><u>Understanding and Overcoming Current Azure Capacity Challenges as a Client</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-teamwork-in-the-cloud-protons-new-feature-for-real-time-document-sharing-on-its-free-plan/"><u>Unlock Teamwork in the Cloud: Proton's New Feature for Real-Time Document Sharing on Its Free Plan!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-unlocking-audio-potential-a-user-friendly-approach-to-track-combining-in-premiere-pro/"><u>Updated Unlocking Audio Potential A User-Friendly Approach to Track Combining in Premiere Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-itel-s23-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Itel S23? | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

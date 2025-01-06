@@ -1,7 +1,7 @@
 ---
 title: Small Businesses Overlook Cybersecurity Risks Despite Being Prime Attack Vectors – Insights From ZDNet
-date: 2024-09-17 21:43:30
-updated: 2024-09-20 10:34:31
+date: 2025-01-04T03:39:27.698Z
+updated: 2025-01-05T22:41:33.837Z
 tags:
   - cloud
 categories:
@@ -103,11 +103,31 @@ Chung also urged SMBs to stop regarding cybersecurity as an afterthought and sta
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-step-by-step-for-xml-and-ttml-conversion-to-streamlined-srts/"><u>[New] 2024 Approved Step-by-Step for XML & TTML Conversion to Streamlined SRTs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gain-listener-traffic-advanced-techniques-in-podcast-seo/"><u>[Updated] Gain Listener Traffic Advanced Techniques in Podcast SEO</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-wave-warriors-cam-selection-best-surf-gear-2023/"><u>[Updated] In 2024, Wave Warriors' Cam Selection - Best Surf Gear 2023</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-snapchat-boomerang-handbook/"><u>[Updated] The Ultimate Snapchat Boomerang Handbook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-cutting-edge-retouch-erasing-unwanted-backdrops-in-photos/"><u>2024 Approved Cutting-Edge Retouch Erasing Unwanted Backdrops in Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dont-overlook-cloud-safety-understand-the-critical-impact-on-your-business-today-zdnet/"><u>Don't Overlook Cloud Safety: Understand the Critical Impact on Your Business Today | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-file-discovery-streamlined-search-capabilities-in-the-latest-update-of-google-drive/"><u>Enhanced File Discovery: Streamlined Search Capabilities in the Latest Update of Google Drive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-dbos-the-perfect-choice-for-cloud-computing-over-linux-discover-and-download-your-free-trial/"><u>Exploring DBOS: The Perfect Choice for Cloud Computing Over Linux - Discover & Download Your Free Trial!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-proven-strategies-for-successful-youtube-shorts/"><u>In 2024, Proven Strategies for Successful YouTube Shorts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-elite-car-beat-merging-software-for-mac-platforms-for-2024/"><u>New Elite Car Beat Merging Software for Mac Platforms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/singapore-launches-new-tropical-data-center-insights-from-zdnet/"><u>Singapore Launches New Tropical Data Center: Insights From ZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-errors-why-this-application-wont-start-on-windows/"><u>Troubleshooting Errors: Why This Application Won't Start on Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-se-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone SE Passcode without a Computer | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

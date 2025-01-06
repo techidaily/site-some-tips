@@ -1,7 +1,7 @@
 ---
 title: "Essential Errors in Cloud Strategies: Learn What Not To Do According to Experts at ZDNet"
-date: 2024-09-17 23:28:50
-updated: 2024-09-20 10:16:19
+date: 2025-01-03T19:59:37.126Z
+updated: 2025-01-05T17:25:24.966Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Image: FG Trade/Getty Images
 Tech analyst firm Gartner has set out 10 things you should avoid when [building a cloud-computing strategy](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/) in a world that is leaning towards cloud-first. Because being cloud-first doesn't necessarily mean 'cloud only'. 
 
 As cloud becomes the [dominant way of consuming compute, storage and networking](https://www.zdnet.com/article/cloud-computing-is-about-to-hit-another-big-milestone/), organisations should be crafting a concise 10-to-20-page "consumable document" that guides those who implement the strategy, according to Marco Meinardi, vice president analyst at Gartner. "The business strategy should drive the cloud strategy and provide guidance to those who will implement it. It must coexist with other strategic efforts, not try to redo them," [Meinardi notes](https://www.gartner.com/en/newsroom/press-releases/2022-11-21-gartner-highlights-ten-common-cloud-strategy-mistakes). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -84,11 +88,33 @@ Gartner's 10 cloud computing mistakes to avoid:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-analyzing-vidmas-impact-on-video-capture-tech/"><u>[New] Analyzing Vidma's Impact on Video Capture Tech</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-exploring-the-boundaries-with-syma-x8c-flight/"><u>[New] Exploring the Boundaries with Syma X8C Flight</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-expert-tips-for-eradicating-extra-green-on-youtube-videos-mac/"><u>[New] In 2024, Expert Tips for Eradicating Extra Green on YouTube Videos (Mac)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-superior-selections-high-capacity-cloud-options/"><u>[Updated] Superior Selections High-Capacity Cloud Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-simplify-file-sharing-with-intra-as-the-ultimate-solution-a-comprehensive-guide-by-techexpertz/"><u>1. Simplify File Sharing with Intra as the Ultimate Solution: A Comprehensive Guide by TechExpertz</u></a></li>
+<li><a href="https://some-tips.techidaily.com/adapting-to-change-how-cybersecurity-professionals-must-evolve-with-emerging-technologies-amidst-the-challenge-of-old-system-maintenance/"><u>Adapting to Change: How Cybersecurity Professionals Must Evolve with Emerging Technologies Amidst the Challenge of Old System Maintenance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-web-services-unveils-new-melbourne-data-center-with-a-projected-45-billion-boost/"><u>Amazon Web Services Unveils New Melbourne Data Center with a Projected $4.5 Billion Boost</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oneplus-ace-3-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your OnePlus Ace 3 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://extra-information.techidaily.com/are-earnings-associated-with-good-and-service-analysis-for-2024/"><u>Are Earnings Associated with Good and Service Analysis for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oneplus-11r-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On OnePlus 11R Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/how-to-restore-deleted-drives-on-windows-1011-a-four-step-guide/"><u>How to Restore Deleted Drives on Windows 10/11: A Four-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-retrieve-lost-iphone-contacts-efficiently-with-and-without-using-backups/"><u>How to Retrieve Lost iPhone Contacts Efficiently – With and Without Using Backups</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-and-simple-guide-to-setting-up-home-cloud-services-under-one-hour-tips-from-zdnet/"><u>Quick and Simple Guide to Setting Up Home Cloud Services Under One Hour - Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-fix-revive-disappeared-chrome-bookmarks-icons-with-a-single-click-tips-from-zdnet/"><u>Quick Fix: Revive Disappeared Chrome Bookmarks' Icons with a Single Click - Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-developer-platforms-and-big-data-insight-google-clouds-leap-into-ai-powered-analytics-tools-featured-on-zdnet/"><u>Revolutionizing Developer Platforms and Big Data Insight: Google Cloud's Leap Into AI-Powered Analytics Tools, Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplifying-kubernetes-deployments-discover-the-new-ai-toolchain-feature-for-microsofts-azure-services/"><u>Simplifying Kubernetes Deployments: Discover the New AI Toolchain Feature for Microsoft's Azure Services</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-nokia-c12-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Nokia C12 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-power-of-processors-chinas-strategic-leap-in-ai-and-supercomputing-for-next-gen-innovation-analysis-on-zdnet/"><u>The Power of Processors: China's Strategic Leap in AI and Supercomputing for Next-Gen Innovation - Analysis on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-secure-browsing-in-depth-analysis-of-ipvanishs-array-of-options-by-zdnet-experts/"><u>Unlocking Secure Browsing: In-Depth Analysis of IPVanish's Array of Options by ZDNET Experts</u></a></li>
+</ul></div>
+

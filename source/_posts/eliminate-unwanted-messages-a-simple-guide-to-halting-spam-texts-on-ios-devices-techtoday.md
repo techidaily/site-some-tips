@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Unwanted Messages: A Simple Guide to Halting Spam Texts on iOS Devices | TechToday"
-date: 2024-12-23T16:46:20.594Z
-updated: 2024-12-27T17:27:28.675Z
+date: 2024-12-30T16:38:44.771Z
+updated: 2025-01-05T22:38:33.508Z
 tags:
   - apple
 categories:
@@ -27,12 +27,16 @@ The good news is that you can stop these text messages using a feature already i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to stop spam text messages on iPhone
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open Settings
 
@@ -41,10 +45,6 @@ Open the Settings app on your iPhone, scroll down until you can access Apps, and
 Tap on Messages to access the settings for your Messages app.
 
 Screenshot by Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Scroll until you find 'Filter Unknown Messages'
 
@@ -55,10 +55,6 @@ Scroll down to find the Filter Unknown Messages option and turn it on. This opti
 Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 
 Screenshot by Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
 
@@ -82,6 +78,10 @@ The message inbox will now default to show messages from people in your contact 
 
 Screenshot by Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## How do I stop spam calls on iPhone?
@@ -98,6 +98,10 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I report junk messages on iPhone?
 
@@ -118,7 +122,7 @@ If you keep getting messages from the same sender after reporting them, you can 
 4. Select Block this caller.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why is the 'Filter Unknown Senders' option turned off?
@@ -126,10 +130,6 @@ If you keep getting messages from the same sender after reporting them, you can 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -167,18 +167,15 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-easy-way-to-download-and-use-the-ifunny-meme-app/"><u>[New] The Easy Way to Download and Use the iFunny Meme App</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-best-webp-converters-convert-webp-to-jpg/"><u>[Updated] 2024 Approved Best WebP Converters Convert WebP to JPG</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-picks-amplifying-vhs-pictures-via-computer-software/"><u>[Updated] Top Picks Amplifying VHS Pictures via Computer Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-mastering-vlog-production-top-8-mirrorless-cameras-ranked/"><u>2024 Approved Mastering Vlog Production Top 8 Mirrorless Cameras Ranked</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-prioritize-your-videography-with-top-12-players/"><u>2024 Approved Prioritize Your Videography with Top 12 Players</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-tips-to-improve-visual-integrity-while-watching-youtube-content/"><u>2024 Approved Tips to Improve Visual Integrity While Watching YouTube Content</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-unlock-the-secret-of-youtube-to-gif-conversion-begin-here/"><u>2024 Approved Unlock the Secret of YouTube-to-GIF Conversion - Begin Here!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-which-is-better-for-streamers-obs-studio-or-fraps/"><u>2024 Approved Which Is Better for Streamers, OBS Studio or Fraps?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-13-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 13? Heres the Best Fixes</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-symphony-of-well-being-learn-from-asmr/"><u>In 2024, The Symphony of Well-Being – Learn From ASMR</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-windows-11-a-compreayer-to-master-video-editing-techniques/"><u>In 2024, Unveiling Windows 11 A Compreayer to Master Video Editing Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-action-camera-selection-under-100-for-2024/"><u>Ultimate Action Camera Selection Under $100 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-guide-advanced-techniques-for-skype-screenshots-via-obs/"><u>[Updated] In 2024, How-To Guide Advanced Techniques for Skype Screenshots via OBS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-boost-your-capacity-20-premier-gratis-cloud-storage-options/"><u>2024 Approved Boost Your Capacity 20 Premier Gratis Cloud Storage Options</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-steady-snaps-premier-tripods-for-mobile-cameras/"><u>2024 Approved Steady Snaps Premier Tripods for Mobile Cameras</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-k70-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/can-microsofts-newest-ai-copilot-enhance-your-productivity-without-overselling-find-out-here-zdnet/"><u>Can Microsoft's Newest AI, Copilot, Enhance Your Productivity Without Overselling? Find Out Here | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cybercrime-epidemic-hits-singapore-record-501-million-lost-to-online-fraud-insights-from-zdnet/"><u>Cybercrime Epidemic Hits Singapore: Record $501 Million Lost To Online Fraud - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/embracing-a-trustworthy-experience-centric-business-era-with-zdnet/"><u>Embracing a Trustworthy, Experience-Centric Business Era with ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowering-small-e-commerce-vendors-through-alibabas-innovative-generative-ai-quality-control/"><u>Empowering Small E-Commerce Vendors Through Alibaba’s Innovative Generative AI Quality Control</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-18-essential-workarounds-for-ios-shortcuts-pro/"><u>Ultimate Guide: 18 Essential Workarounds for iOS Shortcuts Pro</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-create-unforgettable-moments-video-editing-essentials-for-home-movie-enthusiasts/"><u>Updated In 2024, Create Unforgettable Moments Video Editing Essentials for Home Movie Enthusiasts</u></a></li>
 </ul></div>
 

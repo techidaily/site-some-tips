@@ -1,7 +1,7 @@
 ---
 title: "Discover the Highlights From Apple's Glowtime Launch: AI Integration & Latest Wearables Unveiled"
-date: 2024-12-26T16:15:29.501Z
-updated: 2024-12-27T16:20:23.775Z
+date: 2025-01-01T03:49:35.661Z
+updated: 2025-01-05T16:34:38.312Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,22 +120,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-az-screen-recorder-comprehensive-app-review-and-alternative-for-2024/"><u>[New] AZ Screen Recorder | Comprehensive App Review & Alternative for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pixel-perfection-for-those-just-starting-out/"><u>[New] Pixel Perfection for Those Just Starting Out</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-essentials-for-building-compelling-canon-time-lapses/"><u>[New] The Essentials for Building Compelling Canon Time-Lapses</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-mastering-twitter-cleanup-top-apps-for-efficient-management/"><u>[Updated] 2024 Approved Mastering Twitter Cleanup Top Apps for Efficient Management</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-audio-finesse-advanced-editing-strategies-for-podcasters/"><u>2024 Approved The Art of Audio Finesse Advanced Editing Strategies for Podcasters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-immersive-roleplay-zooming-into-roblox-worlds/"><u>2024 Approved The Key to Immersive Roleplay Zooming Into Roblox Worlds</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-resource-50plus-no-fee-visual-effects-websites-reviewed/"><u>2024 Approved The Ultimate Resource 50+ No-Fee Visual Effects Websites Reviewed</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-visionedit-pro/"><u>2024 Approved VisionEdit Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-online-hubs-sky-high-dynamic-range-photography-for-2024/"><u>Best Online Hubs Sky High Dynamic Range Photography for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-reno-11f-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo Reno 11F 5G Phone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-10-editing-upgrades-for-final-cut-pro-professionals/"><u>In 2024, Top 10 Editing Upgrades for Final Cut Pro Professionals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stream-or-game-like-a-pro-score-an-unbelievable-audio-package-including-the-rodecaster-duo-and-free-rode-nth-100m-headset-at-a-steal-for-only-374/"><u>Stream or Game Like a Pro! Score an Unbelievable Audio Package, Including the Rodecaster Duo and Free Rode NTH-100M Headset, at a Steal for Only $374</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlining-your-approach-to-downloading-large-amounts-on-tiktok-for-2024/"><u>Streamlining Your Approach to Downloading Large Amounts on TikTok for 2024</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/stunning-iron-man-visuals-hd-background-graphics-photo-collections-for-pcs-curated-by-yl-software/"><u>Stunning Iron Man Visuals: HD Background Graphics, Photo Collections for PCs | Curated by YL Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tech-analysis-elite-parrot-ar-drone-20/"><u>Tech Analysis Elite Parrot AR Drone 2.0</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-selecting-6-premium-live-audio-devices-for-2024/"><u>Ultimate Guide to Selecting 6 Premium Live Audio Devices for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unbeatable-prices-for-top-6-action-cams-under-100-for-2024/"><u>Unbeatable Prices for Top 6 Action Cams Under $100 for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726226086225-mp3-m4a-movavi/"><u>無料網路直接 MP3 到 M4A 格式轉換 - 使用 Movavi 工具</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-toward-consensus-on-open-source-ai-framework-despite-ongoing-disputes-and-concerns-zdnet/"><u>Advancing Toward Consensus on Open Source AI Framework, Despite Ongoing Disputes and Concerns | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-towards-consensus-on-open-source-artificial-intelligence-progress-and-opposition-explored-by-zdnet/"><u>Advancing Towards Consensus on Open-Source Artificial Intelligence: Progress and Opposition Explored by ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprehensive-tutorial-for-integrating-the-twisted-extension-into-kodi-1819/"><u>Comprehensive Tutorial for Integrating the Twisted Extension Into Kodi 18/19</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/decoding-por-que-similarities-and-distinctions/"><u>Decoding 'Por Que': Similarities and Distinctions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-most-out-of-your-logitech-g933-mouse-a-step-by-step-audio-repair-guide/"><u>Getting the Most Out of Your Logitech G933 Mouse - A Step-by-Step Audio Repair Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hdtvs-future-in-focus-new-samsung-ubd-k8500-insights/"><u>HDTV's Future in Focus - New Samsung UBD-K8500 Insights</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-itel-p55plus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Itel P55+</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-realme-c67-4g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Realme C67 4G? Try These Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-performance-and-protection-with-ubuntu-2n04-lts-the-ultimate-leap-forward-for-linux-enthusiasts/"><u>Mastering Performance & Protection with Ubuntu 2N.04 LTS: The Ultimate Leap Forward for Linux Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-rag-technology-integration-with-enterprise-intelligence-strategies-from-zdnet/"><u>Mastering RAG Technology Integration with Enterprise Intelligence - Strategies From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meet-the-enhanced-raspberry-pi-zero-eb-a-15-game-changer-delivering-fivefold-performance-boost-compared-to-its-predecessor-innovation-spotlight/"><u>Meet the Enhanced Raspberry Pi Zero Eb: A $15 Game-Changer Delivering Fivefold Performance Boost Compared to Its Predecessor | Innovation Spotlight</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/understanding-paypro-global-is-it-secure-when-purchasing-digiarty-products/"><u>Understanding PayPro Global - Is It Secure When Purchasing Digiarty Products?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-nvidias-strategy-a-peek-inside-their-gpu-drivers-now-open-sourced-insights-from-zdnet/"><u>Unveiling NVIDIA's Strategy: A Peek Inside Their GPU Drivers Now Open-Sourced - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-truth-ais-strength-in-code-writing-with-significant-limitations-explored-by-zdnet/"><u>Unveiling the Truth: AI's Strength in Code Writing with Significant Limitations - Explored by ZDNet</u></a></li>
 </ul></div>
 

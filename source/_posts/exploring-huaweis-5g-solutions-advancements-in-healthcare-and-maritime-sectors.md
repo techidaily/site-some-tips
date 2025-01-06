@@ -1,7 +1,7 @@
 ---
 title: "Exploring Huawei's 5G Solutions: Advancements in Healthcare and Maritime Sectors"
-date: 2024-09-17 13:41:25
-updated: 2024-09-20 11:11:36
+date: 2025-01-02T18:03:29.774Z
+updated: 2025-01-06T01:34:16.036Z
 tags:
   - cloud
 categories:
@@ -45,6 +45,10 @@ This had added complexity as storage vendors currently adopted different data st
 
 It also was assessing how data should be secured and was exploring various options, including working with local telcos to roll out private [5G networks](https://www.zdnet.com/article/security-crucial-as-5g-connects-more-industries-devices/) and using VPNs. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Security critical when traditional, digital realms converge
 
 Cybersecurity risks will inevitably increase as traditional industries go through digital transformation and [OT (operational technology) systems converge with IT systems](https://www.zdnet.com/article/singapore-talks-up-ot-security-looks-to-add-medical-devices-to-labelling-scheme/), said Yue Kun, Huawei's CTO for smart road, waterway, and port. 
@@ -71,6 +75,10 @@ Singapore's container port operator, PSA is in the midst of [relocating its oper
 
 _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 2023 in Barcelona, Spain, on the invitation of Huawei Technologies._ 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Security crucial as 5G connects more industries, devices](https://www.zdnet.com/article/security-crucial-as-5g-connects-more-industries-devices/)
@@ -86,11 +94,31 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 202
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-quickstart-free-downloadable-video-intros/"><u>[New] In 2024, Quickstart Free, Downloadable Video Intros</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unlocking-language-top-8-free-and-accurate-srt-translators/"><u>[Updated] In 2024, Unlocking Language Top 8 Free & Accurate SRT Translators</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-zero-dollar-mac-capture-mastery/"><u>2024 Approved Zero-Dollar Mac Capture Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/act-now-to-avoid-automatic-account-purge-by-google-important-update-for-disused-profiles-zdnet/"><u>Act Now to Avoid Automatic Account Purge by Google - Important Update for Disused Profiles | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-mitigation-strategies-for-reducing-cost-surprises-in-the-cloud-insights-from-zdnet/"><u>AI Mitigation Strategies for Reducing Cost Surprises in the Cloud - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bypassing-zoom-hurdles-what-to-do-when-the-share-button-vanishes-expert-tips-from-zdnet/"><u>Bypassing Zoom Hurdles: What To Do When The Share Button Vanishes | Expert Tips From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/density-tests/"><u>Density Tests</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-management-with-new-features-in-amazons-aws-lake-formation-zdnet-insights/"><u>Enhanced Management with New Features in Amazon's AWS Lake Formation - ZDNet Insights</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-ultimate-list-of-leading-handheld-gaming-systems/"><u>Exploring the Ultimate List of Leading Handheld Gaming Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-incompatibility-issues-update-your-device-driver-on-windows-operating-system/"><u>Fixing Incompatibility Issues: Update Your Device Driver on Windows Operating System</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/is-your-graphics-card-at-risk-of-failure-or-malfunction-understanding-risks-powered-by-yl-computing/"><u>Is Your Graphics Card at Risk of Failure or Malfunction? Understanding Risks - Powered by YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/learning-from-the-paris-olympics-for-sustainable-energy-strategies-at-upcoming-games-zdnet/"><u>Learning From the Paris Olympics for Sustainable Energy Strategies at Upcoming Games - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/managing-disk-usage-in-google-drives-desktop-version-strategies-to-save-space-on-your-computer/"><u>Managing Disk Usage in Google Drive's Desktop Version: Strategies to Save Space on Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigate-and-recover-files-quickly-using-the-improved-google-drive-search-functionality-zdnet-insight/"><u>Navigate and Recover Files Quickly Using the Improved Google Drive Search Functionality - ZDNet Insight</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-rainbow-six-sieges-error-code-3-0x0001000b-a-comprehensive-guide/"><u>Resolving Rainbow Six Siege's Error Code 3-0X0001000B - A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/sizing-up-how-to-make-videos-work-in-instagram-bests/"><u>Sizing Up How to Make Videos Work in Instagram Bests</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/unveiling-distinctions-navigating-through-local-vs-global-configuration-options-within-windows-control-panel-exploring-insights-by-yl-computing/"><u>Unveiling Distinctions: Navigating Through Local Vs. Global Configuration Options Within Windows Control Panel - Exploring Insights by YL Computing</u></a></li>
+</ul></div>
+

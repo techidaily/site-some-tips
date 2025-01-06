@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out: Save Big on Laptops with Prime Day Deals From Leading Brands Like HP, Apple & More | ZDNET Insights"
-date: 2024-12-21T17:21:31.503Z
-updated: 2024-12-27T16:24:26.405Z
+date: 2024-12-30T01:26:02.844Z
+updated: 2025-01-05T19:07:25.459Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
@@ -88,7 +88,7 @@ Asus/ZDNET
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf353d40c-dd34-4baa-bb6c-c3583e029268%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day MacBook deals
@@ -107,10 +107,6 @@ HPZDNET
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf353d40c-dd34-4baa-bb6c-c3583e029268%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf353d40c-dd34-4baa-bb6c-c3583e029268%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Lenovo deals
 
 Lenovo/ZDNET
@@ -119,7 +115,7 @@ Lenovo/ZDNET
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf353d40c-dd34-4baa-bb6c-c3583e029268%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
@@ -139,10 +135,6 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf353d40c-dd34-4baa-bb6c-c3583e029268%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf353d40c-dd34-4baa-bb6c-c3583e029268%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When is Amazon Prime Day 2024?
@@ -157,6 +149,10 @@ There are a lot of great gaming laptops on sale right now, but in our opinion, [
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How did we choose these Prime Day deals?
 
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
@@ -166,6 +162,10 @@ We also looked over customer reviews to find out what matters to real people who
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
 
@@ -230,17 +230,24 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-blueprint-for-successful-youtube-video-plans-and-outlines/"><u>[New] 2024 Approved The Blueprint for Successful YouTube Video Plans and Outlines</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-best-photo-boosts-for-perfecting-your-feed/"><u>[Updated] 2024 Approved Best Photo Boosts for Perfecting Your Feed</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-zooming-in-to-the-heart-of-roleplay-robloxs-close-up-guide/"><u>[Updated] In 2024, Zooming In to the Heart of Roleplay Roblox's Close-Up Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-creative-edge-advanced-tips-for-shooting-with-gopro-hero5-black/"><u>[Updated] The Creative Edge Advanced Tips for Shooting with GoPro Hero5 Black</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-insider-guide-to-flourishing-on-youtube-games-included/"><u>[Updated] The Insider Guide to Flourishing on YouTube, Games Included</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cyberpunk-2077-black-screen-resolved-a-comprehensive-guide-to-fixing-game-crashes/"><u>Cyberpunk 2077 Black Screen Resolved - A Comprehensive Guide to Fixing Game Crashes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-image-editing-luts-in-adobe-photoshop-cc/"><u>In 2024, Streamlining Image Editing LUTs in Adobe PhotoShop CC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-windows-11-audio-record-process/"><u>In 2024, The Complete Windows 11 Audio Record Process</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovation-infusion-chatgpts-role-in-elevating-creative-output/"><u>Innovation Infusion: ChatGPT's Role in Elevating Creative Output</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-top-free-avi-video-rotators-for-windows-mac-android-iphone-and-online-use/"><u>New Top Free AVI Video Rotators for Windows, MAC, Android, iPhone, and Online Use</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlining-your-viewing-vlc-versus-mx-comparison-for-2024/"><u>Streamlining Your Viewing VLC Versus MX Comparison for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-8-strategies-in-digital-sound-logging-techniques/"><u>[New] 2024 Approved Top 8 Strategies in Digital Sound Logging Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-visual-vistas-essential-effects-for-striking-snaps/"><u>[Updated] 2024 Approved Visual Vistas Essential Effects for Striking Snaps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-prolific-producers-of-profits-online/"><u>2024 Approved Prolific Producers of Profits Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-leading-2022-virtual-cs-degrees-a-ranked-guide-by-zdnet/"><u>Discover the Leading 2022 Virtual CS Degrees: A Ranked Guide by ZDNET</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminate-lag-and-freeze-in-win11/"><u>Eliminate Lag & Freeze in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exclusive-guide-obtain-preview-rights-to-apples-vision-pro-applications-with-testflight-insider-tips-revealed/"><u>Exclusive Guide: Obtain Preview Rights to Apple’s Vision Pro Applications with TestFlight – Insider Tips Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-sentience-in-googles-lamda-how-does-it-compare-to-standard-conversational-agents/"><u>Exploring Sentience in Google's LaMDA: How Does It Compare to Standard Conversational Agents?</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-for-elevated-bing-user-interactions/"><u>Harnessing AI for Elevated Bing User Interactions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-generative-ai-could-actually-increase-our-workload-insights-from-zdnet/"><u>How Generative AI Could Actually Increase Our Workload - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-leveraging-low-code-solutions-enhances-employer-branding-according-to-zdnet/"><u>How Leveraging Low-Code Solutions Enhances Employer Branding, According to ZDNet</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-streamline-screen-capturing-in-todays-remote-meetings/"><u>In 2024, Streamline Screen Capturing in Today’s Remote Meetings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/level-up-your-farming-life-explore-7-14-mods-for-2024/"><u>Level Up Your Farming Life - Explore #7-14 Mods for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/m4b-vorm-into-mp4-converteren-vrije-online-oplossingen-zo-gewoonlijk-as-movavi-helpt/"><u>M4B-Vorm Into MP4 Converteren: Vrije Online Oplossingen - Zo Gewoonlijk As Movavi Helpt</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-uncertainty-of-todays-ai-tools-addressing-inconsistent-results-and-doubts-over-precision-insights-from-zdnet/"><u>Navigating the Uncertainty of Today's AI Tools: Addressing Inconsistent Results & Doubts Over Precision – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-leading-cybersecurity-certs-revealed-on-zdnet/"><u>The Ultimate List of Leading Cybersecurity Certs Revealed on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-jobs-with-intelligence-unveiling-ai-agents-as-the-next-wave-in-work-evolution-zdnet-insights/"><u>Transforming Jobs with Intelligence: Unveiling AI Agents as the Next Wave in Work Evolution | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-ultimate-ai-upgrade-for-apple-programmers-free-tools-transforming-code-creation-in-depth-analysis-by-zdnet/"><u>Unveiling the Ultimate AI Upgrade for Apple Programmers: Free Tools Transforming Code Creation - In-Depth Analysis by ZDNET</u></a></li>
 </ul></div>
 

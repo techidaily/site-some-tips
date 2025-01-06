@@ -1,7 +1,7 @@
 ---
 title: "Expanding Horizons in Tech Development: How Google Cloud Enhances DevTools & Data Analysis with Generative AI - Insights From ZDNet"
-date: 2024-09-19 12:21:21
-updated: 2024-09-20 11:15:46
+date: 2024-12-29T17:14:36.034Z
+updated: 2025-01-05T19:41:07.273Z
 tags:
   - cloud
 categories:
@@ -37,6 +37,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Duet AI for cloud development 
 
 In May, Google showed how Duet AI can be used for code and chat-level assistance. Since that time, "trusted developers" (their term) have been testing out the capability and providing feedback to Google's engineers. According to Google, Duet AI is intended to provide developer support across the entire development lifecycle, providing help for coding, source citation, test coverage, designing and publishing APIs, migrating and modernizing applications, and more. 
@@ -59,6 +63,10 @@ Calder says: "We have started to work with select enterprises to allow Duet Al t
 
 Another compelling feature is that Duet AI can help developers publish APIs using natural language prompts. Once again, when it works, this has the potential to be a huge time-saver. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Duet AI for databases and data analytics in the cloud 
 
 Google has a laundry list of massive services for data and database management. At Google Next '23, the company indicated it's integrating Duet AI into most of them. 
@@ -75,6 +83,10 @@ Google has announced that Duet AI now supports Cloud Spanner. Duet AI can write 
 **Also: [The other shoe finally dropped on my Google Enterprise cloud storage plan](https://www.zdnet.com/article/the-other-shoe-finally-dropped-on-my-google-enterprise-cloud-storage-plan/)**
 
 The company says Duet AI will also be available for Alloy DB and Cloud SQL, with no delivery date specified yet. Google is offering a Duet AI service to migrate Oracle to AlloyDB and Oracle to Cloud SQL-for-PostgreSQL later this year. If that last sentence lights your fire, then you're a target customer for this new AI service. Expect other legacy systems to benefit from these sort of migrations in the future. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Shifting down instead of shifting left 
 
@@ -98,6 +110,10 @@ Google has announced a number of "shifting down" efforts:
 * **Duet AI for code completion and chat:** We talked about this effort above, and it's intended to offload the work from developers to the AI.
 * **Shifting down interoperability:** Google has announced the general availability of Application Integration, a no-code integration platform-as-a-service offering, that contains a drag-and-drop interface for connecting services together. Think of it as a Zapier for enterprise-level cloud projects. Google also announced that Duet AI will help here, as well.
 * **Cloud workstations:** Although this capability has been around for a while, Google is highlighting that the use of its virtual desktop service can "shift the burden of provisioning, scaling, managing and securing developer environments down to the platform."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  David's hot take 
 
@@ -127,11 +143,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-ninja-techniques-for-instagram-reels-for-2024/"><u>[New] The Ultimate Ninja Techniques for Instagram Reels for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-immerse-yourself-in-a-shared-tiktok-journey/"><u>[Updated] Immerse Yourself in a Shared TikTok Journey</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-from-monotonous-to-mesmerizing-grading-guidance-for-editors/"><u>[Updated] In 2024, From Monotonous to Mesmerizing Grading Guidance for Editors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-virtual-playstation-experience-at-your-fingertips-top-5/"><u>[Updated] In 2024, Virtual PlayStation Experience at Your Fingertips (Top 5)</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-solutions-for-launching-multiversus-successfully-on-windows-overcoming-common-errors/"><u>Easy Solutions for Launching MultiVersus Successfully on Windows: Overcoming Common Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-windows-n-editions-it-perspective/"><u>Exploring Windows N Editions: IT Perspective</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-13c-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi 13C 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-at-the-forthcoming-google-occasion-news-rumors-and-official-announcements/"><u>Inside Look at the Forthcoming Google Occasion - News, Rumors, and Official Announcements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overcoming-persistent-azure-capacity-challenges-tips-for-end-users-and-developers/"><u>Overcoming Persistent Azure Capacity Challenges: Tips for End-Users and Developers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-conundrum-how-to-solve-cant-get-mail-error-in-windows-11/"><u>Overcoming the Conundrum: How to Solve 'Can’t Get Mail' Error in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/paris-olympic-data-insights-driving-future-event-energy-efficiency-innovations/"><u>Paris Olympic Data Insights: Driving Future Event Energy Efficiency Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-cloud-storage-microsoft-enhances-onedrive-with-fresh-layout-simplified-file-access-and-advanced-ai-features-insights-for-tech-professionals.30/"><u>Revolutionizing Cloud Storage: Microsoft Enhances OneDrive with Fresh Layout, Simplified File Access, and Advanced AI Features - Insights for Tech Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rocky-linux-community-rallies-support-the-formidable-impact-of-ciq-as-a-key-backer-insights-from-zdnet/"><u>Rocky Linux Community Rallies Support: The Formidable Impact of CIQ as a Key Backer - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/start-with-confidence-creating-and-promoting-your-personalized-substack-publication/"><u>Start with Confidence: Creating and Promoting Your Personalized Substack Publication</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-impact-of-apples-latest-ai-innovations-on-the-success-of-iphone-16/"><u>The Impact of Apple’s Latest AI Innovations on the Success of iPhone 16</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reports: A Surprising 38%% Hike in Google's Enterprise Suite Pricing"
-date: 2024-09-19 22:51:30
-updated: 2024-09-20 12:18:38
+date: 2024-12-30T21:37:04.503Z
+updated: 2025-01-05T23:29:13.506Z
 tags:
   - cloud
 categories:
@@ -53,6 +53,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How this might affect you
 
 Google is very much _not_ transparent about its Enterprise pricing plans. The [main Google Workspace pricing page](https://workspace.google.com/pricing.html?source=gafb-homepage-faq-en) simply says "Contact Sales." The [Google Workspace blog](https://workspace.google.com/blog/) doesn't mention anything about a price increase, at least as of the time of this writing. 
@@ -66,6 +70,10 @@ It is possible I've been hit with a higher price increase because of the amount 
 The [Fed may think inflation is under control](https://thehill.com/business/4411344-fed-is-within-striking-distance-of-inflation-goal-top-official-says/) at 2-4% annually, but cloudflation certainly still exists. In the last year, [Hulu raised prices](https://www.zdnet.com/home-and-office/home-entertainment/hulus-streaming-bundle-prices-are-going-up-again-heres-why-i-chose-youtubetv/), [Peacock raised prices](https://www.zdnet.com/home-and-office/home-entertainment/peacock-is-raising-subscription-prices-next-month-heres-what-you-need-to-know/), [YouTube Premium raised prices](https://www.zdnet.com/home-and-office/home-entertainment/youtube-premium-quietly-raises-subscription-prices/), [Spotify Premium raised prices](https://www.zdnet.com/home-and-office/home-entertainment/spotify-premium-is-raising-prices-for-the-first-time-ever/), [Apple raised some of its subscription prices](https://www.zdnet.com/home-and-office/home-entertainment/apple-is-raising-the-prices-for-some-of-its-popular-subscription-services/), and [the list goes on](https://www.zdnet.com/article/google-raises-prices-for-nest-aware-subscriptions-but-there-is-good-news/). 
 
 We recently did an audit of our cloud-based monthly expenses, and it's a fairly large percentage of our overall cost of doing business. The fact that it can suddenly balloon by inflation percentages you'd only expect in countries with unstable governments will probably cause every IT manager (and anyone with a cloud budget) to lose sleep at night. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to change your plan 
 
@@ -110,11 +118,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-easy-methods-flipping-film-frames-using-vlc/"><u>[New] 2024 Approved Easy Methods Flipping Film Frames Using VLC</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-pro-capture-not-just-point-and-shoot-mastering-the-hero5-black-for-2024/"><u>[Updated] Pro Capture, Not Just Point-and-Shoot Mastering the Hero5 Black for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-troubleshooting-why-are-your-shorts-thumbnails-hiding/"><u>[Updated] Troubleshooting Why Are Your Shorts' Thumbnails Hiding?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-tecno-spark-20-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Tecno Spark 20 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/advantages-in-god-of-war-a-closer-look/"><u>Advantages in 'God of War': A Closer Look</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/audio-preservation-for-academics-on-apple-systems/"><u>Audio Preservation for Academics on Apple Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-offline-transcription-programs-for-speech/"><u>In 2024, Top Offline Transcription Programs for Speech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-devops-skills-at-a-bargain-enroll-in-the-linux-foundations-latest-bootcamp-offering-low-cost-entry-technews-today/"><u>Master DevOps Skills at a Bargain: Enroll in the Linux Foundation's Latest Bootcamp Offering Low Cost Entry | TechNews Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-task-repetition-and-tracking-progress-a-guide-to-using-todoist-efficiently-insights-by-zdnet/"><u>Mastering Task Repetition & Tracking Progress: A Guide to Using Todoist Efficiently | Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-revamps-onedrive-introducing-a-sleeker-interface-enhanced-file-accessibility-and-advanced-ai-features-tech-news/"><u>Microsoft Revamps OneDrive: Introducing a Sleeker Interface, Enhanced File Accessibility & Advanced AI Features | Tech News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/similar-to-title-1-the-mention-of-zdnet-adds-authority-and-relevance-while-maintaining-consistency-with-seo-best-practices/"><u>Similar to Title 1, the Mention of ZDNet Adds Authority and Relevance While Maintaining Consistency with SEO Best Practices.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/singapore-companies-struggle-as-ransomware-and-phishing-hacks-persist-insights-from-zdnet/"><u>Singapore Companies Struggle as Ransomware & Phishing Hacks Persist: Insights From ZDNet</u></a></li>
+</ul></div>
+

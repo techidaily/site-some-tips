@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Productivity: Convert Your Google To-Do List to a Kanban Layout with TasksBoard, Featured by ZDNET"
-date: 2024-09-19 13:34:12
-updated: 2024-09-20 12:16:18
+date: 2024-12-31T20:12:31.767Z
+updated: 2025-01-05T17:12:42.927Z
 tags:
   - cloud
 categories:
@@ -29,13 +29,25 @@ TasksBoard offers a free service you can use for a single board. If you want mul
 
 Let me show you how to get started using TasksBoard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to get started with TasksBoard 
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Add TasksBoard to your Google account
 
 The first thing to do is log in to your Google account in your web browser of choice. Once logged in, point your browser to the [TasksBoard site](https://tasksboard.com). You will be asked to select which Google account you wish to use and then give the site permission to access Google Tasks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow TasksBoard to generate
 
@@ -105,11 +117,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-key-platforms-ranking-the-best-6-sites-for-business-interaction/"><u>[New] 2024 Approved Key Platforms Ranking the Best 6 Sites for Business Interaction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-detailed-analysis-tunefab-screen-tools/"><u>[New] Detailed Analysis Tunefab Screen Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-open-source-musical-aid-for-playing-games-for-2024/"><u>[Updated] Open Source Musical Aid for Playing Games for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-unlock-comprehensive-online-protection-with-nord-security-powering-nordvpn-a-complete-privacy-solution-for-you/"><u>1. Unlock Comprehensive Online Protection with Nord Security - Powering NordVPN, a Complete Privacy Solution for You</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-services-lead-the-way-navigating-new-security-challenges-in-an-era-of-digital-transformation/"><u>Cloud Services Lead the Way: Navigating New Security Challenges in an Era of Digital Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficiently-organize-google-tasks-as-a-kanban-system-a-step-by-step-guide-to-using-taskboard-zdnet/"><u>Efficiently Organize Google Tasks as a Kanban System: A Step-by-Step Guide to Using TaskBoard (ZDNet)</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-nokia-c22-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia C22 phone? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-poco-c51-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Poco C51 FRP?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/innovating-your-fb-experience-with-stunning-video-covers/"><u>Innovating Your FB Experience with Stunning Video Covers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-the-iphone/"><u>Is the iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-monitoring-your-data-plans-utilization-online/"><u>Mastering the Art of Monitoring Your Data Plan's Utilization Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-enterprise-security-how-canonicals-distroless-linux-images-redefine-safety-standards/"><u>Revolutionizing Enterprise Security: How Canonical's Distroless Linux Images Redefine Safety Standards</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-choices-in-cost-free-open-source-file-restoration-applications-a-comprehensive-manual/"><u>Top Choices in Cost-Free, Open-Source File Restoration Applications - A Comprehensive Manual</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-human-resources-with-ai-how-oracle-integrates-generative-technology-into-their-systems/"><u>Transforming Human Resources with AI: How Oracle Integrates Generative Technology Into Their Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/what-value-do-you-assign-to-a-blue-tick-on-twitter-reimagining-the-concept-of-social-proof/"><u>What Value Do You Assign to a Blue Tick on Twitter: Reimagining the Concept of Social Proof</u></a></li>
+</ul></div>
+

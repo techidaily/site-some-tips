@@ -1,7 +1,7 @@
 ---
 title: Rising Concerns Over Business Cloud Defense Tactics as Artificial Intelligence Threats Escalate - ZDNet Reports
-date: 2024-09-17 17:59:24
-updated: 2024-09-20 11:52:11
+date: 2025-01-05T01:29:51.852Z
+updated: 2025-01-06T03:44:20.657Z
 tags:
   - cloud
 categories:
@@ -103,11 +103,31 @@ Phishing and social engineering was the top concern at 38.5%, followed by ransom
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-beneath-the-surface-assessing-huawei-p10-writability-features/"><u>[Updated] Beneath the Surface Assessing Huawei P10' Writability Features</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-simplified-guide-to-recording-pc-screens-for-hp-users/"><u>2024 Approved Simplified Guide to Recording PC Screens for HP Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alert-google-warns-on-closing-idle-profiles-azetnet/"><u>Alert: Google Warns on Closing Idle Profiles - AZETNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beyond-a-single-tweet-the-case-for-diversified-presence-on-twitter-featured-by-zdnet/"><u>Beyond a Single Tweet: The Case for Diversified Presence on Twitter, Featured by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/create-your-own-kanban-board-from-google-tasks-using-tasksboard-tips-and-tricks-on-zdnet/"><u>Create Your Own Kanban Board From Google Tasks Using TasksBoard - Tips & Tricks on ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lava-agni-2-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lava Agni 2 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-insiders-look-at-vlc-functionality-on-macbooks/"><u>In 2024, Insider's Look at VLC Functionality on MacBooks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-earnings-with-youtube-studio-monetization-on-any-device/"><u>In 2024, Maximizing Earnings with YouTube Studio Monetization on Any Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-moto-g84-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Moto G84 5G Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/prepare-to-advance-professionally-beyond-ai-focus-unlock-upskilling-secrets-at-the-vanguard-of-technology-zdnet/"><u>Prepare to Advance Professionally Beyond AI Focus: Unlock Upskilling Secrets at the Vanguard of Technology | ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-note-12-4g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi Note 12 4G Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-significance-of-kubernetes-a-comprehensive-guide-search-engine-journal/"><u>Understanding the Significance of Kubernetes: A Comprehensive Guide | Search Engine Journal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-remarkable-specs-of-the-iphone-16-might-not-justify-its-cost-insights-from-a-tech-expert-zdnet/"><u>Why the Remarkable Specs of the iPhone 16 Might Not Justify Its Cost: Insights From a Tech Expert | ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

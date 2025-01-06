@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Extravaganza: Discover the Finest Apple Bargains in Store – Limited Time Only!"
-date: 2024-12-22T17:13:38.087Z
-updated: 2024-12-27T17:27:44.980Z
+date: 2025-01-02T23:15:42.548Z
+updated: 2025-01-06T03:50:30.547Z
 tags:
   - apple
 categories:
@@ -76,7 +76,7 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727348400000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfb6dbe9c-f65d-4c69-bd4c-e8fe75eb3cf4%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day Chromebook deals
@@ -95,6 +95,10 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfb6dbe9c-f65d-4c69-bd4c-e8fe75eb3cf4%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfb6dbe9c-f65d-4c69-bd4c-e8fe75eb3cf4%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -102,6 +106,10 @@ HPZDNET
 * [HP Envy x360 2-in-1 for $845 (save $50)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-2-1-Touch-Screen-i7-16GB%2Fdp%2FB0CZ37N6DL%2Fref%3Dsr%5F1%5F3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfb6dbe9c-f65d-4c69-bd4c-e8fe75eb3cf4%7Cdtp&dtb=1): We recently had a chance to go [hands-on with HP's newest version of the Envy x360 2-in-1](https://www.zdnet.com/article/ive-tested-dozens-of-2-in-1-laptops-this-one-hits-all-the-right-marks/), and praised the laptop for its gorgeous display and all-around optimization. If that laptop looked interesting to you, but you want to save some money, the previous version is on sale on Amazon for just $845 for the 16GB, 2TB version.
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfb6dbe9c-f65d-4c69-bd4c-e8fe75eb3cf4%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfb6dbe9c-f65d-4c69-bd4c-e8fe75eb3cf4%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
 
@@ -128,7 +136,7 @@ Kyle Kucharski/ZDNET
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfb6dbe9c-f65d-4c69-bd4c-e8fe75eb3cf4%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -136,10 +144,6 @@ Kyle Kucharski/ZDNET
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
@@ -149,10 +153,6 @@ There are a lot of great gaming laptops on sale right now, but in our opinion, [
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How did we choose these Prime Day deals?
 
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
@@ -160,7 +160,7 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When will these deals expire?
@@ -230,20 +230,20 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-of-hdr-photo-on-iphone-camera/"><u>[New] The Ultimate Guide of HDR Photo on iPhone Camera</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-optimal-chuckle-inducing-layout/"><u>[Updated] In 2024, Optimal Chuckle-Inducing Layout</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-pinnacle-montage-apps-androidiphones-creative-powerhouses/"><u>[Updated] In 2024, Pinnacle Montage Apps Android/iPhone's Creative Powerhouses</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-analytics-essential-tools-for-beginner-marketers-on-social-media/"><u>[Updated] Mastering the Art of Analytics Essential Tools for Beginner Marketers on Social Media</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transform-your-smartphone-photography-with-iphones-hdr/"><u>[Updated] Transform Your Smartphone Photography with iPhone’s HDR</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-using-b-roll-to-enhance-cinematic-quality/"><u>[Updated] Using B-Roll to Enhance Cinematic Quality</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-videography-tools-for-ios-devices/"><u>2024 Approved Best Videography Tools for iOS Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-syncing-zen-and-zeal-elevating-youtube-livestreams-on-zoom/"><u>2024 Approved Syncing Zen and Zeal Elevating YouTube Livestreams on Zoom</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-fundamentals-of-gif-design-and-creation/"><u>2024 Approved The Fundamentals of GIF Design and Creation</u></a></li>
-<li><a href="https://win-net.techidaily.com/exclusive-muscle-car-hd-background-gallery-professional-photographs-images-and-pictures-for-desktop-by-yl-software-solutions/"><u>Exclusive Muscle Car HD Background Gallery - Professional Photographs, Images, and Pictures for Desktop by YL Software Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-next-level-virtual-reality-with-metas-unbeatable-512gb-quest-3-promotion-zdnet-insider-tips/"><u>Experience Next-Level Virtual Reality with Meta's Unbeatable 512GB Quest 3 Promotion | ZDNET Insider Tips!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tips-for-writing-irresistible-podcast-intros/"><u>In 2024, Tips for Writing Irresistible Podcast Intros</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-upgrading-your-mp4s-integrating-premium-srt-sound/"><u>In 2024, Upgrading Your MP4s Integrating Premium SRT Sound</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mini-marvel-unveiling-the-power-of-echo-dot-3rd-generation-with-all-alexa-features/"><u>Mini Marvel: Unveiling the Power of Echo Dot (3Rd Generation) with All Alexa Features</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/days-gone-navigating-a-post-apocalyptic-future-on-two-wheels-a-game-review/"><u>'Days Gone': Navigating a Post-Apocalyptic Future on Two Wheels – A Game Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigating-the-art-of-facebook-video-distribution/"><u>[New] 2024 Approved Navigating the Art of Facebook Video Distribution</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-budget-savvy-shoppers-guide-to-panoramic-recording-tech/"><u>2024 Approved Budget-Savvy Shoppers' Guide to Panoramic Recording Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/brave-courageous/"><u>Brave - Courageous</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-a-deep-dive-into-user-privacy-implications/"><u>ChatGPT: A Deep Dive Into User Privacy Implications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decluttering-your-tech-life-simplifying-linux-and-open-source-guides-zdnet/"><u>Decluttering Your Tech Life: Simplifying Linux and Open-Source Guides | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enterprise-generative-ai-elevated-microsoft-azures-new-models-as-a-service-and-upgraded-rag-features/"><u>Enterprise Generative AI Elevated: Microsoft Azure's New Models as a Service & Upgraded RAG Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-limits-of-ai-intelligence-inability-to-match-humans-in-core-thinking-abilities-an-analysis-by-zdnet/"><u>Exploring the Limits of AI Intelligence: Inability to Match Humans in Core Thinking Abilities - An Analysis by ZDNET</u></a></li>
+<li><a href="https://solve-info.techidaily.com/five-effective-methods-and-a-handy-hack-for-restoring-your-lost-account-on-windows-1011/"><u>Five Effective Methods & a Handy Hack for Restoring Your Lost Account on Windows 10/11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-11-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 11? Complete Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-realme-11-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Realme 11 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/step-by-step-guide-to-clearing-your-hard-drive-tips-from-yl-computing/"><u>Step-by-Step Guide to Clearing Your Hard Drive: Tips From YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-key-updates-from-microsofts-build-202n-for-developers-zdnet/"><u>Top 10 Key Updates From Microsoft's Build 202N for Developers - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-complexity-why-even-experts-struggle-with-googles-cutting-edge-ai-tech-insights/"><u>Unraveling the Complexity: Why Even Experts Struggle with Google's Cutting-Edge AI | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-ai-innovation-thrives-outside-of-agile-methods-insights-from-recent-research/"><u>Why AI Innovation Thrives Outside of Agile Methods: Insights From Recent Research</u></a></li>
 </ul></div>
 

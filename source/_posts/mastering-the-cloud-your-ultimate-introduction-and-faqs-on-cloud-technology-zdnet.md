@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Cloud: Your Ultimate Introduction and FAQs on Cloud Technology (ZDNet)"
-date: 2024-09-18 12:43:43
-updated: 2024-09-20 11:24:32
+date: 2025-01-02T17:05:28.768Z
+updated: 2025-01-06T05:59:32.709Z
 tags:
   - cloud
 categories:
@@ -95,6 +95,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fmanaging-the-multicloud%2F&title= "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fmanaging-the-multicloud%2F "Twitter") 
@@ -102,6 +106,10 @@ Share:
 Direct LinkEmbed Code
 
 Close Modal Dialog
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is cloud computing, in simple terms?
 
@@ -129,6 +137,10 @@ Cloud computing is becoming the default option for many apps: software vendors a
 
 A fundamental concept behind cloud computing is that the location of the service, and many of the details such as the hardware or operating system on which it is running, are largely irrelevant to the user. It's with this in mind that the metaphor of the cloud was borrowed from old telecoms network schematics, in which the public telephone network (and later the internet) was often represented as a cloud to denote that the location didn't matter – it was just a cloud of stuff. This is an over-simplification of course; for many customers, location of their services and data remains a key issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the history of cloud computing?
 
 Cloud computing as a term has been around since the early 2000s, but the concept of computing as a service has been around for much, much longer – as far back as the 1960s, when computer bureaus would allow companies to rent time on a mainframe, rather than have to buy one themselves.
@@ -136,6 +148,10 @@ Cloud computing as a term has been around since the early 2000s, but the concept
 These 'time-sharing' services were largely overtaken by the rise of the PC, which made owning a computer much more affordable, and then in turn by the rise of corporate data centres where companies would store vast amounts of data.
 
 But the concept of renting access to computing power has resurfaced again and again – in the application service providers, utility computing, and grid computing of the late 1990s and early 2000s. This was followed by cloud computing, which really took hold with the emergence of software as a service and hyperscale cloud-computing providers such as Amazon Web Services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How important is the cloud?
 
@@ -175,6 +191,10 @@ Infrastructure as a Service (IaaS) refers to the fundamental building blocks of 
 
 Platform as a Service (PaaS) is the next layer up – as well as the underlying storage, networking, and virtual servers, this layer also includes the tools and software that developers need to build applications on top, which could include middleware, database management, operating systems, and development tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Software as a Service?
 
 Software as a Service (SaaS) is the delivery of applications as a service, probably the version of cloud computing that most people are used to on a day-to-day basis. The underlying hardware and operating system is irrelevant to the end user, who will access the service via a web browser or app; it is often bought on a per-seat or per-user basis.
@@ -182,6 +202,10 @@ Software as a Service (SaaS) is the delivery of applications as a service, proba
 SaaS is the largest chunk of cloud spending simply because the variety of applications delivered via SaaS is huge, from CRM such as Salesforce, through to Microsoft's Office 365\. And while the whole market is growing at a furious rate, it's the IaaS and PaaS segments that have consistently grown at much faster rates, according to analyst IDC: "This highlights the increasing reliance of enterprises on a cloud foundation built on cloud infrastructure, software-defined data, compute and governance solutions as a Service, and cloud-native platforms for application deployment for enterprise IT internal applications." IDC predicts that IaaS and PaaS will continue growing at a higher rate than the overall cloud market "as resilience, flexibility, and agility guide IT platform decisions".
 
 Image: IDC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is multi-cloud computing?
 
@@ -255,6 +279,10 @@ Public cloud is the classic cloud-computing model, where users can access a larg
 
 Image: IDC
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is private cloud?
 
 Private cloud allows organizations to benefit from some of the advantages of public cloud – but without the concerns about relinquishing control over data and services, because it is tucked away behind the corporate firewall. Companies can control exactly where their data is being held and can build the infrastructure in a way they want – largely for IaaS or PaaS projects – to give developers access to a pool of computing power that scales on-demand without putting security at risk. However, that additional security comes at a cost, as few companies will have the scale of AWS, Microsoft or Google, which means they will not be able to create the same economies of scale. Still, for companies that require additional security, private cloud might be a useful stepping stone, helping them to understand cloud services or rebuild internal applications for the cloud, before shifting them into the public cloud.
@@ -322,6 +350,10 @@ Beyond the big three there are others, such as Alibaba Cloud, IBM, Dell and Hewl
 
 There are and will continue to be cloud outages. Those outages might happen at a local level because your internet is disrupted either by physical means (a digger cuts your broadband) or because of cyberattacks. But the big vendors have outages too and because, we are all increasingly reliant on their services, when the cloud stops, work stops. Few companies have backup systems to turn to in this situation. So long as cloud vendors keep outages to a minimum, then users will probably consider that using the cloud is more reliable than home-grown apps. But if outages become widespread, that opinion might change.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the future of cloud computing?
 
 Cloud computing is reaching the point where it is likely to account for more of enterprise tech spending than the traditional forms of delivering applications and services in-house that have been around for decades. However, use of the cloud is only likely to climb as organisations get more comfortable with the idea of their data being somewhere other than a server in the basement. And now cloud-computing vendors are increasingly pushing cloud computing as an agent of digital transformation instead of focusing simply on cost. Moving to the cloud can help companies rethink business processes and accelerate business change, goes the argument, by helping to break [down data any organisational silos](https://www.zdnet.com/article/cloud-computing-switch-as-digital-transformation-takes-priority/). Some companies that need to boost momentum around their digital transformation programmes might find this argument appealing; others may find enthusiasm for the cloud waning as the costs of making the switch add up.
@@ -329,6 +361,10 @@ Cloud computing is reaching the point where it is likely to account for more of 
 * [Why you're still scared of the Cloud (it's not about security or reliability)](https://www.zdnet.com/article/the-existential-cloud-crisis-of-smb-it-staffers/)
 * [Cloud computing switch as digital transformation takes priority](https://www.zdnet.com/article/cloud-computing-switch-as-digital-transformation-takes-priority/)
 * [Moving to the cloud? Some advice to consider](https://www.zdnet.com/article/moving-to-the-cloud-some-advice-to-consider/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Cloud-computing case studies**
 
@@ -340,6 +376,10 @@ There are plenty of examples of organisations deciding to go down the cloud-comp
 * [Marketo to migrate to Google Cloud as part of multi-year deal](https://www.zdnet.com/article/marketo-to-migrate-to-google-cloud-in-multi-year-deal/)
 * [AWS infrastructure is now behind three main streaming media providers](https://www.zdnet.com/article/aws-infrastructure-is-now-behind-three-main-streaming-media-providers/)
 * [American Airlines to move consumer-facing apps to IBM Cloud, says Cloud Foundry key](https://www.zdnet.com/article/american-airlines-to-move-consumer-facing-apps-to-ibm-cloud-says-cloud-foundry-key/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Previous coverage
 
@@ -366,11 +406,31 @@ Trying to understand and articulate the differences between public, private, and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-download-youtube-thumbnail-in-3-waysonlinewinmac/"><u>[New] In 2024, How to Download Youtube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlined-approach-to-add-linktree-in-tiktok-about-section/"><u>[New] Streamlined Approach to Add Linktree in TikTok About Section</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unleash-your-adventure-with-panasonics-cutting-edge-hx-a1-cam/"><u>[Updated] 2024 Approved Unleash Your Adventure with Panasonic's Cutting-Edge HX-A1 Cam</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-capturing-classroom-talks-on-a-mac/"><u>[Updated] In 2024, Capturing Classroom Talks on a Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-visualization-vanguards-battle/"><u>2024 Approved Visualization Vanguard's Battle</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/activate-instant-alerts-set-up-email-notifications-now/"><u>Activate Instant Alerts: Set Up Email Notifications Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/celebrating-a-milestone-kubernetes-at-10-years-and-its-impact-on-modernizing-cloud-architecture-future-prospects-unveiled/"><u>Celebrating a Milestone: Kubernetes at 10 Years & Its Impact on Modernizing Cloud Architecture - Future Prospects Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ciq-emerges-as-key-patron-for-rocky-linux-inside-story-of-veteran-developers-support-featured-on-zdnet/"><u>CIQ Emerges as Key Patron for Rocky Linux: Inside Story of Veteran Developers' Support | Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-adoption-skyrockets-unveiling-its-environmental-impact-insights-from-zdnet/"><u>Cloud Adoption Skyrockets: Unveiling Its Environmental Impact - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/edge-to-cloud-mastery-unleash-data-potential-and-gain-key-perspectives-guided-by-zdnet-experts/"><u>Edge-to-Cloud Mastery: Unleash Data Potential & Gain Key Perspectives | Guided by ZDNet Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fortify-your-cloud-defenses-essential-strategies-to-block-cyber-attacks-and-protect-data-zdnet/"><u>Fortify Your Cloud Defenses: Essential Strategies to Block Cyber Attacks & Protect Data | ZDNet</u></a></li>
+<li><a href="https://win-best.techidaily.com/high-definition-supercar-wallpaper-collections-hd-car-backgrounds-and-vehicle-photos-powered-by-yl-computings-digital-solutions/"><u>High-Definition Supercar Wallpaper Collections: HD Car Backgrounds & Vehicle Photos - Powered by YL Computing's Digital Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/openstack-and-kata-containers-on-the-rise-exploring-why-more-companies-are-adopting-these-technologies-today-zdnet-analysis/"><u>OpenStack and Kata Containers on the Rise: Exploring Why More Companies Are Adopting These Technologies Today | ZDNet Analysis</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-y100i-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Y100i</u></a></li>
+<li><a href="https://some-tips.techidaily.com/singapore-welcomes-new-tropical-datacenter-official-launch-highlights/"><u>Singapore Welcomes New Tropical Datacenter: Official Launch Highlights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-basics-of-artifice-intelligence-within-meta-platforms/"><u>The Basics of Artifice Intelligence Within Meta Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-amazons-aws-5g-privacy-boost-innovations-presented-at-the-2021-reinvent-conference-insights-and-analysis/"><u>Unveiling Amazon's AWS 5G Privacy Boost: Innovations Presented at the 2021 Re:Invent Conference - Insights & Analysis</u></a></li>
+</ul></div>
+

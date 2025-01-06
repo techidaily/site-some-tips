@@ -1,7 +1,7 @@
 ---
 title: "Alibaba's Strategic Transition: CEO Shifts Attention to Expanding Cloud Services, Leadership Roles Evolve"
-date: 2024-09-19 22:20:20
-updated: 2024-09-20 10:17:42
+date: 2024-12-31T03:31:23.944Z
+updated: 2025-01-05T22:47:13.261Z
 tags:
   - cloud
 categories:
@@ -72,11 +72,35 @@ In explaining the organizational restructure, Zhang previously said it would all
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-essential-tips-for-youtube-thumbnail-size-for-2024/"><u>[Updated] Essential Tips for YouTube Thumbnail Size for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ultima-designs-analysis-pinnacle-suite-studio-2023-overview-for-2024/"><u>[Updated] Ultima Designs Analysis Pinnacle Suite Studio, 2023 Overview for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-bolsters-ai-capabilities-with-a-staggering-4-billion-boost-to-anthropics-generative-tech-zdnet-news/"><u>Amazon Bolsters AI Capabilities with a Staggering $4 Billion Boost to Anthropic's Generative Tech | ZDNet News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/can-you-trust-the-winds-to-change-inside-the-world-of-meteorologists-aiming-for-satisfactory-readings-explored-on-zdnet/"><u>Can You Trust the Winds to Change? Inside the World of Meteorologists Aiming for 'Satisfactory' Readings | Explored on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/collaborative-innovation-hpe-partners-with-nvidia-for-effortless-genai-deployment-and-development-explore-the-details-on-zdnet/"><u>Collaborative Innovation: HPE Partners with Nvidia for Effortless GenAI Deployment and Development | Explore the Details on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elite-cloud-computing-solutions-industry-experts-selections-and-testing-results-pcmag/"><u>Elite Cloud Computing Solutions: Industry Experts' Selections & Testing Results | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-teams-file-sharing-with-proven-strategies-techwise/"><u>Enhance Your Team's File Sharing with Proven Strategies | TechWise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/escape-googles-grasp-discover-a-secure-and-private-alternative-with-this-top-rated-encrypted-cloud-storage/"><u>Escape Google's Grasp: Discover a Secure & Private Alternative with This Top-Rated Encrypted Cloud Storage!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-awss-latest-developments-unveiling-the-graviton3-and-trainium-technologies-alongside-new-server-offerings/"><u>Exploring AWS's Latest Developments: Unveiling the Graviton3 and Trainium Technologies Alongside New Server Offerings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-changing-landspectrum-agnes-ro-from-atlassian-discusses-developer-roles-transformation-zdnet-exclusive/"><u>Exploring the Changing Landspectrum: Agnes Ro From Atlassian Discusses Developer Roles Transformation | ZDNET Exclusive</u></a></li>
+<li><a href="https://win-premium.techidaily.com/fuhren-sie-ihre-iphone-filme-unter-windowsmacos-mit-zwei-methoden-auf-eine-dvd-kopieren/"><u>Führen Sie Ihre iPhone-Filme Unter Windows/macOS Mit Zwei Methoden Auf Eine DVD Kopieren</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-se-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone SE?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-a14-4g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy A14 4G Phone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-12-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 12 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://extra-support.techidaily.com/rapid-recording-rules-for-iphone-timelapses-for-2024/"><u>Rapid Recording Rules for iPhone Timelapses for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-excessive-cpu-consumption-in-the-latest-version-of-your-favorite-software/"><u>Resolving Excessive CPU Consumption in the Latest Version of Your Favorite Software</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

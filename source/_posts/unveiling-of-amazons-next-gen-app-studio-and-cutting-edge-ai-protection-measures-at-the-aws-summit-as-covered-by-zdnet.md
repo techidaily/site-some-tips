@@ -1,7 +1,7 @@
 ---
 title: Unveiling of Amazon's Next-Gen App Studio and Cutting-Edge AI Protection Measures at the AWS Summit, as Covered by ZDNet
-date: 2024-09-19 22:24:40
-updated: 2024-09-20 10:52:52
+date: 2024-12-31T20:31:44.152Z
+updated: 2025-01-06T03:55:02.203Z
 tags:
   - cloud
 categories:
@@ -24,6 +24,10 @@ During the Summit keynote address, Dr. Matt Wood, vice president for AI Products
 **Also:** [**What is generative AI and why is it so popular? Here's everything you need to know**](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/)
 
 Here are the biggest highlights from AWS Summit 2024\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  AWS App Studio 
 
@@ -55,6 +59,10 @@ Another reveal was that Amazon Q Apps, a feature of Amazon Q Business, is now [g
 
 The release follows the trend of implementing AI assistants across industries and skill levels to offload work from all kinds of employees. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Amazon Bedrock updates 
 
 The company also announced updates to [Bedrock](https://www.zdnet.com/article/4-ways-amazon-bedrock-can-help-businesses-use-generative-ai-tools/), its enterprise platform for building and scaling generative AI applications. Bedrock provides a broad range of models for every use case, allowing companies to build with one or multiple based on their needs. 
@@ -64,6 +72,10 @@ As of Wednesday, users can fine-tune Anthropic's [Claude 3 Haiku](https://www.zd
 **Also:** [**What is AI? Everything to know about artificial intelligence**](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/)
 
 As we know, better data means better generative AI output. Amazon is adding new data sources to Knowledge Bases for Amazon Bedrock, including connectors for Confluence, SharePoint, and Salesforce, as well as custom web sources and improved accuracy for CSV and PDF data. This allows organizations to further customize their models with more business data. Knowledge Bases already connects to private sources like Amazon Aurora, MongoDB, Pinecone, and more. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  New capabilities for Agents 
 
@@ -76,6 +88,10 @@ With memory retention, Agents can now remember where a user query last left off,
 Wood noted in the keynote that AWS customers are interested in having agents performing complex analytics, beyond simple automated tasks. To address this, AWS leveraged Agents' ability to write code; they can now generate and execute code in a sandboxed environment. This allows agents to analyze data and create graphs "to tackle complex data-driven use cases, such as data analysis, data visualization, text processing, solving equations, and optimization problems," Sivasubramanian said in the [release](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Faws.amazon.com%2Fblogs%2Fmachine-learning%2Fempowering-everyone-with-genai-to-rapidly-build-customize-and-deploy-apps-securely-highlights-from-the-aws-new-york-summit%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7bb03bec-5f9e-4b41-98d8-6c0f77b47c29%7Cdtp&dtb=1). For instance, this capability could allow for the analysis of real estate price data to help make investment decisions. 
 
 Code interpretation is limited to a sandboxed environment to avoid potential chaos from agents creating and executing unvetted code. Amazon also noted that users can directly upload documents, making instructing agents more straightforward. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Updates to Guardrails 
 
@@ -98,6 +114,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Other AI announcements 
 
@@ -124,11 +144,29 @@ As part of [AI Ready](https://www.zdnet.com/article/amazon-just-rolled-out-more-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-comprehensive-look-at-youtuber-snippets-for-2024/"><u>[New] A Comprehensive Look at Youtuber Snippets for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-power-of-video-endorsements-in-advertising/"><u>[New] The Power of Video Endorsements in Advertising</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-10-premier-yoga-educators-on-youtube-for-2024/"><u>[Updated] 10 Premier Yoga Educators on YouTube for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-review-for-dji-phantom-3-standard/"><u>[Updated] 2024 Approved Review for DJI Phantom 3 Standard</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-calculating-total-vids-for-high-capacity-hardware-64128gb-for-2024/"><u>[Updated] Calculating Total Vids for High-Capacity Hardware (64/128GB) for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-camera-roundup-top-picks-for-superior-videography/"><u>2024 Approved Camera Roundup Top Picks for Superior Videography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-do-ransomware-and-phishing-hack-attempts-persistently-affect-singapores-business-sector-an-analysis-by-zdnet/"><u>How Do Ransomware & Phishing Hack Attempts Persistently Affect Singapore's Business Sector - An Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/huaweis-revolutionary-5g-solutions-for-enhanced-healthcare-and-maritime-operations-a-deep-dive-by-zdnet/"><u>Huawei's Revolutionary 5G Solutions for Enhanced Healthcare and Maritime Operations - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-best-tecno-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Tecno FRP Bypass Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-the-tech-meltdhrenous-analyzing-factors-of-the-major-microsoft-suite-outage-event/"><u>Inside the Tech Meltdhrenous: Analyzing Factors of the Major Microsoft Suite Outage Event</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-aristas-latest-network-solutions-tailored-for-businesses-embracing-the-cloud-insights-from-zdnet/"><u>Introducing Arista's Latest Network Solutions Tailored for Businesses Embracing the Cloud - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kickstart-a-successful-substack-journalism-venture-tips-and-strategies-by-zdnet-expertise/"><u>Kickstart a Successful Substack Journalism Venture - Tips & Strategies by ZDNet Expertise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-azure-dominates-the-cloud-market-breakdown-of-q1-fy-23-figures-revealed-by-zdnet/"><u>Microsoft Azure Dominates the Cloud Market: Breakdown of Q1 FY '23 Figures Revealed by ZDNet</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-repair-for-photo/"><u>Stellar Repair for Photo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-the-secrets-to-making-spectacular-haul-videos/"><u>Unveiling the Secrets to Making Spectacular Haul Videos</u></a></li>
+</ul></div>
+

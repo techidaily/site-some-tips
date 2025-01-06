@@ -1,7 +1,7 @@
 ---
 title: "Liberate Valuable Insights: Navigating From Edge to Cloud with ZDNet's Expert Strategies"
-date: 2024-09-18 11:12:59
-updated: 2024-09-20 12:54:48
+date: 2025-01-02T16:00:11.876Z
+updated: 2025-01-06T02:38:33.564Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Getty/sergey-nivens
 Let's talk for a minute about data silos. Real world silos are, of course, those towers on farms that are used to store grain for future use or sale. They're towering buildings that usually contain only one type of raw material. The silo concept generally works as a metaphor for describing large collections of raw data that's stored separately from other raw data.
 
 Servers and devices often silo data. Different machines store data, but don't necessarily share it all with other devices. Applications generate and store data, but only some might…_might_…be shared if a well-written API (application programming interface) is being used. Over time, organizations find themselves with a lot of data, but most of it is isolated, stored in separate metaphorical silos, never to be part of a larger whole.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How edge computing creates the perfect storm for data silos
 
@@ -54,6 +58,10 @@ This is just one example of the potential to harvest data from edge-to-cloud. Th
 
 **To do that, all that data needs to be accessible across your enterprise:** But those correlations and observations are only possible when analysts (both human and AI) can gain access to many sources of data to learn what stories it all tells.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Making data usable and turning it into intelligence
 
 The challenge then is making all that data usable, harvesting it, and then processing it into actionable intelligence. To do this, four things need to be considered.
@@ -66,6 +74,10 @@ These two issues, the storing of the data and the movement of data both require 
 
 And finally, the fourth factor to consider is **analysis**. It has to be stored in a way that's accessible for analysis, updated often enough, cataloged properly, and curated with care.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A gentle introduction to data modernization
 
 Humans are curious creatures. What we create in real life, we often reproduce in our digital worlds. Many of us have cluttered homes and workplaces because we've never found the perfect storage location for every object. The same, sadly, is often true of how we manage data. 
@@ -73,6 +85,10 @@ Humans are curious creatures. What we create in real life, we often reproduce in
 As we discussed earlier, we've siloed so much of it. But even when we pull all that data into a central data lake, we don't have the best ways to search, sort, and sift through it all. Data modernization is all about updating how we store and retrieve data to make use of modern advances like big data, [machine learning](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/), [AI](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/), and even in-memory databases.
 
 The IT buzz-phrases of data modernization and digital transformation go hand-in-hand. That's because a digital transformation can't take place unless the methodologies of storing and retrieving data are a top (often _the_ top) organizational IT priority. This is called a data-first strategy and it can reap substantial rewards for your business.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -86,6 +102,10 @@ See, here's the thing. If your data is tied up and trapped, you can't use it eff
 Not only that, poorly managed data can be a time sink for your professional IT staff. Instead of working to drive the organization forward through innovation, they're spending time managing all these different systems, databases, and interfaces, and troubleshooting all the different ways they can break.
 
 Modernizing your data not only means you can innovate, it also means you can free up your time to think instead of react. That also provides you time to deploy more applications and features that can open new horizons for your business.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Find the value and actionable insights hidden in your data
 
@@ -116,11 +136,27 @@ That's where management and infrastructure services like HPE GreenLake and its c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-content-youtubes-keyword-strategies-exposed/"><u>[New] 2024 Approved Elevate Your Content YouTube's Keyword Strategies Exposed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unlock-the-full-potential-of-your-iphone-photos/"><u>[Updated] 2024 Approved Unlock the Full Potential of Your iPhone Photos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-guide-to-cam-cover-selection/"><u>[Updated] The Ultimate Guide to Cam Cover Selection</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-10-essential-tips-for-achieving-wealth-through-youtube-video-views/"><u>2024 Approved 10 Essential Tips for Achieving Wealth Through YouTube Video Views</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-amplifies-market-presence-with-new-initiatives-unveiled-at-reinvent-2021-insights-from-zdnet/"><u>AWS Amplifies Market Presence with New Initiatives Unveiled at Re:Invent 2021 - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-skills-without-overemphasizing-ai-insights-from-techedge-dive-into-non-ai-innovations-for-personal-growth/"><u>Boost Your Skills Without Overemphasizing AI: Insights From TechEdge - Dive Into Non-AI Innovations for Personal Growth!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-collaboration-how-the-meta-amazon-web-services-partnership-intends-to-elevate-pytorch-deployment/"><u>Expanding Collaboration: How the Meta-Amazon Web Services Partnership Intends to Elevate PyTorch Deployment</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-on-updating-the-dell-smbus-controllers-firmware-steps-and-benefits/"><u>Expert Advice on Updating the Dell SMBus Controller's Firmware - Steps and Benefits</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-drone-friendly-vr-experiences/"><u>In 2024, Top 5 Drone-Friendly VR Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-ai-to-combat-surprising-cloud-cost-inflation-boon-or-bane/"><u>Leveraging AI to Combat Surprising Cloud Cost Inflation: Boon or Bane?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-change-in-the-tech-workforce-essential-strategies-derived-from-recent-staffing-overhauls-zdnet-exclusive/"><u>Navigating Change in the Tech Workforce: Essential Strategies Derived From Recent Staffing Overhauls | ZDNET Exclusive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/powering-future-ai-with-big-data-how-nvidia-partners-with-snowflake-for-enhanced-language-models-explored-by-zdnet/"><u>Powering Future AI with Big Data: How Nvidia Partners with Snowflake for Enhanced Language Models - Explored by ZDNet</u></a></li>
+</ul></div>
+

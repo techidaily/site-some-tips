@@ -1,7 +1,7 @@
 ---
 title: "Evolution in Action: Agnes Ro Discusses Transforming Dev Responsibilities at Atlassian, Featured on ZDNet"
-date: 2024-09-19 17:14:19
-updated: 2024-09-20 12:26:18
+date: 2025-01-01T16:01:49.322Z
+updated: 2025-01-05T21:52:15.083Z
 tags:
   - cloud
 categories:
@@ -23,6 +23,10 @@ The last decade has seen the role of software developers evolve at a rapid pace 
 
 Atlassian's head of engineering Agnes Ro has experienced this first-hand. Ro has spent the last 15 years working at the software company -- initially as a graduate developer, before rising up the ranks to oversee a team of 100 engineers for a department called Foundational Collaboration that sits within Atlassian's cloud platform. Some of her key responsibilities include delivering common experiences and backend services for Atlassian products, such as rich text editors in JIRA and Confluence, as well as file and storage experiences.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The need for speed
 
 According to Ro, unlike today where iteration cycles occur within weeks, if not hours, software developers had longer turnaround times in the past.
@@ -39,12 +43,20 @@ Frameworks to support the language that developers write, especially in the fron
 
 "Browser standards are very standardised today, so engineers today deal with more different challenges."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Developer
 
 * [It's the end of programming as we know it -- again](https://www.zdnet.com/article/its-the-end-of-programming-as-we-know-it-again/)
 * [Developers feel secure in their jobs, but they're still thinking about quitting](https://www.zdnet.com/article/developers-feel-secure-in-their-jobs-but-theyre-still-thinking-about-quitting/)
 * [The future of the web will need a different sort of software developer](https://www.zdnet.com/article/the-future-of-the-web-will-need-a-different-sort-of-software-developer/)
 * [The best Linux laptops for consumers and developers](https://www.zdnet.com/article/best-linux-laptop/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Teamwork makes the dream work
 
@@ -58,6 +70,10 @@ She pointed out, for instance, how security is now top of mind during any develo
 
 "Security has become much more ingrained," Ro said. "I would say to all of our engineering teams it's the number-one priority for Atlassian. We've come to understand that it's not just the responsibility within a separate security department; it's everyone's responsibility, and so we do a lot to ensure we're constantly testing and trying to ship the best and secure products for our customers."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A seat at the table
 
 Ro believes software developers are no longer outliers within an organisation, but are increasingly playing more crucial roles. 
@@ -65,6 +81,10 @@ Ro believes software developers are no longer outliers within an organisation, b
 "Engineers now feel much more responsible for all parts of the development lifecycle, so they're not just writing code anymore," she said.
 
 "They really do have to follow all the way through to shipping and the operational side of things, and making sure that it is reliable, stable, and not just about writing and shipping the code, and so I definitely feel that that's been a huge change and shift."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Related Coverage
 
@@ -80,11 +100,27 @@ Ro believes software developers are no longer outliers within an organisation, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-ultimate-vsco-editors-handbook/"><u>[New] 2024 Approved The Ultimate VSCO Editor's Handbook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-freely-accessing-pinterest-vids-top-5-free-downloader-rankings/"><u>[New] Freely Accessing Pinterest Vids Top 5 Free Downloader Rankings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-checklist-for-perfectly-crafted-podcast-titles-including-ideas/"><u>[New] The Ultimate Checklist for Perfectly Crafted Podcast Titles, Including Ideas</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns/"><u>[Updated] Tapping Into Community Spirit A Guide to Thriving FB Gifting Campaigns</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ensure-error-free-content-with-pre-conversion-text-editing-services-by-flipbuildercom/"><u>Ensure Error-Free Content with Pre-Conversion Text Editing Services by FlipBuilder.com</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-repairing-incomingoutgoing-call-problems-in-android-phones/"><u>Expert Tips for Repairing Incoming/Outgoing Call Problems in Android Phones</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-30i-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 30i to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-major-hurdles-how-small-companies-embrace-advanced-technologies-insights-from-zdnet/"><u>Navigating Major Hurdles: How Small Companies Embrace Advanced Technologies | Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professional-insights-leading-cloud-hosting-solutions-reviewed-for-optimal-performance-pcmag/"><u>Professional Insights: Leading Cloud Hosting Solutions Reviewed for Optimal Performance | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revive-lost-favicons-for-chrome-bookmarks-effortlessly-a-single-click-fix-featured-on-zdnet/"><u>Revive Lost Favicons for Chrome Bookmarks Effortlessly: A Single-Click Fix Featured on ZDNet!</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/unlocking-your-itunes-audiobooks-a-guide-to-removing-drm-restrictions/"><u>Unlocking Your iTunes Audiobooks: A Guide to Removing DRM Restrictions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-power-of-rust-in-enhancing-docker-security-through-edera-a-comprehensive-guide/"><u>Unveiling the Power of Rust in Enhancing Docker Security Through Edera - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-ipos-by-alibaba-unveiling-a-dedicated-cloud-entity-and-pair-of-subsidiaries/"><u>Upcoming IPOs by Alibaba: Unveiling a Dedicated Cloud Entity and Pair of Subsidiaries</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Stuck on Zoom Without the 'Share Screen' Feature? Expert Tips You Need! | ZDNet
-date: 2024-09-18 17:45:34
-updated: 2024-09-20 12:22:10
+date: 2025-01-02T22:50:33.232Z
+updated: 2025-01-05T22:21:25.657Z
 tags:
   - cloud
 categories:
@@ -13,9 +13,17 @@ thumbnail: https://www.zdnet.com/a/img/resize/69477d04641e8887ad2c6e7cc3deff5aa7
 
 ![zoom-meeting-2021-11-30-21-29-37.jpg](https://www.zdnet.com/a/img/resize/8fda8f21483965cc1a7896bd10a052a37ba3c935/2021/12/01/73bc6b46-99b1-4f4b-a458-217c1c9c1514/zoom-meeting-2021-11-30-21-29-37.jpg?auto=webp&width=1280)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### read this
 
 [![20-zoom-app-meetings-work-from-home-coronavirus1.jpg](https://www.zdnet.com/a/img/resize/5cb7d0f7c8790f5d5abf20907492eb7ebb0f6a8e/2020/03/30/48a3c208-cd56-42a5-a6d7-36d226c15009/20-zoom-app-meetings-work-from-home-coronavirus1.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The complete Zoom guide: From basic help to advanced tricks Video conferencing has never been so critical to our work and personal lives. Here's everything you need to make your meetings more productive and your social gatherings COVID-safe.  Read now](https://www.zdnet.com/article/zoom-101-a-starter-guide-for-beginners-plus-advanced-tips-and-tricks-for-pros/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This happened in a meeting the other day. We had participants from all over the world. One of the people in the meeting needed to share their screen, but they couldn't find the big green Share Screen button. 
 
@@ -28,6 +36,10 @@ The host needs to go to [Zoom.us](https://zoom.us) and sign in. Click Settings, 
 The host then needs to scroll down to the Screen Sharing section and turn it on. I like setting All Participants for who can share and for who can start sharing. If you have a more unruly room, you might want to set those to Host Only. Then the host needs to click Save. 
 
 It's at this point that things may get confusing. The Share Screen button might appear for all participants. Or it might only appear to any participants who leave and then rejoin the meeting. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -70,11 +82,24 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-from-silence-to-clarity-recording-on-your-iphone-easy-way/"><u>[New] In 2024, From Silence to Clarity Recording on Your iPhone Easy Way</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-initiate-seamless-gaming-streams-mastering-obs-recording-for-2024/"><u>[New] Initiate Seamless Gaming Streams Mastering OBS Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-constructing-youtube-video-content-that-resonates-with-viewers/"><u>[Updated] 2024 Approved Constructing YouTube Video Content That Resonates with Viewers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-tencents-bold-move-into-the-metaverse-silence-surrounding-their-strategy-for-chatgpt/"><u>Exploring Tencent's Bold Move Into the Metaverse: Silence Surrounding Their Strategy for ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/google-hikes-monthly-enterprise-space-rates-sky-high-by-38-what-you-need-to-know/"><u>Google Hikes Monthly Enterprise Space Rates Sky High by 38% – What You Need to Know</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-beginners-roadmap-to-a-thriving-youtube-channel/"><u>In 2024, The Beginner's Roadmap to a Thriving YouTube Channel</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/light-absorption/"><u>Light Absorption</u></a></li>
+<li><a href="https://article-tips.techidaily.com/pushing-videography-to-new-heights-with-the-1j5-camera/"><u>Pushing Videography to New Heights with the 1J5 Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamless-data-movement-from-android-to-iphone-discover-the-easiest-methods-in-just-a-few-minutes-tips-by-zdnet/"><u>Seamless Data Movement From Android to iPhone: Discover the Easiest Methods in Just a Few Minutes! - Tips by ZDNet</u></a></li>
+</ul></div>
+

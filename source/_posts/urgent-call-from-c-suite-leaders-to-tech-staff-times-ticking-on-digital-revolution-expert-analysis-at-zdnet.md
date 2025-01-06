@@ -1,7 +1,7 @@
 ---
 title: "Urgent Call From C-Suite Leaders to Tech Staff: Time's Ticking on Digital Revolution | Expert Analysis at ZDNet"
-date: 2024-09-18 13:38:44
-updated: 2024-09-20 11:23:15
+date: 2024-12-31T19:47:32.244Z
+updated: 2025-01-05T20:09:48.259Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 ![A woman touching a futuristic digital display.](https://www.zdnet.com/a/img/resize/f5721c59883284cd25da5bca36a57280621cec63/2022/09/07/867baa95-e405-4e2b-a0e6-3dc9ef55c6f5/a-woman-touching-a-futurisitic-digital-display.jpg?auto=webp&width=1280)
 
 Oscar Wong/Getty
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -85,11 +89,29 @@ The digital core has become "a primary source of competitive advantage," Sweet a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-revolutionizing-action-video-with-polaroid-xs-100i/"><u>[Updated] 2024 Approved Revolutionizing Action Video with Polaroid XS 100I</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-audiovisual-allure-crafting-irresistible-podcast-previews/"><u>[Updated] Audiovisual Allure Crafting Irresistible Podcast Previews</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unveiling-top-10-techniques-live-cricket-broadcasting-for-2024/"><u>[Updated] Unveiling Top 10 Techniques Live Cricket Broadcasting for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-programming-languages-popularity-fluctuations-since-2016-lessons-and-predictions-codedigest/"><u>Decoding Programming Languages' Popularity Fluctuations Since 2016 - Lessons and Predictions | CodeDigest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gen-ai-revolution-the-growing-influence-and-evolution-in-the-tech-landscape-insights-from-zdnet/"><u>Gen AI Revolution: The Growing Influence and Evolution in the Tech Landscape - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-bridging-gaps-using-markers-for-smooth-transition-sequences/"><u>In 2024, Bridging Gaps Using Markers for Smooth Transition Sequences</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-14-pro-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 14 Pro with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-15-pro-max-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 15 Pro Max or iPad?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/infusing-life-into-jujutsu-kaisen-with-tiktok-videos-for-2024/"><u>Infusing Life Into Jujutsu Kaisen with TikTok Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-enhances-azures-artificnial-intelligence-voice-capabilities-announced-at-build-conference-2024/"><u>Microsoft Enhances Azure's Artificnial Intelligence Voice Capabilities - Announced at Build Conference 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-path-forward-challenges-in-establishing-open-source-ai-standards-mixed-reactions-from-experts-zdnet/"><u>Navigating the Path Forward: Challenges in Establishing Open Source AI Standards – Mixed Reactions From Experts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overwhelmed-in-the-digital-age-find-encouraging-perspectives-here-wired/"><u>Overwhelmed in the Digital Age? Find Encouraging Perspectives Here | Wired</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/stay-ahead-with-innovation-integrating-youtube-into-your-educational-approach/"><u>Stay Ahead with Innovation Integrating YouTube Into Your Educational Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-web-development-training-programs-explore-the-best-as-recommended-by-zdnet/"><u>Top-Ranked Web Development Training Programs: Explore the Best as Recommended by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-by-tech-experts-pcmag/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews by Tech Experts | PCMag</u></a></li>
+</ul></div>
+

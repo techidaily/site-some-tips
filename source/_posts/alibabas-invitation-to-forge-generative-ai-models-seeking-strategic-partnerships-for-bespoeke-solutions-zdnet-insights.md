@@ -1,7 +1,7 @@
 ---
 title: "Alibaba's Invitation to Forge Generative AI Models: Seeking Strategic Partnerships for Bespoeke Solutions | ZDNET Insights"
-date: 2024-09-18 16:28:34
-updated: 2024-09-20 11:32:18
+date: 2025-01-04T20:06:35.676Z
+updated: 2025-01-05T23:04:34.986Z
 tags:
   - cloud
 categories:
@@ -45,6 +45,10 @@ Tongyi Qianwen already powers more than 10 functions on Alibaba's online collabo
 
 Tongyi Qianwen has both Chinese and English language capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Significant price cuts to cloud services
 
 The partnership program was launched at Alibaba Cloud's annual partners summit in Nanjing this week, where the vendor also unveiled price cuts to its core products and services. Ranging from 15% to 50%, the fee adjustments mark the biggest price reduction to date; however, only its customers in China will benefit from the cuts. 
@@ -84,11 +88,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-supreme-writing-talents-through-genre-lenses/"><u>[Updated] 2024 Approved Supreme Writing Talents Through Genre Lenses</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-effortless-repetition-replay-your-youtube-videos-via-tv-connection-for-2024/"><u>[Updated] Effortless Repetition Replay Your YouTube Videos via TV Connection for 2024</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/whatsapp-transfer/"><u>Aiseesoft WhatsSync - WhatsApp Transfer</u></a></li>
+<li><a href="https://win-best.techidaily.com/exploring-the-enhanced-capabilities-of-windows-11-a-comprehensive-guide-by-yl-computing/"><u>Exploring the Enhanced Capabilities of Windows 11: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y100-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y100 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-media-with-top-8-convertors-1-8/"><u>In 2024, Streamline Your Media with Top 8 Convertors #1-8</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sers-mastering-chic-videos-for-your-first-youtube-post/"><u>Mac Users Mastering Chic Videos for Your First YouTube Post</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726228010356-movavi/"><u>Movavi: 高品質な予定表編集ツールでフリップシートの変換 - 免責無料</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722891599192-the-journey-through-macos-versions-whats-the-most-recent-update-complete-guide-available-here/"><u>The Journey Through macOS Versions: What's the Most Recent Update? Complete Guide Available Here</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unbelievably-practical-the-surprising-benefits-of-digital-clocks-tech-insights/"><u>Unbelievably Practical: The Surprising Benefits of Digital Clocks | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/union-triumph-at-ups-sets-a-new-precedent-for-amazon-labor-relations-insights-from-zdnet/"><u>Union Triumph at UPS Sets a New Precedent for Amazon Labor Relations - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secret-why-generation-z-favors-walmart-over-tech-giant-apple-in-depth-analysis-on-zdnet/"><u>Unlocking the Secret: Why Generation Z Favors Walmart over Tech Giant Apple | In-Depth Analysis on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-amazons-new-product-rating-overhaul-less-improved-than-expected/"><u>Unveiling Amazon's New Product Rating Overhaul – Less Improved than Expected</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-ambient-technology-understanding-the-surge-of-hidden-digital-wonders-insights-from-zdnet/"><u>Unveiling Ambient Technology: Understanding the Surge of Hidden Digital Wonders - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/when-amazon-misses-the-mark-a-deep-dive-into-their-new-strategy-and-its-reception-zdnet/"><u>When Amazon Misses the Mark: A Deep Dive Into Their New Strategy and Its Reception | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-amazons-echo-show/"><u>Why Amazon's Echo Show</u></a></li>
+<li><a href="https://some-tips.techidaily.com/will-amazons-introduction-of-advertisements-impact-the-future-of-alexa-answers/"><u>Will Amazon's Introduction of Advertisements Impact the Future of Alexa Answers?</u></a></li>
+</ul></div>
+

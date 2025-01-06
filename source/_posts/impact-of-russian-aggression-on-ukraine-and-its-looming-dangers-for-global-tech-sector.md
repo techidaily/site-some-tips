@@ -1,7 +1,7 @@
 ---
 title: Impact of Russian Aggression on Ukraine and Its Looming Dangers for Global Tech Sector
-date: 2024-09-18 16:50:39
-updated: 2024-09-20 11:46:14
+date: 2024-12-30T20:09:40.196Z
+updated: 2025-01-05T18:32:38.456Z
 tags:
   - cloud
 categories:
@@ -23,12 +23,20 @@ In the five years since I first explored the potential impact of a Digital Cold 
 
 Under Vladimir Putin's leadership, the nation has focused on [international cybersecurity activity for many years.](https://www.cbsnews.com/news/cia-mike-pompeo-russian-election-meddling-theyve-been-at-this-a-hell-of-a-long-time/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ukraine Crisis
 
 * [Coding inside a war zone](https://www.zdnet.com/article/ukrainian-software-developers-share-their-stories-and-photos-from-the-war-zone/)
 * [How you can help: Donation sites and resources](https://www.zdnet.com/article/how-you-can-help-ukraine-donation-sites-and-resources/)
 * [Ukrainian police take down phishing gang behind payments scam](https://www.zdnet.com/article/ukrainian-police-takes-down-phishing-gang-behind-payments-scam/)
 * [International Refugee Assistance Project partners with Rosetta Stone to aid refugees](https://www.zdnet.com/article/international-refugee-assistance-project-rosetta-stone-partnership-aid-refugees/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Ukraine invasion
 
@@ -41,6 +49,10 @@ On February the 23rd, President Biden [condemned the military action](https://ww
 The economic impacts of this conflict will likely be significant, including a halt on Russian oil and natural gas exports to Western Europe and, presumably, the denial of civil and commercial air transit to Asia through Russian airspace. Although the United States, unlike Europe, is not a major consumer of Russian energy exports, it would be simplistic to say that Russia has no impact on US business at all.
 
 An extended conflict with Russia -- coupled with the imposition of wide-ranging sanctions -- will have a tangible impact on the global technology industry.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Software companies with concerns about Russian connections
 
@@ -60,6 +72,10 @@ It's also important to note that companies with no evidence of any wrongdoing ar
 
 [Acronis](http://en.wikipedia.org/wiki/Acronis), like Parallels, is another company founded by Beloussov. After founding Parallels in 1999, and being involved with both companies for some time, he became CEO of Acronis in May of 2013\. The company specializes in cybersecurity products for end-to-end device protection, and in the past, has had bare-metal systems imaging, systems deployment, and storage management products for Microsoft Windows and Linux. The company maintains its global headquarters in Singapore. However, it has substantial R&D operations in Eastern Europe in addition to operations in Israel, Singapore, and the US.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special feature
 
 [Cyberwar and the Future of Cybersecurity Today's security threats have expanded in scope and seriousness. There can now be millions -- or even billions -- of dollars at risk when information security isn't handled properly.  Read now](https://www.zdnet.com/topic/cyberwar-and-the-future-of-cybersecurity/)
@@ -71,6 +87,10 @@ These are only just a few examples. Numerous Russian software firms generate bil
 It should also be noted that many mobile apps -- including entertainment software for iOS, Android, Windows -- also originate in Russia.
 
 * [How to secure your home and office network: The best DNS blockers and firewalls](https://www.zdnet.com/article/how-to-secure-your-home-and-office-network-the-best-dns-blockers-and-firewalls/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Russian services firms will also be impacted
 
@@ -130,11 +150,27 @@ Will Russian software and services become the first victim in a Digital War? _Ta
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagrams-mirror-reflecting-true-selfie-essence/"><u>[New] In 2024, Instagram's Mirror Reflecting True Selfie Essence</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-ai-pixel-art-generator/"><u>2024 Approved What Is AI Pixel Art Generator?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibaba-appoints-fresh-chief-technology-officer-current-ceo-takes-temporary-lead-of-cloud-division-zdnet-insights/"><u>Alibaba Appoints Fresh Chief Technology Officer; Current CEO Takes Temporary Lead of Cloud Division - ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-self-improvement-with-innovative-ai-plugins/"><u>Elevate Self-Improvement with Innovative AI Plugins</u></a></li>
+<li><a href="https://discover-best.techidaily.com/enhanced-user-experience-with-advanced-analytics-powered-by-the-leading-cookiebot-solutions/"><u>Enhanced User Experience with Advanced Analytics: Powered by the Leading Cookiebot Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-note-30-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Note 30 Pro Quickly | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/go-for-it-now-premier-services-in-personal-picture-repair/"><u>Go for It Now: Premier Services in Personal Picture Repair</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-impact-of-russian-aggression-on-ukraine-a-looming-crisis-for-tech-sector/"><u>The Impact of Russian Aggression on Ukraine: A Looming Crisis for Tech Sector</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-thickness-of-compacted-layers-must-adhere-to-specifications-as-improper-layer-thickness-can-lead-to-inadequate-compaction-or-resource-wastage/"><u>The Thickness of Compacted Layers Must Adhere to Specifications, as Improper Layer Thickness Can Lead to Inadequate Compaction or Resource Wastage.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-ultimate-guide-to-restoring-windows-photo-viewer-on-win-11/"><u>The Ultimate Guide to Restoring Windows Photo Viewer on Win 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/this-title-uses-relevant-keywords-such-as-kubernetes-significance-and-modern-tech-which-are-likely-to-be-searched-by-individuals-seeking-information-on-this21/"><u>This Title Uses Relevant Keywords Such as 'Kubernetes,' 'Significance,' And 'Modern Tech' Which Are Likely to Be Searched by Individuals Seeking Information on This Topic.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-digital-spaces-inside-the-success-story-of-stack-overflows-cto-and-expanding-one-of-the-webs-largest-platforms-insights-for-tech-executives-zdn27/"><u>Transforming Digital Spaces: Inside the Success Story of Stack Overflow's CTO and Expanding One of the Web’s Largest Platforms | Insights for Tech Executives - ZDNet Exclusive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-unseen-resurrect-off-screen-windows-in-win1011/"><u>Unlock the Unseen: Resurrect Off-Screen Windows in Win10/11</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Combatting Censorship: Building a Digital Library of Free Expression - A Strategy by Tech Giants"
-date: 2024-09-18 21:49:38
-updated: 2024-09-20 11:47:58
+date: 2025-01-02T23:13:27.968Z
+updated: 2025-01-05T21:50:29.911Z
 tags:
   - cloud
 categories:
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 
 Hardly a day goes by when we don't hear from a school or library somewhere in the United States that they've removed a book [from circulation](http://blog.archive.org/2021/11/24/as-calls-to-ban-books-intensify-digital-librarians-offer-perspective/) following complaints from parents or constituents. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![Close-up of an older woman making a video call on her Amazon Fire HD 10 tablet](https://www.zdnet.com/a/img/resize/6bdb7e14441d186907874239c1c732cb2cd64744/2022/08/01/9ca7b5c8-47e7-4e90-817f-8491229fe0c4/amazon-fire-hd-10-2.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Last week, in a school district in Tennessee, it was [the removal of MAUS](https://slate.com/human-interest/2022/01/maus-banned-tennessee-holocaust-graphic-novel.html), the Pulitzer Prize-winning graphic novel by Art Spiegelman, that retells the Holocaust story through the eyes of mice oppressed by fascist cats. 
 
@@ -66,11 +74,30 @@ Do the e-book giants need to fight book banning by taking the battle to the digi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/levate-your-video-guide-with-annotations-on-youtube/"><u>[New] Elevate Your Video Guide with Annotations on YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ransforming-spaces-with-channels-top-10-online-tools-revealed-for-2024/"><u>[New] Transforming Spaces with Channels Top 10 Online Tools Revealed for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-aps-guide-to-crafting-exquisite-hdr-photos/"><u>2024 Approved Step-by-Step APS Guide to Crafting Exquisite HDR Photos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-x50iplus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor X50i+ to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dbos-vs-linux-unleashing-cloud-potential-with-a-complimentary-demo-from-zdnet/"><u>DBOS Vs. Linux: Unleashing Cloud Potential with a Complimentary Demo From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-new-features-of-red-hats-openstack-version-17-on-zdnet/"><u>Discover the New Features of Red Hat's OpenStack Version 17 on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experts-pick-the-ultimate-network-monitoring-software-insights-and-comparisons-zdnet/"><u>Experts Pick the Ultimate Network Monitoring Software - Insights & Comparisons | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/explore-the-latest-in-cloud-innovation-with-azures-radius-platform-the-key-to-efficiently-managing-multi-cloud-workloads-on-zdnet/"><u>Explore the Latest in Cloud Innovation with Azure's Radius Platform - The Key to Efficiently Managing Multi-Cloud Workloads on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-cloud-tech-uncover-huge-potential-and-risks-insights-from-zdnet/"><u>Exploring Cloud Tech: Uncover Huge Potential & Risks - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-new-features-in-red-hat-openstack-version-17-release-insights-from-zdnet/"><u>Exploring the New Features in Red Hat OpenStack Version 17 Release - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/hpe-and-nvidia-unite-comprehensive-ai-solutions-through-turnkey-genai-services-insights-from-zdnet/"><u>HPE & NVIDIA Unite: Comprehensive AI Solutions Through 'Turnkey' GenAI Services - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-safe-no-cost-methods-for-youtube-tracks-extraction/"><u>In 2024, Safe, No-Cost Methods for YouTube Tracks Extraction</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211370308-9780253034731-new-england-nightmares/"><u>New England Nightmares | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-microsofts-copilot-from-windows-11/"><u>Step-by-Step Guide: Removing Microsoft's Copilot From Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-no-cost-driver-refresher-apps-of-july-2nu201924-top-picks-unveiled/"><u>The Best No-Cost Driver Refresher Apps of July 2N_u201924: Top Picks Unveiled</u></a></li>
+</ul></div>
+

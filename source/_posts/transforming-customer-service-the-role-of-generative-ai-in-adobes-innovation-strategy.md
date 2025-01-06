@@ -1,7 +1,7 @@
 ---
 title: "Transforming Customer Service: The Role of Generative AI in Adobe's Innovation Strategy"
-date: 2024-09-18 17:30:14
-updated: 2024-09-20 10:10:47
+date: 2025-01-01T03:58:17.967Z
+updated: 2025-01-06T04:19:33.166Z
 tags:
   - cloud
 categories:
@@ -21,6 +21,10 @@ If you think [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-doe
 
 We're looking at an enormous increase in the ability of businesses to meet the unique needs of individual customers, as well as an enormous increase in the capability for businesses to target those customers with psychological and demographic precision. The application of AI to marketing and sales gives a whole new meaning to the phrase "buyer beware."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [How AI is Transforming Organizations Everywhere Some of the world's most effective organizations are putting the latest AI innovations to work in smart -- and sometimes startling -- new ways. We put the spotlight on a diverse range of organizations across different parts of the economy to see how they are automating, streamlining, and transforming the ways things are done.  Read now](https://www.zdnet.com/topic/how-ai-is-transforming-organizations-everywhere/)
@@ -30,6 +34,10 @@ Rather than [general-purpose AI tools](https://www.zdnet.com/article/best-ai-cha
 **Also:** [**The 5 best AI art generators**](https://www.zdnet.com/article/best-ai-art-generator/)
 
 We'll explore what Adobe's doing with [generative AI-driven marketing](http://news.adobe.com/news/news-details/2023/Adobe-Announces-New-Sensei-GenAI-Services-to-Reimagine-End-to-End-Marketing-Workflows/default.aspx) \-- and it's big.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Customer experience management and the buyer's brain 
 
@@ -58,6 +66,10 @@ When customers interact with your company, a lot goes on inside their heads. The
 Companies that maximize the perceived pre-benefit bring in more fresh opportunities. Companies that maximize the actual value benefit reduce support costs and create potential repeat customers. And companies that maximize the post-game engagement create champions, generate word of mouth, and turn customers into fans and enthusiasts. 
 
 That end-to-end experience -- pre, purchase, and post -- constitutes the customer experience. And, all of that brings us back to Adobe's set of announcements. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Tapping the collective zeitgeist with the customer data platform 
 
@@ -100,6 +112,10 @@ Adobe is also pushing its game forward in healthcare, financial services, B2B, a
 **Prospecting, enriching, and activating with partners:** Adobe improves Real-Time CDP with partner enrichments, Amazon Ads, TikTok, and LiveRamp integrations to solve cookieless prospecting challenges for brands. 
 
 This collection of initiatives is how the customer experience and the customer data come together. Customer interactions generate more data. Real-time analytics changes the customer experience dynamically. Wash. Rinse. Repeat. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Adobe's image and text generative AI services 
 
@@ -148,11 +164,31 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-illuminating-iphones-in-the-dark-photography-tips-for-2024/"><u>[Updated] Illuminating iPhones in the Dark Photography Tips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-towards-unified-vision-the-journey-of-merging-technology-with-corporate-goals-zdnet/"><u>Advancing Towards Unified Vision: The Journey of Merging Technology with Corporate Goals | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-techniques-and-apps-boosting-your-daily-productivity-insights-from-zdnet/"><u>Best Techniques & Apps: Boosting Your Daily Productivity - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/impact-of-russian-aggression-on-ukraine-and-its-looming-dangers-for-global-tech-sector/"><u>Impact of Russian Aggression on Ukraine and Its Looming Dangers for Global Tech Sector</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-redmi-12-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi Redmi 12 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-v30-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo V30 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-lgs-visionary-360-camera-review-and-technological-advances/"><u>In 2024, LG's Visionary 360 Camera Review and Technological Advances</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-7-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 7 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leading-cloud-data-safe-haven-options-according-to-tech-gurus-at-zdnet/"><u>Leading Cloud Data Safe Haven Options , According to Tech Gurus at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-build-202n-enhancements-spark-joy-amongst-developers-inside-the-bolstered-dev-box/"><u>Microsoft Build 202N Enhancements Spark Joy Amongst Developers: Inside the Bolstered Dev Box</u></a></li>
+<li><a href="https://some-tips.techidaily.com/military-cloud-market-division-amazon-web-services-google-oracle-and-microsoft-secure-pentagons-major-contract-insights-from-zdnet/"><u>Military Cloud Market Division: Amazon Web Services, Google, Oracle & Microsoft Secure Pentagon's Major Contract - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/nvidia-and-snowflake-unite-forces-on-groundbreaking-llm-ai-initiative-insights-from-techs-latest-collaboration-zdnet/"><u>Nvidia and Snowflake Unite Forces on Groundbreaking LLM-AI Initiative: Insights From Tech's Latest Collaboration | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/owning-your-cloud-safety-why-its-critical-not-to-rely-solely-on-vendors-zdnet-insights/"><u>Owning Your Cloud Safety: Why It's Critical Not to Rely Solely on Vendors | ZDNet Insights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-as-an-independent-youtube-entrepreneur-dodging-the-ad-dilemrante-for-2024/"><u>Thriving as an Independent YouTube Entrepreneur Dodging the Ad Dilemrante for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/unraveling-the-influence-of-the-taiping-uprising-in-shaping-modern-chinese-society-and-politics-yl-computing-and-software-solutions/"><u>Unraveling the Influence of the Taiping Uprising in Shaping Modern Chinese Society and Politics | YL Computing & Software Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-private-and-business-video-hosting-10-free-options-to-consider-for-2024/"><u>Updated Private and Business Video Hosting 10 Free Options to Consider for 2024</u></a></li>
+</ul></div>
+

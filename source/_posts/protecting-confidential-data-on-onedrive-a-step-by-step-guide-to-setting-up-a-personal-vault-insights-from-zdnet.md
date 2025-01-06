@@ -1,7 +1,7 @@
 ---
 title: "Protecting Confidential Data on OneDrive: A Step-by-Step Guide to Setting Up a Personal Vault - Insights From ZDNet"
-date: 2024-09-18 23:46:38
-updated: 2024-09-20 10:43:28
+date: 2024-12-30T01:34:45.163Z
+updated: 2025-01-06T00:37:48.285Z
 tags:
   - cloud
 categories:
@@ -17,6 +17,10 @@ iStockphoto/Getty Images
 
 I use Microsoft OneDrive to back up and sync my documents, photos, and other files across my different PCs and mobile devices. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [7 ways to make Windows 11 less annoying](https://www.zdnet.com/article/seven-ways-to-make-windows-11-less-annoying/)
@@ -31,6 +35,10 @@ By including specific OneDrive folders or files in this vault, you can add an ex
 By default, the vault remains locked until you need it. You unlock it with whatever method you use to protect your [Microsoft account](https://www.zdnet.com/article/how-to-get-microsoft-office-for-free/). After you unlock the vault, it automatically locks after a certain amount of time to again protect your files.
 
 **Also:** [**How do I get OneDrive under control \[Ask ZDNET\]**](https://www.zdnet.com/article/how-do-i-get-onedrive-under-control-ask-zdnet/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Requirements
 
@@ -74,6 +82,10 @@ View the folders and files moved to your Personal Vault.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Set the amount of time the Personal Vault will wait to automatically lock
 
 After activating your Personal Vault, there's one setting you'll want to tweak. Right-click the OneDrive System Tray icon and select Settings. Select the Account tab and click the dropdown menu for Personal Vault. Here, you set the amount of time that the Personal Vault will wait to automatically lock after you've unlocked it and have stopped using it. I set mine for 20 minutes to be on the safe side, but you can choose a longer duration if you wish. Click OK.
@@ -81,6 +93,10 @@ After activating your Personal Vault, there's one setting you'll want to tweak. 
 Set the time to automatically lock your Personal Vault.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. To access files in your Personal Vault, select Unlock Personal Vault
 
@@ -107,6 +123,10 @@ The Personal Vault folder pops up in File Explorer to display the folders and fi
 Lock your Personal Vault.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Move folders and files out of Personal Vault that no longer need extra security
 
@@ -146,11 +166,29 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-infuse-your-films-with-text-magic-top-10-techniques-unveiled/"><u>[New] 2024 Approved Infuse Your Films with Text Magic Top 10 Techniques Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-much-income-arises-from-each-snapshot-video/"><u>[New] In 2024, How Much Income Arises From Each Snapshot (Video)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-background-guide-for-online-video-calls-for-2024/"><u>[New] The Ultimate Background Guide for Online Video Calls for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-advanced-aws-lake-formation-capabilities-unveiled-by-amazon-for-greater-data-oversight-tech-news-on-zdnet/"><u>Discover Advanced AWS Lake Formation Capabilities Unveiled by Amazon for Greater Data Oversight - Tech News on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-simplified-path-to-ai-with-amazon-web-services-get-started-for-zero-cost-using-sagemaker-studio-lab-zdnet/"><u>Discover the Simplified Path to AI with Amazon Web Services: Get Started for Zero Cost Using SageMaker Studio Lab | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-enhanced-ai-capabilities-in-the-newest-kubernetes-update-insights-from-zdnet/"><u>Exploring Enhanced AI Capabilities in the Newest Kubernetes Update – Insights From ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-tecno-spark-10-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Tecno Spark 10 5G Phones with/without a PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-an-exclusive-review-of-lgs-innovative-4k-screen-tech/"><u>In 2024, An Exclusive Review of LG's Innovative 4K Screen Tech</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-6s-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 6s from iCloud</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-ai-skills-for-better-paychecks-in-tech-positions-role-based-analysis-zdnet/"><u>Leveraging AI Skills for Better Paychecks in Tech Positions - Role-Based Analysis | ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/superior-screens-for-digital-artists-top-picks/"><u>Superior Screens for Digital Artists – Top Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sustainability-is-increasingly-becoming-an-integral-part-of-soil-mechanics-with-research-focusing-on-minimizing-environmental-impacts-while-ensuring-constru18/"><u>Sustainability Is Increasingly Becoming an Integral Part of Soil Mechanics, with Research Focusing on Minimizing Environmental Impacts While Ensuring Construction Safety and Durability.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-debate-intensifies-advancing-consensus-on-open-source-ai-amidst-growing-discontent/"><u>The Debate Intensifies: Advancing Consensus on Open Source AI Amidst Growing Discontent</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-battle-hero7-vs-other-action-cameras/"><u>The Ultimate Battle: HERO7 Vs. Other Action Cameras!</u></a></li>
+</ul></div>
+

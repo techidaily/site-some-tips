@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Hurdles: Navigating Notorious Design Glitches in Notion's Evernote Integration - A Comprehensive Guide"
-date: 2024-09-18 14:51:57
-updated: 2024-09-20 11:57:42
+date: 2025-01-03T22:47:14.184Z
+updated: 2025-01-05T23:39:05.654Z
 tags:
   - cloud
 categories:
@@ -19,6 +19,10 @@ I started writing my blog posts for ZDNET in Evernote back in 2012\. With a few 
 
 I quite like [Evernote](https://evernote.com/) and pay for a professional plan. One of the key benefits of Evernote was (note the past tense) that I could sync between computers. I usually write my articles on my MacBook Air. Once the article is done, my wife (who has years of experience as a managing editor) does an editing pass with me from the couch, using a Mac mini that is connected to a big screen in our family room. I then submit the edited article to ZDNET's editors for review. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Sync failures 
 
 But then Evernote's sync started to regularly fail. Sometimes it wouldn't sync at all. Sometimes, the edited version would be reported as a conflict, and Evernote would create two copies of the article. 
@@ -30,6 +34,10 @@ I reached out to [Evernote's support team](https://help.evernote.com/hc/en-us/re
 Not encouraging, that. Then, when Evernote decided to create three separate copies of an article, I realized it was time to find a different solution. 
 
 This kind of thing gets old after awhile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The need to import Evernote notes 
 
@@ -44,6 +52,10 @@ A whole bunch of programs import Evernote, including Apple Notes, [Obsidian](htt
 **Review:** [**Notion app: Why (and how) I rely on this powerful productivity tool**](https://www.zdnet.com/article/notion-app-review/)
 
 This did not go smoothly. Part of it was Evernote's fault. Part of it was Notion's fault. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Notion conundrum 
 
@@ -69,6 +81,10 @@ It's here we start going down the rabbit hole. It starts with the problem of spl
 
 But, as we've established, Evernote has sync reliability issues. So the idea of flinging thousands of mission-critical notes around and hoping they sync properly and don't break was a deal-breaker. But that's the only way Notion can get notes out of Evernote. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How I eventually solved the problem 
 
 Let's recap. 
@@ -90,6 +106,10 @@ Once I verified all seven parts were properly in the cloud, I went back into Not
 On each of those occasions, there was a note with graphics in it, and it was that note that killed the import. Depending on how important the note was for my records or work, I either deleted the full failing note, or removed the graphics from the failing note. In any case, after dealing with the failing notes, I was able to complete the imports into Notion. 
 
 I followed the same process with my Blogs-in-Progress notebook, but because there were fewer notes, it went faster. All told, it took about six hours of tweaking, fiddling, and waiting for syncs to complete to move the data from Evernote to Notion, but it did, eventually, work. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Some obvious conclusions 
 
@@ -130,11 +150,24 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/icloud-update-brings-major-upgrades-to-windows-users-latest-developments-from-apple-unveiled-gadgetpundit/"><u>ICloud Update Brings Major Upgrades to Windows Users - Latest Developments From Apple Unveiled | GadgetPundit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-tips-iphone-in-the-dark-spotlight/"><u>In 2024, Pro Tips IPhone in the Dark Spotlight</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweeted-timelines-a-complete-guide-to-video-backups/"><u>In 2024, Tweeted Timelines A Complete Guide to Video Backups</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cloud-technology-for-advanced-ai-implementation-in-singapores-government-operations/"><u>Leveraging Cloud Technology for Advanced AI Implementation in Singapore’s Government Operations</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-youtube-studio-ultimate-video-edits-techniques-for-2024/"><u>Mastering YouTube Studio Ultimate Video Edits Techniques for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/sci-fis-new-frontiers-a-compilation-of-incredible-metaverse-movie-experiences-for-2024/"><u>Sci-Fi's New Frontiers A Compilation of Incredible Metaverse Movie Experiences for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-lucrative-edge-of-ai-knowledge-in-the-workforce-varied-salary-impacts-based-on-position-zdnet/"><u>The Lucrative Edge of AI Knowledge in the Workforce: Varied Salary Impacts Based on Position | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-cloud-insights-and-basics-for-everyone-zdnet/"><u>Understanding the Cloud: Insights & Basics for Everyone | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-7-plus-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 7 Plus by restoring</u></a></li>
+</ul></div>
+

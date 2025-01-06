@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Growth: How Edge Computing Fuels Cloud Innovation and Powers Modern Digital Evolution - Insights From ZDNet"
-date: 2024-09-19 23:22:35
-updated: 2024-09-20 12:11:57
+date: 2025-01-03T21:36:58.187Z
+updated: 2025-01-05T23:06:06.163Z
 tags:
   - cloud
 categories:
@@ -131,6 +131,10 @@ And this is where the time savings starts to really scale up. Using a single-pan
 
 For those companies who don't want to build all these systems themselves, there are platforms like HPE GreenLake – who is also the sponsor of this ZDNET editorial series – designed to help sort out the complexity. We'll get back to GreenLake in a bit, but first let's talk about where edge computing fits into this new paradigm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The rise of edge computing
 
 If the data center is that building with all your servers, and the cloud is that building that someone else owns with all the servers you rent, the edge is everything else – where it all happens. It's the sensors in smart cities. It's the medical instrumentation in hospitals. It's the fabrication and material transport systems in factories and warehouses. It's the individual retail store in your chain of thousands of stores.
@@ -138,6 +142,10 @@ If the data center is that building with all your servers, and the cloud is that
 **Also:** [**What is edge computing? Here's why the edge matters and where it's headed**](https://www.zdnet.com/article/where-the-edge-is-in-edge-computing-why-it-matters-and-how-we-use-it/)
 
 The thing about computing at the edge is that it needs to run at the speed of life. A self-driving car can't take the time to send off a query and await a response when a truck swerves in front of it. It has to have all the necessary intelligence in the vehicle to decide what action to take. While this is an extreme example, the same is true of factory processes and even retail sales. Intelligence, data analysis, and decision making must be available without a propagation delay, and therefore must live at the edge.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -151,9 +159,17 @@ It's not just about ease of use. It's about preventing mistakes and being able t
 
 The key to managing all this is a comprehensive edge-to-cloud platform that provides all the services necessary to maintain, grow, and defend your infrastructure over the long haul.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Understanding the benefits of an edge-to-cloud platform
 
 So what characteristics make up a comprehensive edge-to-cloud platform? If you start looking to vendors for a solution, you'll want to explore four key features: self-service, rapid scaling, pay-as-you-go, and managed infrastructure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -180,6 +196,10 @@ The most important is greater agility. As we've seen over the last three years, 
 
 Once you have the agility, doors open. You can modernize applications to meet the needs of work-at-home employees and highly mobile customers. You can optimize a hybrid cloud solution that perfectly fits your working needs, but without all of the chaotic overhead that comes from trying to make multiple vendor configurations work together. You can put your line-of-business needs and your customers' desires first, scaling out to meet the needs of market forces and taking advantage of opportunities as they arise.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## HPE GreenLake and other platforms
 
 This is where HPE GreenLake and its competitors come in. Their management of infrastructure is up and down the line, so you can provision co-lo and cloud services off-site, but they'll also deliver gear to your facility within 14 days and with no upfront cost. All of that is cost-controlled with careful metering and pay-as-you-go billing that tracks your usage -- whether it increases or decreases.
@@ -198,11 +218,26 @@ But we live in a time where rapid change means "by next week" not "by next quart
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-to-edit-text-in-image-photo-text-editor-online-and-app/"><u>[Updated] In 2024, How to Edit Text in Image? [Photo Text Editor Online and App]</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-13-mini-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 13 mini When Its Locked Within Seconds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alert-unauthorized-amazon-transaction-detected-post-prime-day-learn-prevention-tips-a-step-by-step-guide/"><u>Alert: Unauthorized Amazon Transaction Detected Post-Prime Day? Learn Prevention Tips! - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-echo-show-5-the-key-to-winning-over-skeptics-with-smart-display-technology-discoveries-on-zdnet/"><u>Amazon Echo Show 5: The Key to Winning Over Skeptics with Smart Display Technology | Discoveries on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-october-prime-deals-top-tips-to-save-big-on-groceries-zdnet/"><u>Amazon's October Prime Deals: Top Tips to Save Big on Groceries | ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-gradual-aesthetic-launch/"><u>In 2024, Gradual Aesthetic Launch</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-realme-v30-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Realme V30 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/staying-current-the-impact-of-additional-yearly-patches-on-your-pc/"><u>Staying Current: The Impact of Additional Yearly Patches on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-step-by-step-fixing-the-registry-damage-causing-dvdcd-rom-not-working-on-windows-10/"><u>Troubleshooting Step-by-Step: Fixing the Registry Damage Causing DVD/CD-ROM Not Working on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-potential-of-free-ai-education-with-amazon-my-inspirational-journey-zdnet-insights/"><u>Unveiling the Potential of Free AI Education with Amazon: My Inspirational Journey | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-gen-z-prefers-shopping-at-walmart-over-apple-surprising-insights-revealed-zdnet/"><u>Why Gen Z Prefers Shopping at Walmart Over Apple - Surprising Insights Revealed! | ZDNet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-and-nvidia-unite-seamlessly/"><u>Win11 & Nvidia Unite Seamlessly</u></a></li>
+</ul></div>
+

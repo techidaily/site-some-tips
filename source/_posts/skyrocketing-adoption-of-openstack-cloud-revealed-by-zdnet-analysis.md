@@ -1,7 +1,7 @@
 ---
 title: Skyrocketing Adoption of OpenStack Cloud Revealed by ZDNet Analysis
-date: 2024-09-18 22:53:55
-updated: 2024-09-20 12:32:33
+date: 2024-12-29T20:17:23.920Z
+updated: 2025-01-06T00:35:25.071Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/topic/cloud/    https://www.zdnet.com/a/img/res
 OpenStack clouds are heading for multi-billion dollar revenue.
 
 One bit of accepted wisdom in some cloud circles is that [OpenStack](https://www.openstack.org/), the open-source Infrastructure as a Service (IaaS) cloud, is declining. Nothing could be further from the truth. It's alive, well, and growing like crazy. According to the [2022 OpenStack User Survey](https://www.openstack.org/user-survey/2022-user-survey-report), OpenStack now has over 40 million production cores. Or, in other words, it's seen 60% growth since 2021 and a 166% jump since 2020\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -53,11 +57,33 @@ Put it all together, and as OpenInfra Foundation's general manager Thierry Carre
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-from-chaos-to-calm-quick-edits-for-your-overwhelming-tiktok-drafters/"><u>[New] 2024 Approved From Chaos to Calm Quick Edits for Your Overwhelming TikTok Drafters</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-from-novice-to-master-photographer-with-lunapic/"><u>[New] In 2024, From Novice to Master Photographer with LunaPic</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-professional-movie-making-on-youtube-and-similar-software/"><u>[Updated] 2024 Approved Professional Movie Making on YouTube & Similar Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/act-now-before-youre-too-late-protect-your-data-as-google-faces-backlash-over-plans-to-purge-inactive-accounts-tech-news/"><u>Act Now Before You're Too Late! Protect Your Data as Google Faces Backlash Over Plans to Purge Inactive Accounts | Tech News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alarming-trends-in-corporate-cloud-security-amidst-rapid-ai-advancement-insights-from-zdnet/"><u>Alarming Trends in Corporate Cloud Security Amidst Rapid AI Advancement: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/all-you-need-to-know-about-ai-the-ultimate-breakdown-of-artificial-intelligence-zdnet-deep-dive-into-machine-minds/"><u>All You Need to Know About AI: The Ultimate Breakdown of Artificial Intelligence | ZDNET Deep Dive Into Machine Minds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-expands-presence-in-australia-introduces-melbourne-region-and-invests-heavily-for-future-growth-zdnet-news/"><u>AWS Expands Presence in Australia: Introduces Melbourne Region and Invests Heavily for Future Growth | ZDNET News</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-rely-on-chatgpt-or-bard-for-your-financial-guidance-needs/"><u>Can You Rely on ChatGPT or Bard for Your Financial Guidance Needs?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-new-aws-powered-enterprise-ai-chatbot-your-free-trial-guide-on-zdnet/"><u>Discover the New AWS-Powered Enterprise AI Chatbot: Your FREE Trial Guide on ZDNet!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/embracing-the-cloud-revolution-unveiling-its-environmental-impact/"><u>Embracing the Cloud Revolution: Unveiling Its Environmental Impact</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-c12-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia C12 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-creating-an-athletic-channel-on-apple-hardware/"><u>In 2024, Creating an Athletic Channel on Apple Hardware</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-motorola-moto-g84-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Motorola Moto G84 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jumpstart-your-conversations-5-secretive-power-ups-in-gpt/"><u>Jumpstart Your Conversations: 5 Secretive Power-Ups in GPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/leap-forward-in-workflow-mastering-window-redos-shortcuts/"><u>Leap Forward in Workflow: Mastering Window Redos Shortcuts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-learning-management-solutions-comprehensive-guide-to-leading-lms-options/"><u>Top-Ranked Learning Management Solutions: Comprehensive Guide to Leading LMS Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/water-splitting-photolysis/"><u>Water Splitting (Photolysis)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/what-perks-worthy-of-my-currency-could-twitter-offer-instead-of-pay-for-verification/"><u>What Perks Worthy of My Currency Could Twitter Offer Instead of Pay-for-Verification?</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Booming Industry Trends: The Skyrocketing Value of Cybersecurity, Cloud Computing, and Programming Expertise"
-date: 2024-09-18 16:34:28
-updated: 2024-09-20 11:56:23
+date: 2024-12-30T19:08:22.425Z
+updated: 2025-01-06T03:19:04.303Z
 tags:
   - cloud
 categories:
@@ -39,6 +39,10 @@ Gone are the days when employees can simply use their mother's maiden name as th
 
 "Being able to protect yourself at an individual level is an increasingly critical skill."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Calling all coders
 
 Coding will also see continued and intense demand in 2023 and beyond.
@@ -63,6 +67,10 @@ In conjunction with cloud-related skills, developers can recession-proof themsel
 
 "By mastering modern software delivery processes, developers will be able to demonstrate how they can add value and directly address business challenges."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A new type of software developer?
 
 As the scale and growth of software development accelerates, and with ongoing AI developments in programming and engineering, the role requirements of software development also look set to change.
@@ -79,6 +87,10 @@ Indeed, Sander van't Noordende, CEO of Randstad, says the rapid growth of AI and
 
 "The human traits that set us apart from machines -- like empathy and creativity -- remain crucial in labor markets and talent and employers should prioritize them alongside technical skills."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The challenge for leadership
 
 Leadership will also be key to maintaining growth stability over the next 12 months, particularly hiring, retention and upskilling challenges continue to impact the business.
@@ -88,6 +100,10 @@ Melina Masnatta, Learning & DEI global director at Globant, believes that invest
 Specifically, Masnatta says leaders will be responsible for providing the structure and resources to develop skillsets among teams, and effectively managing upskilling across the organization. "It will be the leader's responsibility to engage and empower their teams, often remotely," Masnatta tells ZDNET. 
 
 "High-performing working environments are driven by high psychological safety within teams. Future and present leaders face the challenge of fostering that psychological safety from a distance."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **More on the tech trends to watch in 2023:**
 
@@ -105,11 +121,33 @@ Specifically, Masnatta says leaders will be responsible for providing the struct
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-creating-seamless-ps4-streams-using-obs-studio-tools-for-2024/"><u>[New] Creating Seamless PS4 Streams Using OBS Studio Tools for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-crafting-captivating-podcasts-a-step-by-step-writing-guide/"><u>[New] In 2024, Crafting Captivating Podcasts A Step-by-Step Writing Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-quick-recording-visuals-plus-verbal-input/"><u>[Updated] 2024 Approved Quick Recording Visuals + Verbal Input</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-sound-sleuths-unite-free-beats-tracking-tools/"><u>[Updated] 2024 Approved Sound Sleuths Unite! Free Beats-Tracking Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlock-the-power-of-instagram-reels-with-these-strategies/"><u>[Updated] In 2024, Unlock the Power of Instagram Reels with These Strategies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-a-journey-through-colors-leading-tutorials-for-grading-and-correction/"><u>2024 Approved A Journey Through Colors Leading Tutorials for Grading & Correction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/embracing-the-next-era-transitioning-from-hybrid-to-edge-and-ai-in-cloud-tech-insights-and-trends-zdnet/"><u>Embracing the Next Era: Transitioning From Hybrid to Edge and AI in Cloud Tech - Insights & Trends | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/everything-is-moving-to-the-cloud-but-how-green-is-it-really/"><u>Everything Is Moving to the Cloud. But How Green Is It, Really?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-canonicals-new-release-an-advanced-user-friendly-and-cost-free-cloud-solution-unveiled-zdnet/"><u>Exploring Canonical's New Release: An Advanced, User-Friendly, and Cost-Free Cloud Solution Unveiled | ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-why-razer-synapse-wont-launch/"><u>Fixing the Issue: Why Razer Synapse Won't Launch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-how-to-for-incorporating-media-onto-your-youtube-shelves/"><u>In 2024, The Complete How-To for Incorporating Media Onto Your YouTube Shelves</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/insignia-usb-ethernet-converter-driver-download/"><u>Insignia USB-Ethernet Converter Driver Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-it-accurate-prediction-the-story-of-180-weather-experts-providing-reliable-forecasts-insights-from-zdnet/"><u>Is It Accurate Prediction? The Story of 180 Weather Experts Providing Reliable Forecasts - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-major-obstacles-small-enterprises-embrace-innovative-tech-solutions-insights-from-zdnet/"><u>Navigating Major Obstacles: Small Enterprises Embrace Innovative Tech Solutions - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-containers-permanently-using-rust-the-power-of-edera-unveiled-on-zdnet/"><u>Secure Containers Permanently Using Rust: The Power of Edera Unveiled on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/singaporean-companies-battle-onslaugt-of-cyberattacks-as-ransomware-and-phishing-persist-zdnet-report/"><u>Singaporean Companies Battle Onslaugt of Cyberattacks as Ransomware and Phishing Persist | ZDNET Report</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smooth-drum-rollers/"><u>Smooth Drum Rollers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smooth-drum-rollers-are-not-suitable-for-compacting-fine-grained-cohesive-soils-because-they-cannot-effectively-apply-pressure-below-the-surface-layer/"><u>Smooth Drum Rollers Are Not Suitable for Compacting Fine-Grained, Cohesive Soils because They Cannot Effectively Apply Pressure Below the Surface Layer.</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/superior-scriptwriting-for-soundtracks-for-2024/"><u>Superior Scriptwriting for Soundtracks for 2024</u></a></li>
+</ul></div>
+

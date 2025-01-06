@@ -1,7 +1,7 @@
 ---
 title: "Microsoft, Google Face New Competition: Amazon Unveils Cutting-Edge AI Technologies to Challenge ChatGPT"
-date: 2024-09-18 14:58:11
-updated: 2024-09-20 12:57:16
+date: 2025-01-04T17:42:43.705Z
+updated: 2025-01-05T19:02:14.701Z
 tags:
   - cloud
 categories:
@@ -66,11 +66,37 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-viral-velocity-on-instagram-leveraging-video-and-likes/"><u>[New] 2024 Approved Viral Velocity on Instagram Leveraging Video & Likes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-frame-by-frame-helpdesk-for-2024/"><u>[New] Frame by Frame Helpdesk for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-mac-captures-compilation-under-156-chars/"><u>[Updated] In 2024, Essential Mac Captures Compilation (Under 156 Chars)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-bluehost-hosting-reviewed-excellent-operations-user-friendly-control-panel-and-reliable-customer-service-techradar/"><u>1. Bluehost Hosting Reviewed: Excellent Operations, User-Friendly Control Panel & Reliable Customer Service | TechRadar</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-in-class-chromebook-recording-app/"><u>2024 Approved Best in Class Chromebook Recording App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ais-role-in-alleviating-cloud-cost-surprises-boon-or-bane-insights-on-tech/"><u>AI's Role in Alleviating Cloud Cost Surprises: Boon or Bane? | Insights on Tech</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/aspect-ratio-guide-to-enhanced-facebook-viewing/"><u>Aspect Ratio Guide to Enhanced Facebook Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/begin-your-personal-substack-publication-today-insights-from-zdnet/"><u>Begin Your Personal Substack Publication Today - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-security-essentials-how-to-fortify-your-digital-perimeter-and-outsmart-hackers-expert-advice-from-zdnet/"><u>Cloud Security Essentials: How to Fortify Your Digital Perimeter and Outsmart Hackers | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-ai-comprehensive-zdnets-look-at-what-artifical-intelligence-really-means-and-how-it-works/"><u>Decoding AI: Comprehensive ZDNet's Look at What Artifical Intelligence Really Means and How It Works</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-global-communication-with-google-workspaces-new-multilingual-feature/"><u>Enhancing Global Communication with Google Workspace's New Multilingual Feature</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-authenticate-your-yt-account-a-hint-list/"><u>How to Authenticate Your YT Account? A Hint List</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/overlooked-masterpieces-unique-free-speech-to-text-apps-for-mac/"><u>Overlooked Masterpieces Unique Free Speech-to-Text Apps for Mac</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-20-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 20 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rocky-linux-gains-momentum-with-top-linux-experts-backing-core-infrastructure-integration-project/"><u>Rocky Linux Gains Momentum with Top Linux Experts Backing Core Infrastructure Integration Project</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-hacks-to-stop-usb-devices-from-losing-connection/"><u>Tech Hacks to Stop USB Devices From Losing Connection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-network-monitoring-solutions-of-2022-expert-recommendations-and-comparisons-techradar/"><u>Top Network Monitoring Solutions of 2022 - Expert Recommendations & Comparisons | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-human-resources-the-impact-of-oracles-integration-of-generative-ai-into-hr-solutions/"><u>Transforming Human Resources: The Impact of Oracle's Integration of Generative AI Into HR Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-y27-4g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo Y27 4G? Fixed | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

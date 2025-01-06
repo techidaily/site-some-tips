@@ -1,7 +1,7 @@
 ---
 title: "Don't Overlook Cloud Safety: Understand the Critical Impact on Your Business Today | ZDNet"
-date: 2024-09-18 22:15:20
-updated: 2024-09-20 12:47:51
+date: 2025-01-01T19:04:36.042Z
+updated: 2025-01-05T22:20:22.845Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
 Image: Getty
 
 As convenient as [cloud computing has become](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/), it isn't without problems. Poor cybersecurity planning for cloud applications, such as allowing users to rely on simple passwords, [failing to use multi-factor authentication](https://www.zdnet.com/article/multi-factor-authentication-use-it-for-all-the-people-that-access-your-network-all-the-time/) or [not applying patches and updates](https://www.zdnet.com/article/youve-still-not-patched-it-hackers-are-using-these-old-software-flaws-to-deliver-ransomware/), can leave you vulnerable to attacks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -46,6 +50,10 @@ The lack of understanding around configuring and securing cloud services can lea
 
 This isn't just a theoretical problem, as cases of misconfigured cloud environments exposing sensitive information are regularly uncovered. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 * [Best VPN services](https://www.zdnet.com/article/best-vpn/)
@@ -56,6 +64,10 @@ This isn't just a theoretical problem, as cases of misconfigured cloud environme
 "Organisations do not completely understand the cloud environment and a lack of expertise and skill set makes it difficult for businesses to identify and implement the right set of security controls to protect their cloud operations," says Prakash Venkata, principal within PwC's cybersecurity, risk and regulatory practice. 
 
 "Companies that seem to be ignoring cloud security altogether may be doing so due to a lack of understanding, a lack of skills and expertise, limited time due to competing corporate initiatives, or limited budget to invest in leading tools," he adds. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Security
 
@@ -76,6 +88,10 @@ If your organisation isn't on top of its cloud security strategy, it could be ea
 There are also additional steps that information security teams can take to bolster cybersecurity defences of cloud services, such as [rolling out multi-factor authentication to all users](https://www.zdnet.com/article/better-than-the-best-password-how-to-use-2fa-to-improve-your-security/). This provides an opportunity to stop and detect malicious intrusions before they happen, because even if the attacker has the correct password, the user has to confirm that it's a legitimate login attempt.
 
 "Identity access management, the ability to ensure that networks' data system services can only be accessed by by authorized parties, that's really the essential bit," says Nurse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -98,6 +114,10 @@ However, your choice of cloud service provider could make a significant differen
 
 Even when you have a cybersecurity strategy around cloud in place, that's not the end of the journey – and much like when you first start using cloud services, you can't just ignore it and hope for the best. Cybersecurity is always evolving, new threats emerge, and new strategies need to be applied to help keep networks and users as safe and secure as possible. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -112,11 +132,31 @@ Even when you have a cybersecurity strategy around cloud in place, that's not th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-connected-healing-telemedicine-evolved/"><u>[New] In 2024, Connected Healing Telemedicine Evolved</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quantum-hdr-explained-the-ultimate-resource/"><u>[New] Quantum HDR Explained The Ultimate Resource</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unraveling-tales-the-top-storytelling-channels-on-yt-this-year/"><u>[New] Unraveling Tales The Top Storytelling Channels on YT This Year</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-extracting-vimeo-videos-for-mp3-playback/"><u>[Updated] 2024 Approved Extracting Vimeo Videos for MP3 Playback</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-magic-5-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor Magic 5 Pro System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-specialist-reveals-alarming-prevalence-of-hidden-political-deepfakes-zdnet-insights/"><u>AI Specialist Reveals Alarming Prevalence of Hidden Political Deepfakes | ZDNET Insights</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/cheap-and-secure-with-vuebells-video-doorbell-in-depth-evaluation/"><u>Cheap and Secure with VueBell's Video Doorbell - In-Depth Evaluation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enterprise-linux-evolves-with-ai-integration-by-red-hat-a-game-changing-update-for-businesses/"><u>Enterprise Linux Evolves with AI Integration by Red Hat – A Game-Changing Update for Businesses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-pros-and-cons-of-ai-in-programming-insights-from-zdnet/"><u>Exploring the Pros and Cons of AI in Programming: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/finding-order-in-the-open-source-jungle-expert-solutions-for-better-linux-documentation-management/"><u>Finding Order in the Open Source Jungle: Expert Solutions for Better Linux Documentation Management</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-7-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 7 Plus without Password?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-or-install-hp-universal-printing-applications-ufd/"><u>How to Update or Install HP Universal Printing Applications (UFD)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/learning-artificial-intelligence-without-a-tech-background-the-necessity-of-multidisciplinary-approaches-in-intricate-systems/"><u>Learning Artificial Intelligence Without a Tech Background: The Necessity of Multidisciplinary Approaches in Intricate Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/revolutionize-your-virtual-engagements-with-advanced-google-meet-customization/"><u>Revolutionize Your Virtual Engagements with Advanced Google Meet Customization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-innovator-radia-perlman-recognized-as-networking-legend-in-pioneering-ethernet-developer-spotlight/"><u>Tech Innovator Radia Perlman Recognized as Networking Legend in Pioneering Ethernet Developer Spotlight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-work-deciphering-the-mysterious-new-roles-created-by-artifice-intelligence-zdnet-insights/"><u>The Future of Work: Deciphering the Mysterious New Roles Created by Artifice Intelligence - ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-winamps-new-direction-beyond-open-source-exploring-its-upcoming-initiatives-insights-and-analysis-by-zdnet/"><u>Unveiling Winamp's New Direction: Beyond Open Source - Exploring Its Upcoming Initiatives | Insights & Analysis by ZDNET</u></a></li>
+</ul></div>
+

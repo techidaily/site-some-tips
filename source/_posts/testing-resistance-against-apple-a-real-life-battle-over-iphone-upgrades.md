@@ -1,7 +1,7 @@
 ---
 title: "Testing Resistance Against Apple: A Real-Life Battle Over iPhone Upgrades"
-date: 2024-12-23T16:26:08.759Z
-updated: 2024-12-27T16:47:36.277Z
+date: 2024-12-29T16:07:05.189Z
+updated: 2025-01-05T22:26:11.962Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ There's a reason the Apple Watch is acclaimed as one of the best smartwatches in
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. A less-distracting extension of your iPhone
@@ -62,10 +62,6 @@ The watch is also a great way to reduce distractions. When you have your phone o
 
 Of course, your mileage may vary with this experience. Not everyone has or wants a cellular-connected Apple Watch, and all the dings and buzzes you get during the day can be distracting. But for me, having the watch strapped to my wrist and paired with my phone number makes it incredibly easy to cut the reliance on my phone and reduce the temptation to get carried away with all the apps I have installed. It's great.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. A truly great fitness-tracking experience
 
 Jason Hiner/ZDNET
@@ -79,7 +75,7 @@ From the concept of "closing your rings" every day (and the various awards you c
 Apple's platform isn't perfect, mind you. You'll find better sleep-tracking information on other watches, like the Google Pixel Watch 2, you don't get any recovery information _at all_, and the Health app doesn't proactively tell you whether you're improving during your fitness journey. Still, for general consumers and fitness enthusiasts, using the Apple Watch for health tracking is a fantastic experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Notifications you want to interact with
@@ -91,7 +87,7 @@ I can't tell you how many times I've used a smartwatch and wanted it to replicat
 Seriously, the Apple Watch's notification system is excellent. A gentle tap on the wrist lets you know something has just popped up, while the animation from app icon to notification is fast and clear. You can swipe the alert away with minimal effort, the notification shade is tight yet descriptive, and any notification you dismiss is also dismissed from your phone (a synchronization many Android phones don't have when paired with a smartwatch). The Apple Watch has the best notifications in the game, bar none.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The greatest haptics on any watch
@@ -104,10 +100,6 @@ One reason notifications are so good is the Apple Watch's Taptic Engine, which d
 
 The feel of haptics on a watch can set the tone for how you perceive the quality of the device. My [ScanWatch from Withings](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWithings-ScanWatch-Light-Smartwatch-Monitoring%2Fdp%2FB0CG9RZFLN%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1), for example, buzzes like a cheap cell phone from 2014\. My [Galaxy Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Bluetooth-Smartwatch-Personalized-Advanced%2Fdp%2FB0C797946T%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd68bc2ab-4b95-4dbb-8461-3abb4a46ecac%7Cdtp&dtb=1)'s vibrations are stronger and not as buzzy, but feel unnatural. The Apple Watch's haptics feel the most natural by far, which makes the watch feel great to wear by extension.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Navigating with Apple Maps
 
 Can you use other smartwatches to navigate to a new destination? You absolutely can. Am I unjustifiably biased towards the Apple Watch for having my favorite navigation experience? Yes, I am.
@@ -117,6 +109,10 @@ So, what makes navigating with Apple Maps on my Apple Watch so good? I like Siri
 **Also: [Apple Maps vs. Google Maps, which is best?](https://www.zdnet.com/article/apple-maps-vs-google-maps/)**
 
 If I'm going somewhere I've never been, I wear my Apple Watch simply for the navigation perks. Yes, you'll find a similar experience on other smartwatch platforms, but I like Apple's the most. Sue me.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. watchOS is the best smartwatch platform
 
@@ -131,6 +127,10 @@ Everything about watchOS is amazing. It's fast, fluid, easy to use, and has a hu
 The platform just works the way you'd expect. When paired to your iPhone, so many of your settings will sync with your Apple Watch that it'll feel like you've customized the device without diving into settings. App notifications, Focus modes, Wi-Fi networks, and more all sync with your watch automatically, allowing you to hit the ground running when you strap your Apple Watch to your wrist.
 
 When I have to test a new Wear OS watch, I immediately miss using watchOS. It feels clunkier and slower, the watch faces aren't as nice (although there are some decent third-party options), and the apps aren't as good. If you want the best smartwatch software experience and have to ditch your Android phone for an iPhone, making that switch is worth it. I have friends who have switched to the iPhone simply because the Apple Watch and watchOS are so good.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -166,19 +166,18 @@ While the [Apple Watch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=http
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-artful-stop-motion-animation-the-best-15-films-for-2024/"><u>[New] Artful Stop-Motion Animation - The Best 15 Films for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-explore-chromes-full-screen-multitasking-capabilities/"><u>[New] In 2024, Explore Chrome's Full-Screen Multitasking Capabilities</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pinnacle-goggles-ranking-best-5-for-drone-flyers/"><u>[New] Pinnacle Goggles Ranking Best 5 for Drone Flyers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-watching-nba-in-real-time/"><u>[New] The Ultimate List Watching NBA in Real-Time</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flip-it-right-youtube-video-retrospectives-with-tips/"><u>[Updated] 2024 Approved Flip It Right YouTube Video Retrospectives (With Tips!)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-luminous-color-corrector-kit/"><u>[Updated] Luminous Color Corrector Kit</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-quick-and-the-funny-with-kinemaster-memes/"><u>[Updated] The Quick and the Funny with KineMaster Memes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-split-between-panoramic-and-virtual-realities/"><u>[Updated] The Split Between Panoramic & Virtual Realities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-creating-impactful-ae-titles/"><u>2024 Approved The Art of Creating Impactful AE Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-instagram-image-addition-playbook/"><u>2024 Approved The Instagram Image Addition Playbook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-inner-meme-maestro-with-these-9gag-insights/"><u>2024 Approved Unlock Your Inner Meme Maestro with These 9GAG Insights</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ced-editing-for-published-youtube-videos/"><u>Advanced Editing for Published YouTube Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-s18e-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo S18e to Roku | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-perfecting-your-videos-farewell-scene/"><u>[Updated] Perfecting Your Video's Farewell Scene</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-different-view-unique-changes-to-windows-11s-file-explorer/"><u>A Different View: Unique Changes to Windows 11'S File Explorer</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>Best 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-leap-forward-with-llama-v31-by-meta-how-genai-is-evolving-a-zdnet-analysis/"><u>Exploring the Leap Forward with LLaMA v3.1 by Meta: How GenAI Is Evolving – A ZDNET Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-proof-your-team-transforming-traditional-strategies-for-acquiring-tech-professionals/"><u>Future-Proof Your Team: Transforming Traditional Strategies for Acquiring Tech Professionals</u></a></li>
+<li><a href="https://solve-help.techidaily.com/guide-migrating-your-single-user-program-license-across-multiple-computers/"><u>Guide: Migrating Your Single-User Program License Across Multiple Computers</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nubia-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nubia Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-your-journey-into-ai-discover-how-superduperdb-makes-it-effortless-zdnet-insights/"><u>Streamlining Your Journey Into AI - Discover How SuperDuperDB Makes It Effortless | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolutionary-journey-of-a-tech-leader-steering-stack-overflows-expansion-under-the-zdnet-lens-a-ctos-story/"><u>The Evolutionary Journey of a Tech Leader: Steering Stack Overflow's Expansion Under the ZDNet Lens - A CTO’s Story</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-apples-strategy-why-reducing-senior-roles-to-associate/"><u>Unraveling Apple's Strategy: Why Reducing Senior Roles to 'Associate'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-guide-to-winning-with-agility-in-software-design-unveiling-six-essential-principles/"><u>ZDNet's Guide to Winning with Agility in Software Design: Unveiling Six Essential Principles</u></a></li>
 </ul></div>
 

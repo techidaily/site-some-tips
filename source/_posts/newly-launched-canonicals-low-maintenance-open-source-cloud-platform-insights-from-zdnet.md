@@ -1,7 +1,7 @@
 ---
 title: Newly Launched Canonical's Low-Maintenance, Open Source Cloud Platform - Insights From ZDNet
-date: 2024-09-18 16:43:24
-updated: 2024-09-20 10:35:19
+date: 2024-12-31T04:36:52.693Z
+updated: 2025-01-06T03:00:13.902Z
 tags:
   - cloud
 categories:
@@ -66,11 +66,28 @@ Read more about Canonical's MicroCloud from the [official GitHub page](https://g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-leveraging-spotifys-advertising-mechanisms-for-2024/"><u>[New] Leveraging Spotify's Advertising Mechanisms for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-thumbnails-that-attract-techniques-for-youtube-image-resizing/"><u>[Updated] In 2024, Thumbnails That Attract Techniques for YouTube Image Resizing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-cutting-edge-techniques-recording-in-adobe-presenter/"><u>2024 Approved Cutting Edge Techniques Recording in Adobe Presenter</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-nvidia-geforce-mx150-graphics-card-drivers-on-windows-pc/"><u>Download NVIDIA GeForce MX150 Graphics Card Drivers on Windows PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-stack-overflow-expertise-how-gemini-ai-of-google-cloud-enhances-data-intelligence-zdnet-report/"><u>Leveraging Stack Overflow Expertise: How Gemini AI of Google Cloud Enhances Data Intelligence – ZDNet Report</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-amazon-aws-with-ease-a-detailed-business-handbook-for-harnessing-the-power-of-the-premier-cloud-service-giant-zdnet-insights/"><u>Navigating Amazon AWS with Ease: A Detailed Business Handbook for Harnessing the Power of the Premier Cloud Service Giant | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/singapores-strategic-roadmap-pioneering-generative-ai-and-autonomy-insights-from-zdnet/"><u>Singapore's Strategic Roadmap: Pioneering Generative AI & Autonomy - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/skyward-storage-solutions-top-rated-selections-for-2024/"><u>Skyward Storage Solutions Top-Rated Selections for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-dual-challenge-for-cybersecurity-staff-acquiring-modern-expertise-while-juggling-aged-infrastructure-upkeep/"><u>The Dual Challenge for Cybersecurity Staff: Acquiring Modern Expertise While Juggling Aged Infrastructure Upkeep</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/uniting-voices-how-to-speak-with-your-youtube-community-for-2024/"><u>Uniting Voices How to Speak With Your YouTube Community for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

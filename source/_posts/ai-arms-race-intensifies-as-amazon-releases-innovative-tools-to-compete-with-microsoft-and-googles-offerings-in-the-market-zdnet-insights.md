@@ -1,7 +1,7 @@
 ---
 title: AI Arms Race Intensifies as Amazon Releases Innovative Tools To Compete With Microsoft and Google's Offerings in the Market | ZDNET Insights
-date: 2024-09-17 11:39:46
-updated: 2024-09-20 10:13:21
+date: 2024-12-30T22:05:29.819Z
+updated: 2025-01-05T19:50:14.707Z
 tags:
   - cloud
 categories:
@@ -66,11 +66,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-best-sites-to-buy-monetized-youtube-channels-for-beginners/"><u>[New] Best Sites to Buy Monetized YouTube Channels for Beginners</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-recordwin11-no-fuss-easy-screen-recorder-for-pcs/"><u>[New] RecordWin11 No-Fuss, Easy Screen Recorder for PCs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-estimating-youtube-advertising-costs-for-2024/"><u>[Updated] Estimating YouTube Advertising Costs for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-rapid-learning-from-visuals-to-vivid-youtube-channel-thumbnails/"><u>[Updated] In 2024, Rapid Learning From Visuals To Vivid YouTube Channel Thumbnails</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibaba-cloud-embraces-gpt-powered-innovation-with-new-ai-offering-for-users/"><u>Alibaba Cloud Embraces GPT-Powered Innovation with New AI Offering for Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/answer/"><u>Answer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-issues-with-intel-optane-storage-easy-driver-download-and-update-tips-for-windows-users/"><u>Fixing Issues with Intel Optane Storage: Easy Driver Download & Update Tips for Windows Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-conquering-zoom-meetings-a-tech-savvy-setup-strategy/"><u>In 2024, Conquering Zoom Meetings A Tech-Savvy Setup Strategy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-7-alarm-apps-you-need-for-a-perfect-morning-routine/"><u>The Best 7 Alarm Apps You Need for a Perfect Morning Routine</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cloud-server-platforms-comprehensive-reviews-by-professionals-techradar/"><u>Top-Rated Cloud Server Platforms: Comprehensive Reviews by Professionals | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tier-cloud-hosting-platforms-industry-experts-weigh-in-zdnet-review/"><u>Top-Tier Cloud Hosting Platforms: Industry Experts Weigh In - ZDNet Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-leadership-overhaul-at-alibaba-as-chief-exec-shifts-emphasis-to-cloud-services-reports-zdnet/"><u>Upcoming Leadership Overhaul at Alibaba as Chief Exec Shifts Emphasis to Cloud Services, Reports ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-reports-amazon-unveils-innovative-app-studio-and-advanced-ai-guardrails-during-aws-summit/"><u>ZDNet Reports: Amazon Unveils Innovative App Studio & Advanced AI Guardrails During AWS Summit</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

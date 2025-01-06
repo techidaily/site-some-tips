@@ -1,7 +1,7 @@
 ---
 title: How Tencent Is Shaping China's GenAI Race with New Foundation Model for Businesses | Latest From ZDNET
-date: 2024-09-19 16:38:35
-updated: 2024-09-20 10:29:46
+date: 2024-12-30T04:06:44.624Z
+updated: 2025-01-05T23:40:39.784Z
 tags:
   - cloud
 categories:
@@ -80,11 +80,35 @@ Generative AI service providers also assume legal responsibility for the informa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-best-practices-apps-and-sites-mastering-photo-framing/"><u>[New] Best Practices Apps & Sites - Mastering Photo Framing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-digital-dive-essential-recording-tactics-for-shows/"><u>[New] Digital Dive Essential Recording Tactics for Shows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-leads-with-launch-of-innovative-private-5g-offering-at-reinvent-2021-dive-into-the-details-on-zdnet/"><u>AWS Leads with Launch of Innovative Private 5G Offering at Re:invent 2021 - Dive Into the Details on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparative-analysis-amazon-echo-studio-vs-sonos-era-insights-and-purchase-recommendations/"><u>Comparative Analysis: Amazon Echo Studio Vs. Sonos Era - Insights & Purchase Recommendations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-common-video-and-audio-file-types-compatible-with-android/"><u>Comprehensive Guide: Common Video & Audio File Types Compatible with Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/corporate-contradictions-amazons-generosity-vs-workforce-downsizing-explored/"><u>Corporate Contradictions: Amazon's Generosity Vs. Workforce Downsizing Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-hidden-perks-of-amazon-echos-enhancing-consumer-satisfaction-expert-analysis-by-zdnet/"><u>Discover the Hidden Perks of Amazon Echos Enhancing Consumer Satisfaction | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-management-features-in-amazons-aws-lake-formation-a-dive-into-advanced-configurability/"><u>Enhanced Management Features in Amazon's AWS Lake Formation: A Dive Into Advanced Configurability</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-advice-for-dealing-with-realtek-universal-card-driver-errors-the-ultimate-fix/"><u>Expert Advice for Dealing With Realtek Universal Card Driver Errors - The Ultimate Fix</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-prime-video-ad-integration-could-it-persuade-subscribers-to-unsubscribe/"><u>Exploring Prime Video Ad Integration - Could It Persuade Subscribers to Unsubscribe?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-techkey-bluetooth-device-drivers-now-for-windows-8710-systems/"><u>Get Your Techkey Bluetooth Device Drivers Now - For Windows 8/7/10 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hdrs-edge-pushing-video-production-to-new-heights/"><u>HDR's Edge Pushing Video Production to New Heights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-a-small-act-of-kindness-by-amazon-surprised-and-touched-my-heart-insights-from-zdnet/"><u>How a Small Act of Kindness by Amazon Surprised and Touched My Heart - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-amazon-prepares-you-for-tomorrows-ai-demands-with-tailored-training-solutions/"><u>How Amazon Prepares You for Tomorrow's AI Demands with Tailored Training Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-hitman-e3-link-up-problems-in-minutes/"><u>Resolve Your Hitman E3 Link-Up Problems in Minutes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unmatched-portability-meets-power-an-exclusive-look-at-the-hp-zbook-firefly-15-g8/"><u>Unmatched Portability Meets Power: An Exclusive Look at the HP ZBook Firefly 15 G8</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: The Unspoken Disappointment of Switching to iPhone OS iOS 18 - You're Not the Only One Feeling This Way!
-date: 2024-12-15T21:58:53.891Z
-updated: 2024-12-22T04:06:59.416Z
+date: 2024-12-31T00:18:08.881Z
+updated: 2025-01-06T01:09:30.937Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,21 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-rapid-review-windows-files-made-simple/"><u>[New] In 2024, Rapid Review Windows Files Made Simple</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/found000/"><u>重要指南：緊急救援 Found.000夾文件內遺失檔案</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-boost-your-sites-engagement/"><u>Cookiebot-Enhanced User Experience: Boost Your Site's Engagement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-enhancing-your-websites-seo-and-conversion-rates/"><u>Cookiebot-Enhanced: Enhancing Your Website's SEO and Conversion Rates</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-fueled-optimize-your-website-with-advanced-tracking-tools/"><u>Cookiebot-Fueled: Optimize Your Website with Advanced Tracking Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/elevating-robotic-process-automation-outcomes-with-cutting-edge-process-analytics-abbyy/"><u>Elevating Robotic Process Automation Outcomes with Cutting-Edge Process Analytics | ABBYY</u></a></li>
-<li><a href="https://some-tips.techidaily.com/empowerment/"><u>Empowerment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-site-functionality-with-our-cookiebot-integration-solutions/"><u>Enhance Site Functionality with Our Cookiebot Integration Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-sites-traffic-with-cutting-edge-cookiebot-technology/"><u>Enhance Your Site's Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://win-answers.techidaily.com/free-conversion-tools-effortlessly-switching-from-mp4-to-ts-file-types-heres-how/"><u>Free Conversion Tools: Effortlessly Switching From MP4 to TS File Types, Here's How</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-claude-ai-surpasses-chatgpt-exploring-four-key-differences/"><u>How Claude AI Surpasses ChatGPT: Exploring Four Key Differences</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-7-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 7 Plus and iPad?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-itel-p55-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Itel P55? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/overcome-gameplay-problems-on-windows-11-with-these-6-effective-fixes/"><u>Overcome Gameplay Problems on Windows 11 with These 6 Effective Fixes</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-media-purity-drive-excluding-polityfaith-talk/"><u>Social Media Purity Drive: Excluding Polity/Faith Talk</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-free-video-fx-apps-for-ios-and-android/"><u>Updated The Ultimate Guide to Free Video FX Apps for iOS and Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-azure-speech-to-text-your-ultimate-development-toolkit/"><u>[Updated] In 2024, Azure Speech-to-Text Your Ultimate Development Toolkit</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-master-the-art-of-viral-success-on-tiktok-with-top-7-must-haves-for-2024/"><u>[Updated] Master the Art of Viral Success on TikTok with Top 7 Must-Haves for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/burger-kings-double-take-on-negative-reviews-spurs-controversy-a-closer-look-by-zdnet/"><u>Burger King's Double-Take on Negative Reviews Spurs Controversy - A Closer Look by ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/buyers-best-guide-to-virtual-reality-cameras/"><u>Buyer's Best Guide to Virtual Reality Cameras</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-lenovo-display-intensity-levels/"><u>Enhancing Lenovo Display Intensity Levels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-and-techniques-to-resolve-the-dnssddll-not-found-dilemma/"><u>Expert Tips and Techniques to Resolve the dnssd.dll Not Found Dilemma</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-will-ai-created-evaluations-influence-your-future-purchases-on-amazon-unveiling-the-new-trend-zdnet/"><u>How Will AI-Created Evaluations Influence Your Future Purchases on Amazon? Unveiling the New Trend | ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-y100i-power-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo Y100i Power 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interacting-with-gpt-4-a-look-at-these-7-apps/"><u>Interacting with GPT-4: A Look at These 7 Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-pandemic-protection-zdnets-guide-to-optimal-mask-choices-and-covid-prevention-strategies-for-2n22/"><u>Navigating Through Pandemic Protection: ZDNET's Guide to Optimal Mask Choices and COVID Prevention Strategies for 2N22</u></a></li>
+<li><a href="https://some-tips.techidaily.com/starbucks-introduces-an-exciting-new-offering-learn-why-it-might-become-the-next-big-craze-analysis-by-zdnet/"><u>Starbucks Introduces an Exciting New Offering; Learn Why It Might Become the Next Big Craze | Analysis by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-revolution-at-southwest-a-surprising-leap-forward-that-shook-us-up-insights-from-zdnet/"><u>Tech Revolution at Southwest: A Surprising Leap Forward That Shook Us Up - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-race-for-robo-deliveries-spotlight-on-ubers-advances-according-to-zdnet/"><u>The Race for Robo-Deliveries: Spotlight on Uber's Advances - According to ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-enabling-or-disabling-wi-fi-cost-meter-in-windows-11/"><u>Tutorial: Enabling or Disabling Wi-Fi Cost Meter in Windows 11</u></a></li>
 </ul></div>
 

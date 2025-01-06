@@ -1,7 +1,7 @@
 ---
 title: How To Secure Your Own Apple Gift Card Worth $150 For Educational Use | ZDNet
-date: 2024-12-26T17:07:28.887Z
-updated: 2024-12-27T16:12:01.419Z
+date: 2025-01-03T18:29:18.795Z
+updated: 2025-01-05T20:22:46.020Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,22 +146,18 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-streamlined-zoom-utilization-a-chromebook-perspective/"><u>[New] Streamlined Zoom Utilization A Chromebook Perspective</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-3d-lut-expertise-in-a-quick-learning-journey/"><u>[Updated] In 2024, 3D LUT Expertise in a Quick Learning Journey</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-streaming-facebook-made-easy-pcmaclaptop-tips-and-tricks/"><u>[Updated] In 2024, Streaming Facebook Made Easy PC/Mac/Laptop Tips and Tricks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleashing-potential-with-the-vida-editing-suite/"><u>[Updated] Unleashing Potential with the Vida Editing Suite</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-a-rising-number-of-youtubers-fans/"><u>2024 Approved Strategies for a Rising Number of Youtubers' Fans</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tales-on-the-silver-screen-writing-for-cinema/"><u>2024 Approved Tales on the Silver Screen Writing for Cinema</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-future-of-editing-with-vita-a-complete-review/"><u>2024 Approved The Future of Editing with Vita - A Complete Review</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2013-file-by-stellar-guide/"><u>4 Ways to extract data from corrupt Excel 2013 file</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamifying-on-a-cellphone-the-pros-and-cons/"><u>Gamifying on a Cellphone: The Pros & Cons</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-auditory-artistry-in-storytelling/"><u>In 2024, Auditory Artistry in Storytelling</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-video-recording-and-editing-software-for-new-gamers/"><u>In 2024, Essential Video Recording & Editing Software for New Gamers</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-12-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 12 Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimal-energy-solutions-for-gopro-hero5-certified-and-third-party-for-2024/"><u>Optimal Energy Solutions for GoPro Hero5 Certified & Third-Party for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed-for-2024/"><u>Top 5 Cloud-Based Voice Customizers for Chrome OS Vocal Transformation Tools Reviewed for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-images-proven-pixlr-strategies-for-2024/"><u>Transform Your Images Proven Pixlr Strategies for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/video-magic-quick-angular-and-joint-editing-on-android/"><u>Video Magic Quick Angular and Joint Editing on Android</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-smooth-sailing-navigating-the-world-of-igtv-videos-for-2024/"><u>[New] Smooth Sailing Navigating the World of IGTV Videos for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-picture-perfect-in-the-sky-discover-infinite-complimentary-and-paid-cloud-repositories/"><u>[Updated] 2024 Approved Picture Perfect in the Sky Discover Infinite, Complimentary, & Paid Cloud Repositories</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-scansnap-drivers-seamlessly-on-windows-a-simple-guide/"><u>Download & Update ScanSnap Drivers Seamlessly on Windows – A Simple Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-fifa-19-dominating-the-world-of-sports-gaming/"><u>Exploring FIFA 19 - Dominating the World of Sports Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-ai-the-revolutionary-approach-of-using-machine-learning-and-computer-vision-in-retail-inventory-management/"><u>Harnessing AI: The Revolutionary Approach of Using Machine Learning & Computer Vision in Retail Inventory Management</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ideal-12-gift-choices-for-the-modern-hacker-must-have-items-endorsed-by-zdnet/"><u>Ideal 12 Gift Choices for the Modern Hacker: Must-Have Items Endorsed by ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-listen-to-podcasts-on-your-iphone/"><u>In 2024, How to Listen to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/samsungs-latest-duo-meets-apples-iphone-13-an-in-depth-spec-sheet-showdown/"><u>Samsung's Latest Duo Meets Apple's iPhone 13: An In-Depth Spec Sheet Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/slash-your-wardrobe-costs-a-revolutionary-chrome-shopbot-extension-reviewed-by-zdnet/"><u>Slash Your Wardrobe Costs: A Revolutionary Chrome Shopbot Extension Reviewed by ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/2-youtube-game-openers-both-free-and-fee-based-options/"><u>Top 12 YouTube Game Openers Both Free & Fee-Based Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-online-stores-for-purchasing-contact-lenses-recommended-by-zdnet/"><u>Top Online Stores for Purchasing Contact Lenses - Recommended by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-marriotts-bold-new-concept-for-ultimate-joy-insights-from-zdnet/"><u>Unraveling Marriott's Bold New Concept for Ultimate Joy - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-get-the-best-view-16-free-avi-video-rotators-for-perfect-orientation-on-any-device-for-2024/"><u>Updated Get the Best View 16 Free AVI Video Rotators for Perfect Orientation on Any Device for 2024</u></a></li>
 </ul></div>
 

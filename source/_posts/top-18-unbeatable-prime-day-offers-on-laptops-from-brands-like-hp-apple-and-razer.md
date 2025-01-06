@@ -1,7 +1,7 @@
 ---
 title: Top 18 Unbeatable Prime Day Offers on Laptops From Brands Like HP, Apple & Razer
-date: 2024-12-26T16:18:02.188Z
-updated: 2024-12-27T17:47:19.627Z
+date: 2025-01-02T23:58:40.144Z
+updated: 2025-01-05T19:17:26.293Z
 tags:
   - apple
 categories:
@@ -83,10 +83,6 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -103,12 +99,20 @@ HPZDNET
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day Lenovo deals
 
 Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -129,28 +133,24 @@ Kyle Kucharski/ZDNET
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff4dead4-6138-4578-af30-d8df3c440fc1%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
@@ -164,7 +164,7 @@ We also looked over customer reviews to find out what matters to real people who
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
@@ -230,17 +230,19 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-perfecting-pixels-how-to-choose-the-right-borders-on-ig-images/"><u>[New] In 2024, Perfecting Pixels How to Choose the Right Borders on IG Images</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-quickest-online-platforms-transforming-gif-into-video/"><u>[New] Quickest Online Platforms Transforming GIF Into Video</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-drone-enthusiasts-compendium-of-must-haves/"><u>[New] The Drone Enthusiast's Compendium of Must-Haves</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-a-detailed-walkthrough-of-internet-radio-logging/"><u>[New] The Ultimate Guide A Detailed Walkthrough of Internet Radio Logging</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-therapeutic-effects-of-asmr-for-everyone/"><u>[Updated] The Therapeutic Effects of ASMR for Everyone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-cinematic-dying-in-pro/"><u>2024 Approved The Art of Cinematic Dying in Pro</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/detailed-guide-to-screen-record-skype-via-obs-for-2024/"><u>Detailed Guide to Screen Record Skype via OBS for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-top-tech-picks-at-toms-hardware-store/"><u>Discover Top Tech Picks at Tom's Hardware Store</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-avoid-complexity-top-5-free-tools-for-effortless-gif-to-video-transformation/"><u>In 2024, Avoid Complexity Top 5 Free Tools for Effortless GIF to Video Transformation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-preserving-video-quality-while-converting-from-hevc-to-mp4/"><u>Step-by-Step Guide: Preserving Video Quality While Converting From HEVC to MP4</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-social-media-sounds-into-practical-mobile-alerts-for-2024/"><u>Transforming Social Media Sounds Into Practical Mobile Alerts for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-10-event-tracing-identifying-and-solving-critical-failures-successfully/"><u>Windows 10 Event Tracing: Identifying & Solving Critical Failures Successfully</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-camera-prospectus-ranking-the-top-5-superior-motion-cameras/"><u>[New] 2024 Approved Camera Prospectus Ranking the Top 5 Superior Motion Cameras</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>[Updated] In 2024, Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-securing-perfect-images-on-pc-check-out-these-top-5-tools/"><u>[Updated] In 2024, Securing Perfect Images on PC? Check Out These Top 5 Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-social-media-strategies-twitch-videos-for-fb-audience/"><u>[Updated] Social Media Strategies Twitch Videos for FB Audience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-for-enlarging-content-on-youtube-platform/"><u>[Updated] Techniques for Enlarging Content on YouTube Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-hd-encoding-devices-for-live-events/"><u>[Updated] Ultimate HD Encoding Devices for Live Events</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-access-to-ais-power-openai-launches-affordable-gpt-4-light-version-for-cutting-application-development-expenses/"><u>Get Access to AI's Power: OpenAI Launches Affordable GPT-4 Light Version for Cutting Application Development Expenses</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-intels-revolutionary-hala-point-powering-the-future-with-a-neuromorphic-beast-of-115-billions-neurons/"><u>Inside Intel's Revolutionary Hala Point: Powering the Future with a Neuromorphic Beast of 1.15 Billions Neurons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/linus-torvalds-discusses-rising-interest-in-rust-and-artificial-intelligence-influence-on-linux-development-tech-insights-by-zdnet/"><u>Linus Torvalds Discusses Rising Interest in Rust & Artificial Intelligence Influence on Linux Development | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/organizing-chaos-the-ultimate-fix-for-linux-and-open-source-doc-disarray-insights-from-zdnet/"><u>Organizing Chaos: The Ultimate Fix for Linux and Open Source Doc Disarray - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revealing-the-open-source-strategy-insights-from-jim-zemlin-of-the-linux-foundation-exclusive-on-zdnet/"><u>Revealing the Open-Source Strategy: Insights From Jim Zemlin of The Linux Foundation - Exclusive on ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-dota-2s-valve-anti-cheat-issues-effective-strategies-for-2e23-players/"><u>Solving Dota 2'S Valve Anti-Cheat Issues - Effective Strategies for 2E23 Players</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-iphone-and-android-video-editing-apps-for-gopro-for-2024/"><u>Top 10 iPhone & Android Video Editing Apps for GoPro for 2024</u></a></li>
 </ul></div>
 

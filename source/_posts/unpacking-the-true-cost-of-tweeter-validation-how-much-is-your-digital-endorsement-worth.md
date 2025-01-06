@@ -1,7 +1,7 @@
 ---
 title: "Unpacking the True Cost of Tweeter Validation: How Much Is Your Digital Endorsement Worth?"
-date: 2024-09-18 21:21:48
-updated: 2024-09-20 11:37:20
+date: 2025-01-03T22:35:27.727Z
+updated: 2025-01-05T20:19:03.453Z
 tags:
   - cloud
 categories:
@@ -21,6 +21,10 @@ But Twitter has been under the proverbial microscope ever since Elon Musk announ
 
 **Also:** [**Elon Musk promises not to make Twitter a 'free-for-all hellscape'**](https://www.zdnet.com/article/elon-musk-promises-not-to-make-twitter-a-free-for-all-hellscape/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [Wi-Fi problems? Add a wired network to your home without Ethernet cable - here's how](https://www.zdnet.com/article/wi-fi-problems-how-to-add-a-wired-network-to-your-home-without-ethernet-cable/)
@@ -37,6 +41,10 @@ So, for the company to be profitable in the long term, it needs an income stream
 While I will not rule out either of these two reasons as part of Musk's billionaire logic to justify his purchase of Twitter, let's take the acquisition at face value that the privatization of the company also means he wants to turn it around and transform the service into something people actually want to pay to use.
 
 **Also: [How to secure your Twitter account without two-factor authentication](https://www.zdnet.com/article/how-to-protect-your-twitter-account-without-sms-two-factor-authentication/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does Twitter verification mean?
 
@@ -56,7 +64,15 @@ Other services like LinkedIn understand this need to sponsor the press and offer
 
 But what does paying to play for verification mean? Does it devalue those of us that "earned" that verification, the journalists and celebs with large fan bases? If anyone can be verified, that just means you have money to blow on a stupid icon. That includes hate-spewing misogynists, racists, antisemites, anti-LGBTQ+, and other extremists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What I would pay for 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -80,11 +96,29 @@ _When it is released, will you "pay to play" for Twitter verification? Tell me b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-straightforward-guide-to-ios-screen-share-simplicity/"><u>[New] 2024 Approved Straightforward Guide to IOS Screen Share Simplicity</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-quickcapturepro-the-definitive-guide-to-windows-snaps/"><u>[Updated] QuickCapturePro The Definitive Guide to Windows Snaps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-choreographing-ideal-canon-time-lapse-shots/"><u>2024 Approved Choreographing Ideal Canon Time-Lapse Shots</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-recharge-and-reflect-top-ideas-for-combining-podcast-listening-and-tasks/"><u>2024 Approved Recharge and Reflect Top Ideas for Combining Podcast Listening & Tasks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-data-transfer-moving-information-from-your-android-to-iphone-in-just-two-steps-zdnet/"><u>Effortless Data Transfer: Moving Information From Your Android to iPhone in Just Two Steps! (ZDNet)</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/free-conversion-methods-transforming-jpgjpeg-files-into-pdf-easily/"><u>Free Conversion Methods: Transforming JPG/JPEG Files Into PDF Easily</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-14-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 14 Plus</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-12-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 12 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-pricing-transparency-how-generative-ai-impacts-business-strategies-insights-from-zdnet/"><u>Navigating Pricing Transparency: How Generative AI Impacts Business Strategies - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssional-filmmaking-essentials-ideal-lenses-to-consider/"><u>Professional Filmmaking Essentials Ideal Lenses to Consider</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-business-with-edge-to-cloud-tech-in-modern-digital-shifts-zdnet-insights/"><u>Revolutionizing Business with Edge-to-Cloud Tech in Modern Digital Shifts | ZDNet Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speed-up-your-system-secure-scsi-drivers-direct-download/"><u>Speed Up Your System: Secure SCSI Drivers Direct Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolving-landscape-of-tech-support-how-it-teams-adapt-to-hybrid-work-models-and-cloud-solutions-zdnet-insights/"><u>The Evolving Landscape of Tech Support: How IT Teams Adapt to Hybrid Work Models and Cloud Solutions | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-impressive-specs-of-iphone-16-arent-enough-a-critical-look-before-upgrading-tech-insights/"><u>Why the Impressive Specs of iPhone 16 Aren't Enough: A Critical Look Before Upgrading | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-explores-the-breakthrough-in-cross-cultural-interaction-via-google-workspace-pronunciation-update/"><u>ZDNet Explores the Breakthrough in Cross-Cultural Interaction via Google Workspace Pronunciation Update</u></a></li>
+</ul></div>
+

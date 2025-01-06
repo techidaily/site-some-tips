@@ -1,7 +1,7 @@
 ---
 title: AT&T and IBM Launch Co-Innovation Lab for Public Sector Advancement | Insights From ZDNet
-date: 2024-09-17 12:42:32
-updated: 2024-09-20 11:28:43
+date: 2024-12-30T03:26:43.262Z
+updated: 2025-01-05T16:51:08.339Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ AT&T and IBM [launched the collaboration](https://www.zdnet.com/article/ibm-form
 "One of the challenges that enterprises have to face when you think about 5G, cloud and edge computing is that it's accelerating pretty fast," William Stovall, AT&T's VP of mobility & IoT, said to _ZDNet_. "The challenge is, how do I undertake this, and how do I put it into practice. So to give enterprise customers a vehicle to see it in the works, and to have the opportunity to co-create, is a benefit that allows them a better roadmap to actually deploy these technologies."
 
 The co-innovation labs are designed to serve a range of industries, with clear use cases in areas like manufacturing and health care. The public sector has a number of compelling use cases, like delivering 5G-enabled communication services to first responders, or providing AR/VR environments to the military. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### MWC 2022
 
@@ -56,11 +60,25 @@ The opening of the new simulation lab will be particularly timely, given the imp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-simplified-guide-to-crafting-effective-instagram-loops/"><u>[New] In 2024, Simplified Guide to Crafting Effective Instagram Loops</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-s18emirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo S18eMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y56-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y56 5Gwith/without a PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-awss-exclusive-private-5g-offering-unveiled-by-the-leader-at-reignite-2021-insights-from-zdnet/"><u>Introducing AWS's Exclusive Private 5G Offering Unveiled by the Leader at Re:Ignite 2021 - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-productivity-with-notion-app-an-in-depth-review-and-personal-journey-on-how-this-essential-tool-transformed-my-task-management-zdnet/"><u>Maximize Productivity with Notion App: An In-Depth Review and Personal Journey on How This Essential Tool Transformed My Task Management | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-enhances-azure-with-ai-powered-kubernetes-operator-streamline-your-devops-on-azure/"><u>Microsoft Enhances Azure with AI-Powered Kubernetes Operator - Streamline Your DevOps on Azure</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigate-effortlessly-how-to-clear-your-browsers-youtube-cache-for-2024/"><u>Navigate Effortlessly How to Clear Your Browser's YouTube Cache for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unleash-engaging-videos-the-top-explainer-video-software/"><u>New In 2024, Unleash Engaging Videos The Top Explainer Video Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/persistent-threat-how-ransomware-and-phishing-stay-a-menace-to-sg-enterprises-insights-from-zdnet/"><u>Persistent Threat: How Ransomware & Phishing Stay a Menace to SG Enterprises, Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-to-do-list-with-kanban-integrate-google-tasks-and-taskboard-for-efficient-project-management-learn-how-on-zdnet/"><u>Streamline Your To-Do List with Kanban: Integrate Google Tasks and TaskBoard for Efficient Project Management - Learn How on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721382237884-twitter-without-smiley-face-linuss-hidden-knowledge-trojan-breakdown-and-ai-errors-examined/"><u>Twitter Without Smiley Face, Linus’s Hidden Knowledge, Trojan Breakdown, & AI Errors Examined</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unexpected 38%% Increase in Microsoft Teams Pricing Impacts Businesses | Forbes
-date: 2024-09-19 22:59:19
-updated: 2024-09-20 12:45:36
+date: 2025-01-01T19:09:24.871Z
+updated: 2025-01-06T05:51:30.866Z
 tags:
   - cloud
 categories:
@@ -53,6 +53,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How this might affect you
 
 Google is very much _not_ transparent about its Enterprise pricing plans. The [main Google Workspace pricing page](https://workspace.google.com/pricing.html?source=gafb-homepage-faq-en) simply says "Contact Sales." The [Google Workspace blog](https://workspace.google.com/blog/) doesn't mention anything about a price increase, at least as of the time of this writing. 
@@ -66,6 +70,10 @@ It is possible I've been hit with a higher price increase because of the amount 
 The [Fed may think inflation is under control](https://thehill.com/business/4411344-fed-is-within-striking-distance-of-inflation-goal-top-official-says/) at 2-4% annually, but cloudflation certainly still exists. In the last year, [Hulu raised prices](https://www.zdnet.com/home-and-office/home-entertainment/hulus-streaming-bundle-prices-are-going-up-again-heres-why-i-chose-youtubetv/), [Peacock raised prices](https://www.zdnet.com/home-and-office/home-entertainment/peacock-is-raising-subscription-prices-next-month-heres-what-you-need-to-know/), [YouTube Premium raised prices](https://www.zdnet.com/home-and-office/home-entertainment/youtube-premium-quietly-raises-subscription-prices/), [Spotify Premium raised prices](https://www.zdnet.com/home-and-office/home-entertainment/spotify-premium-is-raising-prices-for-the-first-time-ever/), [Apple raised some of its subscription prices](https://www.zdnet.com/home-and-office/home-entertainment/apple-is-raising-the-prices-for-some-of-its-popular-subscription-services/), and [the list goes on](https://www.zdnet.com/article/google-raises-prices-for-nest-aware-subscriptions-but-there-is-good-news/). 
 
 We recently did an audit of our cloud-based monthly expenses, and it's a fairly large percentage of our overall cost of doing business. The fact that it can suddenly balloon by inflation percentages you'd only expect in countries with unstable governments will probably cause every IT manager (and anyone with a cloud budget) to lose sleep at night. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to change your plan 
 
@@ -110,11 +118,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-engaging-local-audiences-with-social-media-videos/"><u>[New] 2024 Approved Engaging Local Audiences with Social Media Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-expert-video-capture-software-for-mac-moving-on-from-bandicamp-for-2024/"><u>[New] Expert Video Capture Software for Mac, Moving On From Bandicamp for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-5-freefire-techniques-for-gaming-vloggers/"><u>[New] Top 5 FreeFire Techniques for Gaming Vloggers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-best-5-video-recording-software-timelapse-edition/"><u>[Updated] 2024 Approved Best 5 Video Recording Software Timelapse Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-harmonizing-audioscapevisumedia-network/"><u>[Updated] Harmonizing Audioscape/Visumedia Network</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tips-for-amplifying-minecraft-performance-via-ram-increase/"><u>[Updated] In 2024, Tips for Amplifying Minecraft Performance via RAM Increase</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-essential-instructions-for-effective-use-of-telegram-browser/"><u>2024 Approved Essential Instructions for Effective Use of Telegram Browser</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evolution-of-developer-responsibilities-insights-from-atlassians-agnes-ro-featured-in-zdnet/"><u>Evolution of Developer Responsibilities: Insights From Atlassian’s Agnes Ro Featured in ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-world-of-ai-the-ultimate-guide-to-understanding-artificnial-intelligence-insights-from-zdnet/"><u>Exploring the World of AI: The Ultimate Guide to Understanding Artificnial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/googles-enterprise-cloud-storage-updates-the-long-awaited-changes-have-arrived/"><u>Google's Enterprise Cloud Storage Updates: The Long-Awaited Changes Have Arrived!</u></a></li>
+<li><a href="https://win-web.techidaily.com/guide-facile-comment-utiliser-une-cle-usb-recuperation-windows-11-sur-des-systemes-distincts/"><u>Guide Facile : Comment Utiliser Une Clé USB Récupération Windows 11 Sur Des Systèmes Distincts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-artificial-intelligence-could-ease-or-exacerbate-cloud-pricing-sticker-shock-according-to-zdnet/"><u>How Artificial Intelligence Could Ease or Exacerbate Cloud Pricing Sticker Shock, According to ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamless-transfer-of-android-contacts-to-your-new-iphone-a-simple-guide/"><u>Seamless Transfer of Android Contacts to Your New iPhone - A Simple Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-corporate-journey-to-edge-computing-assessing-readiness-for-next-gen-infrastructure-analysis-by-zdnet/"><u>The Corporate Journey to Edge Computing: Assessing Readiness for Next-Gen Infrastructure | Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-taking-charge-of-your-cloud-security-risks-cyber-defense-today/"><u>The Essential Guide to Taking Charge of Your Cloud Security Risks | Cyber Defense Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pitfalls-of-empathy-algorithms-rectifying-issues-with-human-like-ai-zdnet/"><u>The Pitfalls of Empathy Algorithms: Rectifying Issues with Human-Like AI | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-importance-of-multiple-twitter-accounts-insights-from-zdnet/"><u>Understanding the Importance of Multiple Twitter Accounts: Insights From ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-getting-started-with-video-editing-a-windows-movie-maker-handbook/"><u>Updated In 2024, Getting Started with Video Editing A Windows Movie Maker Handbook</u></a></li>
+</ul></div>
+

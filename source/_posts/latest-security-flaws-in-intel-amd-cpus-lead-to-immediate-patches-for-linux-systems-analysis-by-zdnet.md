@@ -1,7 +1,7 @@
 ---
 title: Latest Security Flaws in Intel, AMD CPUs Lead to Immediate Patches for Linux Systems | Analysis by ZDNET
-date: 2024-09-18 17:17:49
-updated: 2024-09-20 12:58:29
+date: 2025-01-04T05:44:14.739Z
+updated: 2025-01-05T18:29:50.575Z
 tags:
   - cloud
 categories:
@@ -88,11 +88,37 @@ So, what should you do? Get ready to install the new microcode as soon as it's a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-a-professionals-secret-efficiently-incorporating-luts-into-premiere-pro/"><u>[New] A Professional's Secret Efficiently Incorporating LUTs Into Premiere Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-powerdirector-full-review-and-instructions/"><u>[New] Mastering PowerDirector - Full Review & Instructions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-screen-record-on-xiaomi-11t-mi-11mi-11-lite/"><u>[Updated] 2024 Approved How to Screen Record on Xiaomi 11T/ Mi 11/Mi 11 Lite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/akamai-enhances-edge-cloud-capabilities-with-new-partnership-on-linode-platform-technews/"><u>Akamai Enhances Edge Cloud Capabilities with New Partnership on Linode Platform | TechNews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/break-free-from-google-drive-why-decentralized-crypto-secured-cloud-services-are-taking-over-explore-your-options-now/"><u>Break Free From Google Drive: Why Decentralized, Crypto-Secured Cloud Services Are Taking Over - Explore Your Options Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bridging-the-tech-and-business-divide-progress-toward-unified-goals/"><u>Bridging the Tech and Business Divide - Progress Toward Unified Goals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/businesses-transition-to-edge-computing-assessing-readiness-and-potential-challenges/"><u>Businesses Transition to Edge Computing: Assessing Readiness and Potential Challenges</u></a></li>
+<li><a href="https://some-tips.techidaily.com/counteracting-book-bans-a-strategic-plan-for-amazon-google-and-apple-to-establish-a-freedom-of-information-repository/"><u>Counteracting Book Bans: A Strategic Plan for Amazon, Google, and Apple to Establish a Freedom of Information Repository</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-official-dell-device-drivers-on-windows-7/"><u>Download Official Dell Device Drivers on Windows 7</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-make-excel-2000-hyperlinks-working-by-stellar-guide/"><u>Easy Steps to Make Excel 2000 Hyperlinks Working</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-to-communicate-with-youtube-subscribers-for-2024/"><u>How to Communicate with YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/icloud-update-brings-fresh-features-for-windows-users-detailed-insights-from-zdnet/"><u>ICloud Update Brings Fresh Features for Windows Users - Detailed Insights From ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-practical-ways-to-archive-online-discussions/"><u>In 2024, Practical Ways to Archive Online Discussions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/masterclass-in-music-distribution-how-ai-strategies-boosted-my-presence-on-major-streaming-services-featuring-zdnets-case-study/"><u>Masterclass in Music Distribution: How AI Strategies Boosted My Presence on Major Streaming Services, Featuring ZDNet's Case Study</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-enterprise-infrastructure-a-deep-dive-into-the-global-firms-sso-and-mfa-strategies-for-enhanced-cybersecurity-insights-from-zdnet/"><u>Securing Enterprise Infrastructure: A Deep Dive Into the Global Firm's SSO & MFA Strategies for Enhanced Cybersecurity - Insights From ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/social-skills-and-cognitive-health-four-advantages-of-multilingualism-for-adults-over-40/"><u>Social Skills and Cognitive Health: Four Advantages of Multilingualism for Adults Over 40</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/sony-vegas-too-expensive-affordable-alternatives-for-windows-for-2024/"><u>Sony Vegas Too Expensive? Affordable Alternatives for Windows for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/ultra-brief-on-achieving-clear-background-effects-for-2024/"><u>Ultra-Brief on Achieving Clear Background Effects for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-i-wont-shell-out-cash-for-twitter-verification-alternative-perks-that-matter/"><u>Why I Won’t Shell Out Cash for Twitter Verification: Alternative Perks That Matter</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

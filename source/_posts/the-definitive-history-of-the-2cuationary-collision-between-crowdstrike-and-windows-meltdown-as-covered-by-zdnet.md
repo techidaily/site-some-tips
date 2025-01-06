@@ -1,7 +1,7 @@
 ---
 title: The Definitive History of the 2Cuationary Collision Between CrowdStrike & Windows Meltdown , as Covered by ZDNET
-date: 2024-12-20T16:59:54.065Z
-updated: 2024-12-27T16:42:41.190Z
+date: 2025-01-02T18:37:32.342Z
+updated: 2025-01-06T05:42:24.422Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,22 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-dissecting-obs-technology-for-top-level-recording/"><u>[New] In 2024, Dissecting OBS Technology for Top-Level Recording</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-pro-level-text-templates-for-adobe-ae/"><u>[New] Pro-Level Text Templates for Adobe AE</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-step-by-step-capturing-powerful-presentations-in-adobe-presenter/"><u>[New] Step-by-Step Capturing Powerful Presentations in Adobe Presenter</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-best-value-for-money-top-6-budget-4k-projector-models/"><u>[Updated] 2024 Approved Best Value for Money Top 6 Budget 4K Projector Models</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-slow-mo-with-these-android-hacks/"><u>2024 Approved Unlock the Power of Slow Mo with These Android Hacks</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/alleviate-problem-buffering-tweets-in-chromebook-for-2024/"><u>Alleviate Problem Buffering Tweets in Chromebook for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-infinix-smart-8-hd-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Infinix Smart 8 HD Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamline-photo-editing-key-pixlr-insights/"><u>In 2024, Streamline Photo Editing Key Pixlr Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-vlcs-potential-for-mpeg-4-and-diverse-file-alterations/"><u>In 2024, Unlocking VLC's Potential for MPEG-4 and Diverse File Alterations</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ering-youtube-success-stories-via-tubebuddy-for-2024/"><u>Pioneering YouTube Success Stories via TubeBuddy for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/step-by-step-for-powerpoint-voiceover-excellence-for-2024/"><u>Step-by-Step for PowerPoint Voiceover Excellence for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-free-vfx-websites-for-2024/"><u>The Ultimate List of FREE VFX Websites for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-expert-tips-for-capturing-and-saving-igtv-on-handhrani/"><u>[New] Expert Tips for Capturing and Saving IGTV on Handhrani</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-mastering-powerpoint-recording-on-camera-for-professionals/"><u>[New] Mastering PowerPoint Recording on Camera for Professionals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smooth-scene-transitions-with-premieres-fades/"><u>[New] Smooth Scene Transitions with Premiere's Fades</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-iphone-converter-top-6-free-applications-to-use-for-2024/"><u>[New] The Ultimate iPhone Converter Top 6 Free Applications to Use for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-learn-the-art-of-adding-borders-on-insta-videos/"><u>[Updated] In 2024, Learn the Art of Adding Borders on Insta Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/angry-irate/"><u>Angry - Irate</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beyond-artificial-intelligence-elevate-your-expertise-with-cutting-edge-strategies-from-zdnet/"><u>Beyond Artificial Intelligence: Elevate Your Expertise with Cutting-Edge Strategies From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-doctor-utility-with-generative-ai-integration-into-medical-databases-an-in-depth-guide-zdnet/"><u>Enhancing Doctor Utility with Generative AI Integration Into Medical Databases: An In-Depth Guide - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-horizons-meta-and-amazon-web-services-join-forces-for-pytorch-growth-as-reported-by-zdnet/"><u>Expanding Horizons: Meta and Amazon Web Services Join Forces for PyTorch Growth, as Reported by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-trade-off-how-amazons-alexa-experts-show-larger-ais-dont-equal-superior-performance/"><u>Exploring the Trade-Off: How Amazon's Alexa Experts Show Larger AIs Don't Equal Superior Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-x90s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-the-power-of-artificial-intelligence-in-red-hat-enterprise-linux-practical-insights-and-benefits-zdnet/"><u>Harnessing the Power of Artificial Intelligence in Red Hat Enterprise Linux: Practical Insights & Benefits | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-ubuntu-core-24-advances-iot-and-edge-tech-the-latest-update-on-zdnet/"><u>How Ubuntu Core 24 Advances IoT and Edge Tech – The Latest Update on ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-zte-nubia-z60-ultra-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On ZTE Nubia Z60 Ultra? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/limitations-of-generative-ai-explored-by-zdnet-challenges-in-mimicking-core-human-thinking-skills/"><u>Limitations of Generative AI Explored by ZDNet: Challenges in Mimicking Core Human Thinking Skills</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/non-specific-symptoms-like-cough-and-weight-loss-are-common-in-lung-cancer-but-not-diagnostic-on-their-own/"><u>Non-Specific Symptoms Like Cough and Weight Loss Are Common in Lung Cancer but Not Diagnostic on Their Own.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revolutionary-storage-solutions-select-from-the-best-20-free-options-1tbplus/"><u>Revolutionary Storage Solutions - Select From the Best 20 Free Options (1TB+)</u></a></li>
 </ul></div>
 

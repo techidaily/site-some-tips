@@ -1,7 +1,7 @@
 ---
 title: "OpenStack Cloud Experiences Remarkable Surge in Usage: A Deep Dive by ZDNet"
-date: 2024-09-19 10:37:10
-updated: 2024-09-20 10:31:14
+date: 2025-01-02T04:45:13.787Z
+updated: 2025-01-05T22:50:58.811Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
 OpenStack clouds are heading for multi-billion dollar revenue.
 
 One bit of accepted wisdom in some cloud circles is that [OpenStack](https://www.openstack.org/), the open-source Infrastructure as a Service (IaaS) cloud, is declining. Nothing could be further from the truth. It's alive, well, and growing like crazy. According to the [2022 OpenStack User Survey](https://www.openstack.org/user-survey/2022-user-survey-report), OpenStack now has over 40 million production cores. Or, in other words, it's seen 60% growth since 2021 and a 166% jump since 2020\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -53,11 +57,27 @@ Put it all together, and as OpenInfra Foundation's general manager Thierry Carre
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-easy-tips-to-create-a-funny-meme/"><u>[New] 2024 Approved Easy Tips to Create a Funny Meme</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-tips-for-a-full-screen-facebook-video-experience/"><u>[New] 2024 Approved Tips for a Full-Screen Facebook Video Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-icicle-illusions-winter-games-showcase/"><u>[Updated] Icicle Illusions Winter Games Showcase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/core-infrastructure-integration-ciq-earns-support-from-veteran-linux-developers-fueling-rocky-linuxs-launch-tech-news-by-zdnet/"><u>Core Infrastructure Integration (CIQ) Earns Support From Veteran Linux Developers, Fueling Rocky Linux's Launch | Tech News by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-methods-to-move-your-data-from-android-devices-to-iphones-a-swift-guide/"><u>Effortless Methods to Move Your Data From Android Devices to iPhones - A Swift Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-analysis-choosing-between-chatgpt-and-gemini-for-efficient-programming-assistance/"><u>Expert Analysis: Choosing Between ChatGPT and Gemini for Efficient Programming Assistance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/finalize-your-container-defense-strategy-with-rust-and-edera-expert-tips-shared-on-zdnet/"><u>Finalize Your Container Defense Strategy With Rust and Edera: Expert Tips Shared on ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-efficiency-essential-techniques-and-best-gadgets-for-streamlining-your-everyday-tasks-insights-from-zdnet/"><u>Maximizing Efficiency: Essential Techniques & Best Gadgets for Streamlining Your Everyday Tasks - Insights From ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95665126-9781515413578-spiritual-torrents/"><u>Spiritual Torrents | Free Book</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streaming-galore-top-nine-game-portals-for-2024/"><u>Streaming Galore Top Nine Game Portals for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-ai-innovations-in-apples-upcoming-iphone-16-expert-analysis-from-zdnet/"><u>Unlocking the Potential of AI Innovations in Apple's Upcoming iPhone 16 – Expert Analysis From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-awss-enhanced-approach-for-businesses-at-the-reinvent-2021-conference-insights-from-zdnet/"><u>Unveiling AWS's Enhanced Approach for Businesses at the Re:Invent 2021 Conference - Insights From ZDNet</u></a></li>
+</ul></div>
+

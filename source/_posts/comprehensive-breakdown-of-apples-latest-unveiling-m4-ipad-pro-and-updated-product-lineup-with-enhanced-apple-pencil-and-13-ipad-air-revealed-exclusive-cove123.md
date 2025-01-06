@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Breakdown of Apple's Latest Unveiling: M4 iPad Pro & Updated Product Lineup with Enhanced Apple Pencil and 13 iPad Air Revealed - Exclusive Coverage !"
-date: 2024-12-16T19:26:31.250Z
-updated: 2024-12-21T19:48:47.548Z
+date: 2024-12-31T00:01:10.988Z
+updated: 2025-01-05T23:31:09.073Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. iPad Pro, now with OLED displays and M4
 
 Apple
@@ -53,7 +57,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -72,10 +76,6 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Apple Pencil Pro
 
 Apple
@@ -93,7 +93,7 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -107,7 +107,7 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -123,7 +123,7 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -160,24 +160,18 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-chromatic-brilliance-for-video-enthusiasts-for-2024/"><u>[Updated] Chromatic Brilliance for Video Enthusiasts for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-designing-captivating-instagram-feed-summaries-for-2024/"><u>[Updated] Designing Captivating Instagram Feed Summaries for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uipathabbyy-flexicapture/"><u>紙請求書ベースの支払い自動化 - UIPathとABBYY FlexiCapture連携で生産性向上</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-embarks-on-a-revolutionary-journey-in-organizing-documents-by-type/"><u>ABBYY Embarks on a Revolutionary Journey in Organizing Documents by Type</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-emerges-at-the-forefront-of-process-optimization-per-new-isg-provider-lens-insights/"><u>ABBYY Emerges at the Forefront of Process Optimization, per New ISG Provider Lens™ Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-unveils-new-collaborations-and-broadens-product-lineup-for-q4-2019-insights-from-abbyys-newsroom/"><u>ABBYY Unveils New Collaborations and Broadens Product Lineup for Q4, 2019 - Insights From ABBYY's Newsroom</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-welcomes-scott-opitz-as-new-head-of-technology-and-product-innovation/"><u>ABBYY Welcomes Scott Opitz as New Head of Technology and Product Innovation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/advancing-banking-innovation-how-idc-enables-the-future-of-finance-with-cutting-edge-automation/"><u>Advancing Banking Innovation: How IDC Enables the Future of Finance with Cutting-Edge Automation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/automated-marketing-solutions-empower-your-online-presence-with-cookiebot/"><u>Automated Marketing Solutions: Empower Your Online Presence with Cookiebot</u></a></li>
-<li><a href="https://some-tips.techidaily.com/automated-marketing-with-customized-user-tracking/"><u>Automated Marketing with Customized User Tracking</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-tech-offers-affordable-surveillance-cameras-high-capacity-power-banks-by-anker-and-elite-gaming-headsets-from-razer/"><u>Exclusive Tech Offers: Affordable Surveillance Cameras, High-Capacity Power Banks by Anker and Elite Gaming Headsets From Razer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-persistent-crash-issues-in-world-of-tanks-blitz-mobile-game/"><u>Fixing Persistent Crash Issues in World of Tanks Blitz Mobile Game</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/high-quality-honda-city-desktop-scenes-by-yl-software-complete-set-of-unique-wallpapers-for-your-computer/"><u>High-Quality Honda City Desktop Scenes by YL Software - Complete Set of Unique Wallpapers for Your Computer</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-15-pro-max-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 15 Pro Max</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-defy-2-phone-without-pin-by-drfone-android/"><u>How to Unlock Motorola Defy 2 Phone without PIN</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-reno-11f-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Reno 11F 5G</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-finding-balance-in-fb-sharing-a-guide-to-aspect-ratio-knowledge/"><u>In 2024, Finding Balance in FB Sharing A Guide to Aspect Ratio Knowledge</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-top-10-advantages-of-leveraging-process-analytics-insights-from-the-abbyy-expert-team/"><u>The Top 10 Advantages of Leveraging Process Analytics: Insights From the ABBYY Expert Team</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ltimate-framework-for-crafting-compelling-live-video-thumbnails/"><u>The Ultimate Framework for Crafting Compelling Live Video Thumbnails</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1716069179144-updated-2024-approved-android-without-a-wire-heres-your-free-games-list/"><u>[Updated] 2024 Approved Android Without A Wire? Here's Your Free Games List!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-convenient-viewing-setting-up-youtube-on-large-tv-panels/"><u>[Updated] 2024 Approved Convenient Viewing Setting Up YouTube on Large TV Panels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-decoding-snapchat-emoji-language/"><u>2024 Approved Decoding Snapchat Emoji Language</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-discover-the-top-9-free-online-tools-to-craft-your-logo/"><u>2024 Approved Discover the Top 9 Free Online Tools to Craft Your Logo</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/compendium-classification-of-camera-types-for-videos-for-2024/"><u>Compendium Classification of Camera Types for Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-selection-of-samsung-prime-day-savings-for-october-insider-info-from-zdnet/"><u>Discover the Ultimate Selection of Samsung Prime Day Savings for October - Insider Info From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-dual-nature-of-microsofts-copilot-ai-innovation-meets-marketing-strategy-zdnet-analysis/"><u>Exploring the Dual Nature of Microsoft's Copilot: AI Innovation Meets Marketing Strategy | ZDNet Analysis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/five-effective-solutions-to-bypass-eos-login-errors-in-palworld-platform/"><u>Five Effective Solutions to Bypass EOS Login Errors in Palworld Platform</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-15-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone 15 to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-new-age-of-dependable-expertise-in-business-perspectives-on-zdnet/"><u>Navigating the New Age of Dependable Expertise in Business - Perspectives on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-setting-up-easy-digital-downloads-plugin-in-your-wp-site/"><u>Step-by-Step Guide: Setting Up Easy Digital Downloads Plugin in Your WP Site</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-extensive-collaboration-framework-of-the-eu-and-singapore-encompasses-multiple-industries-technology-insights/"><u>The Extensive Collaboration Framework of the EU and Singapore Encompasses Multiple Industries | Technology Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-12-unbelievable-prime-day-gadget-bargains-in-october-exclusive-offers-on-zdnet/"><u>Top 12 Unbelievable Prime Day Gadget Bargains in October - Exclusive Offers on ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Finding Lost AirPods Made Easy! Expert Strategies for Retrieval and Future Protection - ZDNet
-date: 2024-12-22T17:31:42.277Z
-updated: 2024-12-27T16:33:49.169Z
+date: 2025-01-02T17:04:52.909Z
+updated: 2025-01-05T16:18:56.647Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ If you're going to be one of those people, read on.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -38,7 +38,7 @@ If you're going to be one of those people, read on.
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  1\. Update
@@ -66,7 +66,7 @@ If your iPhone is one of these and is not running the latest version of iOS 15, 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### read this
@@ -79,6 +79,10 @@ I'd definitely check any banking and financial apps for any special process invo
 
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Protect your data
 
 Next up, I want you to think about your data. How upset would you be if you lost your notes, photos, texts or other data that's on your iPhone? 
@@ -90,10 +94,6 @@ Make sure to back up your data. To be honest, you should be doing that anyway. i
 Don't have enough iCloud space? Don't worry! Apple will let you borrow some [temporary iCloud storage](https://support.apple.com/en-us/HT212732). (It helps to [keep your iPhone storage under control](https://www.zdnet.com/article/running-out-of-space-on-your-iphone-do-this-before-you-buy-a-new-one/), and you really should consider getting more storage for your future backup needs.) 
 
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
 
@@ -108,6 +108,10 @@ Tap **Get Started** to begin the process of backing up your iPhone and getting r
 Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
 
@@ -142,10 +146,6 @@ Remember, once you start this process, there's no going back!
 * [How to clean your Apple Watch in 5 steps](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/)
 * [How to clean and sanitize your AirPods](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
 
@@ -187,18 +187,20 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-resizing-imagery-on-iphone-without-hassle/"><u>[New] 2024 Approved Resizing Imagery on iPhone Without Hassle</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-building-a-sustainable-income-via-youtube-and-adsense/"><u>[New] Building a Sustainable Income via YouTube and AdSense</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gamers-guide-to-video-recording-for-2024/"><u>[New] Gamer's Guide to Video Recording for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-generate-interest-making-your-own-youtube-intros/"><u>[New] Generate Interest Making Your Own YouTube Intros</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-precision-mixing-techniques-with-logics-audio-fading/"><u>[Updated] Precision Mixing Techniques with Logic's Audio Fading</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamlining-media-transformation-from-xml-to-srt/"><u>[Updated] Streamlining Media Transformation From XML to SRT</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleash-the-potential-effective-pip-use-on-microsoft-edge-browser/"><u>[Updated] Unleash the Potential Effective PIP Use on Microsoft Edge Browser</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-chromatic-enhancement/"><u>2024 Approved The Art of Chromatic Enhancement</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-14-pro-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 14 Pro Max without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-10-best-listed-playlists-on-spotify/"><u>In 2024, 10 Best-Listed Playlists on Spotify</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-dramatic-audio-experiences/"><u>In 2024, Unparalleled Dramatic Audio Experiences</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-analysis-of-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Latest Hardware</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-tactics-for-flawless-solo-streaming-experiences-for-2024/"><u>Top Tactics for Flawless Solo Streaming Experiences for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cultivating-the-culture-of-creativity-within-youtube-shorts/"><u>[New] 2024 Approved Cultivating the Culture of Creativity Within YouTube Shorts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-time-rewind-mastery-in-media-refreshes/"><u>[New] In 2024, YouTube Time Rewind Mastery in Media Refreshes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-full-course-on-morphvox-converting-your-voice-professionally/"><u>[Updated] 2024 Approved Full Course on MorphVOX Converting Your Voice Professionally</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-interpreting-the-iconography-a-look-at-facebooks-use-of-blue-icons-for-2024/"><u>[Updated] Interpreting the Iconography A Look at Facebook’s Use of Blue Icons for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-xbox-mic-connectivity-issues-in-windows-11-devices/"><u>Correcting Xbox Mic Connectivity Issues in Windows 11 Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-ai-and-rust-with-linus-torvalds-the-essential-role-of-the-linux-kernel/"><u>Exploring AI & Rust with Linus Torvalds: The Essential Role of the Linux Kernel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-streamline-linux-open-source-manuals-for-clarity-and-efficiency-codecraft-solutions/"><u>How To Streamline Linux Open Source Manuals for Clarity and Efficiency | CodeCraft Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-glow-up-guide-3-masterful-instagram-highlight-tricks/"><u>In 2024, Glow-Up Guide 3 Masterful Instagram Highlight Tricks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-perfect-shots-with-ios-a-guide-to-iphone-cropping-features/"><u>In 2024, Perfect Shots with iOS A Guide to iPhone Cropping Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/metas-ambitious-global-language-project-struggles-with-hurdles-in-greek-armenian-and-oromo-languages-a-deep-dive-by-zdnet/"><u>Meta's Ambitious Global Language Project Struggles with Hurdles in Greek, Armenian, and Oromo Languages - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/potential-risks-for-tech-businesses-amidst-russian-invasion-of-ukraine-an-analysis-by-zdnet/"><u>Potential Risks for Tech Businesses Amidst Russian Invasion of Ukraine - An Analysis by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secrets-unveiled-a-guide-on-landing-a-free-netflix-subscription/"><u>Secrets Unveiled: A Guide on Landing a Free Netflix Subscription</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-future-in-coding-mastering-the-top-3-essential-languages-for-todays-tech-industry-insights-by-zdnet/"><u>Secure Your Future in Coding: Mastering the Top 3 Essential Languages for Today's Tech Industry | Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-road-to-standardizing-open-source-ai-is-paved-with-disagreements-the-latest-developments-explained-zdnet/"><u>The Road to Standardizing Open Source AI Is Paved with Disagreements: The Latest Developments Explained | ZDNET</u></a></li>
 </ul></div>
 

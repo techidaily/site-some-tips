@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Document Sharing: Top Strategies Revealed by ZDNet"
-date: 2024-09-19 17:17:10
-updated: 2024-09-20 12:15:12
+date: 2025-01-02T21:06:59.562Z
+updated: 2025-01-05T22:47:33.502Z
 tags:
   - cloud
 categories:
@@ -47,9 +47,17 @@ But it's not my place to tell a fellow writer how to do his thing. Writers are a
 
 Ready?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use the same tool
 
 This is an "if possible" situation. I know it's not always possible for all collaborators to use the same office suite. I say "possible" quite loosely, because it actually is possible. In this day of cloud-based office suites, there's absolutely no reason why anyone should have to struggle with the whole, "You need to use the same tool I'm using!" thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -66,6 +74,10 @@ If all involved in the collaboration don't have Microsoft Office or Apple Pages,
 
 While you're at it, make sure you're using the latest version of whatever tool you have. If you're using a version that is two iterations out of date, you're missing out on not only security updates and new features, but also formatting updates and file compatibility fixes. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use copy and paste only when absolutely necessary
 
 This is probably the biggest issue I've had to deal with. I'll be collaborating with someone in Google Docs, only to find out they are writing their portion in a locally installed word processor, and copying and pasting it into the Google Doc. 
@@ -78,6 +90,10 @@ The problem with copy and paste is that it can cause problems with formatting. I
 
 So, if you must copy and paste, paste without formatting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use the same file format
 
 Don't mix and match your file formats. If you are working in LibreOffice, saving as an ODT file, and your collaborator is working with MS Word and DOCX, you're going to have problems. LibreOffice can easily save in DOCX format and Office 365 can work with ODT files. 
@@ -85,6 +101,10 @@ Don't mix and match your file formats. If you are working in LibreOffice, saving
 **Also:** [**How to configure LibreOffice to default to MS Office file formats**](https://www.zdnet.com/home-and-office/work-life/how-to-configure-libreoffice-to-default-to-ms-office-file-formats/)
 
 Or, if you want to use a format that's better capable of going back and forth between applications, save as an RTF (Rich Text Format) file until the collaboration is complete. Once finished and properly formatted, you can export that RTF file into whatever file type you need, even PDF. If you use a mixture of file types, you will inevitably run into issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use the cloud
 
@@ -121,11 +141,23 @@ Collaboration doesn't have to be a hair-pulling experience. With just a bit of p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-11-secrets-to-increasing-your-facebook-video-reach/"><u>[Updated] In 2024, 11 Secrets to Increasing Your Facebook Video Reach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-renewed-interest-in-openstack-and-kata-containers-a-deeper-dive-into-modern-cloud-computing-trends-zdnet/"><u>Exploring the Renewed Interest in OpenStack and Kata Containers - A Deeper Dive Into Modern Cloud Computing Trends | ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-preserving-your-online-reputation-amidst-faux-endorsements/"><u>In 2024, Preserving Your Online Reputation Amidst Faux Endorsements</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-the-early-access-to-aws-ec2s-customized-mac-server-options-insight-from-zdnet/"><u>Introducing the Early Access to AWS EC2's Customized Mac Server Options – Insight From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leading-cloud-migrating-services-reviewed-find-the-best-fit-insights-from-zdnet-experts/"><u>Leading Cloud Migrating Services Reviewed : Find the Best Fit! (Insights From ZDNET Experts)</u></a></li>
+<li><a href="https://win-info.techidaily.com/nvme-ssdsamsungssd/"><u>NVMe SSD搬移啟動方法，提高到Samsung品牌的更大容量SSD</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-google-tasks-into-a-kanban-workflow-using-tasksboard-insights-from-zdnet/"><u>Transforming Google Tasks Into a Kanban Workflow Using TasksBoard - Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-cod-black-ops-cold-war-overcoming-code-80070057-issue/"><u>Troubleshooting COD: Black Ops Cold War – Overcoming Code 80070057 Issue</u></a></li>
+</ul></div>
+

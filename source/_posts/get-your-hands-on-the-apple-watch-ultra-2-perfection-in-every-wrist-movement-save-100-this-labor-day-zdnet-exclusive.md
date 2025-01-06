@@ -1,7 +1,7 @@
 ---
 title: "Get Your Hands on the Apple Watch Ultra 2: Perfection in Every Wrist Movement - Save $100 This Labor Day! [ZDNet Exclusive]"
-date: 2024-12-23T16:41:24.620Z
-updated: 2024-12-27T17:27:22.410Z
+date: 2025-01-05T02:26:36.821Z
+updated: 2025-01-05T18:12:10.168Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -97,7 +97,7 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,16 +148,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-mastering-virtual-reality-with-top-bike-simulators/"><u>[New] Mastering Virtual Reality with Top Bike Simulators</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-total-sphere-camera-systems/"><u>[New] Total Sphere Camera Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-seal-on-immersive-odyssey/"><u>[New] Ultimate Seal on Immersive Odyssey</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamlined-savings-for-cloud-storage-costs-analysis/"><u>2024 Approved Streamlined Savings for Cloud Storage Costs Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-asmrs-health-perks/"><u>2024 Approved Understanding ASMR's Health Perks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-e13-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Moto E13 FRP Locks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-note-30-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Note 30 5G Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-ai-interaction-with-these-top-5-tools/"><u>Mastering AI Interaction with These Top 5 Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-ultimate-guide-update-and-download-new-firmware-for-your-logitech-g910-under-windows/"><u>The Ultimate Guide: Update and Download New Firmware for Your Logitech G910 Under Windows</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/top-strategies-for-safeguarding-your-hard-drive-against-physical-harm-insights-from-yl-computing/"><u>Top Strategies for Safeguarding Your Hard Drive Against Physical Harm - Insights From YL Computing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-roblox-startup-problems-top-tips/"><u>Troubleshooting Roblox Startup Problems - Top Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks/"><u>[New] 2024 Approved How to Sculpt the Perfect YouTube Moniker Tips & Tricks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-how-to-secure-continuous-streaming-in-obs/"><u>[New] 2024 Approved How To Secure Continuous Streaming In OBS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photo-cartoony-kick-cross-platform-windows-and-mac-software/"><u>[Updated] Photo Cartoony Kick Cross-Platform Windows & Mac Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/analyzing-the-upsurge-and-decline-of-programming-languages-from-2016-key-takeaways-for-developers-zdnet/"><u>Analyzing the Upsurge & Decline of Programming Languages From 2016 - Key Takeaways for Developers | ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-instructions-for-installing-apple-device-drivers-on-windows-10/"><u>Complete Instructions for Installing Apple Device Drivers on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fix-and-fortify-dotnet-windows-style-max-156/"><u>Fix & Fortify DotNet, Windows Style (Max 156)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-live-action-sims-perfecting-your-videos/"><u>In 2024, Live-Action Sims Perfecting Your Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-re-establish-audible-vids-on-social-sound/"><u>In 2024, Re-Establish Audible Vids on Social Sound</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-linux-securitys-mountain-of-vulnerabilities-a-weekly-guide-to-handling-60plus-cves-without-stress-insights-by-zdnet/"><u>Navigating Through Linux Security's Mountain of Vulnerabilities: A Weekly Guide to Handling 60+ CVEs Without Stress | Insights by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/openai-introduces-economical-gpt-4-lite-transforming-app-creation-cost-efficiency-zdnet-insights/"><u>OpenAI Introduces Economical GPT-4 Lite, Transforming App Creation Cost Efficiency | ZDNET Insights</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-action-on-loopy-laptop-monitors/"><u>Swift Action on Loopy Laptop Monitors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-2024s-elite-web-hosting-providers-fully-reviewed-by-specialists-pcmag/"><u>Ultimate Guide to 2024'S Elite Web Hosting Providers, Fully Reviewed by Specialists | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-job-reductions-in-major-technology-companies-beyond-the-headlines-zdnet/"><u>Understanding Job Reductions in Major Technology Companies: Beyond The Headlines | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-new-wave-of-ai-dominance-how-rag-is-redefining-power-structures-expert-analysis-by-zdnet/"><u>Understanding the New Wave of AI Dominance: How RAG Is Redefining Power Structures - Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-ai-mastery-without-a-tech-background-navigating-the-challenge-of-advanced-systems/"><u>Unlocking AI Mastery Without a Tech Background: Navigating the Challenge of Advanced Systems</u></a></li>
 </ul></div>
 

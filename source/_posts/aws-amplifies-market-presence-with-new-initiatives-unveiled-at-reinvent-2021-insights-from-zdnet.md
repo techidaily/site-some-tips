@@ -1,7 +1,7 @@
 ---
 title: "AWS Amplifies Market Presence with New Initiatives Unveiled at Re:Invent 2021 - Insights From ZDNet"
-date: 2024-09-19 16:51:52
-updated: 2024-09-20 10:53:37
+date: 2024-12-31T02:02:11.595Z
+updated: 2025-01-06T00:54:54.248Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/ac89aae2a326978b0ae60bac11755067574f83eed
 ![aws-industries.png](https://www.zdnet.com/a/img/resize/7d2ad83651d4d1895bbf3b1b3b3205affc38f7ec/2021/11/30/52c37f70-47ce-45b0-812d-30ead4496223/aws-industries.png?auto=webp&width=1280)
 
 AWS CEO Adam Selipsky went vertical in his keynote. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -40,6 +44,10 @@ What's evolving is that AWS customers are also becoming business partners over t
 
 Nasdaq CEO Adena Friedman said the market operator is a technology provider too. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Nasdaq: Market operator meets SaaS provider
 
 Nasdaq CEO Adena Friedman outlined how the market operator is a SaaS provider to the ecosystem focusing on equities, derivatives, crypto and even sports betting. Nasdaq's reach extends into 130 other markets around the world. 
@@ -49,6 +57,10 @@ The market operator has been an AWS partner since 2008 and has extended its use 
 "We will start with US options markets," said Friedman. "We will be the first market provider that is 100% cloud-enabled." 
 
 Going forward, Nasdaq will build edge compute zones with AWS Outposts and offer a private local zone for global capital markets. In other words, Nasdaq will have AWS as an ingredient brand to export trading and clearing tools to its footprint of 130 markets. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dish: AWS as 5G network backbone
 
@@ -61,6 +73,10 @@ Dish Wireless has enterprise ambitions.
 Rouanne said Dish Wireless is looking to be a network of networks and connect "edge to cloud in a simplified manner." By using AWS as its infrastructure, Dish Wireless aims to deliver data and automation at scale.
 
 If you couple Dish Wireless with partnerships with the likes of Verizon for edge computing, and you can see the AWS telecom ground game improving. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3M eyes digital products too
 
@@ -77,6 +93,10 @@ Going forward, Braun said 3M is looking to be known for its digital products as 
 3M and AWS are providing a digital marketplace for customers so they can access code, models and tools. "Each success builds on the one before it," said Braun. 
 
 These industrial-use cases ultimately become Amazon bundles such as AWS Industrial, which has 5 core services for machine learning, fulfillment networks and equipment management. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### United Airlines: Building out its digital game
 
@@ -123,11 +143,30 @@ The vision: Every company will become a SaaS provider to industries on some leve
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/solved-asus-backlight-issue-identified/"><u>[SOLVED] ASUS Backlight Issue Identified</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-blueprint-for-blending-video-content-into-curricula/"><u>2024 Approved Blueprint for Blending Video Content Into Curricula</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-list-high-end-ios-tune-creators/"><u>2024 Approved Premium List High-End iOS Tune Creators</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/decoding-ipad-varieties-discovering-the-distinctions-between-ipad-and-ipad-air/"><u>Decoding iPad Varieties: Discovering the Distinctions Between iPad and iPad Air</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-insights-for-programmers-exploring-googles-gemini-protocol/"><u>Essential Insights for Programmers Exploring Google's Gemini Protocol</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-horizons-in-tech-development-how-google-cloud-enhances-devtools-and-data-analysis-with-generative-ai-insights-from-zdnet/"><u>Expanding Horizons in Tech Development: How Google Cloud Enhances DevTools & Data Analysis with Generative AI - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-reviews-the-leading-cloud-migration-providers-for-2e23-as-ranked-by-zdnet/"><u>Expert Reviews: The Leading Cloud Migration Providers for 2E23 as Ranked by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-ai-solutions-easing-the-burden-of-high-cloud-service-costs-potential-benefits-and-pitfalls/"><u>Exploring AI Solutions: Easing the Burden of High Cloud Service Costs – Potential Benefits and Pitfalls</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-itel-p55plus-frp-by-drfone-android/"><u>How Can We Bypass Itel P55+ FRP?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-xiaomi-redmi-note-12-pro-4g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Xiaomi Redmi Note 12 Pro 4G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leading-voip-services-reviewed-for-202e-create-your-own-business-telephony-setup-pcmag/"><u>Leading VoIP Services Reviewed for 202E: Create Your Own Business Telephony Setup | PCMag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-shifts-focus-on-new-consumer-strategy-initiatives-the-latest-updates-from-tech-world-zdnet/"><u>Microsoft Shifts Focus on New Consumer Strategy Initiatives - The Latest Updates From Tech World | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-cloud-landscape-significant-advantages-meet-serious-challenges-featured-on-zdnet/"><u>Navigating the Cloud Landscape: Significant Advantages Meet Serious Challenges | Featured on ZDNet</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-find-x6-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-fallout-3-crashes-on-windows-10/"><u>Troubleshooting Tips: Fixing Fallout 3 Crashes on Windows 10</u></a></li>
+</ul></div>
+

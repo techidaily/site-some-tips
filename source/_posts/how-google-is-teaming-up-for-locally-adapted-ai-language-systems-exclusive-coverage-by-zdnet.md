@@ -1,7 +1,7 @@
 ---
 title: How Google Is Teaming Up for Locally Adapted AI Language Systems | Exclusive Coverage by ZDNET
-date: 2024-09-18 10:15:48
-updated: 2024-09-20 11:30:23
+date: 2025-01-03T04:33:30.415Z
+updated: 2025-01-06T05:55:22.995Z
 tags:
   - cloud
 categories:
@@ -84,11 +84,33 @@ He added that most [public generative AI tools](https://www.zdnet.com/article/be
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-flashglimpse-crafter/"><u>[New] In 2024, FlashGlimpse Crafter</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-integrating-secure-recording-in-your-workflow/"><u>[New] In 2024, Integrating Secure Recording in Your Workflow</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-10-audio-transformation-apps-for-next-level-vtuber-performance-for-2024/"><u>[New] Top 10 Audio Transformation Apps for Next-Level VTuber Performance for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-key-techniques-for-a-thorough-review-of-youtube-stats/"><u>[Updated] Key Techniques for a Thorough Review of YouTube Stats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/accelerate-your-learning-curve-in-programming-with-these-5-must-have-linux-tools-tips-by-zdnet/"><u>Accelerate Your Learning Curve in Programming with These 5 Must-Have Linux Tools - Tips by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-october-prime-time-smartphone-bargains-our-top-picks-for-tech-savvy-shoppers-curated-by-zdnet/"><u>Discover the Ultimate October Prime Time Smartphone Bargains: Our Top Picks for Tech Savvy Shoppers - Curated by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-unbreakable-ai-watermarks-insights-from-zdnet/"><u>Discovering Unbreakable AI Watermarks - Insights From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-adding-google-play-to-windows-11/"><u>Efficiently Adding Google Play to Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-googles-lamda-genuinely-intelligent-or-just-another-ai-chatbot/"><u>Is Google's LaMDA Genuinely Intelligent or Just Another AI Chatbot?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-thinbook-t420s-windows-10-support-drivers-available-for-download-now/"><u>Latest ThinBook T420s Windows 10 Support Drivers Available for Download Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-tomorrows-tech-the-linux-foundations-initiative-in-quantum-resistant-cryptography/"><u>Securing Tomorrow's Tech: The Linux Foundations Initiative in Quantum-Resistant Cryptography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-ai-breakthroughs-expected-in-the-coming-years-zdnet-insights/"><u>The Future of AI: Breakthroughs Expected in the Coming Years | ZDNet Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-blueprint-to-rip-and-burn-cds-with-windows-media-player-for-2024/"><u>The Ultimate Blueprint to Rip & Burn Cds with Windows Media Player for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-essential-cybersecurity-certs-expert-picks-from-zdnet/"><u>Top 7 Essential Cybersecurity Certs : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/troubleshooting-ifo-files-for-the-year-2024-methods-and-solutions/"><u>Troubleshooting IFO Files for the Year 2024: Methods & Solutions</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

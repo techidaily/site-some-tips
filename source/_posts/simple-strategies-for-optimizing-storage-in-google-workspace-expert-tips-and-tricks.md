@@ -1,7 +1,7 @@
 ---
 title: "Simple Strategies for Optimizing Storage in Google Workspace: Expert Tips & Tricks"
-date: 2024-09-17 19:17:54
-updated: 2024-09-20 12:42:18
+date: 2024-12-30T04:16:49.651Z
+updated: 2025-01-06T01:24:17.482Z
 tags:
   - cloud
 categories:
@@ -39,13 +39,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Let me show you how easy it is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to manage your Google Workspace storage
 
 **What you'll need:** The only things you'll need are a valid Google account and a web browser. This of course can also be done on an Android device with Google One, but I'm going to show you how to take care of the task from within a web browser. You can use any browser that supports Google Workspace (which includes nearly all popular browsers).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open the Storage Manager
 
 The first thing to do is open your default web browser and point it to the [Google Storage Manager](https://one.google.com/storage/management). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clean up by suggested items
 
@@ -64,6 +76,10 @@ Do the same for the other options under Clean up suggested items.
 The fastest way to delete all of your trashed emails is to click Delete All.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clean up by service
 
@@ -100,11 +116,30 @@ And that's how you can easily manage your Google Workspace storage. Keep on top 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-customize-and-download-free-outro-video-templates/"><u>[Updated] In 2024, Customize and Download Free Outro Video Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-diversifying-social-media-presence-the-importance-of-multiple-platforms-beyond-twitter-insights-by-zdnet/"><u>1. Diversifying Social Media Presence: The Importance of Multiple Platforms Beyond Twitter - Insights by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-milestone-at-10-years-the-evolution-of-kubernetes-in-transforming-the-cloud-native-landscape-and-looking-forward-to-what-comes-next-digital-horizons/"><u>A Milestone at 10 Years: The Evolution of Kubernetes in Transforming the Cloud-Native Landscape and Looking Forward to What Comes Next | Digital Horizons</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/defeating-discords-persistent-echo-on-your-pc-the-definitive-2024-tutorial/"><u>Defeating Discord's Persistent Echo on Your PC: The Definitive 2024 Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowering-coders-with-upgraded-tools-positive-reactions-to-microsofts-new-developer-boxes-at-2023-build-event-tech-analysis-by-zdnet/"><u>Empowering Coders with Upgraded Tools: Positive Reactions to Microsoft's New Developer Boxes at 2023 Build Event - Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/faster-than-before-win10-acer-drivers-revamped/"><u>Faster Than Before: Win10 Acer Drivers Revamped</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-magic-6-lite-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor Magic 6 Lite to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-lenovo-thinkphone-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Lenovo ThinkPhone Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-output-how-chatgpt-amplifies-productivity-in-onlyoffices-docspace-platform/"><u>Maximize Your Output: How ChatGPT Amplifies Productivity in ONLYOFFICE's DocSpace Platform</u></a></li>
+<li><a href="https://win-updates.techidaily.com/methods-for-identifying-and-resolving-excessive-heat-in-your-video-card-tips-from-yl-software-experts/"><u>Methods for Identifying and Resolving Excessive Heat in Your Video Card - Tips From YL Software Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-obstacles-key-technological-solutions-empowering-small-businesses-today-zdnet/"><u>Navigating Obstacles: Key Technological Solutions Empowering Small Businesses Today | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-sectors-how-huawei-leverages-5g-for-advanced-healthcare-services-and-maritime-solutions/"><u>Revolutionizing Sectors: How Huawei Leverages 5G for Advanced Healthcare Services & Maritime Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamlessly-shift-information-between-smartphones-zdnets-top-two-quick-approaches-for-transferring-android-data-to-an-iphone/"><u>Seamlessly Shift Information Between Smartphones: ZDNet's Top Two Quick Approaches for Transferring Android Data to an iPhone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-power-inverter-models-for-optimal-efficiency/"><u>Top-Rated Power Inverter Models for Optimal Efficiency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-next-big-thing-in-government-tech-atandt-and-ibm-jointly-launch-co-innovation-laboratory-zdnet-reports/"><u>Unveiling The Next Big Thing in Government Tech: AT&T and IBM Jointly Launch Co-Innovation Laboratory - ZDNET Reports</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-ways-the-best-fixes-to-skip-the-long-wait-in-install-steps/"><u>Winning Ways: The Best Fixes to Skip the Long Wait in Install Steps</u></a></li>
+</ul></div>
+

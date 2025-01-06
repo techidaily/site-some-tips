@@ -1,7 +1,7 @@
 ---
 title: Alibaba's Strategic Leadership Transition Amplifies Cloud Computing Focus, Sidelines Existing CEO | BusinessTech News
-date: 2024-09-18 22:21:13
-updated: 2024-09-20 10:40:55
+date: 2025-01-02T00:01:45.134Z
+updated: 2025-01-06T02:37:06.793Z
 tags:
   - cloud
 categories:
@@ -72,11 +72,35 @@ In explaining the organizational restructure, Zhang previously said it would all
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-building-an-affluent-future-with-instagram-know-how/"><u>[Updated] Building an Affluent Future with Instagram Know-How</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-integrating-yt-music-into-video-editing-suites/"><u>[Updated] Integrating YT Music Into Video Editing Suites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alexa-illuminates-the-path-crafting-a-home-office-beacon-of-productivity-with-smart-tech/"><u>Alexa Illuminates the Path: Crafting a Home Office Beacon of Productivity with Smart Tech!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-balances-profits-and-employee-layoffs-an-inside-look/"><u>Amazon Balances Profits & Employee Layoffs – An Inside Look</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-fire-tv-stick-face-off-a-detailed-review-and-benchmark-analysis/"><u>Amazon Fire TV Stick Face-Off: A Detailed Review & Benchmark Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-ai-experts-show-smaller-models-can-outperform-large-ones-in-certain-tasks-techinsights/"><u>Amazon's AI Experts Show Smaller Models Can Outperform Large Ones in Certain Tasks | TechInsights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-hottest-bargains-for-august-2024-your-guide-to-smart-shopping-with-insights-from-zdnet/"><u>Amazon's Hottest Bargains for August 2024: Your Guide to Smart Shopping with Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-latest-innovations-unveiled-upgraded-alexa-version-20-new-echo-show-model-and-enhanced-fire-tv-features-a-comprehensive-breakdown-by-zdnet/"><u>Amazon's Latest Innovations Unveiled: Upgraded Alexa Version 2.0, New Echo Show Model and Enhanced Fire TV Features - A Comprehensive Breakdown by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-master-plan-decoding-the-purpose-of-its-device-lineup-from-the-beginning-with-echo-to-the-latest-astro-zdnet-digest/"><u>Amazon's Master Plan: Decoding the Purpose of Its Device Lineup, From the Beginning with Echo to the Latest Astro | ZDNET Digest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/as-google-retreats-from-iot-services-microsoft-advances-its-presence-a-shift-in-industry-dynamics-zdnet/"><u>As Google Retreats From IoT Services, Microsoft Advances Its Presence - A Shift in Industry Dynamics | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciding-on-an-apple-device-a-comparison-of-ipad-pro-and-ipad-air-to-discover-which-suits-you-best/"><u>Deciding on an Apple Device: A Comparison of iPad Pro and iPad Air to Discover Which Suits You Best.</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/frei-empfangbares-hevc-codec-paket-optimiert-fur-die-verwendung-mit-dem-vlc-media-player-jetzt-kostenlos-abrufen/"><u>Frei Empfangbares HEVC Codec Paket Optimiert Für Die Verwendung Mit Dem VLC Media Player - Jetzt Kostenlos Abrufen!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-motorola-moto-g24-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Motorola Moto G24 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-troubleshooting-paladins-fixing-crash-issues-with-2024s-best-tips/"><u>Master the Art of Troubleshooting Paladins: Fixing Crash Issues with 2024'S Best Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/seating-strategy-for-gamers/"><u>Seating Strategy for Gamers</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-s18-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/transforming-your-android-into-a-broadcast-hub-for-2024/"><u>Transforming Your Android Into a Broadcast Hub for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

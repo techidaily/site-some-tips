@@ -1,7 +1,7 @@
 ---
 title: "DOJ Legal Action Againnst Apple Deciphered: Consequences for Users & App Creators | Explored by ZDNET"
-date: 2024-12-24T17:25:54.448Z
-updated: 2024-12-27T17:16:26.955Z
+date: 2025-01-03T23:42:56.020Z
+updated: 2025-01-06T00:19:24.527Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Let's explore the potential consequences of Apple's antitrust lawsuit and what i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Apple user experience at a crossroads
@@ -59,7 +59,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Security and privacy implications
@@ -79,10 +79,6 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## App Store changes
 
 Apple's financial model heavily depends on App Store commissions, which may undergo significant changes due to this lawsuit, judgment, or settlement. These changes could lead to a more dynamic market, providing consumers with more competitive pricing and a wider range of innovative app offerings. Fundamentally, it could alter the economic structure of the entire digital marketplace.
@@ -92,10 +88,6 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Reduction in App Store fees:** Antitrust rulings may require Apple to reduce its upfront commission and yearly subscription fee, which could negatively impact its revenue. However, this may lead to lower app prices for consumers and increased developer earnings.
 * **Competitive app marketplace:** If iOS is opened to third-party app stores, it could break Apple's monopoly on app distribution and create a more competitive environment where different app marketplaces fight for developer and consumer attention.
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple ecosystem transformation
 
@@ -111,6 +103,10 @@ The changes could also lead to increased innovation and competition in markets s
 
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Open standards and protocols and the increase of open-source software on Apple platforms
 
 With a requirement for sideloading and allowing third-party app stores and a need for providing more open access to APIs, the call for open standards and increased use of open-source software on Apple platforms may also gain momentum. This shift toward openness will enhance interoperability across devices and challenge Apple's long-standing paradigms of exclusivity and controlled ecosystems. 
@@ -121,7 +117,7 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
@@ -133,6 +129,10 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 > "At Apple, we innovate every day to make technology people love—designing products that work seamlessly together, protect people's privacy and security, and create a magical experience for our users. This lawsuit threatens who we are and the principles that set Apple products apart in fiercely competitive markets. If successful, it would hinder our ability to create the kind of technology people expect from Apple—where hardware, software, and services intersect. It would also set a dangerous precedent, empowering government to take a heavy hand in designing people's technology. We believe this lawsuit is wrong on the facts and the law, and we will vigorously defend against it."
 
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Previous coverage
 
@@ -170,16 +170,20 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-chromesnap-tracker-os-level-recording/"><u>[New] In 2024, ChromeSnap Tracker OS Level Recording</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-fisheye-lens-in-360-imagery/"><u>[Updated] The Art of Fisheye Lens in 360 Imagery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tiktok-mastery-the-art-of-editing-your-number/"><u>[Updated] TikTok Mastery The Art of Editing Your Number</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-must-use-photo-watermark-tools/"><u>10 Must-Use Photo Watermark Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-supreme-4k-display-selection-the-best-of-ten/"><u>2024 Approved Supreme 4K Display Selection The Best of Ten</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-seamless-shift-in-music-production/"><u>2024 Approved The Seamless Shift in Music Production</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools/"><u>2024 Approved Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ai-powered-screen-webcam-and-microphone-recording-made-easy-with-winxvideo/"><u>AI-Powered Screen, Webcam & Microphone Recording Made Easy with WinxVideo!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exclusive-websites-for-ultimate-vector-clarity-for-2024/"><u>Exclusive Websites for Ultimate Vector Clarity for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-6-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 6 without a computer?</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-guide-overcoming-common-errors-with-the-apex-legends-engine/"><u>Ultimate Fix Guide: Overcoming Common Errors with the Apex Legends Engine</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-precise-speech-to-text-the-google-standard/"><u>[Updated] In 2024, Precise Speech to Text The Google Standard</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-streaming-stations-beyond-ustream-reviews/"><u>[Updated] Streaming Stations Beyond Ustream Reviews</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/complete-troubleshooting-steps-for-resolving-iphones-bluetooth-connectivity-problems/"><u>Complete Troubleshooting Steps for Resolving iPhone's Bluetooth Connectivity Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-computer-insights-by-toms-electronics-hub/"><u>Comprehensive Computer Insights by Tom's Electronics Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-machines-might-from-lesser-to-greater/"><u>Deciphering Machines' Might: From Lesser to Greater</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-python-skills-with-linkedins-complimentary-ai-program-transformative-results-unveiled-on-zdnet/"><u>Elevate Your Python Skills with LinkedIn's Complimentary AI Program – Transformative Results Unveiled on ZDNet</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ensuring-security-how-to-refresh-windows-defender-with-yls-expert-advice/"><u>Ensuring Security: How to Refresh Windows Defender with YL's Expert Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-impact-of-ai-progress-on-the-prospects-of-the-newly-launched-iphone-16-with-zdnet-analysis/"><u>Exploring the Impact of AI Progress on the Prospects of the Newly Launched iPhone 16 with ZDNET Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-the-latest-ios-18-preview-version-on-your-iphone-today-unveiling-compatible-devices-and-step-by-step-downloads-guide/"><u>Get the Latest iOS 18 Preview Version on Your iPhone Today! Unveiling Compatible Devices & Step-by-Step Downloads Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-an-insider-look-at-vegaspro-2019/"><u>In 2024, An Insider Look at VegasPro 2019</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-elevate-views-with-science-backed-timing-tactics/"><u>In 2024, Elevate Views with Science-Backed Timing Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/missing-pieces-in-apples-ai-showcase-can-we-anticipate-future-advancements-sooner-insights-from-zdnet/"><u>Missing Pieces in Apple's AI Showcase: Can We Anticipate Future Advancements Sooner? - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rising-popularity-of-openstack-and-kata-containers-unveiling-their-resurgence-in-modern-it-solutions-zdnet/"><u>The Rising Popularity of OpenStack and Kata Containers: Unveiling Their Resurgence in Modern IT Solutions | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-simple-access-to-artificial-intelligence-applications-with-superduperdb-insights-from-zdnet/"><u>Unlocking Simple Access to Artificial Intelligence Applications with SuperDuperDB: Insights From ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Realme 12+ 5G? | Dr.fone</u></a></li>
 </ul></div>
 

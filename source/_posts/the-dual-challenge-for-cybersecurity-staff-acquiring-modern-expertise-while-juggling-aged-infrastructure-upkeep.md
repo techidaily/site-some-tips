@@ -1,7 +1,7 @@
 ---
 title: "The Dual Challenge for Cybersecurity Staff: Acquiring Modern Expertise While Juggling Aged Infrastructure Upkeep"
-date: 2024-09-18 11:45:50
-updated: 2024-09-20 11:11:11
+date: 2025-01-03T23:33:04.515Z
+updated: 2025-01-06T01:58:23.018Z
 tags:
   - cloud
 categories:
@@ -42,6 +42,10 @@ Globally, 92% of cybersecurity professionals believe their organization has skil
 This demand will continue to grow as organizations incorporate AI into more processes, further driving the need for cloud computing, and the need for both skillsets, France noted. It means cybersecurity professionals will need to understand how AI is integrated and secure the applications and workflows it powers, he said. 
 
 Left unplugged, gaps in cybersecurity skills and staff will result in teams being overloaded and this can lead to oversights in addressing vulnerabilities, he cautioned. Misconfiguration and falling behind security patches are among the most common mistakes that can lead to breaches, he added. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### AI adoption driving the need for new skills
 
@@ -94,6 +98,10 @@ Burn further noted: "Most organizations were not prepared for the rapid migratio
 To address these requirements, she said organizations are tapping the knowledge that security operations and software development or product security teams have on infrastructure and adjusting this for the new environments. "So it's about finding the right training and upskilling resources and giving teams the time to train," she added. 
 
 "Having an underskilled team can be as risky as having an understaffed one," she said. Citing Forrester's 2022 Business Technographics survey on data security, she said companies that had six or more data breaches in the past year were more likely to report the unavailability of security employees with the right skills as one of their biggest IT security challenges in the past 12 months. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tech stacks need simplifying to ease security management
 
@@ -171,11 +179,29 @@ Few organizations, unless they have the necessary capabilities, have a collectiv
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/xploring-youtubes-regular-income-mechanism-for-2024/"><u>[New] Exploring YouTube's Regular Income Mechanism for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-ps2-emulators-for-ios-devices/"><u>[Updated] Essential PS2 Emulators for IOS Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-instant-stars-youtube-videos-with-rapid-popularity/"><u>[Updated] In 2024, Instant Stars Youtube Videos with Rapid Popularity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/as-operational-excellence-gains-traction-within-corporate-tech-environments-challenges-rise-too/"><u>As Operational Excellence Gains Traction Within Corporate Tech Environments, Challenges Rise Too</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-linux-kernel-version-69-update-top-three-features-you-need-to-know-tech-insights/"><u>Best Linux Kernel Version 6.9 Update - Top Three Features You Need To Know! | Tech Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-the-intensified-experience-of-marvels-spider-man-with-miles-morales/"><u>Comprehensive Review: The Intensified Experience of Marvel’s Spider-Man with Miles Morales</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-agility-in-software-development-discover-the-top-6-strategies-from-zdnet/"><u>Essential Agility in Software Development: Discover the Top 6 Strategies From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-rag-integration-leveraging-generative-llms-to-enhance-business-acumen-with-tips-from-zdnet/"><u>Exploring RAG Integration: Leveraging Generative LLMs to Enhance Business Acumen with Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exposing-the-underbelly-of-linux-security-the-pervasive-threat-of-shim-vulnerability-insights-by-zdnet/"><u>Exposing the Underbelly of Linux Security: The Pervasive Threat of Shim Vulnerability - Insights by ZDNET</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oneplus-ace-3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on OnePlus Ace 3 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-hand-learning-how-artificial-intelligence-could-revolutionize-personal-tech-by-2024-insights-from-zdnet/"><u>In-Hand Learning: How Artificial Intelligence Could Revolutionize Personal Tech by 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-practical-pitch-isolators-from-rookies-to-vocal-maestros/"><u>New 2024 Approved Practical Pitch Isolators From Rookies to Vocal Maestros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-cloud-apps-for-android-the-most-reliable-for-2024/"><u>Premium Cloud Apps for Android The Most Reliable for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-budget-friendly-video-effect-tools-for-2024/"><u>Top 5 Budget-Friendly Video Effect Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-rust-and-artificial-intelligence-are-pivotal-today-linus-torvalds-discusses-his-stance-on-linuxs-enduring-relevance-in-tech-expert-interview-by-zdnet/"><u>Why Rust and Artificial Intelligence Are Pivotal Today: Linus Torvalds Discusses His Stance on Linux's Enduring Relevance in Tech | Expert Interview by ZDNET</u></a></li>
+</ul></div>
+

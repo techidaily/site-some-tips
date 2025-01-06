@@ -1,7 +1,7 @@
 ---
 title: Density Tests Are Essential to Verify that Compaction Meets the Specified Requirements for a Construction Project.
-date: 2024-09-18 12:54:15
-updated: 2024-09-20 12:24:58
+date: 2024-12-29T18:50:22.914Z
+updated: 2025-01-06T03:54:33.150Z
 tags:
   - cloud
 categories:
@@ -82,11 +82,37 @@ Could there be a mainframe in your future? I cut my computing teeth on mainframe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-launch-a-creative-vision-start-xps-moviemaker-suite/"><u>[Updated] 2024 Approved Launch a Creative Vision, Start Xp’s Moviemaker Suite</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-final-cut-pro-x-achieving-perfect-vertical-video-for-instagram/"><u>[Updated] In 2024, Final Cut Pro X Achieving Perfect Vertical Video for Instagram</u></a></li>
+<li><a href="https://fox-that.techidaily.com/accurate-screen-time-management-how-to-exclude-unintentional-website-visits-on-iphones/"><u>Accurate Screen Time Management: How to Exclude Unintentional Website Visits on iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibabas-strategic-leadership-transition-amplifies-cloud-computing-focus-sidelines-existing-ceo-businesstech-news/"><u>Alibaba's Strategic Leadership Transition Amplifies Cloud Computing Focus, Sidelines Existing CEO | BusinessTech News</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/broadcast-repeat-looping-youtube-video-magic-for-your-setup-for-2024/"><u>Broadcast Repeat Looping YouTube Video Magic for Your Setup for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-tencent-is-shaping-chinas-genai-race-with-new-foundation-model-for-businesses-latest-from-zdnet/"><u>How Tencent Is Shaping China's GenAI Race with New Foundation Model for Businesses | Latest From ZDNET</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-7-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 7 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/section-2c-increasingly-complex-questions/"><u>Section 2C: Increasingly Complex Questions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-private-documents-in-microsofts-onedrive-with-our-expert-tutorial-on-creating-a-personal-vault-learn-from-zdnet/"><u>Secure Your Private Documents in Microsoft's OneDrive with Our Expert Tutorial on Creating a Personal Vault | Learn From ZDNET</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-s18-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo S18 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stuck-on-zoom-without-the-share-screen-feature-expert-tips-you-need-zdnet/"><u>Stuck on Zoom Without the 'Share Screen' Feature? Expert Tips You Need! | ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-sony-xperia-10-v-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Sony Xperia 10 V for Parents | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-software-solutions-for-effective-covid-19-immunization-programs-reviews-and-comparisons/"><u>Top Rated Software Solutions for Effective Covid-19 Immunization Programs - Reviews & Comparisons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-web-hosting-providers-comprehensive-reviews-and-comparisons-by-industry-experts-techradar/"><u>Top-Ranked Web Hosting Providers : Comprehensive Reviews & Comparisons by Industry Experts | TechRadar</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unbeatable-ps1-emulators-for-high-quality-gaming-for-2024/"><u>Unbeatable PS1 Emulators for High-Quality Gaming for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-key-factors-why-businesses-disallow-access-to-chatgpt/"><u>Understanding the Key Factors: Why Businesses Disallow Access to ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-reasons-behind-the-major-outage-in-microsoft-365-teams-and-outlook-an-in-depth-analysis-by-zdnet/"><u>Unraveling the Reasons Behind the Major Outage in Microsoft 365, Teams & Outlook: An In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wallet-friendly-entry-level-gear-to-kickstart-your-dream-home-theater-room/"><u>Wallet-Friendly Entry-Level Gear to Kickstart Your Dream Home Theater Room</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-ultimate-tips-for-streamlined-management-of-google-workspace-storage-capacity/"><u>ZDNet's Ultimate Tips for Streamlined Management of Google Workspace Storage Capacity</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

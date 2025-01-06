@@ -1,7 +1,7 @@
 ---
 title: "Open Source Innovation: Introducing Canonical's Easy-to-Use, Cost-Effective Cloud Platform"
-date: 2024-09-19 19:12:17
-updated: 2024-09-20 11:46:25
+date: 2024-12-31T00:46:00.597Z
+updated: 2025-01-05T23:29:36.840Z
 tags:
   - cloud
 categories:
@@ -66,11 +66,33 @@ Read more about Canonical's MicroCloud from the [official GitHub page](https://g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-artisans-guide-to-unique-photographic-assemblages-for-2024/"><u>[Updated] The Artisan's Guide to Unique Photographic Assemblages for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-monetary-side-of-podcasting-success/"><u>[Updated] The Monetary Side of Podcasting Success</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-transform-overload-into-order-with-skillful-tiktok-saves-edits/"><u>[Updated] Transform Overload Into Order with Skillful TikTok Saves Edits</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-into-the-depths-of-screen-capture-a-youtube-perspective-for-idevices/"><u>2024 Approved Into the Depths of Screen Capture A YouTube Perspective for iDevices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-comprehensive-guide-to-comparing-each-generation-of-openais-groundbreaking-gpt-models/"><u>A Comprehensive Guide to Comparing Each Generation of OpenAI's Groundbreaking GPT Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/analyzing-the-impact-of-international-collaboration-on-cyber-defense-insights-from-government-leaders-zdnet/"><u>Analyzing the Impact of International Collaboration on Cyber Defense - Insights From Government Leaders | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/approach-identify-the-best-roller-type-based-on-soil-granularity/"><u>Approach: Identify the Best Roller Type Based on Soil Granularity.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/approach-suggest-a-combination-of-rollers-for-different-soil-types/"><u>Approach: Suggest a Combination of Rollers for Different Soil Types.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beginners-guide-launching-a-successful-substack-newsletter-tips-and-strategies/"><u>Beginner's Guide: Launching a Successful Substack Newsletter - Tips & Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-transition-assessing-environmental-impacts-and-sustainability-practices/"><u>Cloud Transition: Assessing Environmental Impacts and Sustainability Practices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-superlative-sky-lifters-top-10-drone-picks/"><u>In 2024, Superlative Sky Lifters Top 10 Drone Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-build-202n-enhanced-developer-box-wows-programmers-latest-highlights-from-zdnet/"><u>Microsoft Build 202N: Enhanced Developer Box Wows Programmers - Latest Highlights From ZDNet</u></a></li>
+<li><a href="https://win-docs.techidaily.com/navigating-server-restrictions-on-smtp-mail-flows-insights-for-web-hosts-by-massmail-experts/"><u>Navigating Server Restrictions on SMTP Mail Flows: Insights for Web Hosts by MassMail Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-kubernetes-workflow-using-microsofts-innovative-ai-toolchain-for-azure-services-cloud-computing-insights/"><u>Streamline Your Kubernetes Workflow Using Microsoft's Innovative AI Toolchain for Azure Services | Cloud Computing Insights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/king-mobile-content-guide-to-establishing-easy-business-and-personal-channels-for-2024/"><u>Unlocking Mobile Content Guide to Establishing Easy Business & Personal Channels for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

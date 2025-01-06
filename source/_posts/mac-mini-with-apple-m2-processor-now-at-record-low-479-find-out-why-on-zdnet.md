@@ -1,7 +1,7 @@
 ---
 title: Mac Mini with Apple M2 Processor Now at Record Low $479 - Find Out Why on ZDNet
-date: 2024-12-22T17:05:19.364Z
-updated: 2024-12-27T17:15:21.083Z
+date: 2024-12-31T00:02:50.344Z
+updated: 2025-01-05T23:03:09.392Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ Just like its predecessor the M1 Mac Mini, the M2 Mac Mini doesn't have an overa
 If you're looking to snag the M2 Mac mini for school, work, or personal use, there's no better time than right now, when it is available for $120 off and its lowest price yet. Shop this deal at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSHGHGXR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce79e294a-7f52-4035-8d5b-4c43c97df560%7Cdtp&dtb=1) while stock and these savings last. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,19 +79,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-explore-oceans-anew-top-camcorders-for-divers-and-snorkelers/"><u>[New] Explore Oceans Anew - Top Camcorders for Divers & Snorkelers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-editors-ally-smooth-operation-in-m1-with-top-tools/"><u>[New] The Editor's Ally Smooth Operation in M1 with Top Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-beginning-profits-periscope-income-strategies-for-novices/"><u>[Updated] In 2024, Beginning Profits Periscope Income Strategies for Novices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-mastering-youtube-metrics-for-effective-content-strategy/"><u>[Updated] Mastering YouTube Metrics for Effective Content Strategy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-zoom-a-chromebook-guide/"><u>2024 Approved Streamlining Zoom A Chromebook Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-switch-gaming-elevated-by-top-capture-cards/"><u>2024 Approved Switch Gaming Elevated by Top Capture Cards</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-filmmakers-edge-mastering-kinemasters-zoom-functionality/"><u>2024 Approved The Filmmaker's Edge Mastering Kinemaster's Zoom Functionality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-no-charge-subtitle-makers-srt/"><u>2024 Approved The Ultimate Guide to No-Charge Subtitle Makers (SRT)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-world-of-google-ar-accessories-and-beyond/"><u>2024 Approved The World of Google AR Accessories, and Beyond</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-applying-luts-in-film-color-grading/"><u>2024 Approved Tips for Applying LUTs in Film Color Grading</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-no-ping-issue-a-step-by-step-guide-to-rectifying-halo-infinite-errors/"><u>Solving the 'No Ping' Issue: A Step-by-Step Guide to Rectifying Halo Infinite Errors</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-realme-narzo-n53-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Realme Narzo N53 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-monthly-savings-on-verizon-phone-upgrades-score-your-new-device-today/"><u>Top Monthly Savings on Verizon Phone Upgrades – Score Your New Device Today!</u></a></li>
-<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-8-plus-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 8 Plus files after scanning? | Stellar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-raspberry-pi-bundles-essential-starter-and-expert-kits-highlighted-on-zdnet/"><u>'Best Raspberry Pi Bundles : Essential Starter and Expert Kits Highlighted on ZDNET</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-leading-edge-in-online-advertising-fb-insights/"><u>[Updated] The Leading Edge in Online Advertising FB Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/agility-vs-ai-evolution-why-they-struggle-together-insights-from-latest-research/"><u>Agility Vs. AI Evolution: Why They Struggle Together - Insights From Latest Research</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-startup-ceremorphic-reveals-breakthrough-chip-technology-as-it-exits-stealth-mode-featured-on-zdnet/"><u>AI Startup Ceremorphic Reveals Breakthrough Chip Technology as It Exits Stealth Mode | Featured on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-coding-community-excited-new-ai-integration-brings-free-powerful-tools-to-programmers-dive-in-today/"><u>Apple Coding Community Excited: New AI Integration Brings Free Powerful Tools to Programmers – Dive In Today!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/edge-computing-devices-proliferation-implications-for-professional-advancement-insights-from-zdnet/"><u>Edge Computing Devices Proliferation: Implications for Professional Advancement - Insights From ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-6-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 6 Plus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-13-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 13 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-inventory-list-a-range-of-video-recording-devices/"><u>In 2024, Inventory List A Range of Video Recording Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-securing-your-playtime-with-diverse-gaming-screen-capture-software/"><u>In 2024, Securing Your Playtime with Diverse Gaming Screen Capture Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-anycubic-kobra-3-pioneering-multi-color-printing-technology/"><u>In-Depth Analysis of the Anycubic Kobra 3: Pioneering Multi-Color Printing Technology</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/suche-nach-automatisch-gespeicherten-excel-dokumenten/"><u>Suche Nach Automatisch Gespeicherten Excel-Dokumenten</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ten-years-on-exploring-the-revolutionary-journey-and-lasting-legacy-of-raspberry-pi-insights-from-zdnet/"><u>Ten Years On: Exploring the Revolutionary Journey and Lasting Legacy of Raspberry Pi | Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-governance-through-openness-the-swiss-federal-administration-adopts-open-source-initiative-for-public-software/"><u>Transforming Governance Through Openness: The Swiss Federal Administration Adopts Open Source Initiative for Public Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-purchasing-oculus-quest-2-games-via-meta-platform/"><u>Ultimate Guide: Purchasing Oculus Quest ^2 Games via Meta Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unpacking-the-truth-why-60-daily-cves-from-the-linux-foundation-arent-alarming-smart-mitigation-tactics/"><u>Unpacking the Truth: Why 60 Daily CVEs From The Linux Foundation Aren't Alarming - Smart Mitigation Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-truth-is-googles-lamda-authentically-intelligent-or-a-clever-chatbot-imitation-zdnet-analysis/"><u>Unveiling the Truth: Is Google's LaMDA Authentically Intelligent or a Clever Chatbot Imitation (ZDNet Analysis)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-poco-c55-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Poco C55 Phones</u></a></li>
 </ul></div>
 

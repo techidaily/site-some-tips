@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Tech-Commerce Divide: Progress Towards Integrating Innovation and Business Strategy | ZDNet"
-date: 2024-09-19 20:36:29
-updated: 2024-09-20 12:35:56
+date: 2024-12-30T19:54:48.328Z
+updated: 2025-01-05T21:45:06.102Z
 tags:
   - cloud
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/23bcbbd5e45bcabcdfd0dcf9f0d56055fdfa4178e
 Business-IT alignment has been a dream talked up for decades by analysts, speakers, technologists and business leaders. Did the Covid situation finally force things into alignment? 
 
 Look to the growing emphasis on customer experience (CX) among technology staffs, which has moved their priorities from the care and feeding of back-end systems to the care and feeding of actual customers. Not every organization is quite there yet, and many tech professionals still feel cut off from the final delivery of products and services to consumers. Nevertheless, the world of tech is changing, requiring new mindsets and ways of working -- including greater collaboration and greater empathy. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -43,11 +47,27 @@ We may eventually see the day when tech and business priorities are indistinguis
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-tutorial-for-youtube-studio-editor-use-for-2024/"><u>[Updated] The Essential Tutorial for YouTube Studio Editor Use for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discounted-deal-get-the-highly-rated-qled-screen-for-your-fire-tv-omnia-at-a-shocking-150-off-today-exclusive-offer-from-zdnet/"><u>Discounted Deal: Get the Highly Rated QLED Screen for Your Fire TV Omnia at a Shocking $150 Off Today - Exclusive Offer From ZDNet!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-new-tunes-without-spotify-claim-your-complimentary-6-months-of-either-apple-music-or-amazon-music-unlimited-exclusive-info-on-zdnet/"><u>Discover New Tunes Without Spotify: Claim Your Complimentary 6 Months of Either Apple Music or Amazon Music Unlimited | Exclusive Info on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultra-premium-tech-my-quest-on-amazon-to-unveil-high-end-gadgets/"><u>Discover the Ultra-Premium Tech: My Quest on Amazon to Unveil High-End Gadgets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/do-rivian-electric-vans-offer-a-green-solution-for-amazon-insights-from-zdnet-analysis/"><u>Do Rivian Electric Vans Offer a Green Solution for Amazon? Insights From ZDNet Analysis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/dslr-broadcast-101-using-facebook-live-from-home-pcs/"><u>DSLR Broadcast 101 Using Facebook LIVE From Home PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ebays-ingenious-strategy-how-it-can-help-you-move-beyond-amazon-insights-on-zdnet/"><u>Ebay's Ingenious Strategy: How It Can Help You Move Beyond Amazon - Insights on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elite-gizmos-galore-how-i-sought-out-the-most-luxurious-electronics-on-amazons-shelves-zdnet/"><u>Elite Gizmos Galore: How I Sought Out the Most Luxurious Electronics on Amazon's Shelves | ZDNET</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-clipcrafter-app/"><u>In 2024, ClipCrafter App</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-pro-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-tranquility-techniques-how-to-mute-and-manage-gmeet-distractions/"><u>In 2024, Tranquility Techniques How to Mute and Manage GMeet Distractions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/streamlining-your-social-media-presence-with-zoom-and-fb-live/"><u>Streamlining Your Social Media Presence with ZOOM & FB Live</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-top-tier-tempo-tune-videography-tools/"><u>Updated 2024 Approved Top-Tier Tempo Tune Videography Tools</u></a></li>
+</ul></div>
+

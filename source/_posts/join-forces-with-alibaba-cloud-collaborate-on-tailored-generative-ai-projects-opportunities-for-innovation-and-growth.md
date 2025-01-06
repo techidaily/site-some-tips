@@ -1,7 +1,7 @@
 ---
 title: "Join Forces with Alibaba Cloud: Collaborate on Tailored Generative AI Projects – Opportunities for Innovation and Growth"
-date: 2024-09-19 10:59:18
-updated: 2024-09-20 10:58:47
+date: 2025-01-04T05:54:50.868Z
+updated: 2025-01-05T20:27:18.413Z
 tags:
   - cloud
 categories:
@@ -45,6 +45,10 @@ Tongyi Qianwen already powers more than 10 functions on Alibaba's online collabo
 
 Tongyi Qianwen has both Chinese and English language capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Significant price cuts to cloud services
 
 The partnership program was launched at Alibaba Cloud's annual partners summit in Nanjing this week, where the vendor also unveiled price cuts to its core products and services. Ranging from 15% to 50%, the fee adjustments mark the biggest price reduction to date; however, only its customers in China will benefit from the cuts. 
@@ -84,11 +88,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-x9a-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor X9a Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/alienware-aurora-r11-review-the-best-gaming-pc-of-2021/"><u>Alienware Aurora R11 Review: The Best Gaming PC of 2021</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expanded-workspace-solutions-connecting-3-displays-to-a-single-desktop-system/"><u>Expanded Workspace Solutions: Connecting 3 Displays to a Single Desktop System</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-comparative-analysis-of-two-streaming-superpowers-obs-studio-and-bandicam/"><u>In 2024, Comparative Analysis of Two Streaming Superpowers OBS Studio and Bandicam</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-the-art-of-restoring-missing-direct-message-threads-in-tiktok-expert-techniques-for-ios-and-android-devices/"><u>Master the Art of Restoring Missing Direct Message Threads in TikTok - Expert Techniques for iOS & Android Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-changes-how-microsoft-redefines-its-focus-on-consumer-oriented-initiatives-zdnet/"><u>Navigating the Changes: How Microsoft Redefines Its Focus on Consumer-Oriented Initiatives - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/nextsend-the-effortlessly-simple-solution-for-distributing-big-files-amongst-peers-discover-how/"><u>Nextsend: The Effortlessly Simple Solution for Distributing Big Files Amongst Peers – Discover How!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/prevent-neglect-of-inactive-google-accounts-tips-and-strategies-techworld/"><u>Prevent Neglect of Inactive Google Accounts - Tips & Strategies | TechWorld</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quality-control-tests-should-be-performed-at-various-stages-throughout-the-compaction-process-to-ensure-consistent-results/"><u>Quality Control Tests Should Be Performed at Various Stages Throughout the Compaction Process to Ensure Consistent Results.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rocky-linux-rallies-with-key-supporter-the-eminent-backing-of-ciq-by-seasoned-linux-enthusiasts-zdnet/"><u>Rocky Linux Rallies with Key Supporter - The Eminent Backing of CIQ by Seasoned Linux Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-the-skies-of-data-the-quintessential-5-step-guide-by-zdnet/"><u>Securing the Skies of Data: The Quintessential 5-Step Guide by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/singapores-strategy-unveiled-developing-a-comprehensive-framework-for-generative-ai-and-self-governing-tech-systems-zdnet/"><u>Singapore's Strategy Unveiled: Developing a Comprehensive Framework for Generative AI & Self-Governing Tech Systems | ZDNET</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-managing-your-presence-on-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Managing Your Presence on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/uncover-the-truth-methods-to-determine-if-someones-using-an-airtag-on-you/"><u>Uncover the Truth: Methods to Determine If Someone's Using an AirTag on You</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-memes-with-white-background-step-by-step-for-2024/"><u>Updated How to Make Memes with White Background Step by Step for 2024</u></a></li>
+</ul></div>
+

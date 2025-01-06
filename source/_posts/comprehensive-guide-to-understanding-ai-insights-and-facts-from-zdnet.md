@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Understanding AI: Insights and Facts From ZDNet"
-date: 2024-09-18 14:14:13
-updated: 2024-09-20 11:44:50
+date: 2025-01-02T04:21:29.103Z
+updated: 2025-01-06T01:36:12.632Z
 tags:
   - cloud
 categories:
@@ -73,6 +73,10 @@ Examples of ML include search engines, image and speech recognition, and fraud d
 
 Machine learning is generally split into two main categories: supervised and unsupervised learning.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Supervised learning**
 
 This common technique for teaching AI systems uses annotated data or data labeled and categorized by humans. ML systems are then fed this data to learn patterns.
@@ -112,6 +116,10 @@ ANI is sometimes called weak AI, as it doesn't possess general intelligence. But
 ChatGPT is also an example of ANI, as it is programmed to perform a specific task: generate text responses to prompts it's given.
 
 **Also: [Microsoft Copilot Pro vs. OpenAI's ChatGPT Plus](https://www.zdnet.com/article/microsoft-copilot-pro-vs-openais-chatgpt-plus-which-is-worth-your-20-a-month/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is general AI?
 
@@ -163,6 +171,10 @@ The autopilot feature in Tesla's electric vehicles is probably what most people 
 
 The achievements of [Boston Dynamics](https://www.zdnet.com/article/boston-dynamics-latest-atlas-robot-sure-has-some-creepy-moves/) stand out in the area of AI and robotics. Though we're still a long way from creating Terminator-level AI technology, watching Boston Dyanmics' hydraulic, humanoid robots use AI to navigate and respond to different terrains is impressive. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **DeepMind**
 
 Google subsidiary [DeepMind](https://www.zdnet.com/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/) is an AI pioneer focusing on AGI. Though not there yet, the company [made headlines](https://www.zdnet.com/article/alphago-defeats-go-world-champion-in-china/) in 2016 for creating AlphaGo, an AI system that beat the world's best (human) professional Go player. 
@@ -189,6 +201,10 @@ OpenAI's recently released GPT-4o tops the Chatbot Arena leaderboard as of now. 
 > 
 > — lmsys.org (@lmsysorg) [June 3, 2024](https://twitter.com/lmsysorg/status/1797690251999350875?ref%5Fsrc=twsrc^tfw)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are neural networks?
 
 picture alliance/Contributor/Getty Images
@@ -205,6 +221,10 @@ These networks comprise interconnected layers of algorithms that feed data into 
 
 At that point, the network will have 'learned' how to carry out a particular task. The desired output could be anything from correctly labeling fruit in an image to predicting when an elevator might fail based on its sensor data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is deep learning?
 
 Deep learning is part of the ML family and involves training artificial neural networks with three or more layers to perform different tasks. These neural networks are expanded into sprawling networks with a large number of deep layers that are trained using massive amounts of data. 
@@ -214,6 +234,10 @@ Deep learning models tend to have more than three layers at least and can have h
 **Also:** [**What is deep learning? Everything you need to know**](https://www.zdnet.com/article/what-is-deep-learning-everything-you-need-to-know/)
 
 Because deep learning technology can learn to recognize complex patterns in data using AI, it is often used in natural language processing (NLP), speech recognition, and image recognition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is conversational AI?
 
@@ -239,6 +263,10 @@ Here are some common examples of AI available to the public, both free and for a
 
 **Also:** [**The best free AI courses (and whether AI 'micro-degrees' and certificates are worth it)**](https://www.zdnet.com/article/the-best-free-ai-courses/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What company is leading the AI race?
 
 With [generative AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) taking off, several companies are working competitively in the space -- both legacy tech firms and startups. While each is developing too quickly for there to be a static leader, here are some of the major players. 
@@ -248,6 +276,10 @@ With [generative AI](https://www.zdnet.com/article/what-is-generative-ai-and-why
 Unsurprisingly, OpenAI has made a huge impact in AI after making its powerful generative AI tools available for free, including ChatGPT and [Dall-E 3](https://openai.com/index/dall-e-3/), an AI image generator.
 
 **Also: [Have 10 hours? IBM will train you in AI fundamentals - for free](https://www.zdnet.com/article/have-10-hours-ibm-will-train-you-in-ai-fundamentals-for-free/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Anthropic   
 
@@ -279,6 +311,10 @@ Microsoft has also invested heavily in OpenAI's development. The tech giant uses
 
 Apple has also entered the space most recently with its AI-upgraded [line of iPads](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/) and potential [new announcements](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-openai-microsoft-and-google-at-wwdc-2024/) to come at WWDC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Other companies
 
 Other firms are making strides in artificial intelligence, including [Baidu](https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/), [Alibaba](https://www.zdnet.com/article/alibaba-cloud-hops-on-chatgpt-bandwagon-offers-ai-model-to-customers/), [Cruise](https://www.zdnet.com/article/gm-cruise-automated-cars-are-under-federal-investigation-for-hard-braking-stranding-passengers/), [Lenovo](https://www.zdnet.com/article/lenovo-plans-to-add-12000-new-hires-to-r-d-team-in-the-next-three-years/), [Tesla](https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/), and more.
@@ -304,6 +340,10 @@ Neural networks can be used to realistically replicate someone's voice or likene
 Because AI makes automation so easy on a large scale, researchers and tech employees share concerns about its role in [weapons manufacturing](https://www.zdnet.com/article/despite-dall-e-military-pitch-openai-maintains-its-tools-wont-be-used-to-develop-weapons/) and warfare. 
 
 **Also: [The ethics of generative AI: How we can harness this powerful technology](https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will an AI steal your job?
 
@@ -340,11 +380,25 @@ There is a broad range of opinions among AI experts about how quickly artificial
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-macbook-pro-13-inch-m1-2020-review-a-new-cpu-changes-the-game/"><u>Apple MacBook Pro 13-Inch (M1, 2020) Review: A New CPU Changes the Game</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-the-blue-depths-pro-tips-for-gopro-water-filming/"><u>Capture the Blue Depths Pro Tips for GoPro Water Filming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-iphone-extreme-16-is-top-tier-hardware-enough-to-outshine-its-flaws-zdnet-analysis/"><u>Decoding iPhone eXtreme (16): Is Top-Tier Hardware Enough to Outshine Its Flaws? | ZDNET Analysis</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-x-fold-2-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo X Fold 2 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-advances-in-iot-as-google-withdraws-from-market-a-contrast-of-tech-giants-strategies/"><u>Microsoft Advances in IoT as Google Withdraws From Market: A Contrast of Tech Giants' Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-with-ease-on-google-drives-refreshed-home-page-insights-from-zdnet/"><u>Navigating with Ease on Google Drive's Refreshed 'Home' Page - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-start-a-private-live-stream-on-youtube/"><u>New In 2024, How To Start a Private Live Stream on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/openstack-vs-kata-containers-understanding-their-surge-back-into-favor-among-enterprises-zdnet-insight/"><u>OpenStack Vs. Kata Containers: Understanding Their Surge Back Into Favor Among Enterprises | ZDNet Insight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/samsung-galaxy-s22s22plus-vs-iphone-13-face-off-feature-comparison-and-analysis-on-zdnet/"><u>Samsung Galaxy S22/S22+ Vs. IPhone 13 Face-Off: Feature Comparison and Analysis on ZDNET</u></a></li>
+<li><a href="https://solve-info.techidaily.com/transform-your-videos-comprehensive-tutorial-on-changing-ogm-to-mp4/"><u>Transform Your Videos: Comprehensive Tutorial on Changing OGM to MP4</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-11-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone 11</u></a></li>
+</ul></div>
+

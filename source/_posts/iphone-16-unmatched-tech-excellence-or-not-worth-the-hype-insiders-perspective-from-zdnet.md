@@ -1,7 +1,7 @@
 ---
 title: "IPhone 16: Unmatched Tech Excellence or Not Worth the Hype? Insider's Perspective From ZDNet"
-date: 2024-09-17 14:39:31
-updated: 2024-09-20 10:45:45
+date: 2024-12-29T17:17:35.264Z
+updated: 2025-01-05T21:22:19.690Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Every year, iPhone enthusiasts eagerly await Apple's latest release. But this ye
 **Also: [Everything Apple announced at its 'Glowtime' event](https://www.zdnet.com/article/everything-apple-announced-at-its-glowtime-event-ai-features-airpods-apple-watch-series-10-more/)**
 
 Despite promises of AI advancements, the iPhone 16 seems more like a stepping stone than a game-changer. Even in my household, the decision to upgrade has divided us -- while I'm upgrading for work because I cover the technology, my wife has made it clear: she's skipping this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Great hardware, but a transitional Apple Intelligence product
 
@@ -61,6 +65,10 @@ On the Pro models, you'll find a 5X optical zoom lens, and the new 48-MP "Fusion
 
 But are these improvements enough to justify an upgrade? Probably not if you already own an iPhone 14 or 15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Developer involvement and AI maturity
 
 While the hardware is impressive, the AI features -- centered around Apple Intelligence -- leave something to be desired, especially for those expecting a more mature experience.
@@ -70,6 +78,10 @@ Apple Intelligence is tied to Apple's own 3-billion-parameter foundation model. 
 **Also: [Every iPhone model that will be updated to Apple's iOS 18 (and which ones won't)](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/)**
 
 Apple has given [developers access to its AI APIs](https://developer.apple.com/apple-intelligence/), but we're still in the early stages of what Apple Intelligence can do. Most of the exciting features - like Genmoji and App Intents -- won't be available until iOS 18.2\. Even iOS 18.1, which unlocks some of the AI functions, won't arrive until at least October.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don't like Apple's apps? No Apple Intelligence for you.
 
@@ -89,6 +101,10 @@ Google's AI writing tools are currently available on iOS and Android through Gma
 
 Microsoft's [SwiftKey](https://apps.apple.com/us/app/microsoft-swiftkey-ai-keyboard/id911813648) iOS keyboard also brings Copilot AI-powered text generation and rewriting to the platform, making these tools accessible across all iPhone models -- not just the iPhone 16.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smart erase and privacy: Apple vs. Google
 
 I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in iOS 18\. It's been difficult to adjust to, and the [Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) \-- Apple's smart erase feature -- while intriguing, hasn't been the game changer I expected. The tool leaves artifacts in many of the photos I've tried it with on my iPhone 15 Pro Max, which detracts from the experience. 
@@ -96,6 +112,10 @@ I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in i
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Google's Magic Eraser, available in Google Photos for iOS, performs similarly without requiring on-device AI processing. That said, Apple's on-device AI processing offers a privacy advantage -- your data stays on the device and doesn't require additional bandwidth. This is particularly useful if you rely on 5G data instead of Wi-Fi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you upgrade?
 
@@ -128,11 +148,33 @@ Unless you desperately need a new phone, don't rush into buying the iPhone 16\. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-introduction-to-effective-analysis-facebook-insights/"><u>[New] In 2024, Introduction to Effective Analysis Facebook Insights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-best-editing-software-for-professional-dji-videos/"><u>[New] In 2024, The Best Editing Software for Professional DJi Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebooks-forgotten-treasures-how-to-rescue-conversations-and-videos/"><u>[Updated] 2024 Approved Facebook's Forgotten Treasures How to Rescue Conversations and Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-schedule-a-post-on-your-facebook-plusfree-tools-2023-for-2024/"><u>[Updated] How to Schedule a Post on Your Facebook [+Free Tools 2023] for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-to-resolve-delayed-video-posts-in-facebook-messenger-for-iosandroid-users/"><u>[Updated] In 2024, How to Resolve Delayed Video Posts in Facebook Messenger for iOS/Android Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-navigating-iphone-album-organizing-techniques-and-icloud-uploads/"><u>2024 Approved Navigating iPhone Album Organizing Techniques and iCloud Uploads</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-streamlining-devices-how-to-delete-downloaded-videos/"><u>2024 Approved Streamlining Devices How to Delete Downloaded Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/access-the-cutting-edge-of-cloud-communication-with-awss-free-ai-chatbot-for-businesses-get-started-today-on-zdnet/"><u>Access the Cutting-Edge of Cloud Communication with AWS's Free AI Chatbot for Businesses - Get Started Today on ZDNET</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/analyzing-authenticity-point-in-visual-identity-sharing-platforms-for-2024/"><u>Analyzing Authenticity’ Point in Visual Identity Sharing Platforms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-enhances-competitive-edge-with-new-strategies-at-reinvent-2021-insights-on-tech-innovation/"><u>AWS Enhances Competitive Edge with New Strategies at Re:Invent 2021 - Insights on Tech Innovation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-nvidias-updated-geforce-rtx-ebytes-for-legacy-windows-versions-10-8-and-7/"><u>Download NVIDIA's Updated GeForce RTX Ebytes for Legacy Windows Versions: 10, 8 & 7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/escape-google-drive-with-this-secure-and-private-decentralized-cloud-solution-zdnet/"><u>Escape Google Drive with This Secure & Private Decentralized Cloud Solution | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-policies-required-to-enforce-strong-cybersecurity-practices/"><u>Essential Policies Required to Enforce Strong Cybersecurity Practices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/establishing-a-holistic-full-stack-artifical-intelligence-lab-ibm-joins-hands-with-academia-insights-from-zdnet/"><u>Establishing a Holistic 'Full Stack' Artifical Intelligence Lab: IBM Joins Hands With Academia – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-china-plans-to-harness-supercomputing-power-for-a-swiftly-advancing-digital-era-analysis-by-zdnet/"><u>How China Plans to Harness Supercomputing Power for a Swiftly Advancing Digital Era - Analysis by ZDNet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-solutions-transforming-photos-into-videos-for-2024/"><u>Leading Solutions Transforming Photos Into Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-your-iphones-memory-top-strategies-and-tips-insights-from-zdnet/"><u>Maximizing Your iPhone's Memory: Top Strategies and Tips - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-redefines-consumer-strategy-focus-a-new-direction-emerges/"><u>Microsoft Redefines Consumer Strategy Focus: A New Direction Emerges</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-explores-how-google-empowers-web3-creators-with-cutting-edge-tools-for-building-on-the-blockchain/"><u>ZDNet Explores: How Google Empowers Web3 Creators with Cutting-Edge Tools for Building on the Blockchain</u></a></li>
+</ul></div>
+

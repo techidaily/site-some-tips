@@ -1,7 +1,7 @@
 ---
 title: "Apple Watch Showdown: Is It Time to Upgrade From Series 8 to Series 10? Expert Insights Revealed!"
-date: 2024-12-26T17:45:13.489Z
-updated: 2024-12-27T17:42:37.812Z
+date: 2025-01-01T16:11:41.683Z
+updated: 2025-01-05T16:20:20.211Z
 tags:
   - apple
 categories:
@@ -50,6 +50,10 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | **Watch model**           | **Apple Watch Series 10**                                                                                                                                                                                       | **Apple Watch Series 8**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -65,24 +69,28 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 \*Original MSRP
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 ---
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the Apple Watch Series 10 if...
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. You want a thinner design or larger watch sizes
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
@@ -119,10 +127,6 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. You want an affordable option
 
 If you want to experience the integrated benefits of the Apple ecosystem on your wrist or upgrade your smartwatch without breaking the bank, older models, such as the [Series 8](https://www.zdnet.com/article/apple-watch-series-8-review/) or [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/), are a great way to save a few dollars while still nabbing excellent features. While the Series 8 lacks the updated elements offered in the Series 10 (and even the Series 9), it's still a solid watch with the ability to do many of the basic tasks users require: track workouts, manage calls and texts, sync with your iPhone, and more. 
@@ -132,7 +136,7 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C243f8c9c-cf32-40e0-8bb7-58805fdbc037%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You're looking for blood oxygen sensors
@@ -140,10 +144,6 @@ While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/)
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -179,22 +179,22 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma/"><u>[New] The Skyborne Duo Faceoff DJI Mavic Pro & GoPro Karma</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-windows-hdr-capabilities-for-cutting-edge-video-workflows/"><u>[New] Unlocking Windows' HDR Capabilities for Cutting-Edge Video Workflows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-clearer-photos-a-guide-to-picsarts-bg-eraser/"><u>[New] Unveiling Clearer Photos A Guide to Picsart's Bg Eraser</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-strategies-for-procuring-high-quality-clip-art-with-no-cost/"><u>[Updated] Strategies for Procuring High-Quality Clip Art with No Cost</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transformative-techniques-for-capturing-on-iphone/"><u>[Updated] Transformative Techniques for Capturing on iPhone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-indestructible-link-methodology-for-tiktok-bio-info/"><u>2024 Approved The Indestructible Link Methodology for TikTok Bio Info</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-designing-captivating-podcast-logos/"><u>2024 Approved The Ultimate Guide to Designing Captivating Podcast Logos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-virtual-collaboration-share-your-screens-with-facebook-viewers/"><u>2024 Approved Virtual Collaboration Share Your Screens with Facebook Viewers</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/cookiebot-enhanced-user-experience-drive-traffic-with-smart-seo-solutions/"><u>Cookiebot-Enhanced User Experience: Drive Traffic with Smart SEO Solutions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/designing-intriguing-instagram-post-thumbnails/"><u>Designing Intriguing Instagram Post Thumbnails</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-gear-with-tom-an-in-depth-guide/"><u>Exploring Computer Gear with Tom: An In-Depth Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-s24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy S24 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-10-plugin-power-duo-for-final-cut-pro/"><u>In 2024, The Ultimate 10 Plugin Power Duo for Final Cut Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-power-of-authenticity-in-testimonial-videography/"><u>In 2024, Unlocking the Power of Authenticity in Testimonial Videography</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994764250-pathfinder-wrath-of-the-righteous-persistent-crash-problems-now-solved/"><u>Pathfinder: Wrath of the Righteous - Persistent Crash Problems Now Solved</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/save-big-now-get-windows-11-professional-at-a-staggering-discount-of-88/"><u>Save Big Now: Get Windows 11 Professional at a Staggering Discount of 88%</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-checklist-to-increase-likes-on-your-tiktok-videos/"><u>The Ultimate Checklist to Increase Likes on Your TikTok Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-unlocking-data-in-twitter-archives/"><u>[New] In 2024, Unlocking Data in Twitter Archives</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-movies-imovie-music-essentials/"><u>[Updated] Harmonizing Movies IMovie Music Essentials</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-mastering-drone-racing-insights-and-best-fpv-models-for-2024/"><u>[Updated] Mastering Drone Racing Insights & Best FPV Models for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/analyzing-the-motive-behind-facebooks-just-feed-change/"><u>Analyzing the Motive Behind Facebook's 'Just Feed' Change</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowering-innovation-how-citizen-developers-are-leading-the-charge-in-ai-mastery-zdnet/"><u>Empowering Innovation: How Citizen Developers Are Leading the Charge in AI Mastery | ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008580675-fix-sword-and-faery-legend-vii-pc-crashes-solutions-inside/"><u>Fix Sword & Faery Legend VII PC Crashes - Solutions Inside!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gemini-ai-enhanced-with-stack-overflow-insights-via-google-cloud-integration-techcrunch/"><u>Gemini AI Enhanced with Stack Overflow Insights via Google Cloud Integration | TechCrunch</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-users-handbook-how-to-stop-invasive-messages-from-pesky-senders/"><u>IPhone Users' Handbook: How To Stop Invasive Messages From Pesky Senders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-code-and-design-with-leading-online-web-dev-classes-highlighted-in-zdnets-review/"><u>Mastering Code and Design with Leading Online Web Dev Classes, Highlighted in ZDNet's Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rising-popularity-of-ai-agents-increases-associated-dangers-academic-experts-warn/"><u>Rising Popularity of AI Agents Increases Associated Dangers: Academic Experts Warn</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-dream-developer-role-master-the-essential-trio-of-coding-languages-insights-from-zdnet/"><u>Secure Your Dream Developer Role: Master the Essential Trio of Coding Languages - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-paradox-of-productivity-how-generative-ai-could-be-adding-to-our-to-do-lists-according-to-zdnet/"><u>The Paradox of Productivity: How Generative AI Could Be Adding to Our To-Do Lists, According to ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-trending-tech-tongues-decoding-the-hype-around-todays-leading-programming-languages/"><u>Top Trending Tech Tongues: Decoding the Hype Around Today's Leading Programming Languages</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-the-premier-automobile-charger-reviews-for-this-year/"><u>Ultimate Selection: The Premier Automobile Charger Reviews for This Year</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unleash-creativity-free-premiere-pro-2023-templates/"><u>Unleash Creativity Free Premiere Pro 2023 Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-raspberry-pi-zero-2w-a-revolutionary-upgrade-with-5x-better-speed-for-just-15-spotlight-by-zdnet/"><u>Unveiling the Raspberry Pi Zero 2W: A Revolutionary Upgrade with 5X Better Speed for Just $15 – Spotlight by ZDNet</u></a></li>
 </ul></div>
 

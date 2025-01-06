@@ -1,7 +1,7 @@
 ---
 title: Evolving Duties of IT Crews in the Era of Remote Working and Cloud Technology Adoption | ZDNet
-date: 2024-09-18 18:32:17
-updated: 2024-09-20 10:39:35
+date: 2024-12-29T17:14:35.762Z
+updated: 2025-01-05T21:46:35.868Z
 tags:
   - cloud
 categories:
@@ -78,11 +78,32 @@ To address these issues, Prince said organizations need a network infrastructure
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-drone-applications-at-present-and-in-the-future/"><u>[New] In 2024, Drone Applications at Present and in the Future</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-elite-10-add-ons-to-elevate-terria/"><u>[Updated] In 2024, Elite 10 Add-Ons to Elevate Terria</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-perfecting-iphone-hdr-imaging-step-by-step/"><u>[Updated] In 2024, Perfecting iPhone HDR Imaging Step by Step</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210661125-9798885055895-grannyaeurtms-pearls-of-wisdom/"><u>GrannyaEUR(tm)s Pearls of Wisdom | Free Book</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/is-it-time-to-upgrade-your-gpu-understanding-when-a-graphics-card-fails-insights-by-yl-computing/"><u>Is It Time to Upgrade Your GPU? Understanding When a Graphics Card Fails - Insights by YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/preventing-the-loss-of-dormant-gmail-profiles-tips-and-tricks-for-preserving-your-digital-identity-insights-from-zdnet/"><u>Preventing the Loss of Dormant Gmail Profiles: Tips and Tricks for Preserving Your Digital Identity – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-transfer-techniques-for-your-info-how-to-swiftly-shift-from-android-to-iphone-expert-advice-from-zdnet/"><u>Quick Transfer Techniques for Your Info: How to Swiftly Shift From Android to iPhone | Expert Advice From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/red-hats-new-wave-discovering-the-capabilities-of-openstack-platform-version-17-zdnet-coverage/"><u>Red Hat's New Wave: Discovering the Capabilities of OpenStack Platform Version 17 [ZDNet Coverage]</u></a></li>
+<li><a href="https://win11.techidaily.com/reverse-the-freeze-fixing-torrent-problems-on-windows/"><u>Reverse the Freeze: Fixing Torrent Problems on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secure-your-cloud-infrastructure-today-and-shut-out-potential-cyber-attacks-expert-insights/"><u>Secure Your Cloud Infrastructure Today and Shut Out Potential Cyber Attacks. Expert Insights.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/social-strategies-for-disseminating-health-information-for-2024/"><u>Social Strategies for Disseminating Health Information for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rising-popularity-how-adoption-is-skyrocketing-for-openstack-and-kata-containers-insights-from-zdnet/"><u>The Rising Popularity: How Adoption Is Skyrocketing for OpenStack & Kata Containers - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-coronavirus-vaccination-scheduler-tools-capterra/"><u>Top Rated Coronavirus Vaccination Scheduler Tools | Capterra</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

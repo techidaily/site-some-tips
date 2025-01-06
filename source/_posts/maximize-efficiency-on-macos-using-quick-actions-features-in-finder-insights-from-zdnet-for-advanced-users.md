@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Quick Actions Features in Finder - Insights From ZDNET for Advanced Users
-date: 2024-12-22T16:48:57.241Z
-updated: 2024-12-27T17:23:36.249Z
+date: 2025-01-01T01:04:47.132Z
+updated: 2025-01-06T06:12:14.729Z
 tags:
   - apple
 categories:
@@ -17,10 +17,6 @@ The MacOS file manager, Finder, has a lot of handy tricks up its sleeve, many of
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Apple
 
@@ -38,7 +34,7 @@ Of course, not every file type has an associated Quick Action but you can add ne
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What files offer Quick Actions?
@@ -51,10 +47,14 @@ By default, the following file types offer Quick Actions from within the Finder 
 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Quick Actions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
@@ -62,7 +62,7 @@ So, clearly, Quick Actions is limited without a bit of extra work. However, if y
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
@@ -92,7 +92,7 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -145,18 +145,21 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-exclusive-selection-best-5-free-convertors-for-video-from-gifs-for-2024/"><u>[Updated] Exclusive Selection Best 5 Free Convertors for Video From GIFs for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-beyond-the-screen-vrs-creative-applications/"><u>[Updated] In 2024, Beyond the Screen VR's Creative Applications</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-syma-x5c-the-ideal-drone-to-elevate-your-aerial-introduction/"><u>[Updated] Syma X5C The Ideal Drone to Elevate Your Aerial Introduction</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ten-pillars-of-meme-creation/"><u>[Updated] The Ten Pillars of Meme Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-travel-video-setup-must-have-items-checklist/"><u>[Updated] Travel Video Setup Must-Have Items Checklist</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-backup-your-memories-camera-roll-to-snapchat-explained/"><u>2024 Approved Backup Your Memories Camera Roll to Snapchat Explained</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unpackaging-text-magic-the-best-after-effects-plugin-guide/"><u>2024 Approved Unpackaging Text Magic The Best After Effects Plugin Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-non-functioning-jabra-audio-set-a-step-by-step-guide/"><u>How to Repair a Non-Functioning Jabra Audio Set - A Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-v27mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo V27Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-playstation-45-audio-tweaks/"><u>In 2024, The Essential Guide to PlayStation 4/5 Audio Tweaks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-full-potential-best-trio-for-zoom-conversion/"><u>In 2024, Unlock Full Potential Best Trio for Zoom Conversion</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-integrity-to-nonworking-troubleshooters-in-modern-windows/"><u>Restoring Integrity to Nonworking Troubleshooters in Modern Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-15-cinematic-tools-for-gopro-videos-and-films/"><u>[Updated] Top 15 Cinematic Tools for GoPro Videos and Films</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-complimentary-tunes-download-free-music-for-your-iphone-today/"><u>1. Complimentary Tunes: Download Free Music for Your iPhone Today</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-poco-m6-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibabas-innovation-in-e-commerce-leveraging-generative-artificial-intelligence-to-boost-sme-seller-capabilities-zdnet-insights/"><u>Alibaba's Innovation in E-Commerce: Leveraging Generative Artificial Intelligence to Boost SME Seller Capabilities | ZDNET Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-poco-c65-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Poco C65 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-transforming-ts-files-into-mp4-format-with-ffmpeg/"><u>Easy Steps: Transforming TS Files Into MP4 Format with FFmpeg</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-bilateral-fund-transfer-mechanism-between-india-and-singapore-unveiled-paving-the-way-for-streamlined-cross-border-payments-zdnet/"><u>Enhanced Bilateral Fund Transfer Mechanism Between India and Singapore Unveiled, Paving the Way for Streamlined Cross-Border Payments | ZDNET</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-fb-watch-icon-recovery-tips-and-tricks/"><u>In 2024, FB Watch Icon Recovery - Tips and Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/singapore-focuses-on-leveraging-transnational-digital-currency-prospects-insights-from-zdnet/"><u>Singapore Focuses on Leveraging Transnational Digital Currency Prospects: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlined-searches-await-unveiling-five-new-functionalities-in-amazon-for-hassle-free-product-hunts-tech-insights-by-zdnet/"><u>Streamlined Searches Await: Unveiling Five New Functionalities in Amazon for Hassle-Free Product Hunts | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tracking-safety-monitoring-product-recalls-directly-in-amazon-orders-according-to-zdnet-analysis/"><u>Tracking Safety: Monitoring Product Recalls Directly in Amazon Orders, According to ZDNet Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-redmi-note-12r-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi Redmi Note 12R without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ultimate-choice-elite-desktop-pcs-for-2024/"><u>Ultimate Choice Elite Desktop PCs for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unmissable-apple-watch-series/"><u>Unmissable Apple Watch Series</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wearable-payment-just-got-smarter-googles-wallet-for-wear-os-now-supports-rewards-programs-including-starbucks-cvs/"><u>Wearable Payment Just Got Smarter: Google's Wallet for Wear OS Now Supports Rewards Programs Including Starbucks, CVS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-ultimate-selection-of-the-12-greatest-gadgets-for-crafty-coders/"><u>ZDNet's Ultimate Selection of the 12 Greatest Gadgets for Crafty Coders!</u></a></li>
 </ul></div>
 

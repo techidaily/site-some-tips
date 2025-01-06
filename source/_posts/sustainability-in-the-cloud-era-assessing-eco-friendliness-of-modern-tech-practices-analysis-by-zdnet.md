@@ -1,7 +1,7 @@
 ---
 title: "Sustainability in the Cloud Era: Assessing Eco-Friendliness of Modern Tech Practices | Analysis by ZDNET"
-date: 2024-09-18 22:54:34
-updated: 2024-09-20 10:53:38
+date: 2024-12-29T21:08:38.186Z
+updated: 2025-01-05T22:25:24.019Z
 tags:
   - cloud
 categories:
@@ -25,6 +25,10 @@ Now it's certainly the case that the cloud helps enable a fairly low-carbon foot
 
 Before attempting to determine how green the cloud is, it's worth revisiting just what exactly the 'cloud' is. This somewhat cryptic tech term simply refers to computing services delivered over the internet. That definition covers everything from applications like Instagram or Google Search to foundational computing services like processing power and data storage. Companies can decide to manage their digital operations on their own servers (typically in an on-premises data center) or via a cloud provider like Google Cloud, Amazon Web Services or Microsoft Azure. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More data doesn't equal more energy consumption
 
 Given the way the digital economy has exploded over the past two decades, it'd be easy to assume that the cloud's carbon footprint has also spiked. Luckily, that's not the case. 
@@ -32,6 +36,10 @@ Given the way the digital economy has exploded over the past two decades, it'd b
 Research published in 2020 found that the [computing output of data centers increased 550%](https://science.sciencemag.org/content/367/6481/984) between 2010 and 2018\. However, energy consumption from those data centers grew just 6%. As of 2018, data centers consumed about 1% of the world's electricity output. 
 
 The tech industry has managed to keep its energy consumption requirements in check by making huge energy efficiency improvements, as well as taking a range of other strategic moves. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cloud vs data centers
 
@@ -46,6 +54,10 @@ But mostly organizations aren't moving to make their operations more sustainable
 **Also:** [**Tech for a sustainable future: The challenges and opportunities ahead**](https://www.zdnet.com/home-and-office/sustainability/tech-for-a-sustainable-future-the-challenges-and-opportunities-ahead/)
 
 One major reason service providers could run more efficiently, he says, is simply that their infrastructure is newer and more efficient. Many existing corporate data centers are 30 or 40 years old, meaning they aren't taking advantage of more recent gains in energy efficiency.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Renewable energy
 
@@ -71,6 +83,10 @@ Source: Google
 
 "There's still more work to do," she says. "It's going to be much more regional -- how do we talk with regional stakeholders and utilities as they try to change the grids?"
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where is your cloud running? 
 
 Location is an important aspect to consider for anyone trying to assess just how 'green' a specific cloud is, as Trexier suggests. Some of Google's data centers, in places such as Finland, Toronto and Iowa, have a CFE% above 90\. Others, such as data centers in Singapore, Jakarta and South Carolina, are closer to 10% or 20%. 
@@ -86,6 +102,10 @@ Meanwhile, in places like the US South, Texier says there are fewer options for 
 "Big picture right now, there's a lot of demand for renewable energy, not just from Google, but from a lot of corporations," she says.
 
 "It's really been a booming market, which on one side is is really helpful to accelerate the deployment of more renewable energy. On the other side, what we are realizing now is that the needs of deployment of clean energy and renewable energy cannot be met with the current processes that we have."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting more efficient
 
@@ -118,11 +138,30 @@ Meanwhile, cloud providers are running workloads more efficiently as they design
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-the-vanguard-of-virtual-storage-top-choices/"><u>[New] The Vanguard of Virtual Storage Top Choices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chuckletunes-directory-select-funny-ringtone-sources/"><u>[Updated] ChuckleTunes Directory Select Funny Ringtone Sources</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-conversations-proven-techniques-for-telegram-engagement/"><u>[Updated] Crafting Conversations Proven Techniques for Telegram Engagement</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-beyond-vidcon-a-guide-to-the-most-important-youtube-events/"><u>[Updated] In 2024, Beyond VidCon - A Guide to the Most Important YouTube Events</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024s-leading-cloud-services-unveiled-in-depth-testing-and-expert-analysis-zdnet/"><u>2024'S Leading Cloud Services Unveiled: In-Depth Testing & Expert Analysis | ZDNET</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/audio-showdown-detailed-comparison-of-google-nest-audio-and-nest-mini-speakers/"><u>Audio Showdown: Detailed Comparison of Google Nest Audio and Nest Mini Speakers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/developers-cheer-as-improved-dev-boxes-take-center-stage-at-microsofts-build-event-says-zdnet-coverage/"><u>Developers Cheer as Improved Dev Boxes Take Center Stage at Microsoft's Build Event, Says ZDNet Coverage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-scalahostings-tailored-cloud-vps-services-meet-every-business-requirement-as-showcased-by-zdnet/"><u>Discover How ScalaHosting's Tailored Cloud VPS Services Meet Every Business Requirement, as Showcased by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-online-safety-with-multi-factor-authentication-a-step-by-step-guide-on-activating-2fa-for-superior-protection-zdnet/"><u>Enhance Online Safety with Multi-Factor Authentication: A Step-by-Step Guide on Activating 2FA for Superior Protection | ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/erstellen-einer-ghost-image-disk-im-windows-10-system-einfache-schritte-und-tipps/"><u>Erstellen Einer Ghost-Image-Disk Im Windows 10 System: Einfache Schritte Und Tipps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-inshot-showdown-expert-review-of-best-editing-software/"><u>In 2024, InShot Showdown Expert Review of Best Editing Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-oppo-a58-4g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Oppo A58 4G</u></a></li>
+<li><a href="https://win11.techidaily.com/stepwise-guide-for-efficient-mkv-to-mp4-conversion-windows/"><u>Stepwise Guide for Efficient MKV-to-MP4 Conversion (Windows)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-database-oss-outperform-linux-for-cloud-computing-start-with-a-no-cost-demo-now/"><u>Why Database OSs Outperform Linux for Cloud Computing – Start with a No-Cost Demo Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-coverage-on-singapores-latest-operational-tropical-data-hub/"><u>ZDNet Coverage on Singapore's Latest Operational Tropical Data Hub</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-guide-to-the-most-harmful-online-destinations-for-our-planet-ranked-by-their-environmental-impact/"><u>ZDNet's Guide to the Most Harmful Online Destinations for Our Planet, Ranked by Their Environmental Impact</u></a></li>
+</ul></div>
+

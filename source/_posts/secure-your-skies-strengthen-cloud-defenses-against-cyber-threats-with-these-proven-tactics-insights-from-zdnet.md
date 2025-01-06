@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Skies: Strengthen Cloud Defenses Against Cyber Threats with These Proven Tactics - Insights From ZDNet"
-date: 2024-09-17 13:37:46
-updated: 2024-09-20 10:17:56
+date: 2025-01-05T01:03:40.782Z
+updated: 2025-01-06T02:46:28.803Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 Image: Getty Images
 
 Cloud applications and services provide access to business tools, information and software from anywhere, allowing employees to be productive whether they are [working in the office, remotely or a combination of the two](https://www.zdnet.com/article/remote-work-or-back-to-the-office-the-calculation-just-shifted-again/). Location doesn't matter; everything they need is[just in 'the cloud](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)'.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -46,6 +50,10 @@ And because the cyber criminals are using legitimate usernames and passwords to 
 
 For example, criminals could use access to a [legitimate account to take control of the user's emails and send malicious links to their contacts](https://www.zdnet.com/article/watch-out-for-this-phishing-attack-that-hijacks-your-email-chats-to-spread-malware/), which are designed to steal sensitive information, or plant malware or even ransomware. The target may not question the link because it comes from someone they know and trust. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Security
 
 * [The best VPN services of 2024: Expert tested](https://www.zdnet.com/article/best-vpn/)
@@ -66,9 +74,17 @@ Meanwhile, ransomware campaigns have also been known to [exploit exposed or impr
 
 And it isn't just common cyber criminals who've taken advantage of the rise of remote working and the increase in use of cloud applications: [state-backed hacking and cyber-espionage groups are also exploiting vulnerabilities in cloud](https://www.zdnet.com/article/microsoft-office-365-is-becoming-the-core-of-many-businesses-and-hackers-have-noticed/) as a launchpad for campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Closing the door
 
 But it doesn't have to be this way, and there are several steps that businesses can take to boost the cybersecurity of their cloud applications and software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud
 
@@ -91,6 +107,10 @@ And it's imperative for information security teams to have a [good grasp of what
 
 Cloud services can provide significant benefits for both businesses and their employees, but it's vital that the right choices are made to ensure on-demand IT is used in a productive and secure way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **MORE ON CYBERSECURITY**
 
 * [**Hackers are using tech services companies as a 'launchpad' for attacks on customers**](https://www.zdnet.com/article/hackers-are-using-tech-services-companies-as-a-launchpad-for-attacks-on-customers/)
@@ -105,11 +125,28 @@ Cloud services can provide significant benefits for both businesses and their em
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-reconnecting-sound-tracks-to-obs-broadcasts/"><u>[New] Reconnecting Sound Tracks to OBS Broadcasts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-illuminating-path-to-stellar-android-video-quality/"><u>2024 Approved Illuminating Path to Stellar Android Video Quality</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-phones-that-seamlessly-integrate-with-the-latest-gear-vr/"><u>2024 Approved Top Phones That Seamlessly Integrate with the Latest Gear VR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-core-of-bert-and-gpt-nlp-approaches/"><u>Dissecting the Core of BERT and GPT NLP Approaches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficiently-managing-workflow-with-todoist-how-to-track-completion-of-assignments/"><u>Efficiently Managing Workflow with Todoist: How to Track Completion of Assignments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-skills-discover-non-ai-opportunities-on-the-cutting-edge-insights-from-zdnet/"><u>Elevate Your Skills: Discover Non-AI Opportunities on The Cutting Edge – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fixing-humaneai-pins-addressing-issues-and-solutions-before-time-runs-out-insights-from-zdnet/"><u>Fixing HumaneAI Pins: Addressing Issues & Solutions Before Time Runs Out - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-s24plusmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy S24+Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-singapore-enhances-public-sector-efficiency-with-ai-and-cloud-integration-insights-from-zdnet/"><u>How Singapore Enhances Public Sector Efficiency with AI & Cloud Integration: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-singapore-leverages-cloud-based-ai-for-enhanced-government-service-delivery-insights-and-strategies/"><u>How Singapore Leverages Cloud-Based AI for Enhanced Government Service Delivery: Insights and Strategies</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 14</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-screen-sharing-showdown-obs-vs-twitch-studio-face-off/"><u>In 2024, Screen Sharing Showdown OBS vs Twitch Studio Face-Off</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-iconography-in-digital-communication-fb-messenger/"><u>Understanding Iconography in Digital Communication: FB Messenger</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/young-entrepreneurs-guide-buying-profitable-youtube-sites-for-2024/"><u>Young Entrepreneur's Guide Buying Profitable YouTube Sites for 2024</u></a></li>
+</ul></div>
+

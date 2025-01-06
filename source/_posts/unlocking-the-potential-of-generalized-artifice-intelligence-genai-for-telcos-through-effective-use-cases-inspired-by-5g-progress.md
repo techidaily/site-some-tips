@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Potential of Generalized Artifice Intelligence (GenAI) for Telcos Through Effective Use Cases, Inspired by 5G Progress
-date: 2024-09-18 19:30:38
-updated: 2024-09-20 11:29:33
+date: 2024-12-29T17:00:08.388Z
+updated: 2025-01-05T21:15:35.130Z
 tags:
   - cloud
 categories:
@@ -61,6 +61,10 @@ GSMA projects that 5G connections will grow from 1.6 billion to 2.1 billion by t
 
 Jarich noted that use cases can differ for regions and markets, giving local telcos further opportunities to find new revenue. And with most GenAI services running on the cloud, operators can play a differentiating role in facilitating these. For instance, they can provide support for edge computing, which will be important for some GenAI services such as real-time language translation and smaller large language models (LLMs) that can be hosted on the device. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dedicated foundation model for telcos
 
 Domain-specific LLMs also are being made available to help identify GenAI use cases specific to the needs of a particular sector, such as financial or healthcare. 
@@ -118,11 +122,27 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 202
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-top-7-instagram-money-sources-a-comprehensive-guide/"><u>[Updated] 2024 Approved Top 7 Instagram Money Sources - A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boost-your-channels-subscribers-on-a-shoestring-budget-for-2024/"><u>[Updated] Boost Your Channel's Subscribers on a Shoestring Budget for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-essential-tips-for-crafting-perfect-drone-video-edits/"><u>[Updated] In 2024, Essential Tips for Crafting Perfect Drone Video Edits</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/best-5-for-high-speed-video-capture-tech-for-2024/"><u>Best 5 for High-Speed Video Capture Tech for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-xiaomi-mix-fold-3-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Xiaomi Mix Fold 3 Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprerante-guide-to-sierras-cloud-file-accessibility/"><u>In 2024, Comprerante Guide to Sierra's Cloud File Accessibility</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55t-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Itel P55T Phone without PIN</u></a></li>
+<li><a href="https://win-net.techidaily.com/is-graphic-card-overclocking-safe-understanding-risks-and-rewards-expert-insights-from-yl-computing/"><u>Is Graphic Card Overclocking Safe? Understanding Risks & Rewards - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-troubleshoot-and-fix-missing-mfc42dll-file-issues/"><u>Steps to Troubleshoot and Fix Missing mfc42.dll File Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-expanding-influence-of-it-experts-in-enterprise-leadership-with-the-surge-of-cloud-technologies-zdnet-analysis/"><u>The Expanding Influence of IT Experts in Enterprise Leadership with the Surge of Cloud Technologies | ZDNET Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-alibaba-executive-changes-ceo-pivots-towards-cloud-services-expansion-techworld-insights/"><u>Upcoming Alibaba Executive Changes: CEO Pivots Towards Cloud Services Expansion | TechWorld Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-relying-on-a-single-twitter-account-isnt-enough-exploring-the-benefits-of-multi-platform-engagement-with-zdnet/"><u>Why Relying on a Single Twitter Account Isn't Enough: Exploring the Benefits of Multi-Platform Engagement with ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-insight-evaluating-wp-engine-as-a-superior-managed-hosting-service-for-wordpress-sites/"><u>ZDNet Insight: Evaluating WP Engine as a Superior Managed Hosting Service for WordPress Sites</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Securing Enterprise Infrastructure: A Deep Dive Into a Worldwide Firm's Implementation of SSO & MFA for Enhanced Cybersecurity | TechWise"
-date: 2024-09-18 15:40:50
-updated: 2024-09-20 10:19:57
+date: 2025-01-02T22:25:46.185Z
+updated: 2025-01-05T23:16:04.736Z
 tags:
   - cloud
 categories:
@@ -36,6 +36,10 @@ Generali is one of the one of the largest insurance and asset management provide
 But while many businesses suddenly had to shift towards a hybrid model without having planned for it in 2020, Generali was already examining a cloud-based approach to work over a year before that, so the company was in a good place to adapt to the new world of work. 
 
 "We think we were ahead of the curve," says Winter. "We don't have datacenters, everything is in the cloud. It's either software-as-a-service or platform-as-a-service."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -96,11 +100,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-ultimate-slomo-videography-tool-assessment/"><u>[New] 2024 Approved Ultimate SloMo Videography Tool Assessment</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-addressing-freeze-during-facebook-live-events/"><u>[Updated] In 2024, Addressing Freeze During Facebook Live Events</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-beats-for-beginnings-10-premium-songs-to-launch-your-podcasts/"><u>2024 Approved Beats for Beginnings 10 Premium Songs to Launch Your Podcasts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-evolution-of-youtube-shorts-popularity-metrics/"><u>2024 Approved The Evolution of YouTube Shorts Popularity Metrics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-enhanced-home-security-with-blinks-advanced-floodlight-camera-and-mounting-solutions-for-the-blink-mini-pan-tilt-exclusive-features-revealed-by-zdn3/"><u>Discover Enhanced Home Security with Blink's Advanced Floodlight Camera and Mounting Solutions for the Blink Mini Pan-Tilt – Exclusive Features Revealed by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-new-era-of-machine-learning-aws-introduces-sagemaker-studio-lab-your-free-gateway-into-ai-for-starters/"><u>Discover the New Era of Machine Learning: AWS Introduces SageMaker Studio Lab - Your Free Gateway Into AI for Starters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-power-of-amazons-complimentary-ai-programs-my-enlightening-weekend-experience-why-you-must-check-it-out/"><u>Discover the Power of Amazon's Complimentary AI Programs: My Enlightening Weekend Experience - Why You Must Check It Out!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-updated-epson-l3150-driver-for-optimal-printing-on-windows-11-8-or-7-systems/"><u>Easy Download: Updated Epson L3150 Driver for Optimal Printing on Windows 11, 8 or 7 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/embrace-your-remote-routine-how-alexas-insight-is-sparking-efficiency-in-work-from-home-life-zdnet/"><u>Embrace Your Remote Routine: How Alexa's Insight Is Sparking Efficiency in Work-From-Home Life | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-review-making-the-right-choice-between-amazon-echo-studio-and-sonos-era-for-your-smart-home-setup/"><u>Expert Review: Making the Right Choice Between Amazon Echo Studio and Sonos Era for Your Smart Home Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-benefits-of-amazon-business-a-comprehensive-guide-by-zdnet/"><u>Exploring the Benefits of Amazon Business: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-tool-convert-wmv-files-to-aac-format-using-movavi/"><u>Free Online Tool: Convert WMV Files to AAC Format Using Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-secure-your-dream-position-at-a-top-technology-firm-the-definitive-handbook/"><u>How To Secure Your Dream Position At A Top Technology Firm: The Definitive Handbook</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-your-amazing-amazon-prime-day-deals-profitable-tips-and-tricks-shared-online/"><u>Leverage Your Amazing Amazon Prime Day Deals – Profitable Tips & Tricks Shared Online</u></a></li>
+<li><a href="https://driver-install.techidaily.com/match-software-with-processor/"><u>Match Software with Processor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/time-lapse-magic-a-samsung-photo-guide-for-2024/"><u>Time-Lapse Magic A Samsung Photo Guide for 2024</u></a></li>
+</ul></div>
+

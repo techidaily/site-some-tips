@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis: Unpacking the Notion App - A Must-Have for Peak Productivity, According to ZDNet"
-date: 2024-09-19 10:49:46
-updated: 2024-09-20 10:38:49
+date: 2025-01-02T19:00:25.903Z
+updated: 2025-01-05T19:07:23.371Z
 tags:
   - cloud
 categories:
@@ -38,6 +38,10 @@ Probably one of the easiest ways for you to understand Notion is for me to show 
 
 Keep in mind that these examples are about how I use Notion. One of the biggest benefits to Notion is that you can sculpt it to your unique needs. Another benefit is that you can always tweak and update your implementations so it grows as you do. So my uses have been sculpted into my workflow. Yours, of course, will fit what you need to do every day.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Review product tracker
 
 I can't recall if this was the first project I set up, but it's certainly one of the first. As a tech columnist and product reviewer, I get an enormous flow of review products that show up to be reviewed. I needed to keep track of the products and status of their reviews. To manage this, I started with a kanban board, or what Notion calls the board view. If you think this looks a lot like Trello, you're not wrong. Notion has a full Trello-like implementation as just one of its tools. 
@@ -71,6 +75,10 @@ For example, here's part of a page with print settings and G-code (the code that
 
 The graphics and code from that set of notes wound up in my [Creality Sermoon D1 article](https://www.zdnet.com/article/creality-sermoon-d1-review-3d-printer-under-700/) and [video](https://youtu.be/7T56N-XZPA0).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Project management database
 
 Another powerful data structure is the table. I use one to track all my assigned projects at ZDNet. 
@@ -80,6 +88,10 @@ One of the most powerful features of Notion is the way it lets you filter data i
 You can even cross-reference tables. For example, I have a set of tables that tracks overall expenses for all the cloud services we use. One table summarizes all the expenses for each category, while another table contains all the detailed information, which can then be sliced up as needed when doing cost management. 
 
 When my firm got involved in an international acquisition last year, I put together a massive table that tracked all the moving parts, had detailed notes in the various fields, and allowed us to manage the transition across continents. That was all managed in Notion. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lab notes
 
@@ -120,6 +132,10 @@ Here are ten things I really like about Notion in no particular order.
 
 I should also add that there is a wealth of information on using Notion out there. Notion itself does a great job with video training, and there are tons of helpful YouTube videos as well. It also comes with a bunch of moderately useful templates you can copy and customize, so you don't have to start from scratch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Five things I don't like about Notion
 
 This is hard. Overall, I've found Notion to be a powerful tool. That's said, there are a few things I'm not thrilled with: 
@@ -137,6 +153,10 @@ Granted, dot-s-o is being used merely as a vanity top-level domain. Even so, the
 In reality, you don't need to worry. The fact is, Notion is located in San Francisco, and all its data is on AWS, but the optics of the dot-s-o association could still be problematic. I reached out to the company on this issue and will update this article if there's a response. 
 
 [Notion View now at Notion](https://www.notion.so/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -173,11 +193,30 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-cost-efficient-pc-video-harvesters-for-2024/"><u>[New] Cost-Efficient PC Video Harvesters for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-groundbreaking-action-adventure-masterpieces-top-10-for-2024/"><u>[New] Groundbreaking Action-Adventure Masterpieces (Top 10) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-quick-guide-to-mobile-devices-becoming-virtual-reality-hubs-for-2024/"><u>[New] The Quick Guide to Mobile Devices Becoming Virtual Reality Hubs for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-snapchat-checklist-for-engaging-content/"><u>[Updated] The Ultimate Snapchat Checklist for Engaging Content</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-tecno-pop-7-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Tecno Pop 7 Pro FRP Without Computer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-6-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 6</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-googles-duet-ai-innovating-cybersecurity-measures-within-cloud-environments-insights-from-zdnet/"><u>Introducing Google's Duet AI: Innovating Cybersecurity Measures Within Cloud Environments - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-supercomputers-for-chinas-rapid-digital-evolution-insights-from-zdnet/"><u>Leveraging Supercomputers for China's Rapid Digital Evolution: Insights From ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-connectivity-with-amazon-web-services-ceo-launches-proprietary-private-5g-platform-at-reinvent-sparks-discussions-on-zdnet/"><u>Revolutionizing Connectivity with Amazon Web Services CEO Launches Proprietary Private 5G Platform at Re:Invent, Sparks Discussions on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/section-3c-qandas/"><u>Section 3C: Q&As</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-tecno-spark-10-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Tecno Spark 10 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-impact-of-advanced-artific/"><u>The Impact of Advanced Artific</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-leading-cloud-certification-programs-according-to-zdnet/"><u>The Ultimate Guide to Leading Cloud Certification Programs According to ZDNet</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-how-do-you-compress-mp4-videos-and-reduce-the-file-size-in-windows-10-for-free-in-this-article-ill-share-top-9-free-video-compression-/"><u>Updated 2024 Approved How Do You Compress Mp4 Videos and Reduce the File Size in Windows 10 for Free? In This Article, Ill Share Top 9 Free Video Compression Software for Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-exclusive-alibaba-launches-chatgpt-inspired-ai-models-for-developers-and-customers/"><u>ZDNet Exclusive: Alibaba Launches ChatGPT-Inspired AI Models for Developers and Customers</u></a></li>
+</ul></div>
+

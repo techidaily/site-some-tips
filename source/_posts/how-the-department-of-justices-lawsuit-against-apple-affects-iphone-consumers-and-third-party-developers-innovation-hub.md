@@ -1,7 +1,7 @@
 ---
 title: How the Department of Justice's Lawsuit Against Apple Affects iPhone Consumers & Third-Party Developers | Innovation Hub
-date: 2024-12-21T16:55:30.068Z
-updated: 2024-12-27T17:30:46.402Z
+date: 2024-12-30T21:40:16.976Z
+updated: 2025-01-05T22:05:06.990Z
 tags:
   - apple
 categories:
@@ -39,6 +39,10 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
@@ -61,7 +65,7 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -71,7 +75,7 @@ Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
@@ -128,10 +132,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -146,10 +146,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -163,12 +159,16 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,19 +204,19 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-ace-the-art-of-editing-say-goodbye-to-overflowing-tiktok-drafts-for-2024/"><u>[New] Ace the Art of Editing Say Goodbye to Overflowing TikTok Drafts for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-assessing-luminance-for-hd-raises-questions/"><u>[Updated] In 2024, Assessing Luminance for HD Raises Questions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-motion-graphics-basic-knowledge-and-usage/"><u>[Updated] Motion Graphics Basic Knowledge and Usage</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-most-wallet-friendly-cloud-haven-for-mass-datasets/"><u>[Updated] The Most Wallet-Friendly Cloud Haven for Mass Datasets</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-uncovering-superior-free-viewers-for-your-webm-media-files/"><u>2024 Approved Uncovering Superior, Free Viewers for Your WebM Media Files</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-potential-in-ar-applying-lut-techniques/"><u>2024 Approved Unleashing Potential in AR Applying LUT Techniques</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/effective-techniques-for-retrieving-deleted-files-on-a-memory-stick-via-the-windows-terminal/"><u>Effective Techniques for Retrieving Deleted Files on a Memory Stick via the Windows Terminal</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-huawei-mediapad-m5-an-ode-to-outstanding-visuals-and-acoustics/"><u>Exploring the Huawei MediaPad M5: An Ode to Outstanding Visuals and Acoustics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-humor-hub-iphones-galore/"><u>In 2024, Humor Hub IPhones Galore</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-the-art-of-background-music-for-video-unboxing/"><u>In 2024, Ultimate Guide The Art of Background Music for Video Unboxing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-potential-of-windows-10-for-aspiring-filmmakers/"><u>In 2024, Unlocking the Potential of Windows 10 for Aspiring Filmmakers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/m1-marvel-a-new-wave-of-smooth-and-efficient-editing-for-2024/"><u>M1 Marvel A New Wave of Smooth and Efficient Editing for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/sandisk-compatible-drivers-for-windows-10-free-download-and-quick-setup-guide/"><u>SanDisk Compatible Drivers for Windows 10: Free Download & Quick Setup Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-the-potential-of-your-website-with-personalized-advertising-powered-by-cookiebot/"><u>Unlock the Potential of Your Website with Personalized Advertising Powered by Cookiebot</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-cinematic-brilliance-through-masterful-application-of-luts-from-cg-central/"><u>[New] 2024 Approved Cinematic Brilliance Through Masterful Application of Luts From CG Central</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-prolive-vs-showrunner-hub/"><u>[New] 2024 Approved ProLive VS Showrunner Hub</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-perfect-pixels-a-guide-to-the-11-best-edits-for-color-balance/"><u>[New] In 2024, Perfect Pixels A Guide to the 11 Best Edits for Color Balance</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-hone-your-hashtag-game-tripled-traffic-6kplus-vistas-for-2024/"><u>[Updated] Hone Your Hashtag Game Tripled Traffic, $6K+ Vistas for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-intels-ai-visionary-wei-li-speaks-on-democratizing-supercomputing-ai-for-everyday-use-insights-from-zdnet/"><u>1. Intel's AI Visionary Wei Li Speaks on Democratizing Supercomputing AI for Everyday Use - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-gpt-content-steps-to-emulate-your-writing-ethos/"><u>Crafting GPT Content: Steps to Emulate Your Writing Ethos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/local-deployment-strategies-for-diverse-ai-models-on-personal-computers-and-macs-no-additional-cloud-service-required/"><u>Local Deployment Strategies for Diverse AI Models on Personal Computers and Macs, No Additional Cloud Service Required</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-secure-passcodes-longer-windows-11-and-11-pins/"><u>Mastering Secure Passcodes: Longer Windows 11 and 11 PINs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-64-bit-os-launches-on-raspberry-pi-offering-enhanced-performance-and-features-tech-news-gizmodo/"><u>New 64-Bit OS Launches on Raspberry Pi, Offering Enhanced Performance & Features - Tech News | Gizmodo</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-download-of-dell-speaker-software-upgrades-and-drivers/"><u>Seamless Download of Dell Speaker Software Upgrades and Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-web-hosting-platforms-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top Rated Web Hosting Platforms : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-codenotarys-sbom-solution-for-enhanced-kubernetes-security-explore-on-zdnet/"><u>Unveiling Codenotary's SBOM Solution for Enhanced Kubernetes Security - Explore on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-insights-why-linux-kernel-takes-center-stage-with-ai-and-rust-according-to-linus-torvalds-tech-news/"><u>Unveiling Insights: Why Linux Kernel Takes Center Stage with AI and Rust, According to Linus Torvalds | Tech News</u></a></li>
 </ul></div>
 

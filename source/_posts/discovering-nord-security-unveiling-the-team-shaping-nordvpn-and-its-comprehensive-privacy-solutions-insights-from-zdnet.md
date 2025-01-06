@@ -1,7 +1,7 @@
 ---
 title: "Discovering Nord Security: Unveiling the Team Shaping NordVPN and Its Comprehensive Privacy Solutions - Insights From ZDNet"
-date: 2024-09-17 10:43:19
-updated: 2024-09-20 12:31:37
+date: 2025-01-04T20:34:45.155Z
+updated: 2025-01-05T16:53:17.401Z
 tags:
   - cloud
 categories:
@@ -30,6 +30,10 @@ Welcome to our in-depth look at the folks behind NordVPN. As the company moves i
 Today, Okman oversees one of [the most popular virtual private network services globally](https://www.zdnet.com/article/best-vpn/). NordVPN protects data transmitted to and from the internet for approximately 14 million consumers. Now, the people who make NordVPN want to store and protect all your passwords, your confidential files, and want to extend NordVPN's protections to small and large businesses. 
 
 But what is NordVPN? The answer turns out to be less clear than you might expect and requires taking a short dive into [VPN culture](https://www.zdnet.com/article/what-is-a-vpn-and-how-does-it-work/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The VPN boom
 
@@ -65,11 +69,19 @@ I was provided with a link to Eimantas' LinkedIn page, which also shows him as a
   
  Both Tom Okman and Eimantas attended Vilnius University, founded in the 16th century and located in Vilnius, Lithuania. Eimantas attended from 2002 to 2006 and received a Bachelor's degree in computer science, while Tom attended from 2006 to 2011 and earned a Bachelor's in history. Okman also picked up a Master's in e-business management from Mykolas Romeris University, also in Vilnius. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NordSec, Tesonet, and Tefincom -- and Panama, Cyprus, and Lithuania
 
 All of that brings us back to [NordSec](https://nordsecurity.com/), which is the name Okman and his team chose to use going forward, at least in 2020 when I interviewed him. Think the name NordSec is familiar? NordSec is also the name of the [Nordic Conference on Secure IT Systems](http://www.nordsec.org/conferences/) and has been in use since 1996\. When I asked Okman about the possible trademark ramifications of using "NordSec," he replied, "we have a pending trademark application, and we provide a different type of service, so we don't think there is anything that could cause a conflict." Clearly, that didn't take, because the company is now known as Nord Security.
 
 Note that when I refer to NordSec in the following sections, it's because that's the name I used to trace these various players. As mentioned, the new name is Nord Security. When I'm using NordSec in the copy, it's referring to the company as it was promoted in 2020.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### working from home
 
@@ -106,6 +118,10 @@ Okman's response to that is, "This treaty has nothing to do with the way in whic
 All that brings us to NordSec. Tom Okman told me, "NordSec is two things: a holding company that does not provide operational value and a brand that defines a suite of different products under Nord's name." 
 
 Let's look at those products now and switch gears back to the more modern Nord Security name.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Nord Security's offerings
 
@@ -151,6 +167,10 @@ We're not going to go into too much detail here, because we've covered NordVPN i
 
 * [**Inside a VPN service: How NordVPN conducts the business of Internet privacy**](https://www.zdnet.com/article/inside-a-vpn-service-how-nordvpn-conducts-the-business-of-internet-privacy/)
 * [**NordVPN review: Revamping security practices, but still useful**](https://www.zdnet.com/article/nord-vpn-review-an-in-depth-look-at-a-popular-vpn/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### NordVPN Teams
 
@@ -242,6 +262,10 @@ Okman tells us that Nord Security is discussing future integration of NordVPN wi
 
 Finally, Okman tells us Nord Security is considering entering the secure hosting field. We'll be watching closely for more news on that possible development. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NordSec in 2025
 
 We asked Okman to speculate about Nord Security's long term growth and evolution. We wanted to get an idea of what Okman's vision was for the company. Most companies never provide any forward-looking views into their product plans, so we were impressed that Okman gave us his future product vision. 
@@ -284,11 +308,28 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-pathway-to-prime-streaming-from-obs-to-social-media/"><u>[New] 2024 Approved The Pathway to Prime Streaming From OBS to Social Media</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-streamline-fb-video-downloads-the-best-firefox-plugins-and-tools-of-the-year/"><u>[New] Streamline FB Video Downloads The Best Firefox Plugins and Tools of the Year</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultra-brief-on-achieving-clear-background-effects/"><u>[New] Ultra-Brief on Achieving Clear Background Effects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>[Updated] Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ais-rise-in-software-dev-moving-past-outdated-automation-tactics-zdnet/"><u>AI's Rise in Software Dev: Moving Past Outdated Automation Tactics | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-upcoming-iphone-models-compatible-with-apple-ios-18-and-those-that-arent-techzn/"><u>Comprehensive Guide: Upcoming iPhone Models Compatible with Apple iOS 18 and Those That Aren't | TechZN</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Detailed guide of ispoofer for pogo installation On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-do-open-source-ai-models-measure-up-against-microsofts-gpt-4-an-in-depth-comparison-by-zdnet/"><u>How Do Open Source AI Models Measure Up Against Microsoft's GPT- 4? An In-Depth Comparison by ZDNET</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-15-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and Apple iPhone 15 The Right Way</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-disorder-revolutionary-approaches-to-streamlining-linux-and-open-source-manuals-zdnet/"><u>Navigating Through Disorder: Revolutionary Approaches to Streamlining Linux & Open-Source Manuals | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-professionals-feel-burned-out-hopeful-insights-from-industry-experts-techcrunch/"><u>Tech Professionals Feel Burned Out: Hopeful Insights From Industry Experts | TechCrunch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-conflicting-dynamics-of-ai-progression-and-agile-practices-latest-research-insights/"><u>The Conflicting Dynamics of AI Progression & Agile Practices – Latest Research Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/unpacking-nitros-advantages/"><u>Unpacking Nitro's Advantages</u></a></li>
+</ul></div>
+

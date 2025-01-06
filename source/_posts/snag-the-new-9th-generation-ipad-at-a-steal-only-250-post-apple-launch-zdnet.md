@@ -1,7 +1,7 @@
 ---
 title: Snag the New 9Th Generation iPad at a Steal - Only $250 Post-Apple Launch | ZDNet
-date: 2024-12-21T17:36:08.429Z
-updated: 2024-12-27T17:09:06.550Z
+date: 2024-12-31T01:54:55.352Z
+updated: 2025-01-05T16:07:57.204Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ The [Apple iPad (9th Generation)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 If the 9th Gen is too outdated for your liking, the [iPad 10th Gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8a5530fd-5ec6-459a-ad07-d932b49b5eab%7Cdtp&dtb=1) is also discounted right now, down to only $349 after Apple [dropped the price by $100](https://www.zdnet.com/article/this-349-ipad-was-secretly-the-best-announcement-during-the-apple-event/) following the announcement of their new iPads. This model features a 10.9-inch Liquid Retina display with 64GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,21 +69,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-freeing-up-youtube-footage-borderless-exploration-for-2024/"><u>[New] Freeing Up YouTube Footage Borderless Exploration for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unmatched-audio-and-video-elite-webcams-for-podcasting/"><u>[New] Unmatched Audio & Video Elite Webcams for Podcasting</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-mastery-the-essential-guide-to-smartphone-screen-recording/"><u>[Updated] 2024 Approved Snapchat Mastery The Essential Guide to Smartphone Screen Recording</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-kickstart-creative-video-editing-with-xp-edition/"><u>2024 Approved Kickstart Creative Video Editing with Xp Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-photo-edits-clearing-out-backgrounds/"><u>2024 Approved The Art of Photo Edits Clearing Out Backgrounds</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-the-features-and-uses-of-chatgpt-copilot/"><u>A Comprehensive Guide to the Features and Uses of ChatGPT Copilot</u></a></li>
-<li><a href="https://extra-information.techidaily.com/adding-depth-with-3d-text-in-photoshop-workflows-for-2024/"><u>Adding Depth with 3D Text in Photoshop Workflows for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-chromebook-shutter-magic-4-simple-steps/"><u>In 2024, Chromebook Shutter Magic - 4 Simple Steps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-maximizing-your-designs-with-free-clip-art/"><u>In 2024, Maximizing Your Designs with FREE Clip Art</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>In 2024, Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-5-audio-experiences-on-iphones/"><u>In 2024, Top 5 Audio Experiences on iPhones</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-truthgpt-the-real-deal-or-just-hot-air/"><u>Is TruthGPT The Real Deal or Just Hot Air?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-a56s-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo A56s 5G</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-sci-fi-vr-adventures-new-realms-unveiled-for-2024/"><u>Top 10 Sci-Fi VR Adventures New Realms Unveiled for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-superior-zero-price-switch-emulators/"><u>[New] In 2024, Superior Zero Price Switch Emulators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-instructors-handbook-on-video-assisted-pedagogy/"><u>[New] The Instructor's Handbook on Video-Assisted Pedagogy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimal-sonic-selections-android-centric/"><u>[Updated] Optimal Sonic Selections, Android-Centric</u></a></li>
+<li><a href="https://win-answers.techidaily.com/usb/"><u>「車内でUSBから音楽が流せませんか？」 - 車用音楽プレイヤーのセットアップガイド</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-key-videographers-in-asmr-landscape/"><u>2024 Approved Key Videographers in ASMR Landscape</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-overhauls-product-rating-display-a-step-backwards-tech-news-by-zdnet/"><u>Amazon Overhauls Product Rating Display - A Step Backwards? | Tech News by ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/from-s21-to-s23-a-closer-look-at-the-evolution-of-ultra-premium-phones-with-our-in-depth-galaxy-comparison/"><u>From S21 to S23: A Closer Look at the Evolution of Ultra-Premium Phones with Our In-Depth Galaxy Comparison</u></a></li>
+<li><a href="https://some-tips.techidaily.com/groove-with-the-ever-evolving-digital-landscape-and-customer-expectations-discover-how-a-leading-airline-is-redefining-passenger-satisfaction-one-innovative55/"><u>Groove with the Ever-Evolving Digital Landscape and Customer Expectations. Discover How a Leading Airline Is Redefining Passenger Satisfaction, One Innovative Step at a Time.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-i-found-quality-in-off-brand-geek-gadgets-on-temu-a-positive-review-for-the-tech-community-at-zdnet/"><u>How I Found Quality in Off-Brand Geek Gadgets on Temu – A Positive Review for the Tech Community at ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-video-synchronization-with-obs/"><u>Mastering Video Synchronization with OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-new-trends-the-rise-of-generative-ai-among-17-of-shoppers-revealed-by-zdnet-analysis/"><u>Navigating New Trends: The Rise of Generative AI Among 17% of Shoppers, Revealed by ZDNET Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rise-of-non-cash-payments-predicting-a-16-trillion-market-led-by-asia-zdnet/"><u>Rise of Non-Cash Payments: Predicting a $1.6 Trillion Market Led by Asia | ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ears-have-it-a-comparison-of-apples-airpods-pro-with-samsungs-buds-pro/"><u>The Ears Have It: A Comparison of Apple's AirPods Pro with Samsung's Buds Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-selecting-an-e-commerce-solution-in-2t22-for-seamless-online-shop-setup-insights-from-zdnet/"><u>The Ultimate Guide to Selecting an E-Commerce Solution in 2T22 for Seamless Online Shop Setup - Insights From ZDNet</u></a></li>
 </ul></div>
 

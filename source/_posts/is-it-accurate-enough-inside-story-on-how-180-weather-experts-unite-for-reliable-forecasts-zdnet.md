@@ -1,7 +1,7 @@
 ---
 title: Is It Accurate Enough? Inside Story on How 180 Weather Experts Unite for Reliable Forecasts | ZDNET
-date: 2024-09-17 22:40:54
-updated: 2024-09-20 11:35:45
+date: 2025-01-03T18:04:19.497Z
+updated: 2025-01-05T18:12:24.444Z
 tags:
   - cloud
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/965ac34e7c203b27ce0e30a0e9c41cd225
 
 What's a good enough weather prediction? That's a question most people probably don't give much thought to, as the answer seems obvious -- an accurate one. But then again, most people are not CTOs at DTN. Lars Ewe is, and his answer may be different than most people's. With 180 meteorologists on staff providing weather predictions worldwide, [DTN](https://www.dtn.com/) is the largest weather company you've probably never heard of.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best extreme weather tech: Top gear for power outages Some of us like to go off the grid, while others find themselves forced off the grid. Having the right gear can make a huge difference.  Read now](https://www.zdnet.com/article/best-extreme-weather-tech/)
@@ -20,6 +24,10 @@ What's a good enough weather prediction? That's a question most people probably 
 Case in point: DTN is not included in ForecastWatch's "[Global and Regional Weather Forecast Accuracy Overview 2017 - 2020](https://www.forecastwatch.com/wp-content/uploads/Global%5Fand%5FRegional%5FWeather%5FForecast%5FAccuracy%5FOverview%5F2017-2020.pdf)." The report rates 17 weather forecast providers according to a comprehensive set of criteria, and a thorough data collection and evaluation methodology. So how come a company that started out in the 1980s, serves a global audience, and has always had a strong focus on weather, is not evaluated?
 
 * **See also:** [**US weather, climate forecasting is about to get way better**](https://www.zdnet.com/article/us-weather-climate-forecasting-is-about-to-get-way-better/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Weather forecast as a big data and internet of things problem
 
@@ -46,6 +54,10 @@ In many regards, weather forecasting today is really a big data problem. To some
 As a consequence, producing weather predictions does not just involve the domain expertise of meteorologists, but also the work of a team of data scientists, data engineers, and machine learning/DevOps experts. Like any big data and data science task at scale, there is a trade-off between accuracy and viability.
 
 * [**Best extreme weather tech 2022: Power outage gear**](https://www.zdnet.com/home-and-office/yard-outdoors/best-extreme-weather-tech/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Good enough weather prediction at scale
 
@@ -90,11 +102,31 @@ Coming full circle, Ewe noted that DTN's attention is focused on the company's d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-a-closer-look-at-youtubes-payment-system-and-its-potential/"><u>[Updated] 2024 Approved A Closer Look at YouTube's Payment System and Its Potential</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlocking-igtv-videos-secure-downloading-techniques-for-computers/"><u>[Updated] 2024 Approved Unlocking IGTV Videos Secure Downloading Techniques for Computers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-starting-line-the-basics-of-picture-resolution/"><u>2024 Approved Starting Line The Basics of Picture Resolution</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-computational-power-the-linux-foundations-support-for-high-performance-and-exascale-systems/"><u>Boosting Computational Power: The Linux Foundation's Support for High-Performance & Exascale Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/carbon-fixation-calvin-cycle/"><u>Carbon Fixation (Calvin Cycle)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-cloud-technology-essential-facts-and-concepts-for-mastery-the-zdnet-explainer-series/"><u>Exploring Cloud Technology: Essential Facts and Concepts for Mastery – The ZDNet Explainer Series</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-lessons-from-the-paris-games-for-sustainable-energy-strategies-in-sports-events/"><u>Harnessing Lessons From the Paris Games for Sustainable Energy Strategies in Sports Events</u></a></li>
+<li><a href="https://discover-best.techidaily.com/impact-analysis-how-did-the-boxer-uprising-reshape-china-explained-with-yl-computing-and-yl-software/"><u>Impact Analysis: How Did the Boxer Uprising Reshape China? - Explained with YL Computing and YL Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-samsung-galaxy-f15-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Samsung Galaxy F15 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-nord-security-the-brain-trust-behind-nordvpns-all-encompassing-privacy-protection-as-featured-on-zdnet/"><u>Inside Nord Security: The Brain Trust Behind NordVPN's All-Encompassing Privacy Protection, as Featured on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-supercomputers-for-chinas-rapid-digital-evolution-zdnet/"><u>Leveraging Supercomputers for China's Rapid Digital Evolution | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimizing-cloud-storage-controlling-which-folders-automatically-update-in-your-google-drive-for-windowsmac-users/"><u>Optimizing Cloud Storage: Controlling Which Folders Automatically Update in Your Google Drive for Windows/Mac Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplifying-kubernetes-deployment-with-microsofts-new-ai-enhanced-toolchain-operator-on-azure-tech-news/"><u>Simplifying Kubernetes Deployment with Microsoft's New AI-Enhanced Toolchain Operator on Azure | Tech News</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-8-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 8 Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/tutorial-hati-hati-untuk-mengembalikan-undian-media-di-iphones-prosedur-lanjutan-terperinci/"><u>Tutorial Hati-Hati Untuk Mengembalikan Undian Media Di iPhones - Prosedur Lanjutan Terperinci!</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-quick-fixes-revealing-your-concealed-taskbar/"><u>Windows 11 Quick Fixes: Revealing Your Concealed Taskbar</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Alibaba Anticipates Executive Changes with CEO Transitioning to Cloud Initiatives - Insights From ZDNet
-date: 2024-09-19 22:41:53
-updated: 2024-09-20 11:22:47
+date: 2024-12-30T23:08:53.816Z
+updated: 2025-01-05T20:48:14.184Z
 tags:
   - cloud
 categories:
@@ -72,11 +72,29 @@ In explaining the organizational restructure, Zhang previously said it would all
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-comprehensive-list-best-10-terraria-mods/"><u>[New] In 2024, Comprehensive List Best 10 Terraria Mods</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tructuring-videos-for-maximum-impact-on-youtube/"><u>[New] Structuring Videos for Maximum Impact on YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-craft-your-story-leading-drawers-in-ipados/"><u>[Updated] Craft Your Story Leading Drawers in iPadOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alert-google-signals-upcoming-purge-of-dormant-profiles-zdnet-insights/"><u>Alert! Google Signals Upcoming Purge of Dormant Profiles - ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-unveils-cutting-edge-ai-technology-to-challenge-chatgpt-microsoft-bing-and-google-search-powers-insights-from-zdnet/"><u>Amazon Unveils Cutting-Edge AI Technology to Challenge ChatGPT, Microsoft Bing & Google Search Powers: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-platforms-effortlessly-shift-your-memories-from-google-photos-to-icloud-perfectly-explained/"><u>Bridging Platforms: Effortlessly Shift Your Memories From Google Photos to iCloud, Perfectly Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-technology-takes-over-addressing-emerging-security-challenges/"><u>Cloud Technology Takes Over: Addressing Emerging Security Challenges</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-choosing-all-correspondences-within-gmail/"><u>The Ultimate Tutorial on Choosing All Correspondences Within Gmail</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-performant-screen-recorder-pour-pcs-sous-windows-11-8-ou-7-capture-entiere-et-partielle-de-lecran/"><u>Top Performant Screen Recorder Pour PCs Sous Windows 11, 8 Ou 7 : Capture Entière Et Partielle De L'Écran</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-take-on-wp-engine-top-tier-hosting-solution-for-your-wordpress-site/"><u>ZDNet's Take on WP Engine: Top-Tier Hosting Solution for Your WordPress Site</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

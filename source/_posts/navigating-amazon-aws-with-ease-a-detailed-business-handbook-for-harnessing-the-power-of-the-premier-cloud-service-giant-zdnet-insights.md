@@ -1,7 +1,7 @@
 ---
 title: "Navigating Amazon AWS with Ease: A Detailed Business Handbook for Harnessing the Power of the Premier Cloud Service Giant | ZDNet Insights"
-date: 2024-09-18 21:58:15
-updated: 2024-09-20 10:52:17
+date: 2025-01-02T19:25:26.358Z
+updated: 2025-01-06T03:11:13.824Z
 tags:
   - cloud
 categories:
@@ -135,6 +135,10 @@ Jeff Bezos explained his company's basic philosophy in clear and indisputable te
 
 Bezos likes to adorn his biographical presentations with veritable fountains of fabulous phrases, along with boasts that may warrant a bit of suspicion. For example, in this letter, he gave AWS credit for essentially inventing service-oriented architecture (SOA) — he was, at best, a teenager when SOA was first being put to practical use. So let's try to explain what this AWS thing does, in terms even a CEO could understand. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  AWS' principal innovation was commoditizing software services 
 
 Up until the mid-2000s, software was a thing you installed on your hard drive. It was intellectual property that you were granted the license to use, and either the entirety of that license was paid for up front, or it was subscribed to on an annual "per-seat" basis. A corporate network (a LAN) introduced the astounding technical innovation of moving that hard drive into a room full of other hard drives; otherwise, the principal idea was not much different. (Microsoft thrived in this market.) 
@@ -156,6 +160,10 @@ Amazon did not invent this business model. Engineers and business visionaries di
 **LEARN MORE:**
 
 * [How Amazon exposed its guts: The history of AWS' EC2](https://www.zdnet.com/article/how-amazon-exposed-its-guts-the-history-of-awss-ec2/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How AWS' cloud business model works today 
 
@@ -229,11 +237,19 @@ Cost control is feasible, if you take the time to thoroughly train yourself on t
 * [Cloud cost control becoming a leading issue for businesses](https://www.zdnet.com/article/cloud-cost-control-becoming-a-leading-issue-for-businesses/)
 * [Cloud cost control also a challenge for small businesses and freelancers](https://www.zdnet.com/article/cloud-cost-control-also-a-challenge-for-small-businesses-and-freelancers/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  AWS basic services 
 
 Back in the days when software was manufactured, stored in inventory, and placed on retailers' shelves for display, the "platform" was the dependency that was pre-engineered into a product that made it dependent upon others, or made others dependent upon it. MS-DOS was the first truly successful commercial software platform, mostly because of the dependencies it created, and which Microsoft would later exploit more deeply with Windows. 
 
 Amazon's services are not dependent upon one another. On AWS, the platform is the fact that you're being channeled through it as your CSP. Certainly AWS offers third-party services through its [AWS Marketplace](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Faws.amazon.com%2Fmarketplace%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41d2a417-0f79-4c4d-87d9-140130517d93%7Cdtp&dtb=1). But this app store-like environment is presented more as a bazaar, adjacent to, though not directly connected to, the principal services Amazon produces and makes available through its cloud console. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Elastic Compute Cloud 
 
@@ -246,6 +262,10 @@ You then pay for the resources that instance uses, literally on a _per-second_ b
 **LEARN MORE:** 
 
 * [AWS' Mac EC2 instances now support macOS Big Sur](https://www.zdnet.com/article/aws-mac-ec2-instances-now-support-macos-big-sur/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Elastic Container Service 
 
@@ -275,6 +295,10 @@ If AWS were to charge one flat fee for data retrieval — say, per megabyte down
 
 * [Amazon unveils automatic archive to deep storage for AWS S3, and a bevy of other storage enhancements](https://www.zdnet.com/article/amazon-unveils-automatic-archive-to-deep-storage-for-aws-s3-and-a-bevy-of-other-storage-enhancements/)
 * [AWS: S3 storage now holds over 100 trillion objects](https://www.zdnet.com/article/aws-s3-storage-now-holds-over-100-trillion-objects/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  AWS database services 
 
@@ -336,6 +360,10 @@ LEARN MORE:
 * [What serverless architecture really means, and where servers enter the picture](https://www.zdnet.com/article/what-serverless-architecture-actually-means-and-where-servers-enter-the-picture/#link={)
 * [To be a microservice: How smaller parts of bigger applications could remake IT](https://www.zdnet.com/article/to-be-a-microservice-how-smaller-parts-of-bigger-applications-could-remake-it/#link={)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Amazon Elastic Container Service for Kubernetes 
 
 As Microsoft so often demonstrated during its reign as the king of the operating system, if you own the underlying platform, you can give away parts of the territory that floats on top of it, secure in the knowledge that you own the kingdom to which those islands belong. 
@@ -363,11 +391,25 @@ So if you have, say, an open source content management system compiled to run in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-initially-yours-the-ultimate-gear-list-for-gopros-for-2024/"><u>[New] Initially Yours The Ultimate Gear List for GoPros for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-luminous-transformations-for-android-videos-step-by-step-for-2024/"><u>[Updated] Luminous Transformations for Android Videos Step by Step for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-revolution-in-the-workplace-how-all-employees-will-become-creators-and-users-zdnet-perspectives/"><u>AI Revolution in the Workplace: How All Employees Will Become Creators & Users | ZDNET Perspectives</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12t-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12T Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-growth-how-openstack-and-kata-containers-capture-increased-market-interest/"><u>Exploring the Growth: How OpenStack and Kata Containers Capture Increased Market Interest</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-advanced-methods-for-archiving-your-roblox-quests-on-mac/"><u>In 2024, Advanced Methods for Archiving Your Roblox Quests on Mac</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-xr-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone XR Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-narzo-n53-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Narzo N53.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/scaling-success-stories-with-stack-overflow-cto-navigating-the-shift-from-bootstrapping-to-managing-web-giants-a-zdnet-feature/"><u>Scaling Success Stories with Stack Overflow CTO: Navigating the Shift From Bootstrapping to Managing Web Giants – A ZDNet Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/snowflake-reveals-superior-performance-of-latest-large-language-model-over-metas-llama-3-with-halved-dataset-as-reported-by-zdnet/"><u>Snowflake Reveals Superior Performance of Latest Large Language Model Over Meta's LLaMA 3 with Halved Dataset, As Reported by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-tech-hiring-innovative-methods-for-acquiring-elite-software-expertise/"><u>The Future of Tech Hiring: Innovative Methods for Acquiring Elite Software Expertise</u></a></li>
+</ul></div>
+

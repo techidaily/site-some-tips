@@ -1,7 +1,7 @@
 ---
 title: "Why the Impressive Specs of iPhone 16 Might Not Justify a Purchase: Insights From ZDNet"
-date: 2024-09-17 22:36:21
-updated: 2024-09-20 12:43:13
+date: 2024-12-30T01:17:23.459Z
+updated: 2025-01-06T04:55:39.906Z
 tags:
   - cloud
 categories:
@@ -20,6 +20,10 @@ Every year, iPhone enthusiasts eagerly await Apple's latest release. But this ye
 **Also: [Everything Apple announced at its 'Glowtime' event](https://www.zdnet.com/article/everything-apple-announced-at-its-glowtime-event-ai-features-airpods-apple-watch-series-10-more/)**
 
 Despite promises of AI advancements, the iPhone 16 seems more like a stepping stone than a game-changer. Even in my household, the decision to upgrade has divided us -- while I'm upgrading for work because I cover the technology, my wife has made it clear: she's skipping this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Great hardware, but a transitional Apple Intelligence product
 
@@ -61,6 +65,10 @@ On the Pro models, you'll find a 5X optical zoom lens, and the new 48-MP "Fusion
 
 But are these improvements enough to justify an upgrade? Probably not if you already own an iPhone 14 or 15.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Developer involvement and AI maturity
 
 While the hardware is impressive, the AI features -- centered around Apple Intelligence -- leave something to be desired, especially for those expecting a more mature experience.
@@ -70,6 +78,10 @@ Apple Intelligence is tied to Apple's own 3-billion-parameter foundation model. 
 **Also: [Every iPhone model that will be updated to Apple's iOS 18 (and which ones won't)](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/)**
 
 Apple has given [developers access to its AI APIs](https://developer.apple.com/apple-intelligence/), but we're still in the early stages of what Apple Intelligence can do. Most of the exciting features - like Genmoji and App Intents -- won't be available until iOS 18.2\. Even iOS 18.1, which unlocks some of the AI functions, won't arrive until at least October.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don't like Apple's apps? No Apple Intelligence for you.
 
@@ -89,6 +101,10 @@ Google's AI writing tools are currently available on iOS and Android through Gma
 
 Microsoft's [SwiftKey](https://apps.apple.com/us/app/microsoft-swiftkey-ai-keyboard/id911813648) iOS keyboard also brings Copilot AI-powered text generation and rewriting to the platform, making these tools accessible across all iPhone models -- not just the iPhone 16.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smart erase and privacy: Apple vs. Google
 
 I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in iOS 18\. It's been difficult to adjust to, and the [Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) \-- Apple's smart erase feature -- while intriguing, hasn't been the game changer I expected. The tool leaves artifacts in many of the photos I've tried it with on my iPhone 15 Pro Max, which detracts from the experience. 
@@ -96,6 +112,10 @@ I'm also not crazy about the updated Apple Intelligence-enhanced Photos app in i
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Google's Magic Eraser, available in Google Photos for iOS, performs similarly without requiring on-device AI processing. That said, Apple's on-device AI processing offers a privacy advantage -- your data stays on the device and doesn't require additional bandwidth. This is particularly useful if you rely on 5G data instead of Wi-Fi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you upgrade?
 
@@ -128,11 +148,24 @@ Unless you desperately need a new phone, don't rush into buying the iPhone 16\. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-creating-captivating-mukbang-content-step-by-step/"><u>[Updated] In 2024, Creating Captivating Mukbang Content Step-By-Step</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-your-footprint-in-the-world-of-youtube-comments/"><u>[Updated] In 2024, Finding Your Footprint in the World of YouTube Comments</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-sony-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Sony Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-launches-complimentary-sagemaker-studio-lab-empowering-novices-to-dive-into-ml-effortlessly-zdnet-insights/"><u>AWS Launches Complimentary SageMaker Studio Lab, Empowering Novices to Dive Into ML Effortlessly | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/can-rivian-ev-trucks-significantly-reduce-amazons-carbon-footprint-a-closer-look-with-zdnet/"><u>Can Rivian EV Trucks Significantly Reduce Amazon's Carbon Footprint?: A Closer Look with ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-12-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 12 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-top-fire-tv-sticks-which-one-reigns-supreme-on-amazon/"><u>Comparing Top Fire TV Sticks - Which One Reigns Supreme on Amazon?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/custom-echo-experience-crafting-tailored-responses-for-amazons-routine-feature-insights-and-techniques/"><u>Custom Echo Experience: Crafting Tailored Responses for Amazon's Routine Feature - Insights & Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g14-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Motorola Moto G14 Phones with/without a PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo K11x | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Top Polluting Web Pages: A Hazardous List of Eco-Unfriendly URLs - Insights From ZDNet"
-date: 2024-09-19 14:52:32
-updated: 2024-09-20 11:15:21
+date: 2025-01-03T22:52:41.835Z
+updated: 2025-01-05T22:27:22.916Z
 tags:
   - cloud
 categories:
@@ -17,6 +17,10 @@ Greg Nichols/DALL-E
 
 Poking around online, it's easy to forget that the digital spaces we move through have non-digital consequences. When it comes to the environment, [major websites have a surprising footprint](https://www.zdnet.com/article/google-creates-tools-to-track-carbon-footprint-emissions-data/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [How the New Space Race Will Drive Innovation Some of humanity's greatest innovations have emerged from space exploration. With a new space race led by the next generation of private companies, here's how they're pushing the boundaries again.  Read now](https://www.zdnet.com/topic/how-the-new-space-race-will-drive-innovation/)
@@ -31,6 +35,10 @@ While consumers may not outright avoid, say, a major e-commerce platform because
 
 So how did major websites fair? Spoiler alert: Amazon is a pretty dirty site, but at least two major governmental websites devoted to the environment are downright filthy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Methodology
 
 The clean ranking system used to determine website rank took into account whether or not a site ran on sustainable energy, such as solar and wind, how much CO2 a site produces per visit and per year, and how many trees are needed to absorb a site's CO2 emissions.
@@ -42,6 +50,10 @@ Payless Power relied on the Website Carbon Calculator at [websitecarbon.com](htt
 > From data centres to transmission networks to the billions of connected devices that we hold in our hands, it is all consuming electricity, and in turn producing carbon emissions equal to or greater than the global aviation industry. Yikes!
 > 
 > We developed the first methodology for calculating the carbon emissions attributed to a website and this free website carbon calculator is here to help raise awareness and inspire a more sustainable internet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Results
 
@@ -80,11 +92,29 @@ For a full list of results [check out the report](https://paylesspower.com/blog/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-selection-of-tiktok-screenshots/"><u>[New] Step-by-Step Selection of TikTok Screenshots</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-zero-cost-for-fcp-your-how-to/"><u>[Updated] 2024 Approved Zero Cost for FCP - Your How To</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-essential-tactics-from-visual-to-audio-media/"><u>[Updated] Essential Tactics From Visual to Audio Media</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-ai-insights-into-advantages-threats/"><u>Dissecting AI: Insights Into Advantages, Threats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-protoncloud-introducing-document-sharing-in-free-plan-with-latest-update/"><u>Enhanced ProtonCloud: Introducing Document Sharing in Free Plan with Latest Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/epic-game-retro-experience-for-modern-devices/"><u>Epic Game Retro Experience for Modern Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-get-a-dell-student-discount/"><u>How to Get a Dell Student Discount</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-countdown-best-zombie-games-ranked/"><u>In 2024, The Ultimate Countdown Best Zombie Games Ranked</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mpow-bluetooth-drivers-downloader-compatible-with-windows-1187-platforms/"><u>MPOW Bluetooth Drivers Downloader: Compatible with Windows 11/8/7 Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/notable-20-free-non-exclusive-pubg-screenshots/"><u>Notable 20 Free, Non-Exclusive PUBG Screenshots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-containers-permanently-the-ultimate-guide-using-rust-powered-edera-insights-from-zdnet/"><u>Securing Containers Permanently: The Ultimate Guide Using Rust-Powered Edera - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-pandemic-response-platforms-managing-covid-19-vaccinations-effectively/"><u>Top Rated Pandemic Response Platforms: Managing Covid-19 Vaccinations Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-hidden-expenses-of-discounted-lifetime-cloud-storage-insights-from-zdnet/"><u>Unraveling the Hidden Expenses of Discounted Lifetime Cloud Storage - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-explores-singtels-strategic-venture-into-indonesias-data-centre-market-with-new-partnership-announcement/"><u>ZDNet Explores SingTel's Strategic Venture Into Indonesia's Data Centre Market with New Partnership Announcement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-report-official-launch-of-tropical-facility-singapores-cutting-edge-data-hub-now-fully-functional/"><u>ZDNet Report: Official Launch of Tropical Facility, Singapore's Cutting-Edge Data Hub Now Fully Functional</u></a></li>
+</ul></div>
+

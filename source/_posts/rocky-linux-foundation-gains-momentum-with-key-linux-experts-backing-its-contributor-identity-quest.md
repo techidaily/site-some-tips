@@ -1,7 +1,7 @@
 ---
 title: Rocky Linux Foundation Gains Momentum with Key Linux Experts Backing Its Contributor Identity Quest
-date: 2024-09-17 15:41:39
-updated: 2024-09-20 12:28:43
+date: 2025-01-03T00:05:08.453Z
+updated: 2025-01-06T03:33:46.485Z
 tags:
   - cloud
 categories:
@@ -32,6 +32,10 @@ But, that water is well over the dam now. Today, former Linuxcare founders Art T
 Many tech businesses are under the delusion that only the young can make a difference. Indeed, many believe that if [you're over 40, you're too old for tech](https://www.fastcompany.com/90504623/tech-has-an-ageism-problem-here-are-3-things-to-do-if-youre-over-40-and-want-to-stay-relevant). 
 
 Wrong! CIQ values maturity and experience over youth and exuberance. And since [CIQ recently secured $26 million](https://www.zdnet.com/article/rocky-linux-developer-lands-26m-funding-for-enterprise-open-source-push/) in Series A funding led by [Two Bear Capital](https://twobearcapital.com/), it's not the only one that thinks it's on the right track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +77,27 @@ It's going to be interesting to see how well this all works. Personally, I'm exp
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-photobooth-glitch-unraveling-video-lags-for-2024/"><u>[New] Photobooth Glitch Unraveling Video Lags for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-how-to-fix-cult-of-the-lamb-crashing-on-pc/"><u>[Solved] How to Fix Cult of the Lamb Crashing on PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/accelerate-your-virtual-workspace-essential-tips-for-enhancing-network-performance-in-the-age-of-telecommuting-zdnet/"><u>Accelerate Your Virtual Workspace: Essential Tips for Enhancing Network Performance in the Age of Telecommuting | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-productivity-with-todoist-tips-for-effectively-repeating-and-completing-tasks-strategies-from-zdnet/"><u>Boost Your Productivity with Todoist: Tips for Effectively Repeating and Completing Tasks | Strategies From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/brighten-up-your-visuals-essential-color-correction-tutorials/"><u>Brighten Up Your Visuals Essential Color Correction Tutorials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experienced-linux-professionals-rally-support-for-rocky-linuxs-core-sponsorship-initiative-zdnet-insights/"><u>Experienced Linux Professionals Rally Support for Rocky Linux's Core Sponsorship Initiative | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/galaxy-s22s22plus-versus-iphone-13-a-detailed-comparative-analysis-tech-insights/"><u>Galaxy S22/S22+ versus iPhone 13: A Detailed Comparative Analysis - Tech Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infusing-youtube-soundtracks-within-multimedia/"><u>In 2024, Infusing YouTube Soundtracks Within Multimedia</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-impact-of-advanced-apple-ai-technologies-on-the-success-of-iphone-16-insights-and-predictions/"><u>The Impact of Advanced Apple AI Technologies on the Success of iPhone 16: Insights and Predictions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-unbeatable-october-black-friday-mobile-bargains-exclusive-offers-you-cant-miss/"><u>Top 7 Unbeatable October Black Friday Mobile Bargains - Exclusive Offers You Can't Miss</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cloud-hosting-solutions-industry-experts-choice-techradar/"><u>Top-Rated Cloud Hosting Solutions : Industry Experts' Choice | TechRadar</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-of-the-spacious-acer-chromebook-15-in-this-comprehensive-overview/"><u>Unveiling the Features of the Spacious Acer Chromebook 15 in This Comprehensive Overview</u></a></li>
+</ul></div>
+

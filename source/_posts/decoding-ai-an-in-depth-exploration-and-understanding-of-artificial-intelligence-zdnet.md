@@ -1,7 +1,7 @@
 ---
 title: "Decoding AI: An In-Depth Exploration and Understanding of Artificial Intelligence | ZDNET"
-date: 2024-09-18 13:14:47
-updated: 2024-09-20 10:14:40
+date: 2024-12-30T01:30:53.550Z
+updated: 2025-01-05T23:15:38.969Z
 tags:
   - cloud
 categories:
@@ -57,6 +57,10 @@ A major function of AI in consumer products is personalization, whether for targ
 
 On a bigger scale, marketing and content teams can use AI to [streamline production](https://www.zdnet.com/article/what-adobes-new-ai-powered-express-for-enterprise-can-do-for-business-teams/), while developers [write and execute code](https://www.zdnet.com/article/github-releases-an-ai-powered-tool-that-is-a-radically-new-way-of-building-software/) with it. AI can also exponentially increase the speed and efficiency of [medical research](https://www.zdnet.com/article/how-ai-hallucinations-could-help-create-life-saving-antibiotics/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is machine learning (ML)?
 
 Bing Image Creator/ZDNET
@@ -81,6 +85,10 @@ Suppose you wanted to train an ML model to recognize and differentiate images of
 
 The algorithm would then learn from this labeled collection of images to distinguish the shapes and their characteristics: in this case, circles don't have corners, and squares have four equal-length sides. The system can then see a new image and determine the shapes. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Unsupervised learning**
 
 By contrast, unsupervised learning lets algorithms try to identify patterns in unlabeled data by looking for similarities that it can use to categorize the data. 
@@ -88,6 +96,10 @@ By contrast, unsupervised learning lets algorithms try to identify patterns in u
 The algorithms aren't programmed in advance to pick out specific types of data; they simply look for data with similarities that they can group -- for example, segmenting customers based on shopping behavior to target them with personalized marketing campaigns. 
 
 **Also:** [**Machine learning is going real-time: Here's why and how**](https://www.zdnet.com/article/machine-learning-is-going-real-time-heres-why-and-how/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Reinforcement learning**
 
@@ -100,6 +112,10 @@ Reinforcement learning is also used in research, where it can help teach autonom
 ## What are the different types of AI?
 
 Artificial intelligence can be divided into three subcategories: narrow AI, general AI, and super AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is narrow AI?
 
@@ -149,6 +165,10 @@ ChatGPT is an AI chatbot capable of generating and translating natural language 
 
 GPT stands for Generative Pre-trained Transformer, and GPT-3 was the largest language model at its 2020 launch, with 175 billion parameters. Then came GPT-3.5, which powers the free tier of ChatGPT. The largest version, GPT-4, accessible through the free version of ChatGPT, ChatGPT Plus, and Microsoft Copilot, has one trillion parameters. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Self-driving cars**
 
 Though the safety of self-driving cars is a [top concern](https://www.zdnet.com/article/tesla-to-recall-more-than-360000-vehicles-due-to-self-driving-software-problems/) for potential users, the technology continues to advance and improve with breakthroughs in AI. These vehicles use ML algorithms to combine data from sensors and cameras to perceive their surroundings and determine the best course of action. 
@@ -171,6 +191,10 @@ Since then, DeepMind has created [AlphaFold](https://deepmind.google/technologie
 
 **Also: [What is generative AI and why is it so popular? Here's everything you need to know](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are large language models?
 
 A predominant example of AI is large language models (LLMs). These models use unsupervised machine learning and are trained on massive amounts of text to learn how human language works. Tech companies often scrape these texts from the internet for free to keep costs down -- they include articles, books, content from websites and forums, and [more](https://www.zdnet.com/article/openai-and-reddit-have-struck-a-deal-to-train-chatgpt-on-your-posts-heres-what-it-means-for-you/).
@@ -189,6 +213,10 @@ OpenAI's recently released GPT-4o tops the Chatbot Arena leaderboard as of now. 
 > 
 > — lmsys.org (@lmsysorg) [June 3, 2024](https://twitter.com/lmsysorg/status/1797690251999350875?ref%5Fsrc=twsrc^tfw)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are neural networks?
 
 picture alliance/Contributor/Getty Images
@@ -204,6 +232,10 @@ Neural networks can tweak internal parameters to change what they output. Each i
 These networks comprise interconnected layers of algorithms that feed data into each other. Neural networks can be trained to perform specific tasks by modifying the importance attributed to data as it passes between layers. During the training of these neural networks, the weights attached to data as it passes between layers will continue to be varied until the output from the neural network is very close to what is desired. 
 
 At that point, the network will have 'learned' how to carry out a particular task. The desired output could be anything from correctly labeling fruit in an image to predicting when an elevator might fail based on its sensor data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is deep learning?
 
@@ -238,6 +270,10 @@ Here are some common examples of AI available to the public, both free and for a
 * **Building a business:** Many companies are creating AI tools specifically for businesses, like [OpenAI's GPT-4 API](https://openai.com/waitlist/gpt-4-api), or [Amazon Bedrock](https://www.zdnet.com/article/amazon-launches-ai-tools-to-rival-chatgpt-microsoft-and-google/), a suite of cloud-based AI tools for developers.
 
 **Also:** [**The best free AI courses (and whether AI 'micro-degrees' and certificates are worth it)**](https://www.zdnet.com/article/the-best-free-ai-courses/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What company is leading the AI race?
 
@@ -282,6 +318,10 @@ Apple has also entered the space most recently with its AI-upgraded [line of iPa
 ### Other companies
 
 Other firms are making strides in artificial intelligence, including [Baidu](https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/), [Alibaba](https://www.zdnet.com/article/alibaba-cloud-hops-on-chatgpt-bandwagon-offers-ai-model-to-customers/), [Cruise](https://www.zdnet.com/article/gm-cruise-automated-cars-are-under-federal-investigation-for-hard-braking-stranding-passengers/), [Lenovo](https://www.zdnet.com/article/lenovo-plans-to-add-12000-new-hires-to-r-d-team-in-the-next-three-years/), [Tesla](https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/), and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How will AI change the world?
 
@@ -340,11 +380,25 @@ There is a broad range of opinions among AI experts about how quickly artificial
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-adding-drama-to-videos-strikethrough-for-emphasis-and-clarity/"><u>[Updated] Adding Drama to Videos Strikethrough for Emphasis and Clarity</u></a></li>
+<li><a href="https://win11.techidaily.com/6-ways-to-fix-the-windows-11-mail-app-when-it-shows-html-code-for-emails/"><u>6 Ways to Fix the Windows 11 Mail App When It Shows HTML Code for Emails</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/como-diminuir-o-tamanho-dos-seus-arquivos-mov-online-e-gratuitamente-top-7-dicas/"><u>Como Diminuir O Tamanho Dos Seus Arquivos MOV Online E Gratuitamente - Top 7 Dicas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-microsoft-stands-out-in-iot-expansion-while-google-retreats-from-services-market-insights-and-analysis-zdnet/"><u>How Microsoft Stands Out in IoT Expansion While Google Retreats From Services Market - Insights and Analysis | ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-convert-amv-video-formats-for-free-using-movavis-easy-to-use-software/"><u>How to Convert AMV Video Formats for Free Using Movavi's Easy-to-Use Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-your-enterprise-will-depend-on-numerous-ai-models-in-the-future-insights-from-zdnet/"><u>How Your Enterprise Will Depend on Numerous AI Models in the Future - Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-redmi-12-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi Redmi 12 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://some-tips.techidaily.com/lunar-endeavors-elevated-by-red-hat-the-role-of-tech-in-nasas-artemis-quest-zdnet-insight/"><u>Lunar Endeavors Elevated by Red Hat: The Role of Tech in NASA's Artemis Quest | ZDNET Insight</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-bluestacks-stability-issues-in-under-five-moves/"><u>Troubleshoot BlueStacks Stability Issues in Under Five Moves</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-bluehost-analysis-excellent-server-speed-and-features-with-comprehensive-control-panel/"><u>ZDNet's Bluehost Analysis: Excellent Server Speed & Features with Comprehensive Control Panel</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Navigate the Booming Cloud Sector with Winning Negotiation Tactics - Expert Insights From ZDNet
-date: 2024-09-18 18:54:58
-updated: 2024-09-20 11:31:39
+date: 2025-01-03T18:15:05.851Z
+updated: 2025-01-05T19:16:41.400Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ Photo: Joe McKendrick
 Last month, it was [disclosed](https://www.nextgov.com/emerging-tech/2022/04/nsa-re-awards-secret-10-billion-contract-amazon/366184/) that the National Security Agency re-awarded a massive and hotly contested cloud computing contract worth up to $10 billion to Amazon Web Services. 
 
 One can assume a large government agency procuring $10 billion of cloud services has quite a bit of leverage over the terms of the agreement. However, for mainstream companies, the opposite may be true -- the cloud provider holds many of the cards, in a legal or contractual sense, with terms that may come back to bite the consumer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -59,11 +63,29 @@ Cloud engagements are now the lifeblood of forward-looking enterprises seeking t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-investment-icons-top-15-youtube-stock-gurus/"><u>[New] 2024 Approved Investment Icons Top 15 YouTube Stock Gurus</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-ultimate-action-cam-max-360-vs-hero-11-gopro-showdown/"><u>[New] Unveiling the Ultimate Action Cam Max 360 vs Hero 11 GoPro Showdown</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/become-a-short-form-video-star-with-these-10-proven-methods-for-2024/"><u>Become a Short-Form Video Star with These 10 Proven Methods for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-companys-appeal-with-low-code-development-insights-from-zdnet/"><u>Boost Your Company's Appeal with Low-Code Development: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-an-unbreakable-artificial-intelligence-watermark-insights-from-zdnet/"><u>Discovering an Unbreakable Artificial Intelligence Watermark - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gemini-ai-enhancement-with-stack-overflow-data-powers-developer-solutions-on-the-google-cloud-platform/"><u>Gemini AI Enhancement with Stack Overflow Data Powers Developer Solutions on the Google Cloud Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-ai-agent-technology-redefines-future-workspaces-the-inescapable-revolution/"><u>How AI Agent Technology Redefines Future Workspaces – The Inescapable Revolution</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-comparative-game-capture-review-obs-vs-shadowplay/"><u>In 2024, Comparative Game Capture Review OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://article-files.techidaily.com/perfect-illumination-the-ultimate-guide-to-hdr-photography/"><u>Perfect Illumination The Ultimate Guide to HDR Photography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/significant-progress-in-establishing-open-source-ai-guidelines-controversies-emerge-zdnet/"><u>Significant Progress in Establishing Open Source AI Guidelines: Controversies Emerge | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamlined-strategies-maximizing-your-experience-with-xbox-game-pass-ultimate/"><u>Streamlined Strategies: Maximizing Your Experience With Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://some-tips.techidaily.com/thriving-as-a-tech-expert-in-the-age-of-artificial-intelligence-strategies-for-success-insights-from-zdnet/"><u>Thriving as a Tech Expert in the Age of Artificial Intelligence: Strategies for Success - Insights From ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unlocking-11-pros-window-secrets/"><u>Unlocking 11 Pro's Window Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-ceremorphics-revolutionary-ai-processor-technology-exiting-the-shadows-with-promising-potential/"><u>Unveiling Ceremorphic's Revolutionary AI Processor Technology: Exiting the Shadows with Promising Potential</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-descriptions-revamped-by-template-professionals-for-2024/"><u>YouTube Descriptions Revamped by Template Professionals for 2024</u></a></li>
+</ul></div>
+

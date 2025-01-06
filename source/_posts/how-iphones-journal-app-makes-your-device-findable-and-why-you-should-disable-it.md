@@ -1,7 +1,7 @@
 ---
 title: How iPhone's Journal App Makes Your Device Findable and Why You Should Disable It
-date: 2024-12-20T17:19:34.998Z
-updated: 2024-12-27T17:04:07.219Z
+date: 2025-01-04T05:43:34.926Z
+updated: 2025-01-06T00:05:22.264Z
 tags:
   - apple
 categories:
@@ -40,17 +40,9 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to disable Apple Journal's 'Discoverable by Others' setting
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Go to your iPhone Settings
 
@@ -58,21 +50,25 @@ To find the Journal app setting, open your Settings app on your iPhone.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Find Privacy & Security
 
 Scroll down and open Privacy & Security within your Apple device's Settings app.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Tap on Journaling Suggestions
 
 Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverable by Others" setting will be enabled until you disable it.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
 
@@ -83,18 +79,18 @@ Maria Diaz/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **FAQ**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
 
@@ -109,6 +105,10 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -148,24 +148,18 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-green-background-blueprints-download-free-practical-template-guides/"><u>[New] Green Background Blueprints Download Free, Practical Template Guides</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-definitive-guide-to-classic-anime-themes/"><u>[New] The Definitive Guide to Classic Anime Themes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-picks-in-the-market-for-cheap-but-high-quality-screens/"><u>[New] Top Picks in the Market for Cheap but High-Quality Screens</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-premiere-pro-template-guide-no-cost/"><u>[New] Ultimate Premiere Pro Template Guide - No Cost</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-understanding-gb-requirement-for-a-days-film/"><u>[New] Understanding GB Requirement for a Day's Film</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-guide-to-delivering-engaging-ppt-in-google-meet-mobiledesktop-for-2024/"><u>[Updated] Guide to Delivering Engaging PPT in Google Meet (Mobile/Desktop) for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-navigating-fun-with-junior-drivers/"><u>[Updated] In 2024, Navigating Fun with Junior Drivers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-reducing-inertia-induced-jello-in-uav-videos/"><u>[Updated] In 2024, Reducing Inertia-Induced Jello in UAV Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels/"><u>[Updated] Streaming Selection Saga Choose Between Engaging Podcasts and YouTube Channels</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamline-your-movie-watching-process-add-subtitles-to-wmp/"><u>[Updated] Streamline Your Movie-Watching Process Add Subtitles to WMP</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-synthesize-presentation-to-video-output/"><u>[Updated] Synthesize Presentation to Video Output</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-money-mastery-made-simple-reddits-13-best-income-streams/"><u>2024 Approved Money Mastery Made Simple Reddit's 13 Best Income Streams</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-excellent-cricket-broadcasting/"><u>2024 Approved The Ultimate Guide to Excellent Cricket Broadcasting</u></a></li>
-<li><a href="https://win-able.techidaily.com/death-stranding-on-pc-now-running-smoothly-after-debugging-challenges/"><u>Death Stranding on PC - Now Running Smoothly After Debugging Challenges</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-teaching-through-media-pro-video-editing-hacks/"><u>In 2024, Teaching Through Media Pro Video Editing Hacks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transforming-viewers-into-income-how-many-votes-yield-earnings/"><u>In 2024, Transforming Viewers Into Income How Many Votes Yield Earnings?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/struggling-with-non-responsive-windows-1110-discover-these-3-proven-methods-to-reboot-and-revive-your-system/"><u>Struggling with Non-Responsive Windows 11/10? Discover These 3 Proven Methods to Reboot and Revive Your System!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-ultimate-savings-snag-an-apple-watch-series-n-for-just-99-via-best-buys-preorder-offer-detailed-tutorial/"><u>Unlock Ultimate Savings: Snag an Apple Watch Series N for Just $99 via Best Buy's Preorder Offer - Detailed Tutorial</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-harness-the-power-of-video-for-enhanced-facebook-traffic/"><u>[New] In 2024, Harness the Power of Video for Enhanced Facebook Traffic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-to-bypass-edgenuity-videos-with-minimal-hassle/"><u>[New] Strategies to Bypass Edgenuity Videos with Minimal Hassle</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unleash-creativity-the-ultimate-selection-of-online-jpg-to-gif-tools/"><u>[Updated] 2024 Approved Unleash Creativity The Ultimate Selection of Online JPG to GIF Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-3-step-formula-how-to-check-youtube-income/"><u>2024 Approved [3-Step Formula] How To Check YouTube Income</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-shifts-in-programming-languages-demand-since-2016-and-implications-for-developers-analysis-by-zdnet/"><u>Decoding the Shifts in Programming Languages' Demand Since 2016 and Implications for Developers - Analysis by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficiently-deploy-multiple-artificial-intelligence-models-locally-tips-for-mac-and-windows-users-without-cloud-services/"><u>Efficiently Deploy Multiple Artificial Intelligence Models Locally: Tips for MAC and Windows Users Without Cloud Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-langchain-for-effective-generative-ai-assistance-unveiling-the-tactics-at-zdnet/"><u>Harnessing LangChain for Effective Generative AI Assistance - Unveiling the Tactics at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-safeguard-your-system-against-60-weekly-vulnerabilities-spotted-by-the-linux-security-team-zdnet-insights/"><u>How to Safeguard Your System Against 60 Weekly Vulnerabilities Spotted by The Linux Security Team | ZDNET Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-macs-leading-video-shaping-tools-in-big-sur-release/"><u>In 2024, Mac's Leading Video Shaping Tools in Big Sur Release</u></a></li>
+<li><a href="https://fox-info.techidaily.com/masterclass-review-top-tier-professional-cameras-spin-full-circle-2023/"><u>Masterclass Review Top-Tier Professional Cameras Spin Full Circle - 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-business-with-red-hats-new-enterprise-linux-ai-capabilities-zdnet-insights/"><u>Revolutionizing Business with Red Hat's New Enterprise Linux AI Capabilities | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-system-administration-how-red-hat-integrates-ai-for-enhanced-sysadmin-efficiency/"><u>Revolutionizing System Administration: How Red Hat Integrates AI for Enhanced Sysadmin Efficiency</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/spotlight-on-top-trending-tweets/"><u>Spotlight on Top Trending Tweets</u></a></li>
 </ul></div>
 

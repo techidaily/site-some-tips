@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Upgraded Features of 3Rd Generation Apple AirPods: An In-Depth Analysis by ZDNET"
-date: 2024-12-22T16:49:10.371Z
-updated: 2024-12-27T16:58:36.250Z
+date: 2025-01-04T04:23:37.132Z
+updated: 2025-01-06T06:04:32.534Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,18 +191,18 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-deleting-a-discord-server-desktop-and-mobile-guide/"><u>[New] Deleting a Discord Server Desktop & Mobile Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-vanguard-audio-visual-makers-virtual-showcase/"><u>[New] The Vanguard Audio-Visual Makers' Virtual Showcase</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-oculus-gaming-guide-best-selling-choices/"><u>[New] Ultimate Oculus Gaming Guide Best-Selling Choices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-the-wonders-of-4k-with-benq-bl2711u-review/"><u>[New] Unveiling the Wonders of 4K with BenQ BL2711U Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tech-gear-review-vr-treadmills-showdown/"><u>2024 Approved Tech Gear Review VR Treadmills Showdown</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-novice-to-gourmet-discover-7-innovative-ways-chatgpt-elevates-home-cooking/"><u>From Novice to Gourmet: Discover 7 Innovative Ways ChatGPT Elevates Home Cooking</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-predictive-artificial-intelligence-anticipate-outcomes-a-detailed-guide/"><u>How Does Predictive Artificial Intelligence Anticipate Outcomes? A Detailed Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-4k-blade-camera-imaging/"><u>In 2024, The Ultimate Guide to 4K Blade Camera Imaging</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/mediamasher-deluxe/"><u>MediaMasher Deluxe</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamlining-photo-and-video-transfer-from-android/"><u>Streamlining Photo & Video Transfer From Android</u></a></li>
-<li><a href="https://article-helps.techidaily.com/superior-suggestions-elite-iphone-ringtones-developers/"><u>Superior Suggestions Elite iPhone Ringtones Developers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-nights-reign-black-vs-the-dawns-duty-silver-for-2024/"><u>The Night's Reign (Black) VS The Dawn’s Duty (Silver) for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-when-your-seagate-external-drops-off-windows-11s-radar/"><u>Troubleshooting Tips for When Your Seagate External Drops Off Windows 11'S Radar</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-transform-your-igtv-videos-with-top-10-video-editors/"><u>[New] 2024 Approved Transform Your IGTV Videos with Top 10 Video Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-virtual-worlds-androidios-vr-titles/"><u>[New] Explore Virtual Worlds Android/iOS VR Titles</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unmasking-the-hype-fact-based-insights-into-instagrams-reels/"><u>[New] Unmasking the Hype Fact-Based Insights Into Instagram's Reels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-1-3-in-ipad-voice-memos-and-recorders/"><u>[Updated] 2024 Approved 1-3 in iPad Voice Memos & Recorders</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-achieving-flawless-visual-balance-aspect-ratios-matter/"><u>[Updated] In 2024, Achieving Flawless Visual Balance Aspect Ratios Matter</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-transform-yt-video-quality-utilizing-the-power-of-wm-maker/"><u>[Updated] In 2024, Transform YT Video Quality Utilizing the Power of WM Maker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-list-of-iphones-eligible-for-the-latest-apple-ios-18-update-what-models-are-in-and-out/"><u>Comprehensive List of iPhones Eligible for the Latest Apple iOS 18 Update: What Models Are In and Out?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/hosting-ai-applications-at-home-strategies-to-run-dozens-of-machine-learning-models-on-your-personal-computers-macpc-with-no-external-clouds/"><u>Hosting AI Applications at Home: Strategies to Run Dozens of Machine Learning Models on Your Personal Computers (Mac/PC) with No External Clouds</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/securing-your-ai-data-in-the-cloud-unveiling-apples-safety-measures-and-their-significance/"><u>Securing Your AI Data in the Cloud: Unveiling Apple’s Safety Measures and Their Significance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-web-hosts-of-2024-in-depth-analysis-and-recommendations-techradar/"><u>Top-Ranking Web Hosts of 2024: In-Depth Analysis & Recommendations | TechRadar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-agile-limitations-for-expanding-it-teams-insights-from-industry-experts/"><u>Understanding Agile Limitations for Expanding IT Teams: Insights From Industry Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-how-jim-zemlin-and-the-linux-foundation-master-open-source-innovation-featured-spotlight/"><u>Unlocking the Potential: How Jim Zemlin and The Linux Foundation Master Open-Source Innovation | Featured Spotlight</u></a></li>
 </ul></div>
 

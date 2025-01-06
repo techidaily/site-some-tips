@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Amazon Web Services (AWS) Strategy Handbook: Comprehensive Insights Into the Top Cloud Platform"
-date: 2024-09-19 18:45:26
-updated: 2024-09-20 11:58:30
+date: 2025-01-01T01:24:54.251Z
+updated: 2025-01-05T19:57:18.584Z
 tags:
   - cloud
 categories:
@@ -94,6 +94,10 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Faws-the-guide-to-the-worlds-most-powerful-cloud-service%2F&title= "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Faws-the-guide-to-the-worlds-most-powerful-cloud-service%2F "Twitter") 
@@ -157,6 +161,10 @@ Amazon did not invent this business model. Engineers and business visionaries di
 
 * [How Amazon exposed its guts: The history of AWS' EC2](https://www.zdnet.com/article/how-amazon-exposed-its-guts-the-history-of-awss-ec2/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  How AWS' cloud business model works today 
 
 While AWS still hosts VM-based Web sites, its modern business model is centered around delivering functionality to individuals and organizations, using the Web as its transit medium. Here, we mean "the Web" in its technical sense: the servers that use HTTP and HTTPS protocols to transact, and to exchange data packets. Folks often talk about the Web as the place where ZDNet is published. But modern software communicates with its user through the Web. 
@@ -198,11 +206,19 @@ Amazon
 
 * [AWS CEO Jassy fires back over growth rates vs. rivals](https://www.zdnet.com/article/aws-ceo-jassy-fires-back-over-growth-rates-vs-rivals/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How do you get started with AWS? 
 
 It surprises some to learn that an AWS account is not an Amazon account with extra privileges. It's a security account that centralizes the access you're given to AWS services, and associates that access with a billable address. Not a shipping address, like a destination for goods ordered from Amazon.com, but rather a login like the one you may use for Windows. 
 
 There are ways you can use this AWS account to launch yourself into the AWS space without much, or quite likely without any, monetary investment. For the first year of each account, AWS sets aside 750 hours of free usage per month (also known as "the entire month") of a Linux- or Windows-based **t2.micro** virtual machine instance, which is configured like a single-CPU PC with 1 GB of RAM. Using that instance as a virtual server, you're free to set up an instance of an Amazon RDS relational database with up to 20 GB of storage, plus another 5 GB of standard S3 object storage. (You'll see more about these basic services momentarily.) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Where can you learn how to use AWS? 
 
@@ -261,6 +277,10 @@ Because a containerized application (sorry, there's no other term for it) may us
 
 * [How Amazon and VMware are building one cloud for both platforms](https://www.zdnet.com/article/how-amazon-and-vmware-are-building-one-cloud-for-both-platforms/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Simple Cloud Storage Service (S3) 
 
 As we mentioned before, one of Amazon's true breakthroughs was the establishment of S3, its Simple Storage Service (the word "Cloud" has since been wedged into the middle of its name). For this business model, Amazon places "turnstiles," if you will, at two points of the data exchange process: when data is uploaded, and when it's transacted by means of a retrieval call or a database query. So both input and output incur charges. 
@@ -304,6 +324,10 @@ LEARN MORE:
 
 * **[Amazon S3 Access Points, Redshift updates as AWS aims to change the data lake game](https://www.zdnet.com/article/amazon-s3-access-points-redshift-updates-as-aws-looks-to-change-the-data-lake-game/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Amazon Kinesis Data Analytics 
 
 Kinesis leverages AWS' data lake components to stand up an analytics service — one that evaluates the underlying patterns within a data stream or a time series, make respectable forecasts, and draw apparent correlations as close to real-time as possible. So if you have a data source such as a server log, machines on a manufacturing or assembly line, a financial trading system, or in the most extensive example, a video stream, Kinesis can be programmed to generate alerts and analytical messages in response to conditions that you specify. 
@@ -322,6 +346,10 @@ In addition, AWS offers the following:
 * **ElastiCache** for dealing with high volumes of data in-memory.
 
 ##  AWS advanced and scientific services 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Amazon Lambda 
 
@@ -363,11 +391,33 @@ So if you have, say, an open source content management system compiled to run in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/1-advancing-chinas-digital-future-how-supercomputing-drives-national-tech-revolution-insights-from-zdnet/"><u>1. Advancing China's Digital Future: How Supercomputing Drives National Tech Revolution - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-guide-to-hilarious-memes/"><u>2024 Approved Step-by-Step Guide to Hilarious Memes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ctical-approach-to-incorporate-youtube-playlists-online-for-2024/"><u>A Practical Approach to Incorporate YouTube Playlists Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/agnes-ro-talks-about-changing-roles-in-development-at-atlassian-exclusive-coverage-by-zdnet/"><u>Agnes Ro Talks About Changing Roles in Development at Atlassian – Exclusive Coverage by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/atp-formation/"><u>ATP Formation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-ceo-reveals-exclusive-private-5g-offering-during-the-landmark-2021-reinvent-event-whats-next-for-cloud-connectivity/"><u>AWS CEO Reveals Exclusive Private 5G Offering During the Landmark 2021 Re:Invent Event – What's Next for Cloud Connectivity?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-efficiency-the-enhanced-google-drive-homepage-simplifies-your-search-journey-zdnet/"><u>Discovering Efficiency: The Enhanced Google Drive Homepage Simplifies Your Search Journey | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/eco-friendly-breakthrough-how-microsofts-hefty-half-billion-dollars-propels-lanzajet-towards-sustainable-datacenter-solutions-zdnet/"><u>Eco-Friendly Breakthrough: How Microsoft's Hefty Half-Billion Dollars Propels LanzaJet Towards Sustainable Datacenter Solutions | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-your-home-cloud-operational-in-just-60-minutes-expert-advice-and-steps-from-zdnets-latest-article/"><u>Get Your Home Cloud Operational in Just 60 Minutes: Expert Advice & Steps From ZDNet's Latest Article</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-maximize-your-view-with-lg-27ud88-w-monitor/"><u>How to Maximize Your View with LG 27UD88-W Monitor</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-pova-5-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Pova 5 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-x-fold-2-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo X Fold 2 FRP Bypass</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/key-concepts-in-image-manipulation-for-2024/"><u>Key Concepts in Image Manipulation for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/key-platforms-ranking-the-best-6-sites-for-business-interaction-for-2024/"><u>Key Platforms Ranking the Best 6 Sites for Business Interaction for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-notion-overcoming-frustrations-with-the-evernote-import-feature-a-step-by-step-guide/"><u>Navigating Notion: Overcoming Frustrations with the Evernote Import Feature - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shifting-enterprise-workloads-to-edge-computing-is-it-fully-prepared/"><u>Shifting Enterprise Workloads to Edge Computing: Is It Fully Prepared?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-activating-your-account-on-bings-ai-enhanced-search-platform/"><u>Step-by-Step Guide: Activating Your Account on Bing's AI-Enhanced Search Platform</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-virtual-journey-past-to-present/"><u>The Virtual Journey Past to Present</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixing-issues-with-active-audio-services/"><u>Troubleshooting: Fixing Issues with Active Audio Services</u></a></li>
+</ul></div>
+

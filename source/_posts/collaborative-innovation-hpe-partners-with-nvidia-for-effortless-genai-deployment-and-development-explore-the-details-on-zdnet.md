@@ -1,7 +1,7 @@
 ---
 title: "Collaborative Innovation: HPE Partners with Nvidia for Effortless GenAI Deployment and Development | Explore the Details on ZDNET"
-date: 2024-09-18 20:34:51
-updated: 2024-09-20 12:11:59
+date: 2024-12-31T03:59:47.443Z
+updated: 2025-01-06T04:53:00.064Z
 tags:
   - cloud
 categories:
@@ -50,6 +50,10 @@ AI requires a hybrid cloud by design to deliver GenAI effectively and through th
 With the integrated HPE-Nvidia offering, Neri is pitching that users can get set up on their AI deployment in just three clicks and 24 seconds. 
 
 Huang said: "GenAI and accelerated computing are fueling a fundamental transformation as every industry races to join the industrial revolution. Never before have Nvidia and HPE integrated our technologies so deeply -- combining the entire Nvidia AI computing stack along with HPE's private cloud technology."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Removing the complexities and disconnect
 
@@ -106,11 +110,29 @@ _Eileen Yu reported for ZDNET from HPE Discover 2024 in Las Vegas, at the invita
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/alibaba-appoints-new-chief-technology-officer-current-ceo-takes-over-temporary-cloud-role-zdnet/"><u>Alibaba Appoints New Chief Technology Officer; Current CEO Takes Over Temporary Cloud Role - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alibaba-plans-separate-ipo-for-cloud-business-and-initiates-public-offering-of-two-subsidiaries/"><u>Alibaba Plans Separate IPO for Cloud Business & Initiates Public Offering of Two Subsidiaries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazons-aws-launches-innovative-trainium-ai-processor-and-graviton-4-enhanced-collaboration-with-nvidia-announced/"><u>Amazon's AWS Launches Innovative Trainium AI Processor & Graviton-4: Enhanced Collaboration with Nvidia Announced</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/audience-accessibility-switching-from-srt-to-sub/"><u>Audience Accessibility Switching From SRT to SUB</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/come-ripristinare-il-punto-di-ripristino-del-sistema-su-windows-11-guida-completa/"><u>Come Ripristinare Il Punto Di Ripristino Del Sistema Su Windows 11: Guida Completa</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/deploiement-facile-de-codecs-h264-accedez-votre-kit-complete-pour-la-diffusion-en-haute-definition/"><u>Déploiement Facile De Codecs H.264 : Accédez Votre Kit Complete Pour La Diffusion en Haute Définition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cial-magnitude-in-mr-beasts-realm-for-2024/"><u>Financial Magnitude in Mr. Beast's Realm for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-cloud-sidestep-these-critical-errors-with-tips-from-zdnet/"><u>Mastering the Cloud: Sidestep These Critical Errors with Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meta-and-amazon-web-services-join-forces-for-greater-pytorch-penetration-cloudcomputing-news/"><u>Meta and Amazon Web Services Join Forces for Greater PyTorch Penetration | CloudComputing News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigate-troublesome-design-errors-in-notion-evernote-integration-expert-tips-for-smooth-transfers-zdnet/"><u>Navigate Troublesome Design Errors in Notion Evernote Integration - Expert Tips for Smooth Transfers | ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-lenovo-thunderbolt-3-usb-c-docking-station-driver-guide/"><u>New Lenovo Thunderbolt 3 USB-C Docking Station Driver Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/prepare-for-advancement-explore-beyond-ai-innovations-at-the-forefront-tips-from-zdnet/"><u>Prepare for Advancement: Explore Beyond AI Innovations at the Forefront - Tips From ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/supreme-artistry-studios-feedback-studio-review-2023/"><u>Supreme Artistry Studios Feedback Studio Review 2023</u></a></li>
+</ul></div>
+

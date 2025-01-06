@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Irritating Limitations: A Guide to Bypassing Notion-Evernote Import Issues"
-date: 2024-09-17 15:19:35
-updated: 2024-09-20 10:38:13
+date: 2024-12-31T21:01:23.418Z
+updated: 2025-01-05T22:38:32.650Z
 tags:
   - cloud
 categories:
@@ -19,6 +19,10 @@ I started writing my blog posts for ZDNET in Evernote back in 2012\. With a few 
 
 I quite like [Evernote](https://evernote.com/) and pay for a professional plan. One of the key benefits of Evernote was (note the past tense) that I could sync between computers. I usually write my articles on my MacBook Air. Once the article is done, my wife (who has years of experience as a managing editor) does an editing pass with me from the couch, using a Mac mini that is connected to a big screen in our family room. I then submit the edited article to ZDNET's editors for review. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Sync failures 
 
 But then Evernote's sync started to regularly fail. Sometimes it wouldn't sync at all. Sometimes, the edited version would be reported as a conflict, and Evernote would create two copies of the article. 
@@ -30,6 +34,10 @@ I reached out to [Evernote's support team](https://help.evernote.com/hc/en-us/re
 Not encouraging, that. Then, when Evernote decided to create three separate copies of an article, I realized it was time to find a different solution. 
 
 This kind of thing gets old after awhile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The need to import Evernote notes 
 
@@ -44,6 +52,10 @@ A whole bunch of programs import Evernote, including Apple Notes, [Obsidian](htt
 **Review:** [**Notion app: Why (and how) I rely on this powerful productivity tool**](https://www.zdnet.com/article/notion-app-review/)
 
 This did not go smoothly. Part of it was Evernote's fault. Part of it was Notion's fault. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Notion conundrum 
 
@@ -69,6 +81,10 @@ It's here we start going down the rabbit hole. It starts with the problem of spl
 
 But, as we've established, Evernote has sync reliability issues. So the idea of flinging thousands of mission-critical notes around and hoping they sync properly and don't break was a deal-breaker. But that's the only way Notion can get notes out of Evernote. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How I eventually solved the problem 
 
 Let's recap. 
@@ -90,6 +106,10 @@ Once I verified all seven parts were properly in the cloud, I went back into Not
 On each of those occasions, there was a note with graphics in it, and it was that note that killed the import. Depending on how important the note was for my records or work, I either deleted the full failing note, or removed the graphics from the failing note. In any case, after dealing with the failing notes, I was able to complete the imports into Notion. 
 
 I followed the same process with my Blogs-in-Progress notebook, but because there were fewer notes, it went faster. All told, it took about six hours of tweaking, fiddling, and waiting for syncs to complete to move the data from Evernote to Notion, but it did, eventually, work. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Some obvious conclusions 
 
@@ -130,11 +150,31 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-solutions.techidaily.com/remnant-from-the-ashes-overcoming-game-crash-dilemma/"><u>'Remnant: From the Ashes - Overcoming Game Crash Dilemma</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-affordable-asmr-capturing-selecting-premium-gear-for-budget-conscious-users/"><u>[New] Affordable ASMR Capturing Selecting Premium Gear for Budget-Conscious Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-quick-access-to-fb-vids-as-mp4-files-for-2024/"><u>[New] Quick Access to FB Vids as MP4 Files for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-how-to-pinpoint-the-perfect-tag-for-your-personalized-tiktok-stream/"><u>[Updated] How to Pinpoint the Perfect Tag for Your Personalized TikTok Stream</u></a></li>
+<li><a href="https://some-tips.techidaily.com/80-off-premium-smallcloud-storage-solutions-now-available-on-zdnet-shop/"><u>$80 Off: Premium SmallCloud Storage Solutions Now Available on ZDnet Shop</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-cartoonkingdom-comprehensive-24-guide/"><u>2024 Approved CartoonKingdom Comprehensive '24 Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/australian-authorities-advocate-for-rapid-deployment-of-essential-security-patches-in-businesses-zdnet/"><u>Australian Authorities Advocate for Rapid Deployment of Essential Security Patches in Businesses | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/continued-access-guaranteed-office-2016-and-2019-seamless-connection-to-microsoft-365-in-the-coming-year/"><u>Continued Access Guaranteed: Office 2016 & 2019 Seamless Connection to Microsoft 365 in the Coming Year</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/heic-to-jpg-conversion-seamless-cross-platform-transformation-with-movavi-image-converter/"><u>HEIC to JPG Conversion: Seamless Cross-Platform Transformation with Movavi Image Converter</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-building-an-intriguing-vlog-conversation-guide/"><u>In 2024, Building an Intriguing Vlog Conversation Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-s24plus-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy S24+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-unveils-innovative-ai-co-pilots-boosting-customer-support-and-sales-efficiency-insights-from-zdnet/"><u>Microsoft Unveils Innovative AI Co-Pilots Boosting Customer Support & Sales Efficiency – Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/overcoming-azures-ongoing-resource-constraints-strategies-for-users/"><u>Overcoming Azure's Ongoing Resource Constraints: Strategies for Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/prioritizing-cloud-safety-why-relying-solely-on-service-providers-isnt-enough/"><u>Prioritizing Cloud Safety: Why Relying Solely on Service Providers Isn't Enough</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-linux-foundation-advocates-for-cutting-edge-exascale-performance-a-deep-dive-into-future-computing/"><u>The Linux Foundation Advocates for Cutting-Edge Exascale Performance: A Deep Dive Into Future Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726808538468-top-rated-cloud-migration-services-of-2022-insights-from-zdnet/"><u>Top Rated Cloud Migration Services of 2022 - Insights From ZDNet</u></a></li>
+</ul></div>
+

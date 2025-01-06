@@ -1,7 +1,7 @@
 ---
 title: How a Major Retail Chain Achieves Success with Edge-to-Cloud Digital Innovation Strategies | Tech Insights
-date: 2024-09-18 20:32:13
-updated: 2024-09-20 10:45:24
+date: 2025-01-03T01:47:30.164Z
+updated: 2025-01-05T19:47:16.056Z
 tags:
   - cloud
 categories:
@@ -115,6 +115,10 @@ In this article, we're going to take a slightly different approach. Rather than 
 
 Because many of these initiatives tend to be confidential inside the real-world companies performing them, in this article we're going to be talking about a fictional distributed home and building goods chain retailer: Home-by-Home. That way, we can dive into some of the areas of business operations that a real enterprise might not be comfortable revealing publicly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Case study: Home-by-Home
 
 At a base level, Home-by-Home stores need to be able to handle normal checkout and customer transactions. While this is an operation common to nearly all retailers, it's also one that's deeply infused with technology and innovation.
@@ -128,6 +132,10 @@ And because most of Home-by-Home's stores have wireless shelf-talker tags (tiny 
 On a global level, the retailer needs to track supply chain issues worldwide, and factor in weather, political, and shipping analytics to ensure goods are where they need to be when needed. AI plays a role here, too. In fact, we'll see that AI is playing a bigger and bigger role throughout Home-by-Home's entire extended network as well as its supply chain.
 
 By combining API access and microservices with big data and real-time analytics, Home-by-Home and its suppliers can account for the constantly shifting terrain of international supply and demand, and change vendors, orders, and promotions to suit as-it's-happening availability and logistics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -145,11 +153,19 @@ Since 2000, Home-by-Home has been converting larger stores into dual-purpose fac
 
 Earlier this year, Home-by-Home acquired a competitor with 450 stores and has begun a considerable migration effort to move them from old point-of-sale systems and central siloed databases to the edge-to-cloud digital transformation that's actively in practice throughout Home-by-Home's operations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## End-to-end integration across all stores and vendors
 
 There is one general operating principle by which Home-by-Home measures all of its IT decisions: everything must integrate, and do so smartly. It's not enough just to have constant streams of data coming from the stores to organization-wide databases. 
 
 That data has to go to the right places at the right time, and trigger the right operations. Data flow also can't just be one way. Data has to move from vendors and suppliers to various corporate departments to stores and back again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -170,6 +186,10 @@ Dynamic provisioning and on-demand infrastructure from edge to cloud is key to i
 
 Seasonal surges are also accommodated, allowing the company to add about 30% additional IT infrastructure resources for the critical home improvement seasons, but then scale back down and reduce spending during the months when consumers are focused on other interests.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edge-to-cloud platforms
 
 HPE GreenLake is an example of one of the companies that offers edge-to-cloud services that bring the centralized dashboard, on-demand provisioning, and pay-as-you-go benefits of public cloud infrastructure to on-premises computing and edge computing installations. This is what a company like Home-by-Home needs to be able to begin provisioning the services for its new acquisition immediately. There is no order-and-wait period for new configurations. 
@@ -186,11 +206,28 @@ Edge-to-cloud platforms help aggregate entire solutions, providing the benefits 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-accelerate-your-editing-with-these-10-pro-plugins-for-2024/"><u>[New] Accelerate Your Editing with These 10 Pro Plugins for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-best-7-first-person-shooters-of-the-year/"><u>[New] In 2024, Best 7 First-Person Shooters of the Year</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-details-on-creating-effective-yt-shorts/"><u>[Updated] 2024 Approved Essential Details on Creating Effective YT Shorts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advanced-tech-insights-mastering-the-art-of-ai-task-deployment-with-latest-kubernetes-enhancements/"><u>Advanced Tech Insights: Mastering the Art of AI Task Deployment with Latest Kubernetes Enhancements</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/easy-steps-for-designing-podcast-rss-structure/"><u>Easy Steps for Designing Podcast RSS Structure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experts-highlight-disturbing-trend-of-inadequate-cloud-protection-against-accelerating-ai-risks-insights-from-zdnet/"><u>Experts Highlight Disturbing Trend of Inadequate Cloud Protection Against Accelerating AI Risks - Insights From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-spark-go-2023-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Spark Go (2023) Pattern Lock Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-competitive-pricing-in-todays-booming-cloud-economy-digitaltrends/"><u>Mastering Competitive Pricing in Today's Booming Cloud Economy | DigitalTrends</u></a></li>
+<li><a href="https://some-tips.techidaily.com/struggling-with-storage-overload-in-google-drive-uncover-the-key-to-organizing-your-files-like-a-pro/"><u>Struggling with Storage Overload in Google Drive? Uncover the Key to Organizing Your Files Like a Pro!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-new-era-for-googles-cloud-storage-service-impact-and-insights/"><u>Unveiling the New Era for Google's Cloud Storage Service – Impact and Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171456866-upgrade-to-efficiency-embrace-the-newest-nvidia-drivers-now/"><u>Upgrade to Efficiency: Embrace the Newest Nvidia Drivers Now!</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-htc-u23-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My HTC U23 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-impressive-tech-behind-the-iphone-16-may-not-justify-a-purchase-for-most-users-zdnet-reviewed/"><u>Why the Impressive Tech Behind the iPhone 16 May Not Justify a Purchase for Most Users | ZDNet Reviewed</u></a></li>
+</ul></div>
+

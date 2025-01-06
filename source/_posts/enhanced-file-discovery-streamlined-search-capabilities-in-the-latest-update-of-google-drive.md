@@ -1,7 +1,7 @@
 ---
 title: "Enhanced File Discovery: Streamlined Search Capabilities in the Latest Update of Google Drive"
-date: 2024-09-17 21:32:32
-updated: 2024-09-20 12:26:59
+date: 2024-12-30T00:50:32.635Z
+updated: 2025-01-05T21:56:59.214Z
 tags:
   - cloud
 categories:
@@ -33,13 +33,25 @@ When you use the Filter Toolbar, it even filters out folders. For example, if yo
 
 Let me show you how easy this new feature is to use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use the new Google Drive Filter Toolbar
 
 **What you'll need:** The only things you'll need are a valid Google account and a web browser. Of course, [you'll want to have files in Drive](https://www.zdnet.com/home-and-office/work-life/how-to-set-up-offline-access-in-google-drive/), otherwise, you'll have nothing to filter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Log into Google Drive
 
 The first thing to do is open your default web browser and log into [Google Drive](https://drive.google.com).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable the Filter Toolbar
 
@@ -48,6 +60,10 @@ If you don't immediately see the Filter Toolbar at the top of Drive, you should 
 If you don't see the Filter Toolbar, click the three-line icon to enable it.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Using the Filter Toolbar
 
@@ -96,11 +112,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-epitaph-to-entertainment-picking-the-ultimate-zombie-games/"><u>[Updated] In 2024, Epitaph to Entertainment Picking the Ultimate Zombie Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-live-streaming-console-gaming-secrets-on-a-computer/"><u>[Updated] In 2024, Live-Streaming Console Gaming Secrets on a Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-experts-challenge-conventional-wisdom-on-large-language-models-the-latest-perspectives-featured-on-zdnet/"><u>AI Experts Challenge Conventional Wisdom on Large Language Models - The Latest Perspectives Featured on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-revolution-in-employment-the-end-of-certain-careers-and-birth-of-innovative-professions-zdnet/"><u>AI Revolution in Employment: The End of Certain Careers & Birth of Innovative Professions | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-portable-power-solutions-a-must-have-charging-buddy-for-your-macbook-pro-s-expert-pick/"><u>Best Portable Power Solutions: A Must-Have Charging Buddy for Your MacBook Pro 'S Expert Pick</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/boxed-insights-unpacking-effective-strategy-for-2024/"><u>Boxed Insights Unpacking Effective Strategy for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ensuring-permanent-container-safety-using-rust-framework-introducing-edera/"><u>Ensuring Permanent Container Safety Using Rust Framework - Introducing Edera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-intels-leading-ai-expert-wei-li-plans-to-make-powerful-ai-supercomputing-accessible-to-all-zdnet/"><u>How Intel's Leading AI Expert, Wei Li Plans to Make Powerful AI Supercomputing Accessible to All | ZDNET</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-venues-for-immersive-media/"><u>In 2024, Innovative Venues for Immersive Media</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-edit-facebook-video-ads-for-e-commerce-business/"><u>New In 2024, How to Edit Facebook Video Ads for E-Commerce Business</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wise-sagacious/"><u>Wise - Sagacious</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/x-sonic-recorder-desktop-format-for-2024/"><u>X-Sonic Recorder Desktop Format for 2024</u></a></li>
+</ul></div>
+

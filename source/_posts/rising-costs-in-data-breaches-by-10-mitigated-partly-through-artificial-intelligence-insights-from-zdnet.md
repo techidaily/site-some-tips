@@ -1,7 +1,7 @@
 ---
 title: Rising Costs in Data Breaches by 10%% Mitigated Partly Through Artificial Intelligence - Insights From ZDNet
-date: 2024-09-19 20:56:42
-updated: 2024-09-20 12:40:53
+date: 2024-12-30T05:57:01.496Z
+updated: 2025-01-05T21:28:03.304Z
 tags:
   - cloud
 categories:
@@ -100,11 +100,31 @@ To stay ahead, Skapinetz urged organizations to invest in [AI-driven defenses](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-marketing-mastery-crafting-viral-video-campaigns-on-social-media-for-2024/"><u>[New] Insta-Marketing Mastery Crafting Viral Video Campaigns on Social Media for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-independent-evaluation-the-3dr-solo-experience/"><u>[Updated] In 2024, Independent Evaluation The '3DR' Solo Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-beginners-tutorial-on-using-luts-in-ar/"><u>A Beginner's Tutorial on Using LUTs in AR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/amazon-web-services-unveils-preview-for-ec2-based-apple-silicon-servers-techcrunch/"><u>Amazon Web Services Unveils Preview for EC2-Based Apple Silicon Servers | TechCrunch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/esteemed-linux-professionals-endorse-ciq-as-pillar-of-rocky-linuxs-launch-zdnet-insights/"><u>Esteemed Linux Professionals Endorse CIQ as Pillar of Rocky Linux's Launch | ZDNET Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ibm-linuxone-amo-unlocking-mainframe-potential-on-budget-with-expert-advice-zdnets-comprehensive-guide/"><u>IBM LinuxONE Amo: Unlocking Mainframe Potential on Budget with Expert Advice | ZDNET's Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-basic-equipment-for-travel-video-creators/"><u>In 2024, Basic Equipment for Travel Video Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/next-level-splitting-tools-beyond-xsplit/"><u>Next-Level Splitting Tools Beyond Xsplit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/promoting-advanced-computing-power-the-linux-foundations-endorsement-of-high-performance-and-exascale-systems/"><u>Promoting Advanced Computing Power: The Linux Foundation's Endorsement of High-Performance & Exascale Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reviews-of-razers-gaming-accessory-unleashing-powerful-wi-fi-connectivity/"><u>Reviews of Razer's Gaming Accessory - Unleashing Powerful Wi-Fi Connectivity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-lexmark-printer-driver-adjustments/"><u>Swift Lexmark Printer Driver Adjustments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-strategic-move-alibabas-cloud-division-spin-off-and-upcoming-listings-of-allied-firms/"><u>Unveiling Strategic Move: Alibaba's Cloud Division Spin-Off and Upcoming Listings of Allied Firms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-linux-isnt-your-go-to-for-cloud-computing-and-how-a-dbos-stacks-up-experience-it-at-no-cost-zdnet/"><u>Why Linux Isn't Your Go-To for Cloud Computing and How a DBOS Stacks Up - Experience It at No Cost | ZDNet</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

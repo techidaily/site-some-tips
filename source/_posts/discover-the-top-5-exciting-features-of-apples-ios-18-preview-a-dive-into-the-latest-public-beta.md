@@ -1,7 +1,7 @@
 ---
 title: "Discover the Top 5 Exciting Features of Apple's iOS 18 Preview: A Dive Into the Latest Public Beta!"
-date: 2024-12-14T16:30:01.533Z
-updated: 2024-12-21T18:35:15.480Z
+date: 2025-01-01T04:23:15.928Z
+updated: 2025-01-06T02:15:52.624Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,19 +120,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-how-to-change-name-in-google-meet-for-2024/"><u>[New] How to Change Name in Google Meet for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-streamline-your-tweets-with-correct-videography-aspect-ratio/"><u>[New] In 2024, Streamline Your Tweets with Correct Videography (Aspect Ratio)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-snapshot-speaks-the-leading-captioning-apps-iosandroid/"><u>[Updated] Snapshot Speaks The Leading Captioning Apps (iOS/Android)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-next-level-gaming-premium-vr-players-reviewed/"><u>2024 Approved Next-Level Gaming Premium VR Players Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/automated-traffic-boost-with-the-help-of-cookiebot/"><u>Automated Traffic Boost with the Help of Cookiebot</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boosting-business-efficiency-integrating-abbyys-smart-content-into-sap-bot-solutions/"><u>Boosting Business Efficiency: Integrating ABBYY's Smart Content Into SAP Bot Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/clear-instructions-for-repairing-non-responsive-hardware-connections-in-windows/"><u>Clear Instructions for Repairing Non-Responsive Hardware Connections in Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-analytics-and-tracking-solutions/"><u>Cookiebot-Driven Analytics and Tracking Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-performance-boosting-web-traffic-effortlessly/"><u>Cookiebot-Driven Performance: Boosting Web Traffic Effortlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-sites-optimized-user-experience/"><u>Cookiebot-Enabled Sites: Optimized User Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhance-your-sites-engagement-with-smart-tracking/"><u>Cookiebot-Enabled: Enhance Your Site's Engagement with Smart Tracking</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/playing-4k-hevch265-videos-on-vlc-a-comprehensive-guide-using-the-latest-encoding-standards/"><u>Playing 4K HEVC/H.265 Videos on VLC: A Comprehensive Guide Using the Latest Encoding Standards</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/spotlight-on-11-top-audio-capture-equipments/"><u>Spotlight on 11 Top Audio Capture Equipments</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-apex-producer-syncing-shots-and-songs/"><u>[New] 2024 Approved Apex Producer Syncing Shots & Songs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-creating-classical-cinematography-a-modern-tutorial/"><u>[New] Creating Classical Cinematography A Modern Tutorial</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unveiling-colors-top-11-grading-and-correction-techniques/"><u>[Updated] 2024 Approved Unveiling Colors Top 11 Grading & Correction Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/beginners-roadmap-understanding-and-investing-in-cryptocurrencies-tips-from-zdnet/"><u>Beginner's Roadmap: Understanding & Investing in Cryptocurrencies - Tips From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/early-bird-special-on-amazon-prime-bargain-bonanza-or-just-hot-air/"><u>Early Bird Special on Amazon Prime: Bargain Bonanza or Just Hot Air?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ensuring-timely-holiday-cheer-top-websites-offering-express-present-shipping-services-this-season/"><u>Ensuring Timely Holiday Cheer: Top Websites Offering Express Present Shipping Services This Season</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/expert-advice-diagnosing-and-fixing-pc-hardware-errors-in-windows-with-help-from-yl-technology-solutions/"><u>Expert Advice: Diagnosing and Fixing PC Hardware Errors in Windows with Help From YL Technology Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-small-group-setups-in-zoom-for-2024/"><u>Navigating Small Group Setups in Zoom for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-missing-msvcr70dll-file-issue-on-your-pc/"><u>Resolving the Missing MSVCR70.DLL File Issue on Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/singapore-unveils-digital-solution-for-improved-supply-chain-communication-insights-from-zdnet/"><u>Singapore Unveils Digital Solution for Improved Supply Chain Communication: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-top-pick-the-finest-credit-cards-tailored-for-digital-storefronts-and-online-shopping-experience/"><u>ZDNet's Top Pick: The Finest Credit Cards Tailored for Digital Storefronts and Online Shopping Experience</u></a></li>
 </ul></div>
 

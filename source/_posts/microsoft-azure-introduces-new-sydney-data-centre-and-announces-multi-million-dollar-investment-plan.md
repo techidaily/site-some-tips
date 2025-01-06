@@ -1,7 +1,7 @@
 ---
 title: Microsoft Azure Introduces New Sydney Data Centre & Announces Multi-Million Dollar Investment Plan
-date: 2024-09-17 15:52:13
-updated: 2024-09-20 11:26:20
+date: 2025-01-01T19:37:26.081Z
+updated: 2025-01-05T19:50:31.610Z
 tags:
   - cloud
 categories:
@@ -31,6 +31,10 @@ Amazon has 57 renewable energy initiatives across this region, including a groun
 
 AWS last February unveiled plans to [set up 10 local zones in Asia-Pacific](https://www.zdnet.com/article/aws-looks-to-tap-apac-demand-for-edge-access-with-local-zones/), as part of a global rollout to add 22 locations to the fold. It said the move to push cloud capabilities to the edge was in line with growing enterprise demand for ultra-low latency and distributed service delivery. Local zones would span six Asia-Pacific markets, including Auckland, Bangkok, Brisbane, and Bengaluru.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [AWS announces plan to launch AWS Australia for smoother billing and contracting](https://www.zdnet.com/article/aws-announces-plan-to-launch-aws-australia-for-smoother-billing-and-contracting/)
@@ -45,11 +49,30 @@ AWS last February unveiled plans to [set up 10 local zones in Asia-Pacific](http
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-discover-these-6-must-have-instagram-reel-tools-for-2024/"><u>[New] Discover These 6 Must-Have Instagram Reel Tools for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-prime-your-vlogging-game-top-tier-mac-mp4-editors-reviewed/"><u>[New] In 2024, Prime Your Vlogging Game Top-Tier Mac MP4 Editors Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-stabilizing-handheld-gopro-videos/"><u>[New] Mastering the Art of Stabilizing Handheld GoPro Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-full-spectrum-alliance-an-mcn-decision-blueprint-for-2024/"><u>[Updated] The Full Spectrum Alliance An MCN Decision Blueprint for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-essential-techniques-for-excelling-at-your-career-with-artific-grophy-intelligence/"><u>6 Essential Techniques for Excelling at Your Career with Artific Grophy Intelligence</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y27-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y27 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-azures-ongoing-resource-constraints-strategies-for-customer-adaptation/"><u>Navigating Azure's Ongoing Resource Constraints: Strategies for Customer Adaptation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-complexities-of-hybrid-cloud-management-insights-from-industry-leaders-zdnet/"><u>Navigating the Complexities of Hybrid Cloud Management: Insights From Industry Leaders - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/nvidia-collaborates-with-snowflake-on-advanced-llm-ai-integration-what-you-need-to-know/"><u>Nvidia Collaborates with Snowflake on Advanced LLM AI Integration: What You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/preventing-excessive-storage-consumption-by-google-drives-desktop-app-effective-strategies/"><u>Preventing Excessive Storage Consumption by Google Drive's Desktop App: Effective Strategies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-s23-ultra-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy S23 Ultra Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplifying-kubernetes-with-microsofts-new-ai-powered-operator-on-azure-an-overview/"><u>Simplifying Kubernetes with Microsoft's New AI-Powered Operator on Azure: An Overview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/singapores-strategic-advance-in-artificial-intelligence-through-quantum-computing-initiatives-and-expanded-data-centers/"><u>Singapore's Strategic Advance in Artificial Intelligence Through Quantum Computing Initiatives & Expanded Data Centers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-eco-friendly-question-of-modern-cloud-computing-understanding-its-true-footprint/"><u>The Eco-Friendly Question of Modern Cloud Computing: Understanding Its True Footprint</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-sony-vegas-replacements-for-windows-users-for-2024/"><u>Updated Top Sony Vegas Replacements for Windows Users for 2024</u></a></li>
+</ul></div>
+

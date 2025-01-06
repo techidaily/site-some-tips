@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Potential of Generative AI in Telecommunications - The Need for Telcos to Embrace Commercialization Strategies Similar to 5G
-date: 2024-09-19 23:42:50
-updated: 2024-09-20 10:59:19
+date: 2025-01-04T23:26:17.562Z
+updated: 2025-01-06T04:39:51.705Z
 tags:
   - cloud
 categories:
@@ -61,6 +61,10 @@ GSMA projects that 5G connections will grow from 1.6 billion to 2.1 billion by t
 
 Jarich noted that use cases can differ for regions and markets, giving local telcos further opportunities to find new revenue. And with most GenAI services running on the cloud, operators can play a differentiating role in facilitating these. For instance, they can provide support for edge computing, which will be important for some GenAI services such as real-time language translation and smaller large language models (LLMs) that can be hosted on the device. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Dedicated foundation model for telcos
 
 Domain-specific LLMs also are being made available to help identify GenAI use cases specific to the needs of a particular sector, such as financial or healthcare. 
@@ -118,11 +122,29 @@ _Based in Singapore, Eileen Yu reported for ZDNET from Mobile World Congress 202
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-crafting-compelling-videos-the-instagram-editors-playbook/"><u>[New] 2024 Approved Crafting Compelling Videos The Instagram Editor's Playbook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-innovative-practices-for-instagram-video-narratives-and-captioning/"><u>[New] 2024 Approved Innovative Practices for Instagram Video Narratives and Captioning</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-anime-and-music-mixing-up-the-next-big-tiktok-hits/"><u>[Updated] 2024 Approved Anime and Music Mixing Up the Next Big TikTok Hits</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-essential-ingredients-for-triumphant-tiktok-marketing-plans/"><u>[Updated] In 2024, Essential Ingredients for Triumphant TikTok Marketing Plans</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-steps-to-prevent-youtube-channels-mobile-and-desktop-methods/"><u>[Updated] Steps to Prevent Youtube Channels Mobile and Desktop Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/edge-cloud-advancements-as-akamai-partners-with-linode-reports-zdnet/"><u>Edge Cloud Advancements as Akamai Partners with Linode, Reports ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ensure-ultimate-container-safety-with-rust-and-edera-the-definitive-techniques-insights-from-zdnet/"><u>Ensure Ultimate Container Safety with Rust and Edera: The Definitive Techniques | Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ensuring-ultimate-container-safety-how-rusts-edera-revolutionizes-security-in-the-digital-realm-zdnet-exclusive/"><u>Ensuring Ultimate Container Safety: How Rust's Edera Revolutionizes Security in the Digital Realm (ZDNet Exclusive)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-horizons-meta-and-aws-strengthen-alliance-to-boost-pytorch-usage-techinsights/"><u>Expanding Horizons: Meta & AWS Strengthen Alliance to Boost PyTorch Usage | TechInsights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-atandt-and-ibms-co-innovation-lab-revolutionizes-tech-solutions-for-public-sector-spotlight-by-zdnet/"><u>How AT&T and IBM's Co-Innovation Lab Revolutionizes Tech Solutions for Public Sector, Spotlight by ZDNET</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oppo-find-x6-pro-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Oppo Find X6 Pro?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ibm-announces-plans-for-comprehensive-full-stack-artificial-intelligence-center-at-university-zdnet-insights/"><u>IBM Announces Plans for Comprehensive Full-Stack Artificial Intelligence Center at University - ZDNet Insights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-deciding-on-a-stage-obs-versus-twitch/"><u>In 2024, Deciding on a Stage OBS Versus Twitch</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/trimming-the-extras-a-practical-guide-to-instagram-video-edits-for-2024/"><u>Trimming the Extras A Practical Guide to Instagram Video Edits for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlinking-spotify-from-your-fb-account-a-step-by-step-guide/"><u>Unlinking Spotify From Your FB Account: A Step-by-Step Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Apple's Illuminating 'Glowtime': Unveiling the iPhone 16, Revolutionary AI Features, The Decade-Old Apple Watch Redesign, and Next-Gen AirPods | ZDNET Insights"
-date: 2024-12-24T16:37:58.430Z
-updated: 2024-12-27T17:22:39.053Z
+date: 2024-12-31T22:23:06.162Z
+updated: 2025-01-05T23:53:34.509Z
 tags:
   - apple
 categories:
@@ -34,10 +34,6 @@ For now, here are the new AI-powered skills you can expect next month with [iOS 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Writing tools
 
 Jason Hiner/ZDNET
@@ -49,10 +45,6 @@ Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Note
 Apple Intelligence will tap into your photos for a few different tricks. You'll be able to create movies out of photos in your library just by typing a description of what you want to see, much like you would for a [chatbot prompt](https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/). Using natural language, you'll be able to search for specific photos and even find certain moments in a video. 
 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Audio transcriptions
 
@@ -69,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Notification assistance
@@ -77,7 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Mail assistance
@@ -87,6 +79,10 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Siri improvements
 
@@ -104,6 +100,10 @@ Those are a fair number of AI-powered features and upgrades, but Apple Intellige
 
 ## What will come later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Image playground
 
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
@@ -112,13 +112,13 @@ Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-ap
 
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Genmoji
 
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Siri tricks
 
@@ -158,24 +158,16 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-streamline-your-creative-process-with-instagrams-photography-tips/"><u>[New] Streamline Your Creative Process with Instagram's Photography Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-complete-itunes-radio-downloading-blueprint/"><u>[New] The Complete iTunes Radio Downloading Blueprint</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleash-your-contents-potential-for-1m-views-on-youtube/"><u>[New] Unleash Your Content's Potential for 1M Views on YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-comedy-classics-a-curated-15-channel-collection-for-humor-for-2024/"><u>[Updated] Comedy Classics A Curated 15-Channel Collection for Humor for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-easy-recording-setups-for-lol-enthusiasts-3-ways/"><u>[Updated] In 2024, Easy Recording Setups for LOL Enthusiasts (3 Ways)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-camera-guide-2024s-premium-choices/"><u>[Updated] Ultimate Camera Guide 2024'S Premium Choices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-6-tools-for-video-language-shift/"><u>2024 Approved Superior 6 Tools for Video Language Shift</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-snipers-manual-to-capturing-live-online-music/"><u>2024 Approved The Sniper’s Manual to Capturing Live Online Music</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/compliance-with-standards-for-2024/"><u>Compliance with Standards for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-se-2022-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone SE (2022)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/elevate-your-stream-game-mastering-onestream-platforms-for-2024/"><u>Elevate Your Stream Game Mastering OneStream Platforms for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719577154336-heres-how-to-use-mondly-and-get-the-best-out-of-it/"><u>Here’s How to Use Mondly and Get the Best Out of It</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy Z Fold 5</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-magic-vs-2-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor Magic Vs 2</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/htful-rank-trackers-unlock-your-videos-potential/"><u>Insightful Rank Trackers - Unlock Your Video's Potential</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95830101-9781944529130-psychokinesis/"><u>Psychokinesis | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlining-zoom-features-on-your-chromebook-for-2024/"><u>Streamlining Zoom Features on Your Chromebook for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/syncing-images-and-footage-on-iphone-for-2024/"><u>Syncing Images and Footage on iPhone for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-vectors-alternatives-to-the-classic-acid-pro-for-2024/"><u>Top Vectors Alternatives to the Classic ACID Pro for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-deciding-on-the-best-gopro-max-or-hero-11-in-2024/"><u>[New] Deciding on the Best GoPro Max or Hero 11, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-easy-hdr-a-step-by-step-guide/"><u>[New] Mastering Easy HDR A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-storytelling-free-soundtrack-options-available/"><u>[Updated] 2024 Approved Elevate Storytelling - Free Soundtrack Options Available</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-perpetual-screen-snapshot/"><u>[Updated] In 2024, Perpetual Screen Snapshot</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/bulkier-no-way-how-this-11-port-usb-hub-transformed-my-workspace-and-dropped-in-price-by-44-find-out-more-on-zdnet/"><u>Bulkier? No Way: How This 11-Port USB Hub Transformed My Workspace & Dropped in Price by 44% - Find Out More on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enterprise-linux-meets-artificial-intelligence-with-red-hats-innovative-release-zdnet/"><u>Enterprise Linux Meets Artificial Intelligence with Red Hat's Innovative Release | ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/googles-strategic-shift-turning-your-television-into-a-command-center-connecting-devices-worldwide-a-gateway-to-600plus-million-users/"><u>Google's Strategic Shift: Turning Your Television Into a Command Center Connecting Devices Worldwide, A Gateway to 600+ Million Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-ai-in-healthcare-boosting-doctors-efficacy-through-data-synthesis/"><u>Leveraging AI in Healthcare: Boosting Doctor's Efficacy Through Data Synthesis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/linus-torvalds-discusses-advancements-in-artificial-intelligence-and-rust-integration-with-a-focus-on-the-importance-of-the-linux-kernel-insights-from-tech-50/"><u>Linus Torvalds Discusses Advancements in Artificial Intelligence & Rust Integration with a Focus on the Importance of the Linux Kernel - Insights From Tech Guru</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Trouble: Tips and Techniques for Smooth Sailing with Notion’s Evernote Import Features | ZDNET Insights"
-date: 2024-09-18 23:30:55
-updated: 2024-09-20 10:20:43
+date: 2025-01-03T18:28:00.126Z
+updated: 2025-01-05T20:56:37.966Z
 tags:
   - cloud
 categories:
@@ -19,6 +19,10 @@ I started writing my blog posts for ZDNET in Evernote back in 2012\. With a few 
 
 I quite like [Evernote](https://evernote.com/) and pay for a professional plan. One of the key benefits of Evernote was (note the past tense) that I could sync between computers. I usually write my articles on my MacBook Air. Once the article is done, my wife (who has years of experience as a managing editor) does an editing pass with me from the couch, using a Mac mini that is connected to a big screen in our family room. I then submit the edited article to ZDNET's editors for review. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Sync failures 
 
 But then Evernote's sync started to regularly fail. Sometimes it wouldn't sync at all. Sometimes, the edited version would be reported as a conflict, and Evernote would create two copies of the article. 
@@ -30,6 +34,10 @@ I reached out to [Evernote's support team](https://help.evernote.com/hc/en-us/re
 Not encouraging, that. Then, when Evernote decided to create three separate copies of an article, I realized it was time to find a different solution. 
 
 This kind of thing gets old after awhile.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The need to import Evernote notes 
 
@@ -44,6 +52,10 @@ A whole bunch of programs import Evernote, including Apple Notes, [Obsidian](htt
 **Review:** [**Notion app: Why (and how) I rely on this powerful productivity tool**](https://www.zdnet.com/article/notion-app-review/)
 
 This did not go smoothly. Part of it was Evernote's fault. Part of it was Notion's fault. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Notion conundrum 
 
@@ -69,6 +81,10 @@ It's here we start going down the rabbit hole. It starts with the problem of spl
 
 But, as we've established, Evernote has sync reliability issues. So the idea of flinging thousands of mission-critical notes around and hoping they sync properly and don't break was a deal-breaker. But that's the only way Notion can get notes out of Evernote. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How I eventually solved the problem 
 
 Let's recap. 
@@ -90,6 +106,10 @@ Once I verified all seven parts were properly in the cloud, I went back into Not
 On each of those occasions, there was a note with graphics in it, and it was that note that killed the import. Depending on how important the note was for my records or work, I either deleted the full failing note, or removed the graphics from the failing note. In any case, after dealing with the failing notes, I was able to complete the imports into Notion. 
 
 I followed the same process with my Blogs-in-Progress notebook, but because there were fewer notes, it went faster. All told, it took about six hours of tweaking, fiddling, and waiting for syncs to complete to move the data from Evernote to Notion, but it did, eventually, work. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Some obvious conclusions 
 
@@ -130,11 +150,24 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-breakdown-of-sharex-scrutiny-and-substitutes/"><u>[New] In 2024, Breakdown of ShareX Scrutiny & Substitutes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-play-8t-lock-screen-password-by-drfone-android/"><u>How To Change Honor Play 8T Lock Screen Password?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-unveiled-process-how-to-save-instagram-videos-with-computermac-os-for-2024/"><u>The Unveiled Process How to Save Instagram Videos with Computer/Mac OS for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-8-ultimate-4k-blu-ray-playback-units-reviewed-for-2024/"><u>Top 8 Ultimate 4K Blu-Ray Playback Units Reviewed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-your-google-tasks-into-an-organized-kanban-workflow-using-tasksboard-a-comprehensive-guide/"><u>Transforming Your Google Tasks Into an Organized Kanban Workflow Using TasksBoard - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unboxing-the-iphone-16-a-remarkable-feat-of-engineering-with-few-compelling-reasons-to-buy-insights-from-zdnet/"><u>Unboxing the iPhone 16: A Remarkable Feat of Engineering with Few Compelling Reasons to Buy - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-microsofts-future-direction-a-comprehensive-approach-towards-cloud-services-advertising-and-device-integration/"><u>Unveiling Microsoft’s Future Direction: A Comprehensive Approach Towards Cloud Services, Advertising & Device Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-unveils-microsofts-azure-trajectory-in-q1-fy-23-a-deep-dive-into-skyrocketing-cloud-metrics/"><u>ZDNet Unveils Microsoft's Azure Trajectory in Q1 FY '23: A Deep Dive Into Skyrocketing Cloud Metrics</u></a></li>
+</ul></div>
+

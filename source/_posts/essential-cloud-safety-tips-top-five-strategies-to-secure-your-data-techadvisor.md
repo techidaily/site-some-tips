@@ -1,7 +1,7 @@
 ---
 title: "Essential Cloud Safety Tips: Top Five Strategies to Secure Your Data | TechAdvisor"
-date: 2024-09-17 14:35:47
-updated: 2024-09-20 11:21:12
+date: 2025-01-02T01:33:21.227Z
+updated: 2025-01-05T22:18:21.472Z
 tags:
   - cloud
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/8774783d28d2d78a2030ac7e0dc1d6230634beecd
 Image: Getty
 
 The popularity of cloud applications and software [has risen significantly in recent years](https://www.zdnet.com/article/cloud-computing-is-evolving-heres-where-its-going-next/). But while using cloud services can be beneficial for businesses and employees, [it also carries new cybersecurity risks](https://www.zdnet.com/article/terrible-cloud-security-is-leaving-the-door-open-for-hackers-heres-what-youre-doing-wrong/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -48,6 +52,10 @@ It's vital that any cloud accounts are secured properly, using a complex, unique
 
 Organisations should also consider providing staff with [password manager software](https://www.zdnet.com/article/best-password-manager/), so users don't need to remember passwords, leaving them free to create longer, more complex passwords that are less likely to be breached.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **2\. Don't give every user the keys to the kingdom**
 
 Cloud applications and services are convenient, providing users with a variety of tools they need to be productive, all in one place. But different users have different needs and most users don't need high-level privileges – particularly when that access [could easily be abused by an unauthorized user](https://www.zdnet.com/article/admin-rights-key-to-mitigating-vulnerabilities-study-shows/) who has hacked or otherwise taken control of an account with admin rights. 
@@ -62,6 +70,10 @@ Cloud applications and services are convenient, providing users with a variety o
 
 It is, therefore, imperative for IT and information security teams to ensure that administrator privileges are only available for those who really need them – and that any account with administrator privileges is properly secured, so attackers are unable to gain access and abuse high-level accounts -- to create additional accounts they could use to secretly go about their business, for example. It's also important that regular users don't have the power to escalate their own privileges or create new accounts. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **3\. Don't leave cloud applications unmonitored – and know who is using them**
 
 Companies use a wide variety of cloud-computing services, but the more applications that are being used, the more difficult it is to keep track of them. And that could provide a gateway for malicious users to enter the network undetected. 
@@ -73,6 +85,10 @@ It's vital that IT departments [have the necessary tools to keep track of what c
 It's also important to ensure that cloud applications aren't [misconfigured](https://www.zdnet.com/article/99-percent-of-all-misconfiguration-in-the-public-cloud-go-unreported/) in a way that means they're open to anyone on the internet. This open access could lead to attempts at brute-force attacks, or cyber criminals could attempt to use phished or stolen credentials to access cloud applications. 
 
 In the worst-case scenario, a misconfigured cloud application facing the open internet may not require login details at all, meaning anyone can gain access. It's vital that organisations are aware of how their cloud services interact with the open web and that only those who need these services can access them. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **4\. Don't ignore security updates and patches – cloud software needs them, too**
 
@@ -88,6 +104,10 @@ One of the most important things you can do to improve the cybersecurity of your
 Cloud software is no different. Vulnerabilities can be uncovered and they will receive security patches, which need to be applied.
 
 IT departments that run large, cloud-based networks might think that security is taken care of by the cloud service or application provider they use, but that's not always the case – cloud software and applications need patching too, and it's vital that this work is done promptly to ensure the network is resistant to cyber criminals trying to exploit vulnerabilities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **5\. Don't rely purely on cloud for storing data – keep offline backups in case of emergency** 
 
@@ -115,11 +135,26 @@ Not only is it important to regularly save backups – so the restore point is a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-deleting-facebook-stories-laptop-and-mobile-guide/"><u>[New] Deleting Facebook Stories Laptop & Mobile Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-use-virtual-reality-tours/"><u>2024 Approved How to Use Virtual Reality Tours</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-ordinary-to-outstanding-unveiling-the-secrets-of-engaging-biographies/"><u>From Ordinary to Outstanding Unveiling the Secrets of Engaging Biographies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ibm-linuxone-4-express-unveiling-the-perfect-cost-effective-mainframe-solution-tailored-just-for-your-business-needs-zdnet/"><u>IBM LinuxONE 4 Express: Unveiling the Perfect Cost-Effective Mainframe Solution Tailored Just for Your Business Needs | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/key-facts-every-coder-needs-before-using-google-gemini-services-on-zdnet/"><u>Key Facts Every Coder Needs Before Using Google Gemini Services on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-quantum-tech-to-accelerate-ai-growth-singapores-new-vision-with-cutting-edge-data-centers/"><u>Leveraging Quantum Tech to Accelerate AI Growth - Singapore's New Vision with Cutting-Edge Data Centers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-profits-why-cloud-experts-earn-more-while-generalist-roles-remain-essential-insights-from-zdnet/"><u>Maximizing Profits: Why Cloud Experts Earn More While Generalist Roles Remain Essential – Insights From ZDNet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/simple-ways-to-record-and-save-your-macos-screen/"><u>Simple Ways to Record and Save Your macOS Screen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-case-for-diversifying-your-twitter-presence-lessons-from-zdnets-analysis/"><u>The Case for Diversifying Your Twitter Presence - Lessons From ZDNet's Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-photographers-handbook-for-android-users/"><u>The Photographer's Handbook for Android Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-i-tuoi-file-3gp-in-formato-webm-libero-di-uso-guida-passo-passo-con-movavi/"><u>Trasforma I Tuoi File 3GP in Formato WebM Libero Di Uso: Guida Passo-Passo Con Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-tips-to-maximize-volume-levels-in-windows-operating-systems/"><u>Ultimate Tips to Maximize Volume Levels in Windows Operating Systems</u></a></li>
+</ul></div>
+

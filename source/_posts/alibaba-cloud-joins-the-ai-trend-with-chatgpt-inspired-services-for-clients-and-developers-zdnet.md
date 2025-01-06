@@ -1,7 +1,7 @@
 ---
 title: Alibaba Cloud Joins the AI Trend with ChatGPT-Inspired Services for Clients & Developers - ZDNet
-date: 2024-09-19 18:51:25
-updated: 2024-09-20 11:25:23
+date: 2024-12-31T18:30:26.221Z
+updated: 2025-01-06T03:05:27.993Z
 tags:
   - cloud
 categories:
@@ -41,6 +41,10 @@ The six business entities encompass: Cloud Intelligence Group; Taobao Tmall Comm
 
 Describing the move as the most significant governance overhaul in Alibaba's 24-year history, the Chinese tech giant said the restructure would place the company in a position to "capture market opportunities and further stimulate growth". 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Alibaba Cloud to build own servers with new in-house chip](https://www.zdnet.com/article/alibaba-cloud-to-build-own-servers-with-new-in-house-chip/)
@@ -56,11 +60,28 @@ Describing the move as the most significant governance overhaul in Alibaba's 24-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-instagram-live-guide-conversation-tools-unveiled/"><u>[Updated] In 2024, The Instagram Live Guide Conversation Tools Unveiled</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/diving-deep-into-vidmas-screen-recording-features/"><u>Diving Deep Into Vidma's Screen Recording Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-ai-rust-integration-with-linux-linus-torvalds-reveals-why-he-believes-its-the-heart-of-computing-siliconinnovations/"><u>Exploring AI, Rust Integration with Linux: Linus Torvalds Reveals Why He Believes It's the Heart of Computing | SiliconInnovations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-openshift-lightspeed-revolutionizing-kubernetes-management-with-artificial-intelligence-by-red-hat/"><u>Introducing OpenShift Lightspeed: Revolutionizing Kubernetes Management with Artificial Intelligence by Red Hat</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862841548-level-up-your-game-with-our-top-pick-dell-s3222dgm-gaming-display-now-at-an-all-time-low-grab-it-for-229/"><u>Level Up Your Game with Our Top-Pick Dell S3222DGM Gaming Display Now at an All-Time Low - Grab It for $229!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-cybersecurity-maze-your-essential-guide-beyond-the-startling-statistics-of-open-source-vulnerabilities/"><u>Navigating the Cybersecurity Maze: Your Essential Guide Beyond the Startling Statistics of Open-Source Vulnerabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-future-with-agent-ecosystems-the-rise-of-ai-in-service-domains-insights-from-zdnet/"><u>Navigating the Future with Agent Ecosystems: The Rise of AI in Service Domains - Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-the-inequality-of-todays-instantaneous-technology-era-insights-from-zdnet/"><u>Navigating Through The Inequality of Today's Instantaneous Technology Era – Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-12-best-online-animation-makers-to-create-amazing-videos-for-2024/"><u>New 12 Best Online Animation Makers to Create Amazing Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pioneering-ergonomics-how-dell-is-revolutionizing-computer-accessories-for-enhanced-productivity/"><u>Pioneering Ergonomics: How Dell Is Revolutionizing Computer Accessories for Enhanced Productivity</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-tutorial-successfully-downloading-and-setting-up-itunes-for-windows-11-x86-and-x64/"><u>Ultimate Tutorial: Successfully Downloading and Setting Up iTunes for Windows 11 (X86 & X64)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/white-house-endorses-open-source-ai-initiatives-in-recent-release-coverage-by-zdnet/"><u>White House Endorses Open Source AI Initiatives in Recent Release, Coverage by ZDNet</u></a></li>
+</ul></div>
+

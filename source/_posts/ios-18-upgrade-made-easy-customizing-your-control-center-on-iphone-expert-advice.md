@@ -1,7 +1,7 @@
 ---
 title: "IOS 18 Upgrade Made Easy: Customizing Your Control Center on iPhone - Expert Advice"
-date: 2024-12-15T02:34:56.332Z
-updated: 2024-12-21T18:33:18.967Z
+date: 2025-01-04T23:05:03.810Z
+updated: 2025-01-06T00:16:42.959Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -43,6 +39,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -53,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -63,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -72,6 +72,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -79,10 +83,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -126,21 +126,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-deciphering-hidden-content-on-youtube-an-ordered-walkthrough/"><u>[Updated] In 2024, Deciphering Hidden Content on YouTube An Ordered Walkthrough</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-interactive-solutions-with-vr/"><u>2024 Approved Interactive Solutions with VR</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/comment-remplacer-la-memoire-interne-de-votre-ps4-par-un-ssdhdd-pour-une-capacite-amelioree/"><u>Comment Remplacer La Mémoire Interne De Votre PS4 Par Un SSD/HDD Pour Une Capacité Améliorée</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-7-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 7 Plus Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unveiling-premium-screen-recorders-in-tech/"><u>In 2024, Unveiling Premium Screen Recorders in Tech</u></a></li>
-<li><a href="https://win-able.techidaily.com/modify-your-desktop-experience-customizing-icon-shortcuts-and-managing-notifications-on-mobile-devices-insights-from-how-to-geek/"><u>Modify Your Desktop Experience: Customizing Icon Shortcuts & Managing Notifications on Mobile Devices - Insights From How-To Geek</u></a></li>
-<li><a href="https://facebook.techidaily.com/quick-guide-expand-your-messenger-circle/"><u>Quick Guide: Expand Your Messenger Circle</u></a></li>
-<li><a href="https://extra-information.techidaily.com/revolutionizing-travel-a-dive-into-vr-tour-possibilities/"><u>Revolutionizing Travel A Dive Into VR Tour Possibilities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/samsung-galaxy-z-flip-enhanced-innovation-in-the-next-gen-foldable-phone/"><u>Samsung Galaxy Z Flip: Enhanced Innovation in the Next-Gen Foldable Phone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-evolution-of-the-google-pixel-lineup-a-look-at-the-pixel-6-pro-after-three-years/"><u>The Evolution of the Google Pixel Lineup: A Look at the Pixel 6 Pro After Three Years</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-secret-behind-my-familys-effortless-coordination-why-we-cant-live-without-cozi/"><u>The Secret Behind My Family's Effortless Coordination: Why We Can't Live Without Cozi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-the-oneplus-11-insights-from-a-yearlong-experience-for-pricing-similarity/"><u>The Ultimate Guide to the OnePlus 11 – Insights From a Yearlong Experience (for Pricing Similarity)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/this-week-in-digital-discoveries-unveiling-new-windows-laptops-and-exclusive-spotify-secrets/"><u>This Week in Digital Discoveries: Unveiling New Windows Laptops and Exclusive Spotify Secrets</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-behind-the-google-pixel-tablets-impressive-performance/"><u>Unveiling the Secrets Behind the Google Pixel Tablet's Impressive Performance!</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/verstehen-sie-die-speicherung-von-minecraft-screenshots-methoden-zur-wiederherstellung-verlorener-bilder/"><u>Verstehen Sie Die Speicherung Von Minecraft-Screenshots - Methoden Zur Wiederherstellung Verlorener Bilder</u></a></li>
-<li><a href="https://some-tips.techidaily.com/your-weekly-tech-update-unpacking-the-atandt-security-leak-and-exciting-releases-from-samsung/"><u>Your Weekly Tech Update: Unpacking the AT&T Security Leak & Exciting Releases From Samsung</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-trivia-2024s-top-11-quiz-channels/"><u>[New] Prime Trivia 2024'S Top 11 Quiz Channels</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-navigate-the-1080p-landscape-for-better-fb-broadcasts-for-2024/"><u>[Updated] Navigate the 1080P Landscape for Better FB Broadcasts for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-insiders-guide-to-concealed-snap-content/"><u>[Updated] The Insider's Guide to Concealed Snap Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024s-ultimate-guide-to-home-ev-charger-selection-insider-advice-and-reviews-wired-magazine/"><u>2024'S Ultimate Guide to Home EV Charger Selection: Insider Advice & Reviews | Wired Magazine</u></a></li>
+<li><a href="https://tools.techidaily.com/alestemple/products/"><u>Alestemple's Products</u></a></li>
+<li><a href="https://some-tips.techidaily.com/eco-friendly-black-friday-bargain-alert-snag-the-ecobee-smart-thermostat-for-just-199-your-guide-to-smarter-home-savings/"><u>Eco-Friendly Black Friday Bargain Alert: Snag the Ecobee Smart Thermostat for Just $199 – Your Guide to Smarter Home Savings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-spark-10-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Spark 10 5G Phone that is Locked?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-motorola-moto-g13-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Motorola Moto G13 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-realme-12-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme 12 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cordless-electric-leaf-blowers-in-2e22-expert-reviews-from-zdnet/"><u>Top-Rated Cordless Electric Leaf Blowers in 2E22: Expert Reviews From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/xibalba/"><u>Xibalba</u></a></li>
 </ul></div>
 

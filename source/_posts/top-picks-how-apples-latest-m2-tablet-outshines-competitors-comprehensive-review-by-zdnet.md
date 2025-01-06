@@ -1,7 +1,7 @@
 ---
 title: "Top Picks : How Apple's Latest M2 Tablet Outshines Competitors | Comprehensive Review by ZDNET"
-date: 2024-12-25T16:58:05.348Z
-updated: 2024-12-27T17:21:32.849Z
+date: 2024-12-31T02:12:41.186Z
+updated: 2025-01-06T04:32:41.802Z
 tags:
   - apple
 categories:
@@ -22,13 +22,13 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7706d25e-bcf9-4615-bd7d-1f666ce958d8%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best small tablets of 2024
 
@@ -46,10 +46,14 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple iPad Mini 6th Generation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -84,6 +88,10 @@ Cons
 
 ## Amazon Fire 7 Tablet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best budget small tablet
 
 If you're looking for something even smaller and cheaper than the iPad Mini, the Amazon Fire 7 tablet is a great budget tablet pick. The Fire tablet's 7-inch screen has a 1024 x 600 display, so you can stream movies or play video games without hauling around a bulky tablet. 
@@ -116,10 +124,6 @@ Cons
 
 ## Boox Tab Mini C
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best small tablet for note-taking
 
 Boox is an e-reader and drawing tablet with a vivid color display, so your e-book's illustrations will pop as you read, and so will your color-coordinated notes. Speaking of which, the note-taking templates on the Tab Mini C are handy. Whether you're a student taking Cornell-style notes, a desk job employee making an hourly plan for your day, a musician crafting a piece of sheet music, or a historian drafting a timeline, the Tab Mini C offers a template for that. 
@@ -146,10 +150,6 @@ Pros
 Cons 
 * Web browser functionality could be better
 * No warm light option
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Amazon Kindle 11th generation
 
@@ -181,14 +181,10 @@ Pros
 Cons 
 * Performance could be better
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Tab A7 Lite
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Samsung small tablet
@@ -262,19 +258,23 @@ Keep in mind in certain cases (Apple, Samsung), you can pair your other devices 
 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are mini Android tablets worth it?
 
 Yes, they can be. Small Android tablets allow you to do everything you would normally do, like reading e-books and video calling, without the higher price tags. 
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,24 +322,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-create-a-standout-presence-with-youtube-custom-imagery/"><u>[New] 2024 Approved Create a Standout Presence with YouTube Custom Imagery</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-inverted-footage-whats-behind-instagrams-peculiarity/"><u>[New] In 2024, Inverted Footage What's Behind Instagram's Peculiarity?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-psd-style-boosting/"><u>[New] Ultimate PSD Style Boosting</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-which-is-better-for-vloggers-on-facebook-vertical-or-horizontal/"><u>[New] Which Is Better for Vloggers on Facebook Vertical or Horizontal?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-daily-vlogging-ideas-what-to-talk-about-while-vlogging/"><u>[Updated] In 2024, Daily Vlogging Ideas What to Talk About While Vlogging?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-strategies-to-rectify-freeze-in-obs-fullscreen-functionality-for-2024/"><u>[Updated] Strategies to Rectify Freeze in OBS Fullscreen Functionality for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-taking-command-with-custom-character-sounds-in-free-fire-no-expense-involved/"><u>[Updated] Taking Command with Custom Character Sounds in Free Fire - No Expense Involved</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-selection-of-text-enhancers-for-adobe-ae/"><u>[Updated] The Ultimate Selection of Text Enhancers for Adobe AE</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-end-to-end-guide-to-picsart/"><u>2024 Approved The End-to-End Guide to PicsArt</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-the-best-video-footage-with-gopro/"><u>2024 Approved Unleashing the Best Video Footage with GoPro</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-solving-windows-key-problems-under-windows-11-practical-advice-for-users/"><u>Diagnosing and Solving Windows Key Problems Under Windows 11 - Practical Advice for Users</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exclusive-review-of-the-best-philips-somneo-alarm-clock-on-the-market/"><u>Exclusive Review of the Best Philips Somneo Alarm Clock on the Market</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Pro Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/switching-between-safe-mode-and-picture-in-picture-on-iosmacos-for-2024/"><u>Switching Between Safe Mode & Picture In Picture on iOS/MacOS for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-dynamic-duo-of-yi-and-4k-in-action-video-for-2024/"><u>The Dynamic Duo of Yi and 4K in Action Video for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-mac-mkv-players-compilation-for-2024/"><u>Top Mac MKV Players Compilation for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guides-to-3d-type-exploration-for-2024/"><u>Ultimate Guides to 3D Type Exploration for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-mechanism-behind-cross-audio-blending-for-2024/"><u>Unveiling the Mechanism Behind Cross-Audio Blending for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-channel-name-inspiration-strategies-for-success/"><u>[New] In 2024, Channel Name Inspiration Strategies for Success</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-quickly-add-speech-overlays-to-your-instagram-posts/"><u>[New] Quickly Add Speech Overlays to Your Instagram Posts</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-list-iphones-supporting-the-upcoming-ios-18-update-and-those-that-dont/"><u>Comprehensive List: IPhones Supporting the Upcoming iOS 18 Update - and Those That Don't</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-selection-of-top-hd-stream-cameras/"><u>Exclusive Selection of Top HD Stream Cameras</u></a></li>
+<li><a href="https://win-dash.techidaily.com/geforce-rtx-3070-graphics-card-driver-latest-version-for-windows-11-and-10-users/"><u>GeForce RTX 3070 Graphics Card Driver: Latest Version for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 5G Bootloader Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-towards-standardized-open-source-ai-advances-meet-criticism-insights-from-zdnet/"><u>Navigating Towards Standardized Open Source AI: Advances Meet Criticism - Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/open-source-ai-on-the-horizon-progress-and-controversy-unveiled-by-zdnet/"><u>Open Source AI on the Horizon: Progress and Controversy Unveiled by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shifts-in-coding-language-trends-since-2016-insights-and-implications-zdnet/"><u>Shifts in Coding Language Trends Since 2016: Insights & Implications | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/successful-prompt-triggers-bug-in-latest-version-of-ai-tool-on-microsofts-github/"><u>Successful Prompt Triggers Bug in Latest Version of AI Tool on Microsoft's GitHub</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-latest-scene-in-dev-roles-and-code-syntaxes-exploring-upcoming-hits-zdnet/"><u>The Latest Scene in Dev Roles and Code Syntaxes: Exploring Upcoming Hits | ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2190087-9781780288475-the-occult/"><u>The Occult | Free Book</u></a></li>
 </ul></div>
 

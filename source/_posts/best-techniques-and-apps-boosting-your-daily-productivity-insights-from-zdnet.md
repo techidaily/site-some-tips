@@ -1,7 +1,7 @@
 ---
 title: "Best Techniques & Apps: Boosting Your Daily Productivity - Insights From ZDNet"
-date: 2024-09-17 11:46:49
-updated: 2024-09-20 11:25:35
+date: 2024-12-30T05:05:30.084Z
+updated: 2025-01-06T05:32:26.446Z
 tags:
   - cloud
 categories:
@@ -27,6 +27,10 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What do I mean by my flow? 
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -48,6 +52,10 @@ The last time I updated this guide was in early 2019\. Obviously, a few things h
 Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-office-20-years-of-refinement-and-evolution/). If I'm out, it's a dedicated out-and-back with a specific purpose. There is no meandering, browsing, or schmoozing. Yes, I know other people may feel comfortable going back to the pre-pandemic normal, but I have reasons for playing it a bit more safe than most might.
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tools for my daily flow
 
@@ -158,6 +166,10 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [Wi-Fi problems? Add a wired network to your home without Ethernet cable - here's how](https://www.zdnet.com/article/wi-fi-problems-how-to-add-a-wired-network-to-your-home-without-ethernet-cable/)
@@ -166,6 +178,10 @@ By the way, this is also a great way to think about users, which I initially was
 * [Wiping a Windows laptop? Here's the safest free way to erase your personal data](https://www.zdnet.com/article/wiping-a-windows-laptop-heres-the-safest-free-way-to-erase-your-personal-data/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -203,6 +219,10 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Blocking out time for my projects
 
 I use Notion for managing the details of my projects, but I visualize them using Google Calendar. I have three special calendars I set up: DG Planner, Planner Tentative, and Project Due.
@@ -216,6 +236,10 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -237,11 +261,33 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-fast-track-to-1000-fans-through-captivating-content/"><u>[New] In 2024, Fast-Track To 1,000 Fans Through Captivating Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-navigating-safaris-picture-in-picture-for-mobiledesktop/"><u>[New] Navigating Safari’s Picture in Picture for Mobile/Desktop</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unleashing-windows-11s-full-visual-potential-with-automatic-hdr-mode/"><u>[Updated] 2024 Approved Unleashing Windows 11'S Full Visual Potential with Automatic HDR Mode</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphone-macro-magic-capturing-the-fine-details/"><u>[Updated] IPhone Macro Magic Capturing the Fine Details</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-asmrists-can-help-your-evening-routine/"><u>2024 Approved How ASMRists Can Help Your Evening Routine</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-team-collaboration-on-documents-with-expert-advice-from-zdnet/"><u>Enhance Team Collaboration on Documents with Expert Advice From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-unparalleled-containers-red-hat-enterprise-linux-version-93-takes-the-lead/"><u>Experience Unparalleled Containers: Red Hat Enterprise Linux Version 9.3 Takes the Lead!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/innovators-roundtable-for-youtube/"><u>Innovators’ Roundtable for YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-persistent-bottlenecks-in-microsoft-azure-options-and-solutions-for-clients/"><u>Navigating Persistent Bottlenecks in Microsoft Azure: Options and Solutions for Clients</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-future-with-tech-how-singapore-lays-out-a-digital-masterplan-for-ai-and-robotics-exclusive-at-zdnet/"><u>Navigating the Future with Tech: How Singapore Lays Out a Digital Masterplan for AI and Robotics | Exclusive at ZDNET</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-audio-fade-ins-and-outs-made-easy-2-fcp-techniques/"><u>New In 2024, Audio Fade Ins and Outs Made Easy 2 FCP Techniques</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-this-article-tells-you-several-tips-to-make-a-better-home-movie-master-the-home-movie-making-tips-and-obey-the-rules-so-that-you-can-make-a-great-movie-/"><u>New This Article Tells You Several Tips to Make a Better Home Movie. Master the Home Movie Making Tips and Obey the Rules so that You Can Make a Great Movie for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rising-cost-of-data-incidents-at-plus10-counteracted-partially-by-artificial-intelligence-zdnet-report/"><u>Rising Cost of Data Incidents at +10%, Counteracted Partially by Artificial Intelligence | ZDNET Report</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamlessly-integrate-your-icloud-notes-onto-linux-expert-tips-and-tricks/"><u>Seamlessly Integrate Your iCloud Notes Onto Linux – Expert Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/small-businesses-in-australia-get-essential-cloud-safety-manuals-new-guide-series-launched-zdnet/"><u>Small Businesses in Australia Get Essential Cloud Safety Manuals: New Guide Series Launched - ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solution-a-sheep-foot-roller-due-to-its-ability-to-exert-high-pressure-at-depths-suitable-for-compacting-cohesive-soils-like-clay-at-optimum-moisture-conten16/"><u>Solution: A Sheep Foot Roller, Due to Its Ability to Exert High Pressure at Depths Suitable for Compacting Cohesive Soils Like Clay at Optimum Moisture Content Levels.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-work-is-here-exploring-oracles-new-use-of-ai-in-managing-organizational-tasks/"><u>The Future of Work Is Here: Exploring Oracle's New Use of AI in Managing Organizational Tasks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/tracing-back-on-facebook-a-laptop-and-mobile-recipe-for-2024/"><u>Tracing Back on Facebook A Laptop & Mobile Recipe for 2024</u></a></li>
+</ul></div>
+

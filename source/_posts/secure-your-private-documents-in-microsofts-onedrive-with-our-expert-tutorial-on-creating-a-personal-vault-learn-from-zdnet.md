@@ -1,7 +1,7 @@
 ---
 title: Secure Your Private Documents in Microsoft's OneDrive with Our Expert Tutorial on Creating a Personal Vault | Learn From ZDNET
-date: 2024-09-17 10:35:11
-updated: 2024-09-20 11:54:20
+date: 2025-01-03T16:10:10.013Z
+updated: 2025-01-05T18:38:30.578Z
 tags:
   - cloud
 categories:
@@ -32,11 +32,19 @@ By default, the vault remains locked until you need it. You unlock it with whate
 
 **Also:** [**How do I get OneDrive under control \[Ask ZDNET\]**](https://www.zdnet.com/article/how-do-i-get-onedrive-under-control-ask-zdnet/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements
 
 To take full advantage of the Personal Vault, you need a [Microsoft 365 Family or Personal subscription](https://www.zdnet.com/article/microsoft-launches-defender-for-individuals-for-microsoft-365-personal-and-family-subscribers/). With either plan, you can add as many files to the vault as space allows. Without a Microsoft 365 plan, you can include only three files in your vault, which likely wouldn't do the trick for most people. Further, the Personal Vault is available only with the OneDrive personal app and not with OneDrive for Business. Otherwise, the vault works the same in Windows 10 and 11.
 
 ## How to secure your sensitive OneDrive files with a Personal Vault
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Protect your Microsoft account and OneDrive access
 
@@ -48,6 +56,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also:** [**Multi-factor authentication: How to enable 2FA to step up your security**](https://www.zdnet.com/article/better-than-the-best-password-how-to-use-2fa-to-improve-your-security/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Right-click the OneDrive System Tray icon and select View online
 
 For the next steps, I'll assume you're already using OneDrive to back up and sync key folders and files. Right-click the OneDrive System Tray icon and select the option for **View online**. Sign in to OneDrive with your Microsoft Account. Under My Files, double-click the folder for Personal Vault. You'll be asked to authenticate this access through the multi-factor authentication in place for your account. Approve the sign-in via the Microsoft Authenticator app on your mobile device.
@@ -55,6 +67,10 @@ For the next steps, I'll assume you're already using OneDrive to back up and syn
 Get ready to move folders and files to your Personal Vault.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Move the files you wish to protect 
 
@@ -73,6 +89,10 @@ When done, you should see the folders and files you selected appear in the Perso
 View the folders and files moved to your Personal Vault.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Set the amount of time the Personal Vault will wait to automatically lock
 
@@ -146,11 +166,28 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-audio-extraction-youtube-to-mp3-in-macos/"><u>[Updated] 2024 Approved Mastering Audio Extraction YouTube to MP3 in MacOS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-optimize-twitter-tweets-for-hd-viewing-for-2024/"><u>[Updated] Optimize Twitter Tweets for HD Viewing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-luts-transforming-images-magic/"><u>[Updated] Understanding LUTs Transforming Images Magic</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chatgpts-proprietors-unraveling-the-truth-behind-its-inception/"><u>ChatGPT's Proprietors - Unraveling the Truth Behind Its Inception</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-technology-rises-to-the-top-navigating-the-new-era-of-security-challenges-expert-analysis-by-zdnet/"><u>Cloud Technology Rises to the Top - Navigating the New Era of Security Challenges | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-error-messages-leveraging-command-prompt-for-efficient-windows-troubleshooting/"><u>Decoding Error Messages: Leveraging Command Prompt for Efficient Windows Troubleshooting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-management-features-with-aws-lake-formation-on-amazon/"><u>Enhanced Management Features with AWS Lake Formation on Amazon</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/full-review-of-the-latest-powerdirector-app-24/"><u>Full Review of the Latest PowerDirector App - '24</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-redmi-k70e-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Redmi K70E?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-se-2020-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone SE (2020) Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ibm-linuxone-4-express-is-the-affordable-mainframe-a-perfect-match-for-your-needs-explore-options-on-zdnet/"><u>IBM LinuxONE 4 Express: Is the Affordable Mainframe a Perfect Match for Your Needs? Explore Options on ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pros-and-cons-of-upgrading-to-the-iphone-16-hardware-excellence-meets-uncertain-value-zdnet/"><u>The Pros and Cons of Upgrading to the iPhone 16 - Hardware Excellence Meets Uncertain Value | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-future-of-ai-how-microsoft-and-nvidia-collaborate-on-an-incredible-cloud-based-supercomputer/"><u>Unveiling the Future of AI: How Microsoft & Nvidia Collaborate on an Incredible Cloud-Based Supercomputer</u></a></li>
+</ul></div>
+

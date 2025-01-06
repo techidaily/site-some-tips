@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Embraces IoT: A Contrast to Google's Exit Strategy as Tech Giants Shift Directions | ZDNet"
-date: 2024-09-19 20:51:49
-updated: 2024-09-20 12:14:47
+date: 2025-01-05T03:29:06.221Z
+updated: 2025-01-05T17:50:34.429Z
 tags:
   - cloud
 categories:
@@ -62,11 +62,37 @@ I'm thinking we'll hear more about Microsoft's updated IoT and edge-computing vi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-practices-for-documenting-youtube-live-videos/"><u>[New] Best Practices for Documenting Youtube LIVE Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-drone-category-definitions/"><u>[New] In 2024, Drone Category Definitions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/accelerating-cybersecurity-australia-urges-companies-to-update-vulnerable-systems-promptly-insights-from-zdnet/"><u>Accelerating Cybersecurity: Australia Urges Companies to Update Vulnerable Systems Promptly - Insights From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722999083447-battlefield-5-not-starting-master-the-simple-solution-in-our-2024-step-by-step-troubleshooting-tips/"><u>Battlefield 5 Not Starting? Master the Simple Solution in Our 2024 Step-by-Step Troubleshooting Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/dealing-with-limited-azure-resources-a-guide-for-users-on-next-steps/"><u>Dealing with Limited Azure Resources: A Guide for Users on Next Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-customer-journeys-with-generative-ai-insights-into-adobes-strategy/"><u>Enhancing Customer Journeys with Generative AI: Insights Into Adobe's Strategy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-your-media-production-skills-with-easy-to-follow-guides-for-windows-8-movie-maker/"><u>Enhancing Your Media Production Skills with Easy-to-Follow Guides for Windows 8 Movie Maker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-horizons-how-akamais-partnership-with-linode-is-revolutionizing-edge-computing-infrastructure/"><u>Expanding Horizons: How Akamai's Partnership With Linode Is Revolutionizing Edge Computing Infrastructure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-huawei-is-revolutionizing-healthcare-and-maritime-industries-with-5g-technology/"><u>How Huawei Is Revolutionizing Healthcare and Maritime Industries with 5G Technology</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-microsoft-redefined-data-retrieval-with-recall-the-power-of-non-ai-tech-solutions/"><u>How Microsoft Redefined Data Retrieval with 'Recall': The Power of Non-AI Tech Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-z-fold-5-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-8-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 8 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/latest-release-red-hat-openstack-17-unveiled-on-zdnet/"><u>Latest Release: Red Hat OpenStack 17 Unveiled on ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-azures-resource-boundaries-tips-for-businesses/"><u>Navigating Through Azure's Resource Boundaries - Tips for Businesses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/persistent-threats-of-ransomware-and-phishing-targeting-singapore-enterprsures-reports-by-zdnet/"><u>Persistent Threats of Ransomware and Phishing Targeting Singapore Enterprsures, Reports by ZDNET</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-guide-for-board-usage-during-your-zoom-meetings-desktopiosandroid-for-2024/"><u>The Ultimate Guide for Board Usage During Your Zoom Meetings (Desktop/iOS/Android) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-choosing-the-right-cloud-storage-insider-ratings-and-tests-cnet/"><u>The Ultimate Guide to Choosing the Right Cloud Storage : Insider Ratings & Tests | CNET</u></a></li>
+<li><a href="https://win-special.techidaily.com/unveiling-the-author-of-ancient-chinese-encyclopaedia-insights-from-yl-computing-and-software/"><u>Unveiling the Author of Ancient Chinese Encyclopaedia: Insights From YL Computing and Software</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

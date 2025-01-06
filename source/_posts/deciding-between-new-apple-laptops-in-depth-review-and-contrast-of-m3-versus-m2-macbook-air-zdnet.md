@@ -1,7 +1,7 @@
 ---
 title: "Deciding Between New Apple Laptops: In-Depth Review and Contrast of M3 Versus M2 MacBook Air | ZDNet"
-date: 2024-12-17T00:05:26.901Z
-updated: 2024-12-21T18:37:58.831Z
+date: 2024-12-30T05:01:38.875Z
+updated: 2025-01-05T16:49:52.764Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -65,7 +65,7 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -75,7 +75,7 @@ Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
@@ -133,7 +133,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -150,10 +150,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -169,6 +165,10 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,16 +204,18 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-s23plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel S23+ by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-ultimate-converter-mp4-videos-to-facebook/"><u>In 2024, Ultimate Converter MP4 Videos to Facebook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimize-your-site-performance-using-cookiebots-advanced-analytics-tools/"><u>Optimize Your Site Performance Using Cookiebot's Advanced Analytics Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimize-your-sites-performance-using-cookiebot-technology/"><u>Optimize Your Site's Performance Using Cookiebot Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-website-analytics-using-the-latest-cookiebot-solutions/"><u>Revolutionize Your Website Analytics Using the Latest Cookiebot Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-accounts-payable-with-abbyy-solutions-the-key-to-streamlining-adactus-housing-groups-bills/"><u>Transform Your Accounts Payable with ABBYY Solutions - The Key to Streamlining Adactus Housing Group's Bills</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-steelseries-arctis-pro-headset-microphone-issues/"><u>Troubleshooting Guide: Fixing SteelSeries Arctis Pro Headset Microphone Issues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-advanced-traffic-insights-with-our-cookiebot-technology-integration/"><u>Unlocking Advanced Traffic Insights with Our Cookiebot Technology Integration</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-flawless-faces-in-fcpx-a-plugin-free-approach-to-skin-smoothing/"><u>Updated 2024 Approved Flawless Faces in FCPX A Plugin-Free Approach to Skin Smoothing</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-make-a-heartfelt-video-montage-with-pictures-and-songs/"><u>Updated Make a Heartfelt Video Montage with Pictures and Songs</u></a></li>
-<li><a href="https://win11.techidaily.com/winrars-file-consistency-fixing-summation-discrepancies/"><u>WinRAR's File Consistency: Fixing Summation Discrepancies</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-generating-attention-grabbing-video-teasers/"><u>[New] 2024 Approved Generating Attention-Grabbing Video Teasers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expertise-in-film-perfecting-the-art-of-chroma-key-for-2024/"><u>[New] Expertise in Film Perfecting the Art of Chroma Key for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-from-boredom-to-attention-unveiling-the-6-key-videos-for-2024/"><u>[New] From Boredom to Attention Unveiling the 6 Key Videos for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-premier-filmmaking-software-on-iphones-for-2024/"><u>[New] Premier Filmmaking Software on iPhones for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tailoring-audio-diminution-process/"><u>[New] Tailoring Audio Diminution Process</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unleashing-creativity-with-aiseesofts-screencast-innovations/"><u>[Updated] 2024 Approved Unleashing Creativity with Aiseesoft's Screencast Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/are-you-ready-to-leverage-ai-right-from-your-smartphone-mediatek-unveils-revolutionary-processor-technology-zdnet-exclusive/"><u>Are You Ready to Leverage AI Right From Your Smartphone? MediaTek Unveils Revolutionary Processor Technology | ZDNet Exclusive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-talent-how-zdnet-helps-you-master-new-competencies-without-focusing-solely-on-artificial-intelligence/"><u>Boosting Talent: How ZDNet Helps You Master New Competencies Without Focusing Solely on Artificial Intelligence</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-mobile-beat-benders-for-android-and-ios-devices/"><u>In 2024, Mobile Beat Benders for Android and iOS Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-look-with-raspberry-pis-top-executive-on-the-game-changing-70-artificial-intelligence-kit/"><u>Inside Look with Raspberry Pi's Top Executive on the Game-Changing $70 Artificial Intelligence Kit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/project-frontier-dells-latest-leap-into-advanced-edge-computing-solutions-discover-on-zdnet/"><u>Project Frontier: Dell's Latest Leap Into Advanced Edge Computing Solutions | Discover on ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ct-management-fees/"><u>Project Management Fees</u></a></li>
+<li><a href="https://some-tips.techidaily.com/surpassing-artificial-intelligence-the-rapidly-growing-tech-trend-transforming-the-industry-insights-from-zdnet/"><u>Surpassing Artificial Intelligence: The Rapidly Growing Tech Trend Transforming the Industry - Insights From ZDNet</u></a></li>
 </ul></div>
 

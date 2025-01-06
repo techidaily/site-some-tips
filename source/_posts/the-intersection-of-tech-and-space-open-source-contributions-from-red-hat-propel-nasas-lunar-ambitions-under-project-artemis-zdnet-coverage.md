@@ -1,7 +1,7 @@
 ---
 title: "The Intersection of Tech & Space: Open Source Contributions From Red Hat Propel NASA's Lunar Ambitions Under Project Artemis | ZDNET Coverage"
-date: 2024-09-18 11:31:23
-updated: 2024-09-20 10:35:17
+date: 2025-01-04T19:17:22.203Z
+updated: 2025-01-05T17:42:33.612Z
 tags:
   - cloud
 categories:
@@ -74,11 +74,32 @@ The teams are dedicated to preparing for a safe and successful flight, signaling
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/armonize-body-and-mind-through-these-top-10-yogis-videos/"><u>[New] Harmonize Body and Mind Through These Top 10 Yogis' Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-gleaming-graphics-the-art-of-crafting-insta-highlights-3-ways/"><u>[Updated] In 2024, Gleaming Graphics The Art of Crafting Insta Highlights (3 Ways)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-7-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 7? Find the Best Solution Here</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-professionalism-the-best-practices-for-post-upload-editing-for-2024/"><u>Crafting Professionalism The Best Practices for Post-Upload Editing for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-guide-for-setting-tiktok-countdown-timer/"><u>In 2024, Best Guide for Setting TikTok Countdown Timer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/multilateral-cybersecurity-alliances-a-government-perspective-on-global-cooperation-efficacy-insights-from-a-zdnet-analysis/"><u>Multilateral Cybersecurity Alliances: A Government Perspective on Global Cooperation Efficacy - Insights From a ZDNet Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-visual-output-fix-unsupported-time-codes-in-your-current-monitor-setup/"><u>Optimizing Visual Output - Fix Unsupported Time Codes in Your Current Monitor Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/preserve-dormant-google-id-numbers-avoid-next-months-account-vanishing-act-with-expert-strategies-zdnet-guide/"><u>Preserve Dormant Google ID Numbers: Avoid Next Month's Account Vanishing Act with Expert Strategies - ZDNet Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/restore-lost-airdrop-functionality-with-easy-solutions-for-iosmacos/"><u>Restore Lost Airdrop Functionality with Easy Solutions for iOS/macOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/review-for-dji-phantom-3-standard/"><u>Review for DJI Phantom 3 Standard</u></a></li>
+<li><a href="https://some-tips.techidaily.com/section-4a-advanced-soil-mechanics-and-compaction-modeling/"><u>Section 4A: Advanced Soil Mechanics and Compaction Modeling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/surprising-cloud-service-cost-hike-leaves-companebackshocked-seeking-alternatives-techcrunch/"><u>Surprising Cloud Service Cost Hike Leaves Companebackshocked, Seeking Alternatives | TechCrunch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-innovators-challenge-executives-demand-swift-transformation-for-future-success-zdnet-insights/"><u>Tech Innovators Challenge Executives: Demand Swift Transformation for Future Success | ZDNet Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-cloud-hosting-platforms-comprehensive-evaluation-and-reviews/"><u>Top-Ranked Cloud Hosting Platforms: Comprehensive Evaluation & Reviews</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: How Enterprises Face Challenges in Optimizing Hybrid Cloud Solutions - ZDNet
-date: 2024-09-17 20:21:16
-updated: 2024-09-20 12:42:43
+date: 2025-01-05T00:49:24.092Z
+updated: 2025-01-05T17:44:28.101Z
 tags:
   - cloud
 categories:
@@ -21,6 +21,10 @@ However, these are largely proprietary, making it difficult to navigate applicat
 
 "When customers think about hybrid, it's about being able to move their workloads between on-premises and public cloud as well as between \[different\] cloud platforms," Yang said in an interview with ZDNET. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cloud
 
 * [​What is digital transformation? Everything you need to know](https://www.zdnet.com/article/what-is-digital-transformation-everything-you-need-to-know-about-how-technology-is-reshaping/)
@@ -37,6 +41,10 @@ He said HPE is looking to plug the gaps and offer a "unified" experience through
 **Also:** [**How edge-to-cloud is driving the next stage of digital transformation**](https://www.zdnet.com/article/how-edge-to-cloud-is-driving-the-next-stage-of-digital-transformation/)
 
 The tech vendor is pitching its [GreenLake](https://www.zdnet.com/article/hpe-expands-greenlake-with-new-cloud-services-silicon-on-demand-and-more/) as a cloud management platform that enables businesses to manage their workloads and data across multiple public clouds, data centers, and edge networks. Its GreenLake Central provides a single, integrated control plane and self-service portal, from which customers get a unified view of their IT operations across the hybrid environments as well as monitor various metrics, including usage, security, cost, and compliance. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Private 5G networks can offer businesses more autonomy
 
@@ -59,6 +67,10 @@ For now, Yang said HPE's Singapore strategy centers around GreenLake alongside d
 When asked about the potential of generative AI such as ChatGPT, he underscored the need to look past the hype and assess its ability to scale. He noted that the compute and storage power that backs ChatGPT is significant, so there is work to be done around sustainability and optimization before it can be scaled. 
 
 There also should be focus on how the data and content that powers ChatGPT can be kept secured, he added. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### RELATED COVERAGE
 
@@ -94,11 +106,33 @@ There also should be focus on how the data and content that powers ChatGPT can b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-approaches-to-mend-obs-fullscreen-errors/"><u>[New] 2024 Approved Approaches to Mend OBS Fullscreen Errors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-collab-videos-and-grow-your-channel-in-2024/"><u>[Updated] How to Make Collab Videos and Grow Your Channel, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-blur-no-more-top-10-web-photo-sharpening-apps/"><u>2024 Approved Blur No More! Top 10 Web Photo Sharpening Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024s-most-economical-and-efficient-web-hosting-solutions-professional-ratings-and-comparisons-zdnet/"><u>2024'S Most Economical and Efficient Web Hosting Solutions: Professional Ratings & Comparisons | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-and-cloud-computing-the-power-duo-propelling-alliances-toward-future-success-insights-from-zdnet/"><u>AI & Cloud Computing: The Power Duo Propelling Alliances Toward Future Success - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723200038887-easy-fix-to-your-pc-cant-project-to-another-screen-error/"><u>Easy Fix to Your PC Can’t Project to Another Screen Error</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/essential-mp4-player-insights-for-2024/"><u>Essential MP4 Player Insights for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-15-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 15 Pro?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-130-music-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia 130 Music Phone that is Locked?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-12-pro-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 12 Pro Activation Lock</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-pro-tips-chromebooks-finest-pencil-based-software/"><u>In 2024, Pro Tips Chromebook's Finest Pencil-Based Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/is-financial-compensation-behind-product-evaluations/"><u>Is Financial Compensation Behind Product Evaluations?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-the-advanced-iphone-16-worth-your-investment-a-critical-review-by-experts-at-zdnet/"><u>Is the Advanced iPhone 16 Worth Your Investment? A Critical Review by Experts at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-deal-making-in-todays-highly-competitive-cloud-market-strategies-from-zdnet/"><u>Mastering the Art of Deal-Making in Today’s Highly Competitive Cloud Market: Strategies From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/microsoft-revamps-consumer-strategy-another-update-techcrunch/"><u>Microsoft Revamps Consumer Strategy - Another Update | TechCrunch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-cloud-security-with-googles-new-duet-ai-solution-latest-developments-covered-by-zdnet/"><u>Navigating Cloud Security with Google's New Duet AI Solution - Latest Developments Covered by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-impact-of-cutting-edge-artificnial-intelligence-on-the-future-of-the-iphone-16-an-insight-by-zdnet/"><u>The Impact of Cutting-Edge Artificnial Intelligence on the Future of the iPhone 16: An Insight by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-importance-of-cloud-security-a-comprehensive-guide-forbes/"><u>Understanding the Importance of Cloud Security: A Comprehensive Guide | Forbes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/united-accuracy-the-journey-to-satisfactory-climate-insights-with-a-team-of-180-expert-meteorologists/"><u>United Accuracy: The Journey to 'Satisfactory' Climate Insights with a Team of 180 Expert Meteorologists</u></a></li>
+</ul></div>
+

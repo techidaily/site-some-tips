@@ -1,7 +1,7 @@
 ---
 title: "Securing Corporate Assets: The Role of SSO & MFA in Protecting Enterprise Infrastructure | ZDNet"
-date: 2024-09-17 20:24:59
-updated: 2024-09-20 12:31:59
+date: 2024-12-30T03:14:51.939Z
+updated: 2025-01-06T01:55:05.548Z
 tags:
   - cloud
 categories:
@@ -36,6 +36,10 @@ Generali is one of the one of the largest insurance and asset management provide
 But while many businesses suddenly had to shift towards a hybrid model without having planned for it in 2020, Generali was already examining a cloud-based approach to work over a year before that, so the company was in a good place to adapt to the new world of work. 
 
 "We think we were ahead of the curve," says Winter. "We don't have datacenters, everything is in the cloud. It's either software-as-a-service or platform-as-a-service."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -96,11 +100,24 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-find-your-favorite-general-knowledge-quiz-channel-of-the-year-24/"><u>[New] 2024 Approved Find Your Favorite General Knowledge Quiz Channel of the Year, '24</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-success-try-these-proven-traffic-boosters/"><u>[New] Unlocking YouTube Success Try These Proven Traffic Boosters</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-9-complimentary-christmas-films-on-youtube/"><u>2024 Approved Top 9 Complimentary Christmas Films on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/businesses-in-singapore-battling-rising-threats-of-ransomware-and-phishing-insights-from-zdnet/"><u>Businesses in Singapore Battling Rising Threats of Ransomware & Phishing: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-google-one-benefits-and-pricing-can-this-cloud-solution-be-cost-effective-for-you/"><u>Decoding Google One Benefits & Pricing - Can This Cloud Solution Be Cost-Effective for You?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/devops-craze-continues-to-heat-up-yet-experts-agree-on-the-imperative-for-enhanced-practices-zdnet/"><u>DevOps Craze Continues to Heat Up, Yet Experts Agree on the Imperative for Enhanced Practices | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-linuxone-4-express-is-ibms-affordable-mainframe-the-perfect-fit-for-your-business-insights-from-zdnet/"><u>Discovering LinuxONE 4 Express: Is IBM’s Affordable Mainframe the Perfect Fit for Your Business? Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-solve-acrocefexe-malfunctioning-issues/"><u>Step-by-Step Guide to Solve Acrocef.exe Malfunctioning Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-converting-ifo-files-to-mp4-format-for-both-pc-and-mac/"><u>Step-by-Step Guide: Converting IFO Files to MP4 Format for Both PC and MAC</u></a></li>
+<li><a href="https://games-able.techidaily.com/time-traveling-titles-adjust-region-settings-on-xbox/"><u>Time Traveling Titles: Adjust Region Settings on Xbox</u></a></li>
+</ul></div>
+

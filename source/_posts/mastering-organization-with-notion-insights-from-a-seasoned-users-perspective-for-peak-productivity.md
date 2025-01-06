@@ -1,7 +1,7 @@
 ---
 title: "Mastering Organization with Notion: Insights From a Seasoned User's Perspective for Peak Productivity"
-date: 2024-09-19 21:29:19
-updated: 2024-09-20 11:17:43
+date: 2024-12-31T05:11:45.502Z
+updated: 2025-01-05T19:42:08.623Z
 tags:
   - cloud
 categories:
@@ -38,6 +38,10 @@ Probably one of the easiest ways for you to understand Notion is for me to show 
 
 Keep in mind that these examples are about how I use Notion. One of the biggest benefits to Notion is that you can sculpt it to your unique needs. Another benefit is that you can always tweak and update your implementations so it grows as you do. So my uses have been sculpted into my workflow. Yours, of course, will fit what you need to do every day.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Review product tracker
 
 I can't recall if this was the first project I set up, but it's certainly one of the first. As a tech columnist and product reviewer, I get an enormous flow of review products that show up to be reviewed. I needed to keep track of the products and status of their reviews. To manage this, I started with a kanban board, or what Notion calls the board view. If you think this looks a lot like Trello, you're not wrong. Notion has a full Trello-like implementation as just one of its tools. 
@@ -71,6 +75,10 @@ For example, here's part of a page with print settings and G-code (the code that
 
 The graphics and code from that set of notes wound up in my [Creality Sermoon D1 article](https://www.zdnet.com/article/creality-sermoon-d1-review-3d-printer-under-700/) and [video](https://youtu.be/7T56N-XZPA0).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Project management database
 
 Another powerful data structure is the table. I use one to track all my assigned projects at ZDNet. 
@@ -81,6 +89,10 @@ You can even cross-reference tables. For example, I have a set of tables that tr
 
 When my firm got involved in an international acquisition last year, I put together a massive table that tracked all the moving parts, had detailed notes in the various fields, and allowed us to manage the transition across continents. That was all managed in Notion. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lab notes
 
 I'll give you one more example before talking more about Notion in general. I wish I had started this section years ago because it's so helpful. Lab Notes is arranged as a gallery. It consists of a set of pages related to many different projects my wife and I are working on. 
@@ -88,6 +100,10 @@ I'll give you one more example before talking more about Notion in general. I wi
 Each note captures different information. Some just contain dimensions. Some contain detailed instructions for repeating a project. Some are filled with photos and images, while others just have links. The point is if we're involved in a project and want to remember the details, this is an organized place to put it. And because there are fields here as well, we can easily select those projects that are related to the Fab Lab or those related to my wife's projects, or those related to gear configuration and management. 
 
 Note the project in the lower-left corner above. That became [my first big CNC project](https://www.zdnet.com/article/my-first-big-cnc-project-a-parts-organizer-rack/), which I showed you last month. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The notion of Notion
 
@@ -138,6 +154,10 @@ In reality, you don't need to worry. The fact is, Notion is located in San Franc
 
 [Notion View now at Notion](https://www.notion.so/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 I'm at more than 2,200 words, and I've just scratched the surface of this tool. I didn't touch on any of the application integrations, the API, or how other users are using it. But that's okay. The key is deciding whether to try it out, and I can't see any reason why you shouldn't. 
@@ -173,11 +193,29 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-how-vr-movie-might-change-the-world-for-2024/"><u>[New] How VR Movie Might Change the World for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-navigating-tiny-worlds-5-ways-to-zoom-in-on-minecraft/"><u>[Updated] 2024 Approved Navigating Tiny Worlds 5 Ways to Zoom In on Minecraft</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-effective-naming-adjustments-for-google-meet-users-laptopmobile/"><u>[Updated] In 2024, Effective Naming Adjustments for Google Meet Users (Laptop/Mobile)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-safeguarding-your-snaps-secure-backup-from-phone-to-snapchat/"><u>2024 Approved Safeguarding Your Snaps Secure Backup From Phone to Snapchat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/every-workers-future-building-and-utilizing-ai-as-a-universal-skill-insights-from-zdnet/"><u>Every Worker's Future: Building & Utilizing AI as a Universal Skill - Insights From ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-does-apple-protect-your-cloud-based-ai-information-understanding-its-importance/"><u>How Does Apple Protect Your Cloud-Based AI Information? Understanding Its Importance.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/marking-20-years-in-tech-how-canonical-has-revolutionized-the-ubuntu-ecosystem/"><u>Marking 20 Years in Tech: How Canonical Has Revolutionized the Ubuntu Ecosystem</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-source-download-and-install-broadcoms-bluetooth-drivers-for-win11-win8-and-win7-systems/"><u>The Ultimate Source: Download & Install Broadcom's Bluetooth Drivers for Win11, Win8 & Win7 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unpacking-challenges-how-meta-faces-obstacles-translating-into-greek-armenian-and-oromo-insights-from-zdnet/"><u>Unpacking Challenges: How Meta Faces Obstacles Translating Into Greek, Armenian, and Oromo – Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-ai-developments-and-rusts-role-in-modernizing-the-linux-kernel-with-linus-torvalds-expert-perspectives-from-zdnet/"><u>Unveiling AI Developments and Rust's Role in Modernizing the Linux Kernel with Linus Torvalds | Expert Perspectives From ZDNET</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-here-you-will-get-to-know-about-some-of-the-best-video-making-apps-that-you-can-use-to-create-reactions-not-only-for-tiktok-but-for-many-other-such-/"><u>Updated Here You Will Get to Know About some of the Best Video-Making Apps that You Can Use to Create Reactions Not only for TikTok but for Many Other Such Platforms that Are Available These Days</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-nokia-c12-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Nokia C12 Pro Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-the-seamless-transition-to-kde-plasma-n6-is-a-win-for-users-my-personal-review-zdnet/"><u>Why the Seamless Transition to KDE Plasma N6 Is a Win for Users: My Personal Review | ZDNET</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Cloud Transition: Assessing Environmental Impacts and Sustainability Practices"
-date: 2024-09-19 20:43:12
-updated: 2024-09-20 10:19:21
+date: 2024-12-31T02:52:01.967Z
+updated: 2025-01-05T21:32:21.850Z
 tags:
   - cloud
 categories:
@@ -25,6 +25,10 @@ Now it's certainly the case that the cloud helps enable a fairly low-carbon foot
 
 Before attempting to determine how green the cloud is, it's worth revisiting just what exactly the 'cloud' is. This somewhat cryptic tech term simply refers to computing services delivered over the internet. That definition covers everything from applications like Instagram or Google Search to foundational computing services like processing power and data storage. Companies can decide to manage their digital operations on their own servers (typically in an on-premises data center) or via a cloud provider like Google Cloud, Amazon Web Services or Microsoft Azure. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More data doesn't equal more energy consumption
 
 Given the way the digital economy has exploded over the past two decades, it'd be easy to assume that the cloud's carbon footprint has also spiked. Luckily, that's not the case. 
@@ -32,6 +36,10 @@ Given the way the digital economy has exploded over the past two decades, it'd b
 Research published in 2020 found that the [computing output of data centers increased 550%](https://science.sciencemag.org/content/367/6481/984) between 2010 and 2018\. However, energy consumption from those data centers grew just 6%. As of 2018, data centers consumed about 1% of the world's electricity output. 
 
 The tech industry has managed to keep its energy consumption requirements in check by making huge energy efficiency improvements, as well as taking a range of other strategic moves. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Cloud vs data centers
 
@@ -46,6 +54,10 @@ But mostly organizations aren't moving to make their operations more sustainable
 **Also:** [**Tech for a sustainable future: The challenges and opportunities ahead**](https://www.zdnet.com/home-and-office/sustainability/tech-for-a-sustainable-future-the-challenges-and-opportunities-ahead/)
 
 One major reason service providers could run more efficiently, he says, is simply that their infrastructure is newer and more efficient. Many existing corporate data centers are 30 or 40 years old, meaning they aren't taking advantage of more recent gains in energy efficiency.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Renewable energy
 
@@ -71,6 +83,10 @@ Source: Google
 
 "There's still more work to do," she says. "It's going to be much more regional -- how do we talk with regional stakeholders and utilities as they try to change the grids?"
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where is your cloud running? 
 
 Location is an important aspect to consider for anyone trying to assess just how 'green' a specific cloud is, as Trexier suggests. Some of Google's data centers, in places such as Finland, Toronto and Iowa, have a CFE% above 90\. Others, such as data centers in Singapore, Jakarta and South Carolina, are closer to 10% or 20%. 
@@ -86,6 +102,10 @@ Meanwhile, in places like the US South, Texier says there are fewer options for 
 "Big picture right now, there's a lot of demand for renewable energy, not just from Google, but from a lot of corporations," she says.
 
 "It's really been a booming market, which on one side is is really helpful to accelerate the deployment of more renewable energy. On the other side, what we are realizing now is that the needs of deployment of clean energy and renewable energy cannot be met with the current processes that we have."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting more efficient
 
@@ -118,11 +138,25 @@ Meanwhile, cloud providers are running workloads more efficiently as they design
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-how-to-swiftly-modify-and-verify-your-age-in-tiktok-accounts/"><u>[New] 2024 Approved How to Swiftly Modify and Verify Your Age in TikTok Accounts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-picks-7-exceptional-android-adblocking-apps-for-2024/"><u>[New] Top Picks 7 Exceptional Android AdBlocking Apps for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-iphone-voice-memo-recording-guide/"><u>[Updated] 2024 Approved IPhone Voice Memo Recording Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-creative-tactics-for-medical-ad-success-on-facebook/"><u>[Updated] In 2024, Creative Tactics for Medical Ad Success on Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2022s-leading-cloud-professional-qualifications-as-featured-by-zdnet/"><u>2022'S Leading Cloud Professional Qualifications as Featured by ZDNET</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-free-video-credits-expertise-top-6-maker-guide/"><u>2024 Approved Free Video Credits Expertise - Top 6 Maker Guide!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-3-camera-insight-mastering-video-on-the-go-with-ion/"><u>2024 Approved Pro 3 Camera Insight Mastering Video on the Go with ION</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-computing-takes-the-lead-as-singapore-allocates-more-funds-to-ict-insights-and-analysis-itinsight/"><u>Cloud Computing Takes the Lead as Singapore Allocates More Funds to ICT - Insights and Analysis | ITInsight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evolution-of-development-roles-insights-from-atlassians-agnes-ro-a-deep-dive-by-zdnet/"><u>Evolution of Development Roles: Insights From Atlassian's Agnes Ro - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-microsofts-latest-innovation-two-ai-assistants-for-better-sales-and-support-zdnet/"><u>Exploring Microsoft's Latest Innovation: Two AI Assistants for Better Sales and Support | ZDNET</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
+

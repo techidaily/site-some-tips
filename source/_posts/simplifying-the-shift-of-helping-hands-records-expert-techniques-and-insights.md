@@ -1,7 +1,7 @@
 ---
 title: "Simplifying the Shift of Helping Hands Records: Expert Techniques and Insights"
-date: 2024-09-17 10:23:41
-updated: 2024-09-20 11:24:17
+date: 2025-01-03T22:09:55.327Z
+updated: 2025-01-05T23:38:36.802Z
 tags:
   - cloud
 categories:
@@ -18,6 +18,10 @@ By Rawpixel.com -- Shutterstock
 It's a tough decision. On the one hand, you've got a ton of mission-critical data deeply entwined with an existing software solution that manages it all. On the other hand, that software solution is failing, and it looks like it's only going to get worse. Do you migrate (with all the pitfalls that might entail), or do you just ride it down until your solution inevitably crashes and burns? 
 
 I was recently faced with that decision over my help desk software. I had about five years of customer cases tied up inside a product called [Awesome Support](https://wordpress.org/plugins/awesome-support/). This WordPress plugin provides help desk capability right inside the WordPress dashboard. Awesome Support was originally awesome and was still awesome when it worked, but it was starting to fail. Getting support for problems with Awesome Support was anything but awesome. It was nonexistent. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -49,6 +53,10 @@ Spoiler alert: they did. Fabulously.
 
 As you can see from the image below, the company offers a wide range of source and destination services to convert between. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The migration process 
 
 You start by choosing your source platform and providing any necessary credentials or API keys so help-desk-migration.com can read in the data. 
@@ -76,6 +84,10 @@ Here's what it looked like:
 Basically, if there was either a first or a last name, but not both, dumping "Last Name" in the field was troublesome. After some back-and-forth email about what their system could handle and what would work for me, we settled on putting a dash in place if there was no last name in the user record. 
 
 We ran into one more snag where there was a record in my source database that was somehow a problem. The Relokia folks helped me find and clear that record, at which point I was able to fully complete the migration. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The rest of the story 
 
@@ -118,11 +130,27 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-view-comments-on-youtube/"><u>[New] How to View Comments on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-a-comprehensive-guide-to-successful-fb-cover-video-strategies/"><u>[New] In 2024, A Comprehensive Guide to Successful FB Cover Video Strategies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-foremost-pick-premium-audio-ringtone-artisans/"><u>[New] In 2024, Foremost Pick Premium Audio Ringtone Artisans</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-demographic-relevance-for-higher-youtube-rankings/"><u>[Updated] Demographic Relevance for Higher YouTube Rankings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-leveraging-insights-from-paralympic-data-a-strategy-to-reduce-energy-consumption-in-future-olympic-events/"><u>1. Leveraging Insights From Paralympic Data: A Strategy to Reduce Energy Consumption in Future Olympic Events</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-enhances-icloud-on-windows-platform-with-latest-updates-and-bug-fixes-techworld-news/"><u>Apple Enhances iCloud on Windows Platform with Latest Updates and Bug Fixes - TechWorld News</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-unsung-free-speech-to-text-apps-for-your-mac-for-2024/"><u>Best Unsung Free Speech-to-Text Apps for Your Mac for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/collaborative-development-of-regional-llms-as-google-enters-the-fray-insights-from-zdnet/"><u>Collaborative Development of Regional LLMs as Google Enters the Fray - Insights From ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/heartfelt-hymns-in-hushed-harmonies/"><u>Heartfelt Hymns in Hushed Harmonies</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-f14-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy F14 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-from-video-to-audio-quickly-create-mp3-from-youtube-on-mac/"><u>In 2024, From Video to Audio Quickly Create MP3 From YouTube on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/instant-solution-for-lost-google-chrome-icon-previews-on-bookmarks-uncovered-by-zdnet/"><u>Instant Solution for Lost Google Chrome Icon Previews on Bookmarks, Uncovered by ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rising-cloud-usage-amplifies-tech-pros-role-in-corporate-management-insights-from-zdnet/"><u>Rising Cloud Usage Amplifies Tech Pros' Role in Corporate Management: Insights From ZDNet</u></a></li>
+</ul></div>
+
